@@ -5,28 +5,98 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Tue, 09 Jun 2026 10:43:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 13:56:38 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[20min] Ein gewählter Vertreter will jährliche Beurteilungen für Lehrer einführen</title>
+      <title>[Srf] Streit um das Schweizerkreuz – Laufschuhkonzern On setzte Behörden unter Druck</title>
+      <link>https://www.srf.ch/news/wirtschaft/streit-um-das-schweizerkreuz-laufschuhkonzern-on-setzte-behoerden-unter-druck</link>
+      <guid isPermaLink="false">urn:srf:article:019eab76-9f22-fcf8-8167-6055d5a0125f</guid>
+      <description><![CDATA[On drohte dem Institut für Geistiges Eigentum mit einer Staatshaftungsklage, um neue Swissness-Regeln durchzusetzen.]]></description>
+      <pubDate>Tue, 09 Jun 2026 13:55:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Nationaler Finanzausgleich – Finanzausgleich 2027: Die Profiteure sind Bern, Wallis und Aargau</title>
+      <link>https://www.srf.ch/news/wirtschaft/nationaler-finanzausgleich-finanzausgleich-2027-die-profiteure-sind-bern-wallis-und-aargau</link>
+      <guid isPermaLink="false">urn:srf:article:019eab62-bb14-93d5-07c9-aba2abdf9fc9</guid>
+      <description><![CDATA[Insgesamt fliesst im Jahr 2027 mehr Geld von finanzstarken Kantonen zu den finanzschwachen als in diesem Jahr.]]></description>
+      <pubDate>Tue, 09 Jun 2026 13:46:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Neue Studienergebnisse – Psilocybin hilft bei austherapierten Depressionen</title>
+      <link>https://www.srf.ch/wissen/gesundheit/neue-studienergebnisse-psilocybin-hilft-bei-austherapierten-depressionen</link>
+      <guid isPermaLink="false">urn:srf:article:019ea7a1-82d8-507b-7a48-e191c34dd8b1</guid>
+      <description><![CDATA[Die psychedelische Substanz wirkt auch unter realen Bedingungen bei schweren Depressionen, ist aber kein Wundermittel.]]></description>
+      <pubDate>Tue, 09 Jun 2026 13:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Session: Vier statt zwölf Mal – Kein Extra-«Lädälä» am Sonntag</title>
+      <link>https://www.srf.ch/news/schweiz/session-vier-statt-zwoelf-mal-kein-extra-laedaelae-am-sonntag</link>
+      <guid isPermaLink="false">urn:srf:article:019eab43-79af-09f4-d778-5588d7c24077</guid>
+      <description><![CDATA[Eine parteiübergreifende Allianz setzt sich durch: Die Kantone sollen keine weiteren Sonntagsverkäufe bewilligen können.]]></description>
+      <pubDate>Tue, 09 Jun 2026 13:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Europäisches Kampfjet-Projekt – Deutschland und Frankreich ziehen die Reissleine</title>
+      <link>https://www.srf.ch/news/international/europaeisches-kampfjet-projekt-deutschland-und-frankreich-ziehen-die-reissleine</link>
+      <guid isPermaLink="false">urn:srf:article:019eac1f-2a4b-6a32-aff2-e7a3bb42fafb</guid>
+      <description><![CDATA[Das grösste europäische Rüstungsprojekt ist gestorben. Es war ein Tod mit Ansage. Der Rückschlag ist gravierend.]]></description>
+      <pubDate>Tue, 09 Jun 2026 13:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Sommersession 2026 – Neubauverbot für AKW auf der Kippe: Entscheid erst nächste Woche</title>
+      <link>https://www.srf.ch/news/schweiz/sommersession-2026-neubauverbot-fuer-akw-auf-der-kippe-entscheid-erst-naechste-woche</link>
+      <guid isPermaLink="false">urn:srf:article:019e82e6-9c05-3f2e-957e-83b4f5af2e57</guid>
+      <description><![CDATA[In Bern läuft die Sommersession der Eidgenössischen Räte. Die wichtigsten Debatten und Entscheide in der Übersicht.]]></description>
+      <pubDate>Tue, 09 Jun 2026 12:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Wettkampf der KI-Konzerne – Auch OpenAI will an die Börse – Details bleiben geheim</title>
+      <link>https://www.srf.ch/news/wirtschaft/wettkampf-der-ki-konzerne-auch-openai-will-an-die-boerse-details-bleiben-geheim</link>
+      <guid isPermaLink="false">urn:srf:article:019eaa8f-7bd7-9eb6-aae0-cca28a51d925</guid>
+      <description><![CDATA[Der ChatGPT-Entwickler nimmt Kurs auf die Börse. Zugleich signalisiert die Firma, dass man sich damit Zeit nehmen wolle.]]></description>
+      <pubDate>Tue, 09 Jun 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Rts] Das Théâtre de Vidy enthüllt eine erste Spielzeit-Hälfte 2026-2027 mit vielen Eigenproduktionen</title>
+      <link>https://www.rts.ch/info/culture/spectacles/2026/article/le-theatre-vidy-lausanne-annonce-une-partie-de-sa-nouvelle-saison-29267777.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29267777</guid>
+      <description><![CDATA[Das Théâtre Vidy-Lausanne hat am Montag die erste Hälfte seiner neuen Spielzeit von September 2026 bis Februar 2027 vorgestellt. Auf dem Programm stehen rund fünfzig Stücke mit 270 Aufführungen, davon zwei Drittel Eigenproduktionen.]]></description>
+      <pubDate>Tue, 09 Jun 2026 11:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Elon Musks Weltraumunternehmen – Ökonom zu Börsengang von SpaceX: «Es ist hochspekulativ»</title>
+      <link>https://www.srf.ch/news/wirtschaft/elon-musks-weltraumunternehmen-oekonom-zu-boersengang-von-spacex-es-ist-hochspekulativ</link>
+      <guid isPermaLink="false">urn:srf:article:019e4af2-29e6-6329-3611-d92e0530850a</guid>
+      <description><![CDATA[SpaceX steht vor dem wohl grössten Börsengang aller Zeiten. Thorsten Hens erklärt, ob die Erwartungen berechtigt sind.]]></description>
+      <pubDate>Tue, 09 Jun 2026 11:18:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20min] Un élu veut instaurer des évaluations annuelles pour les profs</title>
       <link>https://www.20min.ch/fr/story/canton-de-vaud-un-elu-veut-instaurer-des-evaluations-annuelles-pour-les-profs-103579034</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-un-elu-veut-instaurer-des-evaluations-annuelles-pour-les-profs-103579034</guid>
-      <description><![CDATA[Der Geschichtsprofessor und grünliberale Nationalrat David Vogel schlägt vor, jährliche Gespräche für Waadtländer Lehrkräfte einzuführen.]]></description>
+      <description><![CDATA[Le professeur d’histoire et député vert-libéral, David Vogel, propose de mettre en place des entretiens annuels pour les enseignants vaudois.]]></description>
       <pubDate>Tue, 09 Jun 2026 09:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Srf] Krebsmedizin – Viele Krebspatienten werden unnötig übertherapiert</title>
-      <link>https://www.srf.ch/wissen/gesundheit/krebsmedizin-viele-krebspatienten-werden-unnoetig-uebertherapiert</link>
+      <title>[Srf] Krebsmedizin – Viele Krebspatienten werden übertherapiert</title>
+      <link>https://www.srf.ch/wissen/gesundheit/krebsmedizin-viele-krebspatienten-werden-uebertherapiert</link>
       <guid isPermaLink="false">urn:srf:article:019ea725-01ee-2767-471a-6b914abe080f</guid>
       <description><![CDATA[Krebspatienten erhalten oft zu hohe Dosen: Weniger Denosumab kann reichen – bei gleicher Wirkung und weniger Risiken.]]></description>
       <pubDate>Tue, 09 Jun 2026 09:49:18 GMT</pubDate>
     </item>
     <item>
-      <title>[20min] Neuer Kampf um die Ladenöffnungszeiten am Sonntag</title>
-      <link>https://www.20min.ch/fr/story/votations-a-geneve-nouveau-combat-autour-de-l-ouverture-des-magasins-le-dimanche-103578647</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/votations-a-geneve-nouveau-combat-autour-de-l-ouverture-des-magasins-le-dimanche-103578647</guid>
-      <description><![CDATA[Die im November abgesagte Abstimmung über zwei Sonntagsöffnungen pro Jahr kommt am 14. Juni erneut an die Urne. Ebenfalls auf der Agenda: religiöse Symbole bei Abgeordneten und Kommunalpolitikern.]]></description>
-      <pubDate>Tue, 09 Jun 2026 08:52:20 GMT</pubDate>
+      <title>[Srf] Anstieg in 2025 – Beratungen wegen Körperverletzung und Drohungen nehmen stark zu</title>
+      <link>https://www.srf.ch/news/schweiz/anstieg-in-2025-beratungen-wegen-koerperverletzung-und-drohungen-nehmen-stark-zu</link>
+      <guid isPermaLink="false">urn:srf:article:019eab56-f820-af65-80dc-90b961ab17bf</guid>
+      <description><![CDATA[Von den 55'260 Beratungen wurden 72 Prozent von weiblichen Opfern oder Angehörigen in Anspruch genommen.]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Krieg in der Ukraine – Die EU plant erneute umfassende Sanktionen gegen Russland</title>
+      <link>https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-die-eu-plant-erneute-umfassende-sanktionen-gegen-russland</link>
+      <guid isPermaLink="false">urn:srf:article:019ea559-543d-11bd-59d1-a7515ac86595</guid>
+      <description><![CDATA[Die Präsidentin der EU-Kommission, Ursula von der Leyen, verkündete heute die geplanten Sanktionen in Brüssel.]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:12:16 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] Alpines Schmetterlingsparadies – «Hier leben mehr als die Hälfte aller Schweizer Tagfalter»</title>
@@ -34,13 +104,6 @@
       <guid isPermaLink="false">urn:srf:article:019e408b-830a-3d46-8a32-3d8db1d45e37</guid>
       <description><![CDATA[In der Schweiz gibt es 3800 Falterarten. Hans-Peter Wymann kennt sie fast alle. Unterwegs im Talkessel von Grindelwald.]]></description>
       <pubDate>Tue, 09 Jun 2026 08:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Srf] Sommersession 2026 – Doch nicht mehr Sonntagsverkäufe: Knappes Nein im Ständerat</title>
-      <link>https://www.srf.ch/news/schweiz/sommersession-2026-doch-nicht-mehr-sonntagsverkaeufe-knappes-nein-im-staenderat</link>
-      <guid isPermaLink="false">urn:srf:article:019e82e6-9c05-3f2e-957e-83b4f5af2e57</guid>
-      <description><![CDATA[In Bern läuft die Sommersession der Eidgenössischen Räte. Die wichtigsten Debatten und Entscheide in der Übersicht.]]></description>
-      <pubDate>Tue, 09 Jun 2026 07:57:17 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] Qualität im Gesundheitswesen – Der Bund streicht der Qualitätskommission Gesundheit Gelder</title>
@@ -57,18 +120,18 @@
       <pubDate>Tue, 09 Jun 2026 07:47:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Srf] Internet im ÖV – Bald kein Gratis-Wlan mehr im Postauto</title>
-      <link>https://www.srf.ch/sendungen/kassensturz-espresso/espresso/internet-im-oev-bald-kein-gratis-wlan-mehr-im-postauto</link>
-      <guid isPermaLink="false">urn:srf:article:019ea760-b2b8-25fe-dae4-157f82252fd6</guid>
-      <description><![CDATA[Auf Ende 2026 stellt Postauto das kostenlose Internet-Angebot für Fahrgäste ein – aus Kostengründen. Es gibt Kritik.]]></description>
-      <pubDate>Tue, 09 Jun 2026 07:20:08 GMT</pubDate>
-    </item>
-    <item>
       <title>[Srf] Von Finnland bis Japan – Atomkraft? Ja, bitte! Wo Kernenergie die Zukunft ist</title>
       <link>https://www.srf.ch/news/international/von-finnland-bis-japan-atomkraft-ja-bitte-wo-kernenergie-die-zukunft-ist</link>
       <guid isPermaLink="false">urn:srf:article:019ea664-0eae-2d23-62d0-3d293e7a16ca</guid>
       <description><![CDATA[Fällt das Schweizer Neubauverbot für AKW? Auch andernorts läuft die Debatte heiss. Unsere Korrespondenten berichten.]]></description>
       <pubDate>Tue, 09 Jun 2026 07:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Rts] Grenzen, Strassen, Bahn, Flüge oder Schifffahrt: Welche Störungen gibt es während des G7-Gipfels?</title>
+      <link>https://www.rts.ch/info/suisse/2026/article/frontieres-routes-rail-vols-ou-navigation-quelles-perturbations-durant-le-g7-29266592.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29266592</guid>
+      <description><![CDATA[Informationen zu den Auswirkungen des G7-Gipfels auf den Verkehr und die Grenzübergänge.]]></description>
+      <pubDate>Tue, 09 Jun 2026 06:48:26 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] «Der Fürst und seine Erben» – Peter Sloterdijk und die Banalität des Grossen</title>
@@ -78,18 +141,25 @@
       <pubDate>Tue, 09 Jun 2026 06:39:37 GMT</pubDate>
     </item>
     <item>
+      <title>[Srf] Angriffe auf Israel und Iran – Nahost-Experte: «Der Iran fühlt sich als Sieger des Krieges»</title>
+      <link>https://www.srf.ch/news/international/angriffe-auf-israel-und-iran-nahost-experte-der-iran-fuehlt-sich-als-sieger-des-krieges</link>
+      <guid isPermaLink="false">urn:srf:article:019eaac2-c309-a094-9653-313c343e57b5</guid>
+      <description><![CDATA[Erstmals seit der Waffenruhe haben Israel und der Iran Raketen aufeinander abgefeuert. Cyrus Schayegh ordnet ein.]]></description>
+      <pubDate>Tue, 09 Jun 2026 06:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Verdacht auf Übergriffe – Chefankläger des Weltstrafgerichts vom Dienst suspendiert</title>
+      <link>https://www.srf.ch/news/international/verdacht-auf-uebergriffe-chefanklaeger-des-weltstrafgerichts-vom-dienst-suspendiert</link>
+      <guid isPermaLink="false">urn:srf:article:019eaabe-6aaa-4661-c746-bc00625978f6</guid>
+      <description><![CDATA[Die Vertragsstaaten werden laut Präsidium bald über eine Amtsenthebung entscheiden. Khan bestreitet die Vorwürfe.]]></description>
+      <pubDate>Tue, 09 Jun 2026 05:33:07 GMT</pubDate>
+    </item>
+    <item>
       <title>[Srf] Neue Essgewohnheiten – Kantinen verlieren Marktanteile – und setzen auf «Ultrafrische»</title>
       <link>https://www.srf.ch/news/wirtschaft/neue-essgewohnheiten-kantinen-verlieren-marktanteile-und-setzen-auf-ultrafrische</link>
       <guid isPermaLink="false">urn:srf:article:019ea656-c7ff-1e64-2b4d-37bb60175897</guid>
       <description><![CDATA[Personalrestaurants haben Marktanteile verloren, auch wegen neuer Konkurrenz.]]></description>
       <pubDate>Tue, 09 Jun 2026 05:10:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20min] Elle s'insurge de voir la banque draguer des mineurs en douce</title>
-      <link>https://www.20min.ch/fr/story/ados-et-finances-elle-s-insurge-de-voir-la-banque-draguer-des-mineurs-en-douce-103578415</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/ados-et-finances-elle-s-insurge-de-voir-la-banque-draguer-des-mineurs-en-douce-103578415</guid>
-      <description><![CDATA[Une adolescente de 15 ans a été invitée à signer un contrat avec un établissement bancaire. Si la pratique est très répandue, elle est illégale sans l'accord des parents.]]></description>
-      <pubDate>Tue, 09 Jun 2026 05:06:10 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] Bilanzfälschung in Indien – Finanzskandal in Indien führt in die Schweiz</title>
@@ -99,18 +169,18 @@
       <pubDate>Tue, 09 Jun 2026 04:31:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Srf] Wettkampf der KI-Konzerne – Auch OpenAI beantragt Börsengang – Details bleiben geheim</title>
-      <link>https://www.srf.ch/news/wirtschaft/wettkampf-der-ki-konzerne-auch-openai-beantragt-boersengang-details-bleiben-geheim</link>
-      <guid isPermaLink="false">urn:srf:article:019eaa8f-7bd7-9eb6-aae0-cca28a51d925</guid>
-      <description><![CDATA[Der ChatGPT-Entwickler nimmt Kurs auf die Börse. Zugleich signalisiert die Firma, dass man sich damit Zeit nehmen wolle.]]></description>
-      <pubDate>Tue, 09 Jun 2026 04:28:58 GMT</pubDate>
-    </item>
-    <item>
       <title>[Srf] Nahe Schweizer Grenze in Evian – Genfer Schreinereien stossen wegen G7-Gipfel an ihre Grenzen</title>
       <link>https://www.srf.ch/news/schweiz/nahe-schweizer-grenze-in-evian-genfer-schreinereien-stossen-wegen-g7-gipfel-an-ihre-grenzen</link>
       <guid isPermaLink="false">urn:srf:article:019ea792-b2a3-f6d9-805a-65cb3aa5d841</guid>
       <description><![CDATA[Teure Schutzmassnahmen, geschlossene Geschäfte und erwartete Umsatzeinbussen sorgen für Unmut bei Gewerblern.]]></description>
       <pubDate>Tue, 09 Jun 2026 04:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Europäische Rüstungspolitik – Deutsch-französisches Kampfjet-Projekt FCAS gescheitert</title>
+      <link>https://www.srf.ch/news/international/europaeische-ruestungspolitik-deutsch-franzoesisches-kampfjet-projekt-fcas-gescheitert</link>
+      <guid isPermaLink="false">urn:srf:article:019ea9d2-872a-8914-096c-d2f1057f06a4</guid>
+      <description><![CDATA[Das milliardenschwere Projekt galt lange als eines der zentralen Vorhaben europäischer Verteidigungszusammenarbeit.]]></description>
+      <pubDate>Tue, 09 Jun 2026 02:21:22 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] Q&amp;A Testosteron – «Macht Testosteronmangel dick – oder ist es umgekehrt?»</title>
@@ -125,6 +195,13 @@
       <guid isPermaLink="false">urn:srf:article:019ea89b-9710-7c75-dfc7-942e3db69450</guid>
       <description><![CDATA[Leitet das Parlament die Renaissance der Atomkraft ein? Die Fronten im Nationalrat sind klar abgesteckt.]]></description>
       <pubDate>Mon, 08 Jun 2026 20:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Wahlen in Armenien – Volk bestätigt EU-Kurs – nun muss Brüssel Paschinjan zügeln</title>
+      <link>https://www.srf.ch/news/international/wahlen-in-armenien-volk-bestaetigt-eu-kurs-nun-muss-bruessel-paschinjan-zuegeln</link>
+      <guid isPermaLink="false">urn:srf:article:019ea7c0-c3bb-8aff-5237-98c3e618f291</guid>
+      <description><![CDATA[Der Premier hat dank seiner positiven Botschaft gewonnen. Doch er droht zur Gefahr für Armeniens Demokratie zu werden.]]></description>
+      <pubDate>Mon, 08 Jun 2026 19:25:24 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] Offener Brief zu UNO-Zielen – Offener Brief kritisiert Abwertung der UNO-Nachhaltigkeitsziele</title>
@@ -148,6 +225,13 @@
       <pubDate>Mon, 08 Jun 2026 17:07:45 GMT</pubDate>
     </item>
     <item>
+      <title>[Srf] USA unter Donald Trump – Die Fussball-WM im Zeichen von Trumps Migrationspolitik</title>
+      <link>https://www.srf.ch/news/international/usa/usa-unter-donald-trump-die-fussball-wm-im-zeichen-von-trumps-migrationspolitik</link>
+      <guid isPermaLink="false">urn:srf:article:019e922f-0dd5-c6d5-da9d-d6acddeb643f</guid>
+      <description><![CDATA[In Kansas City, der «Fussballhauptstadt der USA», prallen Integrationsprojekte und politische Realität aufeinander.]]></description>
+      <pubDate>Mon, 08 Jun 2026 16:55:12 GMT</pubDate>
+    </item>
+    <item>
       <title>[Srf] Hilfe nach Brandkatastrophe – So steht das Walliser Kantonsparlament zur Soforthilfe</title>
       <link>https://www.srf.ch/news/schweiz/hilfe-nach-brandkatastrophe-so-steht-das-walliser-kantonsparlament-zur-soforthilfe</link>
       <guid isPermaLink="false">urn:srf:article:019ea614-c2c8-efca-ee23-e214c92a0662</guid>
@@ -162,11 +246,11 @@
       <pubDate>Mon, 08 Jun 2026 15:07:35 GMT</pubDate>
     </item>
     <item>
-      <title>[20min] Eine Waadtländer Kommission belebt die Idee von personalisierten Tickets wieder</title>
-      <link>https://www.20min.ch/fr/story/violences-dans-les-stades-une-commission-vaudoise-relance-l-idee-des-billets-nominatifs-103578713</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/violences-dans-les-stades-une-commission-vaudoise-relance-l-idee-des-billets-nominatifs-103578713</guid>
-      <description><![CDATA[Angesichts wiederholter Ausschreitungen bei Fussballspielen wollen gewählte Vertreter die Identifizierung von Randalierern erleichtern.]]></description>
-      <pubDate>Mon, 08 Jun 2026 14:01:53 GMT</pubDate>
+      <title>[Srf] Verhältnis Israel–USA – Steht die Beziehung zwischen Trump und Netanjahu vor dem Aus?</title>
+      <link>https://www.srf.ch/news/international/nahost/verhaeltnis-israel-usa-steht-die-beziehung-zwischen-trump-und-netanjahu-vor-dem-aus</link>
+      <guid isPermaLink="false">urn:srf:article:019ea67f-8c1a-0107-1ead-4527094455be</guid>
+      <description><![CDATA[Ein Experte für transatlantische Beziehungen erklärt, welche Folgen ein Zerwürfnis zwischen Trump und Netanjahu hätte.]]></description>
+      <pubDate>Mon, 08 Jun 2026 14:41:58 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] Unterschriftensammlung – Zürcher Langstrasse soll Unesco-Weltkulturerbe werden</title>
@@ -176,11 +260,46 @@
       <pubDate>Mon, 08 Jun 2026 13:38:16 GMT</pubDate>
     </item>
     <item>
-      <title>[Rts] Der Kanton Waadt mobilisiert während des G7-Gipfels 2200 Personen</title>
+      <title>[Srf] Griechenland – Weniger städtische Unterkünfte für minderjährige Asylbewerber</title>
+      <link>https://www.srf.ch/news/international/griechenland-weniger-staedtische-unterkuenfte-fuer-minderjaehrige-asylbewerber</link>
+      <guid isPermaLink="false">urn:srf:article:019ea6ad-720d-0679-30be-d2e53bb2bd0d</guid>
+      <description><![CDATA[Die Regierung will Minderjährige künftig in Camps ausserhalb der Städte unterbringen. Das löst Sorge aus.]]></description>
+      <pubDate>Mon, 08 Jun 2026 13:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Trotz eigener Raffinerien – Weshalb rationiert die russische Regierung Diesel und Benzin?</title>
+      <link>https://www.srf.ch/news/international/trotz-eigener-raffinerien-weshalb-rationiert-die-russische-regierung-diesel-und-benzin</link>
+      <guid isPermaLink="false">urn:srf:article:019ea63c-7656-264e-02c0-cc073dbdbf15</guid>
+      <description><![CDATA[In mehreren Teilen Russlands sind Treibstoffe rationiert worden. Die Gründe dafür vom SRF-Russland-Korrespondenten.]]></description>
+      <pubDate>Mon, 08 Jun 2026 12:57:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Tsunami-Warnung aufgehoben – Über 30 Tote bei Erdbeben vor den Philippinen</title>
+      <link>https://www.srf.ch/news/international/tsunami-warnung-aufgehoben-ueber-30-tote-bei-erdbeben-vor-den-philippinen</link>
+      <guid isPermaLink="false">urn:srf:article:019ea4a3-85a3-948e-cf66-053d52553f43</guid>
+      <description><![CDATA[Die Stärke des Erdbebens vor der Küste der Insel Mindanao betrug 7.8. Das Ausmass der Schäden wird noch untersucht.]]></description>
+      <pubDate>Mon, 08 Jun 2026 11:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Rts] Kanton Waadt mobilisiert während des G7-Gipfels 2200 Personen</title>
       <link>https://www.rts.ch/info/regions/vaud/2026/article/vaud-mobilise-2200-personnes-pour-le-g7-d-evian-avec-donald-trump-29266851.html?rts_source=rss_t</link>
       <guid isPermaLink="false">29266851</guid>
-      <description><![CDATA[Auch Waadt bereitet sich auf den G7-Gipfel in Evian vor. Obwohl der Kanton weniger exponiert ist als Genf, kündigt er verschiedene Sicherheitsmassnahmen an, darunter die Mobilisierung von 2200 Personen (Polizei, Zivilschutz, Zoll, Feuerwehr, Sanität etc.).]]></description>
+      <description><![CDATA[Waadt bereitet sich ebenfalls auf den G7-Gipfel in Evian vor. Obwohl der Kanton weniger im Fokus steht als Genf, wurden Sicherheitsmassnahmen ergriffen, darunter die Mobilisierung von 2200 Personen (Polizei, Zivilschutz, Zoll, Feuerwehr, Sanität etc.).]]></description>
       <pubDate>Mon, 08 Jun 2026 10:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Staatsbesuch in Nordkorea – Xi Jinping sichert Kim Jong-un Unterstützung zu</title>
+      <link>https://www.srf.ch/news/international/staatsbesuch-in-nordkorea-xi-jinping-sichert-kim-jong-un-unterstuetzung-zu</link>
+      <guid isPermaLink="false">urn:srf:article:019ea678-8e05-18a3-ad62-3fab4a484db8</guid>
+      <description><![CDATA[Zuvor hatte der chinesische Staatschef die Absicht geäussert, die Beziehung mit Nordkorea voranzutreiben.]]></description>
+      <pubDate>Mon, 08 Jun 2026 10:47:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] West-Kurs beibehalten – Armenien: Regierungschef Paschinjan gewinnt die Wahl</title>
+      <link>https://www.srf.ch/news/international/west-kurs-beibehalten-armenien-regierungschef-paschinjan-gewinnt-die-wahl</link>
+      <guid isPermaLink="false">urn:srf:article:019ea605-c3b6-1356-92cf-3cbecafee4cc</guid>
+      <description><![CDATA[Die Südkaukasusrepublik bleibt dem Weg nach Europa treu. Doch die Spannungen mit Russland bleiben.]]></description>
+      <pubDate>Mon, 08 Jun 2026 10:05:30 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] Mögliche Vorläufer von DNA – Organische Moleküle auf dem Mars: Ist das schon Leben?</title>
@@ -190,17 +309,17 @@
       <pubDate>Mon, 08 Jun 2026 10:01:48 GMT</pubDate>
     </item>
     <item>
-      <title>[Srf] Weltfussballverband Fifa – Blatter: «Im Grunde sind Infantino und ich geschiedene Leute»</title>
-      <link>https://www.srf.ch/news/gesellschaft/weltfussballverband-fifa-blatter-im-grunde-sind-infantino-und-ich-geschiedene-leute</link>
-      <guid isPermaLink="false">urn:srf:article:019e49c0-0dd4-b1bb-912a-047837859b91</guid>
-      <description><![CDATA[Zwei Walliser und die Fifa: Blatter kritisiert seinen Nachfolger Infantino – und würde ihn trotzdem gerne treffen.]]></description>
-      <pubDate>Mon, 08 Jun 2026 09:31:15 GMT</pubDate>
+      <title>[20min] Rund dreissig Personen nach Chemie-Zwischenfall evakuiert</title>
+      <link>https://www.20min.ch/fr/story/semsales-fr-une-trentaine-de-personnes-evacuees-apres-un-incident-chimique-103578525</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/semsales-fr-une-trentaine-de-personnes-evacuees-apres-un-incident-chimique-103578525</guid>
+      <description><![CDATA[Die Überhitzung eines Behälters mit Aktivkohle erforderte am Montag im Kanton Freiburg einen grösseren Rettungseinsatz. Es gab keine Verletzten.]]></description>
+      <pubDate>Mon, 08 Jun 2026 09:46:29 GMT</pubDate>
     </item>
     <item>
       <title>[20min] «Mit Trump nur 15 km entfernt» – Kanton Waadt verstärkt Sicherheitsvorkehrungen</title>
       <link>https://www.20min.ch/fr/story/sommet-du-g7-avec-trump-a-15-km-d-ici-le-canton-de-vaud-muscle-sa-securite-103578440</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/sommet-du-g7-avec-trump-a-15-km-d-ici-le-canton-de-vaud-muscle-sa-securite-103578440</guid>
-      <description><![CDATA[Die Waadtländer Behörden haben am Montag ein «kalibriertes» Dispositiv vorgestellt, das die Sicherheit während des G7-Gipfels gewährleisten soll. Der Bund übernimmt 80 Prozent der Kosten.]]></description>
+      <description><![CDATA[Die Waadtländer Behörden haben am Montag ein «kalibriertes» Sicherheitskonzept vorgestellt, um die Sicherheit während des G7-Gipfels zu gewährleisten. Der Bund übernimmt 80 Prozent der Kosten.]]></description>
       <pubDate>Mon, 08 Jun 2026 08:26:15 GMT</pubDate>
     </item>
     <item>
@@ -218,6 +337,41 @@
       <pubDate>Mon, 08 Jun 2026 07:25:44 GMT</pubDate>
     </item>
     <item>
+      <title>[Srf] Wahlen im Kosovo – Warum behauptet sich Kosovos Regierungschef Albin Kurti erneut?</title>
+      <link>https://www.srf.ch/news/international/wahlen-im-kosovo-warum-behauptet-sich-kosovos-regierungschef-albin-kurti-erneut</link>
+      <guid isPermaLink="false">urn:srf:article:019ea57d-6c3a-43d2-9f03-ddd7f6145272</guid>
+      <description><![CDATA[Bei den Wahlen im Kosovo sind fast alle Stimmen ausgezählt. Warum wurde Regierungs-Chef Albin Kurti wieder gewählt?]]></description>
+      <pubDate>Mon, 08 Jun 2026 06:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Schnell und günstig – Das Dorf von Shein – hier wird Fast Fashion produziert</title>
+      <link>https://www.srf.ch/news/international/schnell-und-guenstig-das-dorf-von-shein-hier-wird-fast-fashion-produziert</link>
+      <guid isPermaLink="false">urn:srf:article:019e97b0-6e5c-5260-3818-7f151130b455</guid>
+      <description><![CDATA[Fast Fashion aus China ist zum Massenphänomen geworden. In Guangzhou nähen Hunderttausende Kleider fürs In- und Ausland.]]></description>
+      <pubDate>Mon, 08 Jun 2026 06:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Erstmals seit zwei Monaten – Wie ist es zu dieser neuen Eskalation gekommen?</title>
+      <link>https://www.srf.ch/news/international/erstmals-seit-zwei-monaten-wie-ist-es-zu-dieser-neuen-eskalation-gekommen</link>
+      <guid isPermaLink="false">urn:srf:article:019ea554-64c7-5d7c-a163-2f53b781ca46</guid>
+      <description><![CDATA[Erstmals seit April beschiesst der Iran Israel – und Israel antwortet mit Gegenschlägen. Wie ist es dazu gekommen?]]></description>
+      <pubDate>Mon, 08 Jun 2026 05:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Mit Sprengstoff beladene Boote – Seedrohnen vor Rumänien und Griechenland: Das steckt dahinter</title>
+      <link>https://www.srf.ch/news/international/ukraine/mit-sprengstoff-beladene-boote-seedrohnen-vor-rumaenien-und-griechenland-das-steckt-dahinter</link>
+      <guid isPermaLink="false">urn:srf:article:019ea212-ab76-94ba-2531-50d4b80ef8ba</guid>
+      <description><![CDATA[Ukrainische Seedrohnen mussten im Mittelmeer und vor einem rumänischen Hafen gesprengt werden. Wozu dienen sie?]]></description>
+      <pubDate>Mon, 08 Jun 2026 05:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Nach Sipri-Bericht – Abrüstung war gestern, der Abschreckung gehört die Zukunft</title>
+      <link>https://www.srf.ch/news/international/nach-sipri-bericht-abruestung-war-gestern-der-abschreckung-gehoert-die-zukunft</link>
+      <guid isPermaLink="false">urn:srf:article:019ea43a-3912-1d43-1ae3-d8a1daf06084</guid>
+      <description><![CDATA[Forschungsinstitute und NGOs warnen vor der atomaren Apokalypse. SRF-Korrespondent Sebastian Ramspeck ordnet ein.]]></description>
+      <pubDate>Mon, 08 Jun 2026 04:38:48 GMT</pubDate>
+    </item>
+    <item>
       <title>[Srf] Millionen-«Züglete» – Basler Museum zieht um: 12 Millionen Objekte in Bewegung</title>
       <link>https://www.srf.ch/news/schweiz/millionen-zueglete-basler-museum-zieht-um-12-millionen-objekte-in-bewegung</link>
       <guid isPermaLink="false">urn:srf:article:019e966f-3f12-7146-d4ff-4ee93f21d66c</guid>
@@ -228,7 +382,7 @@
       <title>[Rts] Valérie Dittli: «Was ich erlebe, ist von grosser Gewalt»</title>
       <link>https://www.rts.ch/info/regions/vaud/2026/article/valerie-dittli-face-aux-polemiques-ce-que-je-vis-est-d-une-violence-29265886.html?rts_source=rss_t</link>
       <guid isPermaLink="false">29265886</guid>
-      <description><![CDATA[Valérie Dittli beteuert, stets nach bestem Wissen und Gewissen gehandelt zu haben. Obwohl sie Fehler einräumt, verteidigt die Waadtländer Staatsrätin ihr Handeln an der Spitze ihres Departements. Sie liess sich über mehrere Tage von der RTS begleiten.]]></description>
+      <description><![CDATA[Valérie Dittli beteuert, stets nach bestem Wissen und Gewissen gehandelt zu haben. Obwohl sie Fehler einräumt, verteidigt die Waadtländer Staatsrätin ihr Handeln an der Spitze ihres Departements. Sie wurde mehrere Tage lang von RTS begleitet.]]></description>
       <pubDate>Sun, 07 Jun 2026 19:49:10 GMT</pubDate>
     </item>
     <item>
@@ -246,11 +400,32 @@
       <pubDate>Sun, 07 Jun 2026 17:48:33 GMT</pubDate>
     </item>
     <item>
+      <title>[Srf] In Kongo-Kinshasa – Misstrauen erschwert die Ebola-Bekämpfung</title>
+      <link>https://www.srf.ch/news/international/in-kongo-kinshasa-misstrauen-erschwert-die-ebola-bekaempfung</link>
+      <guid isPermaLink="false">urn:srf:article:019e9c67-7b32-c2fb-a77a-5b6b14ad3529</guid>
+      <description><![CDATA[In Kongo-Kinshasa breitet sich Ebola aus. Misstrauen und Falschinformationen behindern die Eindämmung des Virus.]]></description>
+      <pubDate>Sun, 07 Jun 2026 17:03:21 GMT</pubDate>
+    </item>
+    <item>
       <title>[Srf] 250 Personen evakuiert – Hochgiftige Chemikalie bei ETH erfolgreich abtransportiert</title>
       <link>https://www.srf.ch/news/schweiz/250-personen-evakuiert-hochgiftige-chemikalie-bei-eth-erfolgreich-abtransportiert</link>
       <guid isPermaLink="false">urn:srf:article:019ea0bc-9704-a2c6-2c05-c4ba74ec3676</guid>
       <description><![CDATA[Bei der ETH wurde eine gefährliche Chemikalie abtransportiert. Transport und die Evakuierung sind nach Plan verlaufen.]]></description>
       <pubDate>Sun, 07 Jun 2026 16:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Höchster Berg in den Pyrenäen – Am Pico de Aneto tobt ein Kampf um das Gipfelkreuz</title>
+      <link>https://www.srf.ch/news/dialog/hoechster-berg-in-den-pyrenaeen-am-pico-de-aneto-tobt-ein-kampf-um-das-gipfelkreuz</link>
+      <guid isPermaLink="false">urn:srf:article:019e87bb-4a8f-ba7c-f2cd-a5e8f471de9a</guid>
+      <description><![CDATA[Erneut ist in den Pyrenäen ein Gipfelkreuz zerstört worden. Es geht um die Legitimität religiöser Zeichen in der Natur.]]></description>
+      <pubDate>Sun, 07 Jun 2026 16:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Srf] Ukraine – Tschernobyl-Anlage für Atommaterial getroffen</title>
+      <link>https://www.srf.ch/news/international/ukraine-tschernobyl-anlage-fuer-atommaterial-getroffen</link>
+      <guid isPermaLink="false">urn:srf:article:019ea18e-c8fd-10b3-9797-1281119717be</guid>
+      <description><![CDATA[In der Nähe des Atomkraftwerks Tschernobyl hat eine russische Drohne ein Lager für abgebrannte Brennstäbe getroffen.]]></description>
+      <pubDate>Sun, 07 Jun 2026 15:45:47 GMT</pubDate>
     </item>
     <item>
       <title>[Srf] Messerattacke in Winterthur – Praxis der Versiegelung: Politik sieht Handlungsbedarf</title>
@@ -279,20 +454,6 @@
       <guid isPermaLink="false">urn:srf:article:019ea257-8b42-807c-6675-ec23c2acc975</guid>
       <description><![CDATA[Über Nacht sind hierzulande Männer-Denkmäler neu in Erscheinung getreten. Hinter der Aktion steht die Operation Libero.]]></description>
       <pubDate>Sun, 07 Jun 2026 14:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Srf] Erster Kantonschemiker 1876 – Als Brot mit Sägemehl gestreckt wurde</title>
-      <link>https://www.srf.ch/news/schweiz/erster-kantonschemiker-1876-als-brot-mit-saegemehl-gestreckt-wurde</link>
-      <guid isPermaLink="false">urn:srf:article:019e823f-5632-0153-8704-b44fcc7eb81a</guid>
-      <description><![CDATA[Vor 150 Jahren wurde in Luzern der erste Kantonschemiker der Schweiz angestellt.]]></description>
-      <pubDate>Sun, 07 Jun 2026 11:53:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Rts] Staus in Genf und Lausanne: Massnahmen zur Entlastung der Städte</title>
-      <link>https://www.rts.ch/info/regions/geneve/2026/article/embouteillages-a-geneve-et-lausanne-les-solutions-pour-fluidifier-le-trafic-29264577.html?rts_source=rss_t</link>
-      <guid isPermaLink="false">29264577</guid>
-      <description><![CDATA[Genf ist die am stärksten verstopfte Stadt der Schweiz, Lausanne belegt den dritten Platz. Mit dem Abschluss von Baustellen, neuen öffentlichen Verkehrsmitteln und künstlicher Intelligenz werden verschiedene Lösungen vorbereitet.]]></description>
-      <pubDate>Sun, 07 Jun 2026 11:16:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
