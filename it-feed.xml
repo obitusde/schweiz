@@ -5,8 +5,57 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter IT Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Tue, 09 Jun 2026 03:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 06:15:07 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Golem] Top-Arbeitgeber-Studie 2027: Macht mit und bewertet eure Firma!</title>
+      <link>https://www.golem.de/news/top-arbeitgeber-studie-2027-macht-mit-und-bewertet-eure-firma-2606-209371.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/top-arbeitgeber-studie-2027-macht-mit-und-bewertet-eure-firma-2606-209371.html</guid>
+      <description><![CDATA[Wie wohl fühlst du dich in deiner Firma und was erwartest du von einem Arbeitgeber in der IT? Sag es uns für unsere jährliche Umfrage! (<a href="https://www.golem.de/specials/topitarbeitgeber/">Top-IT-Arbeitgeber</a>, <a href="https://www.golem.de/specials/studie/">Studien</a>)]]></description>
+      <pubDate>Tue, 09 Jun 2026 06:00:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Die Schweiz hat die beliebtesten Vorgesetzten Europas</title>
+      <link>https://www.digitec.ch/de/page/die-schweiz-hat-die-beliebtesten-vorgesetzten-europas-42801?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/die-schweiz-hat-die-beliebtesten-vorgesetzten-europas-42801</guid>
+      <description><![CDATA[Arbeitnehmende in der Schweiz sind europaweit am zufriedensten mit ihren Vorgesetzten. 6 von 10 schätzen das Vertrauen von oben und knapp die Hälfte fühlt sich wertgeschätzt. Beides sind Spitzenwerte im europäischen Vergleich. Jede fünfte Person nervt sich über die schlechte Kommunikation des Chefs. Das zeigt eine repräsentative Umfrage im Auftrag von Galaxus.]]></description>
+      <pubDate>Tue, 09 Jun 2026 05:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] OpenAI beantragt Börsengang – Details bleiben geheim</title>
+      <link>https://www.heise.de/news/OpenAI-beantragt-Boersengang-Details-bleiben-geheim-11322527.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11322527</guid>
+      <description><![CDATA[Der ChatGPT-Entwickler OpenAI nimmt Kurs auf die Börse. Zugleich signalisiert die Firma aber auch, dass man sich damit Zeit lassen wolle.]]></description>
+      <pubDate>Tue, 09 Jun 2026 05:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Google ganz nah – und doch auf Distanz: So erklärt Apple seinen KI-Deal</title>
+      <link>https://www.heise.de/news/Google-ganz-nah-und-doch-auf-Distanz-So-erklaert-Apple-seinen-KI-Deal-11322434.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11322434</guid>
+      <description><![CDATA[Verabschiedet sich Apple mit der Google-Kooperation von seiner Datenschutzidee? Ganz und gar nicht, beteuert Apples Softwarechef in ungewohnter Direktheit.]]></description>
+      <pubDate>Tue, 09 Jun 2026 04:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] US-Gericht kippt Trumps Gebühr für Fachkräfte-Visa</title>
+      <link>https://www.heise.de/news/US-Gericht-kippt-Trumps-Gebuehr-fuer-Fachkraefte-Visa-11322446.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11322446</guid>
+      <description><![CDATA[Ein Gericht kippt die hohen Gebühren, die Trump für beliebte Arbeitsvisa eingeführt hat. Auch die geplanten Verschärfungen für die ESTA-Einreise wackeln.]]></description>
+      <pubDate>Tue, 09 Jun 2026 04:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Kryptogeld-Betrug: FTX-Chef SBF ersucht um Begnadigung nach Haft</title>
+      <link>https://www.heise.de/news/Kryptogeld-Betrug-FTX-Chef-SBF-ersucht-um-Begnadigung-nach-Haft-11322458.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11322458</guid>
+      <description><![CDATA[Sam Bankman-Fried hofft auf eine Neuauflage seines Betrugsprozesses. Unterdessen bittet er Donald Trump um Begnadigung. Doch erst nach der Haft.]]></description>
+      <pubDate>Tue, 09 Jun 2026 03:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] AOL + Vimeo: Italienische Bending Spoons geht an US-Börse</title>
+      <link>https://www.heise.de/news/AOL-Vimeo-Italienische-Bending-Spoons-geht-an-US-Boerse-11322426.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11322426</guid>
+      <description><![CDATA[Bending Spoons kauft ein Online-Unternehmen nach dem anderen. Ein Börsengang soll Geld bringen – der Firma, aber auch bestehenden Aktionären.]]></description>
+      <pubDate>Tue, 09 Jun 2026 03:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Heise] „Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto</title>
       <link>https://www.heise.de/news/Keimzelle-einer-nationalen-Industrie-Mexiko-praesentiert-erstes-Elektroauto-11322306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -15,18 +64,18 @@
       <pubDate>Mon, 08 Jun 2026 20:16:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Gerichtsbeschluss missachtet: Meta geht gegen Pegasus-Hersteller NSO Group vor</title>
-      <link>https://www.heise.de/news/Gerichtsbeschluss-missachtet-Meta-geht-gegen-Pegasus-Hersteller-NSO-Group-vor-11322252.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322252</guid>
-      <description><![CDATA[Nach vereitelten Phishing-Angriffen wirft Meta der NSO Group vor, gegen eine vom Gericht verhängte dauerhafte Unterlassungsverfügung verstoßen zu haben.]]></description>
-      <pubDate>Mon, 08 Jun 2026 19:30:00 GMT</pubDate>
+      <title>[Golem] Apple Intelligence: Siri AI auf dem iPhone und iPad nicht in der EU</title>
+      <link>https://www.golem.de/news/apple-intelligence-siri-ai-auf-dem-iphone-und-ipad-nicht-in-der-eu-2606-209540.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/apple-intelligence-siri-ai-auf-dem-iphone-und-ipad-nicht-in-der-eu-2606-209540.html</guid>
+      <description><![CDATA[Apple kündigt ein umfassendes Update seiner KI-Plattform an, darunter erstmals eine eigenständige Siri-App. Nur mit der EU hadert das Unternehmen. (<a href="https://www.golem.de/specials/siri/">Siri</a>, <a href="https://www.golem.de/specials/apple/">Apple</a>)]]></description>
+      <pubDate>Mon, 08 Jun 2026 19:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Automatisierter Missbrauchsverdacht: BKA geht gegen harmlose Videos vor</title>
-      <link>https://www.heise.de/news/Automatisierter-Missbrauchsverdacht-BKA-geht-gegen-harmlose-Videos-vor-11322171.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322171</guid>
-      <description><![CDATA[Ein Fehler des Bundeskriminalamts im Kampf gegen Kindesmissbrauch zeigt Probleme ungeprüfter Massenmeldungen und die Belastung kleinerer IT-Dienstleister auf.]]></description>
-      <pubDate>Mon, 08 Jun 2026 17:47:00 GMT</pubDate>
+      <title>[Heise] Fernseher günstig kaufen: 32 Zoll für 99 Euro, 55 Zoll für 284 Euro</title>
+      <link>https://www.heise.de/bestenlisten/deals/angebote-zur-wm-fernseher-guenstig-kaufen-32-fuer-99-euro-55-qled-fuer-279/dn1dwp6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11322071</guid>
+      <description><![CDATA[Neuer Fernseher für die Fußball-WM 2026? Jetzt ist ein guter Zeitpunkt für den Kauf: Händler locken mit satten Rabatten.]]></description>
+      <pubDate>Mon, 08 Jun 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
       <title>[Golem] Future Combat Air System: Deutschland und Frankreich stoppen Kampfjet-Projekt</title>
@@ -48,6 +97,13 @@
       <guid isPermaLink="false">https://www.golem.de/news/116-stoerfaelle-erfasst-hohe-millionenkosten-durch-drohnen-an-deutschen-flughaefen-2606-209534.html</guid>
       <description><![CDATA[Drohnensichtungen haben den Flugverkehr im Jahr 2025 stark beeinträchtigt. Vorfälle in Frankfurt und München trieben die Kosten hoch. (<a href="https://www.golem.de/specials/drohne/">Drohne</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
       <pubDate>Mon, 08 Jun 2026 16:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Analyst zu Gemini auf dem iPhone: Rettet Google Apples KI-Ambitionen?</title>
+      <link>https://www.heise.de/news/Analyst-zu-Gemini-auf-dem-iPhone-Rettet-Google-Apples-KI-Ambitionen-11321823.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11321823</guid>
+      <description><![CDATA[Apple will Gemini-Modelle tief in iOS integrieren und auch Googles Cloud-Dienste nutzen. Ein bekannter Apple-Beobachter sieht Chancen wie Risiken.]]></description>
+      <pubDate>Mon, 08 Jun 2026 16:23:00 GMT</pubDate>
     </item>
     <item>
       <title>[Golem] Upcycling: Elektroautos werden durch Altreifen leiser</title>
@@ -99,6 +155,13 @@
       <pubDate>Mon, 08 Jun 2026 14:05:08 GMT</pubDate>
     </item>
     <item>
+      <title>[Heise] Akku-Rasenmäher Einhell Professional GP-CM 36/47 S Li BL mit Antrieb &amp; 4 Akkus</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/akku-rasenmaeher-einhell-professional-gp-cm-3647-s-li-bl-mit-antrieb-und-4-akkus/z71yypl?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11321871</guid>
+      <description><![CDATA[Der Akku-Rasenmäher Einhell Professional GP-CM 36/47 S Li BL kommt mit Motor-Vortrieb und vier Akkus, die ihn für große Rasenflächen wappnen.]]></description>
+      <pubDate>Mon, 08 Jun 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>[Golem] Angst vor Spionage: Russland trennt Überwachungskameras vom Internet</title>
       <link>https://www.golem.de/news/angst-vor-spionage-russland-trennt-ueberwachungskameras-vom-internet-2606-209525.html</link>
       <guid isPermaLink="false">https://www.golem.de/news/angst-vor-spionage-russland-trennt-ueberwachungskameras-vom-internet-2606-209525.html</guid>
@@ -141,18 +204,25 @@
       <pubDate>Mon, 08 Jun 2026 11:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] Wholesome Direct 2026: Diese Wohlfühlgames wurden vorgestellt</title>
-      <link>https://www.digitec.ch/de/page/wholesome-direct-2026-diese-wohlfuehlgames-wurden-vorgestellt-42904?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/wholesome-direct-2026-diese-wohlfuehlgames-wurden-vorgestellt-42904</guid>
-      <description><![CDATA[Wholesome Games hat über 50 Cozy Games vorgestellt: von einem Koop mit Capybara und Krähe bis zum eigenen Teeladen als Frosch ist alles dabei. Ausser Eile.]]></description>
-      <pubDate>Mon, 08 Jun 2026 11:44:13 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Tankrabatt: Mineralölkonzerne behalten weiterhin saftigen Anteil</title>
       <link>https://www.heise.de/news/Tankrabatt-Mineraloelkonzerne-behalten-weiterhin-grossen-Anteil-11321750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11321750</guid>
       <description><![CDATA[Das Ifo-Institut hat den Tankrabatt analysiert: Ein Großteil der Steuersenkung kommt bei Autofahrern an, doch ein großer Teil verbleibt auch bei den Konzernen.]]></description>
       <pubDate>Mon, 08 Jun 2026 11:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Datenschutz mit Loupe: Neue App gewährt Einblicke in Fingerprinting unter iOS</title>
+      <link>https://www.golem.de/news/datenschutz-app-loupe-zeigt-was-unter-ios-mit-fingerprinting-moeglich-ist-2606-209516.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/datenschutz-app-loupe-zeigt-was-unter-ios-mit-fingerprinting-moeglich-ist-2606-209516.html</guid>
+      <description><![CDATA[iOS-Apps können auf allerhand Daten zugreifen, mit denen sich Nutzer potenziell identifizieren lassen. Loupe zeigt, wie das im Detail aussieht. (<a href="https://www.golem.de/specials/datenschutz/">Datenschutz</a>, <a href="https://www.golem.de/specials/apple/">Apple</a>)]]></description>
+      <pubDate>Mon, 08 Jun 2026 11:16:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] GOG bittet für Newsletter mit SS-Runen im Betreff um Entschuldigung</title>
+      <link>https://www.heise.de/news/GOG-bittet-fuer-Newsletter-mit-SS-Runen-im-Betreff-um-Entschuldigung-11321400.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11321400</guid>
+      <description><![CDATA[Ein GOG-Newsletter für das Spiel „The End of the Sun“ zeigt Symbole, die an SS-Runen erinnern. Das Unternehmen bedauert den Fehler.]]></description>
+      <pubDate>Mon, 08 Jun 2026 10:57:00 GMT</pubDate>
     </item>
     <item>
       <title>[Golem] Das Jahr der Mega-IPOs: Was Anleger über OpenAI, Anthropic und SpaceX wissen müssen</title>
@@ -183,6 +253,13 @@
       <pubDate>Mon, 08 Jun 2026 09:44:03 GMT</pubDate>
     </item>
     <item>
+      <title>[Heise] Greenpeace bringt Tempo-100-Schilder an Autobahnen an</title>
+      <link>https://www.heise.de/news/Greenpeace-bringt-Tempo-100-Schilder-an-Autobahnen-an-11321394.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11321394</guid>
+      <description><![CDATA[Greenpeace hat mit einer Beklebung von Verkehrsschildern ein Signal für ein Tempolimit auf Autobahnen gesetzt.]]></description>
+      <pubDate>Mon, 08 Jun 2026 09:31:00 GMT</pubDate>
+    </item>
+    <item>
       <title>[Golem] Qianfan: Chinesische Konstellation auf 200 Internetsatelliten angestiegen</title>
       <link>https://www.golem.de/news/qianfan-chinesische-konstellation-auf-200-internetsatelliten-angestiegen-2606-209497.html</link>
       <guid isPermaLink="false">https://www.golem.de/news/qianfan-chinesische-konstellation-auf-200-internetsatelliten-angestiegen-2606-209497.html</guid>
@@ -202,27 +279,6 @@
       <guid isPermaLink="false">https://www.golem.de/news/nach-schulschiesserei-schueler-verklagt-hersteller-von-ki-waffenerkennungssystem-2606-209508.html</guid>
       <description><![CDATA[Der Hersteller eines KI-gestützten Waffenerkennungssystems soll Einschränkungen verschwiegen und mit falschen Angaben geworben haben. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
       <pubDate>Mon, 08 Jun 2026 08:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Airhockey: KI-Spieler übertrifft menschliche Spieler ohne physisches Training</title>
-      <link>https://www.heise.de/news/Airhockey-KI-Spieler-uebertrifft-menschliche-Spieler-ohne-physisches-Training-11321348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321348</guid>
-      <description><![CDATA[Airhockey ist ein sehr schnelles Spiel. Das stellt große Herausforderungen an einen KI-Spieler. Dieser muss allerdings nicht so aufwendig trainiert werden.]]></description>
-      <pubDate>Mon, 08 Jun 2026 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Wegen Musk-Einladung: ASML-Mitarbeiter wollen Technologiekonferenz boykottieren</title>
-      <link>https://www.golem.de/news/wegen-musk-einladung-asml-mitarbeiter-wollen-technologiekonferenz-boykottieren-2606-209501.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/wegen-musk-einladung-asml-mitarbeiter-wollen-technologiekonferenz-boykottieren-2606-209501.html</guid>
-      <description><![CDATA[Elon Musk soll bei ASMLs interner Technologiekonferenz über seine Terafab-Pläne reden. Mitarbeiter des Unternehmens sind davon nicht begeistert. (<a href="https://www.golem.de/specials/asml/">ASML</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
-      <pubDate>Mon, 08 Jun 2026 08:21:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Sensoren: New York will Straßendesign mit Sensoren verbessern</title>
-      <link>https://www.golem.de/news/sensoren-new-york-will-strassendesign-mit-sensoren-verbessern-2606-209498.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/sensoren-new-york-will-strassendesign-mit-sensoren-verbessern-2606-209498.html</guid>
-      <description><![CDATA[Rund 100 Sensoren sollen der Verkehrsbehörde New Yorks Informationen zur Straßennutzung geben. Dadurch könnten neue Zebrastreifen entstehen. (<a href="https://www.golem.de/specials/verkehr/">Verkehr</a>, <a href="https://www.golem.de/specials/digitalkamera/">Kameras</a>)]]></description>
-      <pubDate>Mon, 08 Jun 2026 08:00:09 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] „Erhebliches Risiko“: Ferngesteuerte Spielzeuge verstoßen gegen EU-Funknormen</title>
@@ -267,13 +323,6 @@
       <pubDate>Mon, 08 Jun 2026 05:16:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Der bessere Partner? Verliebt in einen Bot</title>
-      <link>https://www.heise.de/news/Der-bessere-Partner-Verliebt-in-einen-Bot-11321064.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321064</guid>
-      <description><![CDATA[Chatbots können eine Persönlichkeit widerspiegeln, in die sich ein Mensch verlieben kann. Entsprechende Chatbots werden bereits millionenfach genutzt.]]></description>
-      <pubDate>Mon, 08 Jun 2026 05:02:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Zwischen Uniform und Identität: Click Boom Flash # 64 „Frauen in der Bundeswehr"</title>
       <link>https://www.heise.de/news/Zwischen-Uniform-und-Identitaet-Click-Boom-Flash-64-Frauen-in-der-Bundeswehr-11320046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11320046</guid>
@@ -288,11 +337,18 @@
       <pubDate>Mon, 08 Jun 2026 03:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] WTF: Metas KI-Chatbot half beim Knacken zehntausender Instagram-Accounts</title>
-      <link>https://www.heise.de/news/WTF-Metas-KI-Chatbot-half-beim-Knacken-zehntausender-Instagram-Accounts-11320886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11320886</guid>
-      <description><![CDATA[Ein KI-Chatbot, der auch Opfern gehackter Instagram-Accounts helfen sollte, ermöglichte stattdessen, etliche Accounts zu hacken.]]></description>
-      <pubDate>Sun, 07 Jun 2026 16:20:00 GMT</pubDate>
+      <title>[Digitec] Echte Käufe, echte Bewertungen: Wir machen den Rating-Reset</title>
+      <link>https://www.digitec.ch/de/page/echte-kaeufe-echte-bewertungen-wir-machen-den-rating-reset-42750?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/echte-kaeufe-echte-bewertungen-wir-machen-den-rating-reset-42750</guid>
+      <description><![CDATA[Ab sofort können bei Galaxus und Digitec nur noch Käuferinnen und Käufer Produkte bewerten. So verhindert der Onlinehändler, dass Marken und Hersteller Ratings beeinflussen. Im Zuge des Systemwechsels verschwinden 380'000 alte Reviews.]]></description>
+      <pubDate>Sun, 07 Jun 2026 22:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Top 10: Das beste Smartphone im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test-oppo-schlaegt-samsung-und-apple/5qx1bd1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11320820</guid>
+      <description><![CDATA[Welches ist das beste Smartphone? Wir haben die Top-Modelle getestet. In unserer Bestenliste setzt sich Oppo an die Spitze.]]></description>
+      <pubDate>Sun, 07 Jun 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] ChatGPT soll zur integrierten „Superapp“ werden</title>
@@ -335,20 +391,6 @@
       <guid isPermaLink="false">http://heise.de/-11320766</guid>
       <description><![CDATA[Ob Geldanlage oder Spekulation: Hohe Kursverluste bei Bitcoin und Co. schrecken Privatanleger einer Umfrage zufolge nicht ab.]]></description>
       <pubDate>Sun, 07 Jun 2026 09:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Action-Adventure „Shadow Frontier“: Ist das wirklich „Star Trek“?</title>
-      <link>https://www.heise.de/news/Action-Adventure-Shadow-Frontier-Ist-das-wirklich-Star-Trek-11320736.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11320736</guid>
-      <description><![CDATA[Bloober arbeitet an einem Survival-Spiel, in dem man in die Rolle von Ro Laren schlüpft. Die übliche „Star Trek“-Ästhetik scheint abwesend.]]></description>
-      <pubDate>Sun, 07 Jun 2026 06:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Missing Link: Europa im Souveränitätsdreieck</title>
-      <link>https://www.heise.de/hintergrund/Missing-Link-Europa-im-Souveraenitaetsdreieck-11320648.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11320648</guid>
-      <description><![CDATA[Ist ein Weg in die digitale Souveränität möglich? Langsam zeichnet sich ab, welche Ansätze wie ineinandergreifen könnten, um eine Wirkung zu entfalten.]]></description>
-      <pubDate>Sun, 07 Jun 2026 06:08:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
