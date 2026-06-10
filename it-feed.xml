@@ -5,28 +5,49 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter IT Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Wed, 10 Jun 2026 07:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:10:38 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Heise] „Kingdom Hearts 4“ zeigt sich ausführlich: Trailer bricht jahrelange Funkstille</title>
+      <link>https://www.heise.de/news/Kingdom-Hearts-4-zeigt-sich-ausfuehrlich-Trailer-bricht-jahrelange-Funkstille-11326954.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11326954</guid>
+      <description><![CDATA[Mehr als vier Jahre nach der ersten Ankündigung hat Square Enix neues Material zu „Kingdom Hearts 4“ gezeigt. Fans dürften aufatmen.]]></description>
+      <pubDate>Wed, 10 Jun 2026 08:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Video: So installiert und nutzt ihr lokale KI-Modelle</title>
+      <link>https://www.heise.de/news/Video-So-installiert-und-nutzt-ihr-lokale-KI-Modelle-11318296.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11318296</guid>
+      <description><![CDATA[KI-Modelle lokal auf dem PC betreiben. Ohne Cloud und ohne Abo. Wir zeigen, wie's auf Windows mit NVIDIA- und AMD-Grafikkarten funktioniert.]]></description>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Starlink ändert Geschäftsmodell: Hardware-Kits für Neukunden zur Miete</title>
+      <link>https://www.heise.de/news/Starlink-aendert-Geschaeftsmodell-Hardware-Kits-fuer-Neukunden-zur-Miete-11326849.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11326849</guid>
+      <description><![CDATA[Starlink führt für Neukunden eine monatliche Mietgebühr für das Antennen-Kit ein.]]></description>
+      <pubDate>Wed, 10 Jun 2026 07:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Test-Roundup: Rivian R2 überzeugt Tester mit Einschränkungen</title>
+      <link>https://www.golem.de/news/test-roundup-rivian-r2-ueberzeugt-tester-mit-einschraenkungen-2606-209597.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/test-roundup-rivian-r2-ueberzeugt-tester-mit-einschraenkungen-2606-209597.html</guid>
+      <description><![CDATA[Der neue R2 von Rivian ist eine kleinere, preiswertere Version des Rivian R1S. In ersten Fahrberichten kommt das Elektroauto grundsätzlich gut weg. (<a href="https://www.golem.de/specials/rivian/">Rivian</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
+      <pubDate>Wed, 10 Jun 2026 07:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus</title>
+      <link>https://www.heise.de/news/Datadog-baut-Observability-Plattform-zum-autonomen-KI-Teamkollegen-aus-11326423.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11326423</guid>
+      <description><![CDATA[Auf der DASH-Konferenz präsentiert Datadog mit Bits AI SRE, AI Guard und Bring Your Own Cloud neue Funktionen für autonomen IT-Betrieb und KI-Sicherheit.]]></description>
+      <pubDate>Wed, 10 Jun 2026 07:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Heise] Patchday: Adobe schließt mehr als 120 Sicherheitslücken in InDesign &amp; Co.</title>
       <link>https://www.heise.de/news/Patchday-Adobe-schliesst-mehr-als-120-Sicherheitsluecken-in-InDesign-Co-11326790.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11326790</guid>
       <description><![CDATA[Angreifer können unter anderem an Schadcode-Schwachstellen in ColdFusion und Dreamwaver ansetzen.]]></description>
       <pubDate>Wed, 10 Jun 2026 07:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Ausprobiert: Klappmaus Logitech Mobi Fold</title>
-      <link>https://www.heise.de/tests/Ausprobiert-Klappmaus-Logitech-Mobi-Fold-11322125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322125</guid>
-      <description><![CDATA[Sehr kompakt geklappt, offen fast so groß wie eine herkömmliche Maus – Logitechs neue Maus für unterwegs hat nur eine große Schwäche.]]></description>
-      <pubDate>Wed, 10 Jun 2026 07:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Nintendo Switch 2: FromSoftware kündigt Netzwerktest für „The Duskbloods“ an</title>
-      <link>https://www.heise.de/news/Nintendo-Switch-2-FromSoftware-kuendigt-Netzwerktest-fuer-The-Duskbloods-an-11326770.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11326770</guid>
-      <description><![CDATA[Ein erster spielbarer Eindruck von FromSoftwares erstem Nintendo-Exklusiv-Titel „The Duskbloods“ rückt näher.]]></description>
-      <pubDate>Wed, 10 Jun 2026 07:16:00 GMT</pubDate>
     </item>
     <item>
       <title>[Golem] Irankrieg: Drohnenboot rettet Crew eines Apache-Kampfhubschraubers</title>
@@ -36,32 +57,11 @@
       <pubDate>Wed, 10 Jun 2026 07:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Zelda: Nintendo kündigt Switch-2-Remake von „Ocarina of Time“ an</title>
-      <link>https://www.heise.de/news/Zelda-Nintendo-kuendigt-Switch-2-Remake-von-Ocarina-of-Time-an-11326762.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11326762</guid>
-      <description><![CDATA[Nintendo hat ein Remake von „The Legend of Zelda: Ocarina of Time“ nur für die Nintendo Switch 2 angekündigt. Es erscheint noch 2026.]]></description>
-      <pubDate>Wed, 10 Jun 2026 07:11:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] No Fakes Act: US-Spielebranche warnt vor Deepfake-Gesetzgebung</title>
       <link>https://www.heise.de/news/No-Fakes-Act-US-Spielebranche-warnt-vor-Deepfake-Gesetzgebung-11326710.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11326710</guid>
       <description><![CDATA[Die US-Spielebranche warnt vor einem Deepfake-Gesetz: Der No Fakes Act schützt Personen vor KI-Fälschungen, könnte aber auch digitale Spielfiguren treffen.]]></description>
       <pubDate>Wed, 10 Jun 2026 07:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Spotlight 2: Logitech zeigt neuen Presenter mit Laserpointer und mehr</title>
-      <link>https://www.golem.de/news/spotlight-2-logitech-zeigt-neuen-presenter-mit-laserpointer-und-mehr-2606-209564.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/spotlight-2-logitech-zeigt-neuen-presenter-mit-laserpointer-und-mehr-2606-209564.html</guid>
-      <description><![CDATA[Logitechs neuer Presenter Spotlight 2 bietet einige Besonderheiten, die in Präsentationen eine wertvolle Hilfe sein können. (<a href="https://www.golem.de/specials/logitech/">Logitech</a>, <a href="https://www.golem.de/specials/powerpoint/">Powerpoint</a>)]]></description>
-      <pubDate>Wed, 10 Jun 2026 07:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Logitechs faltbare Maus im Test: Schöner zusammenfalten</title>
-      <link>https://www.golem.de/news/logitechs-faltbare-maus-im-test-schoener-zusammenfalten-2606-209545.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/logitechs-faltbare-maus-im-test-schoener-zusammenfalten-2606-209545.html</guid>
-      <description><![CDATA[Logitech will die perfekte Maus für unterwegs entwickelt haben. Golem hat die Mobi Fold getestet und zeigt die Vor- und Nachteile der Faltmaus. Ein Test von Ingo Pakalski (<a href="https://www.golem.de/specials/logitech/">Logitech</a>, <a href="https://www.golem.de/specials/test/">Test</a>)]]></description>
-      <pubDate>Wed, 10 Jun 2026 07:01:06 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] Datenleck: Cyberangriff auf französischen Regierungs-Messenger Tchap</title>
@@ -78,17 +78,17 @@
       <pubDate>Wed, 10 Jun 2026 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] „Passwort“ Folge 59: Vom DNSSEC-Fail beim DENIC, Domainklau und anderen News</title>
-      <link>https://www.heise.de/news/Passwort-Folge-59-Vom-DNSSEC-Fail-beim-DENIC-Domainklau-und-anderen-News-11301348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11301348</guid>
-      <description><![CDATA[Nicht nur bei DENIC rumpelte es: Ein domainbeklauter DeFI-Anbieter und ein abgeschalteter Cloud-Hoster sind Themen dieser Folge. Und eine Bitlocker-Lücke.]]></description>
-      <pubDate>Wed, 10 Jun 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Ist die symbolische KI aktueller denn je?</title>
       <link>https://www.heise.de/blog/Ist-die-symbolische-KI-aktueller-denn-je-11309657.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11309657</guid>
       <description><![CDATA[Der Diskurs dreht sich fast nur um größere neuronale Modelle. Ist Skalieren wirklich der einzige Weg, oder lohnt der Blick zurück?]]></description>
+      <pubDate>Wed, 10 Jun 2026 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] „Passwort“ Folge 59: Vom DNSSEC-Fail beim DENIC, Domainklau und anderen News</title>
+      <link>https://www.heise.de/news/Passwort-Folge-59-Vom-DNSSEC-Fail-beim-DENIC-Domainklau-und-anderen-News-11301348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11301348</guid>
+      <description><![CDATA[Nicht nur bei DENIC rumpelte es: Ein domainbeklauter DeFI-Anbieter und ein abgeschalteter Cloud-Hoster sind Themen dieser Folge. Und eine Bitlocker-Lücke.]]></description>
       <pubDate>Wed, 10 Jun 2026 07:00:00 GMT</pubDate>
     </item>
     <item>
@@ -162,13 +162,6 @@
       <pubDate>Wed, 10 Jun 2026 03:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] So findest du den besten Saugroboter für dich</title>
-      <link>https://www.digitec.ch/de/page/so-findest-du-den-besten-saugroboter-fuer-dich-42888?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/so-findest-du-den-besten-saugroboter-fuer-dich-42888</guid>
-      <description><![CDATA[Übersicht im Chaos: Wenn du dir diese vier Fragen beantwortest, findest du den Saugroboter, der zu deiner Wohnsituation am besten passt.]]></description>
-      <pubDate>Tue, 09 Jun 2026 22:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] NASA verschiebt erste Mondlandung: Artemis III wird Testflug im Erdorbit</title>
       <link>https://www.heise.de/news/NASA-verschiebt-erste-Mondlandung-Artemis-III-wird-Testflug-im-Erdorbit-11326629.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11326629</guid>
@@ -183,25 +176,11 @@
       <pubDate>Tue, 09 Jun 2026 20:51:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Die besten Poolroboter mit Akku im Test</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/die-besten-poolroboter-mit-akku-im-test-fuer-kleine-und-grosse-pools-ab-150-euro/c9wkf56?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11326345</guid>
-      <description><![CDATA[Poolroboter halten Wasser sowie Becken sauber und sparen Zeit. Wir zeigen die besten Modelle von Aiper, Dreame, Beatbot & Co.]]></description>
-      <pubDate>Tue, 09 Jun 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Russischer Internetsatellit stürzt ab</title>
       <link>https://www.heise.de/news/Satellit-der-russischen-Internetkonstellation-Rassvet-stuerzt-ab-11326491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11326491</guid>
       <description><![CDATA[Das russische Unternehmen Buro 1440 will eine Konstellation für Satelliteninternet aufbauen. Es gibt offensichtlich Probleme, ein Satellit ist bereits verglüht.]]></description>
       <pubDate>Tue, 09 Jun 2026 16:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Nintendo Direct (9. Juni 2026): «Ocarina of Time»-Remake, «Kingdom Hearts IV» und mehr</title>
-      <link>https://www.digitec.ch/de/page/nintendo-direct-9-juni-2026-ocarina-of-time-remake-kingdom-hearts-iv-und-mehr-42941?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/nintendo-direct-9-juni-2026-ocarina-of-time-remake-kingdom-hearts-iv-und-mehr-42941</guid>
-      <description><![CDATA[Nintendo verrät in einer «Direct»-Präsentation, welche neuen Games demnächst auf der Switch und Switch 2 erscheinen.]]></description>
-      <pubDate>Tue, 09 Jun 2026 16:46:43 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] Smart Glasses: In der EU formiert sich Widerstand</title>
@@ -225,32 +204,11 @@
       <pubDate>Tue, 09 Jun 2026 15:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] The Legend of Zelda: Nintendo legt Ocarina of Time für Switch 2 neu auf</title>
-      <link>https://www.golem.de/news/the-legend-of-zelda-nintendo-legt-ocarina-of-time-fuer-switch-2-neu-auf-2606-209581.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/the-legend-of-zelda-nintendo-legt-ocarina-of-time-fuer-switch-2-neu-auf-2606-209581.html</guid>
-      <description><![CDATA[Nintendo holt Zelda-Legende zurück: Eine offenbar deutlich aktualisierte Version von Ocarina of Time erscheint 2026 für die Switch 2. (<a href="https://www.golem.de/specials/zelda/">Zelda</a>, <a href="https://www.golem.de/specials/nintendo/">Nintendo</a>)]]></description>
-      <pubDate>Tue, 09 Jun 2026 15:40:02 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Frust bei E-Auto-Fahrern: Schnittstelle für Drittanbieter weg – VW arbeitet dran</title>
       <link>https://www.heise.de/news/Frust-bei-E-Auto-Fahrern-Schnittstelle-fuer-Drittanbieter-weg-VW-arbeitet-dran-11320034.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11320034</guid>
       <description><![CDATA[Volkswagen hat eine API geändert, wodurch Nutzer über Drittanbieter-Apps wie EVCC nicht mehr an ihre Daten kamen. Wir haben nachgefragt, was da los ist.]]></description>
       <pubDate>Tue, 09 Jun 2026 15:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] DDR5 ist teuer: AMD sieht Wucher bei Speicherpreisen noch ein bis zwei Jahre</title>
-      <link>https://www.golem.de/news/ddr5-ist-teuer-amd-sieht-wucher-bei-speicherpreisen-noch-ein-bis-zwei-jahre-2606-209579.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/ddr5-ist-teuer-amd-sieht-wucher-bei-speicherpreisen-noch-ein-bis-zwei-jahre-2606-209579.html</guid>
-      <description><![CDATA[Ein Führungsmitglied bei AMD sieht aber auch, dass sich die Preise langsam wieder erholen werden. Derweil ist die Zukunft von DDR6 für AM5 ungewiss. (<a href="https://www.golem.de/specials/amd/">AMD</a>, <a href="https://www.golem.de/specials/cpu/">Prozessor</a>)]]></description>
-      <pubDate>Tue, 09 Jun 2026 15:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Von Rettungsdienst bis Klinik: Wer unter NIS2 und KRITIS fällt</title>
-      <link>https://www.heise.de/news/Von-Rettungsdienst-bis-Klinik-Wer-unter-NIS2-und-KRITIS-faellt-11326363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11326363</guid>
-      <description><![CDATA[NIS2 und KRITIS-Dachgesetz verschärfen die Sicherheitsanforderungen im Gesundheitswesen.]]></description>
-      <pubDate>Tue, 09 Jun 2026 14:35:00 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] Intel Foundry: Neue Gerüchterunde über Nvidia und Google</title>
@@ -316,39 +274,11 @@
       <pubDate>Tue, 09 Jun 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Apple öffnet sich ein wenig für Android und Windows</title>
-      <link>https://www.heise.de/news/Apple-oeffnet-sich-ein-wenig-fuer-Android-und-Windows-11326019.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11326019</guid>
-      <description><![CDATA[Apple öffnet sein Ökosystem etwas für Android und Windows. Nutzer können ihre Fotos zu geteilten iCloud-Ordnern hinzufügen.]]></description>
-      <pubDate>Tue, 09 Jun 2026 12:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Apples Start ins KI-Zeitalter ist ein Fiasko</title>
-      <link>https://www.digitec.ch/de/page/apples-start-ins-ki-zeitalter-ist-ein-fiasko-42932?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/apples-start-ins-ki-zeitalter-ist-ein-fiasko-42932</guid>
-      <description><![CDATA[Vor zwei Jahren versprach Apple eine neue Siri und lieferte sie nicht. Nun werden die gleichen Funktionen erneut präsentiert, als wäre nichts gewesen. Und der zweite Anlauf wirkt schon wieder überstürzt.]]></description>
-      <pubDate>Tue, 09 Jun 2026 12:52:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] EU reagiert auf Apples Siri-AI-Blockade, weist DMA-Vorwürfe zurück</title>
-      <link>https://www.heise.de/news/EU-reagiert-auf-Apples-Siri-AI-Blockade-weist-DMA-Vorwuerfe-zurueck-11326126.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11326126</guid>
-      <description><![CDATA[Apple meint, der Digital Markets Act verhindere das neue KI-System des Konzerns, mit dem Siri besser werden soll. Die Europäische Kommission reagierte prompt.]]></description>
-      <pubDate>Tue, 09 Jun 2026 12:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Stromausfall in Reutlingen war mutmaßlich Brandstiftung</title>
       <link>https://www.heise.de/news/Stromausfall-in-Reutlingen-war-mutmasslich-Brandstifung-11326054.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11326054</guid>
       <description><![CDATA[Nach dem Großbrand im Umspannwerk in Reutlingen ermitteln Polizei und Staatsschutz. Es gibt Hinweise auf Brandstiftung, aber keine auf die Täter.]]></description>
       <pubDate>Tue, 09 Jun 2026 12:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] iOS 27, macOS 27 und Co.: Entwickler dürfen Betas installieren</title>
-      <link>https://www.heise.de/news/iOS-27-macOS-27-und-Co-Entwickler-duerfen-Betas-installieren-11322615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322615</guid>
-      <description><![CDATA[Apple hat nach der WWDC-Keynote den Betatest der neuen Betriebssysteme gestartet – wie üblich zunächst für Entwickler. Wer Siri AI testen will, benötigt Geduld.]]></description>
-      <pubDate>Tue, 09 Jun 2026 12:06:00 GMT</pubDate>
     </item>
     <item>
       <title>[Golem] Mikroreaktor Mark-0: So viel Geld für ein bisschen Kernspaltung</title>
@@ -370,13 +300,6 @@
       <guid isPermaLink="false">http://heise.de/-11320254</guid>
       <description><![CDATA[Die von Nextcloud und Ionos vorangetriebene Web-Office-Suite Euro-Office hat ihre erste Version herausgebracht.]]></description>
       <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] So spart sich AWS 69 Prozent der Router</title>
-      <link>https://www.heise.de/news/AWS-Zufall-statt-Hierarchie-im-Rechenzentrum-11322774.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322774</guid>
-      <description><![CDATA[AWS verschaltet seine Rechenzentren mit passiven Shuffleboxen und „sprüht“ Daten quasi-zufällig durchs Netz.]]></description>
-      <pubDate>Tue, 09 Jun 2026 11:59:00 GMT</pubDate>
     </item>
     <item>
       <title>[Golem] Google: Neues Tool soll Bootloop bei Pixel-Smartphones beseitigen</title>
@@ -421,20 +344,6 @@
       <pubDate>Tue, 09 Jun 2026 10:45:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] WWDC-2026-Keynote: Der Abend der zweiten Versuche</title>
-      <link>https://www.golem.de/news/wwdc-2026-keynote-der-abend-der-zweiten-versuche-2606-209544.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/wwdc-2026-keynote-der-abend-der-zweiten-versuche-2606-209544.html</guid>
-      <description><![CDATA[Apple ist in sich gegangen und liefert längst überfällige Verbesserungen bei Betriebssystem-Geschwindigkeit, Apple Intelligence, Siri und Spotlight und nicht zuletzt dem ungeliebten Liquid-Glass-Design. Ein IMHO von Christian Rentrop (<a href="https://www.golem.de/specials/apple/">Apple</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Tue, 09 Jun 2026 10:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] tvOS 27 und watchOS 27: Das ist neu bei Apple TV und Apple Watch</title>
-      <link>https://www.heise.de/news/tvOS-27-und-watchOS-27-Das-ist-neu-bei-Apple-TV-und-Apple-Watch-11322662.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322662</guid>
-      <description><![CDATA[Neben iOS 27 und Co. bekommen auch Apples kleinere Geräte frische Betriebssysteme. Diese Neuerungen wurden bekannt.]]></description>
-      <pubDate>Tue, 09 Jun 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Golem] Schallmauer durchbrochen: Der erste Überschallflug der X-59</title>
       <link>https://www.golem.de/news/schallmauer-durchbrochen-der-erste-ueberschallflug-der-x-59-2606-209499.html</link>
       <guid isPermaLink="false">https://www.golem.de/news/schallmauer-durchbrochen-der-erste-ueberschallflug-der-x-59-2606-209499.html</guid>
@@ -470,13 +379,6 @@
       <pubDate>Tue, 09 Jun 2026 09:50:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Foldable-Hinweise: iOS 27 bringt passende Features mit</title>
-      <link>https://www.heise.de/news/iOS-27-Hinweise-auf-Anpassungen-fuer-Apples-erstes-Foldable-11322579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322579</guid>
-      <description><![CDATA[Apple bereitet seine Entwickler auf das iPhone Ultra vor. Dazu gibt es in Xcode neue Funktionen – und auch mehrere passende Strings wurden geleakt.]]></description>
-      <pubDate>Tue, 09 Jun 2026 09:44:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Golem] Neben DJI: USA werfen Alibaba, BYD und Unitree Militärverbindungen vor</title>
       <link>https://www.golem.de/news/neben-dji-usa-werfen-alibaba-byd-und-unitree-militaerverbindungen-vor-2606-209558.html</link>
       <guid isPermaLink="false">https://www.golem.de/news/neben-dji-usa-werfen-alibaba-byd-und-unitree-militaerverbindungen-vor-2606-209558.html</guid>
@@ -498,13 +400,6 @@
       <pubDate>Tue, 09 Jun 2026 09:25:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Bürosoftware: Euro-Office startet mit viel Kritik in Version 1.0</title>
-      <link>https://www.golem.de/news/buerosoftware-euro-office-startet-mit-viel-kritik-in-version-1-0-2606-209556.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/buerosoftware-euro-office-startet-mit-viel-kritik-in-version-1-0-2606-209556.html</guid>
-      <description><![CDATA[Ein europäisches Firmenbündnis veröffentlicht Euro-Office 1.0. Die Macher von Libreoffice kritisieren das Open-Source-Projekt. (<a href="https://www.golem.de/specials/libreoffice/">Libreoffice</a>, <a href="https://www.golem.de/specials/opendocument/">Opendocument</a>)]]></description>
-      <pubDate>Tue, 09 Jun 2026 09:10:08 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Nach Entlassungswelle: Meta investiert in Handwerker für KI-Rechenzentren</title>
       <link>https://www.heise.de/news/Nach-Entlassungswelle-Meta-investiert-in-Handwerker-fuer-KI-Rechenzentren-11322926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11322926</guid>
@@ -519,20 +414,6 @@
       <pubDate>Tue, 09 Jun 2026 08:42:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Nintendo: Frankreich bestraft Joy-Con-Drift mit 35 Millionen Euro</title>
-      <link>https://www.heise.de/news/Nintendo-Frankreich-bestraft-Joy-Con-Drift-mit-35-Millionen-Euro-11322874.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322874</guid>
-      <description><![CDATA[Frankreichs Verbraucherbehörde DGCCRF kassiert wegen driftenden Joy-Con 35 Millionen Euro von Nintendo. Der Switch-Hersteller sieht sich unschuldig.]]></description>
-      <pubDate>Tue, 09 Jun 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Tim Cook: Leiser Abschied bei der WWDC-Keynote</title>
-      <link>https://www.heise.de/news/Tim-Cook-Leiser-Abschied-bei-der-WWDC-Keynote-11322571.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322571</guid>
-      <description><![CDATA[Die gestrige WWDC-Keynote war für Tim Cook historisch: Es war seine letzte offizielle Präsentation als Apple-Chef. Der Abschied erfolgte eher leise als laut.]]></description>
-      <pubDate>Tue, 09 Jun 2026 08:18:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Angular 22 legt neuen Fokus auf KI-Coding</title>
       <link>https://www.heise.de/news/Angular-22-legt-neuen-Fokus-auf-KI-Coding-11322698.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11322698</guid>
@@ -545,20 +426,6 @@
       <guid isPermaLink="false">http://heise.de/-11322666</guid>
       <description><![CDATA[Die Remaster-Experten von Nightdive Studios legen das einflussreiche Stealth-Abenteuer „Thief: The Dark Project“ für aktuelle Systeme neu auf.]]></description>
       <pubDate>Tue, 09 Jun 2026 07:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] visionOS 27: Das ist neu beim Vision-Pro-Betriebssystem</title>
-      <link>https://www.heise.de/news/visionOS-27-Das-ist-neu-beim-Vision-Pro-Betriebssystem-11322549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322549</guid>
-      <description><![CDATA[Neben iOS 27, macOS 27 und Co. hat Apple auch ein Update auf visionOS 27 angekündigt. Es gibt viele kleinere Verbesserungen, etwa bei  Environments und KI.]]></description>
-      <pubDate>Tue, 09 Jun 2026 07:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] „Halo: Campaign Evolved“ erscheint am 28. Juli auf Xbox, PC und Playstation 5</title>
-      <link>https://www.heise.de/news/Halo-Campaign-Evolved-erscheint-am-28-Juli-auf-Xbox-PC-und-Playstation-5-11322513.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322513</guid>
-      <description><![CDATA[Das Remake von „Halo: Combat Evolved“ erscheint am 28. Juli für Xbox, PC und Playstation 5. Käufer der Premium-Edition können ab 23. Juli spielen.]]></description>
-      <pubDate>Tue, 09 Jun 2026 07:34:00 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] Ströer und Verfassungsschutz kooperieren für IT-Sicherheitswarnungen</title>
@@ -636,13 +503,6 @@
       <guid isPermaLink="false">http://heise.de/-11322434</guid>
       <description><![CDATA[Verabschiedet sich Apple mit der Google-Kooperation von seiner Datenschutzidee? Ganz und gar nicht, beteuert Apples Softwarechef in ungewohnter Direktheit.]]></description>
       <pubDate>Tue, 09 Jun 2026 04:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Kommentar zur WWDC-Keynote: Fundamente statt Hochhäuser</title>
-      <link>https://www.heise.de/meinung/Kommentar-zur-WWDC-Keynote-Fundamente-statt-Hochhaeuser-11322452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322452</guid>
-      <description><![CDATA[Einiges war anders an der WWDC-Keynote. Und nicht alles gefällt. Dabei zeigt sich Apple gerade so einsichtig wie selten, meint Malte Kirchner in Cupertino.]]></description>
-      <pubDate>Tue, 09 Jun 2026 04:48:00 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] US-Gericht kippt Trumps Gebühr für Fachkräfte-Visa</title>
@@ -788,20 +648,6 @@
       <pubDate>Mon, 08 Jun 2026 21:52:59 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] Apple WWDC: neue Siri, mehr KI und schnellere Betriebssysteme</title>
-      <link>https://www.digitec.ch/de/page/apple-wwdc-neue-siri-mehr-ki-und-schnellere-betriebssysteme-42919?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/apple-wwdc-neue-siri-mehr-ki-und-schnellere-betriebssysteme-42919</guid>
-      <description><![CDATA[Siri bekommt eine eigene App und ein neues Hirn, das auf einem Sprachmodell von Google basiert. Ansonsten feilt Apple an der Performance und am Design seiner Betriebssysteme.]]></description>
-      <pubDate>Mon, 08 Jun 2026 20:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] iOS 27: Apple lässt Siri AI nicht in die EU</title>
-      <link>https://www.heise.de/news/Wegen-DMA-Wettbewerbsregeln-Keine-KI-Siri-fuer-EU-iPhones-11322380.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322380</guid>
-      <description><![CDATA[Wenn iOS 27 im Herbst erscheint, werden in Deutschland viele Funktionen fehlen. Apple zeigt mit dem Finger auf die EU-Kommission.]]></description>
-      <pubDate>Mon, 08 Jun 2026 20:25:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] „Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto</title>
       <link>https://www.heise.de/news/Keimzelle-einer-nationalen-Industrie-Mexiko-praesentiert-erstes-Elektroauto-11322306.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11322306</guid>
@@ -816,13 +662,6 @@
       <pubDate>Mon, 08 Jun 2026 19:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] iOS 27: Mehr Tempo, besserer Kinderschutz, neue Siri für iPhone &amp; iPad</title>
-      <link>https://www.heise.de/news/iOS-27-Mehr-Tempo-besserer-Schutz-neue-Siri-11321931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321931</guid>
-      <description><![CDATA[Die neuen Betriebssysteme sollen ältere iPhones und iPads flott machen. Den Kinderschutz will Apple endlich verbessert haben.]]></description>
-      <pubDate>Mon, 08 Jun 2026 18:06:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Angebote zur WM 2026: 32 Zoll für 99 Euro, 55 Zoll für 284 Euro</title>
       <link>https://www.heise.de/bestenlisten/deals/angebote-zur-wm-fernseher-guenstig-kaufen-32-fuer-99-euro-55-qled-fuer-279/dn1dwp6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11322071</guid>
@@ -830,39 +669,11 @@
       <pubDate>Mon, 08 Jun 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] macOS 27 Golden Gate: Liquid-Glass-Feinschliff, bessere Performance, Siri AI</title>
-      <link>https://www.heise.de/news/macOS-27-Golden-Gate-Liquid-Glass-Feinschliff-bessere-Performance-Siri-AI-11321827.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321827</guid>
-      <description><![CDATA[Apples nächstes Betriebssystem soll viele Unstimmigkeiten von Liquid Glass beheben. Zudem hat Apple die Performance optimiert und Siri AI angekündigt.]]></description>
-      <pubDate>Mon, 08 Jun 2026 17:58:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Automatisierter Missbrauchsverdacht: BKA geht gegen harmlose Videos vor</title>
       <link>https://www.heise.de/news/Automatisierter-Missbrauchsverdacht-BKA-geht-gegen-harmlose-Videos-vor-11322171.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11322171</guid>
       <description><![CDATA[Ein Fehler des Bundeskriminalamts im Kampf gegen Kindesmissbrauch zeigt Probleme ungeprüfter Massenmeldungen und die Belastung kleinerer IT-Dienstleister auf.]]></description>
       <pubDate>Mon, 08 Jun 2026 17:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] „Siri AI“: Apple verspricht umfassenden KI-Neustart für Apple Intelligence</title>
-      <link>https://www.heise.de/news/Siri-AI-Apple-verspricht-umfassenden-KI-Neustart-fuer-Apple-Intelligence-11322101.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11322101</guid>
-      <description><![CDATA[Mithilfe von Google Gemini nimmt Apple Intelligence einen neuen Anlauf. In iOS 27 kommt Siri AI in der EU vorerst nicht.]]></description>
-      <pubDate>Mon, 08 Jun 2026 17:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Analyst zu Gemini auf dem iPhone: Rettet Google Apples KI-Ambitionen?</title>
-      <link>https://www.heise.de/news/Analyst-zu-Gemini-auf-dem-iPhone-Rettet-Google-Apples-KI-Ambitionen-11321823.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321823</guid>
-      <description><![CDATA[Apple will Gemini-Modelle tief in iOS integrieren und auch Googles Cloud-Dienste nutzen. Ein bekannter Apple-Beobachter sieht Chancen wie Risiken.]]></description>
-      <pubDate>Mon, 08 Jun 2026 16:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Liveticker zur WWDC: Alles zu iOS 27, macOS 27, Siri und Apple-KI</title>
-      <link>https://www.heise.de/news/Liveticker-zur-WWDC-Alles-zu-iOS-27-macOS-27-Siri-und-Apple-KI-11321040.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321040</guid>
-      <description><![CDATA[Montagabend steigt die nächste Apple-Keynote: „All Systems Glow“ heißt das Event zur Entwicklerkonferenz WWDC. Wir berichten mit einem Liveticker.]]></description>
-      <pubDate>Mon, 08 Jun 2026 15:51:00 GMT</pubDate>
     </item>
     <item>
       <title>[Digitec] Verspätete Lieferungen nach Kurzschluss</title>
@@ -886,53 +697,11 @@
       <pubDate>Mon, 08 Jun 2026 14:19:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] «Die Rückkehr der Exklusivtitel» – kommen die Konsolenkriege zurück?</title>
-      <link>https://www.digitec.ch/de/page/die-rueckkehr-der-exklusivtitel-kommen-die-konsolenkriege-zurueck-42917?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/die-rueckkehr-der-exklusivtitel-kommen-die-konsolenkriege-zurueck-42917</guid>
-      <description><![CDATA[Im Rahmen des Xbox Showcases am Summer Game Fest kündigt Microsoft «die Rückkehr der Exklusivtitel» an. Was viele Fans begeistert, sorgt bei mir für Kopfschütteln.]]></description>
-      <pubDate>Mon, 08 Jun 2026 14:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] WWDC 2026, Keynote und mehr: Wie sie diesmal übertragen wird</title>
-      <link>https://www.heise.de/news/WWDC-2026-Keynote-und-mehr-Wie-sie-diesmal-uebertragen-wird-11321796.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321796</guid>
-      <description><![CDATA[Heute Abend startet Apples sommerliches Entwicklerevent mit einer Keynote. Dabei bleibt es aber nicht, es wird viele Webinare geben. So schaut man am besten zu.]]></description>
-      <pubDate>Mon, 08 Jun 2026 14:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Akku-Rasenmäher Einhell Professional GP-CM 36/47 S Li BL mit Antrieb &amp; 4 Akkus</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/akku-rasenmaeher-einhell-professional-gp-cm-3647-s-li-bl-mit-antrieb-und-4-akkus/z71yypl?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321871</guid>
-      <description><![CDATA[Der Akku-Rasenmäher Einhell Professional GP-CM 36/47 S Li BL kommt mit Motor-Vortrieb und vier Akkus, die ihn für große Rasenflächen wappnen.]]></description>
-      <pubDate>Mon, 08 Jun 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Digitec] Mozilla plant Werbeblocker für Firefox</title>
       <link>https://www.digitec.ch/de/page/mozilla-plant-werbeblocker-fuer-firefox-42914?utm_source=rss-feed&amp;utm_medium=rss</link>
       <guid isPermaLink="false">https://www.digitec.ch/de/page/mozilla-plant-werbeblocker-fuer-firefox-42914</guid>
       <description><![CDATA[Firefox soll künftig einen eigenen Werbeblocker bekommen. Für Nutzerinnen und Nutzer bedeutet das weniger Aufwand beim Schutz vor Werbung und Tracking.]]></description>
       <pubDate>Mon, 08 Jun 2026 13:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Neues in iOS 27: Umbau bei „Wo ist?“ und den Benachrichtigungen</title>
-      <link>https://www.heise.de/news/iOS-27-Apple-arbeitet-an-Aenderungen-bei-Benachrichtigungen-und-Wo-ist-11321590.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321590</guid>
-      <description><![CDATA[Kurz vor der WWDC-Keynote sind weitere Details zum Look & Feel von iOS 27 durchgesickert. Apple plant kleinere Umbauten, die die Bedienung verbessern.]]></description>
-      <pubDate>Mon, 08 Jun 2026 13:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Computex: WisdPi Prom21: AMDs B650-Chipsatz als PCIe-Erweiterungskarte</title>
-      <link>https://www.heise.de/news/AMDs-Mainboard-Chipsaetze-landen-auf-PCIe-Erweiterungskarten-11321883.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321883</guid>
-      <description><![CDATA[Die Erweiterungskarte Prom21 von WisdPi bringt USB, M.2-Steckplätze und SATA. Theoretisch läuft sie sogar an Raspberry Pis.]]></description>
-      <pubDate>Mon, 08 Jun 2026 13:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Diesen roten Ferrari lässt sich HP teuer bezahlen</title>
-      <link>https://www.digitec.ch/de/page/diesen-roten-ferrari-laesst-sich-hp-teuer-bezahlen-42912?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/diesen-roten-ferrari-laesst-sich-hp-teuer-bezahlen-42912</guid>
-      <description><![CDATA[HP ist Hauptsponsor der Scuderia Ferrari in der Formel 1 und deswegen gibt es jetzt ein limitiertes Notebook im Ferrari-Design mit einem Preis, der zu den Autos passt.]]></description>
-      <pubDate>Mon, 08 Jun 2026 13:43:55 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] Drohnenzwischenfälle kosten die Luftfahrt Millionen</title>
@@ -998,13 +767,6 @@
       <pubDate>Mon, 08 Jun 2026 11:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] Keine neuen Grafikkarten bis 2028? Das ist gut so</title>
-      <link>https://www.digitec.ch/de/page/keine-neuen-grafikkarten-bis-2028-das-ist-gut-so-42909?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/keine-neuen-grafikkarten-bis-2028-das-ist-gut-so-42909</guid>
-      <description><![CDATA[AMD plant laut Herstellerpartnern, RDNA-5-Karten frühestens Ende 2027 auf den Markt zu bringen, realistischer ist 2028. Nvidia verfolgt mit der Rubin-Architektur einen ähnlichen Zeitplan. Klingt nach Hiobsbotschaft, dabei bringt es fast nur Vorteile mit sich.]]></description>
-      <pubDate>Mon, 08 Jun 2026 11:08:18 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] GOG bittet für Newsletter mit SS-Runen im Betreff um Entschuldigung</title>
       <link>https://www.heise.de/news/GOG-bittet-fuer-Newsletter-mit-SS-Runen-im-Betreff-um-Entschuldigung-11321400.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11321400</guid>
@@ -1038,13 +800,6 @@
       <guid isPermaLink="false">http://heise.de/-11321348</guid>
       <description><![CDATA[Airhockey ist ein sehr schnelles Spiel. Das stellt große Herausforderungen an einen KI-Spieler. Dieser muss allerdings nicht so aufwendig trainiert werden.]]></description>
       <pubDate>Mon, 08 Jun 2026 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] „Erhebliches Risiko“: Ferngesteuerte Spielzeuge verstoßen gegen EU-Funknormen</title>
-      <link>https://www.heise.de/news/Erhebliches-Risiko-Ferngesteuerte-Spielzeuge-verstossen-gegen-EU-Funknormen-11321262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11321262</guid>
-      <description><![CDATA[Die EU hat 88 funkgesteuerte Kinderspielzeuge auf Einhaltung von Funknormen geprüft. Wenige erfüllten alle Anforderungen – 22 Verkaufsverbote wurden verhängt.]]></description>
-      <pubDate>Mon, 08 Jun 2026 07:51:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
