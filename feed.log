@@ -1,5 +1,5 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 10.6.2026, 10:50:49
+Start: 10.6.2026, 10:57:07
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,86 +17,88 @@ Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: Negativ-Thema: Bericht über Krawalle und eskalierende Gewalt.): 'Proteste in Nordirland – Belfast: Proteste gegen Einwanderung eskalieren'
-- Gelöscht (Grund: Negativ-Thema: Bericht über ein Gewaltverbrechen/Tötungsdelikt.): 'Überfall auf Siedlung – Zwölf Tote bei Schiesserei nahe Johannesburg'
-- Gelöscht (Grund: Negativ-Thema: Bericht über Kriegshandlungen und militärische Angriffe.): 'Krieg in der Ukraine – Russland meldet über 300 ukrainische Drohnenangriffe'
-- Gelöscht (Grund: Negativ-Thema: Bericht über ein Unglück/Todesfall (kein direkter lokaler Bezug zu Morges/Waadtland im Sinne einer Meldung über den Wohnort).): 'Un Vaudois passe 3 heures à côté d’un passager mort en plein vol'
-- Gelöscht (Grund: Negativ-Thema: Kriminalität/Terrorismus.): 'Messerattacke in Winterthur – Bundesanwalt Blättler: «Wir gehen von terroristischem Motiv aus»'
-- Gelöscht (Grund: Negativ-Thema: Bericht über einen Tierkadaver (Umgang mit toten Tieren).): 'Buckelwal Timmy – Kadaver von Buckelwal Timmy wird in Dänemark verwertet'
-- Gelöscht (Grund: Duplikat: Thema wird in Artikel 66 ausführlicher behandelt.): 'Europäisches Kampfjet-Projekt – Deutschland und Frankreich ziehen die Reissleine'
-- Gelöscht (Grund: Duplikat: Identisches Thema zu Artikel 91.): 'Facteur licencié après 42 ans: La Poste va réexaminer le dossier'
-- Gelöscht (Grund: Negativ-Thema: Mordfall.): 'Nach Mord an Mädchen – Justizminister räumt nach Protesten Versäumnisse ein'
-- Gelöscht (Grund: Informativster Artikel zum Thema europäisches Kampfjet-Projekt.): 'Europäische Rüstungspolitik – Deutsch-französisches Kampfjet-Projekt FCAS gescheitert'
-- Gelöscht (Grund: Negativ-Thema: Tötungsdelikt.): 'Un homme a été arrêté à la suite du meurtre d'une femme au Lignon'
-- Gelöscht (Grund: Negativ-Thema: Naturkatastrophe/Unglück.): 'Tsunami-Warnung aufgehoben – Über 30 Tote bei Erdbeben vor den Philippinen'
-- Gelöscht (Grund: Duplikat: Identisches Thema zu Artikel 23.): 'Staatsbesuch in Nordkorea – Xi Jinping sichert Kim Jong-un Unterstützung zu'
-- Gelöscht (Grund: Duplikat: Identisches Thema zu Artikel 69.): 'West-Kurs beibehalten – Armenien: Regierungschef Paschinjan gewinnt die Wahl'
-- Gelöscht (Grund: Negativ-Thema: Unfall/Gefahrenlage.): 'Une trentaine de personnes évacuées après un incident chimique'
-- Gelöscht (Grund: Negativ-Thema: Unfall bei nächtlicher Suche.): 'Elle part promener son chien le soir, mais l'animal rentre seul'
+- Gelöscht (Grund: Negativ-Thema: Unruhen/Gewalt): 'Proteste in Nordirland – Belfast: Proteste gegen Einwanderung eskalieren'
+- Gelöscht (Grund: Negativ-Thema: Kriminalität/Gewalttat): 'Überfall auf Siedlung – Zwölf Tote bei Schiesserei nahe Johannesburg'
+- Gelöscht (Grund: Negativ-Thema: Krieg/Angriffe): 'Krieg in der Ukraine – Russland meldet über 300 ukrainische Drohnenangriffe'
+- Gelöscht (Grund: Negativ-Thema: Blaulicht/Unfall): 'Un Vaudois passe 3 heures à côté d’un passager mort en plein vol'
+- Gelöscht (Grund: Negativ-Thema: Kriminalität/Terrorismus): 'Messerattacke in Winterthur – Bundesanwalt Blättler: «Wir gehen von terroristischem Motiv aus»'
+- Gelöscht (Grund: Negativ-Thema: Kadaver/Entsorgung): 'Buckelwal Timmy – Kadaver von Buckelwal Timmy wird in Dänemark verwertet'
+- Gelöscht (Grund: Duplikat: Thema wird in Artikel 66 bereits behandelt): 'Europäisches Kampfjet-Projekt – Deutschland und Frankreich ziehen die Reissleine'
+- Gelöscht (Grund: Negativ-Thema: Kriminalität/Mord): 'Nach Mord an Mädchen – Justizminister räumt nach Protesten Versäumnisse ein'
+- Gelöscht (Grund: Negativ-Thema: Krieg): 'Angriffe auf Israel und Iran – Nahost-Experte: «Der Iran fühlt sich als Sieger des Krieges»'
+- Gelöscht (Grund: Negativ-Thema: Kriminalität/Vorwürfe): 'Verdacht auf Übergriffe – Chefankläger des Weltstrafgerichts vom Dienst suspendiert'
+- Gelöscht (Grund: Duplikat: Artikel 38 entfernt, 66 bleibt als SRF-Quelle): 'Europäische Rüstungspolitik – Deutsch-französisches Kampfjet-Projekt FCAS gescheitert'
+- Gelöscht (Grund: Duplikat: Thema wird in Artikel 68 bereits behandelt): 'Grosser Stromausfall – Szenario «Blackout»: Das passiert, wenn der Strom ausfällt'
+- Gelöscht (Grund: Negativ-Thema: Kriminalität/Mord): 'Un homme a été arrêté à la suite du meurtre d'une femme au Lignon'
+- Gelöscht (Grund: Negativ-Thema: Krieg/Sanktionen): 'Trotz eigener Raffinerien – Weshalb rationiert die russische Regierung Diesel und Benzin?'
+- Gelöscht (Grund: Negativ-Thema: Unfälle/Naturkatastrophen): 'Tsunami-Warnung aufgehoben – Über 30 Tote bei Erdbeben vor den Philippinen'
+- Gelöscht (Grund: Duplikat: Thema wird in Artikel 23 bereits behandelt): 'Staatsbesuch in Nordkorea – Xi Jinping sichert Kim Jong-un Unterstützung zu'
+- Gelöscht (Grund: Duplikat: Thema wird in Artikel 69 bereits behandelt): 'West-Kurs beibehalten – Armenien: Regierungschef Paschinjan gewinnt die Wahl'
+- Gelöscht (Grund: Negativ-Thema: Unfall/Blaulicht): 'Une trentaine de personnes évacuées après un incident chimique'
+- Gelöscht (Grund: Negativ-Thema: Unfall/Suche): 'Elle part promener son chien le soir, mais l'animal rentre seul'
+- Gelöscht (Grund: Duplikat: Thema wird in Artikel 41 bereits behandelt): 'Un postier licencié pour avoir livré des colis à l'étage'
 
 Finale Liste (live im XML-Feed):
 - [Morges Actualitiés] Fête de la Musique 2026
 - [SRF Ausland] Artan verpasst WM in den USA – «Terroristische Verbindungen»: Schiri aus Somalia abgewiesen
-- [20 Min Romandie] Das Casino von Neuchâtel erhält eine halbe Million Buße
+- [20 Min Romandie] Das Casino von Neuenburg erhält eine Geldstrafe von einer halben Million
 - [SRF Wissen] Neue Vogelart – Schwarzstorch brütet erstmals in der Schweiz
 - [SRF Wirtschaft] Sommersession 2026 – Trotz Einigung: Krimi um «Dreizehnte» geht weiter
-- [20 Min Romandie] Gewinne, die die Westschweiz zum Strahlen bringen
+- [20 Min Romandie] Gewinne, die die Westschweiz strahlen lassen
 - [SRF Schweiz] Shoppen am «Tag des Herrn» – Kirche und Linke spannen zusammen – um den Sonntag zu retten
 - [SRF Wirtschaft] Vereinfachung in der EU – Bald kaum mehr gedruckte Bedienungsanleitungen
 - [SRF Schweiz] Arbeitsmarkt für Lehrpersonen – Immer mehr wollen Lehrerin oder Lehrer werden
-- [20 Min Romandie] Neuchâtel muss über die Anerkennung seiner Senioren abstimmen
-- [20 Min Romandie] Ein polemisches Ladenschild verlässt die Strasse und kommt ins Museum
+- [20 Min Romandie] Neuenburg muss über die Anerkennung seiner Senioren abstimmen
+- [20 Min Romandie] Ein umstrittenes Schild verlässt die Strasse und kommt ins Museum
 - [SRF Wirtschaft] Privatkonkurs nach Todesfall – Nach dem Tod in Konkurs: Wenn die Erben den Nachlass ausschlagen
 - [SRF Schweiz] Finanzierung 13. AHV-Rente – Arbeiten für den «Ghüderchübu»? Die Einigungskonferenz als Rettung
-- [20 Min Romandie] Naturhistorisches Museum: Vollständige Wiedereröffnung auf 2036 verschoben
+- [20 Min Romandie] Naturhistorisches Museum: Komplette Wiedereröffnung auf 2036 verschoben
 - [SRF Ausland] Die Folgen des Irankriegs – Der grosse Scherbenhaufen am Persischen Golf
 - [Journal de Morges] Der Kanton will seine Gewehre nicht mehr an Schützengesellschaften ausleihen
 - [SRF Wirtschaft] Buchhandlung des Jahres 2026 – Quereinsteigerin räumt mit Buchladen BUK in Luzern ab
 - [SRF Schweiz] Fremdsprachenunterricht – Im bilinguen Kanton Bern ist Frühfranzösisch ein zu heisses Eisen
 - [SRF Ausland] Xi Jinping in Pjöngjang – Nordkorea sieht sich in der Atompolitik bestätigt
-- [20 Min Romandie] Israelische Angriffe und Menschenrechte im Zentrum der No-G7-Demo
-- [RTS Vaud] Steuerschutz: Eine Ad-hoc-Kommission prüft die Eröffnung eines Zivilverfahrens
-- [20 Min Romandie] Der Waadtländer Strafvollzug rekrutiert händeringend
+- [20 Min Romandie] Israelische Angriffe und Menschenrechte im Zentrum der No-G7-Demonstration
+- [RTS Vaud] Steuerschutzschild: Eine Ad-hoc-Kommission wird die Eröffnung eines Zivilverfahrens prüfen
+- [20 Min Romandie] Der Waadtländer Strafvollzug rekrutiert massiv
 - [SRF Schweiz] Affäre um falsches Zertifikat – Patrick Fischer äussert sich erstmals nach seiner Entlassung
 - [SRF Schweiz] Direkte Demokratie wackelt – Premiere in Basel: Stimmberechtigte sind keine Mehrheit mehr
 - [RTS Vaud] Eine trauernde Familie startet eine Petition für mehr Sicherheit an Bahnhöfen
 - [SRF Ausland] Iran bei der Fussball-WM – Zu Gast bei Feinden: «Team Mullah» in den USA
 - [SRF Wirtschaft] Nationaler Finanzausgleich – Finanzausgleich 2027: Die Profiteure sind Bern, Wallis und Aargau
-- [Journal de Morges] ARCAM | Das Boden-Puzzle für eine gute Ansiedlung
+- [Journal de Morges] ARCAM: Das Rätsel um die Grundstücke für eine gute Ansiedlung
 - [SRF Schweiz] Stimmen aus der Community – Sonntagsverkäufe: Die Mehrheit der «dialog»-Community ist dagegen
 - [SRF Wirtschaft] Streit um das Schweizerkreuz – Laufschuhkonzern On setzte Behörden unter Druck
 - [SRF Wissen] Schweizer Studie – Psilocybin gegen Depression – Studie liefert neue Ergebnisse
 - [SRF Schweiz] Session: Sonntagsverkäufe – Ständerat schützt den Sonntag als arbeitsfreien Tag
-- [Journal de Morges] Girardet geniesst den Aufstieg seines Saint-Prex
-- [Journal de Morges] Morges-Segler stark bei der Bol d’Or
+- [Journal de Morges] Girardet geniesst das Aufsteigen seines Saint-Prex
+- [Journal de Morges] Die Morgiens in grosser Zahl beim Bol d'Or
+- [20 Min Romandie] Postbote nach 42 Jahren entlassen: Die Post wird den Fall erneut prüfen
 - [SRF Schweiz] Internet im ÖV – Bald kein Gratis-Wlan mehr im Postauto
 - [SRF Wirtschaft] Wettkampf der KI-Konzerne – Auch OpenAI will an die Börse – Details bleiben geheim
-- [RTS Vaud] Das Théâtre de Vidy enthüllt eine erste Saisonhälfte 2026-2027 voller Kreationen
+- [RTS Vaud] Das Théâtre de Vidy enthüllt einen ersten Teil der Saison 2026-2027 mit vielen Kreationen
 - [SRF Wirtschaft] Elon Musks Weltraumunternehmen – Ökonom zu Börsengang von SpaceX: «Es ist hochspekulativ»
-- [Journal de Morges] Erfolg für den kantonalen Pumptrack
-- [20 Min Romandie] Ein Abgeordneter will jährliche Bewertungen für Lehrer einführen
+- [Journal de Morges] Erfolg des kantonalen Pumptracks
+- [20 Min Romandie] Ein Abgeordneter will jährliche Beurteilungen für Lehrer einführen
 - [SRF Wissen] Krebsmedizin – Viele Krebspatienten werden übertherapiert
 - [SRF Schweiz] Anstieg in 2025 – Beratungen wegen Körperverletzung und Drohungen nehmen stark zu
-- [20 Min Romandie] Neuer Kampf um die Sonntagsöffnung von Geschäften
+- [20 Min Romandie] Neuer Kampf um die Ladenöffnungszeiten am Sonntag
 - [SRF Wissen] Alpines Schmetterlingsparadies – «Hier leben mehr als die Hälfte aller Schweizer Tagfalter»
-- [20 Min Romandie] Auf Insta schlägt ein SVP-Abgeordneter vor, auf PSG-Randalierer zu schiessen
+- [20 Min Romandie] Auf Insta schlägt ein SVP-Abgeordneter vor, auf die PSG-Randalierer zu schiessen
 - [SRF Schweiz] Qualität im Gesundheitswesen – Der Bund streicht der Qualitätskommission Gesundheit Gelder
 - [SRF Wissen] Unerforschte Dunkelheit – Faszination Tiefsee – Expedition zum Grund der Meere
 - [SRF Wirtschaft] Von Finnland bis Japan – Atomkraft? Ja, bitte! Wo Kernenergie die Zukunft ist
-- [RTS Vaud] Grenzen, Strassen, Bahn, Flüge oder Schifffahrt: Welche Störungen gibt es während des G7?
+- [RTS Vaud] Grenzen, Strassen, Schiene, Flüge oder Schifffahrt: Welche Störungen gibt es während des G7-Gipfels?
 - [SRF Gesellschaft] «Der Fürst und seine Erben» – Peter Sloterdijk und die Banalität des Grossen
-- [SRF Ausland] Angriffe auf Israel und Iran – Nahost-Experte: «Der Iran fühlt sich als Sieger des Krieges»
-- [SRF Ausland] Verdacht auf Übergriffe – Chefankläger des Weltstrafgerichts vom Dienst suspendiert
 - [SRF Ausland] MMA, Basketball, Fussball – Trumps prall gefüllte Sportagenda
 - [SRF Wirtschaft] Neue Essgewohnheiten – Kantinen verlieren Marktanteile – und setzen auf «Ultrafrische»
-- [20 Min Romandie] Sie empört sich darüber, dass die Bank im Stillen Minderjährige wirbt
+- [20 Min Romandie] Sie empört sich darüber, dass die Bank heimlich Minderjährige ködert
 - [SRF Wirtschaft] Bilanzfälschung in Indien – Finanzskandal in Indien führt in die Schweiz
 - [SRF Schweiz] Nahe Schweizer Grenze in Evian – Genfer Schreinereien stossen wegen G7-Gipfel an ihre Grenzen
 - [SRF Wissen] Q&A Testosteron – «Macht Testosteronmangel dick – oder ist es umgekehrt?»
 - [SRF Schweiz] «Blackout-Initiative» – Hochspannung bei AKW-Debatte – und alle Augen auf die Mitte
 - [SRF Ausland] Wahlen in Armenien – Volk bestätigt EU-Kurs – nun muss Brüssel Paschinjan zügeln
 - [SRF Schweiz] Offener Brief zu UNO-Zielen – Offener Brief kritisiert Abwertung der UNO-Nachhaltigkeitsziele
-- [SRF Schweiz] Grosser Stromausfall – Szenario «Blackout»: Das passiert, wenn der Strom ausfällt
 - [SRF Schweiz] NDB-Lagebericht – Bund beobachtet aktuell 44 gefährliche Personen
 - [SRF Ausland] USA unter Donald Trump – Die Fussball-WM im Zeichen von Trumps Migrationspolitik
 - [SRF Schweiz] Hilfe nach Brandkatastrophe – So steht das Walliser Kantonsparlament zur Soforthilfe
@@ -106,8 +108,6 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Eine Waadtländer Kommission belebt die Idee der personalisierten Tickets wieder
 - [SRF Schweiz] Unterschriftensammlung – Zürcher Langstrasse soll Unesco-Weltkulturerbe werden
 - [SRF Ausland] Griechenland – Weniger städtische Unterkünfte für minderjährige Asylbewerber
-- [SRF Ausland] Trotz eigener Raffinerien – Weshalb rationiert die russische Regierung Diesel und Benzin?
-- [RTS Vaud] Der Kanton Waadt mobilisiert 2200 Personen während des G7
+- [RTS Vaud] Der Kanton Waadt mobilisiert während des G7 2200 Personen
 - [SRF Wissen] Mögliche Vorläufer von DNA – Organische Moleküle auf dem Mars: Ist das schon Leben?
 - [SRF Schweiz] Weltfussballverband Fifa – Blatter: «Im Grunde sind Infantino und ich geschiedene Leute»
-- [20 Min Romandie] Postbote nach Zustellung von Paketen an der Wohnungstür entlassen
