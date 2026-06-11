@@ -1,0 +1,65 @@
+=== VERANSTALTUNGEN-FEED PROTOKOLL ===
+Start: 11.6.2026, 21:53:38
+
+Abruf der RSS-Feeds:
+- https://politepaul.com/fd/Eyp580eFzrQR.xml
+- https://politepaul.com/fd/2tDyJyqc9jWn.xml
+- https://politepaul.com/fd/dkhMccrxjNSn.xml
+- https://politepaul.com/fd/LMgYtHqPB9vF.xml
+- https://politepaul.com/fd/AC9SWsow67fe.xml
+
+Statischer Filter (Keywords):
+- Keine Artikel durch statische Keywords gefiltert.
+
+KI-Filter (Gemini):
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Danse parents / enfants'
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Naturjuwel Haberfeld'
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur'
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Die Sammlung'
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Mit fliegendem Teppich durch die Geschichte'
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Ideen Schweiz'
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Einfach Zürich'
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Geschichte Schweiz'
+- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Seidenband. Kapital, Kunst & Krise'
+
+Finale Liste (live im XML-Feed):
+- [Morges Agenda] [Morges] [Sport] [Diffusion des matchs de la Coupe du Monde de Football] [11.06.2026 - 19.07.2026]
+- [Morges Agenda] [Morges] [Bildung] [Permanence Lire et écrire] [11.06.2026 - Datum unbekannt]
+- [Morges Agenda] [Morges] [Workshop] [Atelier artistique et linguistique "Je dessine, j’écris, je parle"] [11.06.2026 - Datum unbekannt]
+- [Morges Agenda] [Morges] [Kultur] [Morges-sous-Rire - Lou Trotignon] [11.06.2026 - Datum unbekannt]
+- [Morges Agenda] [Morges] [Kultur] [Morges-sous-Rire - Nadim] [11.06.2026 - Datum unbekannt]
+- [Morges Agenda] [Morges] [Kultur] [Morges-sous-Rire - Thomas Wiesel] [11.06.2026 - Datum unbekannt]
+- [Morges Agenda] [Morges] [Kultur] [Morges-sous-Rire - Julie Conti] [11.06.2026 - Datum unbekannt]
+- [Morges Agenda] [Morges] [Kultur] [Morges-sous-Rire - Laurent Gerra] [11.06.2026 - Datum unbekannt]
+- [Platform 10 Events] [Lausanne] [Ausstellung] [Ella Maillart] [Datum unbekannt - Datum unbekannt]
+- [Morges Agenda] [Morges] [Workshop] [Workshop Arturia (synthétiseurs) avec Noé Largeron] [09.06.2026 - 10.06.2026]
+- [Platform 10 Events 2] [Lausanne] [Workshop] [Atelier initiation au manga – Isao Takahata] [13.06.2026 - Datum unbekannt]
+- [Platform 10 Events 2] [Lausanne] [Workshop] [Atelier pour adultes – Confection de savons à froid] [13.06.2026 - Datum unbekannt]
+- [Platform 10 Events 2] [Lausanne] [Führung] [Visite commentée – Otobong Nkanga] [14.06.2026 - Datum unbekannt]
+- [Platform 10 Events 2] [Lausanne] [Führung] [Visite commentée – Et nous alors ?] [14.06.2026 - Datum unbekannt]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [Caline Aoun Thresholds of Impermanence] [03.05.2026 - 25.06.2026]
+- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
+- [Morges Agenda] [Morges] [Festival] [Festival Morges-sous-Rire] [06.06.2026 - 13.06.2026]
+- [Morges Agenda] [Morges] [Ausstellung] [Espace 81 - SANS FILTRE] [04.06.2026 - 30.06.2026]
+- [Morges Agenda] [Morges] [Sport] [Cours de sport à la piscine] [01.06.2026 - 30.08.2026]
+- [Morges Agenda] [Morges] [Ausstellung] [Musée Alexis Forel : Salon des fondateurs] [08.05.2026 - 01.11.2026]
+- [Morges Agenda] [Morges] [Ausstellung] [Musée Alexis Forel : De pierre à image] [08.05.2026 - 01.11.2026]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [Kolonial. Globale Verflechtungen der Schweiz] [29.03.2026 - 11.06.2026]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [Ella Maillart. Fotografische Erzählungen] [06.03.2026 - 01.06.2026]
+- [Morges Agenda] [Morges] [Ausstellung] [TOP SECRET - Espionnage et résistance] [14.11.2025 - 20.12.2026]
+- [Platform 10 Events] [Lausanne] [Ausstellung] [Et nous alors?] [Datum unbekannt - Datum unbekannt]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [Maria Pinińska-Bereś. Under the Pink Flag] [28.02.2026 - 14.06.2026]
+- [Morges Agenda] [Morges] [Loisirs] [1110-SPARK] [20.04.2026 - 27.06.2026]
+- [museum.ch Ausstellungen] [Zug] [Ausstellung] [Ilya & Emilia Kabakov – The Tennis Game] [16.10.2025 - 28.06.2026]
+- [Morges Agenda] [Morges] [Ausstellung] [Exposition photographique animalière] [02.05.2026 - 30.06.2026]
+- [Platform 10 Events] [Lausanne] [Ausstellung] [Peintures françaises 1800-1945] [Datum unbekannt - Datum unbekannt]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [1 Raum, 1 Werk. Installationen aus der Sammlung] [28.02.2026 - 15.06.2026]
+- [Platform 10 Events] [Lausanne] [Ausstellung] [Marina Xenofontos. Play Life] [Datum unbekannt - Datum unbekannt]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [Brian Dawn Chalkley. Angels Suffer Too] [07.03.2026 - 21.06.2026]
+- [Platform 10 Events] [Lausanne] [Ausstellung] [La collection] [Datum unbekannt - Datum unbekannt]
+- [Platform 10 Events] [Lausanne] [Ausstellung] [Isao Takahata] [Datum unbekannt - Datum unbekannt]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen] [10.11.2024 - 28.06.2026]
+- [Platform 10 Events] [Lausanne] [Ausstellung] [Otobong Nkanga. I dreamt of you in colours] [Datum unbekannt - Datum unbekannt]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [100 œuvres de la Collection jurassienne] [08.03.2026 - 28.06.2026]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [Seen, Spiegel der Schweiz] [12.03.2026 - 12.06.2026]
+- [museum.ch Ausstellungen] [Morges] [Ausstellung] [Mario Sala] [31.01.2026 - 21.06.2026]
