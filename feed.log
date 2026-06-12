@@ -1,5 +1,5 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 11.6.2026, 08:16:08
+Start: 12.6.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,115 +17,137 @@ Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: Kriminalität/Unglücksfall (keine Ausnahme für Morges/Waadtland da der Kerninhalt ein Unfall/Todesfall ist)): 'Décès à bord: l'équipage place le corps à côté de ce Vaudois'
-- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung): 'Urteil im Kettensägen-Fall – Keine Freilassung für Schaffhauser Kettensägen-Angreifer'
-- Gelöscht (Grund: Blaulicht/Vollzugsmeldung (kein lokaler Bezug)): 'Les tirs de régulation des cerfs reprendront à l'automne'
-- Gelöscht (Grund: Duplikat zum Thema Krawalle in Belfast (behalte ID 0)): 'Krawalle in Belfast – «Die sozialen Zustände sind vielerorts prekär, auch in Belfast»'
-- Gelöscht (Grund: Duplikat zum Thema Krawalle in Belfast (behalte ID 0)): 'Proteste in Nordirland – Belfast: Nach Messerangriff brennen Autos und Häuser'
-- Gelöscht (Grund: Kriminalität/Gewalttat): 'Überfall auf Siedlung – Zwölf Tote bei Schiesserei nahe Johannesburg'
-- Gelöscht (Grund: Duplikat zu ID 9 (Kriminalität/Todesfall)): 'Un Vaudois passe 3 heures à côté d’un passager mort en plein vol'
-- Gelöscht (Grund: Kriminalität/Terrorismus): 'Messerattacke in Winterthur – Bundesanwalt Blättler: «Wir gehen von terroristischem Motiv aus»'
-- Gelöscht (Grund: Kriminalität/Mord): 'Nach Mord an Mädchen – Justizminister räumt nach Protesten Versäumnisse ein'
-- Gelöscht (Grund: Kriminalität/Gewalttat): 'Anstieg in 2025 – Beratungen wegen Körperverletzung und Drohungen nehmen stark zu'
-- Gelöscht (Grund: Kriminalität/Gewaltdrohung): 'Sur Insta, un élu UDC suggère de tirer sur les émeutiers du PSG'
+- Gelöscht (Grund: Blaulicht-Meldung/Brand ohne Bezug zu geschützter Region.): 'Locataires évacués après un incendie sur le toit d'un immeuble'
+- Gelöscht (Grund: Blaulicht-Meldung/Unfall ohne Bezug zu geschützter Region.): 'Hauenstein Solothurn – Militärunfall mit gepanzertem Fahrzeug fordert neun Verletzte'
+- Gelöscht (Grund: Kriminalität/Unruhen.): 'Krawalle in Nordirland – Stadt von «The Troubles»: Belfast und die Gewalt'
+- Gelöscht (Grund: Duplikat zu 26/124.): 'Nordirland – Erneute Ausschreitungen in Belfast'
+- Gelöscht (Grund: Blaulicht-Meldung/Unglücksfall, Duplikat zu 128.): 'Décès à bord: l'équipage place le corps à côté de ce Vaudois'
+- Gelöscht (Grund: Duplikat zu 97/115.): 'Jean Ziegler – Ein Leben im Dienst der globalen Gerechtigkeit'
+- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung.): 'Proteste in Nordirland – Belfast: Nach Messerangriff brennen Autos und Häuser'
+- Gelöscht (Grund: Kriminalität/Gewaltverbrechen.): 'Überfall auf Siedlung – Zwölf Tote bei Schiesserei nahe Johannesburg'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] Nordirland – Erneute Ausschreitungen in Belfast
+- [20 Min Romandie] Dieses Foto brachte einer Freiburgerin einen ersten Preis
+- [20 Min Romandie] Wir sprechen im gleichen Rhythmus, wie Vögel singen
+- [SRF Ausland] WM-Start in Mexiko – Fussballsieg als Trostpflaster in Mexiko
+- [SRF Ausland] Nach jahrelangen Verhandlungen – EU verschärft Asylregeln – Reform in Kraft
+- [SRF Schweiz] 100. Jahrestag des «Zyklons» – Der Tornado, der den Jura verwüstete
+- [SRF Schweiz] Zu alte Milch – Kühe melken sich selber – Problem für Bezeichnung als Emmentaler
+- [SRF Wirtschaft] Börsengang von SpaceX – SpaceX geht an die Börse – die wichtigsten Fragen dazu
+- [SRF Ausland] Nach fast vier Jahren im Koma – Thailands Prinzessin Bha ist tot
+- [SRF Schweiz] Vertragspaket mit der EU – Ständemehr oder nicht? Schön, haben wir darüber gesprochen
+- [Journal de Morges] «Man kann keine komplexere Baustelle finden»
+- [SRF Schweiz] Iran-Krieg und die Folgen – «Die Ölkrise von 1973 ist nicht mit heute vergleichbar»
+- [SRF Schweiz] Zuviel verlangt fürs Gas – Gericht rügt Stadt St. Gallen bei den Gebühren
+- [RTS Vaud] Das CHUV schliesst das Geschäftsjahr 2025 mit einem kleinen Gewinn ab
+- [SRF Schweiz] Nach 48 Jahren in Pension – Felsputzer am Axen: Dem Brett am Füdle vertraute er sein Leben an
+- [Journal de Morges] Der Zahlenfreund sammelt Zinsen
+- [Journal de Morges] Die beiden Köpfe des Arboretums im Vallon de l’Aubonne gehen
+- [20 Min Romandie] Etwa zwanzig positive Tests nach Tuberkulosefall
+- [SRF Schweiz] Revision Heilmittelgesetz – Ärztinnen sollen Rezepte künftig elektronisch ausstellen
+- [SRF Schweiz] Eröffnung nach Sanierung – Teuer saniert: Berner Frauenklinik mit langer Leidensgeschichte
+- [SRF Schweiz] Neuer Campus Hitachi Energy – Hitachi Energy baut Campus im Kanton Zürich, nicht im Aargau
+- [SRF Schweiz] Turbulente Versammlung – Machtkampf um Kunsthaus Zug: Präsidentin muss Posten räumen
+- [20 Min Romandie] Zweites positives Geschäftsjahr in Folge für das CHUV
+- [20 Min Romandie] Frankreich wird nicht für die G7-Sicherheit zahlen: Schweizer «Bedauern»
+- [Journal de Morges] Sich bewegen und eine Verbindung zwischen Generationen schaffen
+- [20 Min Romandie] Ein Leck von Hydrauliköl erreicht den Greyerzersee
+- [Journal de Morges] In Morges, ein Spaziergang, um Bäume anders zu sehen
+- [SRF Schweiz] Glasfaser-Sabotage Rheinfelden – Fünf junge Schweizer wegen dutzenden Delikten verurteilt
+- [SRF Schweiz] Klimawandel im Schulalltag – Stadt Zürich reagiert auf Hitzestau in Klassenzimmern
+- [20 Min Romandie] PrimeEnergy-Debakel: Die Justiz wird Bertrand Piccard anhören
+- [20 Min Romandie] Jugendliche vor dem von Kriminellen versprochenen schnellen Geld gewarnt
+- [20 Min Romandie] Ein Jahr nach dem Sturm passt Festi’neuch seine Massnahmen an
+- [SRF Wissen] Ein Leben für die Pilze – Seltene Speisepilze aus Schweizer Pilzzucht
+- [SRF Wirtschaft] Gestiegene Inflation – EZB erhöht den Leitzins erstmals seit 2023
+- [SRF Schweiz] Fussball-WM in Nordamerika – Milliarden-Gewinne für die Fifa – kaum Geld für die Schweiz
+- [SRF Ausland] Wahlen in Kolumbien – Wer kann den kolumbianischen Präsidenten absetzen?
+- [SRF Gesellschaft] Gespräch über Familie – Im Labor vertauscht: Eine Frau sucht ihre Identität
+- [SRF Schweiz] Humanitäre Hilfe – Fastenaktion schliesst erstmals seit 2022 positiv ab
+- [SRF Schweiz] Stimmen aus der Community – «Grosse Wut, dass die Schweiz sich an G7-Kosten beteiligt»
+- [20 Min Romandie] Zwei Bergsteiger nach 100-Meter-Sturz von der Rega gerettet
+- [20 Min Romandie] Ein neues Mobilis-Abo zum Reisen und Vergnügen
+- [SRF Schweiz] Begrüntes Autobahndach – Ueberlandpark gewinnt hochdotierten Preis für Biodiversität
+- [SRF Schweiz] Ständeratswahlen 2027 – Zürcher Regierungsrätin Rickli will nicht in den Ständerat
+- [SRF Schweiz] Politiker auf dem Rasen – FC Nationalrat gewinnt – und sendet eine Botschaft an die Nati
+- [20 Min Romandie] Am ersten Tag seines Prozesses sagte S.B., er lebe «wie ein Landstreicher»
+- [SRF Wirtschaft] Sommersession 2026 – Das waren die wichtigsten Entscheide der zweiten Sessionswoche
+- [SRF Schweiz] Geld für Musik-Urheberrechte – Rekordjahr: Suisa nimmt 2025 so viel Geld ein wie noch nie
+- [SRF Ausland] Hitzemarsch in Indien – Die Klimakrise ist in Indien längst spürbar
+- [20 Min Romandie] Yverdon benennt eine Strasse zu Ehren einer ehemaligen Sklavin um
+- [Journal de Morges] Machtwechsel bei der Tour du Pays de Vaud
+- [SRF Schweiz] Totenruhe – Einigung im Disput über den jüdischen Friedhof in Freiburg
+- [20 Min Romandie] Passpflicht, Kontrollen und Sperren einen Tag davor: Evian verschanzt sich
+- [SRF Ausland] Fussball-WM – Kanada geht auf Distanz zu den USA
+- [20 Min Romandie] «Eine Entführung, dann ein Mord? Wir wissen es nicht, wir wissen es nicht»
+- [SRF Schweiz] Neues Sportzentrum geplant – Samih Sawiris löst in Andermatt ein altes Versprechen ein
+- [20 Min Romandie] Pascal Corminboeuf, ehemaliger Staatsrat, ist verstorben
+- [SRF Schweiz] Testen Sie Ihr Wissen – Was macht Putin auf der Bundeshauskuppel?
+- [SRF Schweiz] Kranke Lehrpersonen – Lehrkräfte fallen in Basel häufiger aus – das kostet Millionen
+- [SRF Wissen] Besatzung für Mondmission – Reine Männercrew bei «Artemis 3» sorgt für Kritik
+- [SRF Ausland] Prestigeprojekt in Italien – Korruptionsverdacht beim Brückenbau zu Messina
+- [SRF Schweiz] Direkte Demokratie wackelt – Premiere in Basel: Stimmberechtigte sind keine Mehrheit mehr
+- [Morges Actualitiés] Espace Couvaloup et la bibliothèque sortent cet été
+- [SRF Wirtschaft] Recht auf eine zweite Chance – Stecken Sie in der Schuldenspirale? Das können Sie tun
+- [20 Min Romandie] Die wegen mehrfachen Missbrauchs beschuldigte Pfarrerin darf nicht mehr praktizieren
+- [SRF Schweiz] Kritik an «Lindas» – Teuer und kaum genutzt: Schlechte Noten für Bundes-Datenplattform
+- [SRF Ausland] Krieg in der Ukraine – Ukrainischer Drohnenangriff trifft Raffinerie in Krasnodar
+- [SRF Wissen] Windkraft ohne Vogeltod? – Wetter-Radardaten können Vögel vor Windrädern schützen
 - [SRF Schweiz] Wegen G7-Gipfel in Évian – Neuer aussenpolitischer Ärger mit Frankreich
 - [SRF Ausland] Fussball-WM 2026 – Die «Bromance» der Mächtigen: Was Trump und Infantino verbindet
 - [SRF Ausland] UNHCR-Bericht – Zahl der Flüchtlinge weltweit erstmals seit zehn Jahren gesunken
 - [SRF Schweiz] Kokaingestützte Behandlung – Kontroverse um die Verschreibung von Kokain an Süchtige in Genf
 - [SRF Wirtschaft] Nokia, HP und Dell – Verstaubte Marken kehren zurück – dank KI
-- [SRF Schweiz] Städtische Mindestlöhne – Freud und Frust über Bundesgerichtsurteil zu Mindestlöhnen
-- [SRF Ausland] Krieg in der Ukraine – Ukraine-Krieg dauert nun so lange wie der Erste Weltkrieg
+- [SRF Schweiz] Städtische Mindestlöhne – Bundesgerichtsurteil zu Mindestlöhnen löst Freude und Frust aus
 - [SRF Schweiz] Aufrüstung in der Schweiz – Bundesrat Pfister: «Mein Büro wäre nicht vor Drohnen geschützt»
+- [Journal de Morges] Saint-Prex ist 90 Minuten von einem Doppelaufstieg entfernt!
 - [SRF Ausland] Anhörung vor US-Kongress – Bill Gates: Epstein wollte Wissen über Affären nutzen
 - [SRF Ausland] US-Politik in Lateinamerika – «In Kuba ist die Strategie der USA das Aushungern»
-- [20 Min Romandie] US-Militärhelikopter über der Schweiz
+- [20 Min Romandie] Amerikanische Militärhelikopter über der Schweiz
 - [SRF Ausland] Sagrada Família – Papst Leo segnet den höchsten Kirchturm der Welt
+- [SRF Schweiz] Urteil im Kettensägen-Fall – Keine Freilassung für Schaffhauser Kettensägen-Angreifer
+- [20 Min Romandie] Regulierungsabschüsse von Hirschen werden im Herbst wieder aufgenommen
+- [SRF Ausland] Krawalle in Belfast – «Die sozialen Zustände sind vielerorts prekär, auch in Belfast»
 - [SRF Ausland] Boykott trotz Fussball – Schweizer Fans zögern bei Reisen in die USA
 - [SRF Schweiz] Schweizer Energieversorgung – Im Boden oder an Masten: Die Diskussion um die Stromleitungen
 - [SRF Ausland] Aztekenstadion Mexiko-City – Jahrhundertspiel und Hand Gottes: Die Bühne für grosse WM-Momente
 - [SRF Wissen] «3 vo 5» – das Kultquiz – Ist die Gurke eine Beere? Testen Sie Ihr Wissen
 - [SRF Ausland] Solidarität für Mette-Marit – Tausende wollen kranke Kronprinzessin retten
-- [SRF Schweiz] Sommer-Aktion in Frankreich –  De-facto-GA für 29 Euro – aber nicht für Schweizer
+- [SRF Schweiz] Sommer-Aktion in Frankreich – De-facto-GA für 29 Euro – aber nicht für Schweizer
 - [SRF Gesellschaft] Zum Tod von Jean Ziegler – «Ungerechtigkeit konnte er nicht ertragen»
 - [20 Min Romandie] Neue Rubrik «Meinungen» auf lematin.ch gestartet
 - [SRF Schweiz] Kantonsrat St. Gallen – Religiöse Symbole für Lehrpersonen im Schulzimmer verboten
-- [20 Min Romandie] Fristlos entlassen, der Postbote ist «überrascht und erfreut» über die Unterstützung
+- [20 Min Romandie] Kurz entlassen, der Postbote ist «überrascht und glücklich» über die erhaltene Unterstützung
 - [SRF Schweiz] Finanzierung der 13. AHV-Rente – Das Absturzpotenzial bleibt
 - [SRF Schweiz] Systemkritiker und Soziologe – Jean Ziegler ist tot
 - [SRF Schweiz] Fifa-Einnahmen – Die Fussball-Geldmaschine läuft rund
-- [Journal de Morges] Fussball: Eine Saison mit unterschiedlichen Schicksalen
+- [Journal de Morges] Fussball: Eine Saison mit unterschiedlichem Schicksal
 - [SRF Wissen] Vorhersage von Naturgefahren – Wenn der Berg rutscht: Wie gefährlich sind Murgänge?
 - [SRF Schweiz] Umfrage – Jeder vierte Schweizer sieht Trump als Gegner
 - [SRF Schweiz] Wegen massivem Leck – Rätsel um Freibad: 100'000 Liter Wasser verschwinden täglich
-- [20 Min Romandie] Die feministische Streikbewegung wird an diesem Samstag den Verkehr in Lausanne stören
-- [SRF Schweiz] Jean Ziegler – Ein Leben im Dienst der globalen Gerechtigkeit
+- [20 Min Romandie] Der Frauenstreik wird den Lausanner Verkehr an diesem Samstag stören
 - [SRF Ausland] WM-Eröffnung 2026 – Mexiko-Stadt schliesst Schulen zur WM-Eröffnung
-- [20 Min Romandie] Die Demonstranten werden den Pont du Mont-Blanc meiden
+- [20 Min Romandie] Demonstranten werden es vermeiden, vor der Mont-Blanc-Brücke vorbeizuziehen
 - [SRF Ausland] Vermehrt Bewaffnete an Bord – Russland rüstet seine Schattenflotte auf
 - [SRF Wirtschaft] Energie-Umbau kommt voran – Europa macht vorwärts mit den Erneuerbaren
 - [SRF Schweiz] Giftige Raupe bei Derendingen – Hecken und Bäume bei A1 gefällt – wegen giftiger Raupe
 - [20 Min Romandie] In Sitten hat der Mega-Prozess gegen den Vermögensverwalter endlich begonnen
-- [Journal de Morges] Ein Morges-Bürger sammelt Verweigerungen des Zivilschutzes
+- [Journal de Morges] Ein Morgien-Wehrpflichtiger häuft Verweigerungen des Zivilschutzes an
 - [20 Min Romandie] Migros beendet Zusammenarbeit mit dem französischen Unternehmen Naturalia
 - [SRF Wissen] Neue Vogelart – Schwarzstorch brütet erstmals in der Schweiz
 - [SRF Schweiz] Nach Plagiat – SVP-Politikerin Nina Fehr Düsel behält Doktortitel
-- [20 Min Romandie] Ikone der Linken: Jean Ziegler im Alter von 92 Jahren verstorben
+- [20 Min Romandie] Persönlichkeit der Linken, Jean Ziegler, ist im Alter von 92 Jahren verstorben
 - [SRF Schweiz] Bundesgericht – Mindestlöhne in Zürich und Winterthur sind gültig
-- [SRF Wirtschaft] Sommersession 2026 – Vorkaufsrecht in Bauernbetrieben +++ «Netzexpress» im Ständerat
 - [SRF Schweiz] Toggenburger Bergbahnen-Streit – Erneuter Vermittlungsversuch für gemeinsames Skiticket scheitert
 - [SRF Ausland] Nach 144 Jahren – Die Sagrada Família steht: Erkunden Sie die Kirche im 3D-Modell
-- [Journal de Morges] Ehrenbürgerwürde für Georges Rime
+- [Journal de Morges] Ehrenbürgerschaft für Georges Rime
 - [SRF Gesellschaft] Erfolgs-Podcast «Hotel Matze» – Zu Gast in der Welt von Matze Hielscher
 - [SRF Ausland] Alexandr Polupan – Nawalnys Leben gerettet – aber chancenlos in Lettland
 - [20 Min Romandie] Givaudan entlässt mehrere Mitarbeiter nach Parfüm-Diebstählen
 - [Morges Actualitiés] Fête de la Musique 2026
 - [SRF Ausland] Artan verpasst WM in den USA – «Terroristische Verbindungen»: Schiri aus Somalia abgewiesen
-- [20 Min Romandie] Casino von Neuenburg erhält eine Geldbusse von einer halben Million
-- [20 Min Romandie] Gewinne, die die Westschweiz zum Strahlen bringen
+- [20 Min Romandie] Das Casino Neuenburg erhält eine Geldstrafe von einer halben Million
+- [20 Min Romandie] Ein Waadtländer verbrachte 3 Stunden neben einem verstorbenen Passagier während des Fluges
+- [20 Min Romandie] Gewinne, die die Westschweiz strahlen lassen
 - [SRF Schweiz] Shoppen am «Tag des Herrn» – Kirche und Linke spannen zusammen – um den Sonntag zu retten
 - [SRF Wirtschaft] Vereinfachung in der EU – Bald kaum mehr gedruckte Bedienungsanleitungen
-- [SRF Schweiz] Arbeitsmarkt für Lehrpersonen – Immer mehr wollen Lehrerin oder Lehrer werden
-- [20 Min Romandie] Neuenburg muss über die Anerkennung seiner Senioren abstimmen
-- [20 Min Romandie] Ein umstrittenes Schild verlässt die Strasse und landet im Museum
-- [SRF Wirtschaft] Privatkonkurs nach Todesfall – Nach dem Tod in Konkurs: Wenn die Erben den Nachlass ausschlagen
-- [SRF Schweiz] Finanzierung 13. AHV-Rente – Arbeiten für den «Ghüderchübu»? Die Einigungskonferenz als Rettung
-- [20 Min Romandie] Naturhistorisches Museum: Vollständige Wiedereröffnung auf 2036 verschoben
-- [SRF Ausland] Die Folgen des Irankriegs – Der grosse Scherbenhaufen am Persischen Golf
-- [Journal de Morges] Der Kanton will den Schützengesellschaften seine Gewehre nicht mehr leihen
-- [SRF Wirtschaft] Buchhandlung des Jahres 2026 – Quereinsteigerin räumt mit Buchladen BUK in Luzern ab
-- [SRF Schweiz] Fremdsprachenunterricht – Im bilinguen Kanton Bern ist Frühfranzösisch ein zu heisses Eisen
-- [SRF Ausland] Xi Jinping in Pjöngjang – Nordkorea sieht sich in der Atompolitik bestätigt
-- [20 Min Romandie] Israelische Angriffe und Menschenrechte im Zentrum der No-G7-Demo
-- [RTS Vaud] Steuerschutzschild: Ein Ad-hoc-Ausschuss befasst sich mit der Eröffnung eines Zivilverfahrens
-- [20 Min Romandie] Waadtländer Gefängnisdienst rekrutiert händeringend
-- [SRF Schweiz] Affäre um falsches Zertifikat – Patrick Fischer äussert sich erstmals nach seiner Entlassung
-- [SRF Schweiz] Direkte Demokratie wackelt – Premiere in Basel: Stimmberechtigte sind keine Mehrheit mehr
-- [Journal de Morges] Um dem Krieg zu entgehen, muss Louis Margot einen Umweg von 5000 km machen
-- [RTS Vaud] Eine trauernde Familie startet Petition für mehr Sicherheit in Bahnhöfen
-- [SRF Ausland] Iran bei der Fussball-WM – Zu Gast bei Feinden: «Team Mullah» in den USA
-- [SRF Wirtschaft] Nationaler Finanzausgleich – Finanzausgleich 2027: Die Profiteure sind Bern, Wallis und Aargau
-- [Journal de Morges] ARCAM: Das Boden-Puzzle für eine gute Ansiedlung
-- [SRF Schweiz] Stimmen aus der Community – Sonntagsverkäufe: Die Mehrheit der «dialog»-Community ist dagegen
-- [SRF Wirtschaft] Streit um das Schweizerkreuz – Laufschuhkonzern On setzte Behörden unter Druck
-- [SRF Wissen] Schweizer Studie – Psilocybin gegen Depression – Studie liefert neue Ergebnisse
-- [SRF Ausland] Buckelwal Timmy – Kadaver von Buckelwal Timmy wird in Dänemark verwertet
-- [SRF Schweiz] Session: Sonntagsverkäufe – Ständerat schützt den Sonntag als arbeitsfreien Tag
-- [SRF Ausland] Europäisches Kampfjet-Projekt – Deutschland und Frankreich ziehen die Reissleine
-- [Journal de Morges] Girardet geniesst den Aufstieg seines FC Saint-Prex
-- [Journal de Morges] Die Bewohner von Morges stark vertreten beim Bol d’Or
-- [20 Min Romandie] Postbote nach 42 Jahren entlassen: Die Post prüft den Fall erneut
-- [SRF Schweiz] Internet im ÖV – Bald kein Gratis-Wlan mehr im Postauto
-- [SRF Wirtschaft] Wettkampf der KI-Konzerne – Auch OpenAI will an die Börse – Details bleiben geheim
-- [RTS Vaud] Das Théâtre de Vidy enthüllt den ersten Teil einer Spielzeit 2026-2027 voller Eigenproduktionen
-- [20 Min Romandie] Ein Abgeordneter will jährliche Bewertungen für Lehrer einführen
-- [SRF Wissen] Krebsmedizin – Viele Krebspatienten werden übertherapiert
-- [20 Min Romandie] Neuer Kampf um die Ladenöffnungszeiten am Sonntag
-- [SRF Schweiz] Alpines Schmetterlingsparadies – «Hier leben mehr als die Hälfte aller Schweizer Tagfalter»
-- [SRF Schweiz] Qualität im Gesundheitswesen – Der Bund streicht der Qualitätskommission Gesundheit Gelder
-- [SRF Wissen] Unerforschte Dunkelheit – Faszination Tiefsee – Expedition zum Grund der Meere
-- [SRF Wirtschaft] Von Finnland bis Japan – Atomkraft? Ja, bitte! Wo Kernenergie die Zukunft ist
-- [RTS Vaud] Grenzen, Strassen, Bahn, Flüge oder Schifffahrt: Welche Störungen gibt es während des G7-Gipfels?
-- [SRF Gesellschaft] «Der Fürst und seine Erben» – Peter Sloterdijk und die Banalität des Grossen
