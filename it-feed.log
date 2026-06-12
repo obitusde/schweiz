@@ -1,5 +1,5 @@
-=== IT-FEED PROTOKOLL ===
-Start: 11.6.2026, 08:15:07
+=== IT-FEED-FEED PROTOKOLL ===
+Start: 12.6.2026, 08:39:51
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -9,92 +9,150 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords):
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern '
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Kawasaki Z650 S im Test: Der Evergreen wird aggressiver'
+- Gelöscht wegen Keyword 'podcast': 'Freitag: Google-TPUs von TSMC und Samsung, US-Spionage ohne US-Spionagegesetz'
+- Gelöscht wegen Keyword 'podcast': 'Auslegungssache 161: Löschpflicht trifft Speicherzwang'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Ist Mord alternativlos? No Other Choice im 4K-Test von UHD und Stream'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Mehr Tempo beim Coding – mit KI-Assistenten effizient programmieren'
+- Gelöscht wegen Keyword 'podcast': 'Siri AI, diesmal wirklich: Analyse der WWDC 2026 | Mac & i-Podcast'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Fußball-WM 2026: Mit welcher Technik die FIFA die WM präziser machen will'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | heise+ Expertentalk: Mobile Klimageräte – Tipps für den Kauf und Betrieb'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: gamescom jobs & career 2026: Recruiting-Messe und Fachkonferenz'
+- Gelöscht wegen Keyword 'podcast': 'c't-Podcast: "Vertrauenswürdige KI ist ein Kategorienfehler"'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Spielergrafikkarte: Radeon RX 9060 – Geheimtipp oder zu Recht versteckt?'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Linux-Server absichern – effektiv und umfassend'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Trick 17: Günstigen Balkonkraftwerksakku mit großer Solaranlage kombinieren'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Trick 17: Günstigen Balkonkraftwerksakku mit großer Solaranlage kombinieren'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Täuschen mit KI: Ein Deepfake-Experiment im Video-Test'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: SW-Architektur – CPSA Foundation Level mit iSAQB-Zertifizierung'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Die Konferenz für digitalen Wandel am 8. September in Hannovers Altstadt'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Microsoft 365 Copilot für IT-Administratoren'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Justitia auf Irrwegen: Die Rechtsprechung und der Kampf mit dem KI-Müll'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Batterien für E-Autos: Die Zellchemie LFP - jetzt kommt’s eisenhart'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: data2day: Bauen wir auch 2026 noch ein Sternschema?'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | SpaceX: Was der Börsengang für Anleger bedeutet'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Product Owner AI Day 2026: Workshop ausgebucht – Zusatztermin am 14. Juli'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: M365 für Admins – Sichere Konfiguration & effiziente Verwaltung lernen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: KI-gestütztes Pentesting und Reporting in zwei Tagen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: CustomGPTs als KI-Assistenten im Arbeitsalltag entwickeln'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bluetooth-Adapter für Aux-Geräte zum Sparpreis bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Wera-Werkzeug-Set zum neuen Amazon-Bestpreis rund 87 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Apple iPhone 17 Pro Max bei o2 mit mehr Datenvolumen für 1 Euro im Tarif mitnehmen'
-- Gelöscht wegen Keyword '(g+)': '(g+) Hungary: AI used to hunt Viktor Orbán's alleged corruption'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Outdoor-Bluetooth-Lautsprecher von JBL zum Tiefstpreis bei Amazon'
-- Gelöscht wegen Keyword '(g+)': '(g+) Konstruktiv streiten: Warum es manchmal wehtun muss'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Solakon Bestseller-Balkonkraftwerk mit 1.000 Watt kurzzeitig für unter 270 Euro bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Lenovo Idea Tab samt Stift bei Amazon über 50 Euro günstiger'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Neue Xiaomi-Smartwatch zum neuen Tiefstpreis im Angebot'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Action Cam Insta 360 X4 mit 8K günstig wie nie bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: LPIC-1-Prüfungen 101/102: Linux-Wissen strukturiert auffrischen'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Schnelle M.2-SSD mit 1 TByte zum Jahresbestpreis bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Zur WM schnellladen - nur 1,58 Euro pro USB-C-Kabel'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: WLAN-Repeater mit Wi-Fi 7 zum Aktionspreis bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Nr. 1 bei Amazon - Bestseller-Luftpumpe mit Akku jetzt nur noch rund 23 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Samsung TV mit 65 Zoll und 4K zur WM bei Amazon zum neuen Tiefstpreis sichern'
+- Gelöscht wegen Keyword '(g+)': '(g+) Russian Politics: How the FSB cut Russia off from the internet'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Microsoft Surface Pro zu Einsteigerpreisen bei Back Market'
+- Gelöscht wegen Keyword '(g+)': '(g+) iCloud: Von notorisch unzuverlässig zu technisch höchst anspruchsvoll'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Philips Sonicare DiamondClean 9000 jetzt zum neuen Amazon-Bestpreis'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Akku-Grasschere mit Strauchmesser für nur 29,99 Euro bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Reolink Argus Solar-Außenkamera jetzt noch kurz unter 100 Euro im Angebot bei Amazon'
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Oracle warnt außer der Reihe vor kritischer PeopleSoft-Codeschmuggel-Lücke'
-- Gelöscht (Grund: Duplikat zur Konsolen-Berichterstattung (Thema Xbox/Gaming)): 'Xbox: Microsoft plant laut Bericht neue Entlassungswelle im Juli'
-- Gelöscht (Grund: Sammelartikel, dessen Inhalte durch andere Artikel abgedeckt sind): 'Donnerstag: Xbox soll erschwinglich bleiben, Smart-Glasses-Produktion in Italien'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Available today: Anthropic Claude Fable 5 in Microsoft 365 Copilot'
-- Gelöscht (Grund: Passt zum Negativ-Thema Code-Theorie und Web-Infrastruktur): '.NET 11.0 Preview 5 vereinfacht das statische serverseitige Rendering in Blazor'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Ask Me Anything 17.6.: Digitale Souveränität: Raus aus der Cloud im IT-Alltag?'
-- Gelöscht (Grund: Duplikat zu Artikel 59): 'Valve: Bald gibt es keine Steam-Geschenkkarten im Handel mehr'
-- Gelöscht (Grund: Duplikat zu Artikel 29): 'Halo Campaign Evolved: Der Master Chief kehrt stark zurück'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'E-Mail-Fälschung bei Exchange Online: Ghost-Sender betrifft viele Unternehmen'
-- Gelöscht (Grund: Duplikat zu Artikel 72): 'Urteil gegen Google: Störerhaftung gilt nicht für KI-Übersicht von Suchergebnissen'
-- Gelöscht (Grund: Duplikat zu Artikel 53): 'Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden'
-- Gelöscht (Grund: Duplikat zu Artikel 23): 'Glasfaserausbau: TKG-Änderung soll Ausbau im Haus beschleunigen'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'OpenProject 17.5 führt projektbezogene IDs ein'
-- Gelöscht (Grund: Duplikat zu Artikel 32): 'Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto'
-- Gelöscht (Grund: Passt zum Negativ-Thema Code-Theorie (Entwickler-Themen)): 'Modern Warfare 4: Infinity Ward setzt auf weniger Chaos und mehr Kontrolle'
-- Gelöscht (Grund: Sammel-News, deren Kerninhalte einzeln abgedeckt sind): 'KI-Update: WWDC, Google soll haften, KI-Sicherheit, Mythos ist da, KI-Airhockey'
-- Gelöscht (Grund: Duplikat zu Artikel 95): 'Eilmassnahme der EU: WhatsApp muss andere KI-Chatbots zulassen'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Rauschen): 'macOS 27 nicht für Intel-Macs: Supportende zur falschen Zeit'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Servicenow: Großer Cloudanbieter informiert Kunden über Datenpanne'
-- Gelöscht (Grund: Passt zum Ausschluss-Thema iPhone/Smartphone-Regulierung (im Kontext Kinder-Sicherheit)): 'Großbritannien will auf Kinderhandys alle Bilder für Nacktbild-Blockade scannen'
-- Gelöscht (Grund: Passt zum Negativ-Thema Web-Infrastruktur/Browser): 'uBlock Origin: Die letzten Chrome-Workarounds fallen'
-- Gelöscht (Grund: Passt zum Negativ-Thema iOS/Siri-Äquivalent): 'Google kündigt „Gemini 3.5 Live Translate“ für Echtzeit-Übersetzung an'
-- Gelöscht (Grund: Passt zum Negativ-Thema Code-Theorie): 'Version 5 veröffentlicht: OpenCV bekommt bessere KI- und Python-Integration'
-- Gelöscht (Grund: Passt zum Negativ-Thema Deep OS-Internals): 'Root-Zugriff möglich: Falsch gesetztes Zeichen reißt Lücke in den Linux-Kernel'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Themen (iOS)): 'Neue KI-Foto- und Kamera-Funktionen: Das geht in iOS 27'
-- Gelöscht (Grund: Passt zum Negativ-Thema iPhone): 'Messbarer Geburtenrückgang: Haben wir weniger Sex seit der Einfühung des iPhones?'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Themen (iOS/Siri)): 'Anforderungen für iOS 27 und Co.: Zöpfe abgeschnitten, Siri AI teilbeschränkt'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Schluss mit doppelter Lizenzierung: Microsoft SQL Server in Amazon RDS'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Fortinet schließt Befehlsschmuggel-Lücke in FortiSandbox und mehr'
-- Gelöscht (Grund: Duplikat zu Artikel 64): 'Starlink ändert Geschäftsmodell: Hardware-Kits für Neukunden zur Miete'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Patchday: Adobe schließt mehr als 120 Sicherheitslücken in InDesign & Co.'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Microsoft-Patchday mit offenem Ende: Forscher legt RoguePlanet-Zero-Day nach'
-- Gelöscht (Grund: Sammelartikel, dessen Inhalte durch andere Artikel abgedeckt sind): 'Mittwoch: NASA-Mondlandung weiter verschoben, EU droht WhatsApp mit Geldstrafen'
-- Gelöscht (Grund: Duplikat zu Artikel 48): 'NASA verschiebt erste Mondlandung: Artemis III wird Testflug im Erdorbit'
-- Gelöscht (Grund: Duplikat zu Artikel 10): 'Das wird teuer: Anthropics Claude Mythos 5 erscheint als Fable 5 mit Schranken'
-- Gelöscht (Grund: Sammelartikel, dessen Inhalte durch andere Artikel abgedeckt sind): 'Nintendo Direct (9. Juni 2026): «Ocarina of Time»-Remake, «Kingdom Hearts IV» und mehr'
-- Gelöscht (Grund: Passt zum Negativ-Thema Web-Infrastruktur/Plattform-Sicherheit): 'KI-Kettenbrief ist fake - aber es gibt trotzdem ein WhatsApp-Problem'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT (Chip-Infrastruktur)): 'Intel Foundry: Neue Gerüchterunde über Nvidia und Google'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Rauschen): 'Apple öffnet sich ein wenig für Android und Windows'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Rauschen): 'Apples Start ins KI-Zeitalter ist ein Fiasko'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Themen (Siri)): 'EU reagiert auf Apples Siri-AI-Blockade, weist DMA-Vorwürfe zurück'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Rauschen): 'iOS 27, macOS 27 und Co.: Entwickler dürfen Betas installieren'
-- Gelöscht (Grund: Duplikat zu Artikel 119): 'Euro-Office: Erste Version des quelloffenen Web-Office ist da'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'SAP-Patchday: Kritische Lücken in SAP NetWeaver und weitere Schwachstellen'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Rauschen): 'tvOS 27 und watchOS 27: Das ist neu bei Apple TV und Apple Watch'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Rauschen): 'Foldable-Hinweise: iOS 27 bringt passende Features mit'
-- Gelöscht (Grund: Passt zum Negativ-Thema Enterprise-IT): 'Check Point warnt: Angreifer umgehen VPN-Authentifizierung'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Rauschen): 'Tim Cook: Leiser Abschied bei der WWDC-Keynote'
-- Gelöscht (Grund: Passt zum Negativ-Thema Apple-Themen (visionOS)): 'visionOS 27: Das ist neu beim Vision-Pro-Betriebssystem'
-- Gelöscht (Grund: Passt zum Negativ-Thema Code-Theorie): 'Asynchrone Programmierung – Teil 4: Qt6 mit QPromise und QFuture'
+- Gelöscht (Grund: Betrifft Apple-Themen (macOS) und OS-Internals/Basteleien.): 'Asahi Linux warnt vor Upgrade auf macOS 27 „Golden Gate“'
+- Gelöscht (Grund: Duplikat zu Artikel 5.): 'SpaceX glückt der Rekordbörsengang, Elon Musk wird zum ersten Billionär'
+- Gelöscht (Grund: Betrifft Apple-Themen.): 'Apple gibt Cloud-Modell für kleinere Entwickler kostenlos frei'
+- Gelöscht (Grund: Duplikat zu Artikel 23.): 'YouTube Premium wird in Deutschland teurer – teils erheblich'
+- Gelöscht (Grund: Betrifft Apple-Themen.): 'Apples neue RAW-Entwicklung reduziert Rauschen drastisch'
+- Gelöscht (Grund: Betrifft OS-Internals/Linux-Verwandte Betriebssysteme.): 'FreeBSD: Rechteausweitungslücke mit augenzwinkerndem Codenamen'
+- Gelöscht (Grund: Betrifft Apple-Themen.): 'Apples Passwörter-App wird agentisch'
+- Gelöscht (Grund: Betrifft Apple-Themen.): 'Intel-Aus: So lange will Apple Sicherheitspatches liefern'
+- Gelöscht (Grund: Betrifft Netzwerk-Infrastruktur.): 'Arista 7060XE7: 1,6-Tbit/s-Switches für KI-Netzwerke'
+- Gelöscht (Grund: Duplikat zu Artikel 46.): 'Deezer: Kostenloses Tool scannt Musik-Playlists auf KI-Musik'
+- Gelöscht (Grund: Betrifft Apple-Themen.): 'macOS 27: Apple nimmt Touchscreen-Steuerung vorweg – via iPad'
+- Gelöscht (Grund: Betrifft Enterprise-IT/Server-Infrastruktur.): 'Microsoft warnt: Hacker attackieren Outlook-Nutzer über gefährliche Exchange-Lücke'
+- Gelöscht (Grund: Betrifft Enterprise-IT/MDM-Infrastruktur.): 'Geräteverwaltung: Root-Attacken auf Ivanti Endpoint Manager Mobile möglich'
+- Gelöscht (Grund: Betrifft Netzwerk-Infrastruktur/Sicherheitsstandards.): 'OpenSSL: Präparierte Signatur kann Weg für Schadcode ebnen'
+- Gelöscht (Grund: Betrifft Deep OS-Internals (Windows-Bastelei/Exploits).): 'Neuer Bitlocker-Bypass: Chaotic Eclipse wirft weiter mit Windows-Exploits um sich'
+- Gelöscht (Grund: Betrifft Deep OS-Internals/Betriebssystem-Updates.): 'Android 17 QPR1 Beta 4: Update bringt neue „Screen Reactions“ und Bugfixes'
+- Gelöscht (Grund: Betrifft Enterprise-IT/Software-Infrastruktur.): 'Oracle warnt außer der Reihe vor kritischer PeopleSoft-Codeschmuggel-Lücke'
+- Gelöscht (Grund: Betrifft Code-Theorie/Web-Infrastruktur.): '.NET 11.0 Preview 5 vereinfacht das statische serverseitige Rendering in Blazor'
+- Gelöscht (Grund: Betrifft Enterprise-IT/Mail-Infrastruktur.): 'E-Mail-Fälschung bei Exchange Online: Ghost-Sender betrifft viele Unternehmen'
+- Gelöscht (Grund: Betrifft Code-Theorie/Entwickler-Tools.): 'OpenProject 17.5 führt projektbezogene IDs ein'
+- Gelöscht (Grund: Betrifft Apple-Themen.): 'macOS 27 nicht für Intel-Macs: Supportende zur falschen Zeit'
+- Gelöscht (Grund: Betrifft Web-Infrastruktur/Entwickler-Tools.): 'npm packt seine riskantesten Sicherheitsprobleme an'
+- Gelöscht (Grund: Betrifft Apple-Themen.): 'OpenLogi: Alternative zu problematischer Options+-App für den Mac'
+- Gelöscht (Grund: Duplikat zu Artikel 37.): 'Kampf den Betrügern: Valve nimmt Steam-Geschenkkarten aus dem Einzelhandel'
+- Gelöscht (Grund: Betrifft Web-Infrastruktur.): 'uBlock Origin: Die letzten Chrome-Workarounds fallen'
+- Gelöscht (Grund: Betrifft Apple-Themen/iOS.): 'Neue KI-Foto- und Kamera-Funktionen: Das geht in iOS 27'
+- Gelöscht (Grund: Betrifft Apple-Themen/iOS/Siri.): 'Anforderungen für iOS 27 und Co.: Zöpfe abgeschnitten, Siri AI teilbeschränkt'
+- Gelöscht (Grund: Betrifft Code-Theorie/Entwickler-Tools.): 'Markdown-Notizapp Note Mark erreicht Version 1.0'
+- Gelöscht (Grund: Betrifft Enterprise-IT.): 'Schluss mit doppelter Lizenzierung: Microsoft SQL Server in Amazon RDS'
+- Gelöscht (Grund: Betrifft Enterprise-IT/Netzwerk-Infrastruktur.): 'Fortinet schließt Befehlsschmuggel-Lücke in FortiSandbox und mehr'
+- Gelöscht (Grund: Betrifft Deep OS-Internals/Basteleien.): 'Video: So installiert und nutzt ihr lokale KI-Modelle'
+- Gelöscht (Grund: Betrifft Enterprise-IT.): 'Patchday: Adobe schließt mehr als 120 Sicherheitslücken in InDesign & Co.'
+- Gelöscht (Grund: Betrifft Deep OS-Internals (Windows-Exploits).): 'Microsoft-Patchday mit offenem Ende: Forscher legt RoguePlanet-Zero-Day nach'
+- Gelöscht (Grund: Betrifft Netzwerk-Infrastruktur/DNS.): '„Passwort“ Folge 59: Vom DNSSEC-Fail beim DENIC, Domainklau und anderen News'
 
 Finale Liste (live im XML-Feed):
-- [Heise] Weltweit erster vollelektrischer TaxiBot auf Airport Schiphol im Einsatz
-- [Golem] Tankrabatt-Ende: Ab Juli zahlen Autofahrer wieder voll
-- [Golem] Bis zu 60 Euro für alle Prime-Abonnenten: Amazon drohen Strafzahlungen von mindestens 7,8 Millionen Euro
-- [Golem] Reichweite steigt: KI-Drohnen zerstören Russlands Nachschub
+- [Heise] Neura Robotics erhält frisches Kapital in Höhe von bis zu 1,4 Milliarden Dollar
+- [Heise] Geldwäsche: Kryptomixer „AudiA6“ stillgelegt, zwei Verantwortliche festgenommen
+- [Heise] YouTube weitet Direktnachrichten aus
+- [Golem] Finanzämter: BfDI sieht KI-Training mit echten Steuerdaten kritisch
+- [Golem] Einnahmen von 75 Milliarden US-Dollar: SpaceX macht Rekord-Börsengang perfekt
+- [Heise] US-Spionage: Rechtsgrundlage läuft aus, Spionage läuft weiter
+- [Heise] Google könnte zur Fertigung neuer TPU-Generation neben TSMC auch Samsung nutzen
+- [Digitec] «Masters of the Universe» hat kein Recht, so gut zu sein
+- [Digitec] Bowers & Wilkins Px7 S3 im Test: Emotion statt Analyse
+- [Digitec] Open-Source-Tipp: Mealie räumt meine Rezeptsammlung auf
+- [Microsoft] Available today: Anthropic Claude Fable 5 in Microsoft 365 Copilot
+- [Heise] Robotertaxis: Waymo startet Treueprogramm
+- [Heise] Testsieger: Die beste elektrische SUP-Pumpe mit Akku im Test – bequem aufpumpen
+- [Heise] Auslaufmodell Antennenfernsehen? Mobilfunker machen Druck
+- [Heise] Wärmepumpen-Boom: Neubauten setzen verstärkt auf Erneuerbare
+- [Heise] Glasfaser-Ausbau: Netzbetreiber üben scharfe Kritik an TKG-Entwurf
+- [Heise] Schnelle Glasfaser zur WM? Verbraucherzentrale mahnt 1&1 ab
+- [Heise] Debatte um mögliche Entlastung nach Ende des Tankrabatts
+- [Heise] Diagnosegerät für Maker und Hardware-Entwickler
+- [Golem] Humanoide Roboter: Warum der Bosch-Chef Elon Musk gut findet
+- [Heise] Rätsel der Astronomie gelöst? „Galaxientötender Wind“ im frühen Kosmos entdeckt
+- [Golem] Streaming: Youtube Premium wird in Deutschland teurer
+- [Heise] Autonomes Boot rettet US-Piloten aus Seenot
+- [Microsoft] What’s New in Notebooks | June 2026
+- [Golem] Kameras: Über 400 Falschparker in Frankfurt von Bussen aufgezeichnet
+- [Golem] Nasdaq: Kursrutsch vor dem SpaceX-Börsengang
+- [Heise] KVM-Switch mit HDMI für zwei Monitore kostet unter 50 Euro: Unitek V1312 im Test
+- [Heise] DSGVO: Gericht reduziert Millionen-Buße für Deutsche Wohnen deutlich
+- [Digitec] Ich bin auf die Hue Bridge Pro umgestiegen – und nach anfänglichem Stirnrunzeln liefs wie geschmiert
+- [Digitec] Bluesky startet mit «Communities» Themen-Gruppen à la Reddit
+- [Golem] Astronomie: Zwei oder vier Eisriesen im Sonnensystem?
+- [Golem] Tomb Raider: Lara Croft kehrt spektakulär zurück
+- [Heise] Wetterradar soll Schutz der Zugvögel vor Windrädern verbessern
+- [Digitec] Steam-Geschenkkarten verschwinden aus dem Ladenregal
+- [Golem] Tomb Raider: "Heute werden selbst feinste Gesichtsausdrücke erfasst"
+- [Heise] Digitale Teilhabe: Ethikrat gegen pauschales Mindestalter für soziale Medien
+- [Heise] VW zeigt in Dresden Prototyp eines autonomen Laderoboters
+- [Heise] „Krise abgewendet“: Die Expansion des Universums beschleunigt sich doch weiter
+- [Golem] Disclosure Day: Spielbergs neuer Alien-Film wirkt jetzt schon wie von gestern
+- [Golem] Russell T. Davies enthüllt: Doctor-Who-Christmas-Special war nie geplant
+- [Heise] Deezer: Gratis-Tool prüft Playlists auf KI-generierte Musik
+- [Golem] Epstein Files: Bill Gates wurde laut eigenen Aussagen von Jeffrey Epstein erpresst
+- [Digitec] Wal schluckt Mann: Hier kommt der Trailer zu «Whalefall»
+- [Heise] China plant landesweites KI-Rechenzentrum-Netz für 295 Milliarden US-Dollar
+- [Digitec] Das sind die neuen PS-Plus-Spiele im Juni 2026
+- [Heise] Samsung Galaxy: Akku-Probleme nach Software-Updates
+- [Heise] OECD zu Altersgrenzen für Social Media: Genug des Wartens
+- [Golem] KI-generierter Gastbeitrag: Ein Armutszeugnis für die politische Debatte
+- [Golem] Fedora: Mysteriöser KI-Agent bei Sabotageversuchen erwischt
+- [Golem] CCS: CO2-Speicherung weiterhin zu teuer und ineffizient
+- [Heise] Streaming-Abos: Jeder fünfte Haushalt zahlt über 100 Euro im Monat
+- [Golem] ICE-Überwachung: Abschieben per Algorithmus
+- [Golem] DiffusionGemma: Google beschleunigt Gemma 4 mit Technik zur Bilderzeugung
+- [Digitec] 30 Prozent mehr Akkulaufzeit als sein Vorgänger: Xiaomi 17T Pro im Test
+- [Golem] KI-Agenten: OpenAI kann künftig Visa-Karten benutzen
+- [Heise] KI-Skandal um Thüringens Ministerpräsidenten: FAZ depubliziert Gastartikel
+- [Heise] Twelve erzeugt synthetisches Kerosin aus CO₂ und Wasser in Airplant One
+- [Golem] Apache: 35.000-Dollar-Drohne schrottet 25-Millionen-Dollar-Hubschrauber
+- [Golem] Probefahrt Denza Z9 GT: Das perfekte Angeberauto
+- [Heise] Fable 5 blockiert auch sicheren Code
+- [Golem] Commonwealth Fusion Systems: Fusionsreaktor mit 400 MW bleibt technisches Wagnis
+- [Heise] PowerToys werden 0.100: Neue Tastenkombinationsübersicht
+- [Golem] Elektroauto: BYDs Flash-Charging soll unter 60 Cent pro kWh kosten
+- [Digitec] Keine Story, keine NPCs – warum «Solarpunk» trotzdem verdammt viel Spaß macht
+- [Golem] Neue Regeln: Galaxus hat rund 380.000 Bewertungen gelöscht
+- [Digitec] Jetzt erhältlich: Gaming-Tastatur G512 X 98 von Logitech
+- [Heise] Wie neue 3D-Scanner am Flughafen das Verbot von Flüssigkeiten an Bord lockern
+- [Heise] CO₂-Preis: EU will Preissprünge beim Tanken und Heizen vermeiden
+- [Heise] Amazon-Prime-Sammelklage: Mehr als 130.000 Verbraucher im Klageregister
+- [Heise] NGO und die Presse gegen Motorradhersteller KTM: Ein heftiges G'schmäckle
+- [Heise] Ubisoft schließt Studios in Winnipeg und Belgrad – bis zu 380 Jobs weg
+- [Heise] Erster vollelektrischer TaxiBot senkt Flugzeug-Emissionen in Schiphol erheblich
+- [Heise] Xbox: Microsoft plant laut Bericht neue Entlassungswelle im Juli
 - [Digitec] Lasst die schlechten alten Kopfhörer in Frieden ruhen
+- [Heise] Donnerstag: Xbox soll erschwinglich bleiben, Smart-Glasses-Produktion in Italien
 - [Heise] Meta-Partner EssilorLuxottica fertigt Smart Glasses künftig auch in Europa
 - [Heise] Xbox-Chefin: Das Wettrüsten der Spielkonsolen ist zu weit gegangen
 - [Heise] SK Hynix: Börsengang in den USA steht bevor
@@ -104,82 +162,40 @@ Finale Liste (live im XML-Feed):
 - [Heise] US-Militärliste: Pentagon sanktioniert Chinas Tech-Giganten
 - [Heise] Antrag der Linken abgelehnt: Das Neun-Euro-Ticket kommt nicht wieder
 - [Heise] EU-Kommission legt Verhaltenskodex zur Kennzeichnung von KI-Inhalten vor
-- [Golem] Ministerpräsident von Thüringen: FAZ löscht KI-generierten Beitrag von Mario Voigt
 - [Digitec] «Crushed in Time» durchbricht die Zeit und die vierte Wand
 - [Heise] KI im Job: Weiterbildung, Governance, Kompetenz – alles Mangelware
-- [Golem] Recht auf Vollausbau: Kabinett beschließt TKG-Novelle für schnelleren Netzausbau
 - [Heise] Nebenkostenprivileg: Kabelnetzbetreiber fordern Schadenersatz
-- [Golem] Fable: Ein sprechendes Schwein, gebrochene Herzen und 1.000 NPCs
+- [Heise] Medizinregistergesetz: Viele offene Fragen bei Forschungskennziffer und Co.
 - [Digitec] Traumhafte Fantasy-Welt mit einem Haken: «Echoes of Aincrad» angespielt
 - [Digitec] «Halo: Campaign Evolved»-Vorschau: So spielt sich das Remake des Kultshooters
-- [Golem] Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben
 - [Heise] Eiswürfelmaschine Ice Cube Maker Qexreed im Test: 9 Eiswürfel in 8 Minuten
 - [Heise] Trump-Regierung verpasst ziviler KI-Prüfstelle angeblich einen Maulkorb
-- [Golem] Zweifelhafte Studie: Untersuchung verknüpft Windräder und Herzerkrankungen
+- [Heise] Glasfaserausbau: TKG-Änderung soll Ausbau im Haus beschleunigen
+- [Heise] Porsche-Chef Leiters: Der 911 wird nie ein Elektroauto
 - [Heise] Gemini-Ausfall: Google bestätigt Störung der KI-App
 - [Heise] TSMC stimmt auf Preiserhöhungen ein, Samsung wächst zur Alternative
-- [Golem] Neural Dawn: ARM und Sumo Digital zeigen Mali-KI-Rendering-Features
+- [Heise] KI-Update: WWDC, Google soll haften, KI-Sicherheit, Mythos ist da, KI-Airhockey
 - [Digitec] «Order of the Sinking Star» angespielt: Bis die Köpfe rauchen
 - [Heise] Phishing: Banken nutzen halbseidene Domains
-- [Golem] Artemis III: Das ist die neue Mondbesatzung
-- [Golem] Zugvögel: Abschaltung von Windrädern für Vögel kostet kaum Strom
-- [Golem] Einblick in Unterlagen: Was der Börsengang über Bending Spoons verrät
-- [Heise] npm packt seine riskantesten Sicherheitsprobleme an
+- [Digitec] Eilmassnahme der EU: WhatsApp muss andere KI-Chatbots zulassen
 - [Heise] Mercedes GLC: Zwei Varianten mit 85-kWh-Batterie nachgereicht
 - [Heise] Bosch setzt auf Milliardenmarkt mit Robotik und KI
 - [Heise] AZ-Delivery gibt sein Geschäft auf: Das Ende eines bekannten Maker-Shops
-- [Heise] OpenLogi: Alternative zu problematischer Options+-App für den Mac
-- [Heise] Kampf den Betrügern: Valve nimmt Steam-Geschenkkarten aus dem Einzelhandel
+- [Heise] Großbritannien will auf Kinderhandys alle Bilder für Nacktbild-Blockade scannen
 - [Heise] Der Stuttgarter Hauptbahnhof wird voraussichtlich erst 2031 eröffnet
-- [Golem] Ende einer Ära: BBC streicht Doctor-Who-Weihnachtsspecial
-- [Golem] Preiserhöhung: Neukunden müssen Miete für Starlink-Hardware zahlen
+- [Heise] Google kündigt „Gemini 3.5 Live Translate“ für Echtzeit-Übersetzung an
 - [Heise] Document Foundation vs. Euro-Office: „De facto ein Verbündeter von Microsoft“
-- [Golem] Germanium-Solarzelle: Hocheffizientes Solarmodul nutzt andere Anordnung
-- [Golem] SpaceX-IPO: Rakete, Satellit, KI - und jetzt die Börse
 - [Heise] LG München I: Google für falsche Aussagen in KI-Übersichten verurteilt
-- [Golem] Kultfilm von 1987: Masters of the Universe erscheint in längerem Preview Cut
 - [Heise] NASA-Satellitendaten zeigen starken Rückgang des Grundwassers in Brasilien
-- [Heise] Markdown-Notizapp Note Mark erreicht Version 1.0
 - [Heise] „Kingdom Hearts 4“ zeigt sich ausführlich: Trailer bricht jahrelange Funkstille
-- [Heise] Video: So installiert und nutzt ihr lokale KI-Modelle
+- [Heise] Starlink ändert Geschäftsmodell: Hardware-Kits für Neukunden zur Miete
+- [Heise] Datadog baut Observability-Plattform zum autonomen KI-Teamkollegen aus
 - [Heise] Ausprobiert: Klappmaus Logitech Mobi Fold
 - [Heise] Nintendo Switch 2: FromSoftware kündigt Netzwerktest für „The Duskbloods“ an
 - [Heise] Zelda: Nintendo kündigt Switch-2-Remake von „Ocarina of Time“ an
 - [Heise] No Fakes Act: US-Spielebranche warnt vor Deepfake-Gesetzgebung
 - [Digitec] Jetzt erhältlich: faltbare Maus und Presenter von Logitech
 - [Heise] Datenleck: Cyberangriff auf französischen Regierungs-Messenger Tchap
+- [Heise] Justitia auf Irrwegen: Die Rechtsprechung und der Kampf mit dem KI-Müll
 - [Heise] Ist die symbolische KI aktueller denn je?
-- [Heise] „Passwort“ Folge 59: Vom DNSSEC-Fail beim DENIC, Domainklau und anderen News
 - [Digitec] Künstliche Hand lernt Klavierspiel durch Zuhören
-- [Heise] EU: WhatsApp muss andere KI-Chatbots kostenfrei zulassen, sonst droht Zwangsgeld
-- [Digitec] So findest du den besten Saugroboter für dich
-- [Heise] Die besten Poolroboter mit Akku im Test – für kleine & große Pools ab 150 Euro
-- [Heise] Russischer Internetsatellit stürzt ab
-- [Heise] Smart Glasses: In der EU formiert sich Widerstand
-- [Heise] Reaktion auf Claude Mythos? Bundesregierung gründet KI-Sicherheitsinstitut
-- [Heise] Frust bei E-Auto-Fahrern: Schnittstelle für Drittanbieter weg – VW arbeitet dran
-- [Heise] Von Rettungsdienst bis Klinik: Wer unter NIS2 und KRITIS fällt
-- [Heise] MS-Office-Alternative: Öffentliche Beta von SoftMaker Office 2026 gestartet
-- [Heise] Darknet Diaries Deutsch: Nackt im Netz - Teil 2
-- [Heise] Dreo Turbocool 765S im Test: Turmventilator mit App kühlt mit feinem Sprühnebel
-- [Heise] Ultrawideband (UWB) für Autoschlüssel und Tags: Weiter funken, präziser orten
-- [Heise] OpenCV 5.0 bringt LLMs in die Computer-Vision-Bibliothek
-- [Heise] Stromausfall in Reutlingen war mutmaßlich Brandstiftung
-- [Heise] Nextcloud Hub 26 Spring: Euro-Office fordert Collabora heraus
-- [Heise] So spart sich AWS 69 Prozent der Router
-- [Heise] NotebookLM kann jetzt Excel-Tabellen und Präsentationen erzeugen
-- [Heise] Zahlen, bitte! Die bislang größte Fußball-WM mit 48 Mannschaften
-- [Heise] Amazon muss nicht bis Ende Juli über 1600 Satelliten im All haben
-- [Heise] Software Testing: Wenn GenAI gegen ethische Werte von Menschen verstößt
-- [Heise] Airbus zeigt autonomen Helikopter U145 auf der ILA
-- [Heise] Google reduziert Preis für AI-Plus-Abo und verdoppelt Speicher
-- [Heise] Nach Entlassungswelle: Meta investiert in Handwerker für KI-Rechenzentren
-- [Heise] Nintendo: Frankreich bestraft Joy-Con-Drift mit 35 Millionen Euro
-- [Heise] Angular 22 legt neuen Fokus auf KI-Coding
-- [Heise] „Thief: The Dark Project Remastered“ – Stealth-Klassiker von 1998 kehrt zurück
-- [Heise] „Halo: Campaign Evolved“ erscheint am 28. Juli auf Xbox, PC und Playstation 5
-- [Heise] Ströer und Verfassungsschutz kooperieren für IT-Sicherheitswarnungen
-- [Heise] Humanoider Roboter für extreme Umgebungen: „Pemba“ besteigt Vulkan Chimborazo
-- [Heise] Ausbau der Ladeinfrastruktur: Fokus verschiebt sich auf Schnelllader
-- [Heise] ChatGPT sichert Nutzer: Was der Lockdown-Mode bringt und wovor er nicht schützt
-- [Digitec] Neue Bewertungs-Regeln: Was ist mit Produkten, die ich geschenkt bekomme?
