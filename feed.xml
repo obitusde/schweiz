@@ -5,20 +5,118 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[20 Min Romandie] Dieses Foto brachte einer Freiburgerin einen ersten Preis</title>
+      <title>[Journal de Morges] Die Verteilung der Departemente in Morges ist bekannt</title>
+      <link>https://journaldemorges.ch/actualite/politique/la-repartition-des-dicasteres-morgiens-est-connue-2/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/politique/la-repartition-des-dicasteres-morgiens-est-connue-2/</guid>
+      <description><![CDATA[Die Verteilung der Departemente der Gemeinde Morges wurde an diesem Freitag bekannt gegeben.]]></description>
+      <pubDate>Fri, 12 Jun 2026 10:58:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Tod von Thailands Prinzessin – «Bha galt als volksnah und war sehr beliebt»</title>
+      <link>https://www.srf.ch/news/international/tod-von-thailands-prinzessin-bha-galt-als-volksnah-und-war-sehr-beliebt</link>
+      <guid isPermaLink="false">urn:srf:article:019ebb10-e380-1e7d-ebf8-5b83e789c260</guid>
+      <description><![CDATA[Mit dem Tod von Thailands ältester Prinzessin verliert die Königsfamilie ihr erfolgreichstes Mitglied.]]></description>
+      <pubDate>Fri, 12 Jun 2026 10:55:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges Presse] Verteilung der Direktionen für die nächste Legislaturperiode</title>
+      <link>https://www.morges.ch/espace-presse/repartition-des-directions-pour-la-prochaine-legislature-213232</link>
+      <guid isPermaLink="false">https://www.morges.ch/espace-presse/repartition-des-directions-pour-la-prochaine-legislature-213232</guid>
+      <description><![CDATA[Verteilung der Direktionen für die kommende Amtszeit.]]></description>
+      <pubDate>Fri, 12 Jun 2026 10:54:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Rückblick Fussball-WM – Wie die WM 1994 den Schweizer Fussball veränderte</title>
+      <link>https://www.srf.ch/news/schweiz/rueckblick-fussball-wm-wie-die-wm-1994-den-schweizer-fussball-veraenderte</link>
+      <guid isPermaLink="false">urn:srf:article:019eb5bb-c028-a30c-9586-c5f072db4c88</guid>
+      <description><![CDATA[Endlich: Nach 28 Jahren hat sich die Nati 1994 wieder mal für eine WM qualifiziert. Die Stars von damals blicken zurück.]]></description>
+      <pubDate>Fri, 12 Jun 2026 10:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Der Anteil der Erwerbsbevölkerung in Genf ist in zehn Jahren gesunken</title>
+      <link>https://www.20min.ch/fr/story/geneve-la-part-de-la-population-active-a-recule-en-dix-ans-a-geneve-103581175</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-la-part-de-la-population-active-a-recule-en-dix-ans-a-geneve-103581175</guid>
+      <description><![CDATA[Die Anzahl der Personen, die arbeiten oder eine Stelle suchen, nimmt im Verhältnis zu Studierenden, Rentnern und Hausfrauen/-männern stetig ab.]]></description>
+      <pubDate>Fri, 12 Jun 2026 09:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Iran-Krieg – «Die USA hätten nicht nur einen Krieg verloren»</title>
+      <link>https://www.srf.ch/news/international/iran-krieg-die-usa-haetten-nicht-nur-einen-krieg-verloren</link>
+      <guid isPermaLink="false">urn:srf:article:019eba0d-2b74-43f1-cfbb-11edf7bf4a41</guid>
+      <description><![CDATA[ETH-Sicherheitsexperte Roland Popp sagt, warum die USA bei Verhandlungen mit dem Iran nicht nachgeben wollen.]]></description>
+      <pubDate>Fri, 12 Jun 2026 09:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Im Fall des Keffiyeh weigert sich das OSR, den Schleier zu lüften</title>
+      <link>https://www.20min.ch/fr/story/canton-de-geneve-dans-l-affaire-du-keffieh-l-osr-refuse-de-lever-le-voile-103581152</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-geneve-dans-l-affaire-du-keffieh-l-osr-refuse-de-lever-le-voile-103581152</guid>
+      <description><![CDATA[Trotz einer Empfehlung des Transparenzbeauftragten weigert sich die Genfer Institution, Dokumente im Zusammenhang mit einer umstrittenen Entlassung im November 2025 offenzulegen.]]></description>
+      <pubDate>Fri, 12 Jun 2026 09:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bauern versus Umweltschützer – Streit um Ackerland</title>
+      <link>https://www.srf.ch/news/schweiz/bauern-versus-umweltschuetzer-streit-um-ackerland</link>
+      <guid isPermaLink="false">urn:srf:article:019eb71c-9995-5509-b363-5e9ffff386c3</guid>
+      <description><![CDATA[Für Schutzorganisationen wird das Erwerben von Land künftig wohl schwieriger, wie ein Beispiel von Pro Natura zeigt.]]></description>
+      <pubDate>Fri, 12 Jun 2026 08:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Lage dürfte sich verschärfen – Pegelstände von Flüssen und Seen auf einem rekordtiefen Niveau</title>
+      <link>https://www.srf.ch/news/schweiz/lage-duerfte-sich-verschaerfen-pegelstaende-von-fluessen-und-seen-auf-einem-rekordtiefen-niveau</link>
+      <guid isPermaLink="false">urn:srf:article:019ebade-6381-adb6-4a81-e868dfa13b91</guid>
+      <description><![CDATA[Der jüngste Regen hat kaum geholfen: Die Schweiz leidet weiter unter Trockenheit.]]></description>
+      <pubDate>Fri, 12 Jun 2026 08:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Defekt im Unterwerk Mett – Stundenlanger Stromausfall in der Stadt Biel</title>
+      <link>https://www.srf.ch/news/schweiz/defekt-im-unterwerk-mett-stundenlanger-stromausfall-in-der-stadt-biel</link>
+      <guid isPermaLink="false">urn:srf:article:019eba40-f59c-5afe-2715-458319553eab</guid>
+      <description><![CDATA[Die Bevölkerung durfte keine Lifte benutzen und musste alle netzbetriebenen Geräte ausschalten.]]></description>
+      <pubDate>Fri, 12 Jun 2026 07:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Die Morettis wollen ihre Restaurants wiedereröffnen, Italien ist empört</title>
+      <link>https://www.20min.ch/fr/story/drame-de-crans-montana-les-moretti-veulent-reouvrir-leurs-restos-l-italie-s-indigne-103581089</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/drame-de-crans-montana-les-moretti-veulent-reouvrir-leurs-restos-l-italie-s-indigne-103581089</guid>
+      <description><![CDATA[Das Ehepaar hat Schritte unternommen, um zwei seiner Walliser Betriebe wieder zu eröffnen. Dies löst eine neue Welle des Zorns auf der Halbinsel aus.]]></description>
+      <pubDate>Fri, 12 Jun 2026 07:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] SAC – Der Klimawandel treibt die Kosten der Berghütten in die Höhe</title>
+      <link>https://www.srf.ch/news/dialog/sac-der-klimawandel-treibt-die-kosten-der-berghuetten-in-die-hoehe</link>
+      <guid isPermaLink="false">urn:srf:article:019e2036-f181-4946-b697-332f06580e95</guid>
+      <description><![CDATA[Steigende Kosten setzen Berghütten unter Druck. Der Schweizer Alpen‑Club (SAC) prüft höhere Preise.]]></description>
+      <pubDate>Fri, 12 Jun 2026 06:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Südkoreanisches Gericht – Ex-Präsident Yoon zu weiteren 30 Jahren Haft verurteilt</title>
+      <link>https://www.srf.ch/news/international/suedkoreanisches-gericht-ex-praesident-yoon-zu-weiteren-30-jahren-haft-verurteilt</link>
+      <guid isPermaLink="false">urn:srf:article:019eba3a-5f9f-ca36-183f-115f16c4b446</guid>
+      <description><![CDATA[Das Bezirksgericht in Seoul hat ihn des Machtmissbrauchs und der Feindbegünstigung schuldig gesprochen.]]></description>
+      <pubDate>Fri, 12 Jun 2026 05:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Genf und sein G8-Trauma – In Genf sichern Geschäfte ihre Auslagen mit Brettern</title>
+      <link>https://www.srf.ch/news/schweiz/genf-und-sein-g8-trauma-in-genf-sichern-geschaefte-ihre-auslagen-mit-brettern</link>
+      <guid isPermaLink="false">urn:srf:article:019eacf8-3153-5498-abe1-a8dec325b580</guid>
+      <description><![CDATA[Das Treffen in Evian ab Montag weckt böse Erinnerungen an 2003. Damals kam es zu Strassenschlachten in Genf.]]></description>
+      <pubDate>Fri, 12 Jun 2026 05:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Dieses Foto brachte einer Freiburgerin einen ersten Preis ein</title>
       <link>https://www.20min.ch/fr/story/distinction-cette-photo-a-offert-un-premier-prix-a-une-fribourgeoise-103580578</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/distinction-cette-photo-a-offert-un-premier-prix-a-une-fribourgeoise-103580578</guid>
-      <description><![CDATA[Die Fotografin Sylvie Ayer wurde bei einem internationalen Wettbewerb für Ozeanfotografie ausgezeichnet, indem sie einen Hai inmitten eines „Sardinentornados“ festhielt.]]></description>
+      <description><![CDATA[Die Fotografin Sylvie Ayer, Gewinnerin eines internationalen Unterwasser-Fotowettbewerbs, zeichnete sich durch das Bild eines Hais inmitten eines Sardinen-Schwarms aus.]]></description>
       <pubDate>Fri, 12 Jun 2026 04:11:49 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Wir sprechen im gleichen Rhythmus, wie Vögel singen</title>
       <link>https://www.20min.ch/fr/story/universite-de-geneve-nous-parlons-au-meme-rythme-que-chantent-les-oiseaux-103580668</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/universite-de-geneve-nous-parlons-au-meme-rythme-que-chantent-les-oiseaux-103580668</guid>
-      <description><![CDATA[Eine Studie der UNIGE hat gezeigt, dass die meisten Tiere unabhängig von ihrer Art in einem ähnlichen Rhythmus vokalisieren und die gleiche Kommunikationskadenz teilen.]]></description>
+      <description><![CDATA[Eine Studie der Universität Genf (UNIGE) hat gezeigt, dass die meisten Tiere unabhängig von ihrer Art in einem ähnlichen Rhythmus lautieren und möglicherweise denselben Kommunikationsrhythmus teilen.]]></description>
       <pubDate>Fri, 12 Jun 2026 04:10:30 GMT</pubDate>
     </item>
     <item>
@@ -36,8 +134,8 @@
       <pubDate>Fri, 12 Jun 2026 03:54:54 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] 100. Jahrestag des «Zyklons» – Der Tornado, der den Jura verwüstete</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/100-jahrestag-des-zyklons-der-tornado-der-den-jura-verwuestete</link>
+      <title>[SRF Schweiz] 100. Jahrestag des «Zyklons» – Der Jura‑Tornado von 1926: die vergessene Katastrophe?</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/100-jahrestag-des-zyklons-der-jura-tornado-von-1926-die-vergessene-katastrophe</link>
       <guid isPermaLink="false">urn:srf:article:019ea75a-903a-0e80-7ecc-b0e81a2b770c</guid>
       <description><![CDATA[Es war einer der schwersten Tornados in der Schweizer Geschichte. Eine Ausstellung widmet sich nun der Naturkatastrophe.]]></description>
       <pubDate>Fri, 12 Jun 2026 03:52:35 GMT</pubDate>
@@ -50,8 +148,8 @@
       <pubDate>Fri, 12 Jun 2026 03:47:17 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wirtschaft] Börsengang von SpaceX – SpaceX geht an die Börse – die wichtigsten Fragen dazu</title>
-      <link>https://www.srf.ch/news/wirtschaft/boersengang-von-spacex-spacex-geht-an-die-boerse-die-wichtigsten-fragen-dazu</link>
+      <title>[SRF Wirtschaft] Börsengang von SpaceX – SpaceX geht an die Börse – die wichtigsten Antworten</title>
+      <link>https://www.srf.ch/news/wirtschaft/boersengang-von-spacex-spacex-geht-an-die-boerse-die-wichtigsten-antworten</link>
       <guid isPermaLink="false">urn:srf:article:019eb690-2079-1c32-4b5d-f48bf51a33df</guid>
       <description><![CDATA[Das Raumfahrtunternehmen SpaceX verkauft Aktien im Wert von 75 Milliarden Dollar. Am Freitag ist der erste Handelstag.]]></description>
       <pubDate>Fri, 12 Jun 2026 03:30:14 GMT</pubDate>
@@ -71,10 +169,10 @@
       <pubDate>Thu, 11 Jun 2026 20:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] «Man kann keine komplexere Baustelle finden»</title>
+      <title>[Journal de Morges] «Sie können keine komplexere Baustelle finden»</title>
       <link>https://journaldemorges.ch/actualite/vous-ne-pouvez-pas-trouver-un-chantier-plus-complexe/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/vous-ne-pouvez-pas-trouver-un-chantier-plus-complexe/</guid>
-      <description><![CDATA[Die Arbeiten an der Bahnhofsbrücke begannen im September und obwohl sie die Nutzer ziemlich verärgern, sind sie vor allem unerlässlich. Wir haben unsere Helme aufgesetzt, um Sie ins Herz der Baustelle zu führen.]]></description>
+      <description><![CDATA[Die Arbeiten an der Bahnhofsbrücke begannen im September. Obwohl sie viele Nutzer verärgern, sind sie unerlässlich. Wir haben unseren Helm aufgesetzt, um Sie ins Herz der Baustelle mitzunehmen.]]></description>
       <pubDate>Thu, 11 Jun 2026 19:53:20 GMT</pubDate>
     </item>
     <item>
@@ -92,10 +190,10 @@
       <pubDate>Thu, 11 Jun 2026 17:52:26 GMT</pubDate>
     </item>
     <item>
-      <title>[RTS Vaud] Das CHUV schliesst das Geschäftsjahr 2025 mit einem kleinen Gewinn ab</title>
+      <title>[RTS Vaud] Das CHUV schliesst die Jahresrechnung 2025 mit einem kleinen Gewinn ab</title>
       <link>https://www.rts.ch/info/regions/vaud/2026/article/le-chuv-affiche-un-petit-benefice-de-1-1-million-de-francs-en-2025-29271260.html?rts_source=rss_t</link>
       <guid isPermaLink="false">29271260</guid>
-      <description><![CDATA[Die Jahresrechnung 2025 des CHUV weist einen Gewinn von 1,1 Millionen Franken aus. Dieses Ergebnis ist schlechter als 2024 (Gewinn von 4,6 Millionen), aber deutlich besser als das Budget, das ein Defizit von 15,4 Millionen vorsah.]]></description>
+      <description><![CDATA[Die Bilanz 2025 des CHUV weist einen Gewinn von 1,1 Millionen Franken aus. Dieses Ergebnis ist zwar schlechter als 2024 (4,6 Millionen Gewinn), aber weitaus besser als das budgetierte Defizit von 15,4 Millionen.]]></description>
       <pubDate>Thu, 11 Jun 2026 17:41:45 GMT</pubDate>
     </item>
     <item>
@@ -106,24 +204,24 @@
       <pubDate>Thu, 11 Jun 2026 17:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] Der Zahlenfreund sammelt Zinsen</title>
+      <title>[Journal de Morges] Der Zahlenfreund häuft Interessen an</title>
       <link>https://journaldemorges.ch/actualite/societe/lami-des-chiffres-cumule-les-interets/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/lami-des-chiffres-cumule-les-interets/</guid>
-      <description><![CDATA[Als Finanzverantwortlicher in mehreren Waadtländer Gemeinden hat der Stadtrat und zukünftige Gemeindepräsident von Denges bereits viele Hüte auf und ist bestrebt, einen gemeinsamen Nenner zu finden, um manchmal gegensätzliche Positionen zu versöhnen.]]></description>
+      <description><![CDATA[Der Finanzverantwortliche in mehreren Waadtländer Gemeinden und künftige Gemeindepräsident von Denges hat bereits mehrere Ämter inne und versucht, einen gemeinsamen Nenner zu finden, um unterschiedliche Positionen zu vereinen.]]></description>
       <pubDate>Thu, 11 Jun 2026 16:36:10 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] Die beiden Köpfe des Arboretums im Vallon de l’Aubonne gehen</title>
+      <title>[Journal de Morges] Die zwei Köpfe des Arboretums im Vallon de l'Aubonne gehen</title>
       <link>https://journaldemorges.ch/actualite/les-deux-tetes-de-larboretum-du-vallon-de-laubonne-sen-vont/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/les-deux-tetes-de-larboretum-du-vallon-de-laubonne-sen-vont/</guid>
-      <description><![CDATA[Durch Zufall verlassen der Direktor Pascal Sigg und der Präsident Pierre-Alain Blanc ihre Funktionen gleichzeitig mit dem Gefühl, ihre Aufgabe erfüllt zu haben. Eine Bilanz nach etwa 15 Jahren.]]></description>
+      <description><![CDATA[Durch Zufall im Zeitplan verlassen der Direktor Pascal Sigg und der Präsident Pierre-Alain Blanc ihre Funktionen gleichzeitig, mit dem Gefühl, ihre Pflicht erfüllt zu haben. Ein Rückblick nach etwa fünfzehn Jahren.]]></description>
       <pubDate>Thu, 11 Jun 2026 16:21:10 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Etwa zwanzig positive Tests nach Tuberkulosefall</title>
+      <title>[20 Min Romandie] Etwa zwanzig positive Tests nach einem Tuberkulose-Fall</title>
       <link>https://www.20min.ch/fr/story/valais-une-vingtaine-de-tests-positifs-apres-un-cas-de-tuberculose-103580687</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/valais-une-vingtaine-de-tests-positifs-apres-un-cas-de-tuberculose-103580687</guid>
-      <description><![CDATA[Das vom Kanton durchgeführte Massenscreening wurde intensiviert, nachdem ein Lehrer im vergangenen April an Tuberkulose erkrankt war. Mehrere positive Fälle wurden registriert.]]></description>
+      <description><![CDATA[Das vom Kanton durchgeführte Massenscreening intensiviert sich, nachdem ein Lehrer im vergangenen April an Tuberkulose erkrankt war. Es wurden mehrere positive Fälle verzeichnet.]]></description>
       <pubDate>Thu, 11 Jun 2026 16:17:13 GMT</pubDate>
     </item>
     <item>
@@ -158,35 +256,28 @@
       <title>[20 Min Romandie] Zweites positives Geschäftsjahr in Folge für das CHUV</title>
       <link>https://www.20min.ch/fr/story/canton-de-vaud-deuxieme-exercice-positif-consecutif-pour-le-chuv-103580665</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-deuxieme-exercice-positif-consecutif-pour-le-chuv-103580665</guid>
-      <description><![CDATA[Das CHUV erzielte 2025 einen Gewinn von 1,1 Millionen Franken. Das Waadtländer Universitätsspital beendet damit das zweite Jahr in Folge in den schwarzen Zahlen.]]></description>
+      <description><![CDATA[Das CHUV verzeichnete 2025 einen Gewinn von 1,1 Millionen Franken. Damit schliesst das Waadtländer Universitätsspital das zweite Jahr in Folge mit schwarzen Zahlen ab.]]></description>
       <pubDate>Thu, 11 Jun 2026 15:16:54 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Frankreich wird nicht für die G7-Sicherheit zahlen: Schweizer «Bedauern»</title>
+      <title>[20 Min Romandie] Frankreich zahlt nicht für die G7-Sicherheit: Schweizer «Bedauern»</title>
       <link>https://www.20min.ch/fr/story/geneve-la-france-ne-paiera-pas-pour-la-securite-du-g7-regrets-suisses-103580533</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-la-france-ne-paiera-pas-pour-la-securite-du-g7-regrets-suisses-103580533</guid>
-      <description><![CDATA[Kanton und Bund beklagen das endgültige Fehlen einer Einigung über eine französische Kostenbeteiligung an der Sicherheit, insbesondere in Genf, am Rande des Gipfels von Evian.]]></description>
+      <description><![CDATA[Kanton und Bund beklagen das endgültige Fehlen einer Einigung über eine französische Beteiligung an den Sicherheitskosten in Genf, unter anderem im Rahmen des G7-Gipfels von Evian.]]></description>
       <pubDate>Thu, 11 Jun 2026 15:04:48 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] Sich bewegen und eine Verbindung zwischen Generationen schaffen</title>
+      <title>[Journal de Morges] Sich bewegen und dabei Verbindungen zwischen Generationen schaffen</title>
       <link>https://journaldemorges.ch/actualite/societe/bouger-en-tissant-un-lien-entre-generations/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/bouger-en-tissant-un-lien-entre-generations/</guid>
-      <description><![CDATA[Das Programm „Generationen in Form“ schlägt vor, körperliche Aktivität mit sozialem Austausch zu verbinden, ab diesem Sommer in den Grünanlagen von Morges und La Sarraz.]]></description>
+      <description><![CDATA[Das Programm «Generationen in Form» schlägt vor, ab diesem Sommer in Grünanlagen von Morges und La Sarraz körperliche Aktivität mit sozialem Austausch zu verbinden.]]></description>
       <pubDate>Thu, 11 Jun 2026 14:56:01 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Ein Leck von Hydrauliköl erreicht den Greyerzersee</title>
-      <link>https://www.20min.ch/fr/story/canton-de-fribourg-une-fuite-d-huile-hydraulique-atteint-le-lac-de-la-gruyere-103580637</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-fribourg-une-fuite-d-huile-hydraulique-atteint-le-lac-de-la-gruyere-103580637</guid>
-      <description><![CDATA[Ein Vorfall in einem Wasserkraftwerk in Broc führte dazu, dass eine unbestimmte Menge Öl in die Jogne und dann in den See gelangte.]]></description>
-      <pubDate>Thu, 11 Jun 2026 14:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] In Morges, ein Spaziergang, um Bäume anders zu sehen</title>
+      <title>[Journal de Morges] In Morges: Ein Spaziergang, um Bäume anders zu sehen</title>
       <link>https://journaldemorges.ch/actualite/planete/si-vous-ne-savez-pas-ou-vous-degourdir-les-jambes-ce-week-end-vous-pouvez-tenter-la-balade-des-arbres-a-morges-ce-nouvel-itineraire-est-mis-en-avant-depuis-fin-mai-par-la-ville-de-morges-et-region-m/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/planete/si-vous-ne-savez-pas-ou-vous-degourdir-les-jambes-ce-week-end-vous-pouvez-tenter-la-balade-des-arbres-a-morges-ce-nouvel-itineraire-est-mis-en-avant-depuis-fin-mai-par-la-ville-de-morges-et-region-m/</guid>
-      <description><![CDATA[Seit Ende Mai fördern die Stadt Morges und die Region Morges einen Rundwanderweg, der Bäume und ihre Vorzüge hervorhebt.]]></description>
+      <description><![CDATA[Seit Ende Mai fördern die Stadt Morges und die Region Morges einen Rundweg, der die Bäume und ihren Nutzen hervorhebt.]]></description>
       <pubDate>Thu, 11 Jun 2026 14:41:01 GMT</pubDate>
     </item>
     <item>
@@ -204,24 +295,24 @@
       <pubDate>Thu, 11 Jun 2026 14:26:26 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] PrimeEnergy-Debakel: Die Justiz wird Bertrand Piccard anhören</title>
+      <title>[20 Min Romandie] PrimeEnergy-Debakel: Justiz hört Bertrand Piccard an</title>
       <link>https://www.20min.ch/fr/story/geneve-debacle-de-primeenergy-la-justice-va-entendre-bertrand-piccard-103580585</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-debacle-de-primeenergy-la-justice-va-entendre-bertrand-piccard-103580585</guid>
-      <description><![CDATA[Der Entdecker hatte dem Unternehmen sein Gesicht geliehen. Die Staatsanwaltschaft wird ihn als Auskunftsperson anhören, ein Status zwischen Zeuge und Beschuldigtem.]]></description>
+      <description><![CDATA[Der Entdecker hatte dem Unternehmen sein Gesicht geliehen. Die Staatsanwaltschaft wird ihn als Auskunftsperson befragen, ein Status zwischen Zeuge und Beschuldigtem.]]></description>
       <pubDate>Thu, 11 Jun 2026 14:24:06 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Jugendliche vor dem von Kriminellen versprochenen schnellen Geld gewarnt</title>
+      <title>[20 Min Romandie] Jugendliche vor leichtem Geld durch Kriminelle gewarnt</title>
       <link>https://www.20min.ch/fr/story/police-fribourgeoise-jeunes-mis-garde-contre-l-argent-facile-promis-par-les-criminels-103580506</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/police-fribourgeoise-jeunes-mis-garde-contre-l-argent-facile-promis-par-les-criminels-103580506</guid>
       <description><![CDATA[Immer mehr Minderjährige werden über soziale Netzwerke rekrutiert, um an Betrügereien teilzunehmen. Die Polizei warnt vor den Konsequenzen dieser Taten.]]></description>
       <pubDate>Thu, 11 Jun 2026 14:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Ein Jahr nach dem Sturm passt Festi’neuch seine Massnahmen an</title>
+      <title>[20 Min Romandie] Ein Jahr nach dem Sturm passt Festi’neuch seine Vorkehrungen an</title>
       <link>https://www.20min.ch/fr/story/festivals-un-an-apres-la-tempete-festi-neuch-adapte-son-dispositif-103580597</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/festivals-un-an-apres-la-tempete-festi-neuch-adapte-son-dispositif-103580597</guid>
-      <description><![CDATA[Das heftige Gewitter von 2025, das die Evakuierung des Festivals erzwang, hatte Konsequenzen. Die Organisatoren haben die Sicherheits- und Alarmverfahren verstärkt.]]></description>
+      <description><![CDATA[Das heftige Unwetter von 2025, das zur Evakuierung des Festivals zwang, hatte Konsequenzen. Die Organisatoren haben die Sicherheits- und Alarmverfahren verstärkt.]]></description>
       <pubDate>Thu, 11 Jun 2026 14:11:44 GMT</pubDate>
     </item>
     <item>
@@ -274,17 +365,10 @@
       <pubDate>Thu, 11 Jun 2026 13:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Zwei Bergsteiger nach 100-Meter-Sturz von der Rega gerettet</title>
-      <link>https://www.20min.ch/fr/story/canton-de-fribourg-deux-alpinistes-secourus-par-la-rega-apres-une-chute-de-100-m-103580542</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-fribourg-deux-alpinistes-secourus-par-la-rega-apres-une-chute-de-100-m-103580542</guid>
-      <description><![CDATA[Ein Bergunfall forderte am Mittwochnachmittag an der Dent de Broc zwei Verletzte. Die Rettungskräfte nutzten eine kurze Wetterberuhigung, um die beiden Männer zu evakuieren.]]></description>
-      <pubDate>Thu, 11 Jun 2026 12:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Ein neues Mobilis-Abo zum Reisen und Vergnügen</title>
+      <title>[20 Min Romandie] Ein neues Mobilis-Abo für Reisen und Unterhaltung</title>
       <link>https://www.20min.ch/fr/story/vaud-un-nouvel-abo-mobilis-pour-voyager-et-se-divertir-103580531</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-un-nouvel-abo-mobilis-pour-voyager-et-se-divertir-103580531</guid>
-      <description><![CDATA[Ein neues Angebot, das diesen Sommer verfügbar ist, kombiniert öffentliche Verkehrsmittel und Freizeitaktivitäten wie Ausflüge zu ermässigten Preisen in mehreren Regionen des Kantons.]]></description>
+      <description><![CDATA[Ein neues Angebot, das diesen Sommer verfügbar ist, kombiniert öffentliche Verkehrsmittel mit Freizeitangeboten wie Ausflügen und Aktivitäten zu reduzierten Preisen in verschiedenen Regionen des Kantons.]]></description>
       <pubDate>Thu, 11 Jun 2026 12:23:17 GMT</pubDate>
     </item>
     <item>
@@ -309,10 +393,10 @@
       <pubDate>Thu, 11 Jun 2026 11:45:13 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Am ersten Tag seines Prozesses sagte S.B., er lebe «wie ein Landstreicher»</title>
+      <title>[20 Min Romandie] Am ersten Tag seines Prozesses sagte S.B., er lebe «wie ein Obdachloser»</title>
       <link>https://www.20min.ch/fr/story/justice-en-valais-au-jour-1-de-son-proces-sb-a-dit-vivre-comme-un-clochard-103580401</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/justice-en-valais-au-jour-1-de-son-proces-sb-a-dit-vivre-comme-un-clochard-103580401</guid>
-      <description><![CDATA[Beschuldigt, rund dreissig Kunden um mehrere Dutzend Millionen Franken betrogen zu haben, verteidigte sich der Vermögensverwalter gestern vor dem Gericht in Sitten.]]></description>
+      <description><![CDATA[Dem Vermögensverwalter wird vorgeworfen, etwa dreissig Kunden um mehrere zehn Millionen Franken betrogen zu haben. Gestern verteidigte er sich vor dem Gericht in Sitten.]]></description>
       <pubDate>Thu, 11 Jun 2026 11:40:59 GMT</pubDate>
     </item>
     <item>
@@ -340,14 +424,14 @@
       <title>[20 Min Romandie] Yverdon benennt eine Strasse zu Ehren einer ehemaligen Sklavin um</title>
       <link>https://www.20min.ch/fr/story/vaud-yverdon-renomme-une-rue-en-hommage-a-une-ancienne-esclave-103580488</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-yverdon-renomme-une-rue-en-hommage-a-une-ancienne-esclave-103580488</guid>
-      <description><![CDATA[Pauline Buisson, Samuel Hypolite Buisson und François Midas erhielten posthum das Bürgerrecht von Yverdon. Die ehemalige Sklavin erhält eine Strasse, die ihren Namen trägt.]]></description>
+      <description><![CDATA[Pauline Buisson, Samuel Hypolite Buisson und François Midas erhielten posthum das Bürgerrecht von Yverdon. Die ehemalige Sklavin wird eine Strasse mit ihrem Namen erhalten.]]></description>
       <pubDate>Thu, 11 Jun 2026 11:28:16 GMT</pubDate>
     </item>
     <item>
       <title>[Journal de Morges] Machtwechsel bei der Tour du Pays de Vaud</title>
       <link>https://journaldemorges.ch/sports/passation-de-pouvoir-au-tour-du-pays-de-vaud/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/sports/passation-de-pouvoir-au-tour-du-pays-de-vaud/</guid>
-      <description><![CDATA[600 Erwachsene und 200 Kinder belebten das Finale in Apples am Mittwoch. Mit einer neuen Siegerin bei den Damen und einem Sieger aus Morges bei den Männern.]]></description>
+      <description><![CDATA[600 Erwachsene und 200 Kinder belebten am Mittwoch das Finale in Apples. Mit einer erstmaligen Siegerin bei den Damen und einem Sieger aus Morges bei den Herren.]]></description>
       <pubDate>Thu, 11 Jun 2026 11:18:59 GMT</pubDate>
     </item>
     <item>
@@ -358,11 +442,18 @@
       <pubDate>Thu, 11 Jun 2026 11:17:25 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Passpflicht, Kontrollen und Sperren einen Tag davor: Evian verschanzt sich</title>
-      <link>https://www.20min.ch/fr/story/g7-a-evian-parmelin-accueillera-a-geneve-les-chefs-d-etat-et-de-gouvernement-103580366</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/g7-a-evian-parmelin-accueillera-a-geneve-les-chefs-d-etat-et-de-gouvernement-103580366</guid>
-      <description><![CDATA[Da der G7-Gipfel vom 15. bis 17. Juni in Evian-les-Bains stattfindet, sind vor und während der Veranstaltung beidseits des Genfersees Störungen zu erwarten.]]></description>
+      <title>[20 Min Romandie] Die Grenzkontrollen legen den Verkehr nicht lahm</title>
+      <link>https://www.20min.ch/fr/story/sommet-du-g7-les-controles-aux-frontieres-ne-paralysent-pas-le-trafic-103580366</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/sommet-du-g7-les-controles-aux-frontieres-ne-paralysent-pas-le-trafic-103580366</guid>
+      <description><![CDATA[Während der G7-Gipfel vom 15. bis 17. Juni in Évian-les-Bains stattfindet, sind vor und während der Veranstaltung beidseits des Genfersees Verkehrsbehinderungen zu erwarten.]]></description>
       <pubDate>Thu, 11 Jun 2026 11:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Ein virtuelles Eintauchen in das Wasser von Morges</title>
+      <link>https://journaldemorges.ch/actualite/societe/une-plongee-virtuelle-dans-leau-de-morges/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/une-plongee-virtuelle-dans-leau-de-morges/</guid>
+      <description><![CDATA[Eine Ausstellung bietet einen neuartigen und spielerischen Rundgang zwischen Montricher und Morges an, um zu zeigen, wie das blaue Gold in die Wasserhähne Tausender Haushalte gelangt.]]></description>
+      <pubDate>Thu, 11 Jun 2026 10:08:57 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Fussball-WM – Kanada geht auf Distanz zu den USA</title>
@@ -370,13 +461,6 @@
       <guid isPermaLink="false">urn:srf:article:019ead7f-5435-4039-2ef8-671ffe64d7f5</guid>
       <description><![CDATA[Trump belastet die Beziehung zum Nachbarstaat. Die WM wird für Kanada auch zur Bühne eines neuen Selbstbewusstseins.]]></description>
       <pubDate>Thu, 11 Jun 2026 09:36:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] «Eine Entführung, dann ein Mord? Wir wissen es nicht, wir wissen es nicht»</title>
-      <link>https://www.20min.ch/fr/story/frontiere-suisse-un-enlevement-puis-un-meurtre-on-ne-sait-pas-on-ne-sait-pas-103580373</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/frontiere-suisse-un-enlevement-puis-un-meurtre-on-ne-sait-pas-on-ne-sait-pas-103580373</guid>
-      <description><![CDATA[Aude Fagot, eine französische Krankenschwester, die in der Schweiz arbeitete, wird seit dem 31. Mai vermisst. Ihr Auto wurde nahe der Grenze gefunden, aber es gibt keine Spur von ihr.]]></description>
-      <pubDate>Thu, 11 Jun 2026 09:19:44 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Neues Sportzentrum geplant – Samih Sawiris löst in Andermatt ein altes Versprechen ein</title>
@@ -389,7 +473,7 @@
       <title>[20 Min Romandie] Pascal Corminboeuf, ehemaliger Staatsrat, ist verstorben</title>
       <link>https://www.20min.ch/fr/story/canton-de-fribourg-pascal-corminboeuf-ancien-conseiller-d-etat-est-decede-103580363</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-fribourg-pascal-corminboeuf-ancien-conseiller-d-etat-est-decede-103580363</guid>
-      <description><![CDATA[Als Gelehrter, der Landwirt wurde und parteilos gewählt wurde, verstarb der Broyard am Mittwoch. Er hinterlässt das seltene Bild einer freien Stimme, die tief mit Werten der Solidarität verbunden war.]]></description>
+      <description><![CDATA[Der Literat, der Landwirt wurde, und parteilos gewählt wurde, verstarb diesen Mittwoch. Er hinterlässt das seltene Bild einer freien Stimme, die den Werten der Solidarität zutiefst verbunden war.]]></description>
       <pubDate>Thu, 11 Jun 2026 08:39:45 GMT</pubDate>
     </item>
     <item>
@@ -428,7 +512,7 @@
       <pubDate>Thu, 11 Jun 2026 07:34:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges Actualitiés] Espace Couvaloup et la bibliothèque sortent cet été</title>
+      <title>[Morges Actualitiés] Der Espace Couvaloup und die Bibliothek gehen diesen Sommer raus</title>
       <link>https://www.morges.ch/actualites/espace-couvaloup-et-la-bibliotheque-sortent-cet-ete-213179</link>
       <guid isPermaLink="false">https://www.morges.ch/actualites/espace-couvaloup-et-la-bibliotheque-sortent-cet-ete-213179</guid>
       <description />
@@ -442,10 +526,10 @@
       <pubDate>Thu, 11 Jun 2026 07:20:01 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Die wegen mehrfachen Missbrauchs beschuldigte Pfarrerin darf nicht mehr praktizieren</title>
+      <title>[20 Min Romandie] Die Pastorin, die des mehrfachen Missbrauchs beschuldigt wird, darf nicht mehr praktizieren</title>
       <link>https://www.20min.ch/fr/story/canton-de-vaudneuchatel-la-pasteure-accusee-d-abus-multiples-ne-pourra-plus-exercer-103580309</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaudneuchatel-la-pasteure-accusee-d-abus-multiples-ne-pourra-plus-exercer-103580309</guid>
-      <description><![CDATA[Nach einer internen Untersuchung hat die reformierte Kirche Neuenburg eine ehemalige Pfarrerin entlassen, der spirituelle Abhängigkeit, sexuelle Übergriffe und Belästigung vorgeworfen wurden.]]></description>
+      <description><![CDATA[Nach einer internen Untersuchung hat die reformierte Kirche von Neuenburg eine ehemalige Pastorin entlassen, die beschuldigt wird, spirituelle Abhängigkeit, sexuelle Übergriffe und Belästigung begangen zu haben.]]></description>
       <pubDate>Thu, 11 Jun 2026 07:15:53 GMT</pubDate>
     </item>
     <item>
@@ -456,10 +540,10 @@
       <pubDate>Thu, 11 Jun 2026 07:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Krieg in der Ukraine – Ukrainischer Drohnenangriff trifft Raffinerie in Krasnodar</title>
-      <link>https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukrainischer-drohnenangriff-trifft-raffinerie-in-krasnodar</link>
+      <title>[SRF Ausland] Krieg in der Ukraine – Luftangriffe: Ukrainer sollen besetzte Gebiete verlassen</title>
+      <link>https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-luftangriffe-ukrainer-sollen-besetzte-gebiete-verlassen</link>
       <guid isPermaLink="false">urn:srf:article:019ea559-543d-11bd-59d1-a7515ac86595</guid>
-      <description><![CDATA[Dem Krisenstab der Region Krasnodar zufolge wurde das Feuer am Morgen gelöscht und es gab keine Verletzten.]]></description>
+      <description><![CDATA[Die Ukraine verstärkt ihre Luftangriffe in den von Russland besetzten Teilen des Landes.]]></description>
       <pubDate>Thu, 11 Jun 2026 06:55:50 GMT</pubDate>
     </item>
     <item>
@@ -519,11 +603,11 @@
       <pubDate>Thu, 11 Jun 2026 03:30:28 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] Saint-Prex ist 90 Minuten von einem Doppelaufstieg entfernt!</title>
-      <link>https://journaldemorges.ch/sports/saint-prex-est-a-90-minutes-dune-double-promotion/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/sports/saint-prex-est-a-90-minutes-dune-double-promotion/</guid>
-      <description><![CDATA[In einem bis auf den letzten Platz gefüllten Stadion in Marcy haben die Fussballer mit der Lilie die U21 des Servette FC deklassiert (4-1).]]></description>
-      <pubDate>Wed, 10 Jun 2026 23:16:49 GMT</pubDate>
+      <title>[20 Min Romandie] Todesfall an Bord: Die Crew platziert den Leichnam neben diesen Waadtländer</title>
+      <link>https://www.20min.ch/fr/story/vol-pour-geneve-deces-a-bord-l-equipage-place-le-corps-a-cote-de-ce-vaudois-103580190</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vol-pour-geneve-deces-a-bord-l-equipage-place-le-corps-a-cote-de-ce-vaudois-103580190</guid>
+      <description><![CDATA[Der Rückflug von Dschidda nach Genf wurde für einen Mittdreissiger aus Bussigny (VD) zum Albtraum. Drei Stunden lang lag ein Verstorbener direkt neben ihm.]]></description>
+      <pubDate>Wed, 10 Jun 2026 20:02:08 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Anhörung vor US-Kongress – Bill Gates: Epstein wollte Wissen über Affären nutzen</title>
@@ -540,10 +624,10 @@
       <pubDate>Wed, 10 Jun 2026 18:50:32 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Amerikanische Militärhelikopter über der Schweiz</title>
+      <title>[20 Min Romandie] Amerikanische Militärhubschrauber über der Schweiz</title>
       <link>https://www.20min.ch/fr/story/sommet-du-g7-des-helicopteres-militaires-americains-au-dessus-de-la-suisse-103580119</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/sommet-du-g7-des-helicopteres-militaires-americains-au-dessus-de-la-suisse-103580119</guid>
-      <description><![CDATA[Mehrere amerikanische Militärhelikopter überflogen am Mittwoch die französischsprachige Schweiz. Ihre Präsenz steht im Zusammenhang mit dem G7-Gipfel in Evian.]]></description>
+      <description><![CDATA[Mehrere amerikanische Militärhubschrauber überflogen am Mittwoch die Westschweiz. Ihre Anwesenheit steht im Zusammenhang mit dem G7-Gipfel in Évian.]]></description>
       <pubDate>Wed, 10 Jun 2026 18:25:42 GMT</pubDate>
     </item>
     <item>
@@ -561,18 +645,11 @@
       <pubDate>Wed, 10 Jun 2026 18:22:08 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Regulierungsabschüsse von Hirschen werden im Herbst wieder aufgenommen</title>
+      <title>[20 Min Romandie] Die Regulierungsabschüsse von Hirschen werden im Herbst wieder aufgenommen</title>
       <link>https://www.20min.ch/fr/story/geneve-les-tirs-de-regulation-des-cerfs-reprendront-a-l-automne-103580048</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-les-tirs-de-regulation-des-cerfs-reprendront-a-l-automne-103580048</guid>
-      <description><![CDATA[Da sie zu zahlreich sind und Schäden an Kulturen verursachen können, dürfen Hirsche wie auch Wildschweine wieder von Umweltwächtern geschossen werden.]]></description>
+      <description><![CDATA[Da sie zu zahlreich sind und Schäden an Kulturen verursachen können, dürfen Hirsche künftig wie auch Wildschweine wieder von Umweltwächtern geschossen werden.]]></description>
       <pubDate>Wed, 10 Jun 2026 18:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Krawalle in Belfast – «Die sozialen Zustände sind vielerorts prekär, auch in Belfast»</title>
-      <link>https://www.srf.ch/news/international/krawalle-in-belfast-die-sozialen-zustaende-sind-vielerorts-prekaer-auch-in-belfast</link>
-      <guid isPermaLink="false">urn:srf:article:019eb1e6-f23d-a8eb-9d7d-d6cd60a74be5</guid>
-      <description><![CDATA[Wieso es in Grossbritannien öfter zu Krawallen nach Gewalttaten kommt, ergründet der Journalist Peter Stäuber.]]></description>
-      <pubDate>Wed, 10 Jun 2026 17:59:35 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Boykott trotz Fussball – Schweizer Fans zögern bei Reisen in die USA</title>
@@ -624,10 +701,10 @@
       <pubDate>Wed, 10 Jun 2026 15:38:32 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Neue Rubrik «Meinungen» auf lematin.ch gestartet</title>
+      <title>[20 Min Romandie] Eine neue Rubrik «Meinungen» wurde auf lematin.ch gestartet</title>
       <link>https://www.20min.ch/fr/story/medias-une-nouvelle-rubrique-opinions-lancee-sur-lematinch-103580007</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/medias-une-nouvelle-rubrique-opinions-lancee-sur-lematinch-103580007</guid>
-      <description><![CDATA[Die Website erstellt eine Rubrik, die «Meinungen» und Analysen gewidmet ist. Leser, Experten, Persönlichkeiten und Journalisten können dort ihre Standpunkte teilen.]]></description>
+      <description><![CDATA[Die Seite erstellt eine Rubrik, die «Meinungen» und Analysen gewidmet ist. Leser, Experten, Persönlichkeiten und Journalisten können dort ihre Standpunkte teilen.]]></description>
       <pubDate>Wed, 10 Jun 2026 15:21:52 GMT</pubDate>
     </item>
     <item>
@@ -638,10 +715,10 @@
       <pubDate>Wed, 10 Jun 2026 15:05:44 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Kurz entlassen, der Postbote ist «überrascht und glücklich» über die erhaltene Unterstützung</title>
+      <title>[20 Min Romandie] Prompt gefeuert, ist der Postbote «überrascht und glücklich» über die erhaltene Unterstützung</title>
       <link>https://www.20min.ch/fr/story/vaud-vire-sec-le-facteur-est-surpris-et-heureux-des-soutiens-recus-103579760</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-vire-sec-le-facteur-est-surpris-et-heureux-des-soutiens-recus-103579760</guid>
-      <description><![CDATA[Nach 42 Dienstjahren von der Post entlassen, weil er unter anderem Pakete in den ersten Stock getragen hatte, erregt der Fall von Jean-Daniel Taverney grosses Aufsehen. Der Postbote äussert sich.]]></description>
+      <description><![CDATA[Nach 42 Dienstjahren wurde Jean-Daniel Taverney von der Post entlassen, unter anderem weil er Pakete in den Stock hinaufgetragen hatte. Der Fall sorgt für viel Aufsehen. Der Postbote äussert sich dazu.]]></description>
       <pubDate>Wed, 10 Jun 2026 15:00:50 GMT</pubDate>
     </item>
     <item>
@@ -666,7 +743,7 @@
       <pubDate>Wed, 10 Jun 2026 14:03:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] Fussball: Eine Saison mit unterschiedlichem Schicksal</title>
+      <title>[Journal de Morges] Fussball: Eine Saison mit unterschiedlichen Schicksalen</title>
       <link>https://journaldemorges.ch/actualite/football-une-saison-aux-destins-varies/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/football-une-saison-aux-destins-varies/</guid>
       <description><![CDATA[Die reguläre Saison 2025-2026 ist für die meisten Ligen beendet, mit Ausnahme der Finalspiele. Wir geben einen Überblick über die Mannschaften des Bezirks von der 1. bis zur 4. Liga.]]></description>
@@ -694,11 +771,18 @@
       <pubDate>Wed, 10 Jun 2026 13:32:52 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Der Frauenstreik wird den Lausanner Verkehr an diesem Samstag stören</title>
+      <title>[20 Min Romandie] Der Frauenstreik wird diesen Samstag den Lausanner Verkehr stören</title>
       <link>https://www.20min.ch/fr/story/canton-de-vaud-la-greve-feministe-va-perturber-le-trafic-lausannois-ce-samedi-103579921</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-la-greve-feministe-va-perturber-le-trafic-lausannois-ce-samedi-103579921</guid>
-      <description><![CDATA[Vom Place de la Riponne bis zur Esplanade de Montbenon werden mehrere Hauptverkehrsadern der Waadtländer Hauptstadt vorübergehend für den Verkehr gesperrt sein.]]></description>
+      <description><![CDATA[Vom Place de la Riponne bis zur Esplanade de Montbenon werden mehrere Hauptverkehrsstrassen der Waadtländer Hauptstadt vorübergehend für den Verkehr gesperrt.]]></description>
       <pubDate>Wed, 10 Jun 2026 13:30:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Jean Ziegler – Ein Leben im Dienst der globalen Gerechtigkeit</title>
+      <link>https://www.srf.ch/news/gesellschaft/jean-ziegler-ein-leben-im-dienst-der-globalen-gerechtigkeit</link>
+      <guid isPermaLink="false">urn:srf:article:019995e1-4bd0-4579-d5a6-9b7f8c7be844</guid>
+      <description><![CDATA[Für manche war der Sozialdemokrat ein Nestbeschmutzer, für andere ein brillanter Intellektueller. Nun ist Ziegler tot.]]></description>
+      <pubDate>Wed, 10 Jun 2026 13:30:30 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] WM-Eröffnung 2026 – Mexiko-Stadt schliesst Schulen zur WM-Eröffnung</title>
@@ -708,10 +792,10 @@
       <pubDate>Wed, 10 Jun 2026 13:16:55 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Demonstranten werden es vermeiden, vor der Mont-Blanc-Brücke vorbeizuziehen</title>
+      <title>[20 Min Romandie] Demonstranten werden es vermeiden, vor der Mont-Blanc-Brücke zu passieren</title>
       <link>https://www.20min.ch/fr/story/sommet-du-g7-les-manifestants-eviteront-de-passer-devant-le-pont-du-mont-blanc-103579881</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/sommet-du-g7-les-manifestants-eviteront-de-passer-devant-le-pont-du-mont-blanc-103579881</guid>
-      <description><![CDATA[Aus Angst vor Zusammenstössen haben die Behörden und die Anti-G7-Koalition vereinbart, dass die Demonstration die Strasse wechselt, bevor sie an der Sperre der Mont-Blanc-Brücke vorbeiführt.]]></description>
+      <description><![CDATA[Aus Angst vor Zusammenstössen haben sich Behörden und das Anti-G7-Bündnis darauf geeinigt, dass die Demonstration die Strasse wechselt, bevor sie an der Barriere der Mont-Blanc-Brücke vorbeizieht.]]></description>
       <pubDate>Wed, 10 Jun 2026 13:02:54 GMT</pubDate>
     </item>
     <item>
@@ -736,24 +820,17 @@
       <pubDate>Wed, 10 Jun 2026 12:25:51 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] In Sitten hat der Mega-Prozess gegen den Vermögensverwalter endlich begonnen</title>
+      <title>[20 Min Romandie] In Sitten hat der Mega-Prozess des Vermögensverwalters endlich begonnen</title>
       <link>https://www.20min.ch/fr/story/valais-a-sion-le-mega-proces-du-gerant-de-fortune-s-est-enfin-ouvert-103579838</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/valais-a-sion-le-mega-proces-du-gerant-de-fortune-s-est-enfin-ouvert-103579838</guid>
-      <description><![CDATA[Beschuldigt, rund dreissig Opfer um mehrere Millionen Franken betrogen zu haben, erscheint der Angeklagte endlich vor Gericht – nach mehr als zehn Jahren Ermittlung.]]></description>
+      <description><![CDATA[Der Beschuldigte, dem vorgeworfen wird, etwa dreissig Opfer um mehrere Millionen Franken betrogen zu haben, steht endlich vor Gericht – nach über zehn Jahren Ermittlungen.]]></description>
       <pubDate>Wed, 10 Jun 2026 12:14:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Ein Morgien-Wehrpflichtiger häuft Verweigerungen des Zivilschutzes an</title>
-      <link>https://journaldemorges.ch/actualite/societe/un-astreint-morgien-cumule-les-refus-de-servir-la-pci/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/un-astreint-morgien-cumule-les-refus-de-servir-la-pci/</guid>
-      <description><![CDATA[Ein Bürger aus Morges hält den Rekord an strafrechtlichen Verurteilungen, weil er nie zu den Kursen erscheint.]]></description>
-      <pubDate>Wed, 10 Jun 2026 12:00:18 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Migros beendet Zusammenarbeit mit dem französischen Unternehmen Naturalia</title>
       <link>https://www.20min.ch/fr/story/geneve-migros-met-fin-a-sa-collaboration-avec-le-francais-naturalia-103579806</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-migros-met-fin-a-sa-collaboration-avec-le-francais-naturalia-103579806</guid>
-      <description><![CDATA[Die beiden Nature&-Flächen, die 2021 in Supermärkten des orangen Riesen eröffnet wurden und auf importierte Bio-Produkte spezialisiert waren, werden geschlossen.]]></description>
+      <description><![CDATA[Die zwei 2021 in Supermärkten des orangen Riesen eröffneten Nature&O-Flächen, die auf importierte Bio-Produkte spezialisiert sind, werden geschlossen.]]></description>
       <pubDate>Wed, 10 Jun 2026 11:46:53 GMT</pubDate>
     </item>
     <item>
@@ -769,111 +846,6 @@
       <guid isPermaLink="false">urn:srf:article:019eb0cb-9e46-9367-8b26-0451b5cb84a5</guid>
       <description><![CDATA[Trotz Plagiaten darf die Juristin und SVP-Nationalrätin Nina Fehr Düsel ihren Doktortitel behalten.]]></description>
       <pubDate>Wed, 10 Jun 2026 11:17:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Persönlichkeit der Linken, Jean Ziegler, ist im Alter von 92 Jahren verstorben</title>
-      <link>https://www.20min.ch/fr/story/carnet-noir-l-humaniste-de-gauche-jean-ziegler-est-decede-a-l-age-de-92-ans-103579803</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/carnet-noir-l-humaniste-de-gauche-jean-ziegler-est-decede-a-l-age-de-92-ans-103579803</guid>
-      <description><![CDATA[Jean Ziegler ist in Genf im Alter von 92 Jahren an den Folgen der Parkinson-Krankheit gestorben.]]></description>
-      <pubDate>Wed, 10 Jun 2026 10:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bundesgericht – Mindestlöhne in Zürich und Winterthur sind gültig</title>
-      <link>https://www.srf.ch/news/schweiz/bundesgericht-mindestloehne-in-zuerich-und-winterthur-sind-gueltig</link>
-      <guid isPermaLink="false">urn:srf:article:019eac4d-068d-51a7-fef7-ff858acd59c4</guid>
-      <description><![CDATA[Städte und Gemeinden des Kantons Zürich dürfen Mindestlöhne einführen. Das sagt das Bundesgericht.]]></description>
-      <pubDate>Wed, 10 Jun 2026 10:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Toggenburger Bergbahnen-Streit – Erneuter Vermittlungsversuch für gemeinsames Skiticket scheitert</title>
-      <link>https://www.srf.ch/news/schweiz/toggenburger-bergbahnen-streit-erneuter-vermittlungsversuch-fuer-gemeinsames-skiticket-scheitert</link>
-      <guid isPermaLink="false">urn:srf:article:019eab9f-35eb-fed6-fd2a-652bbf0cad64</guid>
-      <description><![CDATA[Im Obertoggenburg hoffen viele weiter auf ein gemeinsames Skiticket für beide Bergbahnen. Der Antrag bleibt erfolglos.]]></description>
-      <pubDate>Wed, 10 Jun 2026 09:39:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Nach 144 Jahren – Die Sagrada Família steht: Erkunden Sie die Kirche im 3D-Modell</title>
-      <link>https://www.srf.ch/news/international/nach-144-jahren-die-sagrada-familia-steht-erkunden-sie-die-kirche-im-3d-modell</link>
-      <guid isPermaLink="false">urn:srf:article:019ea7e2-d640-1c1a-61a8-c9468ed1489a</guid>
-      <description><![CDATA[Pünktlich zum 100. Todestag Gaudís besucht der Papst Barcelona. Neun Details vom Zahlenquadrat bis zum begehbaren Kreuz.]]></description>
-      <pubDate>Wed, 10 Jun 2026 09:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Ehrenbürgerschaft für Georges Rime</title>
-      <link>https://journaldemorges.ch/actualite/societe/bourgeoise-dhonneur-pour-georges-rime/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/bourgeoise-dhonneur-pour-georges-rime/</guid>
-      <description><![CDATA[Die Gemeinde hat beschlossen, diese seltene Auszeichnung ihrem ehemaligen Gemeindepräsidenten zu verleihen, der sich sehr für seine Stadt eingesetzt hat.]]></description>
-      <pubDate>Wed, 10 Jun 2026 09:23:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Erfolgs-Podcast «Hotel Matze» – Zu Gast in der Welt von Matze Hielscher</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/erfolgs-podcast-hotel-matze-zu-gast-in-der-welt-von-matze-hielscher</link>
-      <guid isPermaLink="false">urn:srf:article:019ea72d-c596-156a-5cda-b7881127af26</guid>
-      <description><![CDATA[Podcaster Matze Hielscher will in Gesprächen herausfinden, wie sein Gegenüber tickt. Doch wie tickt eigentlich er?]]></description>
-      <pubDate>Wed, 10 Jun 2026 09:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Alexandr Polupan – Nawalnys Leben gerettet – aber chancenlos in Lettland</title>
-      <link>https://www.srf.ch/news/international/alexandr-polupan-nawalnys-leben-gerettet-aber-chancenlos-in-lettland</link>
-      <guid isPermaLink="false">urn:srf:article:019eaba7-775b-b14a-afe4-0e51c0a4c6d1</guid>
-      <description><![CDATA[Der Russe Alexandr Polupan rettete dem Putin-Kritiker einst das Leben. Jetzt möchte er in die Schweiz.]]></description>
-      <pubDate>Wed, 10 Jun 2026 09:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Givaudan entlässt mehrere Mitarbeiter nach Parfüm-Diebstählen</title>
-      <link>https://www.20min.ch/fr/story/vernier-g-givaudan-vire-plusieurs-employes-apres-des-vols-de-parfums-103579601</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vernier-g-givaudan-vire-plusieurs-employes-apres-des-vols-de-parfums-103579601</guid>
-      <description><![CDATA[Nach der Entdeckung eines mutmasslichen Systems zur Entwendung von Produkten am Standort Vernier wurde eine Strafanzeige eingereicht. Sieben Mitarbeiter sollen beteiligt sein.]]></description>
-      <pubDate>Wed, 10 Jun 2026 09:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges Actualitiés] Fête de la Musique 2026</title>
-      <link>https://www.morges.ch/actualites/fete-de-la-musique-2026-213176</link>
-      <guid isPermaLink="false">https://www.morges.ch/actualites/fete-de-la-musique-2026-213176</guid>
-      <description />
-      <pubDate>Wed, 10 Jun 2026 08:19:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Artan verpasst WM in den USA – «Terroristische Verbindungen»: Schiri aus Somalia abgewiesen</title>
-      <link>https://www.srf.ch/news/international/artan-verpasst-wm-in-den-usa-terroristische-verbindungen-schiri-aus-somalia-abgewiesen</link>
-      <guid isPermaLink="false">urn:srf:article:019eb07b-b0b4-aee3-8405-5f20816a6bec</guid>
-      <description><![CDATA[Ein US-Regierungsvertreter äussert sich zum Fall des abgewiesenen somalischen WM-Schiedsrichters Omar Artan.]]></description>
-      <pubDate>Wed, 10 Jun 2026 08:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Das Casino Neuenburg erhält eine Geldstrafe von einer halben Million</title>
-      <link>https://www.20min.ch/fr/story/jeux-d-argent-le-casino-de-neuchatel-ecope-d-une-amende-d-un-demi-million-103579579</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/jeux-d-argent-le-casino-de-neuchatel-ecope-d-une-amende-d-un-demi-million-103579579</guid>
-      <description><![CDATA[Das Bundesgericht hat die gegen das Spielhaus verhängte Sanktion bestätigt, insbesondere weil es zu spät neun Spieler mit Anzeichen von Abhängigkeit ausgeschlossen hatte.]]></description>
-      <pubDate>Wed, 10 Jun 2026 08:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Ein Waadtländer verbrachte 3 Stunden neben einem verstorbenen Passagier während des Fluges</title>
-      <link>https://www.20min.ch/fr/story/retour-de-la-mecque-un-vaudois-passe-3-heures-a-cote-d-un-passager-mort-en-plein-vol-103579525</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/retour-de-la-mecque-un-vaudois-passe-3-heures-a-cote-d-un-passager-mort-en-plein-vol-103579525</guid>
-      <description><![CDATA[Nach der Rückkehr von einer Pilgerreise nach Saudi-Arabien verbrachte Selim die letzten drei Stunden seines Fluges nach Genf an der Seite der Leiche eines verstorbenen Passagiers.]]></description>
-      <pubDate>Wed, 10 Jun 2026 06:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Gewinne, die die Westschweiz strahlen lassen</title>
-      <link>https://www.20min.ch/fr/story/partenariat-des-benefices-qui-font-rayonner-la-suisse-romande-103579263</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/partenariat-des-benefices-qui-font-rayonner-la-suisse-romande-103579263</guid>
-      <description><![CDATA[Die Loterie Romande kommt dieses Jahr 5000 gemeinnützigen Projekten zugute. Diese Unterstützung ist dank eines Angebots möglich, das Spieler vor exzessivem Spielen schützt.]]></description>
-      <pubDate>Wed, 10 Jun 2026 06:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Shoppen am «Tag des Herrn» – Kirche und Linke spannen zusammen – um den Sonntag zu retten</title>
-      <link>https://www.srf.ch/news/schweiz/shoppen-am-tag-des-herrn-kirche-und-linke-spannen-zusammen-um-den-sonntag-zu-retten</link>
-      <guid isPermaLink="false">urn:srf:article:019eab33-b3fa-1ac1-6125-10294de06b49</guid>
-      <description><![CDATA[Der Ständerat will die «Oase der Erholung» schützen. Eine ungewöhnliche Allianz kämpft schon länger dafür.]]></description>
-      <pubDate>Wed, 10 Jun 2026 05:11:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Vereinfachung in der EU – Bald kaum mehr gedruckte Bedienungsanleitungen</title>
-      <link>https://www.srf.ch/news/wirtschaft/vereinfachung-in-der-eu-bald-kaum-mehr-gedruckte-bedienungsanleitungen</link>
-      <guid isPermaLink="false">urn:srf:article:019eafba-5e90-d6b7-3d43-50018ffda94f</guid>
-      <description><![CDATA[Bei vielen Produkten soll die Anleitung aus Papier nicht mehr mitgeliefert werden. Sie sollen online verfügbar sein.]]></description>
-      <pubDate>Wed, 10 Jun 2026 04:56:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
