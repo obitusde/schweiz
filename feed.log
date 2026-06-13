@@ -1,5 +1,5 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 12.6.2026, 12:58:39
+Start: 13.6.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,39 +17,90 @@ Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: Duplikat des Artikels mit ID 2): 'Répartition des directions pour la prochaine législature'
-- Gelöscht (Grund: Negativ-Thema: Verkehrsunfall/Todesfall ohne Morges-Bezug): 'Un piéton de 26 ans tué par un automobiliste de 18 ans'
-- Gelöscht (Grund: Negativ-Thema: Kriminalität/Blaulicht-Meldung): 'Trois cambrioleurs arrêtés par la police à Chiètres'
-- Gelöscht (Grund: Negativ-Thema: Ausschreitungen/Gewalt): 'Während WM-Eröffnungsspiel – Ausschreitungen vor Tor 8 des Aztekenstadions'
-- Gelöscht (Grund: Negativ-Thema: Brand/Blaulicht-Meldung): 'On sait pourquoi la ville de Bienne a été privée de courant'
-- Gelöscht (Grund: Negativ-Thema: Kriminalität): 'Un éducateur faisait «des jeux de torture» avec des enfants'
-- Gelöscht (Grund: Negativ-Thema: Verkehrsunfall): 'Double collision sans blessés dans un tunnel sur l’A16'
-- Gelöscht (Grund: Negativ-Thema: Brand/Blaulicht-Meldung): 'Locataires évacués après un incendie sur le toit d'un immeuble'
-- Gelöscht (Grund: Negativ-Thema: Unfall/Blaulicht-Meldung): 'Hauenstein Solothurn – Militärunfall mit gepanzertem Fahrzeug fordert neun Verletzte'
-- Gelöscht (Grund: Negativ-Thema: Gewalt/Ausschreitungen): 'Krawalle in Nordirland – Stadt von «The Troubles»: Belfast und die Gewalt'
-- Gelöscht (Grund: Negativ-Thema: Umwelt-Unfall/Blaulicht-Meldung): 'Une fuite d’huile hydraulique atteint le lac de la Gruyère'
-- Gelöscht (Grund: Negativ-Thema: Unfall/Rettungseinsatz): 'Deux alpinistes secourus par la Rega après une chute de 100 m'
-- Gelöscht (Grund: Negativ-Thema: Gewalt/Ausschreitungen): 'Nordirland – Erneute Ausschreitungen in Belfast'
-- Gelöscht (Grund: Negativ-Thema: Kriminalität/Vermisstenfall): '«Un enlèvement, puis un meurtre? On ne sait pas, on ne sait pas»'
-- Gelöscht (Grund: Negativ-Thema: Gewalt/Ausschreitungen): 'Krawalle in Belfast – «Die sozialen Zustände sind vielerorts prekär, auch in Belfast»'
+- Gelöscht (Grund: Duplikat zum Thema Ausschreitungen in Nordirland; Artikel 129 ist aktueller bzw. gleichwertig.): 'Krawalle in Nordirland – Stadt von «The Troubles»: Belfast und die Gewalt'
+- Gelöscht (Grund: Duplikat zu Artikel 60, inhaltlich identisch.): 'Répartition des directions pour la prochaine législature'
+- Gelöscht (Grund: Ersetzt durch Artikel 103, da dieser informativer ist.): 'Nordirland – Erneute Ausschreitungen in Belfast'
 
 Finale Liste (live im XML-Feed):
-- [Journal de Morges] Die Verteilung der Departemente in Morges ist bekannt
+- [SRF Ausland] «Tren de Aragua» in Venezuela – Trump: US-Militärschlag tötet berüchtigten Bandenanführer
+- [SRF Ausland] Fusion der Hollywood-Giganten – US-Justizministerium: Paramount darf Warner Bros. übernehmen
+- [SRF Ausland] Krieg in der Ukraine – UNO: Höchststand ziviler Opfer in der Ukraine seit April 2022
+- [SRF Schweiz] «Arena» zu Mercosur – «Das ist Erpressung, Herr Ritter» – «Nein, das ist ausgewogen»
+- [20 Min Romandie] Ein Boot brennt auf dem Genfersee: Drei Personen gerettet
+- [SRF Wirtschaft] Umgang mit KI – Liest eine KI tatsächlich bald unsere Whatsapp-Chats?
+- [20 Min Romandie] Der Amateurfussball ist von Schiebereien befallen
+- [SRF Schweiz] Kiloweise Material – Mit dem Bagger gegen tote Quaggamuscheln – Fischer sind verärgert
+- [SRF Wirtschaft] Grösster Börsengang der Welt – SpaceX startet mit einem Plus von 11 Prozent
+- [SRF Wirtschaft] Stromfressende Rechenzentren – Um Energie zu sparen: China versenkt Datenzentrum im Meer
+- [SRF Schweiz] Bleiben Sie auf dem Laufenden – So werden Sie am Abstimmungssonntag bei SRF informiert
+- [SRF Wirtschaft] Zentrale Betreibungsauskunft – Schummeln mit Schulden wird schwieriger
+- [SRF Schweiz] Jahrelange Blockade – Italien will wieder Dublin-Flüchtlinge von der Schweiz aufnehmen
+- [20 Min Romandie] Enttäuscht von der RTS wegen der Teilübertragung der Fussball-WM
+- [SRF Schweiz] Kein freies Geleit – Den Haag lässt Schweiz kaum Spielraum bei Haftbefehl für Putin
+- [SRF Wissen] Forschung in Zollikofen – Was stresst Legehennen? Eine Studie soll ihr Leben verbessern
+- [20 Min Romandie] F/A-18 beim Streifen über dem Genferseebecken gesichtet
+- [SRF Schweiz] Kampfjet-Lärm – Schallschutz absurd – wie der Fluglärm des F-35 ein Dorf teilt
+- [SRF Schweiz] Abstimmungen Stadt Winterthur – Winterthur stimmt über neuen Campingplatz ab
+- [SRF Schweiz] Abstimmungen Stadt Zürich – Zürich könnte die Spur legen für den Tramausbau in Affoltern
+- [SRF Schweiz] Abstimmung Stadt Zug – Geplanter Umbau der Metalli ist umstritten
+- [SRF Schweiz] Nach Attacke von Winterthur – Was tun mit potenziellen Gefährdern? – Besuch in einer Klinik
+- [SRF Schweiz] Abstimmung Sevelen – Soll in Sevelen ein Mindestabstand für Windräder ins Reglement?
+- [SRF Schweiz] Abstimmungen Stadt Luzern – Ebnet das Stimmvolk den Boden für mehr gemeinnützige Wohnungen?
+- [SRF Schweiz] Abstimmungen im Sensebezirk FR – Soll ein ganzer Bezirk ein neues Schwimmbad finanzieren?
+- [SRF Schweiz] Wahlen Stadtpräsidium – Drei Frauen wollen Thuner Stadtpräsidentin werden
+- [SRF Schweiz] Abstimmung Stadt Bern – Tierpark Bern: Grünes Licht für Neubaupläne?
+- [SRF Schweiz] Villenstreit im Kanton Zug – Streit um Grundstücke am Ägerisee endet mit Schuldsprüchen
+- [SRF Schweiz] Abstimmungen Kanton Zürich – Der Kanton Zürich weist sich den Weg in der Wohnraumkrise
+- [SRF Schweiz] Dicke Post in der Stadt Zürich – 20 Vorlagen: Eine Abstimmungsflut, die überfordert
+- [SRF Schweiz] Abstimmung Kanton Thurgau – Der Kanton will mehr ausgeben können
+- [SRF Schweiz] Abstimmung Kanton Schwyz – Gönnen sich die Schwyzer eine höhere Prämienverbilligung?
+- [SRF Schweiz] Abstimmung Kanton St. Gallen – Kita-Vergünstigungen sollen einheitlich werden
+- [SRF Schweiz] Abstimmung Kanton Solothurn – Sollen sich Mütter im Kantonsparlament vertreten lassen dürfen?
+- [SRF Schweiz] Abstimmung Kanton Nidwalden – Sollen Gutverdienende in Nidwalden steuerlich entlastet werden?
+- [SRF Schweiz] Wahlen Kanton Graubünden – Parlamentswahlen in Graubünden: Kann die SVP weiter zulegen?
+- [SRF Schweiz] Wahlen in Graubünden – Kehrt die SVP nach 18 Jahren in die Bündner Regierung zurück?
+- [SRF Schweiz] Wahlen Kanton Glarus – Bleibt alles beim Alten im Glarner Parlament?
+- [SRF Schweiz] Abstimmungen Basel-Stadt – Hilfe oder Eingriff? Basel stimmt über direkten Steuerabzug ab
+- [SRF Schweiz] Wahlen Baselland – Schoch oder Liechti – Grüne oder SVP? Baselland vor Richtungswahl
+- [SRF Schweiz] Abstimmungen Baselland – Zukunft der Energiepolitik: Baselland stimmt über Mitsprache ab
+- [SRF Schweiz] Abstimmung Kanton Bern – Kunstmuseum Bern: Erneuerung ja oder nein?
+- [SRF Schweiz] Abstimmung Kanton Aargau – Rettet Aargauer Stimmvolk Gemeinde vor dem Verkehrskollaps?
+- [Journal de Morges] Die Raiffeisen Morges-Venoge hat Sinn für Humor
+- [SRF Wissen] Cheops-Mission verlängert – Schweizer Teleskop erforscht weiterhin ferne Planeten
+- [SRF Ausland] Ukrainischer Ex-Aussenminister – Dmytro Kuleba: «Die EU braucht die Ukraine»
+- [SRF Ausland] Toter Wal – Das war Timmys Todesreise
+- [RTS Vaud] Die Kommission im Zentrum der jüngsten Dittli-Affäre erntet viel Kritik
+- [20 Min Romandie] Genf verbarrikadiert sich, die Internetnutzer haben ihren Spass
+- [SRF Schweiz] Streit um Frühfranzösisch – Bundesrat will zweite Landessprache an Primarschulen durchsetzen
+- [SRF Wissen] Digitalisierung beim Auto – «Steer-by-Wire»: So fährt sich ein Auto ohne Lenksäule
+- [SRF Schweiz] Lehren aus der Pandemie – Bund ruft eine digitale Meldeplattform für Krankheiten ins Leben
+- [SRF Schweiz] Demonstrationen in der Schweiz – Proteste trotz direkter Demokratie – aber weniger heftig
+- [SRF Schweiz] Landsgemeinde mit Fest – Politik als Volksfest: Neuenkirch testet die Landsgemeinde
+- [20 Min Romandie] Ein 17-jähriger Jugendlicher wurde in Yverdon-les-Bains von einer Bande zusammengeschlagen
+- [20 Min Romandie] Der Diebstahl bei der Pfandleihkasse erreicht 750'000 Franken
+- [SRF Schweiz] Defekt im Unterwerk Mett – Stundenlanger Stromausfall in der Stadt Biel
+- [SRF Schweiz] Crans-Montana – Morettis wollen wieder wirten – Wut in Italien
 - [SRF Ausland] Tod von Thailands Prinzessin – «Bha galt als volksnah und war sehr beliebt»
-- [Morges Presse] Verteilung der Direktionen für die nächste Legislaturperiode
+- [Morges Actualitiés] Verteilung der Direktionen für die nächste Legislatur
 - [SRF Schweiz] Rückblick Fussball-WM – Wie die WM 1994 den Schweizer Fussball veränderte
-- [20 Min Romandie] Der Anteil der Erwerbsbevölkerung in Genf ist in zehn Jahren gesunken
+- [20 Min Romandie] Ein 26-jähriger Fussgänger von einem 18-jährigen Autofahrer getötet
+- [20 Min Romandie] Drei Einbrecher von der Polizei in Chiètres festgenommen
+- [20 Min Romandie] Der Anteil der Erwerbsbevölkerung ist in Genf in zehn Jahren zurückgegangen
+- [Journal de Morges] Die Zukunft des Schwimmbads von Etoy sorgt für Spannungen
 - [SRF Ausland] Iran-Krieg – «Die USA hätten nicht nur einen Krieg verloren»
-- [20 Min Romandie] Im Fall des Keffiyeh weigert sich das OSR, den Schleier zu lüften
+- [20 Min Romandie] In der Keffiyeh-Affäre weigert sich das OSR, den Schleier zu lüften
 - [SRF Schweiz] Bauern versus Umweltschützer – Streit um Ackerland
 - [SRF Schweiz] Lage dürfte sich verschärfen – Pegelstände von Flüssen und Seen auf einem rekordtiefen Niveau
-- [SRF Schweiz] Defekt im Unterwerk Mett – Stundenlanger Stromausfall in der Stadt Biel
+- [SRF Ausland] Während WM-Eröffnungsspiel – Ausschreitungen vor Tor 8 des Aztekenstadions
 - [20 Min Romandie] Die Morettis wollen ihre Restaurants wiedereröffnen, Italien ist empört
 - [SRF Schweiz] SAC – Der Klimawandel treibt die Kosten der Berghütten in die Höhe
+- [20 Min Romandie] Man weiss, warum die Stadt Biel ohne Strom war
 - [SRF Ausland] Südkoreanisches Gericht – Ex-Präsident Yoon zu weiteren 30 Jahren Haft verurteilt
+- [20 Min Romandie] Ein Erzieher machte 'Folterspiele' mit Kindern
 - [SRF Schweiz] Genf und sein G8-Trauma – In Genf sichern Geschäfte ihre Auslagen mit Brettern
-- [20 Min Romandie] Dieses Foto brachte einer Freiburgerin einen ersten Preis ein
-- [20 Min Romandie] Wir sprechen im gleichen Rhythmus, wie Vögel singen
+- [20 Min Romandie] Doppelkollision ohne Verletzte in einem Tunnel auf der A16
+- [20 Min Romandie] Dieses Foto bescherte einer Freiburgerin einen ersten Preis
+- [20 Min Romandie] Wir sprechen im gleichen Rhythmus, wie die Vögel singen
 - [SRF Ausland] WM-Start in Mexiko – Fussballsieg als Trostpflaster in Mexiko
 - [SRF Ausland] Nach jahrelangen Verhandlungen – EU verschärft Asylregeln – Reform in Kraft
 - [SRF Schweiz] 100. Jahrestag des «Zyklons» – Der Jura‑Tornado von 1926: die vergessene Katastrophe?
@@ -57,27 +108,29 @@ Finale Liste (live im XML-Feed):
 - [SRF Wirtschaft] Börsengang von SpaceX – SpaceX geht an die Börse – die wichtigsten Antworten
 - [SRF Ausland] Nach fast vier Jahren im Koma – Thailands Prinzessin Bha ist tot
 - [SRF Schweiz] Vertragspaket mit der EU – Ständemehr oder nicht? Schön, haben wir darüber gesprochen
-- [Journal de Morges] «Sie können keine komplexere Baustelle finden»
+- [Journal de Morges] 'Sie werden keine komplexere Baustelle finden'
 - [SRF Schweiz] Iran-Krieg und die Folgen – «Die Ölkrise von 1973 ist nicht mit heute vergleichbar»
 - [SRF Schweiz] Zuviel verlangt fürs Gas – Gericht rügt Stadt St. Gallen bei den Gebühren
-- [RTS Vaud] Das CHUV schliesst die Jahresrechnung 2025 mit einem kleinen Gewinn ab
+- [RTS Vaud] Das CHUV schliesst den Jahresabschluss 2025 mit einem kleinen Gewinn
+- [20 Min Romandie] Mieter nach einem Brand auf dem Dach eines Gebäudes evakuiert
 - [SRF Schweiz] Nach 48 Jahren in Pension – Felsputzer am Axen: Dem Brett am Füdle vertraute er sein Leben an
 - [Journal de Morges] Der Zahlenfreund häuft Interessen an
-- [Journal de Morges] Die zwei Köpfe des Arboretums im Vallon de l'Aubonne gehen
-- [20 Min Romandie] Etwa zwanzig positive Tests nach einem Tuberkulose-Fall
+- [Journal de Morges] Die beiden Köpfe des Arboretums im Vallon de l'Aubonne gehen
+- [20 Min Romandie] Etwa zwanzig positive Tests nach einem Tuberkulosefall
 - [SRF Schweiz] Revision Heilmittelgesetz – Ärztinnen sollen Rezepte künftig elektronisch ausstellen
 - [SRF Schweiz] Eröffnung nach Sanierung – Teuer saniert: Berner Frauenklinik mit langer Leidensgeschichte
 - [SRF Schweiz] Neuer Campus Hitachi Energy – Hitachi Energy baut Campus im Kanton Zürich, nicht im Aargau
 - [SRF Schweiz] Turbulente Versammlung – Machtkampf um Kunsthaus Zug: Präsidentin muss Posten räumen
-- [20 Min Romandie] Zweites positives Geschäftsjahr in Folge für das CHUV
-- [20 Min Romandie] Frankreich zahlt nicht für die G7-Sicherheit: Schweizer «Bedauern»
-- [Journal de Morges] Sich bewegen und dabei Verbindungen zwischen Generationen schaffen
-- [Journal de Morges] In Morges: Ein Spaziergang, um Bäume anders zu sehen
+- [20 Min Romandie] Zweite positive Bilanz in Folge für das CHUV
+- [20 Min Romandie] Frankreich wird nicht für die Sicherheit beim G7 zahlen: Schweizer 'Bedauern'
+- [Journal de Morges] Bewegung als Bindeglied zwischen Generationen
+- [20 Min Romandie] Ein Hydraulikölleck erreicht den Greyerzersee
+- [Journal de Morges] In Morges, ein Spaziergang, um Bäume anders zu sehen
 - [SRF Schweiz] Glasfaser-Sabotage Rheinfelden – Fünf junge Schweizer wegen dutzenden Delikten verurteilt
 - [SRF Schweiz] Klimawandel im Schulalltag – Stadt Zürich reagiert auf Hitzestau in Klassenzimmern
-- [20 Min Romandie] PrimeEnergy-Debakel: Justiz hört Bertrand Piccard an
-- [20 Min Romandie] Jugendliche vor leichtem Geld durch Kriminelle gewarnt
-- [20 Min Romandie] Ein Jahr nach dem Sturm passt Festi’neuch seine Vorkehrungen an
+- [20 Min Romandie] Debakel bei PrimeEnergy: Die Justiz wird Bertrand Piccard anhören
+- [20 Min Romandie] Jugendliche vor dem von Kriminellen versprochenen schnellen Geld gewarnt
+- [20 Min Romandie] Ein Jahr nach dem Sturm passt Festi’neuch sein Konzept an
 - [SRF Wissen] Ein Leben für die Pilze – Seltene Speisepilze aus Schweizer Pilzzucht
 - [SRF Wirtschaft] Gestiegene Inflation – EZB erhöht den Leitzins erstmals seit 2023
 - [SRF Schweiz] Fussball-WM in Nordamerika – Milliarden-Gewinne für die Fifa – kaum Geld für die Schweiz
@@ -85,72 +138,27 @@ Finale Liste (live im XML-Feed):
 - [SRF Gesellschaft] Gespräch über Familie – Im Labor vertauscht: Eine Frau sucht ihre Identität
 - [SRF Schweiz] Humanitäre Hilfe – Fastenaktion schliesst erstmals seit 2022 positiv ab
 - [SRF Schweiz] Stimmen aus der Community – «Grosse Wut, dass die Schweiz sich an G7-Kosten beteiligt»
-- [20 Min Romandie] Ein neues Mobilis-Abo für Reisen und Unterhaltung
+- [20 Min Romandie] Zwei Alpinisten nach einem 100-Meter-Sturz von der Rega gerettet
+- [20 Min Romandie] Ein neues Mobilis-Abo zum Reisen und Unterhalten
 - [SRF Schweiz] Begrüntes Autobahndach – Ueberlandpark gewinnt hochdotierten Preis für Biodiversität
 - [SRF Schweiz] Ständeratswahlen 2027 – Zürcher Regierungsrätin Rickli will nicht in den Ständerat
-- [SRF Schweiz] Politiker auf dem Rasen – FC Nationalrat gewinnt – und sendet eine Botschaft an die Nati
-- [20 Min Romandie] Am ersten Tag seines Prozesses sagte S.B., er lebe «wie ein Obdachloser»
+- [20 Min Romandie] Am ersten Tag seines Prozesses sagte S.B., er lebe 'wie ein Clochard'
 - [SRF Wirtschaft] Sommersession 2026 – Das waren die wichtigsten Entscheide der zweiten Sessionswoche
 - [SRF Schweiz] Geld für Musik-Urheberrechte – Rekordjahr: Suisa nimmt 2025 so viel Geld ein wie noch nie
 - [SRF Ausland] Hitzemarsch in Indien – Die Klimakrise ist in Indien längst spürbar
-- [20 Min Romandie] Yverdon benennt eine Strasse zu Ehren einer ehemaligen Sklavin um
+- [20 Min Romandie] Yverdon benennt eine Strasse als Hommage an eine ehemalige Sklavin
 - [Journal de Morges] Machtwechsel bei der Tour du Pays de Vaud
-- [SRF Schweiz] Totenruhe – Einigung im Disput über den jüdischen Friedhof in Freiburg
 - [20 Min Romandie] Die Grenzkontrollen legen den Verkehr nicht lahm
 - [Journal de Morges] Ein virtuelles Eintauchen in das Wasser von Morges
 - [SRF Ausland] Fussball-WM – Kanada geht auf Distanz zu den USA
-- [SRF Schweiz] Neues Sportzentrum geplant – Samih Sawiris löst in Andermatt ein altes Versprechen ein
+- [20 Min Romandie] 'Eine Entführung, dann ein Mord? Wir wissen es nicht, wir wissen es nicht'
 - [20 Min Romandie] Pascal Corminboeuf, ehemaliger Staatsrat, ist verstorben
-- [SRF Schweiz] Testen Sie Ihr Wissen – Was macht Putin auf der Bundeshauskuppel?
-- [SRF Schweiz] Kranke Lehrpersonen – Lehrkräfte fallen in Basel häufiger aus – das kostet Millionen
 - [SRF Wissen] Besatzung für Mondmission – Reine Männercrew bei «Artemis 3» sorgt für Kritik
 - [SRF Ausland] Prestigeprojekt in Italien – Korruptionsverdacht beim Brückenbau zu Messina
-- [SRF Schweiz] Direkte Demokratie wackelt – Premiere in Basel: Stimmberechtigte sind keine Mehrheit mehr
-- [Morges Actualitiés] Der Espace Couvaloup und die Bibliothek gehen diesen Sommer raus
+- [Morges Actualitiés] Espace Couvaloup und die Bibliothek ziehen diesen Sommer um
 - [SRF Wirtschaft] Recht auf eine zweite Chance – Stecken Sie in der Schuldenspirale? Das können Sie tun
 - [20 Min Romandie] Die Pastorin, die des mehrfachen Missbrauchs beschuldigt wird, darf nicht mehr praktizieren
-- [SRF Schweiz] Kritik an «Lindas» – Teuer und kaum genutzt: Schlechte Noten für Bundes-Datenplattform
-- [SRF Ausland] Krieg in der Ukraine – Luftangriffe: Ukrainer sollen besetzte Gebiete verlassen
 - [SRF Wissen] Windkraft ohne Vogeltod? – Wetter-Radardaten können Vögel vor Windrädern schützen
-- [SRF Schweiz] Wegen G7-Gipfel in Évian – Neuer aussenpolitischer Ärger mit Frankreich
+- [SRF Ausland] Wegen G7-Gipfel in Évian – Neuer aussenpolitischer Ärger mit Frankreich
 - [SRF Ausland] Fussball-WM 2026 – Die «Bromance» der Mächtigen: Was Trump und Infantino verbindet
 - [SRF Ausland] UNHCR-Bericht – Zahl der Flüchtlinge weltweit erstmals seit zehn Jahren gesunken
-- [SRF Schweiz] Kokaingestützte Behandlung – Kontroverse um die Verschreibung von Kokain an Süchtige in Genf
-- [SRF Wirtschaft] Nokia, HP und Dell – Verstaubte Marken kehren zurück – dank KI
-- [SRF Schweiz] Städtische Mindestlöhne – Bundesgerichtsurteil zu Mindestlöhnen löst Freude und Frust aus
-- [SRF Schweiz] Aufrüstung in der Schweiz – Bundesrat Pfister: «Mein Büro wäre nicht vor Drohnen geschützt»
-- [20 Min Romandie] Todesfall an Bord: Die Crew platziert den Leichnam neben diesen Waadtländer
-- [SRF Ausland] Anhörung vor US-Kongress – Bill Gates: Epstein wollte Wissen über Affären nutzen
-- [SRF Ausland] US-Politik in Lateinamerika – «In Kuba ist die Strategie der USA das Aushungern»
-- [20 Min Romandie] Amerikanische Militärhubschrauber über der Schweiz
-- [SRF Ausland] Sagrada Família – Papst Leo segnet den höchsten Kirchturm der Welt
-- [SRF Schweiz] Urteil im Kettensägen-Fall – Keine Freilassung für Schaffhauser Kettensägen-Angreifer
-- [20 Min Romandie] Die Regulierungsabschüsse von Hirschen werden im Herbst wieder aufgenommen
-- [SRF Ausland] Boykott trotz Fussball – Schweizer Fans zögern bei Reisen in die USA
-- [SRF Schweiz] Schweizer Energieversorgung – Im Boden oder an Masten: Die Diskussion um die Stromleitungen
-- [SRF Ausland] Aztekenstadion Mexiko-City – Jahrhundertspiel und Hand Gottes: Die Bühne für grosse WM-Momente
-- [SRF Wissen] «3 vo 5» – das Kultquiz – Ist die Gurke eine Beere? Testen Sie Ihr Wissen
-- [SRF Ausland] Solidarität für Mette-Marit – Tausende wollen kranke Kronprinzessin retten
-- [SRF Schweiz] Sommer-Aktion in Frankreich – De-facto-GA für 29 Euro – aber nicht für Schweizer
-- [SRF Gesellschaft] Zum Tod von Jean Ziegler – «Ungerechtigkeit konnte er nicht ertragen»
-- [20 Min Romandie] Eine neue Rubrik «Meinungen» wurde auf lematin.ch gestartet
-- [SRF Schweiz] Kantonsrat St. Gallen – Religiöse Symbole für Lehrpersonen im Schulzimmer verboten
-- [20 Min Romandie] Prompt gefeuert, ist der Postbote «überrascht und glücklich» über die erhaltene Unterstützung
-- [SRF Schweiz] Finanzierung der 13. AHV-Rente – Das Absturzpotenzial bleibt
-- [SRF Schweiz] Systemkritiker und Soziologe – Jean Ziegler ist tot
-- [SRF Schweiz] Fifa-Einnahmen – Die Fussball-Geldmaschine läuft rund
-- [Journal de Morges] Fussball: Eine Saison mit unterschiedlichen Schicksalen
-- [SRF Wissen] Vorhersage von Naturgefahren – Wenn der Berg rutscht: Wie gefährlich sind Murgänge?
-- [SRF Schweiz] Umfrage – Jeder vierte Schweizer sieht Trump als Gegner
-- [SRF Schweiz] Wegen massivem Leck – Rätsel um Freibad: 100'000 Liter Wasser verschwinden täglich
-- [20 Min Romandie] Der Frauenstreik wird diesen Samstag den Lausanner Verkehr stören
-- [SRF Schweiz] Jean Ziegler – Ein Leben im Dienst der globalen Gerechtigkeit
-- [SRF Ausland] WM-Eröffnung 2026 – Mexiko-Stadt schliesst Schulen zur WM-Eröffnung
-- [20 Min Romandie] Demonstranten werden es vermeiden, vor der Mont-Blanc-Brücke zu passieren
-- [SRF Ausland] Vermehrt Bewaffnete an Bord – Russland rüstet seine Schattenflotte auf
-- [SRF Wirtschaft] Energie-Umbau kommt voran – Europa macht vorwärts mit den Erneuerbaren
-- [SRF Schweiz] Giftige Raupe bei Derendingen – Hecken und Bäume bei A1 gefällt – wegen giftiger Raupe
-- [20 Min Romandie] In Sitten hat der Mega-Prozess des Vermögensverwalters endlich begonnen
-- [20 Min Romandie] Migros beendet Zusammenarbeit mit dem französischen Unternehmen Naturalia
-- [SRF Wissen] Neue Vogelart – Schwarzstorch brütet erstmals in der Schweiz
-- [SRF Schweiz] Nach Plagiat – SVP-Politikerin Nina Fehr Düsel behält Doktortitel
