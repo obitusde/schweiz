@@ -1,5 +1,5 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 14.6.2026, 06:30:36
+Start: 14.6.2026, 08:25:51
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,31 +17,32 @@ Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: Blaulicht-Meldung / Vermisstenfall): 'Un homme disparaît après une visite dans la région de Chillon'
-- Gelöscht (Grund: Blaulicht-Meldung / Brand): 'Grosse opération pour un feu de panneaux solaires à Meinier'
-- Gelöscht (Grund: Duplikat zu ID 3, SRF-Artikel bevorzugt): '«Tren de Aragua» in Venezuela – Trump: US-Militärschlag tötet berüchtigten Bandenanführer'
-- Gelöscht (Grund: Blaulicht-Meldung / Unfall): 'Un bateau en feu sur le Léman: trois personnes secourues'
-- Gelöscht (Grund: Duplikat zu ID 14, informativerer Artikel bleibt erhalten): 'Grösster Börsengang der Welt – SpaceX startet mit einem Plus von 11 Prozent'
-- Gelöscht (Grund: Duplikat zu ID 102, informativerer Artikel bleibt erhalten): 'Defekt im Unterwerk Mett – Stundenlanger Stromausfall in der Stadt Biel'
-- Gelöscht (Grund: Duplikat zu ID 100, informativerer Artikel bleibt erhalten): 'Crans-Montana – Morettis wollen wieder wirten – Wut in Italien'
-- Gelöscht (Grund: Duplikat zu ID 88): 'Répartition des directions pour la prochaine législature'
-- Gelöscht (Grund: Duplikat zu ID 88): 'Répartition des directions pour la prochaine législature'
-- Gelöscht (Grund: Blaulicht-Meldung / Unfall): 'Un piéton de 26 ans tué par un automobiliste de 18 ans'
-- Gelöscht (Grund: Blaulicht-Meldung / Kriminalität): 'Trois cambrioleurs arrêtés par la police à Chiètres'
-- Gelöscht (Grund: Blaulicht-Meldung / Kriminalität): 'Un éducateur faisait «des jeux de torture» avec des enfants'
-- Gelöscht (Grund: Blaulicht-Meldung / Unfall): 'Double collision sans blessés dans un tunnel sur l’A16'
+- Gelöscht (Grund: Kriminalitätsmeldung außerhalb von Waadt/Vaud.): 'Bombendrohung – Flohmarkt-Gelände in Kreuzlingen wegen Bedrohungslage evakuiert'
+- Gelöscht (Grund: Blaulicht-Meldung (Vermisstenfall), trotz Regionalbezug als reine Blaulicht-Meldung gefiltert.): 'Un homme disparaît après une visite dans la région de Chillon'
+- Gelöscht (Grund: Brandmeldung/Blaulicht-Meldung ohne direkten Bezug zu Morges.): 'Grosse opération pour un feu de panneaux solaires à Meinier'
+- Gelöscht (Grund: Duplikat zu ID 4 (bevorzugt SRF-Artikel).): '«Tren de Aragua» in Venezuela – Trump: US-Militärschlag tötet berüchtigten Bandenanführer'
+- Gelöscht (Grund: Unfall/Blaulicht-Meldung außerhalb von Morges.): 'Un bateau en feu sur le Léman: trois personnes secourues'
+- Gelöscht (Grund: Kriminalitätsmeldung/Blaulicht-Thematik.): 'Le football amateur est infesté par les magouilles'
+- Gelöscht (Grund: Kriminalitätsmeldung/Blaulicht-Meldung.): 'Un ado de 17 ans a été tabassé en bande à Yverdon-les-Bains'
+- Gelöscht (Grund: Kriminalitätsmeldung.): 'Le vol à la Caisse de prêts sur gages atteint 750'000 francs'
+- Gelöscht (Grund: Duplikat zu ID 89.): 'Répartition des directions pour la prochaine législature'
+- Gelöscht (Grund: Duplikat zu ID 89.): 'Répartition des directions pour la prochaine législature'
+- Gelöscht (Grund: Unfall/Blaulicht-Meldung.): 'Un piéton de 26 ans tué par un automobiliste de 18 ans'
+- Gelöscht (Grund: Kriminalitätsmeldung.): 'Trois cambrioleurs arrêtés par la police à Chiètres'
+- Gelöscht (Grund: Kriminalitätsmeldung/Ausschreitungen.): 'Während WM-Eröffnungsspiel – Ausschreitungen vor Tor 8 des Aztekenstadions'
+- Gelöscht (Grund: Duplikat zu ID 87.): 'Les Moretti veulent rouvrir leurs restos, l'Italie s'indigne'
 
 Finale Liste (live im XML-Feed):
+- [SRF Wirtschaft] Blockierte Strasse von Hormus – Der Austausch von Schiffscrews wird immer schwieriger
 - [SRF Schweiz] Suva-Finanzchef im Interview – «Würden gerne mehr in günstigen Wohnraum investieren»
-- [Journal de Morges] Aufstieg und Heldentat in der Tasche für Saint-Prex!
 - [SRF Ausland] Tren de Aragua in Venezuela – Tötung des Bandenchefs durch USA dürfte eine Warnung sein
-- [20 Min Romandie] Der Frauenstreik unter dem Zeichen des No-G7 und einer prallen Sonne
-- [20 Min Romandie] «Um 8:15 Uhr ist es voll»: Die Plätze sind begehrt in der Bibliothek
+- [20 Min Romandie] Die feministische Streikbewegung im Zeichen des Anti-G7-Protests und der brennenden Sonne
+- [20 Min Romandie] «Um 8:15 Uhr ist es voll»: Plätze in der Bibliothek sind begehrt
 - [SRF Schweiz] Heimische Proteinquelle – Die Lupine hat Zukunft – aber ist noch nicht marktreif
-- [20 Min Romandie] Kann man ein Gemälde schmecken? Ein Sternekoch hat es versucht
-- [20 Min Romandie] Die Protestflottille gefilmt von Lausanne aus
+- [20 Min Romandie] Kann man ein Gemälde probieren? Ein Sternekoch hat es versucht
+- [20 Min Romandie] Die Protestflottille aus Lausanne gefilmt
 - [SRF Ausland] Rahmen für Friedenserklärung – Wie realistisch ist ein baldiges Iran-USA-Abkommen?
-- [20 Min Romandie] Genf verbarrikadiert sich, die Kunst zieht auf die Palisaden ein
+- [20 Min Romandie] Genf verbarrikadiert sich, die Kunst hält Einzug auf den Holzwänden
 - [SRF Ausland] Tierische Spionage – China warnt vor spionierenden Schildkröten und Fischen
 - [SRF Schweiz] Schweiz – Katar – Schweizer Fans vor WM-Start: «Fühlt sich an wie ein Stück Heimat»
 - [SRF Wirtschaft] Der Weltraum als Geschäftsfeld – Schweizer Tech-Firmen profitieren vom Rummel um SpaceX
@@ -53,26 +54,26 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Finanzierung der 13. AHV-Rente – Nehmen Sie einen Scherbenhaufen in Kauf, Frau Gredig?
 - [20 Min Romandie] Erste «ruhige» Nacht für das Anti-G7-Wochenende
 - [SRF Ausland] G7-Gipfel in Evian – Kann Macron den Eklat vermeiden?
-- [20 Min Romandie] Pétanque-Kugeln unter hoher Beobachtung vor dem G7
+- [20 Min Romandie] Boulekugeln unter strenger Beobachtung vor dem G7-Gipfel
 - [SRF Wissen] Rekordbefall – Giftige Raupen dieses Jahr so häufig wie noch nie
 - [SRF Schweiz] «Insta» statt Rednerpult – Die Politinfluencer im Bundeshaus
-- [20 Min Romandie] Telearbeit: Sind die Waadtländer Chefs zu starr?
+- [20 Min Romandie] Homeoffice: Sind Waadtländer Chefs zu starr?
 - [SRF Schweiz] IV-Urteil sorgt für Kritik – Gemeindepräsident mit Behinderung verliert Anspruch auf IV-Rente
 - [SRF Ausland] Stimmen aus dem Iran – Irans «Filternet»: Misstrauen nach Ende der Internetsperre
 - [SRF Schweiz] Diskussion ums Frühfranzösisch – Französisch für die Nation: eine Schweizer Geschichte
 - [SRF Ausland] Fusion der Hollywood-Giganten – US-Justizministerium: Paramount darf Warner Bros. übernehmen
 - [SRF Schweiz] «Arena» zu Mercosur – «Das ist Erpressung, Herr Ritter» – «Nein, das ist ausgewogen»
 - [SRF Wirtschaft] Umgang mit KI – Liest eine KI tatsächlich bald unsere Whatsapp-Chats?
-- [20 Min Romandie] Le football amateur est infesté par les magouilles
 - [SRF Schweiz] Kiloweise Material – Mit dem Bagger gegen tote Quaggamuscheln – Fischer sind verärgert
+- [SRF Wirtschaft] Grösster Börsengang der Welt – SpaceX startet mit einem Plus von 11 Prozent
 - [SRF Wirtschaft] Stromfressende Rechenzentren – Um Energie zu sparen: China versenkt Datenzentrum im Meer
 - [SRF Schweiz] Bleiben Sie auf dem Laufenden – So werden Sie am Abstimmungssonntag bei SRF informiert
 - [SRF Wirtschaft] Zentrale Betreibungsauskunft – Schummeln mit Schulden wird schwieriger
 - [SRF Schweiz] Jahrelange Blockade – Italien will wieder Dublin-Flüchtlinge von der Schweiz aufnehmen
-- [20 Min Romandie] Déçu par la RTS pour sa diffusion partielle du Mondial de foot
+- [20 Min Romandie] Enttäuscht von der RTS wegen der Teilübertragung der Fussball-WM
 - [SRF Schweiz] Kein freies Geleit – Den Haag lässt Schweiz kaum Spielraum bei Haftbefehl für Putin
 - [SRF Wissen] Forschung in Zollikofen – Was stresst Legehennen? Eine Studie soll ihr Leben verbessern
-- [20 Min Romandie] Des F/A-18 aperçus en train de rôder sur l'arc lémanique
+- [20 Min Romandie] F/A-18-Kampfjets beim Überflug am Genfersee beobachtet
 - [SRF Schweiz] Kampfjet-Lärm – Schallschutz absurd – wie der Fluglärm des F-35 ein Dorf teilt
 - [SRF Schweiz] Abstimmungen Stadt Winterthur – Winterthur stimmt über neuen Campingplatz ab
 - [SRF Schweiz] Abstimmungen Stadt Zürich – Zürich könnte die Spur legen für den Tramausbau in Affoltern
@@ -103,26 +104,22 @@ Finale Liste (live im XML-Feed):
 - [SRF Wissen] Cheops-Mission verlängert – Schweizer Teleskop erforscht weiterhin ferne Planeten
 - [SRF Ausland] Ukrainischer Ex-Aussenminister – Dmytro Kuleba: «Die EU braucht die Ukraine»
 - [SRF Ausland] Toter Wal – Das war Timmys Todesreise
-- [RTS Vaud] Die Kommission im Zentrum der letzten Dittli-Affäre steht unter starker Kritik
-- [20 Min Romandie] Genf verbarrikadiert sich, die Internetnutzer haben ihren Spass
+- [RTS Vaud] Die Kommission im Zentrum der jüngsten Dittli-Affäre steht unter scharfer Kritik
+- [20 Min Romandie] Genf verbarrikadiert sich, die Internetnutzer amüsieren sich köstlich
 - [SRF Schweiz] Streit um Frühfranzösisch – Bundesrat will zweite Landessprache an Primarschulen durchsetzen
 - [SRF Wissen] Digitalisierung beim Auto – «Steer-by-Wire»: So fährt sich ein Auto ohne Lenksäule
 - [SRF Schweiz] Lehren aus der Pandemie – Bund ruft eine digitale Meldeplattform für Krankheiten ins Leben
 - [SRF Schweiz] Demonstrationen in der Schweiz – Proteste trotz direkter Demokratie – aber weniger heftig
 - [SRF Schweiz] Landsgemeinde mit Fest – Politik als Volksfest: Neuenkirch testet die Landsgemeinde
-- [20 Min Romandie] Ein 17-Jähriger wurde in Yverdon-les-Bains von einer Bande verprügelt
-- [20 Min Romandie] Diebstahl bei der Pfandleihkasse erreicht 750'000 Franken
+- [SRF Schweiz] Defekt im Unterwerk Mett – Stundenlanger Stromausfall in der Stadt Biel
+- [SRF Schweiz] Crans-Montana – Morettis wollen wieder wirten – Wut in Italien
 - [SRF Ausland] Tod von Thailands Prinzessin – «Bha galt als volksnah und war sehr beliebt»
 - [Journal de Morges] Die Verteilung der Ressorts in Morges ist bekannt
 - [SRF Schweiz] Rückblick Fussball-WM – Wie die WM 1994 den Schweizer Fussball veränderte
-- [20 Min Romandie] Der Anteil der Erwerbsbevölkerung ist in zehn Jahren in Genf zurückgegangen
+- [20 Min Romandie] Der Anteil der erwerbstätigen Bevölkerung in Genf ist in zehn Jahren gesunken
+- [Journal de Morges] Die Zukunft des Schwimmbads Etoy sorgt für Spannungen
 - [SRF Ausland] Iran-Krieg – «Die USA hätten nicht nur einen Krieg verloren»
-- [20 Min Romandie] In der Keffiyeh-Affäre verweigert das OSR das Enthüllen
+- [20 Min Romandie] Im Fall des Keffiyeh weigert sich das OSR, den Schleier zu lüften
 - [SRF Schweiz] Bauern versus Umweltschützer – Streit um Ackerland
 - [SRF Schweiz] Lage dürfte sich verschärfen – Pegelstände von Flüssen und Seen auf einem rekordtiefen Niveau
-- [SRF Ausland] Während WM-Eröffnungsspiel – Ausschreitungen vor Tor 8 des Aztekenstadions
-- [20 Min Romandie] Die Morettis wollen ihre Restaurants wieder öffnen, Italien empört sich
 - [SRF Schweiz] SAC – Der Klimawandel treibt die Kosten der Berghütten in die Höhe
-- [20 Min Romandie] Man weiss, warum die Stadt Biel ohne Strom war
-- [SRF Ausland] Südkoreanisches Gericht – Ex-Präsident Yoon zu weiteren 30 Jahren Haft verurteilt
-- [SRF Schweiz] Genf und sein G8-Trauma – In Genf sichern Geschäfte ihre Auslagen mit Brettern
