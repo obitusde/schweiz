@@ -5,7 +5,7 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sun, 14 Jun 2026 07:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 07:07:59 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>[SRF Schweiz] Abstimmungsflut? – «Dieses Mal ist für jeden etwas dabei – das mobilisiert»</title>
@@ -62,6 +62,13 @@
       <guid isPermaLink="false">urn:srf:article:019ebb55-3bf2-a585-5b3d-8ded6545dd36</guid>
       <description><![CDATA[Die Suva ist eine der grössten Investorinnen der Schweiz. Ein Gespräch über Monopole, Immobilien und Netto-Null.]]></description>
       <pubDate>Sat, 13 Jun 2026 19:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Promotion et exploit dans la poche pour Saint-Prex!</title>
+      <link>https://journaldemorges.ch/sports/un-bijou-dantonio-lance-st-prex-vers-la-promotion/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/sports/un-bijou-dantonio-lance-st-prex-vers-la-promotion/</guid>
+      <description><![CDATA[Vainqueur de Servette M21 4-1 mercredi soir, Saint-Prex doit célébrer la montée en première ligue promotion ce samedi. C’est fait!]]></description>
+      <pubDate>Sat, 13 Jun 2026 18:50:43 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Tren de Aragua in Venezuela – Tötung des Bandenchefs durch USA dürfte eine Warnung sein</title>
@@ -657,13 +664,6 @@
       <guid isPermaLink="false">urn:srf:article:019ebb10-e380-1e7d-ebf8-5b83e789c260</guid>
       <description><![CDATA[Mit dem Tod von Thailands ältester Prinzessin verliert die Königsfamilie ihr erfolgreichstes Mitglied.]]></description>
       <pubDate>Fri, 12 Jun 2026 11:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] La répartition des dicastères morgiens est connue</title>
-      <link>https://journaldemorges.ch/actualite/politique/la-repartition-des-dicasteres-morgiens-est-connue-2/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/politique/la-repartition-des-dicasteres-morgiens-est-connue-2/</guid>
-      <description><![CDATA[La répartition des dicastères de la Commune de Morges a été annoncée ce vendredi.]]></description>
-      <pubDate>Fri, 12 Jun 2026 10:58:52 GMT</pubDate>
     </item>
     <item>
       <title>[Morges Presse] Répartition des directions pour la prochaine législature</title>
