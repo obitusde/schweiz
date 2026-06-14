@@ -5,77 +5,238 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sun, 14 Jun 2026 10:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 12:28:19 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Schweiz] Abstimmungen Baselland – Bei der Energiepolitik-Initiative zeichnet sich ein Nein ab</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmungen-baselland-bei-der-energiepolitik-initiative-zeichnet-sich-ein-nein-ab</link>
+      <title>[SRF Schweiz] Wahlen Stadtpräsidium – Noch keine Stadtpräsidentin für Thun</title>
+      <link>https://www.srf.ch/news/schweiz/wahlen-stadtpraesidium-noch-keine-stadtpraesidentin-fuer-thun</link>
+      <guid isPermaLink="false">urn:srf:article:019ea6a9-961f-6406-d824-8923f9b14da7</guid>
+      <description><![CDATA[Das Rennen um das Präsidium wird erst am 5. Juli entschieden, keine der Kandidatinnen hat das absolute Mehr erreicht.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:27:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen 14. Juni 2026 – So hat die Schweiz abgestimmt – in Grafiken</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-14-juni-2026-so-hat-die-schweiz-abgestimmt-in-grafiken</link>
+      <guid isPermaLink="false">urn:srf:article:019eacfa-b271-96a5-9649-815e6ccbcabc</guid>
+      <description><![CDATA[Die eidgenössischen Vorlagen und regionalen Resultate auf einen Blick.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmung Kanton St. Gallen – Kanton St. Gallen vereinheitlicht Kita-Vergünstigungen</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-st-gallen-kanton-st-gallen-vereinheitlicht-kita-verguenstigungen</link>
+      <guid isPermaLink="false">urn:srf:article:019e8383-e2ae-fa0d-c0c4-92d27f37e958</guid>
+      <description><![CDATA[Bislang war die Höhe der Rabatte stark von der Wohngemeinde abhängig. Nun wird ein neues System eingeführt.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:22:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Neuchâtel va reconnaître ses aînés dans sa Constitution</title>
+      <link>https://www.20min.ch/fr/story/votation-14-juin-neuchatel-va-reconnaitre-ses-aines-dans-sa-constitution-103581041</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/votation-14-juin-neuchatel-va-reconnaitre-ses-aines-dans-sa-constitution-103581041</guid>
+      <description><![CDATA[Les citoyens ont plébiscité dimanche un décret visant à inscrire dans la Constitution cantonale un nouvel article pour que les autorités prennent soin des seniors.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen im Sensebezirk FR – Bevölkerung sagt Nein zum neuen Hallenbad in Plaffeien</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-im-sensebezirk-fr-bevoelkerung-sagt-nein-zum-neuen-hallenbad-in-plaffeien</link>
+      <guid isPermaLink="false">urn:srf:article:019ea671-2d5e-73b9-14ee-82bc24b990ca</guid>
+      <description><![CDATA[Das neue Hallenbad im Senseoberland scheitert an der Unterländer Bevölkerung.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:19:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen Baselland – Keine Änderung bei Energiepolitik: Stimmvolk lehnt Initiative ab</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-baselland-keine-aenderung-bei-energiepolitik-stimmvolk-lehnt-initiative-ab</link>
       <guid isPermaLink="false">urn:srf:article:019e02b5-3237-871d-55b4-22bd45d51ab9</guid>
-      <description><![CDATA[Rund zwei Drittel der Gemeinden im Baselbiet sind ausgezählt und bei der Energiepolitik sieht es nach einem Nein aus.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:54:50 GMT</pubDate>
+      <description><![CDATA[Das Verbot von fossilen Heizungen bleibt im Baselbiet aller Voraussicht nach bestehen.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmung Kanton Solothurn – Mutterschaftsvertretung im Kantonsparlament wird angenommen</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-solothurn-mutterschaftsvertretung-im-kantonsparlament-wird-angenommen</link>
-      <guid isPermaLink="false">urn:srf:article:019e888a-4edf-1582-f32c-832465cf2425</guid>
-      <description><![CDATA[Stellvertretungen bei Mutterschaft? Das Stimmvolk entscheidet über die Vereinbarkeit von Politik und Familie.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:53:09 GMT</pubDate>
+      <title>[SRF Schweiz] Abstimmungen live – Dettling: «Die Städte haben das Land gebodigt»</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-live-dettling-die-staedte-haben-das-land-gebodigt</link>
+      <guid isPermaLink="false">urn:srf:article:019eba7b-d179-3296-7296-0617671cdcf7</guid>
+      <description><![CDATA[55 Prozent sagen gemäss SRG-Hochrechnung Nein zur SVP-Initiative, das Zivildienstgesetz dürfte angenommen werden.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:16:18 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmung vom 14. Juni 2026 – Wie hat Ihre Gemeinde an der Urne entschieden?</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-vom-14-juni-2026-wie-hat-ihre-gemeinde-an-der-urne-entschieden</link>
-      <guid isPermaLink="false">urn:srf:article:019eacc9-63ad-ed94-0755-3b5bcb34b4da</guid>
-      <description><![CDATA[Die nationalen Vorlagen auf einen Blick – mit den Ergebnissen nach Gemeinden.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:52:38 GMT</pubDate>
+      <title>[SRF Schweiz] Abstimmung Kanton Schwyz – Schwyzer Stimmvolk sieht höhere Prämienverbilligung kritisch</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-schwyz-schwyzer-stimmvolk-sieht-hoehere-praemienverbilligung-kritisch</link>
+      <guid isPermaLink="false">urn:srf:article:019ea65f-b50d-2802-6024-0ed296964601</guid>
+      <description><![CDATA[Eine Initiative der SP wollte mehr Mittel für die Prämienverbilligung. Sie wurde deutlich abgelehnt.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmungen Kanton Zürich – Alle drei Wohninitiativen dürften scheitern</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmungen-kanton-zuerich-alle-drei-wohninitiativen-duerften-scheitern</link>
-      <guid isPermaLink="false">urn:srf:article:019de361-9d61-dc8c-9307-a4c78884656f</guid>
-      <description><![CDATA[Die Bevölkerung im Kanton Zürich dürfte zu allen drei Initiativen gegen die Wohnungsnot nein sagen.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:51:07 GMT</pubDate>
+      <title>[RTS Vaud] La population vaudoise accepte d'ancrer le principe d'un salaire minimum dans la Constitution</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/vaud-vote-un-salaire-minimum-dans-sa-constitution-mais-rejette-les-lois-29273663.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29273663</guid>
+      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/vaud-vote-un-salaire-minimum-dans-sa-constitution-mais-rejette-les-lois-29273663.html?rts_source=rss_t" alt="La population vaudoise accepte d'ancrer le principe d'un salaire minimum dans la Constitution"></a>Le canton de Vaud a rendu dimanche un verdict contrasté sur l'introduction d'un salaire minimum. La population a accepté d'ancrer ce principe dans la Constitution, mais refusé les projets de lois associés.</div>]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:14:23 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Wahlen Baselland – Baselland vor Richtungswahl: Matthias Liechti liegt vorne</title>
-      <link>https://www.srf.ch/news/schweiz/wahlen-baselland-baselland-vor-richtungswahl-matthias-liechti-liegt-vorne</link>
-      <guid isPermaLink="false">urn:srf:article:019dfc8e-98c3-46e2-7c07-3655eae7865f</guid>
-      <description><![CDATA[Kehrt die SVP zurück in die Baselbieter Regierung? Heute entscheidet das Baselbiet.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:50:16 GMT</pubDate>
+      <title>[SRF Schweiz] Abstimmungen Kanton Bern – Resultate aus Berner Gemeinden von A-Z</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-kanton-bern-resultate-aus-berner-gemeinden-von-a-z-3</link>
+      <guid isPermaLink="false">urn:srf:article:019ec594-7c1a-a07d-b97f-e34c01c9a9b3</guid>
+      <description><![CDATA[Im Kanton Bern kommt es in mehreren Gemeinden zu Abstimmungen. Ein Überblick in alphabetischer Reihenfolge.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:13:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen Kanton St. Gallen – Resultate aus St. Galler Gemeinden von A-Z</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-kanton-st-gallen-resultate-aus-st-galler-gemeinden-von-a-z-2</link>
+      <guid isPermaLink="false">urn:srf:article:019e88d6-c93d-aa64-5557-4c2bf2a8b6e6</guid>
+      <description><![CDATA[Im Kanton St. Gallen fanden diverse kommunale Abstimmungen und Wahlen statt. Hier finden Sie die wichtigsten Ergebnisse.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:11:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen Kanton Aargau – Resultate aus Aargauer Gemeinden von A bis Z</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-kanton-aargau-resultate-aus-aargauer-gemeinden-von-a-bis-z</link>
+      <guid isPermaLink="false">urn:srf:article:019e88cd-962b-27ae-9913-07f5ba6f0dd4</guid>
+      <description><![CDATA[Im Kanton Aargau kommt es in mehreren Gemeinden zu Abstimmungen und Wahlen. Entscheide in alphabetischer Reihenfolge.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen Zentralschweiz – Resultate aus Zentralschweizer Gemeinden von A–Z</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-zentralschweiz-resultate-aus-zentralschweizer-gemeinden-von-a-z-3</link>
+      <guid isPermaLink="false">urn:srf:article:019ea672-f5f4-4e1f-444a-e22ee97add4e</guid>
+      <description><![CDATA[In der Zentralschweiz wird auch in Gemeinden abgestimmt und gewählt. Wichtige Entscheide in alphabetischer Reihenfolge.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmung Stadt Zug – Stimmvolk legt den Grundstein für den Umbau der Metalli</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmung-stadt-zug-stimmvolk-legt-den-grundstein-fuer-den-umbau-der-metalli</link>
+      <guid isPermaLink="false">urn:srf:article:019e9858-ed21-843e-05a9-f0b83cba50dc</guid>
+      <description><![CDATA[Seit 1987 prägt die Metalli das Stadtbild. Nun sagt das Stimmvolk Ja zum Bebauungsplan für eine Umgestaltung des Areals.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:05:51 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Abstimmungen vom 14. Juni – Hochrechnung zeigt: 53 Prozent stimmen für Zivildienstgesetz</title>
       <link>https://www.srf.ch/news/schweiz/abstimmungen-vom-14-juni-hochrechnung-zeigt-53-prozent-stimmen-fuer-zivildienstgesetz</link>
       <guid isPermaLink="false">urn:srf:article:019e8c3d-ebc9-027e-9830-2ca4028f4ff8</guid>
       <description><![CDATA[Laut der SRG-Hochrechnung stimmt die Schweiz für einen erschwerten Zugang zum Zivildienst.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:49:34 GMT</pubDate>
+      <pubDate>Sun, 14 Jun 2026 12:04:23 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmung Kanton Aargau – Aargau vor einem Ja zum Millionen-Strassenprojekt</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-aargau-aargau-vor-einem-ja-zum-millionen-strassenprojekt</link>
-      <guid isPermaLink="false">urn:srf:article:019e8854-37b4-4160-7f26-20d6f3c824dd</guid>
-      <description><![CDATA[Das grösste Verkehrsprojekt des Kantons soll die Gemeinde Suhr vor dem Kollaps retten. Im Moment sagen 55 Prozent Ja.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:49:32 GMT</pubDate>
+      <title>[SRF Schweiz] Wahlen Baselland – Baselland vor Richtungswahl: Matthias Liechti liegt vorne</title>
+      <link>https://www.srf.ch/news/schweiz/wahlen-baselland-baselland-vor-richtungswahl-matthias-liechti-liegt-vorne</link>
+      <guid isPermaLink="false">urn:srf:article:019dfc8e-98c3-46e2-7c07-3655eae7865f</guid>
+      <description><![CDATA[Kehrt die SVP zurück in die Baselbieter Regierung? Heute entscheidet das Baselbiet.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:04:22 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmung vom 14. Juni – Hochrechnung: 55 Prozent gegen Initiative «Keine 10-Mio-Schweiz»</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-vom-14-juni-hochrechnung-55-prozent-gegen-initiative-keine-10-mio-schweiz</link>
-      <guid isPermaLink="false">urn:srf:article:019e8ca5-48e8-9c8e-63db-c3775498d041</guid>
-      <description><![CDATA[Gemäss erster SRG-Hochrechnung zeichnet sich an der Urne ein Nein zur sogenannten Nachhaltigkeits-Initiative ab.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:47:29 GMT</pubDate>
+      <title>[20 Min Romandie] Salaire minimum: le canton de Vaud dit: «Oui, mais...»</title>
+      <link>https://www.20min.ch/fr/story/votations-du-14-juin-salaire-minimum-un-oui-de-principe-dans-le-canton-de-vaud-103580697</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/votations-du-14-juin-salaire-minimum-un-oui-de-principe-dans-le-canton-de-vaud-103580697</guid>
+      <description><![CDATA[Les citoyens ont inscrit le principe dans la Constitution, tout en rejetant les deux textes censés le concrétiser. Le dossier reviendra probablement au Grand Conseil.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmungen im Sensebezirk FR – Tendenz Schwimmbad Plaffeien: Unterland sagt nein, Oberland Ja</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmungen-im-sensebezirk-fr-tendenz-schwimmbad-plaffeien-unterland-sagt-nein-oberland-ja</link>
-      <guid isPermaLink="false">urn:srf:article:019ea671-2d5e-73b9-14ee-82bc24b990ca</guid>
-      <description><![CDATA[Für gut 27 Millionen Franken soll Plaffeien im Sensebezirk ein neues Schwimmbad erhalten. Ziehen die Gemeinden mit?]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:46:25 GMT</pubDate>
+      <title>[Journal de Morges] Aubonne a tranché, le chemin de Bougy-Saint-Martin sera vendu</title>
+      <link>https://journaldemorges.ch/actualite/societe/aubonne-a-tranche-le-chemin-de-bougy-saint-martin-sera-vendu/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/aubonne-a-tranche-le-chemin-de-bougy-saint-martin-sera-vendu/</guid>
+      <description><![CDATA[Les Aubonnois étaient appelés aux urnes ce dimanche pour s’exprimer sur la vente du chemin public à Philippe Amon. Les électeurs ont plébiscité la décision du Conseil communal à 61%. La vente pourra avoir lieu.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:01:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmung Kanton Bern – Kunstmuseum Bern: sechs Verwaltungskreise ausgezählt</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-bern-kunstmuseum-bern-sechs-verwaltungskreise-ausgezaehlt</link>
+      <guid isPermaLink="false">urn:srf:article:019e9214-c561-68ca-23cd-89b460c0519c</guid>
+      <description><![CDATA[Die Stimmberechtigten entscheiden über das 147-Millionen-Franken-Projekt. Es zeichnet sich ein Stadt-Land-Graben ab.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen Kanton Thurgau – Resultate aus Thurgauer Gemeinden von A-Z</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-kanton-thurgau-resultate-aus-thurgauer-gemeinden-von-a-z-1</link>
+      <guid isPermaLink="false">urn:srf:article:019e88eb-2631-6f28-c14c-66c0929fb71a</guid>
+      <description><![CDATA[Im Kanton Thurgau fanden diverse kommunale Abstimmungen und Wahlen statt. Hier finden Sie die wichtigsten Ergebnisse.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:59:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Challenge im Klassenlager – Jedes Gramm zählt: So kämpfen diese Kinder gegen Food Waste</title>
+      <link>https://www.srf.ch/news/schweiz/challenge-im-klassenlager-jedes-gramm-zaehlt-so-kaempfen-diese-kinder-gegen-food-waste</link>
+      <guid isPermaLink="false">urn:srf:article:019eb1da-26e7-225e-0a78-08664f2e7ed2</guid>
+      <description><![CDATA[Ein Wettbewerb motiviert Kinder, möglichst wenig Lebensmittel zu verschwenden. Auch eine Luzerner Klasse macht mit.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:58:06 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Abstimmungen Basel-Stadt – Schweizer Premiere: Basel-Stadt führt direkten Steuerabzug ein</title>
       <link>https://www.srf.ch/news/schweiz/abstimmungen-basel-stadt-schweizer-premiere-basel-stadt-fuehrt-direkten-steuerabzug-ein</link>
       <guid isPermaLink="false">urn:srf:article:019e02a7-4e76-ddbd-2e53-e569255e99b2</guid>
       <description><![CDATA[Bereits nach den brieflichen Stimmen ist klar: In Basel-Stadt sollen Steuern neu direkt vom Lohn abgezogen werden.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:45:13 GMT</pubDate>
+      <pubDate>Sun, 14 Jun 2026 11:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmung 14. Juni 2026 – Wie hat Ihre Gemeinde an der Urne entschieden?</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmung-14-juni-2026-wie-hat-ihre-gemeinde-an-der-urne-entschieden</link>
+      <guid isPermaLink="false">urn:srf:article:019eacc9-63ad-ed94-0755-3b5bcb34b4da</guid>
+      <description><![CDATA[Die nationalen Vorlagen auf einen Blick – mit den Ergebnissen nach Gemeinden.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmung Kanton Aargau – Aargau sagt Ja zum Millionen-Strassenprojekt</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-aargau-aargau-sagt-ja-zum-millionen-strassenprojekt</link>
+      <guid isPermaLink="false">urn:srf:article:019e8854-37b4-4160-7f26-20d6f3c824dd</guid>
+      <description><![CDATA[Das grösste Verkehrsprojekt des Kantons soll die Gemeinde Suhr vor dem Kollaps retten. 54 Prozent stimmen zu.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmung vom 14. Juni – Hochrechnung: 55 Prozent gegen Initiative «Keine 10-Mio-Schweiz»</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmung-vom-14-juni-hochrechnung-55-prozent-gegen-initiative-keine-10-mio-schweiz</link>
+      <guid isPermaLink="false">urn:srf:article:019e8ca5-48e8-9c8e-63db-c3775498d041</guid>
+      <description><![CDATA[Gemäss SRG-Hochrechnung zeichnet sich an der Urne ein Nein zur sogenannten Nachhaltigkeits-Initiative ab.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:46:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Promotion et exploit dans la poche pour Saint-Prex!</title>
+      <link>https://journaldemorges.ch/sports/un-bijou-dantonio-lance-st-prex-vers-la-promotion/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/sports/un-bijou-dantonio-lance-st-prex-vers-la-promotion/</guid>
+      <description><![CDATA[C'est fait! Saint-Prex a assuré sa montée historique en Promotion League en ne faisant qu'une bouchée de Servette. Le bonheur est total pour le club du district, qui signe sa seconde promotion en une année!]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:46:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges Actualitiés] Résultats des votations du 14 juin 2026 à Morges</title>
+      <link>https://www.morges.ch/actualites/resultats-des-votations-du-14-juin-2026-a-morges-213180</link>
+      <guid isPermaLink="false">https://www.morges.ch/actualites/resultats-des-votations-du-14-juin-2026-a-morges-213180</guid>
+      <description />
+      <pubDate>Sun, 14 Jun 2026 11:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wahlen in Graubünden – SVP zieht nach 18 Jahren wieder in die Kantonsregierung ein</title>
+      <link>https://www.srf.ch/news/schweiz/wahlen-in-graubuenden-svp-zieht-nach-18-jahren-wieder-in-die-kantonsregierung-ein</link>
+      <guid isPermaLink="false">urn:srf:article:019e8ca2-0f77-bf95-ed2b-aab547118794</guid>
+      <description><![CDATA[Noch fehlen die Resultate aus drei Gemeinden. Die Davoserin Valérie Favre Accola ist aber nicht mehr einzuholen.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:32:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Kreuzlingen und Konstanz – Polizei Thurgau gibt Entwarnung nach Bombendrohung</title>
+      <link>https://www.srf.ch/news/schweiz/kreuzlingen-und-konstanz-polizei-thurgau-gibt-entwarnung-nach-bombendrohung</link>
+      <guid isPermaLink="false">urn:srf:article:019ec4b2-cf5b-c89c-170b-38ca8aff2c26</guid>
+      <description><![CDATA[Das Hafengelände, auf dem an diesem Wochenende ein grosser Flohmarkt stattfindet, ist wieder vollständig freigegeben.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:32:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen Stadt Luzern – Das Stimmvolk ebnet den Boden für mehr gemeinnützige Wohnungen</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-stadt-luzern-das-stimmvolk-ebnet-den-boden-fuer-mehr-gemeinnuetzige-wohnungen</link>
+      <guid isPermaLink="false">urn:srf:article:019e96fd-7910-237f-bc9c-f7e4d93cceaa</guid>
+      <description><![CDATA[Die Stadt erhält ein Vorkaufsrecht für grosse Immobilien. Auch Kredite für gemeinnützigen Wohnungsbau finden Zustimmung.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmung Kanton Solothurn – Mutterschaftsvertretung im Kantonsparlament wird angenommen</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-solothurn-mutterschaftsvertretung-im-kantonsparlament-wird-angenommen</link>
+      <guid isPermaLink="false">urn:srf:article:019e888a-4edf-1582-f32c-832465cf2425</guid>
+      <description><![CDATA[Stellvertretungen bei Mutterschaft? Das Stimmvolk entscheidet über die Vereinbarkeit von Politik und Familie.]]></description>
+      <pubDate>Sun, 14 Jun 2026 11:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Arbeitslose wegen KI? – Wenn KI Menschen ersetzt: SP fordert neue Steuer in Basel</title>
+      <link>https://www.srf.ch/news/schweiz/arbeitslose-wegen-ki-wenn-ki-menschen-ersetzt-sp-fordert-neue-steuer-in-basel</link>
+      <guid isPermaLink="false">urn:srf:article:019eb5e5-4576-330a-d81b-79bc8e5485c0</guid>
+      <description><![CDATA[Künstliche Intelligenz mache Menschen arbeitslos, dem Staat entgehe Geld. Deshalb brauche es eine neue Steuer.]]></description>
+      <pubDate>Sun, 14 Jun 2026 10:59:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen Kanton Zürich – Alle drei Wohninitiativen dürften scheitern</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-kanton-zuerich-alle-drei-wohninitiativen-duerften-scheitern</link>
+      <guid isPermaLink="false">urn:srf:article:019de361-9d61-dc8c-9307-a4c78884656f</guid>
+      <description><![CDATA[Die Bevölkerung im Kanton Zürich dürfte zu allen drei Initiativen gegen die Wohnungsnot Nein sagen.]]></description>
+      <pubDate>Sun, 14 Jun 2026 10:51:07 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Massnahmen gegen «No-Shows» – Alpen-Club führt Reservationssystem für SAC-Hütten ein</title>
@@ -83,20 +244,6 @@
       <guid isPermaLink="false">urn:srf:article:019ec581-2da2-e4ca-8dda-2c82218f9d89</guid>
       <description><![CDATA[Der Schweizer Alpen-Club SAC führt eine Reservationsgebühr pro Hütte und einen Solidaritätsbeitrag pro Übernachtung ein.]]></description>
       <pubDate>Sun, 14 Jun 2026 10:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Abstimmungen live – 55 Prozent: «Keine 10-Mio-Schweiz» gemäss Hochrechnung abgelehnt</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmungen-live-55-prozent-keine-10-mio-schweiz-gemaess-hochrechnung-abgelehnt</link>
-      <guid isPermaLink="false">urn:srf:article:019eba7b-d179-3296-7296-0617671cdcf7</guid>
-      <description><![CDATA[55 Prozent sagen gemäss erster SRG-Hochrechnung Nein zur SVP-Initiative, das Zivildienstgesetz dürfte angenommen werden.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Abstimmung Kanton Schwyz – Schwyzer Stimmvolk sieht höhere Prämienverbilligung kritisch</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-schwyz-schwyzer-stimmvolk-sieht-hoehere-praemienverbilligung-kritisch</link>
-      <guid isPermaLink="false">urn:srf:article:019ea65f-b50d-2802-6024-0ed296964601</guid>
-      <description><![CDATA[Eine Initiative der SP wollte mehr Mittel für die Prämienverbilligung. Sie hat einen schweren Stand.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:40:00 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Laïcité et magasins ouverts le dimanche: Genève dit deux fois oui</title>
@@ -134,13 +281,6 @@
       <pubDate>Sun, 14 Jun 2026 10:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmung Kanton Bern – Kunstmuseum Bern: Erneuerung ja oder nein?</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-bern-kunstmuseum-bern-erneuerung-ja-oder-nein</link>
-      <guid isPermaLink="false">urn:srf:article:019e9214-c561-68ca-23cd-89b460c0519c</guid>
-      <description><![CDATA[Das Berner Kunstmuseum ist marode. Nun stellen die Stimmberechtigten die Weichen für das 147-Millionen-Franken-Projekt.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:11:57 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Gesellschaft] Ausstellung «Labouring Bodies» – Der Körper der Frau: Pausenlos in Betrieb</title>
       <link>https://www.srf.ch/kultur/kunst/ausstellung-labouring-bodies-der-koerper-der-frau-pausenlos-in-betrieb</link>
       <guid isPermaLink="false">urn:srf:article:019ebb03-67ba-5e8a-9eb6-221a1067d08c</guid>
@@ -148,25 +288,11 @@
       <pubDate>Sun, 14 Jun 2026 10:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Wahlen Stadtpräsidium – Drei Frauen wollen Thuner Stadtpräsidentin werden</title>
-      <link>https://www.srf.ch/news/schweiz/wahlen-stadtpraesidium-drei-frauen-wollen-thuner-stadtpraesidentin-werden</link>
-      <guid isPermaLink="false">urn:srf:article:019ea6a9-961f-6406-d824-8923f9b14da7</guid>
-      <description><![CDATA[Schon vor den Wahlen ist klar: Die Stadt Thun erhält erstmals eine Stadtpräsidentin. Wer es wird, ist noch offen.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:05:32 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Ausland] Krieg in der Ukraine – Ein Fabrikant im Bombenhagel</title>
       <link>https://www.srf.ch/news/dialog/krieg-in-der-ukraine-ein-fabrikant-im-bombenhagel</link>
       <guid isPermaLink="false">urn:srf:article:019eac62-e518-317f-12a8-75b31189bbd3</guid>
       <description><![CDATA[Die Ukraine kämpft auch um ihre Unternehmen. Auf Betriebsbesuch in Charkiw.]]></description>
       <pubDate>Sun, 14 Jun 2026 09:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bombendrohung – Flohmarkt-Gelände in Kreuzlingen wegen Bedrohungslage evakuiert</title>
-      <link>https://www.srf.ch/news/schweiz/bombendrohung-flohmarkt-gelaende-in-kreuzlingen-wegen-bedrohungslage-evakuiert</link>
-      <guid isPermaLink="false">urn:srf:article:019ec4b2-cf5b-c89c-170b-38ca8aff2c26</guid>
-      <description><![CDATA[Gemäss der Kantonspolizei Thurgau ist das Gebiet derzeit abgesperrt.]]></description>
-      <pubDate>Sun, 14 Jun 2026 09:34:09 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Regeln für Frühfranzösisch – «Es spricht nichts gegen frühe Sprach-Lern-Aktivitäten»</title>
@@ -186,7 +312,7 @@
       <title>[20 Min Romandie] Ambiance nocturne «calme et festive» en prélude à la manif NoG7</title>
       <link>https://www.20min.ch/fr/story/geneve-ambiance-nocturne-calme-et-festive-en-prelude-a-la-manif-nog7-103582315</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-ambiance-nocturne-calme-et-festive-en-prelude-a-la-manif-nog7-103582315</guid>
-      <description><![CDATA[La police n'a signalé aucun incident lié à l'opposition au sommet d'Evian, durant la nuit de samedi à dimanche. La grande manifestation anti-G7 débutera à 15h15.]]></description>
+      <description><![CDATA[La police n'a signalé aucun incident lié à l'opposition au sommet d'Évian, durant la nuit de samedi à dimanche. La grande manifestation anti-G7 débutera à 15h15.]]></description>
       <pubDate>Sun, 14 Jun 2026 08:36:26 GMT</pubDate>
     </item>
     <item>
@@ -575,25 +701,11 @@
       <pubDate>Fri, 12 Jun 2026 15:51:55 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmung Stadt Zug – Geplanter Umbau der Metalli ist umstritten</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-stadt-zug-geplanter-umbau-der-metalli-ist-umstritten</link>
-      <guid isPermaLink="false">urn:srf:article:019e9858-ed21-843e-05a9-f0b83cba50dc</guid>
-      <description><![CDATA[Seit 1987 prägt die Metalli das Stadtbild. Nun soll das Areal umgestaltet werden – unter anderem mit einem Hochhaus.]]></description>
-      <pubDate>Fri, 12 Jun 2026 15:47:06 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Schweiz] Nach Attacke von Winterthur – Was tun mit potenziellen Gefährdern? – Besuch in einer Klinik</title>
       <link>https://www.srf.ch/news/schweiz/nach-attacke-von-winterthur-was-tun-mit-potenziellen-gefaehrdern-besuch-in-einer-klinik</link>
       <guid isPermaLink="false">urn:srf:article:019ebbad-b483-2c3c-b00b-a78829074435</guid>
       <description><![CDATA[Mit fürsorgerischen Unterbringungen soll das Risiko psychisch labiler Menschen gesenkt werden. Eine Reportage.]]></description>
       <pubDate>Fri, 12 Jun 2026 15:45:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Abstimmungen Stadt Luzern – Ebnet das Stimmvolk den Boden für mehr gemeinnützige Wohnungen?</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmungen-stadt-luzern-ebnet-das-stimmvolk-den-boden-fuer-mehr-gemeinnuetzige-wohnungen</link>
-      <guid isPermaLink="false">urn:srf:article:019e96fd-7910-237f-bc9c-f7e4d93cceaa</guid>
-      <description><![CDATA[Das Vorkaufsrecht und Kredite für gemeinnützigen Wohnungsbau kommen an die Urne. Was dafür und was dagegen spricht.]]></description>
-      <pubDate>Fri, 12 Jun 2026 15:41:08 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Villenstreit im Kanton Zug – Streit um Grundstücke am Ägerisee endet mit Schuldsprüchen</title>
@@ -617,13 +729,6 @@
       <pubDate>Fri, 12 Jun 2026 15:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Abstimmung Kanton St. Gallen – Kita-Vergünstigungen sollen einheitlich werden</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-st-gallen-kita-verguenstigungen-sollen-einheitlich-werden</link>
-      <guid isPermaLink="false">urn:srf:article:019e8383-e2ae-fa0d-c0c4-92d27f37e958</guid>
-      <description><![CDATA[Derzeit hängt die Höhe der Rabatte von der Wohngemeinde ab. Der Kanton möchte ein neues System einführen.]]></description>
-      <pubDate>Fri, 12 Jun 2026 15:21:30 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Schweiz] Abstimmung Kanton Nidwalden – Sollen Gutverdienende in Nidwalden steuerlich entlastet werden?</title>
       <link>https://www.srf.ch/news/schweiz/abstimmung-kanton-nidwalden-sollen-gutverdienende-in-nidwalden-steuerlich-entlastet-werden</link>
       <guid isPermaLink="false">urn:srf:article:019e9816-ae1f-336a-c472-b86d23fe3e52</guid>
@@ -636,13 +741,6 @@
       <guid isPermaLink="false">urn:srf:article:019e8c7b-b951-61ea-c184-8d3fb4b061d9</guid>
       <description><![CDATA[Zum zweiten Mal wird das Bündner Parlament im Proporz gewählt. Mehrere Parteien hoffen auf Verschiebungen.]]></description>
       <pubDate>Fri, 12 Jun 2026 15:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wahlen in Graubünden – Kehrt die SVP nach 18 Jahren in die Bündner Regierung zurück?</title>
-      <link>https://www.srf.ch/news/schweiz/wahlen-in-graubuenden-kehrt-die-svp-nach-18-jahren-in-die-buendner-regierung-zurueck</link>
-      <guid isPermaLink="false">urn:srf:article:019e8ca2-0f77-bf95-ed2b-aab547118794</guid>
-      <description><![CDATA[Fünf Kandidierende bewerben sich um den Sitz des abtretenden Mitte-Regierungsrats Jon Domenic Parolini.]]></description>
-      <pubDate>Fri, 12 Jun 2026 15:03:57 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Wahlen Kanton Glarus – Bleibt alles beim Alten im Glarner Parlament?</title>
@@ -694,13 +792,6 @@
       <pubDate>Fri, 12 Jun 2026 13:50:28 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Streit um Frühfranzösisch – Bundesrat will zweite Landessprache an Primarschulen durchsetzen</title>
-      <link>https://www.srf.ch/news/schweiz/streit-um-fruehfranzoesisch-bundesrat-will-zweite-landessprache-an-primarschulen-durchsetzen</link>
-      <guid isPermaLink="false">urn:srf:article:019ebb78-ddfe-8b23-e04f-b7d10be2fda1</guid>
-      <description><![CDATA[Die Landesregierung reagiert damit auf Bestrebungen verschiedener Kantone, Französisch aus dem Lehrplan zu streichen.]]></description>
-      <pubDate>Fri, 12 Jun 2026 13:43:56 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Wissen] Digitalisierung beim Auto – «Steer-by-Wire»: So fährt sich ein Auto ohne Lenksäule</title>
       <link>https://www.srf.ch/wissen/mobilitaet/digitalisierung-beim-auto-steer-by-wire-so-faehrt-sich-ein-auto-ohne-lenksaeule</link>
       <guid isPermaLink="false">urn:srf:article:019eb123-2223-8329-c07a-b9e659cecf45</guid>
@@ -708,60 +799,11 @@
       <pubDate>Fri, 12 Jun 2026 13:15:57 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Lehren aus der Pandemie – Bund ruft eine digitale Meldeplattform für Krankheiten ins Leben</title>
-      <link>https://www.srf.ch/news/schweiz/lehren-aus-der-pandemie-bund-ruft-eine-digitale-meldeplattform-fuer-krankheiten-ins-leben</link>
-      <guid isPermaLink="false">urn:srf:article:019ebb91-73c5-1f80-291d-e9d51fd8ddc7</guid>
-      <description><![CDATA[Epidemiologische Informationen werden künftig zentral digital gesammelt. Das geht schneller und gibt mehr Übersicht.]]></description>
-      <pubDate>Fri, 12 Jun 2026 13:08:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Demonstrationen in der Schweiz – Proteste trotz direkter Demokratie – aber weniger heftig</title>
-      <link>https://www.srf.ch/news/dialog/demonstrationen-in-der-schweiz-proteste-trotz-direkter-demokratie-aber-weniger-heftig</link>
-      <guid isPermaLink="false">urn:srf:article:019ebb5a-0c93-f615-f28d-916d08765077</guid>
-      <description><![CDATA[Immer häufiger kommt es zu Protesten. Wie demonstrieren die Menschen in einem Land, das als Hort der Stabilität gilt?]]></description>
-      <pubDate>Fri, 12 Jun 2026 13:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Landsgemeinde mit Fest – Politik als Volksfest: Neuenkirch testet die Landsgemeinde</title>
-      <link>https://www.srf.ch/news/schweiz/landsgemeinde-mit-fest-politik-als-volksfest-neuenkirch-testet-die-landsgemeinde</link>
-      <guid isPermaLink="false">urn:srf:article:019ebb67-c86e-7abd-3271-912e9efb0cc0</guid>
-      <description><![CDATA[Das luzernische Neuenkirch will seine Gemeindeversammlung stärken. Die Gemeinde lud zum gemeinsamen Landsgemeinde-Fest.]]></description>
-      <pubDate>Fri, 12 Jun 2026 12:52:08 GMT</pubDate>
-    </item>
-    <item>
       <title>[20 Min Romandie] Un ado de 17 ans a été tabassé en bande à Yverdon-les-Bains</title>
       <link>https://www.20min.ch/fr/story/canton-de-vaud-un-ado-de-17-ans-a-ete-tabasse-en-bande-a-yverdon-les-bains-103581200</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-un-ado-de-17-ans-a-ete-tabasse-en-bande-a-yverdon-les-bains-103581200</guid>
       <description><![CDATA[Blessé à un rein, le jeune homme a porté plainte avec ses parents, après avoir été pris pour cible par plusieurs mineurs, jeudi soir, près d'Y-Parc.]]></description>
       <pubDate>Fri, 12 Jun 2026 12:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Le vol à la Caisse de prêts sur gages atteint 750'000 francs</title>
-      <link>https://www.20min.ch/fr/story/geneve-le-vol-a-la-caisse-de-prets-sur-gages-atteint-750-000-francs-103581256</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-le-vol-a-la-caisse-de-prets-sur-gages-atteint-750-000-francs-103581256</guid>
-      <description><![CDATA[L'institution a communiqué le montant total du larcin perpétré en avril. Il porte sur 24 objets. L'auteur présumé est un employé embauché sous une fausse identité.]]></description>
-      <pubDate>Fri, 12 Jun 2026 12:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Crans-Montana – Morettis wollen wieder wirten – Wut in Italien</title>
-      <link>https://www.srf.ch/news/dialog/crans-montana-morettis-wollen-wieder-wirten-wut-in-italien</link>
-      <guid isPermaLink="false">urn:srf:article:019ebaf9-330d-68f6-31d7-cfac7ec28688</guid>
-      <description><![CDATA[Das Ehepaar möchte zwei seiner Betriebe wiedereröffnen. Italiens Botschafter will das mit einer Petition verhindern.]]></description>
-      <pubDate>Fri, 12 Jun 2026 11:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Tod von Thailands Prinzessin – «Bha galt als volksnah und war sehr beliebt»</title>
-      <link>https://www.srf.ch/news/international/tod-von-thailands-prinzessin-bha-galt-als-volksnah-und-war-sehr-beliebt</link>
-      <guid isPermaLink="false">urn:srf:article:019ebb10-e380-1e7d-ebf8-5b83e789c260</guid>
-      <description><![CDATA[Mit dem Tod von Thailands ältester Prinzessin verliert die Königsfamilie ihr erfolgreichstes Mitglied.]]></description>
-      <pubDate>Fri, 12 Jun 2026 11:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] La répartition des dicastères morgiens est connue</title>
-      <link>https://journaldemorges.ch/actualite/politique/la-repartition-des-dicasteres-morgiens-est-connue-2/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/politique/la-repartition-des-dicasteres-morgiens-est-connue-2/</guid>
-      <description><![CDATA[La répartition des dicastères de la Commune de Morges a été annoncée ce vendredi.]]></description>
-      <pubDate>Fri, 12 Jun 2026 10:58:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
