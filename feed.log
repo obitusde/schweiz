@@ -1,5 +1,5 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 14.6.2026, 09:07:59
+Start: 14.6.2026, 12:58:40
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -20,15 +20,42 @@ KI-Filter (Gemini):
 - Keine Artikel durch KI gefiltert.
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Abstimmungen Baselland – Bei der Energiepolitik-Initiative zeichnet sich ein Nein ab
+- [SRF Schweiz] Abstimmung Kanton Solothurn – Mutterschaftsvertretung im Kantonsparlament wird angenommen
+- [SRF Schweiz] Abstimmung vom 14. Juni 2026 – Wie hat Ihre Gemeinde an der Urne entschieden?
+- [SRF Schweiz] Abstimmungen Kanton Zürich – Alle drei Wohninitiativen dürften scheitern
+- [SRF Schweiz] Wahlen Baselland – Baselland vor Richtungswahl: Matthias Liechti liegt vorne
+- [SRF Schweiz] Abstimmungen vom 14. Juni – Hochrechnung zeigt: 53 Prozent stimmen für Zivildienstgesetz
+- [SRF Schweiz] Abstimmung Kanton Aargau – Aargau vor einem Ja zum Millionen-Strassenprojekt
+- [SRF Schweiz] Abstimmung vom 14. Juni – Hochrechnung: 55 Prozent gegen Initiative «Keine 10-Mio-Schweiz»
+- [SRF Schweiz] Abstimmungen im Sensebezirk FR – Tendenz Schwimmbad Plaffeien: Unterland sagt nein, Oberland Ja
+- [SRF Schweiz] Abstimmungen Basel-Stadt – Schweizer Premiere: Basel-Stadt führt direkten Steuerabzug ein
+- [SRF Schweiz] Massnahmen gegen «No-Shows» – Alpen-Club führt Reservationssystem für SAC-Hütten ein
+- [SRF Schweiz] Abstimmungen live – 55 Prozent: «Keine 10-Mio-Schweiz» gemäss Hochrechnung abgelehnt
+- [SRF Schweiz] Abstimmung Kanton Schwyz – Schwyzer Stimmvolk sieht höhere Prämienverbilligung kritisch
+- [20 Min Romandie] Laïcité et magasins ouverts le dimanche: Genève dit deux fois oui
+- [SRF Schweiz] Abstimmung Stadt Bern – Tierpark Bern: Grünes Licht für Neubaupläne?
+- [SRF Schweiz] Abstimmung Gemeinde Sevelen – Sevelen lehnt Mindestabstand zu Windrädern ab
+- [Journal de Morges] Victoire et match catastrophe arrêté à Veyron-Venoge!
+- [SRF Schweiz] Abstimmungen Stadt Zürich – Zürich könnte die Spur legen für den Tramausbau in Affoltern
+- [SRF Schweiz] Abstimmung Kanton Bern – Kunstmuseum Bern: Erneuerung ja oder nein?
+- [SRF Gesellschaft] Ausstellung «Labouring Bodies» – Der Körper der Frau: Pausenlos in Betrieb
+- [SRF Schweiz] Wahlen Stadtpräsidium – Drei Frauen wollen Thuner Stadtpräsidentin werden
+- [SRF Ausland] Krieg in der Ukraine – Ein Fabrikant im Bombenhagel
+- [SRF Schweiz] Bombendrohung – Flohmarkt-Gelände in Kreuzlingen wegen Bedrohungslage evakuiert
+- [SRF Schweiz] Regeln für Frühfranzösisch – «Es spricht nichts gegen frühe Sprach-Lern-Aktivitäten»
+- [SRF Wissen] Hormone in den Wechseljahren – Mehr Lust und Energie: Hilft Testosteron wirklich?
+- [20 Min Romandie] Ambiance nocturne «calme et festive» en prélude à la manif NoG7
+- [20 Min Romandie] Deux cyclistes percutés par des voitures à Farvagny et Vaulruz
+- [SRF Gesellschaft] Radikale Vordenkerinnen – Saint-Simonistinnen: Die Urururur-Grossmütter des Feminismus
+- [20 Min Romandie] Black Blocs: qui sont ces militants masqués et habillés en noir?
 - [SRF Schweiz] Abstimmungsflut? – «Dieses Mal ist für jeden etwas dabei – das mobilisiert»
 - [SRF Gesellschaft] Gründungsboom in der Schweiz – Mit 23 eigene Chefin? Warum junge Leute Firmen gründen
 - [20 Min Romandie] Un problème de langue a failli causer une catastrophe ferroviaire
 - [SRF Schweiz] Mobilfunkantenne in Freiburg – Swisscom «vergisst», Bewilligung für 5G-Antenne zu beantragen
-- [SRF Schweiz] Bombendrohung – Flohmarkt-Gelände in Kreuzlingen wegen Bedrohungslage evakuiert
 - [SRF Wirtschaft] Blockierte Strasse von Hormus – Der Austausch von Schiffscrews wird immer schwieriger
 - [20 Min Romandie] Un homme disparaît après une visite dans la région de Chillon
 - [SRF Schweiz] Suva-Finanzchef im Interview – «Würden gerne mehr in günstigen Wohnraum investieren»
-- [Journal de Morges] Promotion et exploit dans la poche pour Saint-Prex!
 - [SRF Ausland] Tren de Aragua in Venezuela – Tötung des Bandenchefs durch USA dürfte eine Warnung sein
 - [20 Min Romandie] La grève féministe sous le signe du No-G7 et d'un soleil de plomb
 - [20 Min Romandie] «À 8h15, c'est plein»: les places sont chères à la bibliothèque
@@ -74,30 +101,17 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Des F/A-18 aperçus en train de rôder sur l'arc lémanique
 - [SRF Schweiz] Kampfjet-Lärm – Schallschutz absurd – wie der Fluglärm des F-35 ein Dorf teilt
 - [SRF Schweiz] Abstimmungen Stadt Winterthur – Winterthur stimmt über neuen Campingplatz ab
-- [SRF Schweiz] Abstimmungen Stadt Zürich – Zürich könnte die Spur legen für den Tramausbau in Affoltern
 - [SRF Schweiz] Abstimmung Stadt Zug – Geplanter Umbau der Metalli ist umstritten
 - [SRF Schweiz] Nach Attacke von Winterthur – Was tun mit potenziellen Gefährdern? – Besuch in einer Klinik
-- [SRF Schweiz] Abstimmung Sevelen – Soll in Sevelen ein Mindestabstand für Windräder ins Reglement?
 - [SRF Schweiz] Abstimmungen Stadt Luzern – Ebnet das Stimmvolk den Boden für mehr gemeinnützige Wohnungen?
-- [SRF Schweiz] Abstimmungen im Sensebezirk FR – Soll ein ganzer Bezirk ein neues Schwimmbad finanzieren?
-- [SRF Schweiz] Wahlen Stadtpräsidium – Drei Frauen wollen Thuner Stadtpräsidentin werden
-- [SRF Schweiz] Abstimmung Stadt Bern – Tierpark Bern: Grünes Licht für Neubaupläne?
 - [SRF Schweiz] Villenstreit im Kanton Zug – Streit um Grundstücke am Ägerisee endet mit Schuldsprüchen
-- [SRF Schweiz] Abstimmungen Kanton Zürich – Der Kanton Zürich weist sich den Weg in der Wohnraumkrise
 - [SRF Schweiz] Dicke Post in der Stadt Zürich – 20 Vorlagen: Eine Abstimmungsflut, die überfordert
 - [SRF Schweiz] Abstimmung Kanton Thurgau – Der Kanton will mehr ausgeben können
-- [SRF Schweiz] Abstimmung Kanton Schwyz – Gönnen sich die Schwyzer eine höhere Prämienverbilligung?
 - [SRF Schweiz] Abstimmung Kanton St. Gallen – Kita-Vergünstigungen sollen einheitlich werden
-- [SRF Schweiz] Abstimmung Kanton Solothurn – Sollen sich Mütter im Kantonsparlament vertreten lassen dürfen?
 - [SRF Schweiz] Abstimmung Kanton Nidwalden – Sollen Gutverdienende in Nidwalden steuerlich entlastet werden?
 - [SRF Schweiz] Wahlen Kanton Graubünden – Parlamentswahlen in Graubünden: Kann die SVP weiter zulegen?
 - [SRF Schweiz] Wahlen in Graubünden – Kehrt die SVP nach 18 Jahren in die Bündner Regierung zurück?
 - [SRF Schweiz] Wahlen Kanton Glarus – Bleibt alles beim Alten im Glarner Parlament?
-- [SRF Schweiz] Abstimmungen Basel-Stadt – Hilfe oder Eingriff? Basel stimmt über direkten Steuerabzug ab
-- [SRF Schweiz] Wahlen Baselland – Schoch oder Liechti – Grüne oder SVP? Baselland vor Richtungswahl
-- [SRF Schweiz] Abstimmungen Baselland – Zukunft der Energiepolitik: Baselland stimmt über Mitsprache ab
-- [SRF Schweiz] Abstimmung Kanton Bern – Kunstmuseum Bern: Erneuerung ja oder nein?
-- [SRF Schweiz] Abstimmung Kanton Aargau – Rettet Aargauer Stimmvolk Gemeinde vor dem Verkehrskollaps?
 - [Journal de Morges] La Raiffeisen Morges-Venoge a le sens de l’humour
 - [SRF Wissen] Cheops-Mission verlängert – Schweizer Teleskop erforscht weiterhin ferne Planeten
 - [SRF Ausland] Ukrainischer Ex-Aussenminister – Dmytro Kuleba: «Die EU braucht die Ukraine»
@@ -111,19 +125,6 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Landsgemeinde mit Fest – Politik als Volksfest: Neuenkirch testet die Landsgemeinde
 - [20 Min Romandie] Un ado de 17 ans a été tabassé en bande à Yverdon-les-Bains
 - [20 Min Romandie] Le vol à la Caisse de prêts sur gages atteint 750'000 francs
-- [SRF Schweiz] Defekt im Unterwerk Mett – Stundenlanger Stromausfall in der Stadt Biel
 - [SRF Schweiz] Crans-Montana – Morettis wollen wieder wirten – Wut in Italien
 - [SRF Ausland] Tod von Thailands Prinzessin – «Bha galt als volksnah und war sehr beliebt»
-- [Morges Presse] Répartition des directions pour la prochaine législature
-- [Morges Actualitiés] Répartition des directions pour la prochaine législature
-- [SRF Schweiz] Rückblick Fussball-WM – Wie die WM 1994 den Schweizer Fussball veränderte
-- [20 Min Romandie] Un piéton de 26 ans tué par un automobiliste de 18 ans
-- [20 Min Romandie] Trois cambrioleurs arrêtés par la police à Chiètres
-- [20 Min Romandie] La part de la population active a reculé en dix ans à Genève
-- [Journal de Morges] L’avenir de la piscine d’Etoy cristallise les tensions
-- [SRF Ausland] Iran-Krieg – «Die USA hätten nicht nur einen Krieg verloren»
-- [20 Min Romandie] Dans l'affaire du keffieh, l'OSR refuse de lever le voile
-- [SRF Schweiz] Bauern versus Umweltschützer – Streit um Ackerland
-- [SRF Schweiz] Lage dürfte sich verschärfen – Pegelstände von Flüssen und Seen auf einem rekordtiefen Niveau
-- [SRF Ausland] Während WM-Eröffnungsspiel – Ausschreitungen vor Tor 8 des Aztekenstadions
-- [20 Min Romandie] Les Moretti veulent rouvrir leurs restos, l'Italie s'indigne
+- [Journal de Morges] La répartition des dicastères morgiens est connue
