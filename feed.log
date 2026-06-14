@@ -1,5 +1,5 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 14.6.2026, 08:41:01
+Start: 14.6.2026, 08:58:28
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,56 +17,25 @@ Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: Beinaheunfall (Unfallmeldung) ausserhalb von Vaud (Neuchâtel)): 'Un problème de langue a failli causer une catastrophe ferroviaire'
-- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung ausserhalb von Vaud (Kreuzlingen)): 'Bombendrohung – Flohmarkt-Gelände in Kreuzlingen wegen Bedrohungslage evakuiert'
-- Gelöscht (Grund: Brandmeldung ausserhalb von Vaud (Genf)): 'Grosse opération pour un feu de panneaux solaires à Meinier'
-- Gelöscht (Grund: Duplikat von ID 6): '«Tren de Aragua» in Venezuela – Trump: US-Militärschlag tötet berüchtigten Bandenanführer'
-- Gelöscht (Grund: Brand/Unfall ausserhalb von Vaud (Le Bouveret/Wallis)): 'Un bateau en feu sur le Léman: trois personnes secourues'
-- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb von Vaud (Zusammenhang mit allgemeiner Amateursport-Kriminalität)): 'Le football amateur est infesté par les magouilles'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Winterthur)): 'Abstimmungen Stadt Winterthur – Winterthur stimmt über neuen Campingplatz ab'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Zürich)): 'Abstimmungen Stadt Zürich – Zürich könnte die Spur legen für den Tramausbau in Affoltern'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Zug)): 'Abstimmung Stadt Zug – Geplanter Umbau der Metalli ist umstritten'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Sevelen)): 'Abstimmung Sevelen – Soll in Sevelen ein Mindestabstand für Windräder ins Reglement?'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Luzern)): 'Abstimmungen Stadt Luzern – Ebnet das Stimmvolk den Boden für mehr gemeinnützige Wohnungen?'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Freiburg)): 'Abstimmungen im Sensebezirk FR – Soll ein ganzer Bezirk ein neues Schwimmbad finanzieren?'
-- Gelöscht (Grund: Wahl ausserhalb von Waadt und Genf (Thun)): 'Wahlen Stadtpräsidium – Drei Frauen wollen Thuner Stadtpräsidentin werden'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Bern)): 'Abstimmung Stadt Bern – Tierpark Bern: Grünes Licht für Neubaupläne?'
-- Gelöscht (Grund: Gerichtsverfahren/Kriminalität ausserhalb von Vaud (Zug)): 'Villenstreit im Kanton Zug – Streit um Grundstücke am Ägerisee endet mit Schuldsprüchen'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Kanton Zürich)): 'Abstimmungen Kanton Zürich – Der Kanton Zürich weist sich den Weg in der Wohnraumkrise'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Stadt Zürich)): 'Dicke Post in der Stadt Zürich – 20 Vorlagen: Eine Abstimmungsflut, die überfordert'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Kanton Thurgau)): 'Abstimmung Kanton Thurgau – Der Kanton will mehr ausgeben können'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Kanton Schwyz)): 'Abstimmung Kanton Schwyz – Gönnen sich die Schwyzer eine höhere Prämienverbilligung?'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Kanton St. Gallen)): 'Abstimmung Kanton St. Gallen – Kita-Vergünstigungen sollen einheitlich werden'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Kanton Solothurn)): 'Abstimmung Kanton Solothurn – Sollen sich Mütter im Kantonsparlament vertreten lassen dürfen?'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Kanton Nidwalden)): 'Abstimmung Kanton Nidwalden – Sollen Gutverdienende in Nidwalden steuerlich entlastet werden?'
-- Gelöscht (Grund: Wahl ausserhalb von Waadt und Genf (Kanton Graubünden)): 'Wahlen Kanton Graubünden – Parlamentswahlen in Graubünden: Kann die SVP weiter zulegen?'
-- Gelöscht (Grund: Wahl ausserhalb von Waadt und Genf (Kanton Graubünden)): 'Wahlen in Graubünden – Kehrt die SVP nach 18 Jahren in die Bündner Regierung zurück?'
-- Gelöscht (Grund: Wahl ausserhalb von Waadt und Genf (Kanton Glarus)): 'Wahlen Kanton Glarus – Bleibt alles beim Alten im Glarner Parlament?'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Basel-Stadt)): 'Abstimmungen Basel-Stadt – Hilfe oder Eingriff? Basel stimmt über direkten Steuerabzug ab'
-- Gelöscht (Grund: Wahl ausserhalb von Waadt und Genf (Baselland)): 'Wahlen Baselland – Schoch oder Liechti – Grüne oder SVP? Baselland vor Richtungswahl'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Baselland)): 'Abstimmungen Baselland – Zukunft der Energiepolitik: Baselland stimmt über Mitsprache ab'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Kanton Bern)): 'Abstimmung Kanton Bern – Kunstmuseum Bern: Erneuerung ja oder nein?'
-- Gelöscht (Grund: Abstimmung ausserhalb von Waadt und Genf (Kanton Aargau)): 'Abstimmung Kanton Aargau – Rettet Aargauer Stimmvolk Gemeinde vor dem Verkehrskollaps?'
-- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb von Vaud (Genf)): 'Le vol à la Caisse de prêts sur gages atteint 750'000 francs'
-- Gelöscht (Grund: Duplikat von ID 91): 'Répartition des directions pour la prochaine législature'
-- Gelöscht (Grund: Duplikat von ID 91): 'Répartition des directions pour la prochaine législature'
-- Gelöscht (Grund: Tödlicher Verkehrsunfall ausserhalb von Vaud (Genf)): 'Un piéton de 26 ans tué par un automobiliste de 18 ans'
-- Gelöscht (Grund: Einbruch/Kriminalität ausserhalb von Vaud (Freiburg)): 'Trois cambrioleurs arrêtés par la police à Chiètres'
-- Gelöscht (Grund: Duplikat von ID 89): 'Les Moretti veulent rouvrir leurs restos, l'Italie s'indigne'
+- Keine Artikel durch KI gefiltert.
 
 Finale Liste (live im XML-Feed):
+- [SRF Gesellschaft] Gründungsboom in der Schweiz – Mit 23 eigene Chefin? Warum junge Leute Firmen gründen
+- [20 Min Romandie] Un problème de langue a failli causer une catastrophe ferroviaire
 - [SRF Schweiz] Mobilfunkantenne in Freiburg – Swisscom «vergisst», Bewilligung für 5G-Antenne zu beantragen
+- [SRF Schweiz] Bombendrohung – Flohmarkt-Gelände in Kreuzlingen wegen Bedrohungslage evakuiert
 - [SRF Wirtschaft] Blockierte Strasse von Hormus – Der Austausch von Schiffscrews wird immer schwieriger
-- [20 Min Romandie] Ein Mann verschwindet nach einem Besuch in der Region Chillon
+- [20 Min Romandie] Un homme disparaît après une visite dans la région de Chillon
 - [SRF Schweiz] Suva-Finanzchef im Interview – «Würden gerne mehr in günstigen Wohnraum investieren»
 - [SRF Ausland] Tren de Aragua in Venezuela – Tötung des Bandenchefs durch USA dürfte eine Warnung sein
-- [20 Min Romandie] Der feministische Streik im Zeichen von No-G7 und praller Sonne
-- [20 Min Romandie] «Um 8:15 Uhr ist es voll»: Plätze in der Bibliothek sind rar
+- [20 Min Romandie] La grève féministe sous le signe du No-G7 et d'un soleil de plomb
+- [20 Min Romandie] «À 8h15, c'est plein»: les places sont chères à la bibliothèque
 - [SRF Schweiz] Heimische Proteinquelle – Die Lupine hat Zukunft – aber ist noch nicht marktreif
-- [20 Min Romandie] Kann man ein Gemälde schmecken? Ein Sternekoch hat das Experiment gewagt
-- [20 Min Romandie] Protestflottille von Lausanne aus gefilmt
+- [20 Min Romandie] Peut-on goûter un tableau? Un chef étoilé a tenté l'expérience
+- [20 Min Romandie] Grosse opération pour un feu de panneaux solaires à Meinier
+- [20 Min Romandie] La flottille de protestation filmée depuis Lausanne
 - [SRF Ausland] Rahmen für Friedenserklärung – Wie realistisch ist ein baldiges Iran-USA-Abkommen?
-- [20 Min Romandie] Genf verbarrikadiert sich, die Kunst erobert die Bauzäune
+- [20 Min Romandie] Genève se barricade, l'art s'invite sur les palissades
 - [SRF Ausland] Tierische Spionage – China warnt vor spionierenden Schildkröten und Fischen
 - [SRF Schweiz] Schweiz – Katar – Schweizer Fans vor WM-Start: «Fühlt sich an wie ein Stück Heimat»
 - [SRF Wirtschaft] Der Weltraum als Geschäftsfeld – Schweizer Tech-Firmen profitieren vom Rummel um SpaceX
@@ -76,52 +45,84 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Streit nach Artikel – «Republik» siegt vor Gericht gegen Tech-Konzern Palantir
 - [SRF Ausland] 250-jähriges Jubiläum der USA – Das historische Haus, dem die Trump-Regierung das Geld wegnahm
 - [SRF Schweiz] Finanzierung der 13. AHV-Rente – Nehmen Sie einen Scherbenhaufen in Kauf, Frau Gredig?
-- [20 Min Romandie] Erste «ruhige» Nacht am Anti-G7-Wochenende
+- [20 Min Romandie] Première nuit «calme» pour le week-end anti-G7
 - [SRF Ausland] G7-Gipfel in Evian – Kann Macron den Eklat vermeiden?
-- [20 Min Romandie] Pétanque-Kugeln vor G7 unter strenger Beobachtung
+- [20 Min Romandie] Des boules de pétanque sous haute surveillance avant le G7
 - [SRF Wissen] Rekordbefall – Giftige Raupen dieses Jahr so häufig wie noch nie
 - [SRF Schweiz] «Insta» statt Rednerpult – Die Politinfluencer im Bundeshaus
-- [20 Min Romandie] Homeoffice: Sind Waadtländer Arbeitgeber zu starr?
+- [20 Min Romandie] Télétravail: les patrons vaudois sont-ils trop rigides?
 - [SRF Schweiz] IV-Urteil sorgt für Kritik – Gemeindepräsident mit Behinderung verliert Anspruch auf IV-Rente
 - [SRF Ausland] Stimmen aus dem Iran – Irans «Filternet»: Misstrauen nach Ende der Internetsperre
 - [SRF Schweiz] Diskussion ums Frühfranzösisch – Französisch für die Nation: eine Schweizer Geschichte
+- [SRF Ausland] «Tren de Aragua» in Venezuela – Trump: US-Militärschlag tötet berüchtigten Bandenanführer
 - [SRF Ausland] Fusion der Hollywood-Giganten – US-Justizministerium: Paramount darf Warner Bros. übernehmen
 - [SRF Schweiz] «Arena» zu Mercosur – «Das ist Erpressung, Herr Ritter» – «Nein, das ist ausgewogen»
+- [20 Min Romandie] Un bateau en feu sur le Léman: trois personnes secourues
 - [SRF Wirtschaft] Umgang mit KI – Liest eine KI tatsächlich bald unsere Whatsapp-Chats?
+- [20 Min Romandie] Le football amateur est infesté par les magouilles
 - [SRF Schweiz] Kiloweise Material – Mit dem Bagger gegen tote Quaggamuscheln – Fischer sind verärgert
 - [SRF Wirtschaft] Grösster Börsengang der Welt – SpaceX startet mit einem Plus von 11 Prozent
 - [SRF Wirtschaft] Stromfressende Rechenzentren – Um Energie zu sparen: China versenkt Datenzentrum im Meer
 - [SRF Schweiz] Bleiben Sie auf dem Laufenden – So werden Sie am Abstimmungssonntag bei SRF informiert
 - [SRF Wirtschaft] Zentrale Betreibungsauskunft – Schummeln mit Schulden wird schwieriger
 - [SRF Schweiz] Jahrelange Blockade – Italien will wieder Dublin-Flüchtlinge von der Schweiz aufnehmen
-- [20 Min Romandie] Enttäuscht von der RTS wegen teilweiser Übertragung der Fussball-WM
+- [20 Min Romandie] Déçu par la RTS pour sa diffusion partielle du Mondial de foot
 - [SRF Schweiz] Kein freies Geleit – Den Haag lässt Schweiz kaum Spielraum bei Haftbefehl für Putin
 - [SRF Wissen] Forschung in Zollikofen – Was stresst Legehennen? Eine Studie soll ihr Leben verbessern
-- [20 Min Romandie] F/A-18-Kampfjets über dem Genferseebecken gesichtet
+- [20 Min Romandie] Des F/A-18 aperçus en train de rôder sur l'arc lémanique
 - [SRF Schweiz] Kampfjet-Lärm – Schallschutz absurd – wie der Fluglärm des F-35 ein Dorf teilt
+- [SRF Schweiz] Abstimmungen Stadt Winterthur – Winterthur stimmt über neuen Campingplatz ab
+- [SRF Schweiz] Abstimmungen Stadt Zürich – Zürich könnte die Spur legen für den Tramausbau in Affoltern
+- [SRF Schweiz] Abstimmung Stadt Zug – Geplanter Umbau der Metalli ist umstritten
 - [SRF Schweiz] Nach Attacke von Winterthur – Was tun mit potenziellen Gefährdern? – Besuch in einer Klinik
-- [Journal de Morges] Die Raiffeisen Morges-Venoge hat Sinn für Humor
+- [SRF Schweiz] Abstimmung Sevelen – Soll in Sevelen ein Mindestabstand für Windräder ins Reglement?
+- [SRF Schweiz] Abstimmungen Stadt Luzern – Ebnet das Stimmvolk den Boden für mehr gemeinnützige Wohnungen?
+- [SRF Schweiz] Abstimmungen im Sensebezirk FR – Soll ein ganzer Bezirk ein neues Schwimmbad finanzieren?
+- [SRF Schweiz] Wahlen Stadtpräsidium – Drei Frauen wollen Thuner Stadtpräsidentin werden
+- [SRF Schweiz] Abstimmung Stadt Bern – Tierpark Bern: Grünes Licht für Neubaupläne?
+- [SRF Schweiz] Villenstreit im Kanton Zug – Streit um Grundstücke am Ägerisee endet mit Schuldsprüchen
+- [SRF Schweiz] Abstimmungen Kanton Zürich – Der Kanton Zürich weist sich den Weg in der Wohnraumkrise
+- [SRF Schweiz] Dicke Post in der Stadt Zürich – 20 Vorlagen: Eine Abstimmungsflut, die überfordert
+- [SRF Schweiz] Abstimmung Kanton Thurgau – Der Kanton will mehr ausgeben können
+- [SRF Schweiz] Abstimmung Kanton Schwyz – Gönnen sich die Schwyzer eine höhere Prämienverbilligung?
+- [SRF Schweiz] Abstimmung Kanton St. Gallen – Kita-Vergünstigungen sollen einheitlich werden
+- [SRF Schweiz] Abstimmung Kanton Solothurn – Sollen sich Mütter im Kantonsparlament vertreten lassen dürfen?
+- [SRF Schweiz] Abstimmung Kanton Nidwalden – Sollen Gutverdienende in Nidwalden steuerlich entlastet werden?
+- [SRF Schweiz] Wahlen Kanton Graubünden – Parlamentswahlen in Graubünden: Kann die SVP weiter zulegen?
+- [SRF Schweiz] Wahlen in Graubünden – Kehrt die SVP nach 18 Jahren in die Bündner Regierung zurück?
+- [SRF Schweiz] Wahlen Kanton Glarus – Bleibt alles beim Alten im Glarner Parlament?
+- [SRF Schweiz] Abstimmungen Basel-Stadt – Hilfe oder Eingriff? Basel stimmt über direkten Steuerabzug ab
+- [SRF Schweiz] Wahlen Baselland – Schoch oder Liechti – Grüne oder SVP? Baselland vor Richtungswahl
+- [SRF Schweiz] Abstimmungen Baselland – Zukunft der Energiepolitik: Baselland stimmt über Mitsprache ab
+- [SRF Schweiz] Abstimmung Kanton Bern – Kunstmuseum Bern: Erneuerung ja oder nein?
+- [SRF Schweiz] Abstimmung Kanton Aargau – Rettet Aargauer Stimmvolk Gemeinde vor dem Verkehrskollaps?
+- [Journal de Morges] La Raiffeisen Morges-Venoge a le sens de l’humour
 - [SRF Wissen] Cheops-Mission verlängert – Schweizer Teleskop erforscht weiterhin ferne Planeten
 - [SRF Ausland] Ukrainischer Ex-Aussenminister – Dmytro Kuleba: «Die EU braucht die Ukraine»
 - [SRF Ausland] Toter Wal – Das war Timmys Todesreise
-- [RTS Vaud] Kommission im Zentrum der jüngsten Dittli-Affäre stark kritisiert
-- [20 Min Romandie] Genf verbarrikadiert sich, die Netzgemeinde amüsiert sich prächtig
+- [RTS Vaud] La commission au cœur de la dernière affaire Dittli subit de nombreuses critiques
+- [20 Min Romandie] Genève se barricade, les internautes s'en donnent à cœur joie
 - [SRF Schweiz] Streit um Frühfranzösisch – Bundesrat will zweite Landessprache an Primarschulen durchsetzen
 - [SRF Wissen] Digitalisierung beim Auto – «Steer-by-Wire»: So fährt sich ein Auto ohne Lenksäule
 - [SRF Schweiz] Lehren aus der Pandemie – Bund ruft eine digitale Meldeplattform für Krankheiten ins Leben
 - [SRF Schweiz] Demonstrationen in der Schweiz – Proteste trotz direkter Demokratie – aber weniger heftig
 - [SRF Schweiz] Landsgemeinde mit Fest – Politik als Volksfest: Neuenkirch testet die Landsgemeinde
-- [20 Min Romandie] 17-jähriger Teenager von einer Bande in Yverdon-les-Bains zusammengeschlagen
+- [20 Min Romandie] Un ado de 17 ans a été tabassé en bande à Yverdon-les-Bains
+- [20 Min Romandie] Le vol à la Caisse de prêts sur gages atteint 750'000 francs
 - [SRF Schweiz] Defekt im Unterwerk Mett – Stundenlanger Stromausfall in der Stadt Biel
 - [SRF Schweiz] Crans-Montana – Morettis wollen wieder wirten – Wut in Italien
 - [SRF Ausland] Tod von Thailands Prinzessin – «Bha galt als volksnah und war sehr beliebt»
-- [Journal de Morges] Die Verteilung der Ressorts in Morges ist bekannt
+- [Journal de Morges] La répartition des dicastères morgiens est connue
+- [Morges Presse] Répartition des directions pour la prochaine législature
+- [Morges Actualitiés] Répartition des directions pour la prochaine législature
 - [SRF Schweiz] Rückblick Fussball-WM – Wie die WM 1994 den Schweizer Fussball veränderte
-- [20 Min Romandie] Anteil der Erwerbsbevölkerung in Genf innerhalb von zehn Jahren zurückgegangen
-- [Journal de Morges] Die Zukunft des Schwimmbads von Etoy sorgt für Spannungen
+- [20 Min Romandie] Un piéton de 26 ans tué par un automobiliste de 18 ans
+- [20 Min Romandie] Trois cambrioleurs arrêtés par la police à Chiètres
+- [20 Min Romandie] La part de la population active a reculé en dix ans à Genève
+- [Journal de Morges] L’avenir de la piscine d’Etoy cristallise les tensions
 - [SRF Ausland] Iran-Krieg – «Die USA hätten nicht nur einen Krieg verloren»
-- [20 Min Romandie] In der Keffiyeh-Affäre weigert sich das OSR, Licht ins Dunkel zu bringen
+- [20 Min Romandie] Dans l'affaire du keffieh, l'OSR refuse de lever le voile
 - [SRF Schweiz] Bauern versus Umweltschützer – Streit um Ackerland
 - [SRF Schweiz] Lage dürfte sich verschärfen – Pegelstände von Flüssen und Seen auf einem rekordtiefen Niveau
 - [SRF Ausland] Während WM-Eröffnungsspiel – Ausschreitungen vor Tor 8 des Aztekenstadions
-- [SRF Schweiz] SAC – Der Klimawandel treibt die Kosten der Berghütten in die Höhe
+- [20 Min Romandie] Les Moretti veulent rouvrir leurs restos, l'Italie s'indigne
