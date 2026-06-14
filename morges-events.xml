@@ -1,9 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Agenda Morges</title>
-  <link>https://www.morges-tourisme.ch/de/Z14671/agenda</link>
-  <description>Aktuelle Events und Ausstellungen in der Region Morges</description>
+  <title>Agenda Morges (via vaud.ch)</title>
+  <link>https://www.vaud.ch/de/tourismus/veranstaltungen/?region=morges-region</link>
+  <description>Aktuelle Events in der Region Morges – Quelle: vaud.ch</description>
   <language>de</language>
+  <lastBuildDate>Sun, 14 Jun 2026 21:01:31 GMT</lastBuildDate>
+  <item>
+    <title>Sauvage</title>
+    <link>https://www.vaud.ch/de/tourismus/veranstaltungen/sauvage</link>
+    <guid isPermaLink="true">https://www.vaud.ch/de/tourismus/veranstaltungen/sauvage</guid>
+    <description></description>
+    <pubDate>Sun, 14 Jun 2026 21:01:31 GMT</pubDate>
+    <enclosure url="https://app.localhub.ch/api/image/01kmcpntx1b5yamxxzvmnvv6td/scale/400" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Jeudis Vin : Vins &amp;amp; Gourmandises</title>
+    <link>https://www.vaud.ch/de/tourismus/veranstaltungen/01kmcpnqw0mmnyjsaa5300jhdk</link>
+    <guid isPermaLink="true">https://www.vaud.ch/de/tourismus/veranstaltungen/01kmcpnqw0mmnyjsaa5300jhdk</guid>
+    <description></description>
+    <pubDate>Sun, 14 Jun 2026 21:01:31 GMT</pubDate>
+    <enclosure url="https://app.localhub.ch/api/image/01kmcpnvm5agdzg86dp6g9krpd/scale/400" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Réouverture du Parc - aventure du Signal de bougy</title>
+    <link>https://www.vaud.ch/de/tourismus/veranstaltungen/reouverture-du-parc-aventure-du-signal-de-bougy</link>
+    <guid isPermaLink="true">https://www.vaud.ch/de/tourismus/veranstaltungen/reouverture-du-parc-aventure-du-signal-de-bougy</guid>
+    <description></description>
+    <pubDate>Sun, 14 Jun 2026 21:01:31 GMT</pubDate>
+    <enclosure url="https://app.localhub.ch/api/image/01kmcpnwada1jnsw9xhz1jts1p/scale/400" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Kleiner Entdeckungsspaziergang zu essbaren Wildpflanzen</title>
+    <link>https://www.vaud.ch/de/tourismus/veranstaltungen/petite-balade-decouverte-des-plantes-sauvages-comestibles</link>
+    <guid isPermaLink="true">https://www.vaud.ch/de/tourismus/veranstaltungen/petite-balade-decouverte-des-plantes-sauvages-comestibles</guid>
+    <description></description>
+    <pubDate>Sun, 14 Jun 2026 21:01:31 GMT</pubDate>
+    <enclosure url="https://app.localhub.ch/api/image/01kj9xzsbbjvvctnv4xw39hpma/scale/400" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Wilde Echos</title>
+    <link>https://www.vaud.ch/de/tourismus/veranstaltungen/wilde-echos</link>
+    <guid isPermaLink="true">https://www.vaud.ch/de/tourismus/veranstaltungen/wilde-echos</guid>
+    <description></description>
+    <pubDate>Sun, 14 Jun 2026 21:01:31 GMT</pubDate>
+    <enclosure url="https://app.localhub.ch/api/image/01kjs8j362xsc7k8jqta98phfr/scale/400" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Florama - Beobachte die faszinierende Welt der Blumen</title>
+    <link>https://www.vaud.ch/de/tourismus/veranstaltungen/florama-beobachte-die-faszinierende-welt-der-blumen</link>
+    <guid isPermaLink="true">https://www.vaud.ch/de/tourismus/veranstaltungen/florama-beobachte-die-faszinierende-welt-der-blumen</guid>
+    <description></description>
+    <pubDate>Sun, 14 Jun 2026 21:01:31 GMT</pubDate>
+    <enclosure url="https://app.localhub.ch/api/image/01kn4gg1bkjreqfs4qejnkv8ge/scale/400" type="image/jpeg" length="0" />
+  </item>
+  <item>
+    <title>Luna Park Lausanne 2026</title>
+    <link>https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</link>
+    <guid isPermaLink="true">https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</guid>
+    <description></description>
+    <pubDate>Sun, 14 Jun 2026 21:01:31 GMT</pubDate>
+    <enclosure url="https://app.localhub.ch/api/image/01kn4gg1ny5d9kfhes4xcxsbpe/scale/400" type="image/jpeg" length="0" />
+  </item>
 </channel>
 </rss>
