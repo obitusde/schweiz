@@ -1,5 +1,5 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 14.6.2026, 12:35:46
+Start: 15.6.2026, 07:30:19
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -9,102 +9,72 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | E-Auto Leapmotor B10 im Test: Ein E-SUV, das die Konkurrenz unter Druck setzt'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Secrets Management: IT-Pipelines mit dynamischen Secrets absichern'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Mindestzoll für China-Importe: Was Verbraucher jetzt wissen müssen'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | ThinkTab X11 Gen 1 im Test: Android-Tablet für den Arbeitsalltag'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Schritt für Schritt – VMware zu Proxmox VE'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Empfangswege gemessen: So kommt die Fußball-WM verzögerungsfrei auf den Schirm'
-- Gelöscht wegen Keyword 'c’t uplink': 'KI geht einkaufen | c’t uplink'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: USB-Ladegerät mit 100 W und 3 Ports für unter 33 Euro'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Balkonkraftwerk mit neuer Anker Solix 4 Pro mit 870 Euro Rabatt bei Kleines Kraftwerk'
 - Gelöscht wegen Keyword '(g+)': '(g+) Security: Warum Cloudsicherheit mehr ist als Firewalls und Verschlüsselung'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Cybersecurity, Architektur, DevOps und Entwicklung'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Smartwatch Huawei Watch Fit 5 zum Tiefpreis bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Neues Samsung-Smartphone gegen altes eintauschen und 300 Euro sichern bei Vodafone'
 - Gelöscht wegen Keyword '(g+)': '(g+) Immutable.js: Ein Klassiker für unveränderliche Datenstrukturen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: STACKIT Cloud für souveräne IT-Strategien'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: DJI Neo 2-Drohne für Einsteiger jetzt zum bisherigen Amazon-Tiefstpreis rund 210 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Curved-Gaming-Monitor mit 32 Zoll und 180 Hz unter 180 Euro'
-- Gelöscht wegen Keyword '(g+)': '(g+) Taiwan tensions: Uncertainty plagues Taiwan's drone industry after budget cuts'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Welche Konsole ist die erfolgreichste dieser Generation?'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: In-Ear-Kopfhörer JBL Tune Beam 2 reduziert bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Dreame D20 Pro Plus Saugroboter nur noch kurze Zeit zum Tiefstpreis'
-- Gelöscht wegen Keyword '(g+)': '(g+) Transportation: Tesla's Robotaxi Falls Short With Long Waits, Stalled Rides'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: BFSG und WCAG in Webprojekten umsetzen'
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: Thema 'Apple: Siri' ist explizit ausgeschlossen.): 'Neue Siri-Version in WWDC-Keynote: Frequenzänderungen sollten unbeabsichtigte Siri-Aktivierungen unterbinden'
-- Gelöscht (Grund: Thema 'Apple-Rauschen' / OS-Updates.): 'Betriebssysteme: Apple kappt 16 Geräten den Software-Support'
-- Gelöscht (Grund: Thema 'PC-Komponenten / Hardware-Hersteller'.): 'Sicherheitslücke entdeckt: Sicherheitsforscher beklagt ausbleibende Belohnung von AMD'
-- Gelöscht (Grund: Enterprise-IT / Netzwerk-Infrastruktur / PC-Komponenten.): 'Top 10: Der beste KVM-Switch für PCs im Test'
-- Gelöscht (Grund: Enterprise-IT / Unternehmensstruktur (fällt unter IT-Infrastruktur-Business).): 'Microsoft erwägt, Xbox auszugliedern'
-- Gelöscht (Grund: Interne IT-Unternehmensstruktur.): 'Applied AI-Team: Metas KI-Umbau macht Tausende Entwickler zu Statisten'
-- Gelöscht (Grund: Duplikat zu Artikel 24 (behandelt dasselbe Ereignis).): 'US-Regierung erzwingt Abschaltung von Anthropics KI Fable 5 und Mythos 5'
-- Gelöscht (Grund: Code-Theorie und Web-Infrastruktur / Entwickler-Tools.): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
-- Gelöscht (Grund: Code-Theorie und Software-Architektur.): 'Drei freie Office-Suiten gegen Microsoft 365 – und ihre Technik im Vergleich'
-- Gelöscht (Grund: Belangloses Apple-Rauschen.): 'App Store: Entwickler dürfen Nutzer künftig beim Kündigen ansprechen'
-- Gelöscht (Grund: Duplikat zu Artikel 24/30 (KI-Abschaltung Anthropic).): 'Wirklich zu gefährlich? |  c't 3003'
-- Gelöscht (Grund: PC-Eigenbau / Interne PC-Komponenten.): '12VHPWR: 50 Euro teures Grafikkartenkabel von Asus schmilzt'
-- Gelöscht (Grund: Enterprise-IT / Netzwerk-Infrastruktur.): 'Proxmox Mail Gateway 9.1 erleichtert Kampf gegen Spam und verschlüsselt Backups'
-- Gelöscht (Grund: Enterprise-IT / Software-Entwicklung.): 'Word: Legal Agent in Frontier'
-- Gelöscht (Grund: Duplikat zu Artikel 71.): 'Gmail ersetzen: Murena erleichtert den Abschied von Google'
-- Gelöscht (Grund: Code-Theorie / Web-Infrastruktur (Microsoft Copilot).): 'What’s New in Notebooks | May 2026'
-- Gelöscht (Grund: Interne PC-Komponenten / Server-Hardware.): 'Nach Aus für Server-GPU: Nvidia will mit Vera-CPU auf chinesischen Markt zurück'
-- Gelöscht (Grund: Duplikat zu Artikel 55.): 'Bundesnetzagentur vs. Steam: Ermittlungen wegen „Plantagen-Simulator“'
-- Gelöscht (Grund: Code-Theorie und Web-Infrastruktur.): 'KI-Update Deep-Dive: Vibecoding als Sicherheitsrisiko - feat. TTT'
-- Gelöscht (Grund: Apple Themen: iOS (explizit ausgeschlossen).): 'Übersicht: So verbessert Apple iOS 27 an vielen Stellen'
-- Gelöscht (Grund: Duplikat zu Artikel 4.): 'Googles Home Speaker mit Gemini: Marktstart steht offenbar bevor'
-- Gelöscht (Grund: Belangloses Apple-Rauschen / OS-Updates.): 'Liquid Glass: Neuer Regler soll Gemüter beruhigen'
+- Gelöscht (Grund: Duplikat: Behandelt das Ereignis der Anthropic-Modell-Sperre (beibehalten: ID 37).): 'Sperre von Anthropics KI-Modellen: China soll Zugriff auf Mythos gehabt haben'
+- Gelöscht (Grund: Themenverbot: Interne PC-Komponenten (CPU).): 'Montag: Intel vor erneuter CPU-Neuauflage, Firefox mit unbegrenztem Browser-VPN'
+- Gelöscht (Grund: Themenverbot: Interne PC-Komponenten (CPU).): 'Intels „Raptor Lake Next“ – DDR4 und angeblich Anfang 2027 fertig'
+- Gelöscht (Grund: Themenverbot: Enterprise-IT & Netzwerk-Infrastruktur (Cloud-Infrastruktur).): 'VW setzt auf die Telekom: T-Systems baut weltweite Cloud für Volkswagen'
+- Gelöscht (Grund: Themenverbot: Saugroboter.): 'Saugroboter Dreame Matrix 10 Ultra im Test: Wechselt Mopps & Reinigungsmittel'
+- Gelöscht (Grund: Duplikat: Behandelt das Ereignis der Anthropic-Modell-Sperre (beibehalten: ID 37).): 'Amazon-CEO soll Fable-Sperre ausgelöst haben'
+- Gelöscht (Grund: Duplikat: Behandelt das Ereignis der Anthropic-Modell-Sperre (beibehalten: ID 37).): 'Anthropic: Amazon-Alarm löste wohl Fable-Verbot aus'
+- Gelöscht (Grund: Duplikat: Behandelt dasselbe Thema wie ID 0.): 'Digitalminister Wildberger ließ Reden und Gastbeiträge von KI schreiben'
+- Gelöscht (Grund: Themenverbot: Siri.): 'Neue Siri-Version in WWDC-Keynote: Frequenzänderungen sollten unbeabsichtigte Siri-Aktivierungen unterbinden'
+- Gelöscht (Grund: Themenverbot: Belangloses Apple-Rauschen / Updates.): 'Betriebssysteme: Apple kappt 16 Geräten den Software-Support'
+- Gelöscht (Grund: Themenverbot: Interne PC-Komponenten (CPU/AMD).): 'Sicherheitslücke entdeckt: Sicherheitsforscher beklagt ausbleibende Belohnung von AMD'
+- Gelöscht (Grund: Duplikat: Behandelt das FIFA-Spiel auf Netflix (beibehalten: ID 42).): 'EA gefällt das: Das neue FIFA-Spiel auf Netflix ist grottenschlecht'
+- Gelöscht (Grund: Duplikat: Behandelt das Ereignis der Anthropic-Modell-Sperre (beibehalten: ID 37).): 'Kommentar: Die beste Werbung für alternative KI-Hersteller'
+- Gelöscht (Grund: Duplikat: Behandelt die Warner-Übernahme durch Paramount (beibehalten: ID 19).): 'Keine Auflagen: US-Regierung winkt Übernahme von Warner durch'
+- Gelöscht (Grund: Themenverbot: Apple-Rauschen / iOS-relevante Features.): 'KI-Bearbeitung bei Apple und Warnlicht für Brillen – Fotonews der Woche 24/2026'
+- Gelöscht (Grund: Duplikat: Behandelt das Ereignis der Anthropic-Modell-Sperre (beibehalten: ID 37).): 'US-Regierung erzwingt Abschaltung von Anthropics KI Fable 5 und Mythos 5'
+- Gelöscht (Grund: Themenverbot: Code-Theorie & Web-Infrastruktur (Tools wie VS Code, GitLab, etc.).): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
 
 Finale Liste (live im XML-Feed):
+- [Golem] KI-Einsatz nicht kenntlich gemacht: Handelsblatt entfernt KI-Gastbeitrag von Karsten Wildberger
+- [Heise] Firefox bietet im Sommer kostenloses VPN im Browser ohne Datenlimit
+- [Heise] Top 10: Display für Carplay und Android Auto
+- [Heise] Gewerkschaft: Italo-Züge könnten Städte vom Fernverkehr abkoppeln
+- [Golem] Tesla: Plastikköpfe im Cockpit tricksen Aufmerksamkeitskontrolle aus
 - [Golem] E-208: Peugeot bringt Elektro-GTI
 - [Heise] Züge von Hamburg nach Berlin rollen nach Sanierung wieder
 - [Golem] Smarter Lautsprecher: Neuer Google-Home-Lautsprecher könnte bald erscheinen
 - [Golem] Streaming und Kino: US-Regierung genehmigt Warner-Übernahme durch Paramount
 - [Heise] Video: Wie weit kommt das E-Bike?
 - [Golem] Krypto-Kidnappings: Wenn sichtbarer Reichtum zum Risiko wird
-- [Heise] EA gefällt das: Das neue FIFA-Spiel auf Netflix ist grottenschlecht
 - [Heise] Missing Link: Warum Deutschlands Behörden bei der Digitalisierung stagnieren
+- [Heise] Top 10: Der beste KVM-Switch für PCs im Test
 - [Heise] Bundesrat will KI-Überwachung und Quick Freeze durch BKA
+- [Heise] Microsoft erwägt, Xbox auszugliedern
 - [Heise] Schutzrechteallianz: Die fünf größten Patentämter forcieren den KI-Einsatz
-- [Heise] Kommentar: Die beste Werbung für alternative KI-Hersteller
 - [Heise] Carpodgo Mini im Test: Winziges Display für Carplay und Android Auto
 - [Golem] Team Gen 6: Deutschland und Spanien wollen Europas Kampfjet retten
+- [Golem] Applied AI-Team: Metas KI-Umbau macht Tausende Entwickler zu Statisten
 - [Heise] Palantir scheitert weitgehend mit Gegendarstellungen gegen "Republik"-Recherche
 - [Golem] Ladebuchse: Xiaomi will mit Roboterarm E-Autos aufladen
 - [Golem] Gears of War: Selbst die Plastik-Lancer war gefährlich
-- [Heise] Keine Auflagen: US-Regierung winkt Übernahme von Warner durch
 - [Golem] Konzeptfahrzeug: BMW zeigt Elektro-Sportler der Zukunft
 - [Golem] Nationale Sicherheit: Anthropic schaltet Top-KI auf Anordnung der USA ab
 - [Heise] Ex-Krypto-König Bankman-Fried scheitert mit Berufungsantrag
 - [Golem] Zukunft des Franchise: George Miller plant weiteren Mad-Max-Film
 - [Golem] Elon Musk: SpaceX legt zum Börsenstart kräftig zu
-- [Heise] KI-Bearbeitung bei Apple und Warnlicht für Brillen – Fotonews der Woche 24/2026
 - [Golem] Fifa World Cup ausprobiert: Fußball-WM ist für Netflix-Abonnenten spielbar
 - [Golem] Geopolitik: Wer den Weltraum kontrolliert, kontrolliert die Erde
 - [Heise] Model-Schau: Reasoning aus China, kleine Liquid-Modelle und neue Microsoft-Welt
+- [Heise] Empfangswege gemessen: So kommt die Fußball-WM verzögerungsfrei auf den Schirm
 - [Digitec] Weshalb du bei Screenbars besonders auf den Befestigungsmechanismus achten solltest
 - [Golem] Industrie in Deutschland: Wasserstoff macht Herstellung von Edelstahl effizienter
 - [Heise] Zwischen Naturmomenten, Architektur und großer Weite: Die Bilder der Woche 24
-- [Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche
-- [Digitec] Ein Verzeichnis aller Doppel- und Mehrfachsterne
-- [Heise] Top 10: Der beste Ventilator im Test
-- [Heise] Vorratsdatenspeicherung: Bundesrat will mehr Befugnisse für Landespolizeien
-- [Heise] Adobe-Aktie im Sinkflug: CFO verlässt das Unternehmen
-- [Heise] Digitale Souveränität in der EU: Workflow für sicherheitskritische Chips
-- [Heise] Saily: Nord-Tochter liefert Reise-eSIM samt US-Telefonnummer
-- [Heise] Bundestag beschließt KI-Gesetz: Bundesnetzagentur wird zentrale Aufsicht
-- [Heise] Meta-Störung: Probleme bei Instagram, Facebook und Messenger
-- [Heise] Mini-Quadrokopter: Potensic beginnt mit Vorverkauf der Atom 3
-- [Golem] Großer DSA-Fall: Bundesnetzagentur ermittelt gegen Steam
-- [Heise] Technaxx Wireless Carplay-Display für 50 Euro ist gar nicht schlecht
-- [Golem] Elektrolyseure: Evonik startet Pilotanlage für Elektrolyse im Gigawattbereich
-- [Golem] Ungewöhnliche Ovo: Ein gekochtes Ei als Computermaus
-- [Heise] Medizinregistergesetz: Viele offene Fragen bei Forschungskennziffer und Co.
-- [Heise] Post zum Freitag: Deepfake-Selbsttest, Panther-Lake-Notebooks und SpaceX-IPO
-- [Heise] IT-Dienstleister planen für die Zukunft mit weniger Personal
-- [Heise] #TGIQF: Das Fußball-Quiz
-- [Heise] Bildungsminister setzen auf Medienkompetenz statt Social-Media-Verbot
-- [Heise] Schutz vor Sonnenstürmen: Satelliten sollen Schutzschild der Erde stärken
-- [Digitec] Mit /e/OS 4.0 soll der Abschied von Google einfacher werden
-- [Heise] Medienbildung im Praxistest: Social-Media-Führerschein in Niedersachsen
