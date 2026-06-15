@@ -1,5 +1,5 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 14.6.2026, 21:48:39
+Start: 15.6.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -14,109 +14,109 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/QYUORaarYc2r.xml
 
 Statischer Filter (Keywords):
-- Keine Artikel durch statische Keywords gefiltert.
+- Gelöscht wegen Keyword 'wolf': 'Wölfe gesichtet – Der Wolf ist zurück im Baselbiet: Bauer sorgt sich um seine Tiere'
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Stadt Zürich – Stadtzürcher wollen Affoltern ans Tramnetz anschliessen'
-- Gelöscht (Grund: Duplikat zu Artikel 3 (SRF bevorzugt).): 'Das war der Abstimmungssonntag – Nein zu «Keine 10-Mio-Schweiz» – der Liveticker zum Nachlesen'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmung Stadt Zug – Ja zu 80-Meter-Hochhaus: «Wichtiger Schritt für Stadtentwicklung»'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Stadt Luzern – Ja zu mehr Wohnraum: Jubel bei Linksgrün, Frust bei Bürgerlichen'
-- Gelöscht (Grund: Wahl außerhalb von Waadt und Genf.): 'Wahlen Kanton Graubünden – Die SVP Graubünden nutzt die günstige Gelegenheit'
-- Gelöscht (Grund: Duplikat zu Artikel 3.): 'Abstimmung vom 14. Juni – Initiative «Keine 10-Mio-Schweiz» gescheitert'
-- Gelöscht (Grund: Duplikat zu Artikel 16 (SRF bevorzugt).): 'Änderung Zivildienstgesetz – Wechsel zum Zivildienst wird erschwert: Das sind die Reaktionen'
-- Gelöscht (Grund: Duplikat zu Artikel 16.): 'Abstimmungen vom 14. Juni – Der Wechsel vom Militär in den Zivildienst wird erschwert'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Kanton Solothurn – Resultate aus Solothurner Gemeinden von A bis Z'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Kanton Aargau – Resultate aus Aargauer Gemeinden von A bis Z'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Stadt Winterthur – Winterthur sagt Nein zu neuem Campingplatz am Schützenweiher'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Zentralschweiz – Resultate aus Zentralschweizer Gemeinden von A–Z'
-- Gelöscht (Grund: Duplikat zu Artikel 3.): 'Abstimmungssonntag – «Keine 10-Mio-Schweiz»: Zähneknirschen bei SVP, Jubel bei Gegnern'
-- Gelöscht (Grund: Wahl außerhalb von Waadt und Genf.): 'Stadtrat Wil SG – SVP-Nationalrat Lukas Reimann verpasst Wahl in die Stadtregierung'
-- Gelöscht (Grund: Wahl außerhalb von Waadt und Genf.): 'Wahlen Gemeinde St. Moritz – Folgt auf Künstler Jenny jetzt Langlauf-Experte Iseppi?'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen im Sensebezirk FR – Bevölkerung sagt Nein zum neuen Hallenbad in Plaffeien'
-- Gelöscht (Grund: Wahl außerhalb von Waadt und Genf.): 'Wahlen Stadtpräsidium – SVP-Frau und Grüne kämpfen um das Thuner Stadtpräsidium'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Kanton St. Gallen – Resultate aus St. Galler Gemeinden von A-Z'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Kanton Bern – Resultate aus Berner Gemeinden von A-Z'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmung Stadt Bern – Tierpark Bern: Grünes Licht für Neubaupläne'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Kanton Thurgau – Resultate aus Thurgauer Gemeinden von A-Z'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmungen Kanton Graubünden – Resultate aus Bündner Gemeinden von A-Z'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Neuchâtel va reconnaître ses aînés dans sa Constitution'
-- Gelöscht (Grund: Duplikat zu Artikel 44.): 'Salaire minimum: le canton de Vaud dit: «Oui, mais...»'
-- Gelöscht (Grund: Blaulicht-Meldung außerhalb von Waadtland.): 'Kreuzlingen und Konstanz – Polizei Thurgau gibt Entwarnung nach Bombendrohung'
-- Gelöscht (Grund: Abstimmung außerhalb von Waadt und Genf.): 'Abstimmung Gemeinde Sevelen – Sevelen lehnt Mindestabstand zu Windrädern ab'
-- Gelöscht (Grund: Duplikat zu Artikel 1.): 'Ambiance nocturne «calme et festive» en prélude à la manif NoG7'
-- Gelöscht (Grund: Unfallmeldung außerhalb von Waadtland.): 'Deux cyclistes percutés par des voitures à Farvagny et Vaulruz'
-- Gelöscht (Grund: Beinahe-Unfall außerhalb von Waadtland.): 'Un problem de langue a failli causer une catastrophe ferroviaire'
-- Gelöscht (Grund: Brandmeldung außerhalb von Waadtland.): 'Grosse opération pour un feu de panneaux solaires à Meinier'
-- Gelöscht (Grund: Duplikat zu Artikel 80 (SRF).): 'Die etwas anderen News – König Infantino und King Donald'
-- Gelöscht (Grund: Duplikat zu Artikel 1.): 'Première nuit «calme» pour le week-end anti-G7'
-- Gelöscht (Grund: Duplikat zu Artikel 36.): 'Des boules de pétanque sous haute surveillance avant le G7'
-- Gelöscht (Grund: Duplikat zu Artikel 57.): 'Diskussion ums Frühfranzösisch – Französisch für die Nation: eine Schweizer Geschichte'
-- Gelöscht (Grund: Duplikat zu Artikel 70.): '«Tren de Aragua» in Venezuela – Trump: US-Militärschlag tötet berüchtigten Bandenanführer'
-- Gelöscht (Grund: Brandmeldung außerhalb von Waadtland.): 'Un bateau en feu sur le Léman: trois personnes secourues'
+- Gelöscht (Grund: Duplikat zum Thema US-Iran-Abkommen (Artikel 5 behalten).): 'USA unter Trump – Kein Durchbruch, sondern eine Verschnaufpause'
+- Gelöscht (Grund: Duplikat zum Abstimmungssonntag (Artikel 4 behalten).): 'Nein zur «10-Mio-Schweiz» – Migrationsthemen werden die Schweiz weiter beschäftigen'
+- Gelöscht (Grund: Duplikat zum Abstimmungssonntag (Artikel 4 behalten).): '«Keine 10-Mio-Schweiz» – Problem erkannt, Lösung überzeugt nicht'
+- Gelöscht (Grund: Gerichtsmeldung außerhalb von Waadt oder Genf.): 'Pleurs, cris et colère: l'audition tumultueuse du couple Moretti'
+- Gelöscht (Grund: Abstimmung außerhalb von Waadt oder Genf.): 'Abstimmungen Stadt Zürich – Stadtzürcher wollen Affoltern ans Tramnetz anschliessen'
+- Gelöscht (Grund: Duplikat zum Abstimmungssonntag (Artikel 4 behalten).): 'Präsidentenrunde – Kein Bevölkerungsdeckel – aber auch keiner auf die Debatte'
+- Gelöscht (Grund: Duplikat zum Abstimmungssonntag (Artikel 4 behalten).): 'Das war der Abstimmungssonntag – Nein zu «Keine 10-Mio-Schweiz» – der Liveticker zum Nachlesen'
+- Gelöscht (Grund: Abstimmung außerhalb von Waadt oder Genf.): 'Abstimmung Stadt Zug – Ja zu 80-Meter-Hochhaus: «Wichtiger Schritt für Stadtentwicklung»'
+- Gelöscht (Grund: Abstimmung außerhalb von Waadt oder Genf.): 'Abstimmungen Stadt Luzern – Ja zu mehr Wohnraum: Jubel bei Linksgrün, Frust bei Bürgerlichen'
+- Gelöscht (Grund: Wahlen außerhalb von Waadt oder Genf.): 'Wahlen Kanton Graubünden – Die SVP Graubünden nutzt die günstige Gelegenheit'
+- Gelöscht (Grund: Duplikat zum Abstimmungssonntag (Artikel 4 behalten).): 'Abstimmung vom 14. Juni – Initiative «Keine 10-Mio-Schweiz» gescheitert'
+- Gelöscht (Grund: Duplikat zur Zivildienst-Abstimmung (Artikel 25 behalten).): 'Zivildienstgesetz – Ja zur Reform, aber kein Freipass für weitere Verschärfungen'
+- Gelöscht (Grund: Duplikat zur Zivildienst-Abstimmung (Artikel 25 behalten).): 'Änderung Zivildienstgesetz – Wechsel zum Zivildienst wird erschwert: Das sind die Reaktionen'
+- Gelöscht (Grund: Duplikat zur Darstellung der Abstimmungsresultate (Artikel 13 behalten).): 'Abstimmung 14. Juni 2026 – Wie hat Ihre Gemeinde an der Urne entschieden?'
+- Gelöscht (Grund: Abstimmungen/Wahlen außerhalb von Waadt oder Genf.): 'Abstimmungen Kanton Solothurn – Resultate aus Solothurner Gemeinden von A bis Z'
+- Gelöscht (Grund: Abstimmungen/Wahlen außerhalb von Waadt oder Genf.): 'Abstimmungen Kanton Aargau – Resultate aus Aargauer Gemeinden von A bis Z'
+- Gelöscht (Grund: Abstimmung außerhalb von Waadt oder Genf.): 'Abstimmungen Stadt Winterthur – Winterthur sagt Nein zu neuem Campingplatz am Schützenweiher'
+- Gelöscht (Grund: Abstimmungen/Wahlen außerhalb von Waadt oder Genf.): 'Abstimmungen Zentralschweiz – Resultate aus Zentralschweizer Gemeinden von A–Z'
+- Gelöscht (Grund: Duplikat zum Abstimmungssonntag (Artikel 4 behalten).): 'Abstimmungssonntag – «Keine 10-Mio-Schweiz»: Zähneknirschen bei SVP, Jubel bei Gegnern'
+- Gelöscht (Grund: Wahl außerhalb von Waadt oder Genf.): 'Stadtrat Wil SG – SVP-Nationalrat Lukas Reimann verpasst Wahl in die Stadtregierung'
+- Gelöscht (Grund: Wahl außerhalb von Waadt oder Genf.): 'Wahlen Gemeinde St. Moritz – Folgt auf Künstler Jenny jetzt Langlauf-Experte Iseppi?'
+- Gelöscht (Grund: Abstimmungen/Wahlen außerhalb von Waadt oder Genf.): 'Abstimmungen Kanton St. Gallen – Resultate aus St. Galler Gemeinden von A-Z'
+- Gelöscht (Grund: Abstimmungen außerhalb von Waadt oder Genf.): 'Abstimmungen Kanton Bern – Resultate aus Berner Gemeinden von A-Z'
+- Gelöscht (Grund: Abstimmungen/Wahlen außerhalb von Waadt oder Genf.): 'Abstimmungen Kanton Thurgau – Resultate aus Thurgauer Gemeinden von A-Z'
+- Gelöscht (Grund: Abstimmungen/Wahlen außerhalb von Waadt oder Genf.): 'Abstimmungen Kanton Graubünden – Resultate aus Bündner Gemeinden von A-Z'
+- Gelöscht (Grund: Abstimmung außerhalb von Waadt oder Genf.): 'Neuchâtel va reconnaître ses aînés dans sa Constitution'
+- Gelöscht (Grund: Duplikat zum Mindestlohn Waadt (Artikel 47 behalten).): 'Salaire minimum: le canton de Vaud dit: «Oui, mas...»'
+- Gelöscht (Grund: Blaulicht-Meldung außerhalb von Waadt oder Genf.): 'Kreuzlingen und Konstanz – Polizei Thurgau gibt Entwarnung nach Bombendrohung'
+- Gelöscht (Grund: Abstimmung außerhalb von Waadt oder Genf.): 'Abstimmung Gemeinde Sevelen – Sevelen lehnt Mindestabstand zu Windrädern ab'
+- Gelöscht (Grund: Unfallmeldung außerhalb von Waadt oder Genf.): 'Deux cyclistes percutés par des voitures à Farvagny et Vaulruz'
+- Gelöscht (Grund: Beinahe-Unfall außerhalb von Waadt oder Genf.): 'Un problem de langue a failli causer une catastrophe ferroviaire'
+- Gelöscht (Grund: Duplikat zum Thema US-Iran-Abkommen (Artikel 5 behalten).): 'Rahmen für Friedenserklärung – Wie realistisch ist ein baldiges Iran-USA-Abkommen?'
+- Gelöscht (Grund: Duplikat zum G7-Wochenende (Artikel 63 behalten).): 'Première nuit «calme» pour le week-end anti-G7'
 
 Finale Liste (live im XML-Feed):
-- [SRF Schweiz] Neues Sanierungsverfahren – Zweite Chance: Schuldenschnitt bringt Hoffnung für Betroffene
+- [SRF Wirtschaft] Nahost-Krise – «Wir haben sechs Schiffe, die blockiert sind»
+- [20 Min Romandie] Schul-Chaos führt zur Stigmatisierung einer Schülerin
+- [SRF Schweiz] Abstimmungen 14. Juli – Das war der Abstimmungssonntag – ein Überblick
+- [SRF Ausland] Krieg im Nahen Osten – USA und Iran einigen sich auf Friedensabkommen – das ist bekannt
 - [SRF Schweiz] G7-Gipfel – Grossdemo in Genf ++ Vereinzelte Krawalle
+- [SRF Schweiz] Investieren als Engagement – Sie kaufen Wald, um ihn zu schützen
+- [SRF Schweiz] Neues Sanierungsverfahren – Zweite Chance: Schuldenschnitt bringt Hoffnung für Betroffene
 - [SRF Wissen] Tierbilder im Mittelalter – Vom Bestiarium zur Wissenschaft: Wie Tiermythen entstanden sind
-- [SRF Schweiz] «Keine 10-Mio-Schweiz» – Problem erkannt, Lösung überzeugt nicht
-- [20 Min Romandie] Tränen, Schreie und Wut: Die turbulente Anhörung des Ehepaars Moretti
 - [SRF Schweiz] Abstimmungen 14. Juni 2026 – So hat die Schweiz abgestimmt – in Grafiken
-- [SRF Schweiz] Präsidentenrunde – Kein Bevölkerungsdeckel – aber auch keiner auf die Debatte
 - [SRF Ausland] Zu Trumps 80. Geburtstag – Kampf-Spektakel vor dem Weissen Haus – Fans sind begeistert
 - [SRF Ausland] Rückkehr von Geflüchteten – Migrationsexpertin: «Der Trend ist: Zuflucht wird unattraktiver»
-- [20 Min Romandie] Die heutigen Abstimmungsresultate auf einen Blick
-- [SRF Schweiz] Zivildienstgesetz – Ja zur Reform, aber kein Freipass für weitere Verschärfungen
-- [SRF Schweiz] Abstimmung 14. Juni 2026 – Wie hat Ihre Gemeinde an der Urne entschieden?
-- [SRF Schweiz] Wölfe gesichtet – Der Wolf ist zurück im Baselbiet: Bauer sorgt sich um seine Tiere
+- [20 Min Romandie] Die Ergebnisse des Tages auf einen Blick
+- [SRF Schweiz] Abstimmungen vom 14. Juni – Der Wechsel vom Militär in den Zivildienst wird erschwert
 - [SRF Schweiz] Gleichstellung – «Immer no hässig» – Schweizweit Tausende am feministischen Streik
 - [SRF Schweiz] Schweiz als Drehscheibe – Rohstoffhandel verlagert Umweltschäden in den globalen Süden
-- [20 Min Romandie] Äxte, Feuerwerkskörper, Schlagstöcke: Das von der Polizei beschlagnahmte Arsenal
+- [20 Min Romandie] Äxte, Feuerwerkskörper, Schlagstöcke: das von der Polizei beschlagnahmte Arsenal
 - [SRF Schweiz] Eisenbahnexperten – Die Bahn-Nerds fragen nach, wenn es andere nicht tun
-- [20 Min Romandie] Nur positive Noten zur Feier des 25-jährigen Jubiläums von Festi'neuch
+- [20 Min Romandie] Nur positive Noten zur Feier von 25 Jahren Festi'neuch
 - [SRF Ausland] Humanitäre Lage in Gaza – Hilfswerk-Mitarbeiter: «Situation ist fast schizophren»
 - [SRF Wissen] Wie Psychotherapie – Warum Tanzen so gut für unsere Psyche ist
-- [20 Min Romandie] Linie Bussigny–Yverdon wegen eines Brandes gestört
-- [RTS Vaud] Waadtländer Bevölkerung verankert das Prinzip eines Mindestlohns in der Verfassung
+- [20 Min Romandie] Linie Bussigny–Yverdon wegen eines Brandes unterbrochen
+- [RTS Vaud] Waadtländer Bevölkerung nimmt Verankerung des Mindestlohns in der Verfassung an
+- [Journal de Morges] Aubonne hat entschieden: Der Weg von Bougy-Saint-Martin wird verkauft
 - [SRF Schweiz] Challenge im Klassenlager – Jedes Gramm zählt: So kämpfen diese Kinder gegen Food Waste
-- [Journal de Morges] Aufstieg und Erfolg für Saint-Prex gesichert!
-- [Morges Actualitiés] Ergebnisse der Abstimmungen vom 14. Juni 2026 in Morges
+- [Journal de Morges] Aufstieg und Erfolg für Saint-Prex in der Tasche!
+- [Morges Actualitiés] Abstimmungsergebnisse vom 14. Juni 2026 in Morges
 - [SRF Wissen] Arbeitslose wegen KI? – Wenn KI Menschen ersetzt: SP fordert neue Steuer in Basel
 - [SRF Schweiz] Massnahmen gegen «No-Shows» – Alpen-Club führt Reservationssystem für SAC-Hütten ein
-- [20 Min Romandie] Laizität und sonntags geöffnete Geschäfte: Genf sagt zweimal Ja
-- [Journal de Morges] Sieg und Katastrophenspiel in Veyron-Venoge abgebrochen!
+- [20 Min Romandie] Säkularisierung und Sonntagsverkauf: Genf sagt zweimal Ja
+- [Journal de Morges] Sieg und Spielabbruch nach Ausschreitungen in Veyron-Venoge!
 - [SRF Gesellschaft] Ausstellung «Labouring Bodies» – Der Körper der Frau: Pausenlos in Betrieb
 - [SRF Ausland] Krieg in der Ukraine – Ein Fabrikant im Bombenhagel
 - [SRF Schweiz] Regeln für Frühfranzösisch – «Es spricht nichts gegen frühe Sprach-Lern-Aktivitäten»
 - [SRF Wissen] Hormone in den Wechseljahren – Mehr Lust und Energie: Hilft Testosteron wirklich?
+- [20 Min Romandie] Ruhige und festliche nächtliche Stimmung vor der NoG7-Demo
 - [SRF Gesellschaft] Radikale Vordenkerinnen – Saint-Simonistinnen: Die Urururur-Grossmütter des Feminismus
 - [20 Min Romandie] Schwarze Blöcke: Wer sind diese maskierten und schwarz gekleideten Aktivisten?
 - [SRF Schweiz] Abstimmungsflut? – «Dieses Mal ist für jeden etwas dabei – das mobilisiert»
 - [SRF Gesellschaft] Gründungsboom in der Schweiz – Mit 23 eigene Chefin? Warum junge Leute Firmen gründen
 - [SRF Schweiz] Mobilfunkantenne in Freiburg – Swisscom «vergisst», Bewilligung für 5G-Antenne zu beantragen
 - [SRF Wirtschaft] Blockierte Strasse von Hormus – Der Austausch von Schiffscrews wird immer schwieriger
-- [20 Min Romandie] Mann nach Besuch in der Region Chillon verschwunden
+- [20 Min Romandie] Ein Mann verschwindet nach einem Besuch in der Region Chillon
 - [SRF Schweiz] Suva-Finanzchef im Interview – «Würden gerne mehr in günstigen Wohnraum investieren»
 - [SRF Ausland] Tren de Aragua in Venezuela – Tötung des Bandenchefs durch USA dürfte eine Warnung sein
-- [20 Min Romandie] Feministischer Streik im Zeichen von No-G7 und grosser Hitze
-- [20 Min Romandie] «Um 8:15 Uhr ist alles voll»: Die Plätze in der Bibliothek sind begehrt
+- [20 Min Romandie] Feministischer Streik im Zeichen von No-G7 und praller Sonne
+- [20 Min Romandie] «Um 8:15 Uhr ist es voll»: Plätze in der Bibliothek sind rar
 - [SRF Schweiz] Heimische Proteinquelle – Die Lupine hat Zukunft – aber ist noch nicht marktreif
 - [20 Min Romandie] Kann man ein Gemälde schmecken? Ein Sternekoch hat das Experiment gewagt
+- [20 Min Romandie] Grosseinsatz wegen eines Brandes von Solarpaneelen in Meinier
 - [20 Min Romandie] Die Protest-Flottille von Lausanne aus gefilmt
-- [SRF Ausland] Rahmen für Friedenserklärung – Wie realistisch ist ein baldiges Iran-USA-Abkommen?
-- [20 Min Romandie] Genf verbarrikadiert sich, die Kunst lädt sich auf die Absperrzäune ein
+- [20 Min Romandie] Genf verbarrikadiert sich, die Kunst lädt sich auf die Bauzäune ein
 - [SRF Ausland] Tierische Spionage – China warnt vor spionierenden Schildkröten und Fischen
 - [SRF Schweiz] Schweiz – Katar – Schweizer Fans vor WM-Start: «Fühlt sich an wie ein Stück Heimat»
 - [SRF Wirtschaft] Der Weltraum als Geschäftsfeld – Schweizer Tech-Firmen profitieren vom Rummel um SpaceX
+- [SRF Schweiz] Die etwas anderen News – König Infantino und King Donald
 - [SRF Schweiz] G7-Gipfel in Evian – Ernte bedroht: Genfer Bauern kämpfen für offene Grenze
 - [SRF Schweiz] Abstimmungen vom 14. Juni – Wie viel wissen Sie über die Schweizer Abstimmungssonntage?
 - [SRF Schweiz] Streit nach Artikel – «Republik» siegt vor Gericht gegen Tech-Konzern Palantir
 - [SRF Ausland] 250-jähriges Jubiläum der USA – Das historische Haus, dem die Trump-Regierung das Geld wegnahm
 - [SRF Schweiz] Finanzierung der 13. AHV-Rente – Nehmen Sie einen Scherbenhaufen in Kauf, Frau Gredig?
 - [SRF Ausland] G7-Gipfel in Evian – Kann Macron den Eklat vermeiden?
+- [20 Min Romandie] Pétanque-Kugeln unter Hochspannung vor dem G7-Gipfel
 - [SRF Wissen] Rekordbefall – Giftige Raupen dieses Jahr so häufig wie noch nie
 - [SRF Schweiz] «Insta» statt Rednerpult – Die Politinfluencer im Bundeshaus
 - [20 Min Romandie] Telearbeit: Sind die Waadtländer Chefs zu starr?
 - [SRF Schweiz] IV-Urteil sorgt für Kritik – Gemeindepräsident mit Behinderung verliert Anspruch auf IV-Rente
 - [SRF Ausland] Stimmen aus dem Iran – Irans «Filternet»: Misstrauen nach Ende der Internetsperre
-- [SRF Ausland] Fusion der Hollywood-Giganten – US-Justizministerium: Paramount darf Warner Bros. übernehmen
-- [SRF Schweiz] «Arena» zu Mercosur – «Das ist Erpressung, Herr Ritter» – «Nein, das ist ausgewogen»
+- [SRF Schweiz] Diskussion ums Frühfranzösisch – Französisch für die Nation: eine Schweizer Geschichte
