@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Konsolidierter IT Feed</title>
+    <title>Konsolidierter IT-FEED Feed</title>
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
-    <description>KI-gefilterter IT Newsfeed aus Google Sheets</description>
+    <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Mon, 15 Jun 2026 04:44:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:30:19 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Golem] KI-Einsatz nicht kenntlich gemacht: Handelsblatt entfernt KI-Gastbeitrag von Karsten Wildberger</title>
+      <link>https://www.golem.de/news/ki-einsatz-nicht-kenntlich-gemacht-handelsblatt-entfernt-ki-gastbeitrag-von-karsten-wildberger-2606-209755.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ki-einsatz-nicht-kenntlich-gemacht-handelsblatt-entfernt-ki-gastbeitrag-von-karsten-wildberger-2606-209755.html</guid>
+      <description><![CDATA[Wildbergers Ministerium räumt den Einsatz von KI für Gastbeiträge in Zeitungen ein und verteidigt den Einsatz. (<a href="https://www.golem.de/specials/karstenwildberger/">Karsten Wildberger</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Mon, 15 Jun 2026 05:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Firefox bietet im Sommer kostenloses VPN im Browser ohne Datenlimit</title>
+      <link>https://www.heise.de/news/Firefox-bietet-im-Sommer-kostenloses-VPN-im-Browser-ohne-Datenlimit-11331753.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11331753</guid>
+      <description><![CDATA[Das im Firefox integrierte VPN besitzt ein Datenvolumen von 50 GByte monatlich. Doch bis Ende August wurde das Limit aufgehoben und weitere Länder hinzugefügt.]]></description>
+      <pubDate>Mon, 15 Jun 2026 03:03:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Heise] Top 10: Display für Carplay und Android Auto</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-display-fuer-carplay-und-android-auto-im-test-nachruesten-ab-50-euro/xns29ee?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11331221</guid>
       <description><![CDATA[Apple Carplay und Android Auto nachrüsten: Mobile Auto-Displays sind die perfekte Lösung. Wir zeigen die besten Modelle.]]></description>
       <pubDate>Sun, 14 Jun 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Anthropic: Amazon-Alarm löste wohl Fable-Verbot aus</title>
-      <link>https://www.golem.de/news/anthropic-amazon-alarm-loeste-wohl-fable-verbot-aus-2606-209753.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/anthropic-amazon-alarm-loeste-wohl-fable-verbot-aus-2606-209753.html</guid>
-      <description><![CDATA[Ein Hinweis von Amazon-Chef Andy Jassy bei US-Regierungsbeamten hat wohl ausgereicht, um Anthropics KI-Modell Fable schnell vom Netz zu nehmen. (<a href="https://www.golem.de/specials/anthropic/">Anthropic</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Sun, 14 Jun 2026 12:04:05 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] Gewerkschaft: Italo-Züge könnten Städte vom Fernverkehr abkoppeln</title>
@@ -34,13 +41,6 @@
       <guid isPermaLink="false">https://www.golem.de/news/tesla-plastikkoepfe-im-cockpit-tricksen-aufmerksamkeitskontrolle-aus-2606-209749.html</guid>
       <description><![CDATA[Mit einer kleinen Plastikfigur kann Teslas Innenraum-Kamerasystem samt Aufmerksamkeitskontrolle überlistet werden. (<a href="https://www.golem.de/specials/autonomesfahren/">Autonomes Fahren</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
       <pubDate>Sun, 14 Jun 2026 11:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Digitalminister Wildberger ließ Reden und Gastbeiträge von KI schreiben</title>
-      <link>https://www.heise.de/news/Digitalminister-Wildberger-liess-Reden-und-Gastbeitraege-von-KI-schreiben-11331531.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11331531</guid>
-      <description><![CDATA[Manchmal teilweise, manchmal komplett – einige Beiträge von Karsten Wildberger stammen aus einem Chatbot. Sein Haus hat das bestätigt.]]></description>
-      <pubDate>Sun, 14 Jun 2026 10:33:00 GMT</pubDate>
     </item>
     <item>
       <title>[Golem] E-208: Peugeot bringt Elektro-GTI</title>
@@ -64,6 +64,13 @@
       <pubDate>Sun, 14 Jun 2026 09:11:04 GMT</pubDate>
     </item>
     <item>
+      <title>[Golem] Streaming und Kino: US-Regierung genehmigt Warner-Übernahme durch Paramount</title>
+      <link>https://www.golem.de/news/streaming-und-kino-us-regierung-genehmigt-warner-uebernahme-durch-paramount-2606-209748.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/streaming-und-kino-us-regierung-genehmigt-warner-uebernahme-durch-paramount-2606-209748.html</guid>
+      <description><![CDATA[Die US-Regierung hält die Warner-Übernahme durch Paramount für unbedenklich. Kritiker sehen das anders. (<a href="https://www.golem.de/specials/paramount/">Paramount</a>, <a href="https://www.golem.de/specials/larry-ellison/">Larry Ellison</a>)]]></description>
+      <pubDate>Sun, 14 Jun 2026 08:40:10 GMT</pubDate>
+    </item>
+    <item>
       <title>[Heise] Video: Wie weit kommt das E-Bike?</title>
       <link>https://www.heise.de/news/Video-Wie-weit-kommt-das-E-Bike-11328961.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11328961</guid>
@@ -85,11 +92,32 @@
       <pubDate>Sun, 14 Jun 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Kommentar: Die beste Werbung für alternative KI-Hersteller</title>
-      <link>https://www.heise.de/meinung/Kommentar-Die-beste-Werbung-fuer-alternative-KI-Hersteller-11331295.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11331295</guid>
-      <description><![CDATA[Wegen der US-Regierung sind die KI-Modelle Fable und Mythos weltweit gesperrt. Überschaubarer Schaden mit großem Signal, meint Heise-Redakteur Niklas Engelking.]]></description>
-      <pubDate>Sat, 13 Jun 2026 14:01:00 GMT</pubDate>
+      <title>[Heise] Top 10: Der beste KVM-Switch für PCs im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-kvm-switch-im-test-maus-tastatur-und-monitor-an-mehreren-pcs/n8lkhn3?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11331199</guid>
+      <description><![CDATA[Mit einem KVM-Switch kann man Maus, Tastatur und Monitor bequem mit mehreren Computern nutzen. Das sind die besten Modelle.]]></description>
+      <pubDate>Sat, 13 Jun 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Bundesrat will KI-Überwachung und Quick Freeze durch BKA</title>
+      <link>https://www.heise.de/news/Biometrische-Rasterfahndung-Bundesrat-will-noch-schaerfere-KI-Ueberwachung-11331325.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11331325</guid>
+      <description><![CDATA[Die Internetwirtschaft warnt vor einem „staatlichen Suchraum“ im Netz. Trotzdem rufen die Länder nach noch laxeren Hürden für den automatisierten Datenabgleich.]]></description>
+      <pubDate>Sat, 13 Jun 2026 17:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Microsoft erwägt, Xbox auszugliedern</title>
+      <link>https://www.heise.de/news/Microsoft-erwaegt-Xbox-auszugliedern-11331339.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11331339</guid>
+      <description><![CDATA[Bei Microsoft scheinen für die Marke Xbox alle Optionen auf dem Tisch – bis hin zu einer Abspaltung.]]></description>
+      <pubDate>Sat, 13 Jun 2026 16:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Schutzrechteallianz: Die fünf größten Patentämter forcieren den KI-Einsatz</title>
+      <link>https://www.heise.de/news/Schutzrechteallianz-Die-fuenf-groessten-Patentaemter-forcieren-den-KI-Einsatz-11331321.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11331321</guid>
+      <description><![CDATA[Das Europäische Patentamt und seine Partner reformieren die Patentprüfung. Künstliche Intelligenz soll Effizienz, Qualität und Harmonisierung weltweit steigern.]]></description>
+      <pubDate>Sat, 13 Jun 2026 15:56:00 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] Carpodgo Mini im Test: Winziges Display für Carplay und Android Auto</title>
@@ -141,6 +169,13 @@
       <pubDate>Sat, 13 Jun 2026 10:10:04 GMT</pubDate>
     </item>
     <item>
+      <title>[Golem] Nationale Sicherheit: Anthropic schaltet Top-KI auf Anordnung der USA ab</title>
+      <link>https://www.golem.de/news/nationale-sicherheit-anthropic-schaltet-top-ki-auf-anordnung-der-usa-ab-2606-209741.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/nationale-sicherheit-anthropic-schaltet-top-ki-auf-anordnung-der-usa-ab-2606-209741.html</guid>
+      <description><![CDATA[Die US-Regierung hat den Zugang zu Anthropics leistungsfähigster KI eingeschränkt. Das Unternehmen schaltete die Systeme daraufhin weltweit ab. (<a href="https://www.golem.de/specials/anthropic/">Anthropic</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Sat, 13 Jun 2026 09:30:03 GMT</pubDate>
+    </item>
+    <item>
       <title>[Heise] Ex-Krypto-König Bankman-Fried scheitert mit Berufungsantrag</title>
       <link>https://www.heise.de/news/Ex-Krypto-Koenig-Bankman-Fried-scheitert-mit-Berufungsantrag-11331185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11331185</guid>
@@ -160,13 +195,6 @@
       <guid isPermaLink="false">https://www.golem.de/news/elon-musk-spacex-legt-zum-boersenstart-kraeftig-vor-2606-209740.html</guid>
       <description><![CDATA[Der größte Börsengang der Geschichte ist geglückt: SpaceX steigt in die Liga der wertvollsten Konzerne der Welt auf. (<a href="https://www.golem.de/specials/spacex/">SpaceX</a>, <a href="https://www.golem.de/specials/boerse/">Börse</a>)]]></description>
       <pubDate>Sat, 13 Jun 2026 08:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] KI-Bearbeitung bei Apple und Warnlicht für Brillen – Fotonews der Woche 24/2026</title>
-      <link>https://www.heise.de/news/KI-Bearbeitung-bei-Apple-und-Warnlicht-fuer-Brillen-Fotonews-der-Woche-24-2026-11330555.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11330555</guid>
-      <description><![CDATA[Apple spendiert seiner Fotos-App drei KI-Tools. Meta löscht Gesichtserkennung aus Ray-Ban-Brillen. US-Gesetz fordert Aufnahme-Warnlicht für Smart Glasses.]]></description>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
       <title>[Golem] Fifa World Cup ausprobiert: Fußball-WM ist für Netflix-Abonnenten spielbar</title>
