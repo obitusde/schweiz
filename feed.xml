@@ -5,21 +5,56 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sun, 14 Jun 2026 19:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 04:30:35 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Schweiz] Neues Sanierungsverfahren – Zweite Chance: Schuldenschnitt bringt Hoffnung für Betroffene</title>
-      <link>https://www.srf.ch/news/gesellschaft/neues-sanierungsverfahren-zweite-chance-schuldenschnitt-bringt-hoffnung-fuer-betroffene</link>
-      <guid isPermaLink="false">urn:srf:article:019ebb05-fbf5-2483-c65b-9ef2394d2148</guid>
-      <description><![CDATA[Das Parlament macht den Weg frei für eine neue Schuldenregelung. Eine Betroffene erzählt, was das bedeutet.]]></description>
-      <pubDate>Sun, 14 Jun 2026 19:02:35 GMT</pubDate>
+      <title>[SRF Wirtschaft] Nahost-Krise – «Wir haben sechs Schiffe, die blockiert sind»</title>
+      <link>https://www.srf.ch/news/international/nahost/nahost-krise-wir-haben-sechs-schiffe-die-blockiert-sind</link>
+      <guid isPermaLink="false">urn:srf:article:019ec01f-8e2a-d70b-d578-492cf0e2c7d3</guid>
+      <description><![CDATA[Ameropa aus dem Baselbiet ist der weltgrösste Düngerhändler. Er erleidet Millionenverluste wegen des Nahost-Konflikts.]]></description>
+      <pubDate>Mon, 15 Jun 2026 04:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Schul-Chaos führt zur Stigmatisierung einer Schülerin</title>
+      <link>https://www.20min.ch/fr/story/vaud-le-cafouillage-de-l-ecole-provoque-la-stigmatisation-d-une-eleve-103582393</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-le-cafouillage-de-l-ecole-provoque-la-stigmatisation-d-une-eleve-103582393</guid>
+      <description><![CDATA[Die Schulleitung verbot ihr wegen eines Gerichtsverfahrens die Teilnahme am Lager. Die Entscheidung sorgte für Kontroversen und die Wut der Eltern, bevor die Schule einen Rückzieher machte.]]></description>
+      <pubDate>Mon, 15 Jun 2026 04:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen 14. Juli – Das war der Abstimmungssonntag – ein Überblick</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-14-juli-das-war-der-abstimmungssonntag-ein-ueberblick</link>
+      <guid isPermaLink="false">urn:srf:article:019ec566-b7cd-904b-5c7e-7399db1868c9</guid>
+      <description><![CDATA[Die eidgenössischen Vorlagen – insbesondere die «Keine 10-Mio-Schweiz» – haben überdurchschnittlich mobilisiert.]]></description>
+      <pubDate>Mon, 15 Jun 2026 03:28:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Krieg im Nahen Osten – USA und Iran einigen sich auf Friedensabkommen – das ist bekannt</title>
+      <link>https://www.srf.ch/news/international/krieg-im-nahen-osten-usa-und-iran-einigen-sich-auf-friedensabkommen-das-ist-bekannt-1</link>
+      <guid isPermaLink="false">urn:srf:article:019ec851-7741-58ec-68b8-d0de68e394c7</guid>
+      <description><![CDATA[Die beiden Kriegsparteien haben sich auf die sofortige Beendigung aller Kampfhandlungen an allen Fronten geeinigt.]]></description>
+      <pubDate>Mon, 15 Jun 2026 01:58:25 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] G7-Gipfel – Grossdemo in Genf ++ Vereinzelte Krawalle</title>
       <link>https://www.srf.ch/news/schweiz/g7-gipfel-grossdemo-in-genf-vereinzelte-krawalle</link>
       <guid isPermaLink="false">urn:srf:article:019ec64f-d766-5d9c-1ef6-2baf9a2497d8</guid>
       <description><![CDATA[Zehntausende beteiligten sich friedlich an der Kundgebung. Vereinzelt kam es auch zu Ausschreitungen.]]></description>
-      <pubDate>Sun, 14 Jun 2026 18:59:49 GMT</pubDate>
+      <pubDate>Sun, 14 Jun 2026 21:07:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Investieren als Engagement – Sie kaufen Wald, um ihn zu schützen</title>
+      <link>https://www.srf.ch/news/dialog/investieren-als-engagement-sie-kaufen-wald-um-ihn-zu-schuetzen</link>
+      <guid isPermaLink="false">urn:srf:article:019eb610-ab60-0355-66d8-9ee918876d27</guid>
+      <description><![CDATA[Ein Drittel des Schweizer Waldes ist in privater Hand. Manchen Eigentümern geht es dabei nicht ums Geld.]]></description>
+      <pubDate>Sun, 14 Jun 2026 20:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Neues Sanierungsverfahren – Zweite Chance: Schuldenschnitt bringt Hoffnung für Betroffene</title>
+      <link>https://www.srf.ch/news/gesellschaft/neues-sanierungsverfahren-zweite-chance-schuldenschnitt-bringt-hoffnung-fuer-betroffene</link>
+      <guid isPermaLink="false">urn:srf:article:019ebb05-fbf5-2483-c65b-9ef2394d2148</guid>
+      <description><![CDATA[Das Parlament macht den Weg frei für eine neue Schuldenregelung. Eine Betroffene erzählt, was das bedeutet.]]></description>
+      <pubDate>Sun, 14 Jun 2026 19:02:35 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Wissen] Tierbilder im Mittelalter – Vom Bestiarium zur Wissenschaft: Wie Tiermythen entstanden sind</title>
@@ -29,32 +64,11 @@
       <pubDate>Sun, 14 Jun 2026 18:27:10 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] «Keine 10-Mio-Schweiz» – Problem erkannt, Lösung überzeugt nicht</title>
-      <link>https://www.srf.ch/news/schweiz/keine-10-mio-schweiz-problem-erkannt-loesung-ueberzeugt-nicht</link>
-      <guid isPermaLink="false">urn:srf:article:019ec742-1760-9fa4-388c-42f681949e3e</guid>
-      <description><![CDATA[Die SVP-Initiative hat bewegt – und zwar massiv. Für die Mehrheit bei Volk und Ständen hat es aber nicht gereicht.]]></description>
-      <pubDate>Sun, 14 Jun 2026 18:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Tränen, Schreie und Wut: Die turbulente Anhörung des Ehepaars Moretti</title>
-      <link>https://www.20min.ch/fr/story/tragedie-de-crans-montana-pleurs-cris-et-colere-l-audition-tumultueuse-du-couple-moretti-103582331</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/tragedie-de-crans-montana-pleurs-cris-et-colere-l-audition-tumultueuse-du-couple-moretti-103582331</guid>
-      <description><![CDATA[Jessica Moretti brach während einer hitzigen Anhörung in Tränen aus, die von Schreien, Ordnungsrufen und Anschuldigungen der Anwälte der Opfer geprägt war.]]></description>
-      <pubDate>Sun, 14 Jun 2026 18:18:36 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Schweiz] Abstimmungen 14. Juni 2026 – So hat die Schweiz abgestimmt – in Grafiken</title>
       <link>https://www.srf.ch/news/schweiz/abstimmungen-14-juni-2026-so-hat-die-schweiz-abgestimmt-in-grafiken</link>
       <guid isPermaLink="false">urn:srf:article:019eacfa-b271-96a5-9649-815e6ccbcabc</guid>
       <description><![CDATA[Die eidgenössischen Vorlagen und regionalen Resultate auf einen Blick.]]></description>
       <pubDate>Sun, 14 Jun 2026 17:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Präsidentenrunde – Kein Bevölkerungsdeckel – aber auch keiner auf die Debatte</title>
-      <link>https://www.srf.ch/news/schweiz/praesidentenrunde-kein-bevoelkerungsdeckel-aber-auch-keiner-auf-die-debatte</link>
-      <guid isPermaLink="false">urn:srf:article:019ec5a7-c9bd-bff7-4974-3165fc9a2144</guid>
-      <description><![CDATA[Die SVP-Initiative ist gescheitert. Doch die Parteipräsidenten blicken bereits voraus: auf den Kampf um die EU-Verträge.]]></description>
-      <pubDate>Sun, 14 Jun 2026 17:31:13 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Zu Trumps 80. Geburtstag – Kampf-Spektakel vor dem Weissen Haus – Fans sind begeistert</title>
@@ -71,32 +85,18 @@
       <pubDate>Sun, 14 Jun 2026 16:38:38 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Die heutigen Abstimmungsresultate auf einen Blick</title>
+      <title>[20 Min Romandie] Die Ergebnisse des Tages auf einen Blick</title>
       <link>https://www.20min.ch/fr/story/votations-du-14-juin-retrouvez-les-resultats-du-jour-en-un-clin-d-oeil-103582654</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/votations-du-14-juin-retrouvez-les-resultats-du-jour-en-un-clin-d-oeil-103582654</guid>
-      <description><![CDATA[Vom Zivildienst über den Mindestlohn bis hin zur Laizität und den Rechten älterer Menschen: Ein kurzer Überblick über die wichtigsten Ergebnisse dieses Abstimmungssonntags.]]></description>
+      <description><![CDATA[Vom Zivildienst über den Mindestlohn bis hin zur Säkularisierung und den Rechten der Senioren: ein kurzer Überblick über die wichtigsten Ergebnisse des heutigen Abstimmungssonntags.]]></description>
       <pubDate>Sun, 14 Jun 2026 16:23:55 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Zivildienstgesetz – Ja zur Reform, aber kein Freipass für weitere Verschärfungen</title>
-      <link>https://www.srf.ch/news/schweiz/zivildienstgesetz-ja-zur-reform-aber-kein-freipass-fuer-weitere-verschaerfungen</link>
-      <guid isPermaLink="false">urn:srf:article:019ec632-d261-6380-3aa8-b8488193dee7</guid>
-      <description><![CDATA[Das Abstimmungsresultat zeigt, dass der Zivildienst verankert ist. Weitere Verschärfungen könnten es schwerer haben.]]></description>
-      <pubDate>Sun, 14 Jun 2026 16:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Abstimmung 14. Juni 2026 – Wie hat Ihre Gemeinde an der Urne entschieden?</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmung-14-juni-2026-wie-hat-ihre-gemeinde-an-der-urne-entschieden</link>
-      <guid isPermaLink="false">urn:srf:article:019eacc9-63ad-ed94-0755-3b5bcb34b4da</guid>
-      <description><![CDATA[Die nationalen Vorlagen auf einen Blick – mit den Ergebnissen nach Gemeinden.]]></description>
-      <pubDate>Sun, 14 Jun 2026 16:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wölfe gesichtet – Der Wolf ist zurück im Baselbiet: Bauer sorgt sich um seine Tiere</title>
-      <link>https://www.srf.ch/news/schweiz/woelfe-gesichtet-der-wolf-ist-zurueck-im-baselbiet-bauer-sorgt-sich-um-seine-tiere</link>
-      <guid isPermaLink="false">urn:srf:article:019eab89-8113-4e0b-c412-5552c851d9df</guid>
-      <description><![CDATA[Im Baselbiet ist erneut ein Wolf gesichtet worden. Die Landwirtschaft fürchtet um ihre Tiere und fordert Massnahmen.]]></description>
-      <pubDate>Sun, 14 Jun 2026 16:01:11 GMT</pubDate>
+      <title>[SRF Schweiz] Abstimmungen vom 14. Juni – Der Wechsel vom Militär in den Zivildienst wird erschwert</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-vom-14-juni-der-wechsel-vom-militaer-in-den-zivildienst-wird-erschwert</link>
+      <guid isPermaLink="false">urn:srf:article:019e8c3d-ebc9-027e-9830-2ca4028f4ff8</guid>
+      <description><![CDATA[Die Schweizer Stimmbevölkerung stimmt mit 52.5 Prozent zu 47.5 Prozent für eine Änderung des Zivildienstgesetzes.]]></description>
+      <pubDate>Sun, 14 Jun 2026 16:10:50 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Gleichstellung – «Immer no hässig» – Schweizweit Tausende am feministischen Streik</title>
@@ -113,10 +113,10 @@
       <pubDate>Sun, 14 Jun 2026 15:02:20 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Äxte, Feuerwerkskörper, Schlagstöcke: Das von der Polizei beschlagnahmte Arsenal</title>
+      <title>[20 Min Romandie] Äxte, Feuerwerkskörper, Schlagstöcke: das von der Polizei beschlagnahmte Arsenal</title>
       <link>https://www.20min.ch/fr/story/sommet-du-g7-haches-petards-matraques-l-arsenal-saisi-par-la-police-103582618</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/sommet-du-g7-haches-petards-matraques-l-arsenal-saisi-par-la-police-103582618</guid>
-      <description><![CDATA[Während die Anti-G7-Demonstration anlief, stellte die Polizei zahlreiche als gefährlich eingestufte Gegenstände sicher, darunter pyrotechnische Geräte und Äxte.]]></description>
+      <description><![CDATA[Während die Anti-G7-Demonstration anlief, stellte die Polizei zahlreiche als gefährlich eingestufte Gegenstände sicher, darunter viele pyrotechnische Geräte und Äxte.]]></description>
       <pubDate>Sun, 14 Jun 2026 13:49:25 GMT</pubDate>
     </item>
     <item>
@@ -127,10 +127,10 @@
       <pubDate>Sun, 14 Jun 2026 13:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Nur positive Noten zur Feier des 25-jährigen Jubiläums von Festi'neuch</title>
+      <title>[20 Min Romandie] Nur positive Noten zur Feier von 25 Jahren Festi'neuch</title>
       <link>https://www.20min.ch/fr/story/neuchatel-que-des-notes-positives-pour-feter-les-25-ans-de-festi-neuch-103582533</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/neuchatel-que-des-notes-positives-pour-feter-les-25-ans-de-festi-neuch-103582533</guid>
-      <description><![CDATA[Das Festival feierte sein Jubiläum bei strahlendem Sonnenschein. Bereits vor der Eröffnung ausverkauft, freut sich die grosse Veranstaltung am Seeufer über diesen Erfolg auf allen Ebenen.]]></description>
+      <description><![CDATA[Das Festival feierte sein Jubiläum unter strahlender Sonne. Schon vor der Eröffnung ausverkauft, freut sich das grosse Spektakel am Seeufer über diesen Erfolg auf allen Ebenen.]]></description>
       <pubDate>Sun, 14 Jun 2026 13:20:12 GMT</pubDate>
     </item>
     <item>
@@ -148,18 +148,25 @@
       <pubDate>Sun, 14 Jun 2026 12:55:54 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Linie Bussigny–Yverdon wegen eines Brandes gestört</title>
+      <title>[20 Min Romandie] Linie Bussigny–Yverdon wegen eines Brandes unterbrochen</title>
       <link>https://www.20min.ch/fr/story/canton-de-vaud-un-incendie-perturbe-la-ligne-bussignyyverdon-103582530</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-un-incendie-perturbe-la-ligne-bussignyyverdon-103582530</guid>
       <description><![CDATA[Der Bahnverkehr zwischen Ependes VD und Yverdon-les-Bains wurde am Sonntagnachmittag wegen eines Brandes in Gleisnähe komplett unterbrochen.]]></description>
       <pubDate>Sun, 14 Jun 2026 12:48:26 GMT</pubDate>
     </item>
     <item>
-      <title>[RTS Vaud] Waadtländer Bevölkerung verankert das Prinzip eines Mindestlohns in der Verfassung</title>
+      <title>[RTS Vaud] Waadtländer Bevölkerung nimmt Verankerung des Mindestlohns in der Verfassung an</title>
       <link>https://www.rts.ch/info/regions/vaud/2026/article/vaud-vote-un-salaire-minimum-dans-sa-constitution-mais-rejette-les-lois-29273663.html?rts_source=rss_t</link>
       <guid isPermaLink="false">29273663</guid>
-      <description><![CDATA[Der Kanton Waadt hat am Sonntag ein unterschiedliches Urteil zur Einführung eines Mindestlohns gefällt. Die Bevölkerung hat das Prinzip in der Verfassung angenommen, aber die dazugehörigen Gesetzesentwürfe abgelehnt.]]></description>
+      <description><![CDATA[Der Kanton Waadt hat am Sonntag ein kontrastreiches Urteil zur Einführung eines Mindestlohns gefällt. Die Bevölkerung stimmte dafür, diesen Grundsatz in der Verfassung zu verankern, lehnte jedoch die dazugehörigen Gesetzesentwürfe ab.]]></description>
       <pubDate>Sun, 14 Jun 2026 12:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Aubonne hat entschieden: Der Weg von Bougy-Saint-Martin wird verkauft</title>
+      <link>https://journaldemorges.ch/actualite/societe/aubonne-a-tranche-le-chemin-de-bougy-saint-martin-sera-vendu/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/aubonne-a-tranche-le-chemin-de-bougy-saint-martin-sera-vendu/</guid>
+      <description><![CDATA[Die Einwohner von Aubonne waren am Sonntag an die Urnen gerufen, um über den Verkauf des öffentlichen Weges an Philippe Amon zu entscheiden. Die Wähler unterstützten die Entscheidung des Gemeinderates mit 61 %. Der Verkauf kann stattfinden.]]></description>
+      <pubDate>Sun, 14 Jun 2026 12:01:12 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Challenge im Klassenlager – Jedes Gramm zählt: So kämpfen diese Kinder gegen Food Waste</title>
@@ -169,14 +176,14 @@
       <pubDate>Sun, 14 Jun 2026 11:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] Aufstieg und Erfolg für Saint-Prex gesichert!</title>
+      <title>[Journal de Morges] Aufstieg und Erfolg für Saint-Prex in der Tasche!</title>
       <link>https://journaldemorges.ch/sports/un-bijou-dantonio-lance-st-prex-vers-la-promotion/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/sports/un-bijou-dantonio-lance-st-prex-vers-la-promotion/</guid>
-      <description><![CDATA[Es ist geschafft! Saint-Prex hat seinen historischen Aufstieg in die Promotion League gesichert, indem es Servette keine Chance liess. Die Freude beim Verein aus dem Bezirk ist riesig, da dies der zweite Aufstieg innerhalb eines Jahres ist.]]></description>
+      <description><![CDATA[Es ist geschafft! Saint-Prex hat seinen historischen Aufstieg in die Promotion League gesichert, indem es Servette keine Chance liess. Die Freude im Club des Bezirks ist riesig, da dies der zweite Aufstieg innerhalb eines Jahres ist!]]></description>
       <pubDate>Sun, 14 Jun 2026 11:46:12 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges Actualitiés] Ergebnisse der Abstimmungen vom 14. Juni 2026 in Morges</title>
+      <title>[Morges Actualitiés] Abstimmungsergebnisse vom 14. Juni 2026 in Morges</title>
       <link>https://www.morges.ch/actualites/resultats-des-votations-du-14-juin-2026-a-morges-213180</link>
       <guid isPermaLink="false">https://www.morges.ch/actualites/resultats-des-votations-du-14-juin-2026-a-morges-213180</guid>
       <description />
@@ -197,17 +204,17 @@
       <pubDate>Sun, 14 Jun 2026 10:44:46 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Laizität und sonntags geöffnete Geschäfte: Genf sagt zweimal Ja</title>
+      <title>[20 Min Romandie] Säkularisierung und Sonntagsverkauf: Genf sagt zweimal Ja</title>
       <link>https://www.20min.ch/fr/story/votations-du-14-juin-laicite-et-magasins-ouverts-le-dimanche-geneve-dit-deux-fois-oui-103581047</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/votations-du-14-juin-laicite-et-magasins-ouverts-le-dimanche-geneve-dit-deux-fois-oui-103581047</guid>
-      <description><![CDATA[Die Genfer Wähler haben zwei von der Rechten unterstützte Vorlagen angenommen: mehr Sonntagsöffnungen für Geschäfte und die religiöse Neutralität von gewählten Amtsträgern.]]></description>
+      <description><![CDATA[Die Genfer Wähler haben zwei von der Rechten unterstützte Vorlagen angenommen: mehr Sonntagsöffnungen für Geschäfte und die religiöse Neutralität der gewählten Volksvertreter.]]></description>
       <pubDate>Sun, 14 Jun 2026 10:30:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] Sieg und Katastrophenspiel in Veyron-Venoge abgebrochen!</title>
+      <title>[Journal de Morges] Sieg und Spielabbruch nach Ausschreitungen in Veyron-Venoge!</title>
       <link>https://journaldemorges.ch/sports/victoire-et-match-catastrophe-arrete-a-veyron-venoge/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/sports/victoire-et-match-catastrophe-arrete-a-veyron-venoge/</guid>
-      <description><![CDATA[Drei rote Karten und das Stürmen des Spielfelds durch das Publikum von Turc Lausanne veranlassten den Schiedsrichter, das erste Spiel der Finalrunde aus Sicherheitsgründen abzubrechen.]]></description>
+      <description><![CDATA[Drei rote Karten und das Stürmen des Spielfelds durch das Publikum von Turc Lausanne zwangen den Schiedsrichter, das erste Spiel des Finales aus Sicherheitsgründen abzubrechen.]]></description>
       <pubDate>Sun, 14 Jun 2026 10:16:49 GMT</pubDate>
     </item>
     <item>
@@ -239,6 +246,13 @@
       <pubDate>Sun, 14 Jun 2026 09:01:18 GMT</pubDate>
     </item>
     <item>
+      <title>[20 Min Romandie] Ruhige und festliche nächtliche Stimmung vor der NoG7-Demo</title>
+      <link>https://www.20min.ch/fr/story/geneve-ambiance-nocturne-calme-et-festive-en-prelude-a-la-manif-nog7-103582315</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-ambiance-nocturne-calme-et-festive-en-prelude-a-la-manif-nog7-103582315</guid>
+      <description><![CDATA[Die Polizei meldete in der Nacht von Samstag auf Sonntag keine Zwischenfälle im Zusammenhang mit dem Widerstand gegen den Gipfel in Évian. Die grosse Anti-G7-Demonstration beginnt um 15:15 Uhr.]]></description>
+      <pubDate>Sun, 14 Jun 2026 08:36:26 GMT</pubDate>
+    </item>
+    <item>
       <title>[SRF Gesellschaft] Radikale Vordenkerinnen – Saint-Simonistinnen: Die Urururur-Grossmütter des Feminismus</title>
       <link>https://www.srf.ch/kultur/gesellschaft-religion/radikale-vordenkerinnen-saint-simonistinnen-die-urururur-grossmuetter-des-feminismus</link>
       <guid isPermaLink="false">urn:srf:article:019eb144-b445-b047-2340-8297ec373561</guid>
@@ -249,7 +263,7 @@
       <title>[20 Min Romandie] Schwarze Blöcke: Wer sind diese maskierten und schwarz gekleideten Aktivisten?</title>
       <link>https://www.20min.ch/fr/story/sommet-du-g7-black-blocs-qui-sont-ces-militants-masques-et-habilles-en-noir-103582296</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/sommet-du-g7-black-blocs-qui-sont-ces-militants-masques-et-habilles-en-noir-103582296</guid>
-      <description><![CDATA[Angesichts des G7-Gipfels befürchten die Behörden deren Präsenz bei den in Genf geplanten Demonstrationen. Wer sind diese Aktivisten, die auf harte Aktionen und Geheimhaltung setzen?]]></description>
+      <description><![CDATA[Im Vorfeld des G7-Gipfels befürchten die Behörden deren Anwesenheit bei den in Genf geplanten Demonstrationen. Wer sind diese Aktivisten, die auf harte Aktionen und Geheimhaltung setzen?]]></description>
       <pubDate>Sun, 14 Jun 2026 07:27:31 GMT</pubDate>
     </item>
     <item>
@@ -281,7 +295,7 @@
       <pubDate>Sun, 14 Jun 2026 05:30:40 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Mann nach Besuch in der Region Chillon verschwunden</title>
+      <title>[20 Min Romandie] Ein Mann verschwindet nach einem Besuch in der Region Chillon</title>
       <link>https://www.20min.ch/fr/story/vaud-un-homme-disparait-apres-une-visite-dans-la-region-de-chillon-103582064</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-un-homme-disparait-apres-une-visite-dans-la-region-de-chillon-103582064</guid>
       <description><![CDATA[Ein 60-jähriger Niederländer wird seit Freitag vermisst. Er hat keine Nachricht hinterlassen und bleibt unauffindbar.]]></description>
@@ -302,17 +316,17 @@
       <pubDate>Sat, 13 Jun 2026 18:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] Feministischer Streik im Zeichen von No-G7 und grosser Hitze</title>
+      <title>[20 Min Romandie] Feministischer Streik im Zeichen von No-G7 und praller Sonne</title>
       <link>https://www.20min.ch/fr/story/lausanne-la-greve-feministe-sous-le-signe-du-no-g7-et-d-un-soleil-de-plomb-103581765</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-la-greve-feministe-sous-le-signe-du-no-g7-et-d-un-soleil-de-plomb-103581765</guid>
-      <description><![CDATA[Mehrere tausend Menschen zogen am Samstag laut den Organisatorinnen durch die Strassen der Waadtländer Hauptstadt. Auch der G7-Gipfel fand Eingang in den Umzug.]]></description>
+      <description><![CDATA[Laut den Organisatorinnen zogen am Samstag mehrere tausend Personen durch die Strassen der Waadtländer Hauptstadt. Auch der G7-Gipfel fand Eingang in den Demonstrationszug.]]></description>
       <pubDate>Sat, 13 Jun 2026 17:59:56 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] «Um 8:15 Uhr ist alles voll»: Die Plätze in der Bibliothek sind begehrt</title>
+      <title>[20 Min Romandie] «Um 8:15 Uhr ist es voll»: Plätze in der Bibliothek sind rar</title>
       <link>https://www.20min.ch/fr/story/universite-de-fribourg-a-8h15-c-est-plein-les-places-sont-cheres-a-la-bibliotheque-103581729</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/universite-de-fribourg-a-8h15-c-est-plein-les-places-sont-cheres-a-la-bibliotheque-103581729</guid>
-      <description><![CDATA[Mitten in der Prüfungsphase wurden in der Bibliothek der Rechtswissenschaftlichen Fakultät mehr als 100 Plätze gestrichen. Die Studierenden müssen nun früh anstehen.]]></description>
+      <description><![CDATA[Mitten in der Prüfungsphase wurden in der Bibliothek der Rechtswissenschaftlichen Fakultät mehr als 100 Plätze gestrichen. Die Studierenden müssen nun früh Schlange stehen.]]></description>
       <pubDate>Sat, 13 Jun 2026 17:46:36 GMT</pubDate>
     </item>
     <item>
@@ -326,28 +340,28 @@
       <title>[20 Min Romandie] Kann man ein Gemälde schmecken? Ein Sternekoch hat das Experiment gewagt</title>
       <link>https://www.20min.ch/fr/story/lausanne-peut-on-gouter-un-tableau-un-chef-etoile-a-tente-l-experience-103581121</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-peut-on-gouter-un-tableau-un-chef-etoile-a-tente-l-experience-103581121</guid>
-      <description><![CDATA[Zum 30-jährigen Jubiläum des Schweizer Museumspasses kreierte der Michelin-Sternekoch Christophe Schmitt drei Häppchen, die von Werken des Kantonalen Kunstmuseums in Lausanne inspiriert sind.]]></description>
+      <description><![CDATA[Zum 30-jährigen Jubiläum des Schweizer Museumspasses hat der Sternekoch Christophe Schmitt drei Häppchen kreiert, die von Werken des Musée cantonal des Beaux-Arts in Lausanne inspiriert sind.]]></description>
       <pubDate>Sat, 13 Jun 2026 16:56:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Grosseinsatz wegen eines Brandes von Solarpaneelen in Meinier</title>
+      <link>https://www.20min.ch/fr/story/geneve-grosse-operation-pour-un-feu-de-panneaux-solaires-a-meinier-103581853</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-grosse-operation-pour-un-feu-de-panneaux-solaires-a-meinier-103581853</guid>
+      <description><![CDATA[Eine Photovoltaikanlage auf dem Dach eines Gebäudes im Dorfzentrum geriet an diesem Samstagnachmittag in Brand. Die Feuerwehr rückte massiv aus.]]></description>
+      <pubDate>Sat, 13 Jun 2026 16:01:13 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Die Protest-Flottille von Lausanne aus gefilmt</title>
       <link>https://www.20min.ch/fr/video/sommet-du-g7-la-flottille-de-protestation-filmee-depuis-lausanne-103581856</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/video/sommet-du-g7-la-flottille-de-protestation-filmee-depuis-lausanne-103581856</guid>
-      <description><![CDATA[Eine Flottille von etwa zwanzig Booten demonstrierte am Samstag auf dem Genfersee vor Evian. Die Teilnehmer protestierten gegen den Krieg in Gaza und die Durchführung des G7-Gipfels.]]></description>
+      <description><![CDATA[Eine Flottille von etwa zwanzig Booten demonstrierte am Samstag auf dem Genfersee gegenüber von Evian. Die Teilnehmer protestierten gegen den Krieg in Gaza und die Durchführung des G7-Gipfels.]]></description>
       <pubDate>Sat, 13 Jun 2026 15:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Rahmen für Friedenserklärung – Wie realistisch ist ein baldiges Iran-USA-Abkommen?</title>
-      <link>https://www.srf.ch/news/international/rahmen-fuer-friedenserklaerung-wie-realistisch-ist-ein-baldiges-iran-usa-abkommen</link>
-      <guid isPermaLink="false">urn:srf:article:019ec185-1aac-21ee-990f-6f59d3379843</guid>
-      <description><![CDATA[Nicht zum ersten Mal steht angeblich eine Einigung zwischen den USA und Iran kurz bevor – wie das einzuschätzen ist.]]></description>
-      <pubDate>Sat, 13 Jun 2026 15:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Genf verbarrikadiert sich, die Kunst lädt sich auf die Absperrzäune ein</title>
+      <title>[20 Min Romandie] Genf verbarrikadiert sich, die Kunst lädt sich auf die Bauzäune ein</title>
       <link>https://www.20min.ch/fr/story/sommet-du-g7-geneve-se-barricade-l-art-s-invite-sur-les-palissades-103581829</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/sommet-du-g7-geneve-se-barricade-l-art-s-invite-sur-les-palissades-103581829</guid>
-      <description><![CDATA[Die zur Sicherung der Innenstadt errichteten Absperrzäune verwandeln sich nach und nach in Ausdrucksflächen. Zeichnungen, Botschaften und Anspielungen häufen sich.]]></description>
+      <description><![CDATA[Die zur Sicherung der Innenstadt installierten Bauzäune verwandeln sich nach und nach in Ausdrucksflächen. Zeichnungen, Botschaften und Anspielungen häufen sich dort.]]></description>
       <pubDate>Sat, 13 Jun 2026 15:42:36 GMT</pubDate>
     </item>
     <item>
@@ -370,6 +384,13 @@
       <guid isPermaLink="false">urn:srf:article:019ebc20-0536-62d2-3412-562550de0082</guid>
       <description><![CDATA[Viele Firmen aus der Schweiz sind im Weltraumgeschäft tätig und profitieren vom Börsengang von SpaceX.]]></description>
       <pubDate>Sat, 13 Jun 2026 14:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Die etwas anderen News – König Infantino und King Donald</title>
+      <link>https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-koenig-infantino-und-king-donald</link>
+      <guid isPermaLink="false">urn:srf:article:019ebafb-3df0-a4fc-006c-0049ec773ef9</guid>
+      <description><![CDATA[Eine Fussball-WM, an der alles grösser ist als je zuvor. Auch die Egos zweier ach so starker Männer. Kann das gutgehen?]]></description>
+      <pubDate>Sat, 13 Jun 2026 14:17:23 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] G7-Gipfel in Evian – Ernte bedroht: Genfer Bauern kämpfen für offene Grenze</title>
@@ -414,6 +435,13 @@
       <pubDate>Sat, 13 Jun 2026 08:59:45 GMT</pubDate>
     </item>
     <item>
+      <title>[20 Min Romandie] Pétanque-Kugeln unter Hochspannung vor dem G7-Gipfel</title>
+      <link>https://www.20min.ch/fr/story/canton-de-geneve-des-boules-de-petanque-sous-haute-surveillance-avant-le-g7-103581724</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-geneve-des-boules-de-petanque-sous-haute-surveillance-avant-le-g7-103581724</guid>
+      <description><![CDATA[Vor den Anti-G7-Demonstrationen bestätigt die Genfer Polizei verdächtige Bestellversuche, insbesondere Sturmhauben und Pétanque-Kugeln.]]></description>
+      <pubDate>Sat, 13 Jun 2026 08:36:42 GMT</pubDate>
+    </item>
+    <item>
       <title>[SRF Wissen] Rekordbefall – Giftige Raupen dieses Jahr so häufig wie noch nie</title>
       <link>https://www.srf.ch/wissen/natur-tiere/rekordbefall-giftige-raupen-dieses-jahr-so-haeufig-wie-noch-nie</link>
       <guid isPermaLink="false">urn:srf:article:019eb6e3-99a7-4b05-ed78-6381cbac8e72</guid>
@@ -431,7 +459,7 @@
       <title>[20 Min Romandie] Telearbeit: Sind die Waadtländer Chefs zu starr?</title>
       <link>https://www.20min.ch/fr/story/canton-de-vaud-teletravail-les-patrons-vaudois-sont-ils-trop-rigides-103581703</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-teletravail-les-patrons-vaudois-sont-ils-trop-rigides-103581703</guid>
-      <description><![CDATA[Laut einer Studie scheinen viele Arbeitgeber gegen den Strom der neuen Erwartungen der Arbeitswelt zu schwimmen. Dies birgt das Risiko, Rekrutierungen zu erschweren.]]></description>
+      <description><![CDATA[Einer Studie zufolge scheinen viele Arbeitgeber gegen den Strom der neuen Erwartungen in der Arbeitswelt zu schwimmen – auf die Gefahr hin, ihre Rekrutierung zu erschweren.]]></description>
       <pubDate>Sat, 13 Jun 2026 07:09:49 GMT</pubDate>
     </item>
     <item>
@@ -449,18 +477,11 @@
       <pubDate>Sat, 13 Jun 2026 05:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Fusion der Hollywood-Giganten – US-Justizministerium: Paramount darf Warner Bros. übernehmen</title>
-      <link>https://www.srf.ch/news/international/fusion-der-hollywood-giganten-us-justizministerium-paramount-darf-warner-bros-uebernehmen</link>
-      <guid isPermaLink="false">urn:srf:article:019ebe41-0f67-1b19-c36d-76334cd58437</guid>
-      <description><![CDATA[Das US-Justizministerium hat die Übernahme von Warner Bros. durch Paramount genehmigt. Endgültig ist es aber nicht.]]></description>
-      <pubDate>Sat, 13 Jun 2026 01:12:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] «Arena» zu Mercosur – «Das ist Erpressung, Herr Ritter» – «Nein, das ist ausgewogen»</title>
-      <link>https://www.srf.ch/news/schweiz/arena-zu-mercosur-das-ist-erpressung-herr-ritter-nein-das-ist-ausgewogen</link>
-      <guid isPermaLink="false">urn:srf:article:019ebbe1-2bc3-222a-e342-622f313e2c90</guid>
-      <description><![CDATA[Nächste Woche entscheidet der Nationalrat über ein neues Freihandelsabkommen mit den Mercosur-Staaten.]]></description>
-      <pubDate>Fri, 12 Jun 2026 20:57:53 GMT</pubDate>
+      <title>[SRF Schweiz] Diskussion ums Frühfranzösisch – Französisch für die Nation: eine Schweizer Geschichte</title>
+      <link>https://www.srf.ch/news/schweiz/diskussion-ums-fruehfranzoesisch-franzoesisch-fuer-die-nation-eine-schweizer-geschichte</link>
+      <guid isPermaLink="false">urn:srf:article:019eb208-9764-4c30-8f47-ffbab4410033</guid>
+      <description><![CDATA[Gewisse Kantone schaffen Frühfranzösisch ab. Andere klammern sich daran. Ein Konflikt mit einer langen Geschichte.]]></description>
+      <pubDate>Sat, 13 Jun 2026 05:04:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
