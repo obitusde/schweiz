@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 16.6.2026, 12:35:46
-Letzter Lauf: 15.6.2026, 22:07:16
+Start: 16.6.2026, 13:25:50
+Letzter Lauf: 16.6.2026, 12:35:46
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,6 +10,7 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'podcast': 'Audible: Premium-Podcasts künftig auch in Apple-App anhörbar'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Diagram as Code neu gedacht: Mermaid und LLMs'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | heise+ Expertentalk: Mobile Klimageräte – Tipps für den Kauf und Betrieb'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Zwei verschlüsselnde USB-SSDs mit komfortabler Entsperrung im Test'
@@ -22,6 +23,7 @@ Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Microsoft Build 2026 Entwicklerkonferenz: Agenten und andere Ankündigungen'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Insta360 Luna Ultra: 8K-Gimbal-Kamera mit Leica-Optik im Test'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Anker-12-in-1-Steckdosenturm für Prime-Mitglieder unter 28 Euro bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Anker soundcore AeroClip ab 79 Euro für Prime-Mitglieder'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Amazon Fire TV Stick 4K Plus für Prime-Kunden jetzt unter 27 Euro'
 - Gelöscht wegen Keyword 'podcast': 'Podcast Besser Wissen: Der Fokus auf mobile Security'
@@ -33,9 +35,21 @@ Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Anker-Bluetooth-Box Soundcore für Prime-Mitglieder zum Jahresbestpreis nur rund 24 Euro bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Anker-Powerbank mit 165 W und zwei eingebauten Kabeln zum Jahresbestpreis'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Samsung-Smartphones schon vor dem Prime Day bis zu 430 Euro günstiger bei Amazon'
-- Gelöscht wegen Keyword '(g+)': '(g+) SpaceX: How Wall Street pulled off the biggest IPO in history for SpaceX'
 
-KI-Filter (Gemini) - 45 neue Artikel geprüft:
+KI-Filter (Gemini) - 5 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur (WordPress-Plugins).): 'WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen'
+- Weiterhin entfernt (Cache, Grund: Fällt unter interne PC-Komponenten (Chips/Inferenz-Hardware).): 'TDN72 statt NVL72: Tensordynes Napier greift Nvidia mit Logarithmen an'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Apple Themen: iOS sowie iPhone (Hardware-Bezug).): 'Mit iOS 27: Doppelkamera nun auch in FaceTime'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Apple Themen: iOS sowie iPhone.): 'iOS 27: Apple spendiert weiteren Apps Querformat-Ansichten – fürs Foldable?'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Enterprise-IT & Netzwerk-Infrastruktur (Cloud-Ressourcen/Virtualisierung).): 'Virtuelle Maschine: Oracle halbiert Ressourcen für kostenlose Server'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie (Software-Testing/Prozesskontrolle).): 'Software Testing: Warum deutsche Konzerne handlungsunfähig werden'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Enterprise-IT & Netzwerk-Infrastruktur (Cisco/Infrastruktur).): 'Root-Attacken auf Cisco Catalyst SD-WAN Manager und cPanel-Plug-in LiteSpeed'
+- Weiterhin entfernt (Cache, Grund: Fällt inhaltlich unter das Thema Saugroboter (Ecovacs).): 'Ecovacs: Roboterhersteller offenbar Opfer von Datendiebstahl'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwicklungsabläufe/Bug-Reports).): 'Flucht vor der KI-Flut: Curl pausiert Annahme jeglicher Bug-Reports'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Deep OS-Internals (Linux Kernel).): 'Linux 7.1 mit neuem NTFS und FRED erschienen'
+- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe Ereignis wie Artikel 15 (Schließung der Xbox-Studios/Ninja Theory): 'Xbox: Mehrere namhafte Studios stehen vor dem Aus'
+- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe Ereignis wie Artikel 24 (Sperre der KI-Modelle Fable/Mythos).): '„Fix this code“: Sperre von Fable 5 und Mythos 5 angeblich nach simplen Prompt'
+- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt im Hauptpunkt dasselbe Ereignis wie Artikel 44 (Klage SpaceX gegen OpenAI)): 'Dienstag: SpaceX scheitert mit Klage, Salesforce kauft ein'
 - Weiterhin entfernt (Cache, Grund: Interne PC-Komponenten & Hardware (KI-Beschleuniger/Chips).): 'KI-Inferencing: US-deutsches Start-up will Nvidia ausstechen'
 - Weiterhin entfernt (Cache, Grund: Apple-Themen (Siri).): 'WWDC 2026: Apple filterte Frequenzen, um Siri-Aktivierungen zu verhindern'
 - Weiterhin entfernt (Cache, Grund: Enterprise-IT & Netzwerk-Infrastruktur.): 'T-Systems Cloud: Volkswagen stellt auf IT-Infrastruktur der Telekom um'
@@ -47,22 +61,13 @@ KI-Filter (Gemini) - 45 neue Artikel geprüft:
 - Weiterhin entfernt (Cache, Grund: Apple-Themen (Apple-KI).): 'KI-Update kompakt: KI-Redenschreiber, Fable & Mythos-Sperre, KI-Sorgen, Apple-KI'
 - Weiterhin entfernt (Cache, Grund: Web-Infrastruktur (Forensoftware).): 'phpBB: Kritische Sicherheitslücke ermöglicht Kompromittierung'
 - Weiterhin entfernt (Cache, Grund: Apple-Themen (iOS/macOS-Updates).): 'iPadOS, watchOS, macOS, tvOS: Diese Geräte fallen aus den 27er Versionen'
-- Weiterhin entfernt (Cache, Grund: Apple-Themen (iPhone/iOS).): 'Neue Betriebssysteme: Apple verspricht „erhebliche“ Beschleunigung'
-- Gelöscht (Grund: Fällt unter Code-Theorie und Web-Infrastruktur (WordPress-Plugins).): 'WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen'
-- Gelöscht (Grund: Fällt unter interne PC-Komponenten (Chips/Inferenz-Hardware).): 'TDN72 statt NVL72: Tensordynes Napier greift Nvidia mit Logarithmen an'
-- Gelöscht (Grund: Fällt unter Apple Themen: iOS sowie iPhone (Hardware-Bezug).): 'Mit iOS 27: Doppelkamera nun auch in FaceTime'
-- Gelöscht (Grund: Fällt unter Apple Themen: iOS sowie iPhone.): 'iOS 27: Apple spendiert weiteren Apps Querformat-Ansichten – fürs Foldable?'
-- Gelöscht (Grund: Fällt unter Enterprise-IT & Netzwerk-Infrastruktur (Cloud-Ressourcen/Virtualisierung).): 'Virtuelle Maschine: Oracle halbiert Ressourcen für kostenlose Server'
-- Gelöscht (Grund: Fällt unter Code-Theorie (Software-Testing/Prozesskontrolle).): 'Software Testing: Warum deutsche Konzerne handlungsunfähig werden'
-- Gelöscht (Grund: Fällt unter Enterprise-IT & Netzwerk-Infrastruktur (Cisco/Infrastruktur).): 'Root-Attacken auf Cisco Catalyst SD-WAN Manager und cPanel-Plug-in LiteSpeed'
-- Gelöscht (Grund: Fällt inhaltlich unter das Thema Saugroboter (Ecovacs).): 'Ecovacs: Roboterhersteller offenbar Opfer von Datendiebstahl'
-- Gelöscht (Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwicklungsabläufe/Bug-Reports).): 'Flucht vor der KI-Flut: Curl pausiert Annahme jeglicher Bug-Reports'
-- Gelöscht (Grund: Fällt unter Deep OS-Internals (Linux Kernel).): 'Linux 7.1 mit neuem NTFS und FRED erschienen'
-- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe Ereignis wie Artikel 15 (Schließung der Xbox-Studios/Ninja Theory).): 'Xbox: Mehrere namhafte Studios stehen vor dem Aus'
-- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe Ereignis wie Artikel 24 (Sperre der KI-Modelle Fable/Mythos).): '„Fix this code“: Sperre von Fable 5 und Mythos 5 angeblich nach simplen Prompt'
-- Gelöscht (Grund: Duplikat-Regel: Behandelt im Hauptpunkt dasselbe Ereignis wie Artikel 44 (Klage SpaceX gegen OpenAI).): 'Dienstag: SpaceX scheitert mit Klage, Salesforce kauft ein'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord
+- [Golem] Europaische Raumfarht: Isar Aerospace bleibt weiter am Boden
+- [Digitec] Malen, Tarnen, Bangen: «Meccha Chameleon» wird zum Steam-Hit
+- [Golem] Mit Malware erbeutet: 124 Millionen neue Passwörter bei HaveIBeenPwned
+- [Heise] TÜV zu MDR: „Wir sollen Produkte zertifizieren, die wir nie gesehen haben“
 - [Golem] Assassin's Creed: Finales Shadows-Update schlägt Brücke zu Black Flag
 - [Golem] Finanzunterlagen zeigen: Verlust von OpenAI liegt 2025 bei 38,5 Milliarden US-Dollar
 - [Golem] Hybridflugzeug: Form und Antrieb von Flugzeugen
@@ -110,8 +115,5 @@ Finale Liste (live im XML-Feed):
 - [Heise] Electronic Arts: Werbung kommt ins Spielgeschehen
 - [Heise] Samsung Galaxy: Play-System-Update behebt offenbar Akku-Probleme
 - [Digitec] Trump sagt «Ja» zu Paramounts Warner-Deal
-- [Golem] Für IT- und Tech-Arbeiter: Jobaussichten in den USA nochmals deutlich schlechter
 - [Heise] Für 22 Milliarden US-Dollar: Fox schluckt Roku
 - [Digitec] Preise für Retro-Games explodieren: 3 Millionen US-Dollar für «Super Mario Bros.»
-- [Golem] Finnland: Onkalo soll das weltweit erste Endlager für Atommüll sein
-- [Heise] „Viele Patienten sind überrascht, wer alles ihre ePA einsehen kann“
