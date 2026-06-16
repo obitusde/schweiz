@@ -5,8 +5,43 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:35:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:25:50 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Heise] Mehr E-Autos: Deutsche Batterieproduktion steigt auf Rekord</title>
+      <link>https://www.heise.de/news/Mehr-E-Autos-Deutsche-Batterieproduktion-steigt-auf-Rekord-11334007.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11334007</guid>
+      <description><![CDATA[Die Batterieproduktion in Deutschland steigt auf einen Höchstwert, doch zugleich wächst die Abhängigkeit von Importen aus China. Die Industrie warnt.]]></description>
+      <pubDate>Tue, 16 Jun 2026 11:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Europaische Raumfarht: Isar Aerospace bleibt weiter am Boden</title>
+      <link>https://www.golem.de/news/europaische-raumfarht-isar-aerospace-bleibt-weiter-am-boden-2606-209828.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/europaische-raumfarht-isar-aerospace-bleibt-weiter-am-boden-2606-209828.html</guid>
+      <description><![CDATA[Wieder einmal sollte die mehrmals verschobene Mission starten. Wieder ist wenig passiert, denn erneut haben Probleme den Raketenstart verhindert. (<a href="https://www.golem.de/specials/rakete/">Rakete</a>, <a href="https://www.golem.de/specials/nasa/">Nasa</a>)]]></description>
+      <pubDate>Tue, 16 Jun 2026 11:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Malen, Tarnen, Bangen: «Meccha Chameleon» wird zum Steam-Hit</title>
+      <link>https://www.digitec.ch/de/page/malen-tarnen-bangen-meccha-chameleon-wird-zum-steam-hit-43005?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/malen-tarnen-bangen-meccha-chameleon-wird-zum-steam-hit-43005</guid>
+      <description><![CDATA[Ein virtueller Pinsel, 24 Spieler und jede Menge Dreistigkeit: Das simple Indie-Game «Meccha Chameleon» entwickelt sich innerhalb weniger Tage zum Hit auf Steam.]]></description>
+      <pubDate>Tue, 16 Jun 2026 10:56:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Mit Malware erbeutet: 124 Millionen neue Passwörter bei HaveIBeenPwned</title>
+      <link>https://www.golem.de/news/mit-malware-erbeutet-124-millionen-neue-passwoerter-bei-haveibeenpwned-2606-209825.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/mit-malware-erbeutet-124-millionen-neue-passwoerter-bei-haveibeenpwned-2606-209825.html</guid>
+      <description><![CDATA[Cyberkriminelle greifen mit Infostealer-Malware häufig Zugangsdaten ab. HaveIBeenPwned hat seine Datenbank um eine große Sammlung davon erweitert. (<a href="https://www.golem.de/specials/passwort/">Passwort</a>, <a href="https://www.golem.de/specials/malware/">Malware</a>)]]></description>
+      <pubDate>Tue, 16 Jun 2026 10:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] TÜV zu MDR: „Wir sollen Produkte zertifizieren, die wir nie gesehen haben“</title>
+      <link>https://www.heise.de/hintergrund/TUeV-zu-MDR-Reform-Wir-sollen-Produkte-zertifizieren-die-wir-nie-gesehen-haben-11333521.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11333521</guid>
+      <description><![CDATA[Warum weniger unangekündigte Audits die Patientensicherheit gefährden und warum erst etwas passieren müsse, bevor reagiert wird, erklärt Mark Küller vom TÜV.]]></description>
+      <pubDate>Tue, 16 Jun 2026 10:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Golem] Assassin's Creed: Finales Shadows-Update schlägt Brücke zu Black Flag</title>
       <link>https://www.golem.de/news/assassin-s-creed-finales-shadows-update-schlaegt-bruecke-zu-black-flag-2606-209824.html</link>
@@ -337,13 +372,6 @@
       <pubDate>Mon, 15 Jun 2026 12:02:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Für IT- und Tech-Arbeiter: Jobaussichten in den USA nochmals deutlich schlechter</title>
-      <link>https://www.golem.de/news/fuer-it-und-tech-arbeiter-jobaussichten-in-den-usa-nochmals-deutlich-schlechter-2606-209785.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/fuer-it-und-tech-arbeiter-jobaussichten-in-den-usa-nochmals-deutlich-schlechter-2606-209785.html</guid>
-      <description><![CDATA[Trotz langjähriger Erfahrung und prestigeträchtiger Lebensläufe haben IT-Experten kaum Chancen, in den USA einen Job zu finden. (<a href="https://www.golem.de/specials/it-jobs/">Arbeit</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Mon, 15 Jun 2026 12:02:06 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Für 22 Milliarden US-Dollar: Fox schluckt Roku</title>
       <link>https://www.heise.de/news/Fox-kauft-Streaming-Firma-Roku-fuer-22-Milliarden-US-Dollar-11332671.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11332671</guid>
@@ -356,20 +384,6 @@
       <guid isPermaLink="false">https://www.digitec.ch/de/page/preise-fuer-retro-games-explodieren-3-millionen-us-dollar-fuer-super-mario-bros-42991</guid>
       <description><![CDATA[Ein ungeöffnetes «Super Mario Bros.»-Spiel aus dem Jahr 1985 bricht mit einem Verkaufspreis von drei Millionen US-Dollar alle Rekorde.]]></description>
       <pubDate>Mon, 15 Jun 2026 11:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Finnland: Onkalo soll das weltweit erste Endlager für Atommüll sein</title>
-      <link>https://www.golem.de/news/finnland-onkalo-soll-das-weltweit-erste-endlager-fuer-atommuell-sein-2606-209765.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/finnland-onkalo-soll-das-weltweit-erste-endlager-fuer-atommuell-sein-2606-209765.html</guid>
-      <description><![CDATA[In Finnland werden bald radioaktiv abgebrannte Kernbrennstoffe unter Tage begraben. Letzte Prüfungen vor der Eröffnung laufen. (<a href="https://www.golem.de/specials/atomkraft/">Atomkraft</a>, <a href="https://www.golem.de/specials/umweltschutz/">Umweltschutz</a>)]]></description>
-      <pubDate>Mon, 15 Jun 2026 11:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] „Viele Patienten sind überrascht, wer alles ihre ePA einsehen kann“</title>
-      <link>https://www.heise.de/hintergrund/Viele-Patienten-sind-ueberrascht-wer-alles-ihre-ePA-einsehen-kann-11332086.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11332086</guid>
-      <description><![CDATA[Wie Versicherte auf die ePA reagieren und weshalb es Kritik daran gibt, dass Betriebsärzte im Rahmen der Behandlung standardmäßig ePA-Zugriff erhalten.]]></description>
-      <pubDate>Mon, 15 Jun 2026 11:11:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
