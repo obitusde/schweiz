@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 17.6.2026, 14:15:05
+Start: 17.6.2026, 14:37:53
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -18,151 +18,182 @@ Statischer Filter (Keywords):
 - Gelöscht [Keyword 'dauerausstellung']: 'Dauerausstellungen'
 - Gelöscht [Keyword 'dauerausstellung']: '"Gut in Schuss". Neue Dauerausstellung'
 
-Aus Cache übernommen (0):
-- Keine.
+Aus Cache übernommen (32):
+- Cache: '[Morges] Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale bis 18.06.2026'
+- Cache: '[Morges] Fête de la Musique - Saxo Sunset bis 18.06.2026'
+- Cache: '[Morges] Fête de la Musique - La Chorale du Brassus bis 18.06.2026'
+- Cache: '[Morges] Fête de la Musique - Récital de piano : Elizabeth Sombart et Stavros Dritsas bis 18.06.2026'
+- Cache: '[Morges] Fête de la Musique - Concert de Poc des Poub's bis 18.06.2026'
+- Cache: '[Bern] Anne Loch. Malerei: Na und? bis 18.07.2026'
+- Cache: '[Bern] Bisschen theoretisch bis 28.08.2026'
+- Cache: 'Bern Beat Jost – Schöne neue Welt bis 04.09.2026'
+- Cache: 'Rossinière Royaume des Chats à Rossinière bis 12.09.2026'
+- Cache: 'Bern CHIPS bis 13.11.2026'
+- Cache: 'Caux Expositions au Caux Palace'
+- Cache: 'Lausanne Fête de la Musique - Spécial Japon bis 21.06.2026'
+- Cache: 'Bern Future Fashion bis 27.11.2026'
+- Cache: 'Lausanne CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI bis 04.07.2026'
+- Cache: 'Bern Gezeichnet 2026 bis 11.12.2026'
+- Cache: 'Oron Visite guidée en présence de l'artiste Sève Favre bis 27.06.2026'
+- Cache: 'Bex Bex Arts 26 : Génies du lieu bis 03.10.2026'
+- Cache: '[Lausanne] De Bailly à Zaric. Collection d'art Ville de Lausanne [bis 02.08.2026]'
+- Cache: '[Yverdon-les-Bains] Marchés d'été ArtYsans Yverdon 2026 [bis 03.10.2026]'
+- Cache: '[Morges] Soirée publique d'astronomie 2026 [bis 01.12.2026]'
+- Cache: '[Morges] Découverte des orgues Ahrend [bis 17.06.2026]'
+- Cache: '[Morges] Café Bienvenue [bis 17.06.2026]'
+- Cache: '[Morges] Fête de la Musique 2026 [bis 21.06.2026]'
+- Cache: '[Morges] WM-Public-Viewing [bis 19.07.2026]'
+- Cache: '[Morges] SANS FILTRE [bis 30.06.2026]'
+- Cache: '[Morges] Sportkurse im Schwimmbad [bis 30.08.2026]'
+- Cache: '[Morges] Salon des fondateurs [bis 01.11.2026]'
+- Cache: '[Morges] De pierre à image [bis 01.11.2026]'
+- Cache: '[Morges] Exposition TOP SECRET bis 20.12.2026'
+- Cache: '[Morges] 1110-SPARK bis 27.06.2026'
+- Cache: '[Zug] Ilya & Emilia Kabakov – The Tennis Game'
+- Cache: '[Morges] Exposition photographique animalière bis 30.06.2026'
 
 KI-Filter / Cache-Löschungen (141):
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Höhepunkte der Sammlung'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Ausstellung'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Unterwegs'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Souvenir'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Von der Wunderkammer zum Archiv'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Das volle Leben. Alte Meister von Duccio bis Liotard'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Atelier'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Vanessa Billy: Superconductors'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Game'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Grönland'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Villa Abegg – Das Anwesen eines Sammlerpaares'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Anno 1811 - Die Anfänge der Blasmusik in der Schweiz'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Lika Nüssli: ›Für die Katz‹'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Die Wunderkammern'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Mensch, Erde! –'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Einstein Museum'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Von Höhenfeuern, Smartphones und Cyborgs'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Massen – Foules – Crowds'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Tai Shani: M.I.A.S.M.A'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Macherinnen'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Thementouren'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Jota Mombaça: compost (continuum)'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Wunderkammer - Die Schausammlung'
-- Gelöscht [Events für Kinder / Keine Daten]: 'Zeitheldinnen auf der Spur'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
-- Gelöscht [Keine Daten (Dauerausstellung)]: '«Goldrichtig – Ist Goldrecycling die Zukunft?»'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Panorama Schweiz. Von Caspar Wolf bis Ferdinand Hodler'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Stiftung Expressionismus. Von Gabriele Münter bis Sam Francis'
-- Gelöscht [Keine Daten (Dauerausstellung)]: 'Die Zeit ins Bild gerückt'
-- Gelöscht [Keine Daten]: 'Peter Fischli: Wir Ungestalten'
-- Gelöscht [Keine Daten]: 'Murten, ausgeschlachtet.'
-- Gelöscht [Keine Daten]: 'Schwitters. Grenzgänger der Avantgarde'
-- Gelöscht [Events ausschließlich für Senioren]: 'Séance de Gym équilibr'âge'
-- Gelöscht [Keine Daten]: 'Lumpen Station. Töne-Ton-Werden'
-- Gelöscht [Keine Daten]: 'Robert Zandvliet. The Painting is a Door'
-- Gelöscht [Keine Daten]: 'Franz Gertsch. Eisenbett und Trompete, Familie und Paare'
-- Gelöscht [Keine Daten]: 'Leanne Picthall. Meaning So Well'
-- Gelöscht [Keine Daten]: 'FABRICE HYBER'
-- Gelöscht [Keine Daten]: 'SUSANNE KELLER. HINTERKAMMER DES AUGES'
-- Gelöscht [Kein Ort erkennbar und keine Daten]: 'Klimacafé mit den Psychologists for Future (Psy4F)'
-- Gelöscht [Keine Daten]: 'Die Post vor 60 Jahren'
-- Gelöscht [Keine Daten]: 'Poetics Of Deconstruction'
-- Gelöscht [Keine Daten]: 'Fokus. Klees Rückseiten'
-- Gelöscht [Keine Daten]: 'Der Fuchs'
-- Gelöscht [Keine Daten]: 'Der Sonntagsausflug'
-- Gelöscht [Keine Daten]: 'Tabula Musica x Schulmuseum Bern'
-- Gelöscht [Keine Daten]: 'Fledermaus-Exkursion: Was flattert denn da?'
-- Gelöscht [Keine Daten]: 'Massenstart'
-- Gelöscht [Keine konkreten Daten]: 'Pétanque-Spielabend im Museumsgarten'
-- Gelöscht [Keine vollständigen Daten]: 'Franz Gertsch. Blow-Up (Part I)'
-- Gelöscht [Keine Daten]: 'Sommerfest im Museumsquartier'
-- Gelöscht [Keine Daten]: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig'
-- Gelöscht [Keine Enddaten]: 'Fokus. Florence Henri (1893–1982)'
-- Gelöscht [Keine Enddaten]: 'Mythos Murten: Auf der Suche nach dem Wir-Gefühl'
-- Gelöscht [Keine Enddaten]: 'Destination: Usakos'
-- Gelöscht [Ort nicht erkennbar]: 'Visite guidée : de la collection à l'exposition'
-- Gelöscht [Keine Enddaten]: 'Roberto Burle Marx. Modernismo tropical'
-- Gelöscht [Ort nicht erkennbar]: 'Visite guidée du mois'
-- Gelöscht [Keine Enddaten]: 'Dark Gossip'
-- Gelöscht [Keine Enddaten]: 'Reise in die Freiheit. Capri – Skagen – Monte Verità'
-- Gelöscht [Ort nicht erkennbar]: 'Kodai. L'Antiquité dans la pop culture japonaise'
-- Gelöscht [Keine Enddaten]: 'Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert'
-- Gelöscht [Keine Enddaten]: 'Silizium: Von den Alpen ins Silicon Valley'
-- Gelöscht [Ort nicht erkennbar]: 'Exposition Aquafresca !'
-- Gelöscht [Ort nicht erkennbar]: 'Une exposition tout en contrastes'
-- Gelöscht [Ort nicht erkennbar]: 'Écrits d'art brut'
-- Gelöscht [Keine Enddaten]: 'Find Ratatösk'
-- Gelöscht [Ort nicht erkennbar]: 'SCULPTUR'ELLES'
-- Gelöscht [Keine Enddaten]: 'Historische Blasinstrumente und Trommeln zum Staunen und selber Ausprobieren'
-- Gelöscht [Keine Enddaten]: 'Barry – der legendäre Bernhardinerhund'
-- Gelöscht [Keine Enddaten]: 'Riesenkristalle – der Schatz vom Planggenstock'
-- Gelöscht [Events für Kinder / Ort nicht erkennbar]: 'Le petit monde d'Anne Crausaz, à hauteur de fourmis'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Flossen-Füsse-Flügel'
-- Gelöscht [Ort nicht erkennbar]: 'Exposition: Arbres et Forêts de Daniel Frank'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Ständige Ausstellung zur Kinogeschichte'
-- Gelöscht [Vergangenes Datum]: 'Exposition artistique - Délicatesses forestières'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Originale Objekte der griechischen, etruskischen und römischen Kleinkunst und eine reiche Sammlung von Gipsabgüssen nach antiken Skulpturen'
-- Gelöscht [Duplikat von ID 15]: 'Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne"'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Theater in Gegenwart und Geschichte'
-- Gelöscht [Vergangenes Datum]: 'Exposition Mimêsis - la nature aux origines de l'innovation'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Falknerei – Ein Greif auf meiner Hand'
-- Gelöscht [Events für Kinder / Kein Datum]: 'Miaou, meuh, wouf : animaux et art verrier au mudac'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Die Jagdhistorische Sammlung La Roche'
-- Gelöscht [Ort nicht erkennbar]: 'Exposition Cataracte de Denis Ponté'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Wild und Mensch in der Kulturlandschaft'
-- Gelöscht [Ort nicht erkennbar]: 'Visite guidée - Colonialisme. Une Suisse impliquée'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Spuren der Jagd in der Schweiz'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Lockvögel, Sammlung Heinrich und Heidi Brandenberger'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Feuerwaffen der Schweizer Jäger im 19. und 20. Jahrhundert'
-- Gelöscht [Events für Kinder]: 'Les minus au musée - Et nous alors?'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Tiere der Schweiz'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Käfer & Co'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Tiere Afrikas'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Steine der Erde'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Die grosse Knochenschau'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Der Jagdhund – Helfer und Freund'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Auf eigene Faust'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Picas Nest'
-- Gelöscht [Dauerausstellung / Kein Enddatum]: 'Das Jagdhorn'
-- Gelöscht [Kein Enddatum]: 'Tiere des Nordens'
-- Gelöscht [Kein Enddatum]: 'Audiowalk «Louf mit mir!»'
-- Gelöscht [Kein Enddatum]: 'Biel und der Röstigraben'
-- Gelöscht [Kein Enddatum]: 'Freiheit! Eine musikalische Annäherung'
-- Gelöscht [Kein Enddatum]: 'Kosmos Klee. Die Sammlung'
-- Gelöscht [Kein Enddatum]: '"Leben ist Schwingung" und "Vita und Werk Hugo Kükelhaus"'
-- Gelöscht [Kein Enddatum]: 'SchulSchaulager'
-- Gelöscht [Kein Ort]: 'Draw & Drink x mudac'
-- Gelöscht [Kein Ort]: 'Projection – L’odyssée de Miette et d’Ella'
-- Gelöscht [Kein Ort]: 'Visite avec la commissaire – Otobong Nkanga'
-- Gelöscht [Kein Ort]: 'Workshop – Street photography'
-- Gelöscht [Kein Ort]: 'Visite commentée – Otobong Nkanga'
-- Gelöscht [Kein Ort]: 'Fête de la musique « spécial Japon »'
-- Gelöscht [Kein Ort]: 'Fête de la musique « spécial Japon » – Isao Takahata'
-- Gelöscht [Kein Ort]: 'Fête de la musique « spécial Japon » – Isao Takahata'
-- Gelöscht [Kein Ort]: 'Ausstellung «Ausnahme ohne Regel» von Arthur Freuler'
-- Gelöscht [Kein Enddatum]: 'Ella Maillart'
-- Gelöscht [Vergangenes Datum]: 'Workshop Arturia (synthétiseurs) avec Noé Largeron'
-- Gelöscht [Kein Ort]: 'Naturjuwel Haberfeld'
-- Gelöscht [Kein Ort]: 'Caline Aoun Thresholds of Impermanence'
-- Gelöscht [Duplikat]: 'Caline Aoun Thresholds of Impermanence'
-- Gelöscht [Kein Ort]: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur'
-- Gelöscht [Kein Ort erkennbar]: 'Kolonial. Globale Verflechtungen der Schweiz'
-- Gelöscht [Kein Ort erkennbar]: 'Ella Maillart. Fotografische Erzählungen'
-- Gelöscht [Kein Ort erkennbar, Dauerausstellung]: 'Die Sammlung'
-- Gelöscht [Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Et nous alors?'
-- Gelöscht [Event für Kinder]: 'Mit fliegendem Teppich durch die Geschichte'
-- Gelöscht [Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Peintures françaises 1800-1945. Anatomie d’une collection'
-- Gelöscht [Kein Ort erkennbar]: '1 Raum, 1 Werk. Installationen aus der Sammlung'
-- Gelöscht [Dauerausstellung]: 'Ideen Schweiz'
-- Gelöscht [Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Marina Xenofontos. Play Life'
-- Gelöscht [Vergangenes Datum (März 2026)]: 'Brian Dawn Chalkley. Angels Suffer Too. In Kooperation mit Fumetto Comic Festival Luzern'
-- Gelöscht [Kein Ort (Stadt) im Titel/Feed/Beschreibung, Dauerausstellung]: 'La collection'
-- Gelöscht [Dauerausstellung]: 'Einfach Zürich'
-- Gelöscht [Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Isao Takahata'
-- Gelöscht [Kein Ort erkennbar]: 'Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen'
-- Gelöscht [Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Otobong Nkanga. I dreamt of you in colours'
-- Gelöscht [Dauerausstellung]: 'Geschichte Schweiz'
-- Gelöscht [Kein Ort erkennbar]: '100 œuvres de la Collection jurassienne des beaux-arts (1985-2025)'
-- Gelöscht [Dauerausstellung]: 'Seidenband. Kapital, Kunst & Krise'
-- Gelöscht [Kein Ort erkennbar]: 'Mario Sala'
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Höhepunkte der Sammlung' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Ausstellung' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Unterwegs' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Souvenir' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Von der Wunderkammer zum Archiv' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Das volle Leben. Alte Meister von Duccio bis Liotard' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Atelier' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Vanessa Billy: Superconductors' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Game' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Grönland' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Villa Abegg – Das Anwesen eines Sammlerpaares' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Anno 1811 - Die Anfänge der Blasmusik in der Schweiz' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Lika Nüssli: ›Für die Katz‹' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Die Wunderkammern' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Mensch, Erde! –' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Einstein Museum' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Von Höhenfeuern, Smartphones und Cyborgs' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Massen – Foules – Crowds' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Tai Shani: M.I.A.S.M.A' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Macherinnen' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Thementouren' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Jota Mombaça: compost (continuum)' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Wunderkammer - Die Schausammlung' [Feed: Museen Bern]
+- Gelöscht [Cache: Events für Kinder / Keine Daten]: 'Zeitheldinnen auf der Spur' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: '«Goldrichtig – Ist Goldrecycling die Zukunft?»' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Panorama Schweiz. Von Caspar Wolf bis Ferdinand Hodler' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Stiftung Expressionismus. Von Gabriele Münter bis Sam Francis' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten (Dauerausstellung)]: 'Die Zeit ins Bild gerückt' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Peter Fischli: Wir Ungestalten' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Murten, ausgeschlachtet.' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Schwitters. Grenzgänger der Avantgarde' [Feed: Museen Bern]
+- Gelöscht [Cache: Events ausschließlich für Senioren]: 'Séance de Gym équilibr'âge' [Feed: Morges Agenda]
+- Gelöscht [Cache: Keine Daten]: 'Lumpen Station. Töne-Ton-Werden' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Robert Zandvliet. The Painting is a Door' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Franz Gertsch. Eisenbett und Trompete, Familie und Paare' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Leanne Picthall. Meaning So Well' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'FABRICE HYBER' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'SUSANNE KELLER. HINTERKAMMER DES AUGES' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Ort erkennbar und keine Daten]: 'Klimacafé mit den Psychologists for Future (Psy4F)' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Die Post vor 60 Jahren' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Poetics Of Deconstruction' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Fokus. Klees Rückseiten' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Der Fuchs' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Der Sonntagsausflug' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Tabula Musica x Schulmuseum Bern' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Fledermaus-Exkursion: Was flattert denn da?' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Massenstart' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine konkreten Daten]: 'Pétanque-Spielabend im Museumsgarten' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine vollständigen Daten]: 'Franz Gertsch. Blow-Up (Part I)' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Sommerfest im Museumsquartier' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Daten]: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Enddaten]: 'Fokus. Florence Henri (1893–1982)' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Enddaten]: 'Mythos Murten: Auf der Suche nach dem Wir-Gefühl' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Enddaten]: 'Destination: Usakos' [Feed: Museen Bern]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Visite guidée : de la collection à l'exposition' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Keine Enddaten]: 'Roberto Burle Marx. Modernismo tropical' [Feed: Museen Bern]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Visite guidée du mois' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Keine Enddaten]: 'Dark Gossip' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Enddaten]: 'Reise in die Freiheit. Capri – Skagen – Monte Verità' [Feed: Museen Bern]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Kodai. L'Antiquité dans la pop culture japonaise' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Keine Enddaten]: 'Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Enddaten]: 'Silizium: Von den Alpen ins Silicon Valley' [Feed: Museen Bern]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Exposition Aquafresca !' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Une exposition tout en contrastes' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Écrits d'art brut' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Keine Enddaten]: 'Find Ratatösk' [Feed: Museen Bern]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'SCULPTUR'ELLES' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Keine Enddaten]: 'Historische Blasinstrumente und Trommeln zum Staunen und selber Ausprobieren' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Enddaten]: 'Barry – der legendäre Bernhardinerhund' [Feed: Museen Bern]
+- Gelöscht [Cache: Keine Enddaten]: 'Riesenkristalle – der Schatz vom Planggenstock' [Feed: Museen Bern]
+- Gelöscht [Cache: Events für Kinder / Ort nicht erkennbar]: 'Le petit monde d'Anne Crausaz, à hauteur de fourmis' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Flossen-Füsse-Flügel' [Feed: Museen Bern]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Exposition: Arbres et Forêts de Daniel Frank' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Ständige Ausstellung zur Kinogeschichte' [Feed: Museen Bern]
+- Gelöscht [Cache: Vergangenes Datum]: 'Exposition artistique - Délicatesses forestières' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Originale Objekte der griechischen, etruskischen und römischen Kleinkunst und eine reiche Sammlung von Gipsabgüssen nach antiken Skulpturen' [Feed: Museen Bern]
+- Gelöscht [Cache: Duplikat von ID 15]: 'Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne"' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Theater in Gegenwart und Geschichte' [Feed: Museen Bern]
+- Gelöscht [Cache: Vergangenes Datum]: 'Exposition Mimêsis - la nature aux origines de l'innovation' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Falknerei – Ein Greif auf meiner Hand' [Feed: Museen Bern]
+- Gelöscht [Cache: Events für Kinder / Kein Datum]: 'Miaou, meuh, wouf : animaux et art verrier au mudac' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Die Jagdhistorische Sammlung La Roche' [Feed: Museen Bern]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Exposition Cataracte de Denis Ponté' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Wild und Mensch in der Kulturlandschaft' [Feed: Museen Bern]
+- Gelöscht [Cache: Ort nicht erkennbar]: 'Visite guidée - Colonialisme. Une Suisse impliquée' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Spuren der Jagd in der Schweiz' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Lockvögel, Sammlung Heinrich und Heidi Brandenberger' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Feuerwaffen der Schweizer Jäger im 19. und 20. Jahrhundert' [Feed: Museen Bern]
+- Gelöscht [Cache: Events für Kinder]: 'Les minus au musée - Et nous alors?' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Tiere der Schweiz' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Käfer & Co' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Tiere Afrikas' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Steine der Erde' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Die grosse Knochenschau' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Der Jagdhund – Helfer und Freund' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Auf eigene Faust' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Picas Nest' [Feed: Museen Bern]
+- Gelöscht [Cache: Dauerausstellung / Kein Enddatum]: 'Das Jagdhorn' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Enddatum]: 'Tiere des Nordens' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Enddatum]: 'Audiowalk «Louf mit mir!»' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Enddatum]: 'Biel und der Röstigraben' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Enddatum]: 'Freiheit! Eine musikalische Annäherung' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Enddatum]: 'Kosmos Klee. Die Sammlung' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Enddatum]: '"Leben ist Schwingung" und "Vita und Werk Hugo Kükelhaus"' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Enddatum]: 'SchulSchaulager' [Feed: Museen Bern]
+- Gelöscht [Cache: Kein Ort]: 'Draw & Drink x mudac' [Feed: Platform 10 Events 2]
+- Gelöscht [Cache: Kein Ort]: 'Projection – L’odyssée de Miette et d’Ella' [Feed: Platform 10 Events 2]
+- Gelöscht [Cache: Kein Ort]: 'Visite avec la commissaire – Otobong Nkanga' [Feed: Platform 10 Events 2]
+- Gelöscht [Cache: Kein Ort]: 'Workshop – Street photography' [Feed: Platform 10 Events 2]
+- Gelöscht [Cache: Kein Ort]: 'Visite commentée – Otobong Nkanga' [Feed: Platform 10 Events 2]
+- Gelöscht [Cache: Kein Ort]: 'Fête de la musique « spécial Japon »' [Feed: Platform 10 Events 2]
+- Gelöscht [Cache: Kein Ort]: 'Fête de la musique « spécial Japon » – Isao Takahata' [Feed: Platform 10 Events 2]
+- Gelöscht [Cache: Kein Ort]: 'Fête de la musique « spécial Japon » – Isao Takahata' [Feed: Platform 10 Events 2]
+- Gelöscht [Cache: Kein Ort]: 'Ausstellung «Ausnahme ohne Regel» von Arthur Freuler' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Enddatum]: 'Ella Maillart' [Feed: Platform 10 Events]
+- Gelöscht [Cache: Vergangenes Datum]: 'Workshop Arturia (synthétiseurs) avec Noé Largeron' [Feed: Morges Agenda]
+- Gelöscht [Cache: Kein Ort]: 'Naturjuwel Haberfeld' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Duplikat]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort]: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort erkennbar]: 'Kolonial. Globale Verflechtungen der Schweiz' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort erkennbar]: 'Ella Maillart. Fotografische Erzählungen' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort erkennbar, Dauerausstellung]: 'Die Sammlung' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Et nous alors?' [Feed: Platform 10 Events]
+- Gelöscht [Cache: Event für Kinder]: 'Mit fliegendem Teppich durch die Geschichte' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Peintures françaises 1800-1945. Anatomie d’une collection' [Feed: Platform 10 Events]
+- Gelöscht [Cache: Kein Ort erkennbar]: '1 Raum, 1 Werk. Installationen aus der Sammlung' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Dauerausstellung]: 'Ideen Schweiz' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Marina Xenofontos. Play Life' [Feed: Platform 10 Events]
+- Gelöscht [Cache: Vergangenes Datum (März 2026)]: 'Brian Dawn Chalkley. Angels Suffer Too. In Kooperation mit Fumetto Comic Festival Luzern' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort (Stadt) im Titel/Feed/Beschreibung, Dauerausstellung]: 'La collection' [Feed: Platform 10 Events]
+- Gelöscht [Cache: Dauerausstellung]: 'Einfach Zürich' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Isao Takahata' [Feed: Platform 10 Events]
+- Gelöscht [Cache: Kein Ort erkennbar]: 'Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort (Stadt) im Titel/Feed/Beschreibung, kein Datum]: 'Otobong Nkanga. I dreamt of you in colours' [Feed: Platform 10 Events]
+- Gelöscht [Cache: Dauerausstellung]: 'Geschichte Schweiz' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort erkennbar]: '100 œuvres de la Collection jurassienne des beaux-arts (1985-2025)' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Dauerausstellung]: 'Seidenband. Kapital, Kunst & Krise' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Cache: Kein Ort erkennbar]: 'Mario Sala' [Feed: museum.ch Ausstellungen]
 
 Finale Liste (32 Einträge):
 - [Morges Agenda] [Morges] Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale bis 18.06.2026
