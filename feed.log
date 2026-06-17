@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 16.6.2026, 13:48:39
-Letzter Lauf: noch nie
+Start: 17.6.2026, 06:30:35
+Letzter Lauf: 16.6.2026, 13:48:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,55 +17,59 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 49 neue Artikel geprüft:
-- Gelöscht (Grund: Kriminalität außerhalb von Waadt.): 'Ausgebeutete Frauen in Gstaad – Serbische Drahtzieherin wegen Menschenhandel verurteilt'
-- Gelöscht (Grund: Unfallmeldung außerhalb von Waadt.): 'Zunehmende Haiangriffe – Hai-Attacke in Sydney: Australien sucht nach Lösungen für Abwehr'
-- Gelöscht (Grund: Duplikat zu ID 5 (Bahntunnel Morges-Perroy).): 'Le tracé du tunnel «anti-trou de Tolochenaz» prend corps'
-- Gelöscht (Grund: Duplikat zu ID 44 (Rahmenabkommen USA-Iran).): 'Rahmenabkommen USA–Iran – Cassis hebt Schweizer Vermittlerrolle im Iran-Krieg hervor'
-- Gelöscht (Grund: Duplikat zu ID 4 (QR-Code-Betrug).): 'Attention aux fausses amendes dans l’Ouest lausannois'
-- Gelöscht (Grund: Duplikat zu ID 40 (SVP-Initiative).): 'Abstimmung vom 14. Juni – «Etwas zu verhindern, ist einfacher, als etwas zu gestalten»'
-- Gelöscht (Grund: Gerichtsprozess ohne Regionalbezug zu Waadt oder Genf.): 'Un fils se bat contre sa mère et son frère: 80 millions en jeu'
-- Gelöscht (Grund: Wahlen außerhalb von Waadt und Genf.): 'Wahlversprechen eingelöst – Ungarn: Verfassungsänderung hält Orbán von der Macht fern'
-- Gelöscht (Grund: Wahlen außerhalb von Waadt und Genf.): 'Neue Rechtspartei – Ein Ex-General stellt Italiens Politik auf den Kopf'
-- Gelöscht (Grund: Unfall außerhalb von Waadt.): 'US-Bundesstaat Kalifornien – Acht Tote bei Absturz von B-52-Bomber'
-- Gelöscht (Grund: Duplikat zu ID 44 (Rahmenabkommen USA-Iran).): 'Rahmenabkommen USA-Iran – «Deal» oder «Absichtserklärung» – was liegt auf dem Tisch?'
-- Gelöscht (Grund: Kriminalität außerhalb von Waadt.): 'Verschärftes Sexualstrafrecht – Wie sich «Nur Ja heisst Ja» auf den Fall Høiby auswirkte'
-- Gelöscht (Grund: Politik außerhalb von Waadt und Genf.): '18 Jahre nach dem Bruch – Wie die Bündner SVP zur alten Stärke zurückfand'
-- Gelöscht (Grund: Blaulicht-Meldung außerhalb von Waadt.): 'Russischer Beschuss – Ein Angriff auf das kulturelle und religiöse Herz der Ukraine'
-- Gelöscht (Grund: Duplikat zu ID 44 (Rahmenabkommen USA-Iran).): 'Krieg im Nahen Osten – Rahmenabkommen USA–Iran: Ist das ein Sieg für Trump?'
-- Gelöscht (Grund: Duplikat zu ID 35 (Trump in Genf).): 'L'avion Air Force One, avec Trump à bord, atterrit à Genève'
-- Gelöscht (Grund: Polizeieinsatz außerhalb von Waadt.): 'Gewalt und Radikalisierung – Winterthurer Extremismus-Fachstelle zieht häufiger Polizei bei'
-- Gelöscht (Grund: Kriminalität außerhalb von Waadt und Genf.): 'Jusqu’à huit ans et demi requis pour le gestionnaire de fortune'
+KI-Filter (Gemini) - 37 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb von Waadt.): 'Zunehmende Haiangriffe – Hai-Attacke in Sydney: Australien sucht nach Lösungen für Abwehr'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 5 (Bahntunnel Morges-Perroy).): 'Le tracé du tunnel «anti-trou de Tolochenaz» prend corps'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 4 (QR-Code-Betrug).): 'Attention aux fausses amendes dans l’Ouest lausannois'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 40 (SVP-Initiative).): 'Abstimmung vom 14. Juni – «Etwas zu verhindern, ist einfacher, als etwas zu gestalten»'
+- Weiterhin entfernt (Cache, Grund: Gerichtsprozess ohne Regionalbezug zu Waadt oder Genf.): 'Un fils se bat contre sa mère et son frère: 80 millions en jeu'
+- Weiterhin entfernt (Cache, Grund: Wahlen außerhalb von Waadt und Genf.): 'Wahlversprechen eingelöst – Ungarn: Verfassungsänderung hält Orbán von der Macht fern'
+- Gelöscht (Grund: Blaulicht-Meldung außerhalb von Waadt (Wallis)): 'Gemeindeversammlung – Crans-Montanas Gemeindepräsident Féraud entschuldigt sich'
+- Gelöscht (Grund: Blaulicht-Meldung außerhalb von Waadt (Wallis)): 'Six mois après le drame, les citoyens réclament des réponses'
+- Gelöscht (Grund: Kriminalität/Gerichtsmeldung außerhalb von Waadt (Basel)): 'Hassnachrichten an BAG-Chefin – Hassmails gegen Anne Lévy: Gericht verurteilt 62-Jährigen'
+- Gelöscht (Grund: Duplikat zu Artikel 32): 'Les élus auront un outil für écarter les conseillers d'État'
+- Gelöscht (Grund: Umwelt-Blaulichtmeldung außerhalb von Waadt (Freiburg)): 'Les pollutions en forte hausse: le canton sonne l’alarme'
+- Gelöscht (Grund: Duplikat zu Artikel 11 (SRF bevorzugt)): 'Sommersession 2026 – Ständerat spricht 3.4 Milliarden für Armee'
+- Gelöscht (Grund: Gewaltdelikt außerhalb von Waadt (Wallis)): 'À Martigny, Colin Walks frappe un homme et publie la vidéo'
+- Gelöscht (Grund: Kriminalität außerhalb von Waadt (Bern)): 'Ausgebeutete Frauen in Gstaad – Serbische Drahtzieherin wegen Menschenhandel verurteilt'
+- Gelöscht (Grund: Abstimmungsthema außerhalb von Waadt und Genf (Tessin)): '«Keine 10-Mio-Initiative» – Mehr Misstrauen im Tessin gegenüber «verführerischen Lösungen»'
 
 Finale Liste (live im XML-Feed):
+- [Journal de Morges] Eine umfassende Bahnsanierung über neun Jahre
+- [SRF Wirtschaft] Studie zur Arbeit mit KI – Mehr als ein Viertel der Arbeitsplätze von KI betroffen
+- [SRF Schweiz] Jeden Tag 30 Grad – Bringt der Juni so viele Hitzetage wie sonst ein ganzes Jahr?
+- [SRF Wirtschaft] Pflege durch Angehörige – Wie soll die Politik mit privaten Spitex-Firmen umgehen?
+- [Journal de Morges] Melvin Mastils Angehörige werden gegen Argentinien wach sein
+- [SRF Schweiz] Wohnraumpolitik – Luzern kann bei Liegenschaftskäufen bald dazwischenkommen
+- [SRF Schweiz] Studie der Universität Zürich – Jeder dritte junge Mann hat ein problematisches Männerbild
+- [SRF Wirtschaft] Freihandel – Mercosur-Abkommen: Kontroverse um Umweltschutz und Nachhaltigkeit
+- [SRF Schweiz] Rolle des Tech-Riesen im Krieg – Regulierungslücke Cloud? Debatte um Googles Geschäfte mit Israel
+- [SRF Schweiz] Armeebotschaft 2026 – Ständerat winkt Armeebotschaft durch – inklusive F-35-Kampfjets
+- [SRF Ausland] Gemeinsame Erklärung im Krieg – Iran-USA-Verständigung auf Bürgenstock – die Ausgangslage
+- [Morges Actualitiés] Espace Couvaloup und die Stadtbibliothek ziehen diesen Sommer ins Freie
+- [SRF Wissen] Abnehmpille – Was passiert, wenn Abnehmen per Medikament noch leichter wird?
+- [SRF Ausland] EU-Fluggastrechte – Das gilt bald für Handgepäck und Verspätungen
+- [SRF Schweiz] Kindesschutz – Eltern am Limit sorgen für mehr Meldungen bei der Kesb in Basel
+- [SRF Schweiz] Radsport in der Schweiz – Dieses neue Konzept soll die Tour de Suisse retten
+- [RTS Vaud] Kanton Waadt verzeichnet mehr häusliche Gewalt
+- [20 Min Romandie] Schlag gegen falsche Polizisten in den Westschweizer Kantonen
+- [20 Min Romandie] Gefangen im Stau: Die TPG fahren Angebot zurück
+- [SRF Ausland] Bezeichnung von Lebensmitteln – EU-Parlament stimmt gegen Namen wie «Veggie-Hühnchen»
+- [SRF Schweiz] Interne SBB-Statistik – Spitzenreiter: 20 Mal fuhren Züge irrtümlich an Kemptthal vorbei
+- [20 Min Romandie] Nach Autodiebstahl landen sie auf den Gleisen der M1
+- [SRF Schweiz] Rahmenabkommen USA–Iran – Cassis hebt Schweizer Vermittlerrolle im Iran-Krieg hervor
+- [SRF Schweiz] Schweizer Jugendkriminalität – Wieso werden Jugendliche mehr für Verkehrsdelikte verurteilt?
+- [SRF Ausland] G7-Gipfel Évian – Macron verpasst den G7-Gästen auf X einen persönlichen Soundtrack
+- [RTS Vaud] Waadtländer Grosser Rat will Minister in Ausnahmefällen absetzen können
+- [SRF Ausland] Rahmenabkommen USA–Iran – Netanjahu betont Kriegserfolge – und umschifft Trumps «Deal»
+- [SRF Schweiz] Kein Mehrwertsteuer-Sondersatz – Steuerbegünstigung für Hotels streichen? – Debatte im Nationalrat
 - [20 Min Romandie] Warum immer mehr Teenager an die Tür der IV klopfen
 - [SRF Ausland] Handelsvereinbarung – EU-Abgeordnete stimmen Umsetzung des US-Zolldeals zu
 - [RTS Vaud] Betrug mit QR-Codes im Westen von Lausanne
 - [Journal de Morges] Kanton enthüllt erste Trasse des Bahntunnels Morges-Perroy
-- [Journal de Morges] Morges-sous-Rire lockte rund 16'000 Zuschauer an
-- [SRF Wirtschaft] Sommersession 2026 – Ständerat spricht 3.4 Milliarden für Armee
 - [SRF Schweiz] Fiktives Szenario – Was, wenn Russland den «Stern von Laufenburg» angreifen würde?
 - [SRF Wirtschaft] Fast Fashion – Kleider: Statt in den Müll ins Outlet
 - [SRF Wissen] Fussball-Maskottchen – Der Axolotl fasziniert Fussballfans und Forschung
 - [20 Min Romandie] Wichtige Strassensperrungen am Sonntag wegen der Tour de Suisse
 - [Journal de Morges] Tausende Schüler in 50 Jahren Boullard Musique!
-- [Journal de Morges] Forfait-Niederlage und 18 Spiele Sperre für Turc Lausanne
 - [SRF Schweiz] Von der Kita in den Knast – Der Kanton Waadt sucht händeringend Gefängnispersonal
-- [SRF Schweiz] Schweizer Jugendkriminalität – Wieso werden Jugendliche mehr für Verkehrsdelikte verurteilt?
-- [SRF Gesellschaft] Warum wir Listen schreiben – Ich liste, also bin ich
-- [SRF Wirtschaft] Änderungen bei Flugreisen – Am Flughafen Zürich fällt die mühsame Handgepäck-Regel
-- [SRF Schweiz] Initiative «Blackout stoppen» – Wie Mitte-Links das mögliche Kernenergie-Comeback hinauszögert
-- [SRF Wissen] Buchautorin Karen Hao – KI-Unternehmen wachsen so «masslos» wie früher Imperien
-- [SRF Schweiz] Cyberkriminalität – VBS untersucht Ruag-Lösegeldzahlung
-- [SRF Schweiz] Stadt-Land-Graben – SVP wettert gegen Städte – dabei dominiert meistens das Land
-- [20 Min Romandie] Guy Parmelin trifft sich mit zahlreichen Mächtigen
-- [20 Min Romandie] Tödlicher Unfall auf der Baustelle des Campus Santé
-- [SRF Ausland] G7-Treffen in Évian – US-Präsident Trump landet in Genf und hebt gleich wieder ab
-- [20 Min Romandie] Polizeikessel bei Anti-G7-Demo in der Kritik
-- [Morges Actualitiés] Punktuelle Sperrung der Quais für den motorisierten Verkehr
-- [20 Min Romandie] «Man hatte mit viel mehr Schäden gerechnet»
-- [SRF Schweiz] «Keine 10-Mio-Schweiz» – Das Preisschild des Zuwanderungsstopps: Die SVP braucht Antworten
-- [SRF Schweiz] Recycling von Zügen – Aus alten SBB-Zügen werden neue Fassaden und Möbel
-- [SRF Ausland] Krieg im Nahen Osten – USA und Iran verkünden Einigung – das ist bekannt
-- [20 Min Romandie] Vermisster Tourist nach Besuch von Chillon lebend gefunden
-- [SRF Schweiz] Genf – G7-Gegengipfel: Linke diskutieren über KI und Ungleichheit
