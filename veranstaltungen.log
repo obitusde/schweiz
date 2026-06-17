@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 17.6.2026, 07:46:15
+Start: 17.6.2026, 08:47:41
 
 Abruf der RSS-Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -7,88 +7,188 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/LMgYtHqPB9vF.xml
 - https://politepaul.com/fd/AC9SWsow67fe.xml
 - https://politepaul.com/fd/L3cCYeTigq4G.xml
-- https://politepaul.com/fd/L3cCYeTigq4G.xml
+- https://politepaul.com/fd/zKsSAWngDbou.xml
 
 Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'dauerausstellung': 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
+- Gelöscht wegen Keyword 'rüttihubelbad': 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
+- Gelöscht wegen Keyword 'dauerausstellung': 'Dauerausstellungen'
+- Gelöscht wegen Keyword 'dauerausstellung': '"Gut in Schuss". Neue Dauerausstellung'
 
 KI-Filter (Gemini):
-- Gelöscht (KI): 'Séance de Gym équilibr'âge'
-- Gelöscht (KI): 'Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale'
-- Gelöscht (KI): 'Fête de la Musique - Saxo Sunset'
-- Gelöscht (KI): 'Fête de la Musique - La Chorale du Brassus'
-- Gelöscht (KI): 'Fête de la Musique - Récital de piano : Elizabeth Sombart et Stavros Dritsas de la Fondation Résonnance'
-- Gelöscht (KI): 'Fête de la Musique - Concert de Poc des Poub's'
-- Gelöscht (KI): 'Visite guidée : de la collection à l'exposition'
-- Gelöscht (KI): 'Visite guidée du mois'
-- Gelöscht (KI): 'Kodai. L'Antiquité dans la pop culture japonaise'
-- Gelöscht (KI): 'Fête de la Musique - Spécial Japon'
-- Gelöscht (KI): 'Exposition Aquafresca !'
-- Gelöscht (KI): 'CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI'
-- Gelöscht (KI): 'Une exposition tout en contrastes'
-- Gelöscht (KI): 'Écrits d'art brut'
-- Gelöscht (KI): 'SCULPTUR'ELLES'
-- Gelöscht (KI): 'Le petit monde d'Anne Crausaz, à hauteur de fourmis'
-- Gelöscht (KI): 'Exposition: Arbres et Forêts de Daniel Frank'
-- Gelöscht (KI): 'Exposition artistique - Délicatesses forestières'
-- Gelöscht (KI): 'Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne"'
-- Gelöscht (KI): 'Exposition Mimêsis - la nature aux origines de l'innovation'
-- Gelöscht (KI): 'Miaou, meuh, wouf : animaux et art verrier au mudac'
-- Gelöscht (KI): 'Exposition Cataracte de Denis Ponté'
-- Gelöscht (KI): 'Visite guidée - Colonialisme. Une Suisse impliquée'
-- Gelöscht (KI): 'Marchés d'été ArtYsans Yverdon 2026'
-- Gelöscht (KI): 'Les minus au musée - Et nous alors?'
-- Gelöscht (KI): 'Fête de la Musique - Découverte des orgues Ahrend'
-- Gelöscht (KI): 'Café Bienvenue - Rencontre multiculturelle'
-- Gelöscht (KI): 'Draw & Drink x mudac'
-- Gelöscht (KI): 'Projection – L’odyssée de Miette et d’Ella'
-- Gelöscht (KI): 'Visite avec la commissaire – Otobong Nkanga'
-- Gelöscht (KI): 'Workshop – Street photography'
-- Gelöscht (KI): 'Visite commentée – Otobong Nkanga'
-- Gelöscht (KI): 'Fête de la musique « spécial Japon »'
-- Gelöscht (KI): 'Fête de la musique « spécial Japon » – Isao Takahata'
-- Gelöscht (KI): 'Fête de la musique « spécial Japon » – Isao Takahata'
-- Gelöscht (KI): 'Ausstellung «Ausnahme ohne Regel» von Arthur Freuler'
-- Gelöscht (KI): 'Fête de la Musique 2026'
-- Gelöscht (KI): 'Diffusion des matchs de la Coupe du Monde de Football'
-- Gelöscht (KI): 'Ella Maillart'
-- Gelöscht (KI): 'Workshop Arturia (synthétiseurs) avec Noé Largeron'
-- Gelöscht (KI): 'Naturjuwel Haberfeld'
-- Gelöscht (KI): 'Caline Aoun Thresholds of Impermanence'
-- Gelöscht (KI): 'Caline Aoun Thresholds of Impermanence'
-- Gelöscht (KI): 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur'
-- Gelöscht (KI): 'Cours de sport à la piscine - bougez tout l'été'
-- Gelöscht (KI): 'Musée Alexis Forel : Exposition "Salon des fondateurs"'
-- Gelöscht (KI): 'Musée Alexis Forel : Exposition De pierre à image. La lithographie à l'ère postdigitale'
-- Gelöscht (KI): 'Kolonial. Globale Verflechtungen der Schweiz'
-- Gelöscht (KI): 'Ella Maillart. Fotografische Erzählungen'
-- Gelöscht (KI): 'Die Sammlung'
-- Gelöscht (KI): 'Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945'
-- Gelöscht (KI): 'Et nous alors?'
-- Gelöscht (KI): 'Mit fliegendem Teppich durch die Geschichte'
-- Gelöscht (KI): '1110-SPARK'
-- Gelöscht (KI): 'Exposition photographique animalière à la Galerie Soleil de M'inuit'
-- Gelöscht (KI): 'Peintures françaises 1800-1945. Anatomie d’une collection'
-- Gelöscht (KI): '1 Raum, 1 Werk. Installationen aus der Sammlung'
-- Gelöscht (KI): 'Ideen Schweiz'
-- Gelöscht (KI): 'Marina Xenofontos. Play Life'
-- Gelöscht (KI): 'Brian Dawn Chalkley. Angels Suffer Too. In Kooperation mit Fumetto Comic Festival Luzern'
-- Gelöscht (KI): 'La collection'
-- Gelöscht (KI): 'Einfach Zürich'
-- Gelöscht (KI): 'Isao Takahata'
-- Gelöscht (KI): 'Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen'
-- Gelöscht (KI): 'Otobong Nkanga. I dreamt of you in colours'
-- Gelöscht (KI): 'Geschichte Schweiz'
-- Gelöscht (KI): '100 œuvres de la Collection jurassienne des beaux-arts (1985-2025)'
-- Gelöscht (KI): 'Seidenband. Kapital, Kunst & Krise'
-- Gelöscht (KI): 'Mario Sala'
+- Keine Artikel durch KI gefiltert.
 
 Finale Liste (live im XML-Feed):
-- [https://www.museen-bern.ch/de/ausstellungen] Rossinière Royaume des Chats bis 12.09.2026
-- [https://www.museen-bern.ch/de/ausstellungen] Caux Expositions au Caux Palace
-- [https://www.museen-bern.ch/de/ausstellungen] Oron Visite guidée en présence de l'artiste Sève Favre bis 27.06.2026
-- [https://www.museen-bern.ch/de/ausstellungen] Bex Bex Arts 26 : Génies du lieu bis 03.10.2026
-- [https://www.museen-bern.ch/de/ausstellungen] Lausanne De Bailly à Zaric. Collection d'art Ville de Lausanne bis 02.08.2026
-- [https://www.museen-bern.ch/de/ausstellungen] Morges Soirée publique d'astronomie 2026 bis 01.12.2026
-- [Morges Agenda] Morges Espace 81 - exposition SANS FILTRE. Les secrets de l’eau précieuse et naturelle de Morges bis 30.06.2026
-- [museum.ch Ausstellungen] Zug Ilya & Emilia Kabakov – The Tennis Game bis 28.06.2026
+- [Museen Bern] Höhepunkte der Sammlung
+- [Museen Bern] Ausstellung
+- [Museen Bern] Unterwegs
+- [Museen Bern] Souvenir
+- [Museen Bern] Von der Wunderkammer zum Archiv
+- [Museen Bern] Das volle Leben. Alte Meister von Duccio bis Liotard
+- [Museen Bern] Atelier
+- [Museen Bern] Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts
+- [Museen Bern] Vanessa Billy: Superconductors
+- [Museen Bern] Game
+- [Museen Bern] Grönland
+- [Museen Bern] Villa Abegg – Das Anwesen eines Sammlerpaares
+- [Museen Bern] Anno 1811 - Die Anfänge der Blasmusik in der Schweiz
+- [Museen Bern] Lika Nüssli: ›Für die Katz‹
+- [Museen Bern] Die Wunderkammern
+- [Museen Bern] Mensch, Erde! –
+- [Museen Bern] Einstein Museum
+- [Museen Bern] Von Höhenfeuern, Smartphones und Cyborgs
+- [Museen Bern] Massen – Foules – Crowds
+- [Museen Bern] Tai Shani: M.I.A.S.M.A
+- [Museen Bern] Macherinnen
+- [Museen Bern] Thementouren
+- [Museen Bern] Jota Mombaça: compost (continuum)
+- [Museen Bern] Wunderkammer - Die Schausammlung
+- [Museen Bern] Zeitheldinnen auf der Spur
+- [Museen Bern] Audiowalk durch die Nationalbibliothek: LEISES RUMOREN
+- [Museen Bern] «Goldrichtig – Ist Goldrecycling die Zukunft?»
+- [Museen Bern] Panorama Schweiz. Von Caspar Wolf bis Ferdinand Hodler
+- [Museen Bern] Stiftung Expressionismus. Von Gabriele Münter bis Sam Francis
+- [Museen Bern] Die Zeit ins Bild gerückt
+- [Museen Bern] Peter Fischli: Wir Ungestalten
+- [Museen Bern] Murten, ausgeschlachtet.
+- [Museen Bern] Schwitters. Grenzgänger der Avantgarde
+- [Morges Agenda] Séance de Gym équilibr'âge
+- [Museen Bern] Lumpen Station. Töne-Ton-Werden
+- [Morges Agenda] Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale
+- [Museen Bern] Robert Zandvliet. The Painting is a Door
+- [Morges Agenda] Fête de la Musique - Saxo Sunset
+- [Museen Bern] Franz Gertsch. Eisenbett und Trompete, Familie und Paare
+- [Morges Agenda] Fête de la Musique - La Chorale du Brassus
+- [Museen Bern] Leanne Picthall. Meaning So Well
+- [Morges Agenda] Fête de la Musique - Récital de piano : Elizabeth Sombart et Stavros Dritsas de la Fondation Résonnance
+- [Museen Bern] FABRICE HYBER
+- [Morges Agenda] Fête de la Musique - Concert de Poc des Poub's
+- [Museen Bern] SUSANNE KELLER. HINTERKAMMER DES AUGES
+- [Museen Bern] Klimacafé mit den Psychologists for Future (Psy4F)
+- [Museen Bern] Die Post vor 60 Jahren
+- [Museen Bern] Poetics Of Deconstruction
+- [Museen Bern] Fokus. Klees Rückseiten
+- [Museen Bern] Der Fuchs
+- [Museen Bern] Der Sonntagsausflug
+- [Museen Bern] Tabula Musica x Schulmuseum Bern
+- [Museen Bern] Fledermaus-Exkursion: Was flattert denn da?
+- [Museen Bern] Massenstart
+- [Museen Bern] Pétanque-Spielabend im Museumsgarten
+- [Museen Bern] Anne Loch. Malerei: Na und?
+- [Museen Bern] Franz Gertsch. Blow-Up (Part I)
+- [Museen Bern] Sommerfest im Museumsquartier
+- [Museen Bern] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig
+- [Museen Bern] Bisschen theoretisch
+- [Museen Bern] Fokus. Florence Henri (1893–1982)
+- [Museen Bern] Mythos Murten: Auf der Suche nach dem Wir-Gefühl
+- [Museen Bern] Beat Jost – Schöne neue Welt
+- [Museen Bern] Destination: Usakos
+- [Temps Libre - Ce Weekend] Visite guidée : de la collection à l'exposition
+- [Museen Bern] Roberto Burle Marx. Modernismo tropical
+- [Temps Libre - Ce Weekend] Visite guidée du mois
+- [Museen Bern] Dark Gossip
+- [Temps Libre - Ce Weekend] Royaume des Chats à Rossinière
+- [Museen Bern] Reise in die Freiheit. Capri – Skagen – Monte Verità
+- [Temps Libre - Ce Weekend] Kodai. L'Antiquité dans la pop culture japonaise
+- [Museen Bern] CHIPS
+- [Temps Libre - Ce Weekend] Expositions au Caux Palace
+- [Museen Bern] Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert
+- [Temps Libre - Ce Weekend] Fête de la Musique - Spécial Japon
+- [Museen Bern] Silizium: Von den Alpen ins Silicon Valley
+- [Temps Libre - Ce Weekend] Exposition Aquafresca !
+- [Museen Bern] Future Fashion
+- [Temps Libre - Ce Weekend] CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI
+- [Museen Bern] Gezeichnet 2026
+- [Temps Libre - Ce Weekend] Une exposition tout en contrastes
+- [Temps Libre - Ce Weekend] Écrits d'art brut
+- [Museen Bern] Find Ratatösk
+- [Temps Libre - Ce Weekend] SCULPTUR'ELLES
+- [Museen Bern] Historische Blasinstrumente und Trommeln zum Staunen und selber Ausprobieren
+- [Temps Libre - Ce Weekend] Visite guidée en présence de l'artiste Sève Favre
+- [Museen Bern] Barry – der legendäre Bernhardinerhund
+- [Temps Libre - Ce Weekend] Bex Arts 26 : Génies du lieu
+- [Museen Bern] Riesenkristalle – der Schatz vom Planggenstock
+- [Temps Libre - Ce Weekend] Le petit monde d'Anne Crausaz, à hauteur de fourmis
+- [Museen Bern] Flossen-Füsse-Flügel
+- [Temps Libre - Ce Weekend] Exposition: Arbres et Forêts de Daniel Frank
+- [Museen Bern] Ständige Ausstellung zur Kinogeschichte
+- [Temps Libre - Ce Weekend] Exposition artistique - Délicatesses forestières
+- [Museen Bern] Originale Objekte der griechischen, etruskischen und römischen Kleinkunst und eine reiche Sammlung von Gipsabgüssen nach antiken Skulpturen
+- [Temps Libre - Ce Weekend] Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne"
+- [Museen Bern] Theater in Gegenwart und Geschichte
+- [Temps Libre - Ce Weekend] Exposition Mimêsis - la nature aux origines de l'innovation
+- [Museen Bern] Falknerei – Ein Greif auf meiner Hand
+- [Temps Libre - Ce Weekend] Miaou, meuh, wouf : animaux et art verrier au mudac
+- [Museen Bern] Die Jagdhistorische Sammlung La Roche
+- [Temps Libre - Ce Weekend] Exposition Cataracte de Denis Ponté
+- [Museen Bern] Wild und Mensch in der Kulturlandschaft
+- [Temps Libre - Ce Weekend] Visite guidée - Colonialisme. Une Suisse impliquée
+- [Museen Bern] Spuren der Jagd in der Schweiz
+- [Temps Libre - Ce Weekend] De Bailly à Zaric. Collection d'art Ville de Lausanne
+- [Museen Bern] Lockvögel, Sammlung Heinrich und Heidi Brandenberger
+- [Temps Libre - Ce Weekend] Marchés d'été ArtYsans Yverdon 2026
+- [Museen Bern] Feuerwaffen der Schweizer Jäger im 19. und 20. Jahrhundert
+- [Temps Libre - Ce Weekend] Les minus au musée - Et nous alors?
+- [Museen Bern] Tiere der Schweiz
+- [Temps Libre - Ce Weekend] Soirée publique d'astronomie 2026
+- [Museen Bern] Käfer & Co
+- [Museen Bern] Tiere Afrikas
+- [Museen Bern] Steine der Erde
+- [Museen Bern] Die grosse Knochenschau
+- [Museen Bern] Der Jagdhund – Helfer und Freund
+- [Museen Bern] Auf eigene Faust
+- [Museen Bern] Picas Nest
+- [Museen Bern] Das Jagdhorn
+- [Museen Bern] Tiere des Nordens
+- [Museen Bern] Audiowalk «Louf mit mir!»
+- [Museen Bern] Biel und der Röstigraben
+- [Museen Bern] Freiheit! Eine musikalische Annäherung
+- [Museen Bern] Kosmos Klee. Die Sammlung
+- [Museen Bern] "Leben ist Schwingung" und "Vita und Werk Hugo Kükelhaus"
+- [Museen Bern] SchulSchaulager
+- [Morges Agenda] Fête de la Musique - Découverte des orgues Ahrend
+- [Morges Agenda] Café Bienvenue - Rencontre multiculturelle
+- [Platform 10 Events 2] Draw & Drink x mudac
+- [Platform 10 Events 2] Projection – L’odyssée de Miette et d’Ella
+- [Platform 10 Events 2] Visite avec la commissaire – Otobong Nkanga
+- [Platform 10 Events 2] Workshop – Street photography
+- [Platform 10 Events 2] Visite commentée – Otobong Nkanga
+- [Platform 10 Events 2] Fête de la musique « spécial Japon »
+- [Platform 10 Events 2] Fête de la musique « spécial Japon » – Isao Takahata
+- [Platform 10 Events 2] Fête de la musique « spécial Japon » – Isao Takahata
+- [museum.ch Ausstellungen] Ausstellung «Ausnahme ohne Regel» von Arthur Freuler
+- [Morges Agenda] Fête de la Musique 2026
+- [Morges Agenda] Diffusion des matchs de la Coupe du Monde de Football
+- [Platform 10 Events] Ella Maillart
+- [Morges Agenda] Workshop Arturia (synthétiseurs) avec Noé Largeron
+- [museum.ch Ausstellungen] Naturjuwel Haberfeld
+- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
+- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
+- [Morges Agenda] Espace 81 - exposition SANS FILTRE. Les secrets de l’eau précieuse et naturelle de Morges.
+- [museum.ch Ausstellungen] Wildes Baselbiet. Tieren und Pflanzen auf der Spur
+- [Morges Agenda] Cours de sport à la piscine - bougez tout l'été
+- [Morges Agenda] Musée Alexis Forel : Exposition "Salon des fondateurs"
+- [Morges Agenda] Musée Alexis Forel : Exposition De pierre à image. La lithographie à l'ère postdigitale
+- [museum.ch Ausstellungen] Kolonial. Globale Verflechtungen der Schweiz
+- [museum.ch Ausstellungen] Ella Maillart. Fotografische Erzählungen
+- [museum.ch Ausstellungen] Die Sammlung
+- [Morges Agenda] Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945
+- [Platform 10 Events] Et nous alors?
+- [museum.ch Ausstellungen] Mit fliegendem Teppich durch die Geschichte
+- [Morges Agenda] 1110-SPARK
+- [museum.ch Ausstellungen] Ilya & Emilia Kabakov – The Tennis Game - Kunsthaus Zug Schaudepot
+- [Morges Agenda] Exposition photographique animalière à la Galerie Soleil de M'inuit
+- [Platform 10 Events] Peintures françaises 1800-1945. Anatomie d’une collection
+- [museum.ch Ausstellungen] 1 Raum, 1 Werk. Installationen aus der Sammlung
+- [museum.ch Ausstellungen] Ideen Schweiz
+- [Platform 10 Events] Marina Xenofontos. Play Life
+- [museum.ch Ausstellungen] Brian Dawn Chalkley. Angels Suffer Too. In Kooperation mit Fumetto Comic Festival Luzern
+- [Platform 10 Events] La collection
+- [museum.ch Ausstellungen] Einfach Zürich
+- [Platform 10 Events] Isao Takahata
+- [museum.ch Ausstellungen] Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen
+- [Platform 10 Events] Otobong Nkanga. I dreamt of you in colours
+- [museum.ch Ausstellungen] Geschichte Schweiz
+- [museum.ch Ausstellungen] 100 œuvres de la Collection jurassienne des beaux-arts (1985-2025)
+- [museum.ch Ausstellungen] Seidenband. Kapital, Kunst & Krise
+- [museum.ch Ausstellungen] Mario Sala
