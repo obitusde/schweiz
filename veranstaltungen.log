@@ -1,7 +1,7 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 17.6.2026, 10:14:40
+Start: 17.6.2026, 14:09:58
 
-Abruf der RSS-Feeds:
+Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
 - https://politepaul.com/fd/dkhMccrxjNSn.xml
 - https://politepaul.com/fd/LMgYtHqPB9vF.xml
@@ -9,185 +9,192 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/L3cCYeTigq4G.xml
 - https://politepaul.com/fd/zKsSAWngDbou.xml
 
+Kein Link (ignoriert):
+- Keine.
+
 Statischer Filter (Keywords):
-- Gelöscht wegen Keyword 'dauerausstellung': [museum.ch Ausstellungen] 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Gelöscht wegen Keyword 'rüttihubelbad': [Museen Bern] 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
-- Gelöscht wegen Keyword 'dauerausstellung': [Museen Bern] 'Dauerausstellungen'
-- Gelöscht wegen Keyword 'dauerausstellung': [Museen Bern] '"Gut in Schuss". Neue Dauerausstellung'
+- Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
+- Gelöscht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
+- Gelöscht [Keyword 'dauerausstellung']: 'Dauerausstellungen'
+- Gelöscht [Keyword 'dauerausstellung']: '"Gut in Schuss". Neue Dauerausstellung'
 
-KI-Filter (Gemini):
-- Gelöscht (KI): [Museen Bern] 'Höhepunkte der Sammlung' | Grund: Event ohne Daten und Beschreibung (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Ausstellung' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Unterwegs' | Grund: Event ohne Daten (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Souvenir' | Grund: Event ohne Daten (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Von der Wunderkammer zum Archiv' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Das volle Leben. Alte Meister von Duccio bis Liotard' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Atelier' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Vanessa Billy: Superconductors' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Game' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Grönland' | Grund: Event ohne Daten (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Villa Abegg – Das Anwesen eines Sammlerpaares' | Grund: Event ohne Daten (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Anno 1811 - Die Anfänge der Blasmusik in der Schweiz' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Lika Nüssli: ›Für die Katz‹' | Grund: Event ohne Daten (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Die Wunderkammern' | Grund: Event ohne Daten (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Mensch, Erde! –' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Einstein Museum' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Von Höhenfeuern, Smartphones und Cyborgs' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Massen – Foules – Crowds' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Tai Shani: M.I.A.S.M.A' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Macherinnen' | Grund: Event ohne Daten (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Thementouren' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Jota Mombaça: compost (continuum)' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Wunderkammer - Die Schausammlung' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Zeitheldinnen auf der Spur' | Grund: Event ohne Daten (Dauerausstellung) und für Kinder (Rätselspiel).
-- Gelöscht (KI): [Museen Bern] 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] '«Goldrichtig – Ist Goldrecycling die Zukunft?»' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Panorama Schweiz. Von Caspar Wolf bis Ferdinand Hodler' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Stiftung Expressionismus. Von Gabriele Münter bis Sam Francis' | Grund: Event ohne Daten und Beschreibung.
-- Gelöscht (KI): [Museen Bern] 'Die Zeit ins Bild gerückt' | Grund: Event ohne Daten (Dauerausstellung).
-- Gelöscht (KI): [Museen Bern] 'Peter Fischli: Wir Ungestalten' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Murten, ausgeschlachtet.' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Schwitters. Grenzgänger der Avantgarde' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Morges Agenda] 'Séance de Gym équilibr'âge' | Grund: Das Event richtet sich exklusiv an Senioren (équilibr'âge).
-- Gelöscht (KI): [Museen Bern] 'Lumpen Station. Töne-Ton-Werden' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Robert Zandvliet. The Painting is a Door' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Franz Gertsch. Eisenbett und Trompete, Familie und Paare' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Leanne Picthall. Meaning So Well' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'FABRICE HYBER' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'SUSANNE KELLER. HINTERKAMMER DES AUGES' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Klimacafé mit den Psychologists for Future (Psy4F)' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Die Post vor 60 Jahren' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Poetics Of Deconstruction' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Fokus. Klees Rückseiten' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Der Fuchs' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Der Sonntagsausflug' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Tabula Musica x Schulmuseum Bern' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Fledermaus-Exkursion: Was flattert denn da?' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Massenstart' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Pétanque-Spielabend im Museumsgarten' | Grund: Keine vollständigen Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Franz Gertsch. Blow-Up (Part I)' | Grund: Keine vollständigen Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Sommerfest im Museumsquartier' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig' | Grund: Keine Veranstaltungsdaten im Text auffindbar.
-- Gelöscht (KI): [Museen Bern] 'Fokus. Florence Henri (1893–1982)' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Mythos Murten: Auf der Suche nach dem Wir-Gefühl' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Destination: Usakos' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Temps Libre - Ce Weekend] 'Visite guidée : de la collection à l'exposition' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Roberto Burle Marx. Modernismo tropical' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Temps Libre - Ce Weekend] 'Visite guidée du mois' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Dark Gossip' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Reise in die Freiheit. Capri – Skagen – Monte Verità' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Silizium: Von den Alpen ins Silicon Valley' | Grund: Keine konkreten Veranstaltungsdaten im Text ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Find Ratatösk' | Grund: Veranstaltungsort und -datum absolut nicht ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Historische Blasinstrumente und Trommeln zum Staunen und selber Ausprobieren' | Grund: Veranstaltungsort und -datum absolut nicht ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Barry – der legendäre Bernhardinerhund' | Grund: Veranstaltungsort und -datum absolut nicht ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Riesenkristalle – der Schatz vom Planggenstock' | Grund: Veranstaltungsort und -datum absolut nicht ermittelbar.
-- Gelöscht (KI): [Museen Bern] 'Flossen-Füsse-Flügel' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Ständige Ausstellung zur Kinogeschichte' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Temps Libre - Ce Weekend] 'Exposition artistique - Délicatesses forestières' | Grund: Enddatum unvollständig oder nicht bestimmbar.
-- Gelöscht (KI): [Museen Bern] 'Originale Objekte der griechischen, etruskischen und römischen Kleinkunst und eine reiche Sammlung von Gipsabgüssen nach antiken Skulpturen' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Theater in Gegenwart und Geschichte' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Temps Libre - Ce Weekend] 'Exposition Mimêsis - la nature aux origines de l'innovation' | Grund: Das Enddatum (11.04.2026) liegt vor dem heutigen Datum (17.06.2026).
-- Gelöscht (KI): [Museen Bern] 'Falknerei – Ein Greif auf meiner Hand' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Temps Libre - Ce Weekend] 'Miaou, meuh, wouf : animaux et art verrier au mudac' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Die Jagdhistorische Sammlung La Roche' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Wild und Mensch in der Kulturlandschaft' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Spuren der Jagd in der Schweiz' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Lockvögel, Sammlung Heinrich und Heidi Brandenberger' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Feuerwaffen der Schweizer Jäger im 19. und 20. Jahrhundert' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Temps Libre - Ce Weekend] 'Les minus au musée - Et nous alors?' | Grund: Event richtet sich ausschließlich an Kleinkinder (tout-petits).
-- Gelöscht (KI): [Museen Bern] 'Tiere der Schweiz' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Käfer & Co' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Tiere Afrikas' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Steine der Erde' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Die grosse Knochenschau' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Der Jagdhund – Helfer und Freund' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Auf eigene Faust' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Picas Nest' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Das Jagdhorn' | Grund: Keine Veranstaltungsdaten im Text vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Tiere des Nordens' | Grund: Keine Datumsangaben vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Audiowalk «Louf mit mir!»' | Grund: Keine Datumsangaben vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Biel und der Röstigraben' | Grund: Keine Datumsangaben vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Freiheit! Eine musikalische Annäherung' | Grund: Keine Datumsangaben vorhanden.
-- Gelöscht (KI): [Museen Bern] 'Kosmos Klee. Die Sammlung' | Grund: Keine Datumsangaben vorhanden.
-- Gelöscht (KI): [Museen Bern] '"Leben ist Schwingung" und "Vita und Werk Hugo Kükelhaus"' | Grund: Keine Datumsangaben vorhanden.
-- Gelöscht (KI): [Museen Bern] 'SchulSchaulager' | Grund: Keine Datumsangaben vorhanden.
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Ausstellung «Ausnahme ohne Regel» von Arthur Freuler' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig.
-- Gelöscht (KI): [Platform 10 Events] 'Ella Maillart' | Grund: Keine Datumsangaben vorhanden.
-- Gelöscht (KI): [Morges Agenda] 'Workshop Arturia (synthétiseurs) avec Noé Largeron' | Grund: Das Enddatum liegt in der Vergangenheit (10.06.2026).
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Naturjuwel Haberfeld' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig.
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Caline Aoun Thresholds of Impermanence' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig.
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Caline Aoun Thresholds of Impermanence' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig.
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur' | Grund: Veranstaltungsort nicht präzise ermittelbar.
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Kolonial. Globale Verflechtungen der Schweiz' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Ella Maillart. Fotografische Erzählungen' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Die Sammlung' | Grund: Dauerausstellung, Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [Platform 10 Events] 'Et nous alors?' | Grund: Keine Datumsangaben vorhanden
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Mit fliegendem Teppich durch die Geschichte' | Grund: Event für Kinder, Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Ilya & Emilia Kabakov – The Tennis Game - Kunsthaus Zug Schaudepot' | Grund: Enddatum unvollständig und nicht bestimmbar
-- Gelöscht (KI): [Platform 10 Events] 'Peintures françaises 1800-1945. Anatomie d’une collection' | Grund: Keine Datumsangaben vorhanden
-- Gelöscht (KI): [museum.ch Ausstellungen] '1 Raum, 1 Werk. Installationen aus der Sammlung' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Ideen Schweiz' | Grund: Dauerausstellung, Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [Platform 10 Events] 'Marina Xenofontos. Play Life' | Grund: Keine Datumsangaben vorhanden
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Brian Dawn Chalkley. Angels Suffer Too. In Kooperation mit Fumetto Comic Festival Luzern' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [Platform 10 Events] 'La collection' | Grund: Keine Datumsangaben vorhanden
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Einfach Zürich' | Grund: Dauerausstellung und Enddatum unvollständig
-- Gelöscht (KI): [Platform 10 Events] 'Isao Takahata' | Grund: Keine Datumsangaben vorhanden
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [Platform 10 Events] 'Otobong Nkanga. I dreamt of you in colours' | Grund: Keine Datumsangaben vorhanden
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Geschichte Schweiz' | Grund: Dauerausstellung, Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [museum.ch Ausstellungen] '100 œuvres de la Collection jurassienne des beaux-arts (1985-2025)' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Seidenband. Kapital, Kunst & Krise' | Grund: Dauerausstellung und Veranstaltungsort nicht eindeutig ermittelbar
-- Gelöscht (KI): [museum.ch Ausstellungen] 'Mario Sala' | Grund: Veranstaltungsort nicht ermittelbar und Enddatum unvollständig
+Aus Cache übernommen (0):
+- Keine.
 
-Finale Liste (live im XML-Feed):
-- [Morges Agenda] Morges Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale bis 18.06.2026
-- [Morges Agenda] Morges Fête de la Musique - Saxo Sunset bis 18.06.2026
-- [Morges Agenda] Morges Fête de la Musique - La Chorale du Brassus bis 18.06.2026
-- [Morges Agenda] Morges Fête de la Musique - Récital de piano : Elizabeth Sombart et Stavros Dritsas de la Fondation Résonnance bis 18.06.2026
-- [Morges Agenda] Morges Fête de la Musique - Concert de Poc des Poub's bis 18.06.2026
-- [Museen Bern] Bern Anne Loch. Malerei: Na und? bis 18.07.2026
-- [Museen Bern] Bern Bisschen theoretisch bis 28.08.2026
-- [Museen Bern] Bern Beat Jost – Schöne neue Welt [bis 04.09.2026]
-- [Temps Libre - Ce Weekend] Rossinière Royaume des Chats à Rossinière [bis 12.09.2026]
-- [Temps Libre - Ce Weekend] Vaud Kodai. L'Antiquité dans la pop culture japonaise [bis 24.01.2027]
-- [Museen Bern] Bern CHIPS [bis 13.11.2026]
-- [Temps Libre - Ce Weekend] Caux Expositions au Caux Palace
-- [Temps Libre - Ce Weekend] Lausanne Fête de la Musique - Spécial Japon [bis 21.06.2026]
-- [Temps Libre - Ce Weekend] Vaud Exposition Aquafresca ! [bis 19.07.2026]
-- [Museen Bern] Bern Future Fashion [bis 27.11.2026]
-- [Temps Libre - Ce Weekend] Vaud CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI [bis 04.07.2026]
-- [Museen Bern] Bern Gezeichnet 2026 [bis 11.12.2026]
-- [Temps Libre - Ce Weekend] Vaud Une exposition tout en contrastes [bis 04.07.2026]
-- [Temps Libre - Ce Weekend] Vaud Écrits d'art brut [bis 30.08.2026]
-- [Temps Libre - Ce Weekend] Vaud SCULPTUR'ELLES [bis 21.06.2026]
-- [Temps Libre - Ce Weekend] Oron Visite guidée en présence de l'artiste Sève Favre [bis 27.06.2026]
-- [Temps Libre - Ce Weekend] Bex Bex Arts 26 : Génies du lieu [bis 03.10.2026]
-- [Temps Libre - Ce Weekend] Vaud Le petit monde d'Anne Crausaz, à hauteur de fourmis [bis 05.07.2026]
-- [Temps Libre - Ce Weekend] [Vaud] Exposition: Arbres et Forêts de Daniel Frank [bis 04.07.2026]
-- [Temps Libre - Ce Weekend] [Lausanne] Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne" [bis 20.06.2026]
-- [Temps Libre - Ce Weekend] [Vaud] Exposition Cataracte de Denis Ponté [bis 27.06.2026]
-- [Temps Libre - Ce Weekend] [Vaud] Visite guidée - Colonialisme. Une Suisse impliquée [bis 27.09.2026]
-- [Temps Libre - Ce Weekend] [Lausanne] De Bailly à Zaric. Collection d'art Ville de Lausanne [bis 02.08.2026]
-- [Temps Libre - Ce Weekend] [Yverdon] Marchés d'été ArtYsans Yverdon 2026 [bis 03.10.2026]
-- [Temps Libre - Ce Weekend] [Morges] Soirée publique d'astronomie 2026 [bis 01.12.2026]
-- [Morges Agenda] [Morges] Fête de la Musique - Découverte des orgues Ahrend [bis 17.06.2026]
-- [Morges Agenda] [Morges] Café Bienvenue - Rencontre multiculturelle [bis 17.06.2026]
-- [Platform 10 Events 2] [Platform 10] Draw & Drink x mudac [bis 18.06.2026]
-- [Platform 10 Events 2] [Platform 10] Projection – L’odyssée de Miette et d’Ella [bis 18.06.2026]
-- [Platform 10 Events 2] [Platform 10] Visite avec la commissaire – Otobong Nkanga [bis 18.06.2026]
-- [Platform 10 Events 2] [Platform 10] Workshop – Street photography [bis 20.06.2026]
-- [Platform 10 Events 2] [Platform 10] Visite commentée – Otobong Nkanga [bis 21.06.2026]
-- [Platform 10 Events 2] [Platform 10] Fête de la musique « spécial Japon » [bis 21.06.2026]
-- [Platform 10 Events 2] [Platform 10] Fête de la musique « spécial Japon » – Isao Takahata [bis 21.06.2026]
-- [Platform 10 Events 2] [Platform 10] Fête de la musique « spécial Japon » – Isao Takahata [bis 21.06.2026]
-- [Morges Agenda] [Morges] Fête de la Musique 2026 [bis 21.06.2026]
-- [Morges Agenda] [Morges] Diffusion des matchs de la Coupe du Monde de Football [bis 19.07.2026]
-- [Morges Agenda] [Morges] Espace 81 - exposition SANS FILTRE [bis 30.06.2026]
-- [Morges Agenda] [Morges] Cours de sport à la piscine - bougez tout l'été [bis 30.08.2026]
-- [Morges Agenda] [Morges] Musée Alexis Forel : Exposition "Salon des fondateurs" [bis 01.11.2026]
-- [Morges Agenda] [Morges] Musée Alexis Forel : Exposition De pierre à image [bis 01.11.2026]
-- [Morges Agenda] [Morges] Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945 [bis 20.12.2026]
-- [Morges Agenda] [Morges] 1110-SPARK [bis 27.06.2026]
-- [Morges Agenda] [Morges] Exposition photographique animalière à la Galerie Soleil de M'inuit [bis 30.06.2026]
+KI-Filter / Cache-Löschungen (0):
+- Keine.
+
+Finale Liste (173 Einträge):
+- [Museen Bern] Höhepunkte der Sammlung
+- [Museen Bern] Ausstellung
+- [Museen Bern] Unterwegs
+- [Museen Bern] Souvenir
+- [Museen Bern] Von der Wunderkammer zum Archiv
+- [Museen Bern] Das volle Leben. Alte Meister von Duccio bis Liotard
+- [Museen Bern] Atelier
+- [Museen Bern] Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts
+- [Museen Bern] Vanessa Billy: Superconductors
+- [Museen Bern] Game
+- [Museen Bern] Grönland
+- [Museen Bern] Villa Abegg – Das Anwesen eines Sammlerpaares
+- [Museen Bern] Anno 1811 - Die Anfänge der Blasmusik in der Schweiz
+- [Museen Bern] Lika Nüssli: ›Für die Katz‹
+- [Museen Bern] Die Wunderkammern
+- [Museen Bern] Mensch, Erde! –
+- [Museen Bern] Einstein Museum
+- [Museen Bern] Von Höhenfeuern, Smartphones und Cyborgs
+- [Museen Bern] Massen – Foules – Crowds
+- [Museen Bern] Tai Shani: M.I.A.S.M.A
+- [Museen Bern] Macherinnen
+- [Museen Bern] Thementouren
+- [Museen Bern] Jota Mombaça: compost (continuum)
+- [Museen Bern] Wunderkammer - Die Schausammlung
+- [Museen Bern] Zeitheldinnen auf der Spur
+- [Museen Bern] Audiowalk durch die Nationalbibliothek: LEISES RUMOREN
+- [Museen Bern] «Goldrichtig – Ist Goldrecycling die Zukunft?»
+- [Museen Bern] Panorama Schweiz. Von Caspar Wolf bis Ferdinand Hodler
+- [Museen Bern] Stiftung Expressionismus. Von Gabriele Münter bis Sam Francis
+- [Museen Bern] Die Zeit ins Bild gerückt
+- [Museen Bern] Peter Fischli: Wir Ungestalten
+- [Museen Bern] Murten, ausgeschlachtet.
+- [Museen Bern] Schwitters. Grenzgänger der Avantgarde
+- [Morges Agenda] Séance de Gym équilibr'âge
+- [Museen Bern] Lumpen Station. Töne-Ton-Werden
+- [Morges Agenda] Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale
+- [Museen Bern] Robert Zandvliet. The Painting is a Door
+- [Morges Agenda] Fête de la Musique - Saxo Sunset
+- [Museen Bern] Franz Gertsch. Eisenbett und Trompete, Familie und Paare
+- [Morges Agenda] Fête de la Musique - La Chorale du Brassus
+- [Museen Bern] Leanne Picthall. Meaning So Well
+- [Morges Agenda] Fête de la Musique - Récital de piano : Elizabeth Sombart et Stavros Dritsas de la Fondation Résonnance
+- [Museen Bern] FABRICE HYBER
+- [Morges Agenda] Fête de la Musique - Concert de Poc des Poub's
+- [Museen Bern] SUSANNE KELLER. HINTERKAMMER DES AUGES
+- [Museen Bern] Klimacafé mit den Psychologists for Future (Psy4F)
+- [Museen Bern] Die Post vor 60 Jahren
+- [Museen Bern] Poetics Of Deconstruction
+- [Museen Bern] Fokus. Klees Rückseiten
+- [Museen Bern] Der Fuchs
+- [Museen Bern] Der Sonntagsausflug
+- [Museen Bern] Tabula Musica x Schulmuseum Bern
+- [Museen Bern] Fledermaus-Exkursion: Was flattert denn da?
+- [Museen Bern] Massenstart
+- [Museen Bern] Pétanque-Spielabend im Museumsgarten
+- [Museen Bern] Anne Loch. Malerei: Na und?
+- [Museen Bern] Franz Gertsch. Blow-Up (Part I)
+- [Museen Bern] Sommerfest im Museumsquartier
+- [Museen Bern] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig
+- [Museen Bern] Bisschen theoretisch
+- [Museen Bern] Fokus. Florence Henri (1893–1982)
+- [Museen Bern] Mythos Murten: Auf der Suche nach dem Wir-Gefühl
+- [Museen Bern] Beat Jost – Schöne neue Welt
+- [Museen Bern] Destination: Usakos
+- [Temps Libre - Ce Weekend] Visite guidée : de la collection à l'exposition
+- [Museen Bern] Roberto Burle Marx. Modernismo tropical
+- [Temps Libre - Ce Weekend] Visite guidée du mois
+- [Museen Bern] Dark Gossip
+- [Temps Libre - Ce Weekend] Royaume des Chats à Rossinière
+- [Museen Bern] Reise in die Freiheit. Capri – Skagen – Monte Verità
+- [Temps Libre - Ce Weekend] Kodai. L'Antiquité dans la pop culture japonaise
+- [Museen Bern] CHIPS
+- [Temps Libre - Ce Weekend] Expositions au Caux Palace
+- [Museen Bern] Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert
+- [Temps Libre - Ce Weekend] Fête de la Musique - Spécial Japon
+- [Museen Bern] Silizium: Von den Alpen ins Silicon Valley
+- [Temps Libre - Ce Weekend] Exposition Aquafresca !
+- [Museen Bern] Future Fashion
+- [Temps Libre - Ce Weekend] CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI
+- [Museen Bern] Gezeichnet 2026
+- [Temps Libre - Ce Weekend] Une exposition tout en contrastes
+- [Temps Libre - Ce Weekend] Écrits d'art brut
+- [Museen Bern] Find Ratatösk
+- [Temps Libre - Ce Weekend] SCULPTUR'ELLES
+- [Museen Bern] Historische Blasinstrumente und Trommeln zum Staunen und selber Ausprobieren
+- [Temps Libre - Ce Weekend] Visite guidée en présence de l'artiste Sève Favre
+- [Museen Bern] Barry – der legendäre Bernhardinerhund
+- [Temps Libre - Ce Weekend] Bex Arts 26 : Génies du lieu
+- [Museen Bern] Riesenkristalle – der Schatz vom Planggenstock
+- [Temps Libre - Ce Weekend] Le petit monde d'Anne Crausaz, à hauteur de fourmis
+- [Museen Bern] Flossen-Füsse-Flügel
+- [Temps Libre - Ce Weekend] Exposition: Arbres et Forêts de Daniel Frank
+- [Museen Bern] Ständige Ausstellung zur Kinogeschichte
+- [Temps Libre - Ce Weekend] Exposition artistique - Délicatesses forestières
+- [Museen Bern] Originale Objekte der griechischen, etruskischen und römischen Kleinkunst und eine reiche Sammlung von Gipsabgüssen nach antiken Skulpturen
+- [Temps Libre - Ce Weekend] Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne"
+- [Museen Bern] Theater in Gegenwart und Geschichte
+- [Temps Libre - Ce Weekend] Exposition Mimêsis - la nature aux origines de l'innovation
+- [Museen Bern] Falknerei – Ein Greif auf meiner Hand
+- [Temps Libre - Ce Weekend] Miaou, meuh, wouf : animaux et art verrier au mudac
+- [Museen Bern] Die Jagdhistorische Sammlung La Roche
+- [Temps Libre - Ce Weekend] Exposition Cataracte de Denis Ponté
+- [Museen Bern] Wild und Mensch in der Kulturlandschaft
+- [Temps Libre - Ce Weekend] Visite guidée - Colonialisme. Une Suisse impliquée
+- [Museen Bern] Spuren der Jagd in der Schweiz
+- [Temps Libre - Ce Weekend] De Bailly à Zaric. Collection d'art Ville de Lausanne
+- [Museen Bern] Lockvögel, Sammlung Heinrich und Heidi Brandenberger
+- [Temps Libre - Ce Weekend] Marchés d'été ArtYsans Yverdon 2026
+- [Museen Bern] Feuerwaffen der Schweizer Jäger im 19. und 20. Jahrhundert
+- [Temps Libre - Ce Weekend] Les minus au musée - Et nous alors?
+- [Museen Bern] Tiere der Schweiz
+- [Temps Libre - Ce Weekend] Soirée publique d'astronomie 2026
+- [Museen Bern] Käfer & Co
+- [Museen Bern] Tiere Afrikas
+- [Museen Bern] Steine der Erde
+- [Museen Bern] Die grosse Knochenschau
+- [Museen Bern] Der Jagdhund – Helfer und Freund
+- [Museen Bern] Auf eigene Faust
+- [Museen Bern] Picas Nest
+- [Museen Bern] Das Jagdhorn
+- [Museen Bern] Tiere des Nordens
+- [Museen Bern] Audiowalk «Louf mit mir!»
+- [Museen Bern] Biel und der Röstigraben
+- [Museen Bern] Freiheit! Eine musikalische Annäherung
+- [Museen Bern] Kosmos Klee. Die Sammlung
+- [Museen Bern] "Leben ist Schwingung" und "Vita und Werk Hugo Kükelhaus"
+- [Museen Bern] SchulSchaulager
+- [Morges Agenda] Fête de la Musique - Découverte des orgues Ahrend
+- [Morges Agenda] Café Bienvenue - Rencontre multiculturelle
+- [Platform 10 Events 2] Draw & Drink x mudac
+- [Platform 10 Events 2] Projection – L’odyssée de Miette et d’Ella
+- [Platform 10 Events 2] Visite avec la commissaire – Otobong Nkanga
+- [Platform 10 Events 2] Workshop – Street photography
+- [Platform 10 Events 2] Visite commentée – Otobong Nkanga
+- [Platform 10 Events 2] Fête de la musique « spécial Japon »
+- [Platform 10 Events 2] Fête de la musique « spécial Japon » – Isao Takahata
+- [Platform 10 Events 2] Fête de la musique « spécial Japon » – Isao Takahata
+- [museum.ch Ausstellungen] Ausstellung «Ausnahme ohne Regel» von Arthur Freuler
+- [Morges Agenda] Fête de la Musique 2026
+- [Morges Agenda] Diffusion des matchs de la Coupe du Monde de Football
+- [Platform 10 Events] Ella Maillart
+- [Morges Agenda] Workshop Arturia (synthétiseurs) avec Noé Largeron
+- [museum.ch Ausstellungen] Naturjuwel Haberfeld
+- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
+- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
+- [Morges Agenda] Espace 81 - exposition SANS FILTRE. Les secrets de l’eau précieuse et naturelle de Morges.
+- [museum.ch Ausstellungen] Wildes Baselbiet. Tieren und Pflanzen auf der Spur
+- [Morges Agenda] Cours de sport à la piscine - bougez tout l'été
+- [Morges Agenda] Musée Alexis Forel : Exposition "Salon des fondateurs"
+- [Morges Agenda] Musée Alexis Forel : Exposition De pierre à image. La lithographie à l'ère postdigitale
+- [museum.ch Ausstellungen] Kolonial. Globale Verflechtungen der Schweiz
+- [museum.ch Ausstellungen] Ella Maillart. Fotografische Erzählungen
+- [museum.ch Ausstellungen] Die Sammlung
+- [Morges Agenda] Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945
+- [Platform 10 Events] Et nous alors?
+- [museum.ch Ausstellungen] Mit fliegendem Teppich durch die Geschichte
+- [Morges Agenda] 1110-SPARK
+- [museum.ch Ausstellungen] Ilya & Emilia Kabakov – The Tennis Game - Kunsthaus Zug Schaudepot
+- [Morges Agenda] Exposition photographique animalière à la Galerie Soleil de M'inuit
+- [Platform 10 Events] Peintures françaises 1800-1945. Anatomie d’une collection
+- [museum.ch Ausstellungen] 1 Raum, 1 Werk. Installationen aus der Sammlung
+- [museum.ch Ausstellungen] Ideen Schweiz
+- [Platform 10 Events] Marina Xenofontos. Play Life
+- [museum.ch Ausstellungen] Brian Dawn Chalkley. Angels Suffer Too. In Kooperation mit Fumetto Comic Festival Luzern
+- [Platform 10 Events] La collection
+- [museum.ch Ausstellungen] Einfach Zürich
+- [Platform 10 Events] Isao Takahata
+- [museum.ch Ausstellungen] Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen
+- [Platform 10 Events] Otobong Nkanga. I dreamt of you in colours
+- [museum.ch Ausstellungen] Geschichte Schweiz
+- [museum.ch Ausstellungen] 100 œuvres de la Collection jurassienne des beaux-arts (1985-2025)
+- [museum.ch Ausstellungen] Seidenband. Kapital, Kunst & Krise
+- [museum.ch Ausstellungen] Mario Sala
