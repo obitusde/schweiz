@@ -1,69 +1,94 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 15.6.2026, 22:33:52
+Start: 17.6.2026, 07:46:15
 
 Abruf der RSS-Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
-- https://politepaul.com/fd/2tDyJyqc9jWn.xml
 - https://politepaul.com/fd/dkhMccrxjNSn.xml
 - https://politepaul.com/fd/LMgYtHqPB9vF.xml
 - https://politepaul.com/fd/AC9SWsow67fe.xml
+- https://politepaul.com/fd/L3cCYeTigq4G.xml
+- https://politepaul.com/fd/L3cCYeTigq4G.xml
 
 Statischer Filter (Keywords):
-- Keine Artikel durch statische Keywords gefiltert.
+- Gelöscht wegen Keyword 'dauerausstellung': 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
 
 KI-Filter (Gemini):
-- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Yoga Sénior 60+'
-- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Sortie poussettes et partage d'expériences'
-- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Ausstellung «Ausnahme ohne Regel» von Arthur Freuler'
-- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Workshop Arturia (synthétiseurs) avec Noé Largeron'
-- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Caline Aoun Thresholds of Impermanence'
-- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Ella Maillart. Fotografische Erzählungen'
-- Gelöscht (Grund: KI-Filter/Vergangenheit/Duplikat): 'Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen'
+- Gelöscht (KI): 'Séance de Gym équilibr'âge'
+- Gelöscht (KI): 'Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale'
+- Gelöscht (KI): 'Fête de la Musique - Saxo Sunset'
+- Gelöscht (KI): 'Fête de la Musique - La Chorale du Brassus'
+- Gelöscht (KI): 'Fête de la Musique - Récital de piano : Elizabeth Sombart et Stavros Dritsas de la Fondation Résonnance'
+- Gelöscht (KI): 'Fête de la Musique - Concert de Poc des Poub's'
+- Gelöscht (KI): 'Visite guidée : de la collection à l'exposition'
+- Gelöscht (KI): 'Visite guidée du mois'
+- Gelöscht (KI): 'Kodai. L'Antiquité dans la pop culture japonaise'
+- Gelöscht (KI): 'Fête de la Musique - Spécial Japon'
+- Gelöscht (KI): 'Exposition Aquafresca !'
+- Gelöscht (KI): 'CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI'
+- Gelöscht (KI): 'Une exposition tout en contrastes'
+- Gelöscht (KI): 'Écrits d'art brut'
+- Gelöscht (KI): 'SCULPTUR'ELLES'
+- Gelöscht (KI): 'Le petit monde d'Anne Crausaz, à hauteur de fourmis'
+- Gelöscht (KI): 'Exposition: Arbres et Forêts de Daniel Frank'
+- Gelöscht (KI): 'Exposition artistique - Délicatesses forestières'
+- Gelöscht (KI): 'Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne"'
+- Gelöscht (KI): 'Exposition Mimêsis - la nature aux origines de l'innovation'
+- Gelöscht (KI): 'Miaou, meuh, wouf : animaux et art verrier au mudac'
+- Gelöscht (KI): 'Exposition Cataracte de Denis Ponté'
+- Gelöscht (KI): 'Visite guidée - Colonialisme. Une Suisse impliquée'
+- Gelöscht (KI): 'Marchés d'été ArtYsans Yverdon 2026'
+- Gelöscht (KI): 'Les minus au musée - Et nous alors?'
+- Gelöscht (KI): 'Fête de la Musique - Découverte des orgues Ahrend'
+- Gelöscht (KI): 'Café Bienvenue - Rencontre multiculturelle'
+- Gelöscht (KI): 'Draw & Drink x mudac'
+- Gelöscht (KI): 'Projection – L’odyssée de Miette et d’Ella'
+- Gelöscht (KI): 'Visite avec la commissaire – Otobong Nkanga'
+- Gelöscht (KI): 'Workshop – Street photography'
+- Gelöscht (KI): 'Visite commentée – Otobong Nkanga'
+- Gelöscht (KI): 'Fête de la musique « spécial Japon »'
+- Gelöscht (KI): 'Fête de la musique « spécial Japon » – Isao Takahata'
+- Gelöscht (KI): 'Fête de la musique « spécial Japon » – Isao Takahata'
+- Gelöscht (KI): 'Ausstellung «Ausnahme ohne Regel» von Arthur Freuler'
+- Gelöscht (KI): 'Fête de la Musique 2026'
+- Gelöscht (KI): 'Diffusion des matchs de la Coupe du Monde de Football'
+- Gelöscht (KI): 'Ella Maillart'
+- Gelöscht (KI): 'Workshop Arturia (synthétiseurs) avec Noé Largeron'
+- Gelöscht (KI): 'Naturjuwel Haberfeld'
+- Gelöscht (KI): 'Caline Aoun Thresholds of Impermanence'
+- Gelöscht (KI): 'Caline Aoun Thresholds of Impermanence'
+- Gelöscht (KI): 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur'
+- Gelöscht (KI): 'Cours de sport à la piscine - bougez tout l'été'
+- Gelöscht (KI): 'Musée Alexis Forel : Exposition "Salon des fondateurs"'
+- Gelöscht (KI): 'Musée Alexis Forel : Exposition De pierre à image. La lithographie à l'ère postdigitale'
+- Gelöscht (KI): 'Kolonial. Globale Verflechtungen der Schweiz'
+- Gelöscht (KI): 'Ella Maillart. Fotografische Erzählungen'
+- Gelöscht (KI): 'Die Sammlung'
+- Gelöscht (KI): 'Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945'
+- Gelöscht (KI): 'Et nous alors?'
+- Gelöscht (KI): 'Mit fliegendem Teppich durch die Geschichte'
+- Gelöscht (KI): '1110-SPARK'
+- Gelöscht (KI): 'Exposition photographique animalière à la Galerie Soleil de M'inuit'
+- Gelöscht (KI): 'Peintures françaises 1800-1945. Anatomie d’une collection'
+- Gelöscht (KI): '1 Raum, 1 Werk. Installationen aus der Sammlung'
+- Gelöscht (KI): 'Ideen Schweiz'
+- Gelöscht (KI): 'Marina Xenofontos. Play Life'
+- Gelöscht (KI): 'Brian Dawn Chalkley. Angels Suffer Too. In Kooperation mit Fumetto Comic Festival Luzern'
+- Gelöscht (KI): 'La collection'
+- Gelöscht (KI): 'Einfach Zürich'
+- Gelöscht (KI): 'Isao Takahata'
+- Gelöscht (KI): 'Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen'
+- Gelöscht (KI): 'Otobong Nkanga. I dreamt of you in colours'
+- Gelöscht (KI): 'Geschichte Schweiz'
+- Gelöscht (KI): '100 œuvres de la Collection jurassienne des beaux-arts (1985-2025)'
+- Gelöscht (KI): 'Seidenband. Kapital, Kunst & Krise'
+- Gelöscht (KI): 'Mario Sala'
 
 Finale Liste (live im XML-Feed):
-- [Morges Agenda] [Morges] [Vortrag] [Prévention & accompagnement du burnout] [16.06.2026 - 16.06.2026]
-- [Platform 10 Events 2] [Lausanne] [Freizeit] [Draw & Drink x mudac] [18.06.2026 - 18.06.2026]
-- [Platform 10 Events 2] [Lausanne] [Film] [Projection – L’odyssée de Miette et d’Ella] [18.06.2026 - 18.06.2026]
-- [Platform 10 Events 2] [Lausanne] [Führung] [Visite avec la commissaire – Otobong Nkanga] [18.06.2026 - 18.06.2026]
-- [Platform 10 Events 2] [Lausanne] [Workshop] [Workshop – Street photography] [20.06.2026 - 20.06.2026]
-- [Platform 10 Events 2] [Lausanne] [Führung] [Visite commentée – Otobong Nkanga] [21.06.2026 - 21.06.2026]
-- [Platform 10 Events 2] [Lausanne] [Konzert] [Fête de la musique « spécial Japon »] [21.06.2026 - 21.06.2026]
-- [Platform 10 Events 2] [Lausanne] [Workshop] [Fête de la musique « spécial Japon » – Isao Takahata] [21.06.2026 - 21.06.2026]
-- [Platform 10 Events 2] [Lausanne] [Führung] [Fête de la musique « spécial Japon » – Isao Takahata] [21.06.2026 - 21.06.2026]
-- [Morges Agenda] [Morges] [Freizeit] [Sauvageons en ville: Ô lac !] [16.06.2026 - 16.06.2026]
-- [Morges Agenda] [Morges] [Konzert] [Fête de la Musique - Ciné-Concert Johnny Hallyday] [15.06.2026 - 15.06.2026]
-- [Morges Agenda] [Morges] [Sport] [Boxe éducative] [15.06.2026 - 15.06.2026]
-- [Morges Agenda] [Morges] [Vortrag] [Conférence – Prévention des blessures] [16.06.2026 - 16.06.2026]
-- [Morges Agenda] [Morges] [Workshop] [Café - Récit] [16.06.2026 - 16.06.2026]
-- [Morges Agenda] [Morges] [Konzert] [Fête de la Musique 2026] [12.06.2026 - 21.06.2026]
-- [Morges Agenda] [Morges] [Sport] [Coupe du Monde de Football] [11.06.2026 - 19.07.2026]
-- [Platform 10 Events] [Lausanne] [Ausstellung] [Ella Maillart] [06.03.2026 - 01.11.2026]
-- [museum.ch Ausstellungen] [Zug] [Ausstellung] [Naturjuwel Haberfeld] [26.09.2025 - 30.08.2026]
-- [museum.ch Ausstellungen] [Zürich] [Ausstellung] [Caline Aoun Thresholds of Impermanence] [03.05.2026 - 25.09.2026]
-- [Morges Agenda] [Morges] [Ausstellung] [SANS FILTRE. Les secrets de l’eau] [04.06.2026 - 30.06.2026]
-- [museum.ch Ausstellungen] [Liestal] [Ausstellung] [Wildes Baselbiet] [14.03.2014 - 17.03.2030]
-- [Morges Agenda] [Morges] [Sport] [Cours de sport à la piscine] [01.06.2026 - 30.08.2026]
-- [Morges Agenda] [Morges] [Ausstellung] [Salon des fondateurs] [08.05.2026 - 01.11.2026]
-- [Morges Agenda] [Morges] [Ausstellung] [De pierre à image. La lithographie] [08.05.2026 - 01.11.2026]
-- [museum.ch Ausstellungen] [Zürich] [Ausstellung] [Kolonial. Globale Verflechtungen der Schweiz] [29.03.2026 - 11.10.2026]
-- [museum.ch Ausstellungen] [Zürich] [Ausstellung] [Die Sammlung] [01.06.2023 - 31.12.2026]
-- [Morges Agenda] [Morges] [Ausstellung] [TOP SECRET - Espionnage et résistance] [14.11.2025 - 20.12.2026]
-- [Platform 10 Events] [Lausanne] [Ausstellung] [Et nous alors?] [Datum unbekannt]
-- [museum.ch Ausstellungen] [Zürich] [Ausstellung] [Mit fliegendem Teppich durch die Geschichte] [01.06.2023 - 31.12.2026]
-- [Morges Agenda] [Morges] [Freizeit] [1110-SPARK] [20.04.2026 - 27.06.2026]
-- [museum.ch Ausstellungen] [Zug] [Ausstellung] [Ilya & Emilia Kabakov – The Tennis Game] [16.10.2025 - 28.06.2026]
-- [Morges Agenda] [Morges] [Ausstellung] [Exposition photographique animalière] [02.05.2026 - 30.06.2026]
-- [Platform 10 Events] [Lausanne] [Ausstellung] [Peintures françaises 1800-1945] [Datum unbekannt]
-- [museum.ch Ausstellungen] [Luzern] [Ausstellung] [1 Raum, 1 Werk] [28.02.2026 - 15.11.2026]
-- [museum.ch Ausstellungen] [Zürich] [Ausstellung] [Ideen Schweiz] [01.01.2016 - 31.12.2026]
-- [Platform 10 Events] [Lausanne] [Ausstellung] [Marina Xenofontos. Play Life] [Datum unbekannt]
-- [museum.ch Ausstellungen] [Luzern] [Ausstellung] [Brian Dawn Chalkley] [07.03.2026 - 21.06.2026]
-- [Platform 10 Events] [Lausanne] [Ausstellung] [La collection] [Datum unbekannt]
-- [museum.ch Ausstellungen] [Zürich] [Ausstellung] [Einfach Zürich] [02.02.2019 - 31.12.2026]
-- [Platform 10 Events] [Lausanne] [Ausstellung] [Isao Takahata] [Datum unbekannt]
-- [Platform 10 Events] [Lausanne] [Ausstellung] [Otobong Nkanga. I dreamt of you in colours] [Datum unbekannt]
-- [museum.ch Ausstellungen] [Zürich] [Ausstellung] [Geschichte Schweiz] [01.07.2023 - 31.12.2026]
-- [museum.ch Ausstellungen] [Delémont] [Ausstellung] [100 œuvres de la Collection jurassienne] [08.03.2026 - 28.06.2026]
-- [museum.ch Ausstellungen] [Liestal] [Ausstellung] [Seidenband. Kapital, Kunst & Krise] [01.01.2011 - 06.04.2031]
-- [museum.ch Ausstellungen] [Solothurn] [Ausstellung] [Mario Sala] [31.01.2026 - 21.06.2026]
+- [https://www.museen-bern.ch/de/ausstellungen] Rossinière Royaume des Chats bis 12.09.2026
+- [https://www.museen-bern.ch/de/ausstellungen] Caux Expositions au Caux Palace
+- [https://www.museen-bern.ch/de/ausstellungen] Oron Visite guidée en présence de l'artiste Sève Favre bis 27.06.2026
+- [https://www.museen-bern.ch/de/ausstellungen] Bex Bex Arts 26 : Génies du lieu bis 03.10.2026
+- [https://www.museen-bern.ch/de/ausstellungen] Lausanne De Bailly à Zaric. Collection d'art Ville de Lausanne bis 02.08.2026
+- [https://www.museen-bern.ch/de/ausstellungen] Morges Soirée publique d'astronomie 2026 bis 01.12.2026
+- [Morges Agenda] Morges Espace 81 - exposition SANS FILTRE. Les secrets de l’eau précieuse et naturelle de Morges bis 30.06.2026
+- [museum.ch Ausstellungen] Zug Ilya & Emilia Kabakov – The Tennis Game bis 28.06.2026
