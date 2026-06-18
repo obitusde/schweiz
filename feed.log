@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 18.6.2026, 09:29:29
-Letzter Lauf: 17.6.2026, 06:30:35
+Start: 18.6.2026, 12:58:39
+Letzter Lauf: 18.6.2026, 09:29:29
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,30 +17,42 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 61 neue Artikel geprüft:
-- Gelöscht (Grund: Kriminalitätsmeldung außerhalb des Kantons Waadt (Sion).): '«Il y avait une explosion»: Une armurerie cambriolée à l'aube'
-- Gelöscht (Grund: Duplikat zu Artikel 10 (SRF).): 'Absichtserklärung – Die 14 Punkte des Rahmenabkommens zwischen Iran und USA'
-- Gelöscht (Grund: Duplikat zum Thema Iran-USA-Verhandlungen (Artikel 10).): 'Mohammed Ghalibaf – Irans neuer starker Mann: ein konservativer Pragmatiker'
-- Gelöscht (Grund: Duplikat zu Artikel 24.): 'Une fillette de 6 ans agressée sexuellement à Yverdon'
-- Gelöscht (Grund: Abstimmungen/Wahlen außerhalb von Waadt und Genf.): 'Regierungsratswahlen Zürich – SVP möchte Rickli und Hübscher ins Rennen schicken'
-- Gelöscht (Grund: Duplikat zu Artikel 22 (SRF).): 'Kurioses vom G7-Gipfel – Warum der Small Talk bei Staatschefs so wichtig ist'
-- Gelöscht (Grund: Duplikat zu Artikel 7 (SRF).): 'Nach Parlamentsentscheid – 13. AHV-Rente nur teilfinanziert: Wie geht es weiter?'
-- Gelöscht (Grund: Blaulicht-Meldung außerhalb des Kantons Waadt (Sion).): 'Disparu en février, un jeune homme a été retrouvé sans vie'
-- Gelöscht (Grund: Duplikat zum Thema Iran-USA-Abkommen (Artikel 10/46).): 'Iran-USA-Erklärung – Bürgenstock-Treffen: Einschränkungen für die Bevölkerung'
-- Gelöscht (Grund: Duplikat zu Artikel 10 (SRF).): 'Unterzeichnung des Abkommens – Warum die USA und der Iran den Bürgenstock wählten'
-- Gelöscht (Grund: Duplikat zum Thema Hitzewelle (Artikel 9).): '35°C dehors, combien dans votre salle de classe?'
-- Gelöscht (Grund: Duplikat zum Thema Hitzewelle/Vorsorge (Artikel 9).): 'Face à la chaleur, Vaud et Genève déclenchent les plans canicule'
+KI-Filter (Gemini) - 15 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung außerhalb des Kantons Waadt (Sion).): '«Il y a eu une explosion»: une armurerie cambriolée à l'aube'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 10 (SRF).): 'Absichtserklärung – Die 14 Punkte des Rahmenabkommens zwischen Iran und USA'
+- Weiterhin entfernt (Cache, Grund: Duplikat zum Thema Iran-USA-Verhandlungen (Artikel 10).): 'Mohammed Ghalibaf – Irans neuer starker Mann: ein konservativer Pragmatiker'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 24.): 'Une fillette de 6 ans agressée sexuellement à Yverdon'
+- Weiterhin entfernt (Cache, Grund: Abstimmungen/Wahlen außerhalb von Waadt und Genf.): 'Regierungsratswahlen Zürich – SVP möchte Rickli und Hübscher ins Rennen schicken'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 22 (SRF).): 'Kurioses vom G7-Gipfel – Warum der Small Talk bei Staatschefs so wichtig ist'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 7 (SRF).): 'Nach Parlamentsentscheid – 13. AHV-Rente nur teilfinanziert: Wie geht es weiter?'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung außerhalb des Kantons Waadt (Sion).): 'Disparu en février, un jeune homme a été retrouvé sans vie'
+- Weiterhin entfernt (Cache, Grund: Duplikat zum Thema Iran-USA-Abkommen (Artikel 10/46).): 'Iran-USA-Erklärung – Bürgenstock-Treffen: Einschränkungen für die Bevölkerung'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 10 (SRF).): 'Unterzeichnung des Abkommens – Warum die USA und der Iran den Bürgenstock wählten'
 
 Finale Liste (live im XML-Feed):
+- [SRF Wissen] Exportverbot von KI-Modellen – USA schränken Zugang zu Anthropic für Europa und die Schweiz ein
+- [SRF Schweiz] Kunst und Kontroverse – Edi Rama bei der Art Basel – Kritik in der Heimat wächst
+- [20 Min Romandie] Ein zweites Leben für die G7-Holzpalisaden
+- [SRF Schweiz] Goldene Fallschirme – Bundesabfindungen unter Druck: Die Fälle hinter der Debatte
+- [20 Min Romandie] Tödlicher Sturz beim Fensterputzen
+- [20 Min Romandie] Hälfte der laufenden Geothermieprojekte gefährdet
+- [SRF Schweiz] Zollabkommen mit den USA – Wirtschaftsrechtler: «Die Schweiz muss für Prinzipien einstehen»
+- [Morges Actualitiés] Eröffnung der künftigen UAPE von Pré-Maudry verzögert
+- [Morges Actualitiés] Sicherung des Schulareals von Beausobre
+- [SRF Wirtschaft] Sommersession 2026 – Parlament hebt AKW-Neubauverbot auf
+- [Morges Actualitiés] Hitzewarnung: Schützen Sie sich vor der Hitze
+- [SRF Wirtschaft] Geldpolitische Lagebeurteilung – SNB lässt Leitzins unverändert bei null Prozent
+- [SRF Schweiz] Einführung der E-ID – Swiyu kommt – aber niemand weiss genau, wann und wie
+- [20 Min Romandie] Verurteilt wegen über hundert Fahrten ohne Führerschein
+- [SRF Schweiz] Showdown im Parlament – Nationalrat bringt Mercosur-Freihandelsabkommen zu Fall – vorerst
 - [SRF Schweiz] Wettbewerbsfähigkeit – Schweiz fällt auf dritten Rang
 - [Journal de Morges] Das Festival, das Lust macht, wieder Kind zu sein
-- [SRF Wirtschaft] Sommersession 2026 – Darüber debattiert das Parlament heute
 - [SRF Gesellschaft] «Unzeitgemässe Fragen» – In Ruhe nachdenken, um zu Klarheit zu kommen? Ein Irrtum.
 - [SRF Schweiz] Hochschulranking – Drei Schweizer Unis gehören zu den besten 100 der Welt
 - [SRF Schweiz] Interaktiver Rechner – Mieten oder kaufen? Was Sie sich wo leisten können
 - [SRF Schweiz] Finanzierung 13. AHV-Rente – Samira Marti: «Sind zu einem schweizerischen Kompromiss gekommen»
 - [SRF Ausland] Account auf Plattform X – Glühende Berichte über USA-Besuch – wer steckt hinter @FreddyLA7?
-- [SRF Wissen] Hitzetage und Tropennächte – Wie der Körper auf Hitze reagiert – so schützen Sie sich
+- [SRF Wissen] Hitzetage und Tropennächte – Was Hitze mit dem Körper macht und wie Sie sich schützen
 - [SRF Ausland] Krieg im Iran – Rahmenabkommen Iran-USA: Diese Forderungen hat Trump aufgegeben
 - [20 Min Romandie] Er legt 250 km in Rüstung zurück, um einer historischen Schlacht zu gedenken
 - [20 Min Romandie] Elternzeit: Es wird konkreter, aber ein Punkt muss noch geklärt werden
@@ -48,10 +60,8 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Frühe Hitzewelle – Die Hitzewelle fordert die Landwirte
 - [SRF Wirtschaft] Alles beim Alten – US-Notenbank Fed lässt den Leitzins unverändert
 - [SRF Schweiz] Bürgenstock-Erklärung – Gute Dienste der Schweiz – unterschätze nicht den «Caterer»
-- [SRF Schweiz] Showdown im Parlament – Nationalrat bringt Mercosur-Freihandelsabkommen zu Fall – vorerst
 - [SRF Schweiz] Studie der Universität Zürich – Experte: «Schädliche Männlichkeitsnormen sind in uns allen»
 - [SRF Ausland] Bilanz G7-Gipfel in Evian – Speichellecken, um Trump an Bord zu halten
-- [SRF Wissen] Exportverbot von KI-Modellen – USA schalten Anthropic für Europa und die Schweiz ab
 - [RTS Vaud] 6-jähriges Mädchen in der Bibliothek von Yverdon-les-Bains sexuell belästigt
 - [SRF Schweiz] Seco-Bericht – Häufiges Lohndumping und rückläufige Schwarzarbeit
 - [Journal de Morges] Mit «Né pour lire» wird das Lesen von Kindheit an intensiv gelebt
@@ -66,18 +76,8 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Wäscherei nach Chemieleck evakuiert
 - [20 Min Romandie] Der Kanton führt E-Voting nach sieben Jahren Unterbrechung wieder ein
 - [SRF Schweiz] Autonomer Fahrdienst – Uber plant Robotaxi-Start in Zürich
-- [Journal de Morges] Das Erbe der Korbflechterei in der Ausstellung im Arboretum
 - [Morges Actualitiés] Der Gemeinderat vom 17. Juni 2026
 - [Journal de Morges] Aubonne hat entschieden: Der Weg von Bougy-Saint-Martin wird verkauft
 - [SRF Schweiz] Verunreinigte Böden – PFAS-Belastungen könnten Kredite für Bauern verunmöglichen
 - [SRF Wissen] Goodbye Big Tech – Mit diesen Diensten werden Sie unabhängiger von Tech-Konzernen
 - [20 Min Romandie] Fast 90 % der Schüler duschen nach dem Sport nicht
-- [SRF Ausland] Unaufgearbeitete Geschichte – Armee-Name führt zu Streit zwischen Ukraine und Polen
-- [SRF Schweiz] Folgen des G7-Gipfels – Frust und Verluste bei Genfer Unternehmen
-- [SRF Schweiz] Strukturelle Mängel – Bundesgericht rügt Bundesverwaltungsgericht wegen Asylverfahren
-- [20 Min Romandie] Polizeieinsatz wegen ungewöhnlicher Flüchtiger
-- [SRF Wirtschaft] Kosten von Neubauprojekten – Experte: «Erfahrung zeigt: Atomkraftwerke sind super risikoreich»
-- [SRF Schweiz] Schweizer Wirtschaft – Ölpreisschock bremst Konjunktur stärker als erwartet
-- [SRF Ausland] Operation erfolgreich – Norwegische Kronprinzessin Mette-Marit hat neue Lunge bekommen
-- [20 Min Romandie] Zivilfahnder im Visier mehrerer Klagen
-- [SRF Schweiz] 90 Jahre Flüchtlingshilfe – «Asylsuchende werden oft zur Zielscheibe gemacht»
