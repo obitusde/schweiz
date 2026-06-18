@@ -1,0 +1,71 @@
+=== SZ-FEED PROTOKOLL ===
+Start: 18.6.2026, 15:56:04
+Letzter Lauf: noch nie
+
+Abruf der RSS-Feeds:
+- https://rss.sueddeutsche.de/rss/auto
+- https://rss.sueddeutsche.de/rss/Leben
+- https://rss.sueddeutsche.de/rss/Panorama
+- https://rss.sueddeutsche.de/rss/Politik
+- https://rss.sueddeutsche.de/rss/magazin
+- https://rss.sueddeutsche.de/rss/Wirtschaft
+- https://rss.sueddeutsche.de/rss/Wissen
+
+Statischer Filter (Keywords):
+- Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
+- Gelöscht wegen Keyword 'leute:': 'Leute: Flachwitz-Challenge mit J. D. Vance'
+
+KI-Filter (Gemini) - 51 neue Artikel geprüft:
+- Gelöscht (Grund: Parteipolitik und regionale Landtagswahlen.): 'Die Linke vor den Landtagswahlen: Linken-Parteitag: Ein Treffen zum Kennenlernen'
+- Gelöscht (Grund: Thematisiert die Erziehung von Kindern.): 'Elternkolumne „Die Erziehungsberechtigten“: Also in meiner Bubble …'
+- Gelöscht (Grund: Regionale deutsche Politik und Landtagswahlen.): 'Thüringen: Wagenknecht will AfD einbeziehen'
+- Gelöscht (Grund: Regionale deutsche Politik und Parteipolitik.): 'SPD Baden-Württemberg: Mit Linksruck aus der Misere?'
+- Gelöscht (Grund: Unfall ohne längerfristige Relevanz sowie Bezug zu Kleinkindern und einer deutschen Stadt.): 'Schorndorf bei Stuttgart: Kleinkind wird von Mutter in Auto vergessen und stirbt - Ermittlungen eingeleitet'
+- Gelöscht (Grund: Thematisiert die Erziehung von Kindern.): 'Rat vom Familientrio: Soll ich meine Kinder spätabends die Fußball-WM schauen lassen?'
+- Gelöscht (Grund: Inhalt umfasst Rezepte, Kochen und Promis.): '»Die Zuschauer haben es geliebt, dass wir ›normal‹ kochen«'
+- Gelöscht (Grund: Inhalt besteht aus einem Kochrezept.): 'Reis übrig? Dieses Rezept werden Meal-Prep-Fans lieben'
+- Gelöscht (Grund: Artikel über einen Promi (Cristiano Ronaldo).): 'Serie „Wie hast du dich verändert“: Der Freistoß-Westernheld'
+- Gelöscht (Grund: Thematisiert Mode und Promis/Adel.): 'Kolumne „Schön doof“: Jetzt ist auch mal Hut'
+
+Finale Liste (live im XML-Feed):
+- [News] Commerzbank: Die Chefin will kämpfen – aber auf die seriöse Art
+- [News] Historie: Er wollte immer hoch hinaus
+- [News] Rechtsextreme im EU-Parlament: Sie jubeln, als wäre es Fußball
+- [News] Künstliche Intelligenz: Europa braucht dringend mehr KI-Rechenzentren
+- [News] Chemiekonzern: Evonik baut jede zehnte Stelle ab
+- [News] Russlands Krieg gegen die Ukraine: Europa fühlt sich plötzlich wieder stark
+- [News] Menopause: Die wundersame Warenwelt der Wechseljahre
+- [News] EU-Gipfel: Europa rüstet im Wettstreit mit China auf
+- [News] Bahn: Verkehrsminister streicht Förderung - und verwirrt eine ganze Branche
+- [News] Vergewaltigung: Sie will einfach nur, dass ihr Schicksal anerkannt wird
+- [News] Kinder: Wie Tonies die Welt erobern sollen
+- [News] Gesundheit: Hitzeschutz für Kliniken gefordert
+- [News] Boris Pistorius: Deutsche Marine auf dem Weg zu möglicher Hormus-Mission
+- [News] Glosse: Das Streiflicht
+- [News] Gesetzentwurf: Länger arbeiten, aber nur mit Zustimmung der Gewerkschaften
+- [News] Hauptversammlung: So miserabel ist die Stimmung bei Volkswagen
+- [News] Landwirtschaftsminister Rainer in Japan: Mehr als nur ein Sack Reis
+- [News] Nahost: Scheitert Trumps Deal am Krieg in Libanon?
+- [News] Russischer Karikaturist: Exilkünstler in Polen erschossen
+- [News] Ermittlungen in Spanien: Die Juwelen des Sozialisten Zapatero
+- [News] Gravelbike Conway Nyvo 16.0 im Test: Schicker fahren ohne Motor
+- [News] Krieg in Nahost: Erste Schiffe passieren Straße von Hormus
+- [News] US-Verteidigungsminister: Hegseth macht Druck auf Nato-Partner
+- [News] Autotest: „Ich steige da nicht ein“
+- [News] Angeblicher Apartheid-Vergleich: Kallas in der Kritik
+- [News] Älter werden: "Ich habe mich früher nie so gezeigt, wie ich wirklich bin"
+- [News] Online-Verträge: Was der Widerruf-Button kann – und was nicht
+- [News] Kolumne „Mitten in …“: Das heißeste Eis von ganz Berlin
+- [News] Studie: Diese Spesen nie gewesen
+- [News] Arbeitszeitbetrug: Bloß nicht auf den Live-Ticker schauen
+- [News] Pro und Contra: Wird die Bergwacht zu sehr glorifiziert?
+- [News] Russland-Sanktionen: „Ich habe Angst um mein Leben“
+- [News] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
+- [News] Ideas: The Unpopular Truth About World Cup Ticket Prices
+- [News] Ideas: The Cult of Delayed Gratification Is a Lie
+- [News] Ifo-Prognose: Energieschock durch Iran-Krieg kostet Deutsche 34 Milliarden Euro
+- [News] Morde von Gilgo Beach: US-Serienmörder zu lebenslanger Haft verurteilt
+- [News] Geldpolitik: Neuer Fed-Chef hält Zinsen stabil
+- [News] Geldanlage: Für wen sich Laufzeit-ETFs lohnen können
+- [News] Deutscher Alltag: Die Kunst des Heranwanzens
+- [News] Energiewende: Wenn ein See das Haus heizt
