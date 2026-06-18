@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 17.6.2026, 06:30:35
-Letzter Lauf: 16.6.2026, 13:48:39
+Start: 18.6.2026, 09:29:29
+Letzter Lauf: 17.6.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,59 +17,67 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 37 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb von Waadt.): 'Zunehmende Haiangriffe – Hai-Attacke in Sydney: Australien sucht nach Lösungen für Abwehr'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 5 (Bahntunnel Morges-Perroy).): 'Le tracé du tunnel «anti-trou de Tolochenaz» prend corps'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 4 (QR-Code-Betrug).): 'Attention aux fausses amendes dans l’Ouest lausannois'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 40 (SVP-Initiative).): 'Abstimmung vom 14. Juni – «Etwas zu verhindern, ist einfacher, als etwas zu gestalten»'
-- Weiterhin entfernt (Cache, Grund: Gerichtsprozess ohne Regionalbezug zu Waadt oder Genf.): 'Un fils se bat contre sa mère et son frère: 80 millions en jeu'
-- Weiterhin entfernt (Cache, Grund: Wahlen außerhalb von Waadt und Genf.): 'Wahlversprechen eingelöst – Ungarn: Verfassungsänderung hält Orbán von der Macht fern'
-- Gelöscht (Grund: Blaulicht-Meldung außerhalb von Waadt (Wallis)): 'Gemeindeversammlung – Crans-Montanas Gemeindepräsident Féraud entschuldigt sich'
-- Gelöscht (Grund: Blaulicht-Meldung außerhalb von Waadt (Wallis)): 'Six mois après le drame, les citoyens réclament des réponses'
-- Gelöscht (Grund: Kriminalität/Gerichtsmeldung außerhalb von Waadt (Basel)): 'Hassnachrichten an BAG-Chefin – Hassmails gegen Anne Lévy: Gericht verurteilt 62-Jährigen'
-- Gelöscht (Grund: Duplikat zu Artikel 32): 'Les élus auront un outil für écarter les conseillers d'État'
-- Gelöscht (Grund: Umwelt-Blaulichtmeldung außerhalb von Waadt (Freiburg)): 'Les pollutions en forte hausse: le canton sonne l’alarme'
-- Gelöscht (Grund: Duplikat zu Artikel 11 (SRF bevorzugt)): 'Sommersession 2026 – Ständerat spricht 3.4 Milliarden für Armee'
-- Gelöscht (Grund: Gewaltdelikt außerhalb von Waadt (Wallis)): 'À Martigny, Colin Walks frappe un homme et publie la vidéo'
-- Gelöscht (Grund: Kriminalität außerhalb von Waadt (Bern)): 'Ausgebeutete Frauen in Gstaad – Serbische Drahtzieherin wegen Menschenhandel verurteilt'
-- Gelöscht (Grund: Abstimmungsthema außerhalb von Waadt und Genf (Tessin)): '«Keine 10-Mio-Initiative» – Mehr Misstrauen im Tessin gegenüber «verführerischen Lösungen»'
+KI-Filter (Gemini) - 61 neue Artikel geprüft:
+- Gelöscht (Grund: Kriminalitätsmeldung außerhalb des Kantons Waadt (Sion).): '«Il y avait une explosion»: Une armurerie cambriolée à l'aube'
+- Gelöscht (Grund: Duplikat zu Artikel 10 (SRF).): 'Absichtserklärung – Die 14 Punkte des Rahmenabkommens zwischen Iran und USA'
+- Gelöscht (Grund: Duplikat zum Thema Iran-USA-Verhandlungen (Artikel 10).): 'Mohammed Ghalibaf – Irans neuer starker Mann: ein konservativer Pragmatiker'
+- Gelöscht (Grund: Duplikat zu Artikel 24.): 'Une fillette de 6 ans agressée sexuellement à Yverdon'
+- Gelöscht (Grund: Abstimmungen/Wahlen außerhalb von Waadt und Genf.): 'Regierungsratswahlen Zürich – SVP möchte Rickli und Hübscher ins Rennen schicken'
+- Gelöscht (Grund: Duplikat zu Artikel 22 (SRF).): 'Kurioses vom G7-Gipfel – Warum der Small Talk bei Staatschefs so wichtig ist'
+- Gelöscht (Grund: Duplikat zu Artikel 7 (SRF).): 'Nach Parlamentsentscheid – 13. AHV-Rente nur teilfinanziert: Wie geht es weiter?'
+- Gelöscht (Grund: Blaulicht-Meldung außerhalb des Kantons Waadt (Sion).): 'Disparu en février, un jeune homme a été retrouvé sans vie'
+- Gelöscht (Grund: Duplikat zum Thema Iran-USA-Abkommen (Artikel 10/46).): 'Iran-USA-Erklärung – Bürgenstock-Treffen: Einschränkungen für die Bevölkerung'
+- Gelöscht (Grund: Duplikat zu Artikel 10 (SRF).): 'Unterzeichnung des Abkommens – Warum die USA und der Iran den Bürgenstock wählten'
+- Gelöscht (Grund: Duplikat zum Thema Hitzewelle (Artikel 9).): '35°C dehors, combien dans votre salle de classe?'
+- Gelöscht (Grund: Duplikat zum Thema Hitzewelle/Vorsorge (Artikel 9).): 'Face à la chaleur, Vaud et Genève déclenchent les plans canicule'
 
 Finale Liste (live im XML-Feed):
-- [Journal de Morges] Eine umfassende Bahnsanierung über neun Jahre
-- [SRF Wirtschaft] Studie zur Arbeit mit KI – Mehr als ein Viertel der Arbeitsplätze von KI betroffen
-- [SRF Schweiz] Jeden Tag 30 Grad – Bringt der Juni so viele Hitzetage wie sonst ein ganzes Jahr?
-- [SRF Wirtschaft] Pflege durch Angehörige – Wie soll die Politik mit privaten Spitex-Firmen umgehen?
-- [Journal de Morges] Melvin Mastils Angehörige werden gegen Argentinien wach sein
-- [SRF Schweiz] Wohnraumpolitik – Luzern kann bei Liegenschaftskäufen bald dazwischenkommen
-- [SRF Schweiz] Studie der Universität Zürich – Jeder dritte junge Mann hat ein problematisches Männerbild
-- [SRF Wirtschaft] Freihandel – Mercosur-Abkommen: Kontroverse um Umweltschutz und Nachhaltigkeit
-- [SRF Schweiz] Rolle des Tech-Riesen im Krieg – Regulierungslücke Cloud? Debatte um Googles Geschäfte mit Israel
-- [SRF Schweiz] Armeebotschaft 2026 – Ständerat winkt Armeebotschaft durch – inklusive F-35-Kampfjets
-- [SRF Ausland] Gemeinsame Erklärung im Krieg – Iran-USA-Verständigung auf Bürgenstock – die Ausgangslage
-- [Morges Actualitiés] Espace Couvaloup und die Stadtbibliothek ziehen diesen Sommer ins Freie
-- [SRF Wissen] Abnehmpille – Was passiert, wenn Abnehmen per Medikament noch leichter wird?
-- [SRF Ausland] EU-Fluggastrechte – Das gilt bald für Handgepäck und Verspätungen
-- [SRF Schweiz] Kindesschutz – Eltern am Limit sorgen für mehr Meldungen bei der Kesb in Basel
-- [SRF Schweiz] Radsport in der Schweiz – Dieses neue Konzept soll die Tour de Suisse retten
-- [RTS Vaud] Kanton Waadt verzeichnet mehr häusliche Gewalt
-- [20 Min Romandie] Schlag gegen falsche Polizisten in den Westschweizer Kantonen
-- [20 Min Romandie] Gefangen im Stau: Die TPG fahren Angebot zurück
-- [SRF Ausland] Bezeichnung von Lebensmitteln – EU-Parlament stimmt gegen Namen wie «Veggie-Hühnchen»
-- [SRF Schweiz] Interne SBB-Statistik – Spitzenreiter: 20 Mal fuhren Züge irrtümlich an Kemptthal vorbei
-- [20 Min Romandie] Nach Autodiebstahl landen sie auf den Gleisen der M1
-- [SRF Schweiz] Rahmenabkommen USA–Iran – Cassis hebt Schweizer Vermittlerrolle im Iran-Krieg hervor
-- [SRF Schweiz] Schweizer Jugendkriminalität – Wieso werden Jugendliche mehr für Verkehrsdelikte verurteilt?
-- [SRF Ausland] G7-Gipfel Évian – Macron verpasst den G7-Gästen auf X einen persönlichen Soundtrack
-- [RTS Vaud] Waadtländer Grosser Rat will Minister in Ausnahmefällen absetzen können
-- [SRF Ausland] Rahmenabkommen USA–Iran – Netanjahu betont Kriegserfolge – und umschifft Trumps «Deal»
-- [SRF Schweiz] Kein Mehrwertsteuer-Sondersatz – Steuerbegünstigung für Hotels streichen? – Debatte im Nationalrat
-- [20 Min Romandie] Warum immer mehr Teenager an die Tür der IV klopfen
-- [SRF Ausland] Handelsvereinbarung – EU-Abgeordnete stimmen Umsetzung des US-Zolldeals zu
-- [RTS Vaud] Betrug mit QR-Codes im Westen von Lausanne
-- [Journal de Morges] Kanton enthüllt erste Trasse des Bahntunnels Morges-Perroy
-- [SRF Schweiz] Fiktives Szenario – Was, wenn Russland den «Stern von Laufenburg» angreifen würde?
-- [SRF Wirtschaft] Fast Fashion – Kleider: Statt in den Müll ins Outlet
-- [SRF Wissen] Fussball-Maskottchen – Der Axolotl fasziniert Fussballfans und Forschung
-- [20 Min Romandie] Wichtige Strassensperrungen am Sonntag wegen der Tour de Suisse
-- [Journal de Morges] Tausende Schüler in 50 Jahren Boullard Musique!
-- [SRF Schweiz] Von der Kita in den Knast – Der Kanton Waadt sucht händeringend Gefängnispersonal
+- [SRF Schweiz] Wettbewerbsfähigkeit – Schweiz fällt auf dritten Rang
+- [Journal de Morges] Das Festival, das Lust macht, wieder Kind zu sein
+- [SRF Wirtschaft] Sommersession 2026 – Darüber debattiert das Parlament heute
+- [SRF Gesellschaft] «Unzeitgemässe Fragen» – In Ruhe nachdenken, um zu Klarheit zu kommen? Ein Irrtum.
+- [SRF Schweiz] Hochschulranking – Drei Schweizer Unis gehören zu den besten 100 der Welt
+- [SRF Schweiz] Interaktiver Rechner – Mieten oder kaufen? Was Sie sich wo leisten können
+- [SRF Schweiz] Finanzierung 13. AHV-Rente – Samira Marti: «Sind zu einem schweizerischen Kompromiss gekommen»
+- [SRF Ausland] Account auf Plattform X – Glühende Berichte über USA-Besuch – wer steckt hinter @FreddyLA7?
+- [SRF Wissen] Hitzetage und Tropennächte – Wie der Körper auf Hitze reagiert – so schützen Sie sich
+- [SRF Ausland] Krieg im Iran – Rahmenabkommen Iran-USA: Diese Forderungen hat Trump aufgegeben
+- [20 Min Romandie] Er legt 250 km in Rüstung zurück, um einer historischen Schlacht zu gedenken
+- [20 Min Romandie] Elternzeit: Es wird konkreter, aber ein Punkt muss noch geklärt werden
+- [SRF Schweiz] Ferientrends 2026 – So reist die Schweiz – in Zeiten von Krisen und Unsicherheiten
+- [SRF Schweiz] Frühe Hitzewelle – Die Hitzewelle fordert die Landwirte
+- [SRF Wirtschaft] Alles beim Alten – US-Notenbank Fed lässt den Leitzins unverändert
+- [SRF Schweiz] Bürgenstock-Erklärung – Gute Dienste der Schweiz – unterschätze nicht den «Caterer»
+- [SRF Schweiz] Showdown im Parlament – Nationalrat bringt Mercosur-Freihandelsabkommen zu Fall – vorerst
+- [SRF Schweiz] Studie der Universität Zürich – Experte: «Schädliche Männlichkeitsnormen sind in uns allen»
+- [SRF Ausland] Bilanz G7-Gipfel in Evian – Speichellecken, um Trump an Bord zu halten
+- [SRF Wissen] Exportverbot von KI-Modellen – USA schalten Anthropic für Europa und die Schweiz ab
+- [RTS Vaud] 6-jähriges Mädchen in der Bibliothek von Yverdon-les-Bains sexuell belästigt
+- [SRF Schweiz] Seco-Bericht – Häufiges Lohndumping und rückläufige Schwarzarbeit
+- [Journal de Morges] Mit «Né pour lire» wird das Lesen von Kindheit an intensiv gelebt
+- [SRF Wissen] Grösse und Gewicht – 43’000 Kinder vermessen: Schweiz korrigiert Wachstumskurven
+- [20 Min Romandie] Die Parlamentspräsidentin hat kurzzeitig einen Beitrag für Krawallmacher gelikt
+- [SRF Schweiz] Frust in der Branche – Physiotherapeuten fordern höhere Tarife
+- [20 Min Romandie] Die Polemik um den entlassenen Postboten erreicht das Bundeshaus
+- [20 Min Romandie] Dieser Genfer besteigt den Mont-Blanc viermal in vier Tagen
+- [SRF Schweiz] Millionen-Einsparungen bei SRG – SRG konkretisiert Sparziele und passt interne Strukturen an
+- [20 Min Romandie] Ende der Grenzbeschränkungen ab Donnerstag um 6 Uhr
+- [SRF Ausland] Vorfall im Ärmelkanal – Russisches Kriegsschiff gibt Warnschüsse auf ein Segelboot ab
+- [20 Min Romandie] Wäscherei nach Chemieleck evakuiert
+- [20 Min Romandie] Der Kanton führt E-Voting nach sieben Jahren Unterbrechung wieder ein
+- [SRF Schweiz] Autonomer Fahrdienst – Uber plant Robotaxi-Start in Zürich
+- [Journal de Morges] Das Erbe der Korbflechterei in der Ausstellung im Arboretum
+- [Morges Actualitiés] Der Gemeinderat vom 17. Juni 2026
+- [Journal de Morges] Aubonne hat entschieden: Der Weg von Bougy-Saint-Martin wird verkauft
+- [SRF Schweiz] Verunreinigte Böden – PFAS-Belastungen könnten Kredite für Bauern verunmöglichen
+- [SRF Wissen] Goodbye Big Tech – Mit diesen Diensten werden Sie unabhängiger von Tech-Konzernen
+- [20 Min Romandie] Fast 90 % der Schüler duschen nach dem Sport nicht
+- [SRF Ausland] Unaufgearbeitete Geschichte – Armee-Name führt zu Streit zwischen Ukraine und Polen
+- [SRF Schweiz] Folgen des G7-Gipfels – Frust und Verluste bei Genfer Unternehmen
+- [SRF Schweiz] Strukturelle Mängel – Bundesgericht rügt Bundesverwaltungsgericht wegen Asylverfahren
+- [20 Min Romandie] Polizeieinsatz wegen ungewöhnlicher Flüchtiger
+- [SRF Wirtschaft] Kosten von Neubauprojekten – Experte: «Erfahrung zeigt: Atomkraftwerke sind super risikoreich»
+- [SRF Schweiz] Schweizer Wirtschaft – Ölpreisschock bremst Konjunktur stärker als erwartet
+- [SRF Ausland] Operation erfolgreich – Norwegische Kronprinzessin Mette-Marit hat neue Lunge bekommen
+- [20 Min Romandie] Zivilfahnder im Visier mehrerer Klagen
+- [SRF Schweiz] 90 Jahre Flüchtlingshilfe – «Asylsuchende werden oft zur Zielscheibe gemacht»
