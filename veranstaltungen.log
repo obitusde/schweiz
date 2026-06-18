@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 18.6.2026, 12:14:38
+Start: 18.6.2026, 12:51:43
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -16,19 +16,18 @@ Statischer Filter (Keywords):
 - Gelöscht [Keyword 'lire et écrire']: 'Permanence Lire et écrire'
 - Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
 - Gelöscht [Keyword 'dauerausstellung']: 'Game'
-- Gelöscht [Keyword 'dauerausstellung']: 'Wunderkammer - Die Schausammlung'
-- Gelöscht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
-- Gelöscht [Keyword 'dauerausstellung']: 'Thementouren'
-- Gelöscht [Keyword 'dauerausstellung']: 'Einstein Museum'
-- Gelöscht [Keyword 'dauerausstellung']: 'Ausstellung'
 - Gelöscht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
+- Gelöscht [Keyword 'dauerausstellung']: 'Thementouren'
+- Gelöscht [Keyword 'dauerausstellung']: 'Ausstellung'
+- Gelöscht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
+- Gelöscht [Keyword 'dauerausstellung']: 'Einstein Museum'
 - Gelöscht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
 - Gelöscht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
 - Gelöscht [Keyword 'dauerausstellung']: 'Dauerausstellungen'
 - Gelöscht [Keyword 'dauerausstellung']: 'Find Ratatösk'
 - Gelöscht [Keyword 'dauerausstellung']: 'Historische Blasinstrumente und Trommeln zum Staunen und selber Ausprobieren'
-- Gelöscht [Keyword 'dauerausstellung']: 'Barry – der legendäre Bernhardinerhund'
 - Gelöscht [Keyword 'dauerausstellung']: 'Riesenkristalle – der Schatz vom Planggenstock'
+- Gelöscht [Keyword 'dauerausstellung']: 'Barry – Der legendäre Bernhardinerhund'
 - Gelöscht [Keyword 'dauerausstellung']: 'Flossen-Füsse-Flügel'
 - Gelöscht [Keyword 'dauerausstellung']: 'Ständige Ausstellung zur Kinogeschichte'
 - Gelöscht [Keyword 'dauerausstellung']: 'Originale Objekte der griechischen, etruskischen und römischen Kleinkunst und eine reiche Sammlung von Gipsabgüssen nach antiken Skulpturen'
@@ -39,11 +38,11 @@ Statischer Filter (Keywords):
 - Gelöscht [Keyword 'dauerausstellung']: 'Spuren der Jagd in der Schweiz'
 - Gelöscht [Keyword 'dauerausstellung']: 'Lockvögel, Sammlung Heinrich und Heidi Brandenberger'
 - Gelöscht [Keyword 'dauerausstellung']: 'Feuerwaffen der Schweizer Jäger im 19. und 20. Jahrhundert'
-- Gelöscht [Keyword 'dauerausstellung']: 'Tiere der Schweiz'
-- Gelöscht [Keyword 'dauerausstellung']: 'Käfer & Co'
+- Gelöscht [Keyword 'dauerausstellung']: 'Die grosse Knochenschau'
 - Gelöscht [Keyword 'dauerausstellung']: 'Tiere Afrikas'
 - Gelöscht [Keyword 'dauerausstellung']: 'Steine der Erde'
-- Gelöscht [Keyword 'dauerausstellung']: 'Die grosse Knochenschau'
+- Gelöscht [Keyword 'dauerausstellung']: 'Tiere der Schweiz'
+- Gelöscht [Keyword 'dauerausstellung']: 'Käfer & Co'
 - Gelöscht [Keyword 'dauerausstellung']: 'Der Jagdhund – Helfer und Freund'
 - Gelöscht [Keyword 'dauerausstellung']: 'Auf eigene Faust'
 - Gelöscht [Keyword 'dauerausstellung']: 'Picas Nest'
@@ -60,141 +59,140 @@ Statischer Filter (Keywords):
 Aus Cache übernommen (0):
 - Keine.
 
-KI-Filter / Cache-Löschungen (0):
-- Keine.
+KI-Filter / Cache-Löschungen (8):
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Wunderkammer' [Feed: Museen Bern]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Atelier' [Feed: Museen Bern]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Mensch, Erde! –' [Feed: Museen Bern]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN' [Feed: Museen Bern]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Visite guidée du mois' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Duplikat von ID 14]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Duplikat von ID 12]: 'Ella Maillart. Fotografische Erzählungen' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'La collection' [Feed: Platform 10 Events]
 
-Finale Liste (134 Einträge):
-- [Morges Agenda] Fête de la Musique - Animation musicale latino par Franco de Franco'Salsa
-- [Morges Agenda] Fête de la Musique - Balade Musicale
-- [Morges Agenda] Atelier artistique et linguistique "Je dessine, j’écris, je parle"
-- [Morges Agenda] Danse parents / enfants
-- [Museen Bern] Unterwegs
-- [Museen Bern] Souvenir
-- [Museen Bern] Von der Wunderkammer zum Archiv
-- [Museen Bern] Das volle Leben. Alte Meister von Duccio bis Liotard
-- [Museen Bern] Atelier
-- [Museen Bern] Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts
-- [Museen Bern] Vanessa Billy: Superconductors
-- [Museen Bern] Grönland
-- [Museen Bern] Villa Abegg – Das Anwesen eines Sammlerpaares
-- [Museen Bern] Anno 1811 - Die Anfänge der Blasmusik in der Schweiz
-- [Museen Bern] Die Wunderkammern
-- [Museen Bern] Mensch, Erde! –
-- [Museen Bern] Massen – Foules – Crowds
-- [Museen Bern] Tai Shani: M.I.A.S.M.A
-- [Museen Bern] Macherinnen
-- [Museen Bern] Jota Mombaça: compost (continuum)
-- [Museen Bern] Zeitheldinnen auf der Spur
-- [Museen Bern] Audiowalk durch die Nationalbibliothek: LEISES RUMOREN
-- [Museen Bern] «Goldrichtig – Ist Goldrecycling die Zukunft?»
-- [Museen Bern] Panorama Schweiz. Von Caspar Wolf bis Ferdinand Hodler
-- [Museen Bern] Stiftung Expressionismus. Von Gabriele Münter bis Sam Francis
-- [Museen Bern] Die Zeit ins Bild gerückt
-- [Museen Bern] Peter Fischli: Wir Ungestalten
-- [Museen Bern] Murten, ausgeschlachtet.
-- [Museen Bern] Schwitters. Grenzgänger der Avantgarde
-- [Museen Bern] Lumpen Station. Töne-Ton-Werden
-- [Morges Agenda] Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale
-- [Museen Bern] Robert Zandvliet. The Painting is a Door
-- [Morges Agenda] Fête de la Musique - Saxo Sunset
-- [Museen Bern] Franz Gertsch. Eisenbett und Trompete, Familie und Paare
-- [Morges Agenda] Fête de la Musique - La Chorale du Brassus
-- [Museen Bern] Leanne Picthall. Meaning So Well
-- [Morges Agenda] Fête de la Musique - Récital de piano : Elizabeth Sombart et Stavros Dritsas de la Fondation Résonnance
-- [Museen Bern] FABRICE HYBER
-- [Morges Agenda] Fête de la Musique - Concert de Poc des Poub's
-- [Museen Bern] SUSANNE KELLER. HINTERKAMMER DES AUGES
-- [Museen Bern] Klimacafé mit den Psychologists for Future (Psy4F)
-- [Museen Bern] Die Post vor 60 Jahren
-- [Museen Bern] Poetics Of Deconstruction
-- [Museen Bern] Fokus. Klees Rückseiten
-- [Museen Bern] Der Fuchs
-- [Museen Bern] Der Sonntagsausflug
-- [Museen Bern] Tabula Musica x Schulmuseum Bern
-- [Museen Bern] Fledermaus-Exkursion: Was flattert denn da?
-- [Museen Bern] Pétanque-Spielabend im Museumsgarten
-- [Museen Bern] Anne Loch. Malerei: Na und?
-- [Museen Bern] Franz Gertsch. Blow-Up (Part I)
-- [Museen Bern] Sommerfest im Museumsquartier
-- [Museen Bern] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig
-- [Museen Bern] Bisschen theoretisch
-- [Museen Bern] Fokus. Florence Henri (1893–1982)
-- [Museen Bern] Mythos Murten: Auf der Suche nach dem Wir-Gefühl
-- [Museen Bern] Beat Jost – Schöne neue Welt
-- [Museen Bern] Destination: Usakos
-- [Temps Libre - Ce Weekend] Visite guidée : de la collection à l'exposition
-- [Museen Bern] Roberto Burle Marx. Modernismo tropical
-- [Temps Libre - Ce Weekend] Visite guidée du mois
-- [Museen Bern] Dark Gossip
-- [Temps Libre - Ce Weekend] Royaume des Chats à Rossinière
-- [Museen Bern] Reise in die Freiheit. Capri – Skagen – Monte Verità
-- [Temps Libre - Ce Weekend] Kodai. L'Antiquité dans la pop culture japonaise
-- [Museen Bern] CHIPS
-- [Temps Libre - Ce Weekend] Expositions au Caux Palace
-- [Museen Bern] Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert
-- [Temps Libre - Ce Weekend] Fête de la Musique - Spécial Japon
-- [Museen Bern] Silizium: Von den Alpen ins Silicon Valley
-- [Temps Libre - Ce Weekend] Exposition Aquafresca !
-- [Museen Bern] Future Fashion
-- [Temps Libre - Ce Weekend] CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI
-- [Museen Bern] Gezeichnet 2026
-- [Temps Libre - Ce Weekend] Une exposition tout en contrastes
-- [Temps Libre - Ce Weekend] Écrits d'art brut
-- [Temps Libre - Ce Weekend] SCULPTUR'ELLES
-- [Temps Libre - Ce Weekend] Visite guidée en présence de l'artiste Sève Favre
-- [Temps Libre - Ce Weekend] Bex Arts 26 : Génies du lieu
-- [Temps Libre - Ce Weekend] Le petit monde d'Anne Crausaz, à hauteur de fourmis
-- [Temps Libre - Ce Weekend] Exposition: Arbres et Forêts de Daniel Frank
-- [Temps Libre - Ce Weekend] Exposition artistique - Délicatesses forestières
-- [Temps Libre - Ce Weekend] Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne"
-- [Temps Libre - Ce Weekend] Exposition Mimêsis - la nature aux origines de l'innovation
-- [Temps Libre - Ce Weekend] Miaou, meuh, wouf : animaux et art verrier au mudac
-- [Temps Libre - Ce Weekend] Exposition Cataracte de Denis Ponté
-- [Temps Libre - Ce Weekend] Visite guidée - Colonialisme. Une Suisse impliquée
-- [Temps Libre - Ce Weekend] De Bailly à Zaric. Collection d'art Ville de Lausanne
-- [Temps Libre - Ce Weekend] Marchés d'été ArtYsans Yverdon 2026
-- [Temps Libre - Ce Weekend] Les minus au musée - Et nous alors?
-- [Temps Libre - Ce Weekend] Soirée publique d'astronomie 2026
-- [Platform 10 Events 2] Draw & Drink x mudac
-- [Platform 10 Events 2] Projection – L’odyssée de Miette et d’Ella
-- [Platform 10 Events 2] Visite avec la commissaire – Otobong Nkanga
-- [Platform 10 Events 2] Workshop – Street photography
-- [Platform 10 Events 2] Visite commentée – Otobong Nkanga
-- [Platform 10 Events 2] Fête de la musique « spécial Japon »
-- [Platform 10 Events 2] Fête de la musique « spécial Japon » – Isao Takahata
-- [Platform 10 Events 2] Fête de la musique « spécial Japon » – Isao Takahata
-- [museum.ch Ausstellungen] Ausstellung «Ausnahme ohne Regel» von Arthur Freuler
-- [Morges Agenda] Fête de la Musique 2026
-- [Morges Agenda] Diffusion des matchs de la Coupe du Monde de Football
-- [Platform 10 Events] Ella Maillart
-- [museum.ch Ausstellungen] Naturjuwel Haberfeld
-- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
-- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
-- [Morges Agenda] Espace 81 - exposition SANS FILTRE. Les secrets de l’eau précieuse et naturelle de Morges.
-- [museum.ch Ausstellungen] Wildes Baselbiet. Tieren und Pflanzen auf der Spur
-- [Morges Agenda] Cours de sport à la piscine - bougez tout l'été
-- [Morges Agenda] Musée Alexis Forel : Exposition "Salon des fondateurs"
-- [Morges Agenda] Musée Alexis Forel : Exposition De pierre à image. La lithographie à l'ère postdigitale
-- [museum.ch Ausstellungen] Kolonial. Globale Verflechtungen der Schweiz
-- [museum.ch Ausstellungen] Ella Maillart. Fotografische Erzählungen
-- [museum.ch Ausstellungen] Die Sammlung
-- [Morges Agenda] Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945
-- [Platform 10 Events] Et nous alors?
-- [museum.ch Ausstellungen] Mit fliegendem Teppich durch die Geschichte
-- [Morges Agenda] 1110-SPARK
-- [museum.ch Ausstellungen] Ilya & Emilia Kabakov – The Tennis Game - Kunsthaus Zug Schaudepot
-- [Morges Agenda] Exposition photographique animalière à la Galerie Soleil de M'inuit
-- [Platform 10 Events] Peintures françaises 1800-1945. Anatomie d’une collection
-- [museum.ch Ausstellungen] 1 Raum, 1 Werk. Installationen aus der Sammlung
-- [museum.ch Ausstellungen] Ideen Schweiz
-- [Platform 10 Events] Marina Xenofontos. Play Life
-- [museum.ch Ausstellungen] Brian Dawn Chalkley. Angels Suffer Too. In Kooperation mit Fumetto Comic Festival Luzern
-- [Platform 10 Events] La collection
-- [museum.ch Ausstellungen] Einfach Zürich
-- [Platform 10 Events] Isao Takahata
-- [museum.ch Ausstellungen] Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen
-- [Platform 10 Events] Otobong Nkanga. I dreamt of you in colours
-- [museum.ch Ausstellungen] Geschichte Schweiz
-- [museum.ch Ausstellungen] 100 œuvres de la Collection jurassienne des beaux-arts (1985-2025)
-- [museum.ch Ausstellungen] Seidenband. Kapital, Kunst & Krise
-- [museum.ch Ausstellungen] Mario Sala
+Finale Liste (126 Einträge):
+- [Museen Bern] Bern Pétanque-Spielabend
+- [Morges Agenda] Morges Fête de la Musique - Animation musicale latino par Franco de Franco'Salsa
+- [Morges Agenda] Morges Fête de la Musique - Balade Musicale
+- [Morges Agenda] Morges Atelier artistique et linguistique "Je dessine, j’écris, je parle"
+- [Morges Agenda] Morges Danse parents / enfants
+- [Museen Bern] Bern Unterwegs bis 26.11.2027
+- [Museen Bern] Bern Souvenir bis 07.01.2028
+- [Museen Bern] Bern Von der Wunderkammer zum Archiv bis 26.06.2026
+- [Museen Bern] Bern Das volle Leben. Alte Meister von Duccio bis Liotard bis 27.09.2026
+- [Museen Bern] Riggisberg Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts bis 08.11.2026
+- [Museen Bern] Bern Vanessa Billy: Superconductors bis 23.08.2026
+- [Museen Bern] Bern Grönland bis 16.08.2026
+- [Museen Bern] Riggisberg Villa Abegg – Das Anwesen eines Sammlerpaares bis 08.11.2026
+- [Museen Bern] Bern Anno 1811 - Die Anfänge der Blasmusik in der Schweiz bis 31.03.2028
+- [Museen Bern] Burgdorf Die Wunderkammern bis 31.12.2029
+- [Museen Bern] Bern Massen – Foules – Crowds bis 19.07.2026
+- [Museen Bern] Bern Tai Shani: M.I.A.S.M.A bis 23.08.2026
+- [Museen Bern] Burgdorf Macherinnen bis 31.12.2028
+- [Museen Bern] Bern Jota Mombaça: compost (continuum) bis 23.08.2026
+- [Museen Bern] Bern Zeitheldinnen auf der Spur bis 31.12.2026
+- [Museen Bern] Burgdorf «Goldrichtig – Ist Goldrecycling die Zukunft?» bis 13.03.2030
+- [Museen Bern] Bern Panorama Schweiz. Von Caspar Wolf bis Ferdinand Hodler bis 05.07.2026
+- [Museen Bern] Bern Stiftung Expressionismus. Von Gabriele Münter bis Sam Francis bis 05.07.2026
+- [Museen Bern] Bern Die Zeit ins Bild gerückt bis 21.12.2026
+- [Museen Bern] Bern Peter Fischli: Wir Ungestalten bis 23.12.2026
+- [Museen Bern] Bern Murten, ausgeschlachtet. bis 09.05.2027
+- [Museen Bern] Bern Schwitters. Grenzgänger der Avantgarde bis 21.06.2026
+- [Museen Bern] Thun Lumpen Station. Töne-Ton-Werden bis 02.08.2026
+- [Morges Agenda] Morges Conférence - L’homosexualité dans l'Armée suisse durant la Seconde Guerre mondiale
+- [Museen Bern] Burgdorf Robert Zandvliet. The Painting is a Door bis 30.08.2026
+- [Morges Agenda] Morges Fête de la Musique - Saxo Sunset
+- [Museen Bern] Burgdorf Franz Gertsch. Eisenbett und Trompete, Familie und Paare bis 30.08.2026
+- [Morges Agenda] Morges Fête de la Musique - La Chorale du Brassus
+- [Museen Bern] Burgdorf Leanne Picthall. Meaning So Well bis 30.08.2026
+- [Morges Agenda] Morges Fête de la Musique - Récital de piano : Elizabeth Sombart et Stavros Dritsas de la Fondation Résonnance
+- [Museen Bern] Thun FABRICE HYBER bis 02.08.2026
+- [Morges Agenda] Morges Fête de la Musique - Concert de Poc des Poub's
+- [Museen Bern] Thun SUSANNE KELLER. HINTERKAMMER DES AUGES bis 29.11.2026
+- [Museen Bern] Bern Die Post vor 60 Jahren bis 21.12.2026
+- [Museen Bern] Bern Poetics Of Deconstruction bis 15.08.2026
+- [Museen Bern] Bern Fokus. Klees Rückseiten bis 23.08.2026
+- [Museen Bern] Utzenstorf Der Fuchs bis 19.09.2026
+- [Museen Bern] Bern Der Sonntagsausflug bis 08.11.2026
+- [Museen Bern] Bern Tabula Musica x Schulmuseum Bern bis 07.09.2026
+- [Museen Bern] Bern Fledermaus-Exkursion: Was flattert denn da? bis 18.08.2026
+- [Museen Bern] Bern Anne Loch. Malerei: Na und? bis 20.09.2026
+- [Museen Bern] Bern Franz Gertsch. Blow-Up (Part I) bis 17.01.2027
+- [Museen Bern] Bern Sommerfest im Museumsquartier
+- [Museen Bern] Thun Schnittstellen der Sicht. Hans Gerber und Sabine Hertig bis 29.11.2026
+- [Museen Bern] Bern Bisschen theoretisch bis 27.11.2026
+- [Museen Bern] Bern Fokus. Florence Henri (1893–1982) bis 10.01.2027
+- [Museen Bern] Bern Mythos Murten: Auf der Suche nach dem Wir-Gefühl
+- [Museen Bern] Bern Beat Jost – Schöne neue Welt bis 07.02.2027
+- [Museen Bern] Bern Destination: Usakos bis 15.08.2027
+- [Temps Libre - Ce Weekend] Lausanne Visite guidée : de la collection à l'exposition
+- [Museen Bern] Bern Roberto Burle Marx. Modernismo tropical bis 07.02.2027
+- [Museen Bern] [Bern] Dark Gossip am 23.10.2026
+- [Temps Libre - Ce Weekend] [Rossinière] Royaume des Chats à Rossinière bis 12.09.2026
+- [Museen Bern] [Bern] Reise in die Freiheit. Capri – Skagen – Monte Verità bis 31.01.2027
+- [Temps Libre - Ce Weekend] [Lausanne] Kodai. L'Antiquité dans la pop culture japonaise bis 24.01.2027
+- [Museen Bern] [Bern] CHIPS bis 18.07.2027
+- [Temps Libre - Ce Weekend] [Caux] Expositions au Caux Palace bis 13.09.2026
+- [Museen Bern] [Bern] Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert am 15.11.2026
+- [Temps Libre - Ce Weekend] [Lausanne] Fête de la Musique - Spécial Japon am 21.06.2026
+- [Museen Bern] [Bern] Silizium: Von den Alpen ins Silicon Valley bis 09.12.2026
+- [Temps Libre - Ce Weekend] [Assens] Exposition Aquafresca ! bis 19.07.2046
+- [Museen Bern] [Bern] Future Fashion bis 07.02.2027
+- [Temps Libre - Ce Weekend] [Vevey] CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI bis 04.07.2026
+- [Museen Bern] [Bern] Gezeichnet 2026 bis 21.02.2027
+- [Temps Libre - Ce Weekend] [Ste-Croix] Une exposition tout en contrastes bis 04.07.2026
+- [Temps Libre - Ce Weekend] [Montricher] Écrits d'art brut bis 30.08.2026
+- [Temps Libre - Ce Weekend] [Ollon] SCULPTUR'ELLES bis 21.06.2026
+- [Temps Libre - Ce Weekend] [Oron-le-Châtel] Visite guidée en présence de l'artiste Sève Favre bis 27.06.2026
+- [Temps Libre - Ce Weekend] [Bex] Bex Arts 26 : Génies du lieu bis 03.10.2026
+- [Temps Libre - Ce Weekend] [Le Sentier] Le petit monde d'Anne Crausaz, à hauteur de fourmis bis 05.07.2026
+- [Temps Libre - Ce Weekend] [Vevey] Exposition: Arbres et Forêts de Daniel Frank bis 04.07.2026
+- [Temps Libre - Ce Weekend] [Cheseaux-Noréaz] Exposition artistique - Délicatesses forestières bis 12.07.2026
+- [Temps Libre - Ce Weekend] [Lausanne] Visite guidée "De Bailly à Zaric. Collection d'art Ville de Lausanne" bis 20.06.2026
+- [Temps Libre - Ce Weekend] [Lausanne] Exposition Mimêsis - la nature aux origines de l'innovation bis 11.04.2027
+- [Temps Libre - Ce Weekend] [Lausanne] Miaou, meuh, wouf : animaux et art verrier au mudac bis 16.09.2026
+- [Temps Libre - Ce Weekend] [Sottens] Exposition Cataracte de Denis Ponté bis 27.06.2026
+- [Temps Libre - Ce Weekend] [Prangins] Visite guidée - Colonialisme. Une Suisse impliquée bis 27.09.2026
+- [Temps Libre - Ce Weekend] [Lausanne] De Bailly à Zaric. Collection d'art Ville de Lausanne bis 02.08.2026
+- [Temps Libre - Ce Weekend] [Yverdon-les-Bains] Marchés d'été ArtYsans Yverdon 2026 bis 03.10.2026
+- [Temps Libre - Ce Weekend] [Lausanne] Les minus au musée - Et nous alors? bis 02.09.2026
+- [Temps Libre - Ce Weekend] Morges Soirée publique d'astronomie 2026 bis 01.12.2026
+- [Platform 10 Events 2] Lausanne Draw & Drink x mudac bis 18.06.2026
+- [Platform 10 Events 2] Lausanne Projection – L’odyssée de Miette et d’Ella bis 18.06.2026
+- [Platform 10 Events 2] Lausanne Visite avec la commissaire – Otobong Nkanga bis 18.06.2026
+- [Platform 10 Events 2] Lausanne Workshop – Street photography bis 20.06.2026
+- [Platform 10 Events 2] Lausanne Visite commentée – Otobong Nkanga bis 21.06.2026
+- [Platform 10 Events 2] Lausanne Fête de la musique « spécial Japon » bis 21.06.2026
+- [Platform 10 Events 2] Lausanne Fête de la musique « spécial Japon » – Isao Takahata bis 21.06.2026
+- [Platform 10 Events 2] Lausanne Fête de la musique « spécial Japon » – Isao Takahata bis 21.06.2026
+- [museum.ch Ausstellungen] Stettlen Ausstellung «Ausnahme ohne Regel» von Arthur Freuler bis 03.07.2026
+- [Morges Agenda] Morges Fête de la Musique 2026 bis 21.06.2026
+- [Morges Agenda] Morges Diffusion des matchs de la Coupe du Monde de Football bis 19.07.2026
+- [Platform 10 Events] Lausanne Ella Maillart bis 01.11.2026
+- [museum.ch Ausstellungen] Vaduz Naturjuwel Haberfeld bis 30.08.2026
+- [museum.ch Ausstellungen] Appenzell Caline Aoun Thresholds of Impermanence bis 25.10.2026
+- [Morges Agenda] Morges Espace 81 - exposition SANS FILTRE bis 30.06.2026
+- [museum.ch Ausstellungen] Liestal Wildes Baselbiet. Tieren und Pflanzen auf der Spur bis 17.03.2030
+- [Morges Agenda] Morges Cours de sport à la piscine bis 30.08.2026
+- [Morges Agenda] Morges Musée Alexis Forel : Exposition "Salon des fondateurs" bis 01.11.2026
+- [Morges Agenda] Morges Musée Alexis Forel : Exposition De pierre à image bis 01.11.2026
+- [museum.ch Ausstellungen] Prangins Kolonial. Globale Verflechtungen der Schweiz bis 11.10.2026
+- [museum.ch Ausstellungen] Zürich Die Sammlung bis 31.12.2029
+- [Morges Agenda] Morges Exposition TOP SECRET bis 20.12.2026
+- [Platform 10 Events] Lausanne Et nous alors? bis 27.09.2026
+- [museum.ch Ausstellungen] Zürich Mit fliegendem Teppich durch die Geschichte bis 31.12.2029
+- [Morges Agenda] Morges 1110-SPARK bis 27.06.2026
+- [museum.ch Ausstellungen] Zug Ilya & Emilia Kabakov – The Tennis Game bis 28.06.2026
+- [Morges Agenda] Morges Exposition photographique animalière bis 30.06.2026
+- [Platform 10 Events] Lausanne Peintures françaises 1800-1945. Anatomie d’une collection bis 16.08.2026
+- [museum.ch Ausstellungen] Luzern 1 Raum, 1 Werk. Installationen aus der Sammlung bis 15.11.2026
+- [museum.ch Ausstellungen] Zürich Ideen Schweiz bis 31.12.2026
+- [Platform 10 Events] Lausanne Marina Xenofontos. Play Life bis 02.08.2026
+- [museum.ch Ausstellungen] Luzern Brian Dawn Chalkley. Angels Suffer Too bis 21.06.2026
+- [museum.ch Ausstellungen] Zürich Einfach Zürich bis 31.12.2026
+- [Platform 10 Events] Lausanne Isao Takahata bis 27.09.2026
+- [museum.ch Ausstellungen] Lenzburg Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen bis 28.06.2026
+- [Platform 10 Events] Lausanne Otobong Nkanga. I dreamt of you in colours bis 23.08.2026
+- [museum.ch Ausstellungen] Zürich Geschichte Schweiz bis 31.12.2029
+- [museum.ch Ausstellungen] Moutier 100 œuvres de la Collection jurassienne des beaux-arts (1985-2025) bis 28.06.2026
+- [museum.ch Ausstellungen] Liestal Seidenband. Kapital, Kunst & Krise bis 06.04.2031
+- [museum.ch Ausstellungen] Aarau Mario Sala bis 21.06.2026
