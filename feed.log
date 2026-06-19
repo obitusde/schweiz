@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 19.6.2026, 06:30:35
-Letzter Lauf: 18.6.2026, 12:58:39
+Start: 19.6.2026, 12:58:39
+Letzter Lauf: 19.6.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,20 +17,39 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 40 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung außerhalb des Kantons Waadt (Sion).): 'Cinq arrestations après l'attaque d'une armurerie à l'explosif'
-- Gelöscht (Grund: Blaulicht-Meldung (Bahnstörung/Evakuierung) in der Schweiz außerhalb von Waadt.): 'Bahnstörung in Zürich – Zug steht still bei Bahnhof Hardbrücke – Passagiere evakuiert'
-- Gelöscht (Grund: Abstimmungs-/Wahlthema in der Schweiz außerhalb von Waadt und Genf (Solothurn).): 'Entscheid Bundesgericht – Ungültige Wahl: Stadtpräsidentin Grenchen verliert Amt per sofort'
-- Gelöscht (Grund: Duplikat zu Artikel 7 (bevorzugter SRF-Artikel).): 'Le Ministère public vaudois va ouvrir une nouvelle enquête pénale gegen Valérie Dittli'
-- Gelöscht (Grund: Duplikat zu Artikel 12 (gleiches Thema: AKW-Entscheid im Parlament).): 'Neue Atomkraftwerke erlaubt – Wer finanziert AKW für bis zu 13 Milliarden Franken?'
-- Gelöscht (Grund: Duplikat zu Artikel 7 (bevorzugter SRF-Artikel).): 'Rapport Meylan: Valérie Dittli pourra être poursuivie'
-- Gelöscht (Grund: Duplikat zu Artikel 12 (gleiches Thema: AKW-Entscheid im Parlament).): 'Atomenergie – Doch keine Rückweisung – Parlament hebt AKW-Neubauverbot auf'
+KI-Filter (Gemini) - 21 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Bahnstörung/Evakuierung) in der Schweiz außerhalb von Waadt.): 'Bahnstörung in Zürich – Zug steht still bei Bahnhof Hardbrücke – Passagiere evakuiert'
+- Weiterhin entfernt (Cache, Grund: Abstimmungs-/Wahlthema in der Schweiz außerhalb von Waadt und Genf (Solothurn).): 'Entscheid Bundesgericht – Ungültige Wahl: Stadtpräsidentin Grenchen verliert Amt per sofort'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 7 (bevorzugter SRF-Artikel).): 'Le Ministère public vaudois va ouvrir une nouvelle enquête pénale contre Valérie Dittli'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 12 (gleiches Thema: AKW-Entscheid im Parlament).): 'Neue Atomkraftwerke erlaubt – Wer finanziert AKW für bis zu 13 Milliarden Franken?'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 7 (bevorzugter SRF-Artikel).): 'Rapport Meylan: Valérie Dittli pourra être poursuivie'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 12 (gleiches Thema: AKW-Entscheid im Parlament).): 'Atomenergie – Doch keine Rückweisung – Parlament hebt AKW-Neubauverbot auf'
+- Gelöscht (Grund: Bericht zum Thema Kriminalität/Justiz in der Schweiz außerhalb von Vaud.): 'Rechtswidrige Haft – Genugtuung für Prostituiertenmörder ist jetzt Verhandlungssache'
+- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung in der Schweiz außerhalb von Vaud (Vuadens, Kanton Freiburg).): 'Une femme menacée, ligotée et des milliers de francs dérobés'
 
 Finale Liste (live im XML-Feed):
+- [20 Min Romandie] Nach der Hitzewelle folgen Gewitter
+- [SRF Ausland] Nahe Antarktis – Vogelgrippe tötet Tausende Babyrobben auf abgeschiedenen Inseln
+- [Morges Actualitiés] Wie man Kinder diesen Sommer beschäftigt
+- [Journal de Morges] Pampicentre enthüllt sich nach und nach
+- [Journal de Morges] Die musikalischen Donnerstage im Schloss La Sarraz neu konzipiert
+- [SRF Ausland] Handel mit Erdöl – Warum nicht mehr zur Unterbindung der Schattenflotten getan wird
+- [SRF Wissen] Goodbye Big Tech – Mit diesen Diensten werden Sie unabhängiger von Tech-Konzernen
+- [SRF Wissen] Neues Frühwarnsystem – Hitze-Alarm in Flüssen: Wann sind Fische in Gefahr?
+- [SRF Ausland] Härteres Vorgehen – EU verbietet sexualisierte Deepfake-KI – Was bedeutet das?
+- [SRF Ausland] Grossbritannien – Uralter Robin-Hood-Baum bei Nottingham abgestorben
+- [20 Min Romandie] Stempeln für den Toilettengang: Firma Singer gewinnt vor Gericht
+- [SRF Wirtschaft] G7-Länder – Schulden machen ist für viele Staaten gerade en vogue
+- [20 Min Romandie] Die Schweizer bekommen immer weniger Babys: Das ist der Grund
+- [SRF Ausland] WM in den USA – Schottische Fans sorgen für Bierkrise in Boston
+- [Journal de Morges] Beausobre enthüllt sein Programm 2026/2027
+- [SRF Ausland] Frustration über Trumps «Deal» – Die Israeli hadern mit dem «unvollendeten Krieg»
+- [SRF Ausland] Iran-USA-Erklärung – Wieso wurden die Gespräche auf dem Bürgenstock abgesagt?
+- [SRF Ausland] Machtkampf bei Labour – Andy Burnham bringt Keir Starmer nach Wahlsieg in Bedrängnis
+- [SRF Wissen] Hoffnung für Wasserwerke – Putzanlage säubert erstmals Leitungen von Quagga-Larven
 - [SRF Schweiz] Brisantes Datenleck – Wenn Radiologen mehr verdienen als ein Bundesrat
 - [SRF Schweiz] Mehr Felchen im Bodensee – Kompromiss: Felchen-Fangverbot im Bodensee wird leicht gelockert
 - [SRF Wirtschaft] Kampfjet F-35 – Helm für Pilot kostet 500'000 Dollar – wie kann das sein?
-- [SRF Ausland] Machtkampf bei Labour – Andy Burnham bringt Keir Starmer nach Wahlsieg in Bedrängnis
 - [SRF Ausland] Kurswechsel in Havanna – Kuba legt 176-Punkte-Plan zur Öffnung der Wirtschaft vor
 - [Journal de Morges] Trasse für SBB-Tunnel Morges-Perroy konkretisiert sich
 - [SRF Schweiz] Verdacht auf Straftat – Neue Strafuntersuchung gegen Staatsrätin Valérie Dittli
@@ -49,7 +68,6 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Gims tritt diesen Sommer in einem Waadtländer Dorf auf
 - [SRF Wirtschaft] Hitzewelle auch zu Hause – Schwitzen in der Wohnung – was Mietende tun können
 - [SRF Schweiz] Fehlende Unterschriften – Lebensmittelschutz-Initiative: Verein reicht Strafanzeige ein
-- [SRF Wissen] Hitze-Alarm in Flüssen – Neues Frühwarnsystem: Wann sind Fische in Gefahr?
 - [SRF Schweiz] Zwangsmassnahmen – Gelder für Verdingkinder: Zürich zahlt bereits erste Beiträge aus
 - [SRF Schweiz] Bevölkerungsbewegung Schweiz – Weniger Geburten, stabile Anzahl Todesfälle im Jahr 2025
 - [20 Min Romandie] Hitzewelle beschert jüngeren Schülern im Kanton schulfrei
@@ -61,24 +79,3 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Untersuchung zum Polizeikessel bei der NoG7-Demo gefordert
 - [SRF Schweiz] Verkehrsdelikte bei Kindern – Jugendliche am Steuer von E-Trottinetts: Wer bezahlt bei Schäden?
 - [SRF Wissen] Exportverbot von KI-Modellen – USA schränken Zugang zu Anthropic für Europa und die Schweiz ein
-- [SRF Schweiz] Kunst und Kontroverse – Edi Rama bei der Art Basel – Kritik in der Heimat wächst
-- [20 Min Romandie] Ein zweites Leben für die G7-Holzpalisaden
-- [SRF Schweiz] Goldene Fallschirme – Bundesabfindungen unter Druck: Die Fälle hinter der Debatte
-- [20 Min Romandie] Tödlicher Sturz beim Fensterputzen
-- [20 Min Romandie] Hälfte der laufenden Geothermieprojekte gefährdet
-- [SRF Schweiz] Zollabkommen mit den USA – Wirtschaftsrechtler: «Die Schweiz muss für Prinzipien einstehen»
-- [Morges Actualitiés] Eröffnung der künftigen UAPE von Pré-Maudry verzögert
-- [Morges Actualitiés] Sicherung des Schulareals von Beausobre
-- [Morges Actualitiés] Hitzewarnung: Schützen Sie sich vor der Hitze
-- [SRF Wirtschaft] Geldpolitische Lagebeurteilung – SNB lässt Leitzins unverändert bei null Prozent
-- [SRF Schweiz] Einführung der E-ID – Swiyu kommt – aber niemand weiss genau, wann und wie
-- [20 Min Romandie] Verurteilt wegen über hundert Fahrten ohne Führerschein
-- [SRF Schweiz] Showdown im Parlament – Nationalrat bringt Mercosur-Freihandelsabkommen zu Fall – vorerst
-- [SRF Schweiz] Wettbewerbsfähigkeit – Schweiz fällt auf dritten Rang
-- [Journal de Morges] Das Festival, das Lust macht, wieder Kind zu sein
-- [SRF Gesellschaft] «Unzeitgemässe Fragen» – In Ruhe nachdenken, um zu Klarheit zu kommen? Ein Irrtum.
-- [SRF Schweiz] Hochschulranking – Drei Schweizer Unis gehören zu den besten 100 der Welt
-- [SRF Schweiz] Interaktiver Rechner – Mieten oder kaufen? Was Sie sich wo leisten können
-- [SRF Schweiz] Finanzierung 13. AHV-Rente – Samira Marti: «Sind zu einem schweizerischen Kompromiss gekommen»
-- [SRF Ausland] Account auf Plattform X – Glühende Berichte über USA-Besuch – wer steckt hinter @FreddyLA7?
-- [SRF Wissen] Hitzetage und Tropennächte – Was Hitze mit dem Körper macht und wie Sie sich schützen
