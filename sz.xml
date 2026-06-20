@@ -5,7 +5,7 @@
     <link>https://obitusde.github.io/schweiz/sz.xml</link>
     <description>KI-gefilterter Newsfeed der Süddeutschen Zeitung</description>
     <language>de</language>
-    <lastBuildDate>Sat, 20 Jun 2026 06:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 06:38:09 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>[Politik] Krieg in Nahost: USA und Iran verschieben Gespräche wegen Angriffen in Libanon</title>
@@ -36,13 +36,6 @@
       <pubDate>Fri, 19 Jun 2026 19:39:30 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Sparpläne der Bundesregierung: Herbe Einschnitte beim Wohngeld</title>
-      <link>https://www.sueddeutsche.de/politik/sparplaene-der-bundesregierung-herbe-einschnitte-beim-wohngeld-li.3501884</link>
-      <guid isPermaLink="false">li.3501884</guid>
-      <description />
-      <pubDate>Fri, 19 Jun 2026 15:53:50 GMT</pubDate>
-    </item>
-    <item>
       <title>[Wirtschaft] Übernahmekampf: Unicredit sichert sich rund 40 Prozent an der Commerzbank</title>
       <link>https://www.sueddeutsche.de/wirtschaft/unicredit-anteil-commerzbank-praemie-li.3501801</link>
       <guid isPermaLink="false">li.3501801</guid>
@@ -71,13 +64,6 @@
       <pubDate>Fri, 19 Jun 2026 15:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Podcast „Auf den Punkt“: Machtkampf in UK: Wird Andy Burnham der nächste Premier?</title>
-      <link>https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-grossbritannien-starmer-burnham-li.3501537</link>
-      <guid isPermaLink="false">li.3501537</guid>
-      <description><![CDATA[<p>Mit großem Vorsprung schafft es Keir Starmers Rivale ins britische Unterhaus. Ein möglicher Wendepunkt.</p>]]></description>
-      <pubDate>Fri, 19 Jun 2026 14:49:45 GMT</pubDate>
-    </item>
-    <item>
       <title>[Panorama] Renningen bei Stuttgart: Babyleiche bei Suche nach vermisstem Kind entdeckt</title>
       <link>https://www.sueddeutsche.de/panorama/babyleiche-renninigen-li.3501823</link>
       <guid isPermaLink="false">li.3501823</guid>
@@ -104,13 +90,6 @@
       <guid isPermaLink="false">li.3496108</guid>
       <description><![CDATA[<p>Sollte man nur Mineralwasser trinken, um genügend Mineralien aufzunehmen? Warum schmeckt Leitungswasser in jeder Region anders? Und warum trinkt man in Deutschland eigentlich so viel Sprudel? Nützliches Wasser-Wissen zur Hitzewelle.</p>]]></description>
       <pubDate>Fri, 19 Jun 2026 13:50:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Annegret Kramp-Karrenbauer: „Knapp hinter dem Vorhang – das ist eindeutig bequemer“</title>
-      <link>https://www.sueddeutsche.de/politik/annegret-kramp-karrenbauer-bundespraesidentin-cdu-konrad-adenauer-stiftung-li.3500390</link>
-      <guid isPermaLink="false">li.3500390</guid>
-      <description><![CDATA[<p>Nach Jahren außerhalb der Politik ist Annegret Kramp-Karrenbauer zurück in Berlin – und wird dort als Kandidatin für die Bundespräsidentschaft gehandelt. Welche Lehren bringt sie mit von ihrer Auszeit?</p>]]></description>
-      <pubDate>Fri, 19 Jun 2026 13:33:15 GMT</pubDate>
     </item>
     <item>
       <title>[Wirtschaft] Arbeitszeitgesetz: „Ich habe das Gefühl, ich stehe an einigen Tagen mit einem Bein im Knast“</title>
@@ -155,46 +134,11 @@
       <pubDate>Fri, 19 Jun 2026 13:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Bundesregierung: Neues Arbeitszeitgesetz: Der erste Entwurf dürfte schon mal erledigt sein</title>
-      <link>https://www.sueddeutsche.de/politik/arbeitszeit-gesetz-deutschland-entwurf-bas-koalition-li.3501509</link>
-      <guid isPermaLink="false">li.3501509</guid>
-      <description><![CDATA[<p>Ein geleakter Gesetzentwurf, empörte Arbeitgeber und eine offensive DGB-Chefin: Der offene Streit um das Arbeitszeitgesetz zeigt, wie schwierig die aktuellen Reformen werden können.</p>]]></description>
-      <pubDate>Fri, 19 Jun 2026 13:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] EU-Haushalt: „Die Zahlen müssen runter“</title>
-      <link>https://www.sueddeutsche.de/politik/eu-haushalt-merz-schulden-li.3499321</link>
-      <guid isPermaLink="false">li.3499321</guid>
-      <description><![CDATA[<p>Beim Gipfel in Brüssel streiten die Staats- und Regierungschefs erstmals über die Höhe des künftigen EU-Budgets. Als Hauptfigur im ersten Akt des Dramas tritt ein unzufriedener Friedrich Merz auf.</p>]]></description>
-      <pubDate>Fri, 19 Jun 2026 13:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Bundespräsident: Steinmeier wünscht sich „Politik-Profi“ als Nachfolger</title>
-      <link>https://www.sueddeutsche.de/politik/bundespraesident-steinmeier-wuenscht-sich-politik-profi-als-nachfolger-li.3501702</link>
-      <guid isPermaLink="false">li.3501702</guid>
-      <description />
-      <pubDate>Fri, 19 Jun 2026 12:50:30 GMT</pubDate>
-    </item>
-    <item>
       <title>[Politik] Ukraine-Krieg: EU verlängert Sanktionen gegen Russland erstmals um zwölf Monate</title>
       <link>https://www.sueddeutsche.de/politik/ukraine-krieg-eu-verlaengert-sanktionen-gegen-russland-erstmals-um-zwoelf-monate-li.3501757</link>
       <guid isPermaLink="false">li.3501757</guid>
       <description />
       <pubDate>Fri, 19 Jun 2026 12:44:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Infrastruktur: Bonner Nordbrücke bleibt bis Ende 2028 gesperrt</title>
-      <link>https://www.sueddeutsche.de/politik/infrastruktur-bonner-nordbruecke-bleibt-bis-ende-2028-gesperrt-li.3501703</link>
-      <guid isPermaLink="false">li.3501703</guid>
-      <description />
-      <pubDate>Fri, 19 Jun 2026 12:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Leben] Mode: Stoff für den Sommer</title>
-      <link>https://www.sueddeutsche.de/leben/wolle-mode-sport-merino-sommerbekleidung-naturfasern-li.3498897</link>
-      <guid isPermaLink="false">li.3498897</guid>
-      <description><![CDATA[<p>Wolle und Hitze — für viele passt das nicht zusammen. Dabei sprechen gute Gründe für das Tragen der Naturfaser Stoffes auch bei höheren Temperaturen. Das Interesse wächst.</p>]]></description>
-      <pubDate>Fri, 19 Jun 2026 12:08:23 GMT</pubDate>
     </item>
     <item>
       <title>[Wirtschaft] Energie: Wer kauft Deutschlands größten Gaskonzern?</title>
@@ -211,13 +155,6 @@
       <pubDate>Fri, 19 Jun 2026 11:05:15 GMT</pubDate>
     </item>
     <item>
-      <title>[Panorama] Washington: Algengrün statt US-Flaggenblau</title>
-      <link>https://www.sueddeutsche.de/projekte/artikel/panorama/washington-reflecting-pool-trump-sanierung-algen-gruen-statt-blau-e161639/</link>
-      <guid isPermaLink="false">er.e161639</guid>
-      <description><![CDATA[<p>Donald Trump, selbsternannter Experte für Schwimmbadbau, hat den Reflecting Pool in Washington für 14 Millionen Dollar sanieren lassen, auf dass er blau strahle wie das Eckfeld auf der US-Flagge. Hat nicht ganz geklappt.</p>]]></description>
-      <pubDate>Fri, 19 Jun 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Wirtschaft] Wirtschafts- und Sozialpolitik: Zeit, dass sich mal wieder was dreht</title>
       <link>https://www.sueddeutsche.de/wirtschaft/deutschland-regierung-merz-herausforderungen-li.3485156</link>
       <guid isPermaLink="false">li.3485156</guid>
@@ -230,13 +167,6 @@
       <guid isPermaLink="false">li.3501506</guid>
       <description><![CDATA[<p>Die Reichen zerstören überproportional stark den Planeten. Es ist  Zeit, dass sie entsprechend zur Kasse gebeten werden.</p>]]></description>
       <pubDate>Fri, 19 Jun 2026 10:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wissen] Psychologie: Das war ich nicht. Wirklich nicht!</title>
-      <link>https://www.sueddeutsche.de/wissen/kinder-luegen-entwicklung-psychologie-li.3475003</link>
-      <guid isPermaLink="false">li.3475003</guid>
-      <description><![CDATA[<p>Schon sehr kleine Kinder können lügen – und die meisten tun es auch. Warum das so ist, und wann Eltern sich Sorgen machen sollten.</p>]]></description>
-      <pubDate>Fri, 19 Jun 2026 09:58:18 GMT</pubDate>
     </item>
     <item>
       <title>[Wissen] Psychologie: Hoffnungsfroh trotz Krisen: Später geborene Generationen glauben stärker an Einfluss auf ihr Leben</title>
