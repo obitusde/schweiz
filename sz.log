@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 20.6.2026, 08:38:09
-Letzter Lauf: 20.6.2026, 08:19:34
+Start: 20.6.2026, 08:49:26
+Letzter Lauf: 20.6.2026, 08:38:09
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -18,16 +18,16 @@ Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 19. Juni 2026'
 
 KI-Filter (Gemini) - 0 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Betrifft deutsche Innenpolitik): 'Sparpläne der Bundesregierung: Herbe Einschnitte beim Wohngeld'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik): 'Podcast „Auf den Punkt“: Machtkampf in UK: Wird Andy Burnham der nächste Premier?'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik): 'Annegret Kramp-Karrenbauer: „Knapp hinter dem Vorhang – das ist eindeutig bequemer“'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik und deutsche Innenpolitik): 'Bundesregierung: Neues Arbeitszeitgesetz: Der erste Entwurf dürfte schon mal erledigt sein'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik im Kontext europäischer Akteure): 'EU-Haushalt: „Die Zahlen müssen runter“'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik): 'Bundespräsident: Steinmeier wünscht sich „Politik-Profi“ als Nachfolger'
-- Weiterhin entfernt (Cache, Grund: Kommunale Politik): 'Infrastruktur: Bonner Nordbrücke bleibt bis Ende 2028 gesperrt'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Mode): 'Mode: Stoff für den Sommer'
-- Weiterhin entfernt (Cache, Grund: Duplikat von ID: 7): 'Washington: Algengrün statt US-Flaggenblau'
-- Weiterhin entfernt (Cache, Grund: Thema Erziehung von Kleinkindern): 'Psychologie: Das war ich nicht. Wirklich nicht!'
+- Weiterhin entfernt (Cache, Grund: Betrifft deutsche Innenpolitik): [Politik] 'Sparpläne der Bundesregierung: Herbe Einschnitte beim Wohngeld'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik): [Politik] 'Podcast „Auf den Punkt“: Machtkampf in UK: Wird Andy Burnham der nächste Premier?'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik): [Politik] 'Annegret Kramp-Karrenbauer: „Knapp hinter dem Vorhang – das ist eindeutig bequemer“'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik und deutsche Innenpolitik): [Politik] 'Bundesregierung: Neues Arbeitszeitgesetz: Der erste Entwurf dürfte schon mal erledigt sein'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik im Kontext europäischer Akteure): [Politik] 'EU-Haushalt: „Die Zahlen müssen runter“'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik): [Politik] 'Bundespräsident: Steinmeier wünscht sich „Politik-Profi“ als Nachfolger'
+- Weiterhin entfernt (Cache, Grund: Kommunale Politik): [Politik] 'Infrastruktur: Bonner Nordbrücke bleibt bis Ende 2028 gesperrt'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Mode): [Leben] 'Mode: Stoff für den Sommer'
+- Weiterhin entfernt (Cache, Grund: Duplikat von ID: 7): [Panorama] 'Washington: Algengrün statt US-Flaggenblau'
+- Weiterhin entfernt (Cache, Grund: Thema Erziehung von Kleinkindern): [Wissen] 'Psychologie: Das war ich nicht. Wirklich nicht!'
 
 Finale Liste (live im XML-Feed):
 - [Politik] Krieg in Nahost: USA und Iran verschieben Gespräche wegen Angriffen in Libanon
