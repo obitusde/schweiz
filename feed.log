@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 19.6.2026, 12:58:39
-Letzter Lauf: 19.6.2026, 06:30:35
+Start: 20.6.2026, 06:30:36
+Letzter Lauf: 19.6.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,24 +17,49 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 21 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Bahnstörung/Evakuierung) in der Schweiz außerhalb von Waadt.): 'Bahnstörung in Zürich – Zug steht still bei Bahnhof Hardbrücke – Passagiere evakuiert'
-- Weiterhin entfernt (Cache, Grund: Abstimmungs-/Wahlthema in der Schweiz außerhalb von Waadt und Genf (Solothurn).): 'Entscheid Bundesgericht – Ungültige Wahl: Stadtpräsidentin Grenchen verliert Amt per sofort'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 7 (bevorzugter SRF-Artikel).): 'Le Ministère public vaudois va ouvrir une nouvelle enquête pénale contre Valérie Dittli'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 12 (gleiches Thema: AKW-Entscheid im Parlament).): 'Neue Atomkraftwerke erlaubt – Wer finanziert AKW für bis zu 13 Milliarden Franken?'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 7 (bevorzugter SRF-Artikel).): 'Rapport Meylan: Valérie Dittli pourra être poursuivie'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 12 (gleiches Thema: AKW-Entscheid im Parlament).): 'Atomenergie – Doch keine Rückweisung – Parlament hebt AKW-Neubauverbot auf'
-- Gelöscht (Grund: Bericht zum Thema Kriminalität/Justiz in der Schweiz außerhalb von Vaud.): 'Rechtswidrige Haft – Genugtuung für Prostituiertenmörder ist jetzt Verhandlungssache'
-- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung in der Schweiz außerhalb von Vaud (Vuadens, Kanton Freiburg).): 'Une femme menacée, ligotée et des milliers de francs dérobés'
+KI-Filter (Gemini) - 32 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Bericht zum Thema Kriminalität/Justiz in der Schweiz außerhalb von Vaud.): 'Rechtswidrige Haft – Genugtuung für Prostituiertenmörder ist jetzt Verhandlungssache'
+- Weiterhin entfernt (Cache, Grund: Kriminalität/Blaulicht-Meldung in der Schweiz außerhalb von Vaud (Vuadens, Kanton Freiburg).): 'Une femme menacée, ligotée et des milliers de francs dérobés'
+- Gelöscht (Grund: Brandmeldung in der Schweiz außerhalb des Kantons Waadt (Vaud).): 'Brand in Uitikon-Waldegg – Feuerwerksdepot in Uitikon-Waldegg brennt ab'
+- Gelöscht (Grund: Duplikat zu Artikel 3; Artikel 3 ist informativer, da er über das tatsächliche Abstimmungsergebnis im Parlament berichtet.): '«Arena» zur Altersvorsorge – Höhere Mehrwertsteuer für die 13. AHV-Rente – ein Kompromiss?'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Als erster Kanton der Schweiz – Wallis prüft den Abschuss von Luchsen
+- [SRF Schweiz] Nach dreiwöchigem Ringen – Baume-Schneider: «Jetzt hat die 13. AHV-Rente einen Preis»
+- [SRF Schweiz] Älteste Besetzung der Schweiz – Eigentümerin hat genug: «Gisi» in Winterthur droht Räumung
+- [SRF Schweiz] Rüstungsplanung und Leitlinien – Weniger Stäbe, mehr Drohnen: Bundesrat baut Verteidigung um
+- [SRF Schweiz] Entscheid bis Ende Sommer – Schutzstatus S: Bundesrat prüft Verlängerung und Einschränkungen
+- [RTS Vaud] Affäre Daniel Marguerat: Waadtländer Staatsanwaltschaft ermittelt wegen Missbrauchsverdachts
+- [SRF Schweiz] Dutzende Ausbauprojekte – «Verkehr '45»: So plant der Bund Schiene und Strasse bis 2045
+- [20 Min Romandie] Malley-Gare: 256 Millionen für ein «neues Stück Stadt»
+- [SRF Ausland] Krieg in Nahost – Offenbar haben Washington und Teheran ein Machtwort gesprochen
+- [SRF Ausland] Fussballspiel Haiti-Brasilien – Haitis historische WM – zwischen Bandengewalt und Trump
+- [20 Min Romandie] Die Schweiz von Hagel und heftigen Böen heimgesucht
+- [SRF Schweiz] Gesetz gegen Hakenkreuz – Parlament kann über ein Verbot von Nazisymbolen entscheiden
+- [SRF Schweiz] Schweinekrise in der Schweiz – Tausende Ferkel werden notfallmässig zur Schlachtung exportiert
+- [20 Min Romandie] Misshandelte Tiere: Mehr als 27'000 Unterschriften gegen eine Schweinezucht
+- [SRF Schweiz] Absage am Bürgenstock – Spitzen-Diplomat sieht weiter Chancen für Iran-Dialog
+- [20 Min Romandie] Gefesselt und geknebelt: Sie stahlen ihr Geld und Drogen
+- [SRF Gesellschaft] Neues Buch von J.D. Vance – «Communion»: Ein Hillbilly findet den Katholizismus
+- [SRF Wissen] Vorsicht beim Baden – Tessiner Behörden warnen vor Blaualgen im Lago Maggiore
+- [SRF Schweiz] Sommersession – Hollywoodreife Wochen im Bundeshaus
+- [SRF Ausland] Ukrainische Angriffswelle – In Moskau regnet es Öl: Die Ukraine trägt den Krieg zu Putin
+- [SRF Wissen] Programm zur Wiederansiedlung – «Klein aber jöö»: Kanton Freiburg setzt 80 Sumpfschildkröten aus
+- [SRF Schweiz] Hochsommerliche 35 Grad plus – Hitzewelle: Diese Branchen profitieren vom Extremwetter
+- [SRF Ausland] Polen verdächtigt Russland – Kreml-kritischer Künstler getötet – war es ein politischer Mord?
+- [SRF Schweiz] Übung «Conex 26» – Armee nutzt Bözberg-Tunnel als Schutzschirm gegen Drohnen
+- [SRF Schweiz] Belästigungsfälle – Beleidigungen und Sexismus: Es brodelt in Neuenburgs OP-Sälen
+- [20 Min Romandie] Bern gibt grünes Licht für die dritte Metrolinie
+- [Journal de Morges] UAPE verzögert und mehrere Rücktritte: Berichte aus dem Gemeinderat von Morges
+- [20 Min Romandie] Betrug durch falschen Polizisten: Jugendbande entlarvt
+- [SRF Schweiz] Hitze-Tracker – Wo gerade die Rekorde purzeln
+- [20 Min Romandie] Verurteilte Polizeibeamte sind weiterhin im Dienst
 - [20 Min Romandie] Nach der Hitzewelle folgen Gewitter
 - [SRF Ausland] Nahe Antarktis – Vogelgrippe tötet Tausende Babyrobben auf abgeschiedenen Inseln
 - [Morges Actualitiés] Wie man Kinder diesen Sommer beschäftigt
 - [Journal de Morges] Pampicentre enthüllt sich nach und nach
 - [Journal de Morges] Die musikalischen Donnerstage im Schloss La Sarraz neu konzipiert
 - [SRF Ausland] Handel mit Erdöl – Warum nicht mehr zur Unterbindung der Schattenflotten getan wird
-- [SRF Wissen] Goodbye Big Tech – Mit diesen Diensten werden Sie unabhängiger von Tech-Konzernen
 - [SRF Wissen] Neues Frühwarnsystem – Hitze-Alarm in Flüssen: Wann sind Fische in Gefahr?
 - [SRF Ausland] Härteres Vorgehen – EU verbietet sexualisierte Deepfake-KI – Was bedeutet das?
 - [SRF Ausland] Grossbritannien – Uralter Robin-Hood-Baum bei Nottingham abgestorben
@@ -42,40 +67,7 @@ Finale Liste (live im XML-Feed):
 - [SRF Wirtschaft] G7-Länder – Schulden machen ist für viele Staaten gerade en vogue
 - [20 Min Romandie] Die Schweizer bekommen immer weniger Babys: Das ist der Grund
 - [SRF Ausland] WM in den USA – Schottische Fans sorgen für Bierkrise in Boston
-- [Journal de Morges] Beausobre enthüllt sein Programm 2026/2027
 - [SRF Ausland] Frustration über Trumps «Deal» – Die Israeli hadern mit dem «unvollendeten Krieg»
 - [SRF Ausland] Iran-USA-Erklärung – Wieso wurden die Gespräche auf dem Bürgenstock abgesagt?
 - [SRF Ausland] Machtkampf bei Labour – Andy Burnham bringt Keir Starmer nach Wahlsieg in Bedrängnis
 - [SRF Wissen] Hoffnung für Wasserwerke – Putzanlage säubert erstmals Leitungen von Quagga-Larven
-- [SRF Schweiz] Brisantes Datenleck – Wenn Radiologen mehr verdienen als ein Bundesrat
-- [SRF Schweiz] Mehr Felchen im Bodensee – Kompromiss: Felchen-Fangverbot im Bodensee wird leicht gelockert
-- [SRF Wirtschaft] Kampfjet F-35 – Helm für Pilot kostet 500'000 Dollar – wie kann das sein?
-- [SRF Ausland] Kurswechsel in Havanna – Kuba legt 176-Punkte-Plan zur Öffnung der Wirtschaft vor
-- [Journal de Morges] Trasse für SBB-Tunnel Morges-Perroy konkretisiert sich
-- [SRF Schweiz] Verdacht auf Straftat – Neue Strafuntersuchung gegen Staatsrätin Valérie Dittli
-- [SRF Schweiz] Ab sofort befahrbar – Neuer Velotunnel am Bahnhof St. Gallen bietet mehr Sicherheit
-- [Journal de Morges] Im Jahr 2026 ist der Bildhauer André Pirlot aus Morges lebendiger denn je
-- [Journal de Morges] Auf den Spuren der Waldameisen
-- [RTS Vaud] Waadtländer Institutionen fangen Budgetkürzungen für 2026 ab, blicken aber besorgt in die Zukunft
-- [SRF Schweiz] AKW-Showdown im Nationalrat – SVP bringt Abweichler mit massivem Druck auf Linie
-- [SRF Ausland] Krieg im Nahen Osten – Irans Rechnung ist aufgegangen – fürs Erste
-- [20 Min Romandie] SBB-Fahrpläne zwischen Genf und Lausanne vorübergehend geändert
-- [20 Min Romandie] «Ich habe meine Schüler mit einem Bestäuber besprüht»
-- [SRF Schweiz] Glamour in Basel – Basel bekommt eine neue Messe für Schmuck und Uhren
-- [Journal de Morges] Eine Anti-Abfall-Aktion in Bussigny
-- [SRF Ausland] Debatte in Liechtenstein – Erbprinz gegen Abtreibungen: Warum kündigt er schon das Veto an?
-- [Journal de Morges] Die Laboureurs am Höhepunkt für das Abbaye-Fest
-- [20 Min Romandie] Gims tritt diesen Sommer in einem Waadtländer Dorf auf
-- [SRF Wirtschaft] Hitzewelle auch zu Hause – Schwitzen in der Wohnung – was Mietende tun können
-- [SRF Schweiz] Fehlende Unterschriften – Lebensmittelschutz-Initiative: Verein reicht Strafanzeige ein
-- [SRF Schweiz] Zwangsmassnahmen – Gelder für Verdingkinder: Zürich zahlt bereits erste Beiträge aus
-- [SRF Schweiz] Bevölkerungsbewegung Schweiz – Weniger Geburten, stabile Anzahl Todesfälle im Jahr 2025
-- [20 Min Romandie] Hitzewelle beschert jüngeren Schülern im Kanton schulfrei
-- [RTS Vaud] Staatsrat will den «Waadtländer gesunden Menschenverstand» nicht bei der UNESCO anmelden
-- [SRF Schweiz] «Ernährungsinitiative» – Nein-Komitee präsentiert Gegenargumente zur Ernährungsinitiative
-- [SRF Ausland] Hochschul-Ranking – Diese berühmten Köpfe studierten an den zehn besten Unis der Welt
-- [SRF Schweiz] Vereinbarung zum Kriegsende – Trump bis Totalausfall: Der Bürgenstock ist für alles gerüstet
-- [SRF Schweiz] Abfindungszahlungen beim Bund – Die goldenen Fallschirme: Starke Meinungen trotz kurzer Debatte
-- [20 Min Romandie] Untersuchung zum Polizeikessel bei der NoG7-Demo gefordert
-- [SRF Schweiz] Verkehrsdelikte bei Kindern – Jugendliche am Steuer von E-Trottinetts: Wer bezahlt bei Schäden?
-- [SRF Wissen] Exportverbot von KI-Modellen – USA schränken Zugang zu Anthropic für Europa und die Schweiz ein
