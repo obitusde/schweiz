@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 20.6.2026, 06:30:36
-Letzter Lauf: 19.6.2026, 12:58:39
+Start: 20.6.2026, 12:58:39
+Letzter Lauf: 20.6.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,13 +17,23 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 32 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Bericht zum Thema Kriminalität/Justiz in der Schweiz außerhalb von Vaud.): 'Rechtswidrige Haft – Genugtuung für Prostituiertenmörder ist jetzt Verhandlungssache'
-- Weiterhin entfernt (Cache, Grund: Kriminalität/Blaulicht-Meldung in der Schweiz außerhalb von Vaud (Vuadens, Kanton Freiburg).): 'Une femme menacée, ligotée et des milliers de francs dérobés'
-- Gelöscht (Grund: Brandmeldung in der Schweiz außerhalb des Kantons Waadt (Vaud).): 'Brand in Uitikon-Waldegg – Feuerwerksdepot in Uitikon-Waldegg brennt ab'
-- Gelöscht (Grund: Duplikat zu Artikel 3; Artikel 3 ist informativer, da er über das tatsächliche Abstimmungsergebnis im Parlament berichtet.): '«Arena» zur Altersvorsorge – Höhere Mehrwertsteuer für die 13. AHV-Rente – ein Kompromiss?'
+KI-Filter (Gemini) - 14 neue Artikel geprüft:
+- Gelöscht (Grund: Brandmeldung in der Schweiz außerhalb der Waadt (Kanton Zürich).): 'Keine Verletzte – Feuerwerksdepot in Uitikon-Waldegg brennt ab'
 
 Finale Liste (live im XML-Feed):
+- [Journal de Morges] Proxipel gewinnt den ersten ARCAM-Innovationspreis
+- [SRF Schweiz] Diskussion um Wachstum – Wachstumsschmerzen: Luxusproblem oder Wohlstandsverlust?
+- [SRF Schweiz] Die etwas anderen News – Lasst die Leute doch mal arbeiten!
+- [SRF Wirtschaft] Wann fliesst das Öl wieder? – «Es braucht Zeit, die Schäden zu beheben»
+- [RTS Vaud] Notschlafstelle Malley nach Schliessung von Hausbesetzungen überlastet
+- [20 Min Romandie] Kran droht einzustürzen: Schule und Baustelle evakuiert
+- [SRF Schweiz] Abwechslung im Altersheim – Clownin Freud(h)a bringt Leichtigkeit in die Demenz-Abteilung
+- [SRF Ausland] US-Präsidentenflugzeug – Trump präsentiert die von Katar geschenkte «Air Force One»
+- [SRF Wissen] Die Geschichte hinter «.ch» – «Doch nicht alles verkackt»: So kam das Internet in die Schweiz
+- [SRF Schweiz] «Arena» zur Altersvorsorge – Höhere Mehrwertsteuer für die 13. AHV-Rente – ein Kompromiss?
+- [SRF Ausland] 1700 Gäste evakuiert – Strandhotel in der Dominikanischen Republik brennt – Frau stirbt
+- [SRF Wirtschaft] Energiepreise in der Schweiz – Nach Einigung mit Iran: Preise für Benzin und Heizöl sinken
+- [SRF Schweiz] Ein Leben fürs Schiessen – Mit 95 noch voll im Schuss – der älteste Schütze am Schützenfest
 - [SRF Schweiz] Als erster Kanton der Schweiz – Wallis prüft den Abschuss von Luchsen
 - [SRF Schweiz] Nach dreiwöchigem Ringen – Baume-Schneider: «Jetzt hat die 13. AHV-Rente einen Preis»
 - [SRF Schweiz] Älteste Besetzung der Schweiz – Eigentümerin hat genug: «Gisi» in Winterthur droht Räumung
@@ -54,20 +64,3 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Betrug durch falschen Polizisten: Jugendbande entlarvt
 - [SRF Schweiz] Hitze-Tracker – Wo gerade die Rekorde purzeln
 - [20 Min Romandie] Verurteilte Polizeibeamte sind weiterhin im Dienst
-- [20 Min Romandie] Nach der Hitzewelle folgen Gewitter
-- [SRF Ausland] Nahe Antarktis – Vogelgrippe tötet Tausende Babyrobben auf abgeschiedenen Inseln
-- [Morges Actualitiés] Wie man Kinder diesen Sommer beschäftigt
-- [Journal de Morges] Pampicentre enthüllt sich nach und nach
-- [Journal de Morges] Die musikalischen Donnerstage im Schloss La Sarraz neu konzipiert
-- [SRF Ausland] Handel mit Erdöl – Warum nicht mehr zur Unterbindung der Schattenflotten getan wird
-- [SRF Wissen] Neues Frühwarnsystem – Hitze-Alarm in Flüssen: Wann sind Fische in Gefahr?
-- [SRF Ausland] Härteres Vorgehen – EU verbietet sexualisierte Deepfake-KI – Was bedeutet das?
-- [SRF Ausland] Grossbritannien – Uralter Robin-Hood-Baum bei Nottingham abgestorben
-- [20 Min Romandie] Stempeln für den Toilettengang: Firma Singer gewinnt vor Gericht
-- [SRF Wirtschaft] G7-Länder – Schulden machen ist für viele Staaten gerade en vogue
-- [20 Min Romandie] Die Schweizer bekommen immer weniger Babys: Das ist der Grund
-- [SRF Ausland] WM in den USA – Schottische Fans sorgen für Bierkrise in Boston
-- [SRF Ausland] Frustration über Trumps «Deal» – Die Israeli hadern mit dem «unvollendeten Krieg»
-- [SRF Ausland] Iran-USA-Erklärung – Wieso wurden die Gespräche auf dem Bürgenstock abgesagt?
-- [SRF Ausland] Machtkampf bei Labour – Andy Burnham bringt Keir Starmer nach Wahlsieg in Bedrängnis
-- [SRF Wissen] Hoffnung für Wasserwerke – Putzanlage säubert erstmals Leitungen von Quagga-Larven
