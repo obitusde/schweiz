@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 20.6.2026, 08:19:34
-Letzter Lauf: 18.6.2026, 15:56:04
+Start: 20.6.2026, 08:38:09
+Letzter Lauf: 20.6.2026, 08:19:34
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -17,52 +17,42 @@ Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Politisches Langzeit-Trauma: Zehn Jahre Brexit-Referendum'
 - Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 19. Juni 2026'
 
-KI-Filter (Gemini) - 42 neue Artikel geprüft:
-- Gelöscht (Grund: Betrifft deutsche Innenpolitik): 'Sparpläne der Bundesregierung: Herbe Einschnitte beim Wohngeld'
-- Gelöscht (Grund: Parteipolitik): 'Podcast „Auf den Punkt“: Machtkampf in UK: Wird Andy Burnham der nächste Premier?'
-- Gelöscht (Grund: Parteipolitik): 'Annegret Kramp-Karrenbauer: „Knapp hinter dem Vorhang – das ist eindeutig bequemer“'
-- Gelöscht (Grund: Parteipolitik und deutsche Innenpolitik): 'Bundesregierung: Neues Arbeitszeitgesetz: Der erste Entwurf dürfte schon mal erledigt sein'
-- Gelöscht (Grund: Parteipolitik im Kontext europäischer Akteure): 'EU-Haushalt: „Die Zahlen müssen runter“'
-- Gelöscht (Grund: Parteipolitik): 'Bundespräsident: Steinmeier wünscht sich „Politik-Profi“ als Nachfolger'
-- Gelöscht (Grund: Kommunale Politik): 'Infrastruktur: Bonner Nordbrücke bleibt bis Ende 2028 gesperrt'
-- Gelöscht (Grund: Fällt unter Mode): 'Mode: Stoff für den Sommer'
-- Gelöscht (Grund: Duplikat von ID: 7): 'Washington: Algengrün statt US-Flaggenblau'
-- Gelöscht (Grund: Thema Erziehung von Kleinkindern): 'Psychologie: Das war ich nicht. Wirklich nicht!'
+KI-Filter (Gemini) - 0 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Betrifft deutsche Innenpolitik): 'Sparpläne der Bundesregierung: Herbe Einschnitte beim Wohngeld'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik): 'Podcast „Auf den Punkt“: Machtkampf in UK: Wird Andy Burnham der nächste Premier?'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik): 'Annegret Kramp-Karrenbauer: „Knapp hinter dem Vorhang – das ist eindeutig bequemer“'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik und deutsche Innenpolitik): 'Bundesregierung: Neues Arbeitszeitgesetz: Der erste Entwurf dürfte schon mal erledigt sein'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik im Kontext europäischer Akteure): 'EU-Haushalt: „Die Zahlen müssen runter“'
+- Weiterhin entfernt (Cache, Grund: Parteipolitik): 'Bundespräsident: Steinmeier wünscht sich „Politik-Profi“ als Nachfolger'
+- Weiterhin entfernt (Cache, Grund: Kommunale Politik): 'Infrastruktur: Bonner Nordbrücke bleibt bis Ende 2028 gesperrt'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Mode): 'Mode: Stoff für den Sommer'
+- Weiterhin entfernt (Cache, Grund: Duplikat von ID: 7): 'Washington: Algengrün statt US-Flaggenblau'
+- Weiterhin entfernt (Cache, Grund: Thema Erziehung von Kleinkindern): 'Psychologie: Das war ich nicht. Wirklich nicht!'
 
 Finale Liste (live im XML-Feed):
 - [Politik] Krieg in Nahost: USA und Iran verschieben Gespräche wegen Angriffen in Libanon
 - [Panorama] England: Zwei Züge kollidieren – ein Toter, fast hundert Verletzte
 - [Panorama] Baden-Württemberg: Unwetter stört Ablauf des Southside-Festivals
 - [Politik] Krieg in der Ukraine: Streit um Geschichte: Polen entzieht Selenskij höchsten Orden
-- [Politik] Sparpläne der Bundesregierung: Herbe Einschnitte beim Wohngeld
 - [Wirtschaft] Übernahmekampf: Unicredit sichert sich rund 40 Prozent an der Commerzbank
 - [Wissen] Physik: Ist dieser Riesenbeschleuniger 16 Milliarden Euro wert?
 - [Panorama] Washington: Algengrün statt US-Flaggenblau
 - [Politik] Präsidentenmuseum in Chicago: Nirgendwo Blattgold: Obamas granitgewordenes Vermächtnis
-- [Politik] Podcast „Auf den Punkt“: Machtkampf in UK: Wird Andy Burnham der nächste Premier?
 - [Panorama] Renningen bei Stuttgart: Babyleiche bei Suche nach vermisstem Kind entdeckt
 - [Wirtschaft] Baustellen und Großprojekte: Der völlige Bahnsinn
 - [Panorama] Baden-Württemberg: Kleines Mädchen im Auto starb an Hitzeschlag
 - [Magazin] Sechs Fakten über Wasser, die Sie noch nicht wussten
-- [Politik] Annegret Kramp-Karrenbauer: „Knapp hinter dem Vorhang – das ist eindeutig bequemer“
 - [Wirtschaft] Arbeitszeitgesetz: „Ich habe das Gefühl, ich stehe an einigen Tagen mit einem Bein im Knast“
 - [Politik] Spionage, Sabotage, Anschläge: Höhere Warnstufe für Deutschland
 - [Leben] Publizieren im KI-Zeitalter: Schreib, Maschine
 - [Wirtschaft] Rechtswesen: Wenn vor Gericht KI gegen KI antritt
 - [Wirtschaft] Wirtschaftsministerin in Ankara: Reiche will mehr Energie-Zusammenarbeit mit der Türkei
 - [Politik] USA: Meloni wirft Trump Lüge vor
-- [Politik] Bundesregierung: Neues Arbeitszeitgesetz: Der erste Entwurf dürfte schon mal erledigt sein
-- [Politik] EU-Haushalt: „Die Zahlen müssen runter“
-- [Politik] Bundespräsident: Steinmeier wünscht sich „Politik-Profi“ als Nachfolger
 - [Politik] Ukraine-Krieg: EU verlängert Sanktionen gegen Russland erstmals um zwölf Monate
-- [Politik] Infrastruktur: Bonner Nordbrücke bleibt bis Ende 2028 gesperrt
-- [Leben] Mode: Stoff für den Sommer
 - [Wirtschaft] Energie: Wer kauft Deutschlands größten Gaskonzern?
 - [Wissen] Psychologie: Senkt Kuscheln mit der Katze wirklich den inneren Stress?
-- [Panorama] Washington: Algengrün statt US-Flaggenblau
 - [Wirtschaft] Wirtschafts- und Sozialpolitik: Zeit, dass sich mal wieder was dreht
 - [Wirtschaft] Superreiche: Wer jetten will, soll Steuern zahlen
-- [Wissen] Psychologie: Das war ich nicht. Wirklich nicht!
 - [Wissen] Psychologie: Hoffnungsfroh trotz Krisen: Später geborene Generationen glauben stärker an Einfluss auf ihr Leben
 - [Wissen] Biotechnologie: Gelockerte Gentechnik-Regeln helfen bei der Profitmaximierung – nicht aber der Weltrettung
 - [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
