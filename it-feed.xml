@@ -5,8 +5,50 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Sun, 21 Jun 2026 04:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 10:28:21 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Heise] Anthropic: Angst vor China-Spionage soll Auslöser für KI-Lockdown sein</title>
+      <link>https://www.heise.de/news/Anthropic-Angst-vor-China-Spionage-soll-Ausloeser-fuer-KI-Lockdown-sein-11339525.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11339525</guid>
+      <description><![CDATA[Details legen nahe: Weil der koreanische Partner SK Telecom vermeintlich Verbindungen nach Peking hat, entzog das Weiße Haus Anthropic das Vertrauen für Mythos.]]></description>
+      <pubDate>Sun, 21 Jun 2026 09:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Juni-Patch: Windows-11-Update macht Office, File Explorer und Papierkorb kaputt</title>
+      <link>https://www.golem.de/news/juni-patch-windows-11-update-macht-office-file-explorer-und-papierkorb-kaputt-2606-209999.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/juni-patch-windows-11-update-macht-office-file-explorer-und-papierkorb-kaputt-2606-209999.html</guid>
+      <description><![CDATA[Das Windows-11-Update KB5094126 hat das Startmenü verbessert, aber auch diverse neue Bugs eingeführt. Und diese sind teilweise gravierend. (<a href="https://www.golem.de/specials/windows-11/">Windows 11</a>, <a href="https://www.golem.de/specials/microsoft/">Microsoft</a>)]]></description>
+      <pubDate>Sun, 21 Jun 2026 09:33:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Science-Fiction: Jeff Daniels und Brendan Fraser in Starman</title>
+      <link>https://www.golem.de/news/science-fiction-jeff-daniels-und-brendan-fraser-in-starman-2606-209997.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/science-fiction-jeff-daniels-und-brendan-fraser-in-starman-2606-209997.html</guid>
+      <description><![CDATA[Mit Jeff Daniels hat Starman einen weiteren prominenten Darsteller gefunden. Die Dreharbeiten sollen noch im Sommer beginnen. (<a href="https://www.golem.de/specials/science-fiction/">Science-Fiction</a>, <a href="https://www.golem.de/specials/film/">Film</a>)]]></description>
+      <pubDate>Sun, 21 Jun 2026 09:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Star Citizen: Hinweise auf ein Release von Squadron 42 im Herbst</title>
+      <link>https://www.golem.de/news/star-citizen-hinweise-auf-ein-release-von-squadron-42-im-herbst-2606-209998.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/star-citizen-hinweise-auf-ein-release-von-squadron-42-im-herbst-2606-209998.html</guid>
+      <description><![CDATA[Die lang erwartete Einzelspielerkampagne von Star Citizen hat nicht nur Stars wie Mark Hamill. Sie wird im Oktober auch bei einem Demoevent vorgeführt. (<a href="https://www.golem.de/specials/star-citizen/">Star Citizen</a>, <a href="https://www.golem.de/specials/games/">Spiele</a>)]]></description>
+      <pubDate>Sun, 21 Jun 2026 08:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Nach IT-Vorfall bei Amazons One Medical droht Veröffentlichung von Daten</title>
+      <link>https://www.heise.de/news/One-Medical-Nach-Cyberangriff-auf-Amazons-Gesundheitsdienst-droht-Daten-Leak-11339487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11339487</guid>
+      <description><![CDATA[Nach einem Sicherheitsvorfall bei One Medical droht ShinyHunters mit der Veröffentlichung angeblich erbeuteter Daten.]]></description>
+      <pubDate>Sun, 21 Jun 2026 08:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Hinterland of Things: „Wir müssen vom Erkenntnismodus in den Aktionsmodus“</title>
+      <link>https://www.heise.de/news/Hinterland-of-Things-Wir-muessen-vom-Erkenntnismodus-in-den-Aktionsmodus-11336449.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11336449</guid>
+      <description><![CDATA[Deutschland soll vom Erkenntnismodus endlich in den Aktionsmodus kommen. Auf der Hinterland of Things zeigt Dominik Gross Wege auf, wie das gelingen kann.]]></description>
+      <pubDate>Sun, 21 Jun 2026 06:13:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Heise] Top 7: Die beste thermoelektrische Kühlbox im Test</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-7-die-beste-thermoelektrische-kuehlbox-im-test-perfekt-fuer-auto-und-urlaub/frtf717?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -60,7 +102,7 @@
       <title>[Golem] Sony: Playstation-Entwickler setzen verstärkt auf KI</title>
       <link>https://www.golem.de/news/sony-playstation-entwickler-setzen-verstaerkt-auf-ki-2606-209995.html</link>
       <guid isPermaLink="false">https://www.golem.de/news/sony-playstation-entwickler-setzen-verstaerkt-auf-ki-2606-209995.html</guid>
-      <description><![CDATA[Von Programmierung bis zu 3D-Modellen: Sony nutzt bei der Spieleentwicklung für die Playstation mit bislang unüblicher Offenheit auch KI. (<a href="https://www.golem.de/specials/playstation/">Playstation</a>, <a href="https://www.golem.de/specials/sony/">Sony</a>)]]></description>
+      <description><![CDATA[Von Programmierung bis zu 3D-Modellen: Sony nutzt bei der Spieleentwicklung für die Playstation auch KI - mit bislang unüblicher Offenheit. (<a href="https://www.golem.de/specials/playstation/">Playstation</a>, <a href="https://www.golem.de/specials/sony/">Sony</a>)]]></description>
       <pubDate>Sat, 20 Jun 2026 12:47:07 GMT</pubDate>
     </item>
     <item>
@@ -90,69 +132,6 @@
       <guid isPermaLink="false">https://www.golem.de/news/great-tang-byds-luxus-7-sitzer-mit-grosser-reichweite-soll-nach-europa-kommen-2606-209992.html</guid>
       <description><![CDATA[Der Great Tang von BYD hat bis zu sieben Sitze, reichlich Platz und Komfort, eine große Reichweite und eine hohe Ladeleistung. (<a href="https://www.golem.de/specials/byd/">BYD</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
       <pubDate>Sat, 20 Jun 2026 11:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] MGM Studios: Amazon schmeißt beim Film über Sam Altman hin</title>
-      <link>https://www.golem.de/news/mgm-studios-amazon-schmeisst-beim-film-ueber-sam-altman-hin-2606-209988.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/mgm-studios-amazon-schmeisst-beim-film-ueber-sam-altman-hin-2606-209988.html</guid>
-      <description><![CDATA[Amazon MGM Studios will den fast fertigen Spielfilm über den OpenAI-Chef Sam Altman nicht mehr veröffentlichen. Das Timing wirft Fragen auf. (<a href="https://www.golem.de/specials/sam-altman/">Sam Altman</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Sat, 20 Jun 2026 10:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Nothing: Budget-Smartphone fällt Speicherkrise zum Opfer</title>
-      <link>https://www.golem.de/news/nothing-budget-smartphone-faellt-speicherkrise-zum-opfer-2606-209990.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/nothing-budget-smartphone-faellt-speicherkrise-zum-opfer-2606-209990.html</guid>
-      <description><![CDATA[Ein neues CMF-Phone von Nothing wird es in diesem Jahr nicht geben - die Speicherpreise machen es unrentabel. (<a href="https://www.golem.de/specials/nothing/">Nothing</a>, <a href="https://www.golem.de/specials/smartphone/">Smartphone</a>)]]></description>
-      <pubDate>Sat, 20 Jun 2026 09:43:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Google Pixel: Verbindungsprobleme nach Upgrade auf Android 17</title>
-      <link>https://www.golem.de/news/google-pixel-verbindungsprobleme-nach-upgrade-auf-android-17-2606-209987.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/google-pixel-verbindungsprobleme-nach-upgrade-auf-android-17-2606-209987.html</guid>
-      <description><![CDATA[Nutzer zahlreicher Pixel-Modelle haben nach der Aktualisierung auf Android 17 Probleme mit 5G und WLAN. Teilweise gibt es Workarounds. (<a href="https://www.golem.de/specials/android17/">Android 17</a>, <a href="https://www.golem.de/specials/smartphone/">Smartphone</a>)]]></description>
-      <pubDate>Sat, 20 Jun 2026 08:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Neuer S/W-Film, Drohnen-Jagd und Adobes KI-Offensive – News der Woche 25/2026</title>
-      <link>https://www.heise.de/news/Neuer-S-W-Film-Drohnen-Jagd-und-Adobes-KI-Offensive-News-der-Woche-25-2026-11338624.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11338624</guid>
-      <description><![CDATA[Light Lens Labs bringt einen neuen Schwarzweißfilm, das FBI beschlagnahmt WM-Drohnen und Adobe macht Lightroom zum Videogenerator.]]></description>
-      <pubDate>Sat, 20 Jun 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] HBO Max im Nachtest: Katalog von Warners Streamingabo enttäuscht immer noch</title>
-      <link>https://www.golem.de/news/hbo-max-im-nachtest-katalog-von-warners-streamingabo-enttaeuscht-immer-noch-2606-209911.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/hbo-max-im-nachtest-katalog-von-warners-streamingabo-enttaeuscht-immer-noch-2606-209911.html</guid>
-      <description><![CDATA[Wie hat Warner Bros. auf die Kritik zum Marktstart von HBO Max in Deutschland reagiert? Der Frage gehen wir in einem Nachtest nach. Ein Test von Ingo Pakalski (<a href="https://www.golem.de/specials/hbomax/">HBO Max</a>, <a href="https://www.golem.de/specials/test/">Test</a>)]]></description>
-      <pubDate>Sat, 20 Jun 2026 07:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Kommentar KI – es wird nicht ohne gehen</title>
-      <link>https://www.heise.de/meinung/Kommentar-KI-warum-Ignorieren-und-Verbieten-nicht-helfen-11338636.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11338636</guid>
-      <description><![CDATA[KI nervt – doch der typisch deutsche Weg ist mal wieder falsch. Spätestens jetzt müssen wir uns ehrlich machen, meint Martin Gerhard Loschwitz.]]></description>
-      <pubDate>Sat, 20 Jun 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Zweisam, einsam, still : Die Bilder der Woche 25</title>
-      <link>https://www.heise.de/news/Zweisam-einsam-still-Die-Bilder-der-Woche-25-11337349.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11337349</guid>
-      <description><![CDATA[Starke Fluchtpunkte und intensive Farben lenken die Blicke der Betrachtenden in die Motive der Woche.]]></description>
-      <pubDate>Sat, 20 Jun 2026 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Small Modular Reactor: Schweden bekommt drei kleine Atomreaktoren</title>
-      <link>https://www.golem.de/news/small-modular-reactor-schweden-bekommt-drei-kleine-atomreaktoren-2606-209975.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/small-modular-reactor-schweden-bekommt-drei-kleine-atomreaktoren-2606-209975.html</guid>
-      <description><![CDATA[Rolls-Royce soll drei AKWs in Südschweden errichten. Wirklich modular werden sie wohl nicht, dafür teuer. (<a href="https://www.golem.de/specials/atomkraft/">Atomkraft</a>, <a href="https://www.golem.de/specials/energiewende/">Energiewende</a>)]]></description>
-      <pubDate>Sat, 20 Jun 2026 05:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Erna Schneider Hoover: Die Frau, deren Idee fast jeder Entwickler kennt</title>
-      <link>https://www.golem.de/news/100-geburtstag-erna-schneider-hoover-ihre-erfindung-kennen-fast-alle-entwickler-2606-209986.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/100-geburtstag-erna-schneider-hoover-ihre-erfindung-kennen-fast-alle-entwickler-2606-209986.html</guid>
-      <description><![CDATA[Fast jeder Entwickler profitiert von ihrer Idee, fast niemand kennt ihren Namen: über die Erfinderin, die eins der ersten Softwarepatente erhielt. Ein Porträt von Elke Wittich (<a href="https://www.golem.de/specials/wissen/">Wissen</a>, <a href="https://www.golem.de/specials/softwarepatente/">Softwarepatent</a>)]]></description>
-      <pubDate>Sat, 20 Jun 2026 05:30:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
