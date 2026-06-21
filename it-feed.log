@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 20.6.2026, 12:28:18
-Letzter Lauf: 19.6.2026, 12:28:18
+Start: 21.6.2026, 06:10:26
+Letzter Lauf: 20.6.2026, 12:28:18
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,40 +10,31 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Nordfrankreich: Fototour von Straßburg über Nancy bis in die Vogesen'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Microsoft Fabric: So gelingt der Einstieg in die Datenplattform'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen'
 - Gelöscht wegen Keyword 'c’t uplink': 'Notebook-Prozessoren: Stand der Dinge, Technik und Ausblick | c’t uplink'
-- Gelöscht wegen Keyword 'tgiqf': '#TGIQF: Das Quiz rund um Klapphandys und die 90er '
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Claude Code in der Praxis – effizienter entwickeln mit KI-Agenten'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Golem Entry-PC mit Rabatt-Aktion jetzt ab 949,90 Euro bei Systemtreff'
 - Gelöscht wegen Keyword '(g+)': '(g+) Exchange OWA XSS: Angriff per Mail und ein Patch, der nicht alle erreicht'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Zero Trust Security Framework für IT-Sicherheitsprogramme'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Roborock Saros 20 für Prime-Mitglieder unter 1.000 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Leiser Turbo-Ventilator für knapp 22 Euro bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Wago Klemmen mit Hebel bei Amazon unter Vergleichspreis'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ugreen Powerbank mit 20.000 mAh zum frühen Prime-Day-Tiefstpreis nur rund 24 Euro'
-- Gelöscht wegen Keyword '(g+)': '(g+) Artificial Intelligence: 'We created a monster': companies rein in AI usage as costs strain budgets'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Softeis und Frozen Drinks - Ninja Eismaschinen bei Back Market zum Sparpreis'
-- Gelöscht wegen Keyword '(g+)': '(g+) Data Engineering: Wie man Daten zu einem Produkt veredelt'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fanttik Präzisions-50-in-1-Akkuschrauber-Set als früher Prime-Deal erstmals nur 34 Euro bei Amazon'
 
-KI-Filter (Gemini) - 47 neue Artikel geprüft:
-- Gelöscht (Grund: Inhalt befasst sich mit Code-Theorie und Web-Infrastruktur (GitHub, Qt, TypeScript etc.).): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
-- Gelöscht (Grund: Inhalt befasst sich mit Code-Theorie und Web-Infrastruktur (Orchestrierung/Workflows).): 'Kestra: Ops-Automation jenseits von CI/CD'
-- Gelöscht (Grund: Thematisiert iPhone-Funktionen und belangloses Apple-Rauschen (OS-Updates).): 'macOS 27 Update: iPhone-Synchronisierung wird deutlich leistungsfähiger'
-- Gelöscht (Grund: Fällt unter belangloses Apple-Rauschen bezüglich Software-Support und Updates.): 'Abgesägte Apple Watch Ultra: Apple verteidigt harten Schnitt'
-- Gelöscht (Grund: Das Thema Star Trek ist ein explizites Ausschlusskriterium.): 'Technik der Enterprise: Was die Stationen auf Picards Brücke tun'
-- Gelöscht (Grund: Inhalt befasst sich mit internen PC-Komponenten (CPU-Befehlssätze).): 'AMD und Intel spezifizieren KI-Befehlssatz „ACE“ für x86-Prozessorkerne'
-- Gelöscht (Grund: Fällt unter Enterprise-IT und Web-Infrastruktur (Cloud-Hardware/Chips).): 'TPU und Trainium: AWS und Google wollen ihre KI-Chips auch verkaufen'
-- Gelöscht (Grund: Inhalt befasst sich mit Code-Theorie und Web-Infrastruktur.): 'Agentic Resource Discovery: Suchmaschine für KI-Agenten'
-- Gelöscht (Grund: Expliziter Ausschluss von Apple-Themen.): 'Halbleiterfertigung in den USA: Trump lobt sich selbst für Kooperation von Intel und Apple'
-- Gelöscht (Grund: Inhalt befasst sich mit Linux-Distributionen (Deep OS-Internals/Basteleien).): 'Zorin OS im Test | c't 3003'
-- Gelöscht (Grund: Inhalt befasst sich mit Netzwerk-Infrastruktur (6G/Mobilfunktechnik).): 'ISAC und 6G: Datenschützer warnen vor Massenüberwachung und fordern Regeln'
-- Gelöscht (Grund: Das Thema iPhone ist ein explizites Ausschlusskriterium.): 'Jailbreak möglich: Wohl unpatchbarer Hardware-Bug gefährdet iPhones'
-- Gelöscht (Grund: Fällt unter belangloses Apple-Rauschen (tvOS-Updates/Features).): 'Apple Music: Hi-Res-Lossless-Audio erstmals für Apple TV 4K'
-- Gelöscht (Grund: Fällt unter das allgemeine Ausschlusskriterium für Apple-Themen.): 'Geschlossener Apple Store mit Tarifvertrag: Politik erhöht Druck auf Apple'
-- Gelöscht (Grund: Fällt unter das allgemeine Ausschlusskriterium für Apple-Themen (iOS/App Store).): 'App-Store-Anwendung: Apple trackt eingegebene Zeichen'
+KI-Filter (Gemini) - 13 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit Code-Theorie und Web-Infrastruktur (GitHub, Qt, TypeScript etc.).): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
+- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit Code-Theorie und Web-Infrastruktur (Orchestrierung/Workflows).): 'Kestra: Ops-Automation jenseits von CI/CD'
+- Gelöscht (Grund: Inhalt fällt unter das explizite Ausschlusskriterium für Saugroboter.): 'Saugroboter Roborock Saros 20 Sonic im Test: Schrubbt den Boden mit Wischplatte'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Top 7: Die beste thermoelektrische Kühlbox im Test
+- [Heise] Verbraucherschutz im Netz: Minister fordern härteres Vorgehen gegen Fake-Shops
+- [Heise] Zurück zu Buch und Stift: Norwegen verbannt KI aus Grundschulen
+- [Heise] Lyten übernimmt Northvolt-Gelände wohl für 60 Millionen Euro
+- [Heise] Komponist für „Doom“ und „Duke Nukem 3D“ verstorben
+- [Heise] Hunderte Milliarden Euro an Klimaschäden durch deutschen Solarstrom gespart
+- [Golem] KI-Gender-Gap: Frauen im Jobmarkt durch KI stärker unter Druck
+- [Golem] Sony: Playstation-Entwickler setzen verstärkt auf KI
+- [Golem] KI-Abteilung: Meta will Moral im "Gulag" mit Snacks und Umstrukturierungen verbessern
+- [Heise] Amazon legt Filmprojekt über Sam Altman auf Eis
+- [Golem] RC-135 Rivet Joint: Spionageflugzeug soll Drohnen als verlängerten Arm bekommen
+- [Golem] Great Tang: BYDs Luxus-7-Sitzer mit großer Reichweite soll nach Europa kommen
 - [Golem] MGM Studios: Amazon schmeißt beim Film über Sam Altman hin
 - [Golem] Nothing: Budget-Smartphone fällt Speicherkrise zum Opfer
 - [Golem] Google Pixel: Verbindungsprobleme nach Upgrade auf Android 17
@@ -53,26 +44,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] Zweisam, einsam, still : Die Bilder der Woche 25
 - [Golem] Small Modular Reactor: Schweden bekommt drei kleine Atomreaktoren
 - [Golem] Erna Schneider Hoover: Die Frau, deren Idee fast jeder Entwickler kennt
-- [Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche
-- [Heise] Top 5: Die beste Eiswürfelmaschine
-- [Heise] Datenschutz im Umbruch: Aufsichtsbehörden fordern digitale Modernisierung
-- [Heise] Peloton tauscht Bike+-Sattelstützen auch hierzulande
-- [Golem] Mitmach-Aktion: Erzählt uns von euren Vorgesetzten
-- [Heise] 400-Milliarden-Parameter-Modell: Konsortium „Europa“ gewinnt KI-Wettbewerb
-- [Heise] Gematik: Gesellschafter beschließen Umbau der Gesundheitsdateninfrastruktur
-- [Golem] Finnland: Drohnenboot übernimmt erstmals EU-Grenzüberwachung
-- [Heise] Gazelle Curb: Neues E-Bike mit Bosch-Hinterradmotor „Hub Line“
-- [Heise] Anthropics KI Mythos: Unternehmen haben weiter Zugriff auf Preview-Version
-- [Heise] Klapprad-E-Bike Engwe Zip im Test: leicht zu falten, praktisch in der Stadt
-- [Golem] MSI Liberator Gen2: Nachladen, Push-to-Talk oder Makros mit dem Fuß aktivieren
-- [Golem] Resident Evil: Veronica will Fans des Originals neuen Horror bieten
-- [Heise] KI-Update: DeepMind, LLMs in der Medizin, Expertise statt KI, Körperscanner
-- [Golem] KI-Staatsfond: Bernie Sanders will KI-Unternehmen teilverstaatlichen
-- [Golem] Rückruf von fast 3.900 Fahrzeugen: Waymo-Robotaxis fahren unbefugt in Autobahnbaustellen
-- [Heise] Mercedes VLE 400 4Matic im ersten Fahrbericht: Das große Raumfahrzeug
-- [Golem] Hitzewelle: Europaweite Hitze treibt Strompreis in die Höhe
-- [Heise] Hinterland of Things: Kernfusion und Drohnentechnik suchen Kapital
-- [Golem] Lithium-Schwefel-Batterien: Die zehnmal besseren Akkus lassen auf sich warten
-- [Heise] Endgültige Fassung veröffentlicht: Rahmenwerk für KI-Kompetenzen in Schulen
-- [Golem] Gegen Willen der Trump-Regierung: US-Senat stoppt Abbau von Ozeanüberwachungsystem
-- [Heise] Post zum Freitag: Promi-Drama wegen schlechter Streaming-Qualität
