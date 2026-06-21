@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 20.6.2026, 12:58:39
-Letzter Lauf: 20.6.2026, 06:30:36
+Start: 21.6.2026, 06:30:35
+Letzter Lauf: 20.6.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,10 +17,27 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 14 neue Artikel geprüft:
-- Gelöscht (Grund: Brandmeldung in der Schweiz außerhalb der Waadt (Kanton Zürich).): 'Keine Verletzte – Feuerwerksdepot in Uitikon-Waldegg brennt ab'
+KI-Filter (Gemini) - 18 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Brandmeldung in der Schweiz außerhalb der Waadt (Kanton Zürich).): 'Keine Verletzte – Feuerwerksdepot in Uitikon-Waldegg brennt ab'
+- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb der Waadt (Kanton Genf).): 'Trois bus des TPG caillassés par des inconnus au Lignon'
+- Gelöscht (Grund: Reine Blaulicht-Meldung (Unfall) ohne spezifischen Bezug zur Waadt.): 'Un scootériste percute une auto puis une souche d'arbre'
 
 Finale Liste (live im XML-Feed):
+- [SRF Ausland] Waldbrand Griechenland – Waldbrand auf Euböa zwingt Menschen zur Flucht
+- [SRF Schweiz] Datenleck gibt Einblick – Die Radiologie lastet immer schwerer auf dem Gesundheitswesen
+- [SRF Ausland] Skandal in Frankreich – Angst, Scham und Unterwerfung: Missbrauch an katholischer Schule
+- [SRF Ausland] Europa und Grossbritannien – Vor allem die jungen Leute wollen zurück in die EU
+- [SRF Wissen] Offizieller Fifa-Ball – Warum der WM-Ball vor den Spielen aufgeladen werden muss
+- [SRF Schweiz] Solothurner Uhrenindustrie – Als Uhrenarbeiter täglich Dutzende Tabletten schluckten
+- [SRF Schweiz] Todesfälle und Katastrophen – Freiwillige Arbeit im Care-Team: Wer tut sich das an?
+- [SRF Ausland] Debakel um US-Gedenkstätte – Zuerst wachsen Algen, dann blättert die Farbe ab
+- [20 Min Romandie] Die Schweiz und Europa vor einer historischen Hitzewelle
+- [Journal de Morges] 0,5 Promille Demokratie im Parlament
+- [SRF Ausland] Gegen Gewalt in Kenia – Die Karate-Grosis aus Korogocho
+- [SRF Ausland] Kosovos Hauptstadt – Warum Pristina einen Bauboom erlebt
+- [SRF Schweiz] Interaktiver Rechner – Mieten oder kaufen? Was Sie sich wo leisten können
+- [SRF Schweiz] Abkommen mit der EU – Bauernpräsident droht mit Nein zum Vertragspaket
+- [20 Min Romandie] Mutmasslicher Missbrauch durch den Theologen Daniel Marguerat: Untersuchung eingeleitet
 - [Journal de Morges] Proxipel gewinnt den ersten ARCAM-Innovationspreis
 - [SRF Schweiz] Diskussion um Wachstum – Wachstumsschmerzen: Luxusproblem oder Wohlstandsverlust?
 - [SRF Schweiz] Die etwas anderen News – Lasst die Leute doch mal arbeiten!
@@ -34,33 +51,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] 1700 Gäste evakuiert – Strandhotel in der Dominikanischen Republik brennt – Frau stirbt
 - [SRF Wirtschaft] Energiepreise in der Schweiz – Nach Einigung mit Iran: Preise für Benzin und Heizöl sinken
 - [SRF Schweiz] Ein Leben fürs Schiessen – Mit 95 noch voll im Schuss – der älteste Schütze am Schützenfest
-- [SRF Schweiz] Als erster Kanton der Schweiz – Wallis prüft den Abschuss von Luchsen
-- [SRF Schweiz] Nach dreiwöchigem Ringen – Baume-Schneider: «Jetzt hat die 13. AHV-Rente einen Preis»
-- [SRF Schweiz] Älteste Besetzung der Schweiz – Eigentümerin hat genug: «Gisi» in Winterthur droht Räumung
-- [SRF Schweiz] Rüstungsplanung und Leitlinien – Weniger Stäbe, mehr Drohnen: Bundesrat baut Verteidigung um
-- [SRF Schweiz] Entscheid bis Ende Sommer – Schutzstatus S: Bundesrat prüft Verlängerung und Einschränkungen
-- [RTS Vaud] Affäre Daniel Marguerat: Waadtländer Staatsanwaltschaft ermittelt wegen Missbrauchsverdachts
-- [SRF Schweiz] Dutzende Ausbauprojekte – «Verkehr '45»: So plant der Bund Schiene und Strasse bis 2045
-- [20 Min Romandie] Malley-Gare: 256 Millionen für ein «neues Stück Stadt»
-- [SRF Ausland] Krieg in Nahost – Offenbar haben Washington und Teheran ein Machtwort gesprochen
-- [SRF Ausland] Fussballspiel Haiti-Brasilien – Haitis historische WM – zwischen Bandengewalt und Trump
-- [20 Min Romandie] Die Schweiz von Hagel und heftigen Böen heimgesucht
-- [SRF Schweiz] Gesetz gegen Hakenkreuz – Parlament kann über ein Verbot von Nazisymbolen entscheiden
-- [SRF Schweiz] Schweinekrise in der Schweiz – Tausende Ferkel werden notfallmässig zur Schlachtung exportiert
-- [20 Min Romandie] Misshandelte Tiere: Mehr als 27'000 Unterschriften gegen eine Schweinezucht
-- [SRF Schweiz] Absage am Bürgenstock – Spitzen-Diplomat sieht weiter Chancen für Iran-Dialog
-- [20 Min Romandie] Gefesselt und geknebelt: Sie stahlen ihr Geld und Drogen
-- [SRF Gesellschaft] Neues Buch von J.D. Vance – «Communion»: Ein Hillbilly findet den Katholizismus
-- [SRF Wissen] Vorsicht beim Baden – Tessiner Behörden warnen vor Blaualgen im Lago Maggiore
-- [SRF Schweiz] Sommersession – Hollywoodreife Wochen im Bundeshaus
-- [SRF Ausland] Ukrainische Angriffswelle – In Moskau regnet es Öl: Die Ukraine trägt den Krieg zu Putin
-- [SRF Wissen] Programm zur Wiederansiedlung – «Klein aber jöö»: Kanton Freiburg setzt 80 Sumpfschildkröten aus
-- [SRF Schweiz] Hochsommerliche 35 Grad plus – Hitzewelle: Diese Branchen profitieren vom Extremwetter
-- [SRF Ausland] Polen verdächtigt Russland – Kreml-kritischer Künstler getötet – war es ein politischer Mord?
-- [SRF Schweiz] Übung «Conex 26» – Armee nutzt Bözberg-Tunnel als Schutzschirm gegen Drohnen
-- [SRF Schweiz] Belästigungsfälle – Beleidigungen und Sexismus: Es brodelt in Neuenburgs OP-Sälen
-- [20 Min Romandie] Bern gibt grünes Licht für die dritte Metrolinie
-- [Journal de Morges] UAPE verzögert und mehrere Rücktritte: Berichte aus dem Gemeinderat von Morges
-- [20 Min Romandie] Betrug durch falschen Polizisten: Jugendbande entlarvt
-- [SRF Schweiz] Hitze-Tracker – Wo gerade die Rekorde purzeln
-- [20 Min Romandie] Verurteilte Polizeibeamte sind weiterhin im Dienst
