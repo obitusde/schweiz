@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 21.6.2026, 06:30:35
-Letzter Lauf: 20.6.2026, 12:58:39
+Start: 21.6.2026, 12:58:39
+Letzter Lauf: 21.6.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,13 +17,22 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 18 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Brandmeldung in der Schweiz außerhalb der Waadt (Kanton Zürich).): 'Keine Verletzte – Feuerwerksdepot in Uitikon-Waldegg brennt ab'
-- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb der Waadt (Kanton Genf).): 'Trois bus des TPG caillassés par des inconnus au Lignon'
-- Gelöscht (Grund: Reine Blaulicht-Meldung (Unfall) ohne spezifischen Bezug zur Waadt.): 'Un scootériste percute une auto puis une souche d'arbre'
+KI-Filter (Gemini) - 10 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ausserhalb der Waadt (Kanton Genf).): 'Trois bus des TPG caillassés par des inconnus au Lignon'
+- Weiterhin entfernt (Cache, Grund: Reine Blaulicht-Meldung (Unfall) ohne spezifischen Bezug zur Waadt.): 'Un scootériste percute une auto puis une souche d'arbre'
+- Gelöscht (Grund: Unfall außerhalb von Vaud): 'Schlauchboot gekentert – Polizei sucht nach Bootsunfall bei Mühlau AG nach 5-jährigem Bub'
+- Gelöscht (Grund: Unfall außerhalb von Vaud): 'Unwetter in Zürich – Von herabfallendem Ast getroffen: 16-Jährige stirbt im Spital'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] Waldbrand Griechenland – Waldbrand auf Euböa zwingt Menschen zur Flucht
+- [SRF Schweiz] Russische Repression – Putin nimmt immer mehr Exilrussen ins Visier
+- [20 Min Romandie] Ein Parlamentarier will E-Scooter-Fahrer ausbremsen
+- [SRF Schweiz] Nach dem Bergsturz – Blatten: Welche Folgen hat der Wiederaufbau für das Lötschental?
+- [SRF Wirtschaft] Vermarktung Fussball-WM 2026 – Sportökonom: «Fussball ist kein Luxusprodukt»
+- [SRF Gesellschaft] Unsichtbare Reinigungskräfte – Sauberkeit hat ihren Preis – und viele Gesichter
+- [SRF Schweiz] Lebensmittel – Linsen im Test: Viel Protein … und ein bisschen Gift
+- [SRF Schweiz] EU-Vertragspaket – Führen die Bilateralen III zu Abstrichen der direkten Demokratie?
+- [SRF Schweiz] Störung wegen Bürgenstock – Flughafen Zürich wieder in vollem Betrieb
+- [SRF Ausland] Griechenland – Waldbrand auf Euböa zwingt Menschen zur Flucht
 - [SRF Schweiz] Datenleck gibt Einblick – Die Radiologie lastet immer schwerer auf dem Gesundheitswesen
 - [SRF Ausland] Skandal in Frankreich – Angst, Scham und Unterwerfung: Missbrauch an katholischer Schule
 - [SRF Ausland] Europa und Grossbritannien – Vor allem die jungen Leute wollen zurück in die EU
@@ -39,15 +48,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Abkommen mit der EU – Bauernpräsident droht mit Nein zum Vertragspaket
 - [20 Min Romandie] Mutmasslicher Missbrauch durch den Theologen Daniel Marguerat: Untersuchung eingeleitet
 - [Journal de Morges] Proxipel gewinnt den ersten ARCAM-Innovationspreis
-- [SRF Schweiz] Diskussion um Wachstum – Wachstumsschmerzen: Luxusproblem oder Wohlstandsverlust?
-- [SRF Schweiz] Die etwas anderen News – Lasst die Leute doch mal arbeiten!
-- [SRF Wirtschaft] Wann fliesst das Öl wieder? – «Es braucht Zeit, die Schäden zu beheben»
-- [RTS Vaud] Notschlafstelle Malley nach Schliessung von Hausbesetzungen überlastet
-- [20 Min Romandie] Kran droht einzustürzen: Schule und Baustelle evakuiert
-- [SRF Schweiz] Abwechslung im Altersheim – Clownin Freud(h)a bringt Leichtigkeit in die Demenz-Abteilung
-- [SRF Ausland] US-Präsidentenflugzeug – Trump präsentiert die von Katar geschenkte «Air Force One»
-- [SRF Wissen] Die Geschichte hinter «.ch» – «Doch nicht alles verkackt»: So kam das Internet in die Schweiz
-- [SRF Schweiz] «Arena» zur Altersvorsorge – Höhere Mehrwertsteuer für die 13. AHV-Rente – ein Kompromiss?
-- [SRF Ausland] 1700 Gäste evakuiert – Strandhotel in der Dominikanischen Republik brennt – Frau stirbt
-- [SRF Wirtschaft] Energiepreise in der Schweiz – Nach Einigung mit Iran: Preise für Benzin und Heizöl sinken
-- [SRF Schweiz] Ein Leben fürs Schiessen – Mit 95 noch voll im Schuss – der älteste Schütze am Schützenfest
