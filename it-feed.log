@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 21.6.2026, 06:10:26
-Letzter Lauf: 20.6.2026, 12:28:18
+Start: 21.6.2026, 12:28:21
+Letzter Lauf: 21.6.2026, 06:10:26
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,19 +10,29 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | E-Ink-Notiztablets im Vergleich: Das richtige Gerät für Ihre Zwecke'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Der schnelle Weg zum iSAQB-zertifizierten Softwarearchitekten'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Energiewende in Zahlen: Wo wir stehen und wo wir hinwollen '
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Nordfrankreich: Fototour von Straßburg über Nancy bis in die Vogesen'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Microsoft Fabric: So gelingt der Einstieg in die Datenplattform'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen'
-- Gelöscht wegen Keyword 'c’t uplink': 'Notebook-Prozessoren: Stand der Dinge, Technik und Ausblick | c’t uplink'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Golem Entry-PC mit Rabatt-Aktion jetzt ab 949,90 Euro bei Systemtreff'
-- Gelöscht wegen Keyword '(g+)': '(g+) Exchange OWA XSS: Angriff per Mail und ein Patch, der nicht alle erreicht'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Strom erzeugen, speichern und sparen mit Balkonkraftwerk und der Anker SOLIX 4 Pro'
+- Gelöscht wegen Keyword '(g+)': '(g+) Auggie CLI: Wenn der KI-Coding-Agent ins Terminal zieht'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Architektur, Administration und Entwicklung'
 
-KI-Filter (Gemini) - 13 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit Code-Theorie und Web-Infrastruktur (GitHub, Qt, TypeScript etc.).): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
-- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit Code-Theorie und Web-Infrastruktur (Orchestrierung/Workflows).): 'Kestra: Ops-Automation jenseits von CI/CD'
-- Gelöscht (Grund: Inhalt fällt unter das explizite Ausschlusskriterium für Saugroboter.): 'Saugroboter Roborock Saros 20 Sonic im Test: Schrubbt den Boden mit Wischplatte'
+KI-Filter (Gemini) - 10 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Inhalt fällt unter das explizite Ausschlusskriterium für Saugroboter.): 'Saugroboter Roborock Saros 20 Sonic im Test: Schrubbt den Boden mit Wischplatte'
+- Gelöscht (Grund: Behandelt eine interne PC-Komponente (Grafikkarte).): 'Grafikkarte: Scammer verkaufen Geforce RTX 4090 mit Plastikteilen'
+- Gelöscht (Grund: Behandelt Web-Infrastruktur und WordPress-Plugins.): 'Jetzt patchen! Angriffe auf Wordpress-Websites mit Gravity-SMTP-Plug-in'
+- Gelöscht (Grund: Fällt unter Enterprise-IT und Infrastruktur-Software.): 'Bamboo, Confluence & Co.: Atlassian schließt 100 Sicherheitslücken'
+- Gelöscht (Grund: Inhaltlicher Bezug zum verbotenen Thema Star Trek.): 'Militär im Weltraum: "Es ist kein Zufall, dass das Space-Force-Badge dem aus Star Trek ähnelt"'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Anthropic: Angst vor China-Spionage soll Auslöser für KI-Lockdown sein
+- [Golem] Juni-Patch: Windows-11-Update macht Office, File Explorer und Papierkorb kaputt
+- [Golem] Science-Fiction: Jeff Daniels und Brendan Fraser in Starman
+- [Golem] Star Citizen: Hinweise auf ein Release von Squadron 42 im Herbst
+- [Heise] Nach IT-Vorfall bei Amazons One Medical droht Veröffentlichung von Daten
+- [Heise] Hinterland of Things: „Wir müssen vom Erkenntnismodus in den Aktionsmodus“
 - [Heise] Top 7: Die beste thermoelektrische Kühlbox im Test
 - [Heise] Verbraucherschutz im Netz: Minister fordern härteres Vorgehen gegen Fake-Shops
 - [Heise] Zurück zu Buch und Stift: Norwegen verbannt KI aus Grundschulen
@@ -35,12 +45,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] Amazon legt Filmprojekt über Sam Altman auf Eis
 - [Golem] RC-135 Rivet Joint: Spionageflugzeug soll Drohnen als verlängerten Arm bekommen
 - [Golem] Great Tang: BYDs Luxus-7-Sitzer mit großer Reichweite soll nach Europa kommen
-- [Golem] MGM Studios: Amazon schmeißt beim Film über Sam Altman hin
-- [Golem] Nothing: Budget-Smartphone fällt Speicherkrise zum Opfer
-- [Golem] Google Pixel: Verbindungsprobleme nach Upgrade auf Android 17
-- [Heise] Neuer S/W-Film, Drohnen-Jagd und Adobes KI-Offensive – News der Woche 25/2026
-- [Golem] HBO Max im Nachtest: Katalog von Warners Streamingabo enttäuscht immer noch
-- [Heise] Kommentar KI – es wird nicht ohne gehen
-- [Heise] Zweisam, einsam, still : Die Bilder der Woche 25
-- [Golem] Small Modular Reactor: Schweden bekommt drei kleine Atomreaktoren
-- [Golem] Erna Schneider Hoover: Die Frau, deren Idee fast jeder Entwickler kennt
