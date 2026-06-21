@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 20.6.2026, 08:49:26
-Letzter Lauf: 20.6.2026, 08:38:09
+Start: 21.6.2026, 06:24:57
+Letzter Lauf: 20.6.2026, 08:49:26
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -12,53 +12,18 @@ Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/Wissen
 
 Statischer Filter (Keywords):
-- Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
-- Gelöscht wegen Keyword 'leute:': 'Leute: Auf „zwei Meter“ Bier mit Bad Bunny'
 - Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Politisches Langzeit-Trauma: Zehn Jahre Brexit-Referendum'
-- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 19. Juni 2026'
 
-KI-Filter (Gemini) - 0 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Betrifft deutsche Innenpolitik): [Politik] 'Sparpläne der Bundesregierung: Herbe Einschnitte beim Wohngeld'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik): [Politik] 'Podcast „Auf den Punkt“: Machtkampf in UK: Wird Andy Burnham der nächste Premier?'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik): [Politik] 'Annegret Kramp-Karrenbauer: „Knapp hinter dem Vorhang – das ist eindeutig bequemer“'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik und deutsche Innenpolitik): [Politik] 'Bundesregierung: Neues Arbeitszeitgesetz: Der erste Entwurf dürfte schon mal erledigt sein'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik im Kontext europäischer Akteure): [Politik] 'EU-Haushalt: „Die Zahlen müssen runter“'
-- Weiterhin entfernt (Cache, Grund: Parteipolitik): [Politik] 'Bundespräsident: Steinmeier wünscht sich „Politik-Profi“ als Nachfolger'
-- Weiterhin entfernt (Cache, Grund: Kommunale Politik): [Politik] 'Infrastruktur: Bonner Nordbrücke bleibt bis Ende 2028 gesperrt'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Mode): [Leben] 'Mode: Stoff für den Sommer'
-- Weiterhin entfernt (Cache, Grund: Duplikat von ID: 7): [Panorama] 'Washington: Algengrün statt US-Flaggenblau'
-- Weiterhin entfernt (Cache, Grund: Thema Erziehung von Kleinkindern): [Wissen] 'Psychologie: Das war ich nicht. Wirklich nicht!'
+KI-Filter (Gemini) - 10 neue Artikel geprüft:
+- Gelöscht (Grund: Behandelt parteipolitische Interna (Deutschland).): [Politik] 'Linken-Parteitag: Neue Spitze: Linke wählt Schwerdtner und Pantisano zu Vorsitzenden'
+- Gelöscht (Grund: Dublikat: Das Thema Nahost-Konflikt und US-Iran-Gespräche wird in Artikel 5 informativer abgedeckt.): [Politik] 'Nahost: Iran sperrt Straße von Hormus - Verhandlungen sollen weiterhin stattfinden'
+- Gelöscht (Grund: Dublikat: Wetterereignisse werden in Artikel 8 und 9 kontextualisiert.): [Panorama] 'Wetter: Erst Hitze, dann Blitze - die Bilder'
 
 Finale Liste (live im XML-Feed):
-- [Politik] Krieg in Nahost: USA und Iran verschieben Gespräche wegen Angriffen in Libanon
-- [Panorama] England: Zwei Züge kollidieren – ein Toter, fast hundert Verletzte
-- [Panorama] Baden-Württemberg: Unwetter stört Ablauf des Southside-Festivals
-- [Politik] Krieg in der Ukraine: Streit um Geschichte: Polen entzieht Selenskij höchsten Orden
-- [Wirtschaft] Übernahmekampf: Unicredit sichert sich rund 40 Prozent an der Commerzbank
-- [Wissen] Physik: Ist dieser Riesenbeschleuniger 16 Milliarden Euro wert?
-- [Panorama] Washington: Algengrün statt US-Flaggenblau
-- [Politik] Präsidentenmuseum in Chicago: Nirgendwo Blattgold: Obamas granitgewordenes Vermächtnis
-- [Panorama] Renningen bei Stuttgart: Babyleiche bei Suche nach vermisstem Kind entdeckt
-- [Wirtschaft] Baustellen und Großprojekte: Der völlige Bahnsinn
-- [Panorama] Baden-Württemberg: Kleines Mädchen im Auto starb an Hitzeschlag
-- [Magazin] Sechs Fakten über Wasser, die Sie noch nicht wussten
-- [Wirtschaft] Arbeitszeitgesetz: „Ich habe das Gefühl, ich stehe an einigen Tagen mit einem Bein im Knast“
-- [Politik] Spionage, Sabotage, Anschläge: Höhere Warnstufe für Deutschland
-- [Leben] Publizieren im KI-Zeitalter: Schreib, Maschine
-- [Wirtschaft] Rechtswesen: Wenn vor Gericht KI gegen KI antritt
-- [Wirtschaft] Wirtschaftsministerin in Ankara: Reiche will mehr Energie-Zusammenarbeit mit der Türkei
-- [Politik] USA: Meloni wirft Trump Lüge vor
-- [Politik] Ukraine-Krieg: EU verlängert Sanktionen gegen Russland erstmals um zwölf Monate
-- [Wirtschaft] Energie: Wer kauft Deutschlands größten Gaskonzern?
-- [Wissen] Psychologie: Senkt Kuscheln mit der Katze wirklich den inneren Stress?
-- [Wirtschaft] Wirtschafts- und Sozialpolitik: Zeit, dass sich mal wieder was dreht
-- [Wirtschaft] Superreiche: Wer jetten will, soll Steuern zahlen
-- [Wissen] Psychologie: Hoffnungsfroh trotz Krisen: Später geborene Generationen glauben stärker an Einfluss auf ihr Leben
-- [Wissen] Biotechnologie: Gelockerte Gentechnik-Regeln helfen bei der Profitmaximierung – nicht aber der Weltrettung
+- [Politik] Bundespolitik: Rentenkommission schlägt höhere Beiträge und späteren Rentenbeginn vor
+- [Politik] Italien und USA: Schatzi, schenk mir ein Foto
+- [Politik] Krieg in der Ukraine: Selenskij schickt polnischen Orden zurück
+- [Politik] Migration: 15 Leichen an Libyens Küste angespült
+- [Politik] Krieg in Nahost: USA und Iran beginnen Gespräche in der Schweiz
 - [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
-- [Wirtschaft] Insolventes Start-up Seawater Cubes: „Ich würde es wieder machen, nur anders“
-- [Panorama] Deutscher Wetterdienst: Bis zu 38 Grad: Hitzewarnungen für alle Bundesländer
-- [Wirtschaft] Geopolitik: Was die Exportnation Deutschland aus dem Iran-Krieg lernen sollte
-- [Panorama] Kopftuch: Die Hijab-Influencerin, die es wagte, den Hijab abzunehmen
-- [Auto] Mercedes VLE: Lounge mit Lenker
-- [Magazin] »Die meisten Paarprobleme sind eine Reinszenierung uralter Emotionen«
+- [Panorama] Unwetter: Neun Verletzte nach Blitzeinschlag beim Zelten
