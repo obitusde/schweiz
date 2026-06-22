@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 21.6.2026, 12:28:21
-Letzter Lauf: 21.6.2026, 06:10:26
+Start: 22.6.2026, 06:10:25
+Letzter Lauf: 21.6.2026, 12:28:21
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,38 +10,35 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Agentic QA: Wie KI-Agenten die Qualitätssicherung transformieren'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | E-Ink-Notiztablets im Vergleich: Das richtige Gerät für Ihre Zwecke'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Der schnelle Weg zum iSAQB-zertifizierten Softwarearchitekten'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Energiewende in Zahlen: Wo wir stehen und wo wir hinwollen '
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Nordfrankreich: Fototour von Straßburg über Nancy bis in die Vogesen'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Microsoft Fabric: So gelingt der Einstieg in die Datenplattform'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Strom erzeugen, speichern und sparen mit Balkonkraftwerk und der Anker SOLIX 4 Pro'
 - Gelöscht wegen Keyword '(g+)': '(g+) Auggie CLI: Wenn der KI-Coding-Agent ins Terminal zieht'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Architektur, Administration und Entwicklung'
 
-KI-Filter (Gemini) - 10 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Inhalt fällt unter das explizite Ausschlusskriterium für Saugroboter.): 'Saugroboter Roborock Saros 20 Sonic im Test: Schrubbt den Boden mit Wischplatte'
-- Gelöscht (Grund: Behandelt eine interne PC-Komponente (Grafikkarte).): 'Grafikkarte: Scammer verkaufen Geforce RTX 4090 mit Plastikteilen'
-- Gelöscht (Grund: Behandelt Web-Infrastruktur und WordPress-Plugins.): 'Jetzt patchen! Angriffe auf Wordpress-Websites mit Gravity-SMTP-Plug-in'
-- Gelöscht (Grund: Fällt unter Enterprise-IT und Infrastruktur-Software.): 'Bamboo, Confluence & Co.: Atlassian schließt 100 Sicherheitslücken'
-- Gelöscht (Grund: Inhaltlicher Bezug zum verbotenen Thema Star Trek.): 'Militär im Weltraum: "Es ist kein Zufall, dass das Space-Force-Badge dem aus Star Trek ähnelt"'
+KI-Filter (Gemini) - 11 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Behandelt eine interne PC-Komponente (Grafikkarte).): 'Grafikkarte: Scammer verkaufen Geforce RTX 4090 mit Plastikteilen'
+- Weiterhin entfernt (Cache, Grund: Behandelt Web-Infrastruktur und WordPress-Plugins.): 'Jetzt patchen! Angriffe auf Wordpress-Websites mit Gravity-SMTP-Plug-in'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Enterprise-IT und Infrastruktur-Software.): 'Bamboo, Confluence & Co.: Atlassian schließt 100 Sicherheitslücken'
+- Weiterhin entfernt (Cache, Grund: Inhaltlicher Bezug zum verbotenen Thema Star Trek.): 'Militär im Weltraum: "Es ist kein Zufall, dass das Space-Force-Badge dem aus Star Trek ähnelt"'
+- Gelöscht (Grund: Saugroboter sind als Negativ-Thema explizit in den Vorgaben aufgeführt.): 'Top 10: Der beste Saugroboter mit Wischfunktion im Test – Testsieger Roborock'
+- Gelöscht (Grund: Dieser Artikel befasst sich mit Netzwerk-Infrastruktur und Deep OS-Internals (Sicherheitslücke in einer SSH-Bibliothek).): 'Sicherheitslücken gefährden Verbindungen über libssh2'
 
 Finale Liste (live im XML-Feed):
+- [Digitec] Linus Torvalds – der wohltuend andere Tech-Leader
+- [Heise] Valves Steam Controller wird bei neuen Bestellungen wohl erst 2027 ausgeliefert
+- [Heise] 30 Fakten zu 30 Jahren Quake
+- [Digitec] Jetzt erhältlich: Dachfenster-Simulation «Skylight» von Philips
+- [Digitec] So baust du dir eine eigene Ladestation hinter dem Sofa
+- [Heise] Ubisoft-Mitgründer stirbt bei Flugzeugabsturz in Frankreich
+- [Heise] Kompressor-Kühlbox Bingi im Test: Von 26 auf minus 14 Grad in 30 Minuten
+- [Heise] Unbekannte senden falsche Katastrophenwarnung an Handys in Brasilien
+- [Golem] Russlands Jammer: Satellit bestätigt drastische GPS-Störsignale in Europa
 - [Heise] Anthropic: Angst vor China-Spionage soll Auslöser für KI-Lockdown sein
 - [Golem] Juni-Patch: Windows-11-Update macht Office, File Explorer und Papierkorb kaputt
 - [Golem] Science-Fiction: Jeff Daniels und Brendan Fraser in Starman
 - [Golem] Star Citizen: Hinweise auf ein Release von Squadron 42 im Herbst
 - [Heise] Nach IT-Vorfall bei Amazons One Medical droht Veröffentlichung von Daten
 - [Heise] Hinterland of Things: „Wir müssen vom Erkenntnismodus in den Aktionsmodus“
-- [Heise] Top 7: Die beste thermoelektrische Kühlbox im Test
-- [Heise] Verbraucherschutz im Netz: Minister fordern härteres Vorgehen gegen Fake-Shops
-- [Heise] Zurück zu Buch und Stift: Norwegen verbannt KI aus Grundschulen
-- [Heise] Lyten übernimmt Northvolt-Gelände wohl für 60 Millionen Euro
-- [Heise] Komponist für „Doom“ und „Duke Nukem 3D“ verstorben
-- [Heise] Hunderte Milliarden Euro an Klimaschäden durch deutschen Solarstrom gespart
-- [Golem] KI-Gender-Gap: Frauen im Jobmarkt durch KI stärker unter Druck
-- [Golem] Sony: Playstation-Entwickler setzen verstärkt auf KI
-- [Golem] KI-Abteilung: Meta will Moral im "Gulag" mit Snacks und Umstrukturierungen verbessern
-- [Heise] Amazon legt Filmprojekt über Sam Altman auf Eis
-- [Golem] RC-135 Rivet Joint: Spionageflugzeug soll Drohnen als verlängerten Arm bekommen
-- [Golem] Great Tang: BYDs Luxus-7-Sitzer mit großer Reichweite soll nach Europa kommen
