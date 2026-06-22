@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 21.6.2026, 06:24:57
-Letzter Lauf: 20.6.2026, 08:49:26
+Start: 22.6.2026, 06:24:59
+Letzter Lauf: 21.6.2026, 06:24:57
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -12,18 +12,39 @@ Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/Wissen
 
 Statischer Filter (Keywords):
-- Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Politisches Langzeit-Trauma: Zehn Jahre Brexit-Referendum'
+- Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
+- Gelöscht wegen Keyword 'leute:': 'Leute: Wie sah eigentlich Dua Lipas Brautkleid aus?'
+- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 21. Juni 2026'
 
-KI-Filter (Gemini) - 10 neue Artikel geprüft:
-- Gelöscht (Grund: Behandelt parteipolitische Interna (Deutschland).): [Politik] 'Linken-Parteitag: Neue Spitze: Linke wählt Schwerdtner und Pantisano zu Vorsitzenden'
-- Gelöscht (Grund: Dublikat: Das Thema Nahost-Konflikt und US-Iran-Gespräche wird in Artikel 5 informativer abgedeckt.): [Politik] 'Nahost: Iran sperrt Straße von Hormus - Verhandlungen sollen weiterhin stattfinden'
-- Gelöscht (Grund: Dublikat: Wetterereignisse werden in Artikel 8 und 9 kontextualisiert.): [Panorama] 'Wetter: Erst Hitze, dann Blitze - die Bilder'
+KI-Filter (Gemini) - 29 neue Artikel geprüft:
+- Gelöscht (Grund: Behandelt deutsche Kommunalpolitik.): [Politik] 'Aktionstag „Kommunen am Limit“: Städte und Gemeinden protestieren bundesweit gegen Finanznot'
+- Gelöscht (Grund: Duplikat zu Artikel ID 4; Artikel 4 ist informativer.): [Politik] 'USA: Trump behauptet, Starmer werde als britischer Premier zurücktreten'
+- Gelöscht (Grund: Duplikat zu Artikel ID 14; Artikel 14 ist informativer.): [Politik] 'Podcast „Auf den Punkt“: Provokation und Klassenkampf: Die neue Doppelspitze der Linken'
+- Gelöscht (Grund: Behandelt deutsche Parteipolitik und Landespolitik.): [Politik] 'Reformen: Ablenkungsmanöver aus München'
+- Gelöscht (Grund: Behandelt deutsche Kommunalpolitik.): [Wirtschaft] 'Antriebswende: Was die Straße von Hormus für die Hornusstraße in Freiburg bedeutet'
+- Gelöscht (Grund: Behandelt deutsche Kommunalpolitik/Schulpolitik.): [Panorama] 'Hitze: Merke: Die Schule ist kein Freibad'
+- Gelöscht (Grund: Behandelt deutsche Regionalpolitik/Themen.): [Politik] 'Katholische Kirche: Heiner Wilmer als Bischof von Münster ins Amt eingeführt'
+- Gelöscht (Grund: Fällt unter die Kategorie Promis & Adel.): [Panorama] 'Britisches Königshaus: Prinz George zieht ins Elite-Internat'
 
 Finale Liste (live im XML-Feed):
-- [Politik] Bundespolitik: Rentenkommission schlägt höhere Beiträge und späteren Rentenbeginn vor
-- [Politik] Italien und USA: Schatzi, schenk mir ein Foto
-- [Politik] Krieg in der Ukraine: Selenskij schickt polnischen Orden zurück
-- [Politik] Migration: 15 Leichen an Libyens Küste angespült
-- [Politik] Krieg in Nahost: USA und Iran beginnen Gespräche in der Schweiz
+- [Leben] Familien-Newsletter: Geschwister als engste Rivalen
+- [Politik] Kolumbien: „Mit meiner Regierung wird es keinen Friedensprozess geben“
+- [Magazin] »Im Homeoffice arbeiten die Leute länger als im Büro«
+- [Politik] Angeschlagener Premierminister: Großbritannien wartet auf Starmers Rücktritt – Trump verabschiedet ihn bereits
+- [Politik] Rentenreform: Bas stimmt die Älteren auf Einschnitte ein
+- [Politik] Krieg in Nahost: Vance: Große Fortschritte in Gesprächen mit Iran
+- [Panorama] Wetter: Bis zu 40 Grad möglich in der neuen Woche
+- [Politik] Großbritannien: Zehn Jahre Brexit, zehn Jahre ohne Plan
+- [Politik] Krieg in der Ukraine: Ölanlagen auf Krim und in Krasnodar getroffen
+- [Politik] Kritik an Pekings Politik: Zwanzigfache Rente für Chinas Stadtbewohner
+- [Politik] Linken-Parteitag in Potsdam: „Verdammt noch mal, wir sind das Bollwerk“
+- [Wirtschaft] Cartoon: Meissners Strategen
+- [Politik] Schrottimmobilien: Das Geschäft mit fast verfallenen Häusern
+- [Wirtschaft] Luftfahrt: Das große Rätsel um die Zukunft von Easyjet
+- [Wirtschaft] EU-Pläne zur Industriepolitik: Plötzlich finden die Autokonzerne Abschottung doch gut
+- [Wirtschaft] Wirecard-Prozess: Ein Urteil noch in diesem Jahr scheint möglich
+- [Wirtschaft] Indien: Wenn der Goldpreis das Eheglück beeinflusst
+- [Wirtschaft] Börse: Droht ein neuer Absturz?
+- [Wirtschaft] Wirtschaftswachstum: Warum Italien besser dasteht als Deutschland
+- [Wirtschaft] Geldpolitik: Kommt jetzt der Preisschock?
 - [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
-- [Panorama] Unwetter: Neun Verletzte nach Blitzeinschlag beim Zelten
