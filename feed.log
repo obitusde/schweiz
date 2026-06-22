@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 22.6.2026, 06:30:35
-Letzter Lauf: 21.6.2026, 12:58:39
+Start: 22.6.2026, 12:58:40
+Letzter Lauf: 22.6.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,15 +17,30 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 20 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfall außerhalb von Vaud): 'Unwetter in Zürich – Von herabfallendem Ast getroffen: 16-Jährige stirbt im Spital'
-- Gelöscht (Grund: Mathematisches Duplikat zu ID 1; ID 1 ist informativer (hintergrundorientierter).): 'Kolumbien – Rechter Anwalt steht vor Sieg bei Präsidentschaftswahl'
-- Gelöscht (Grund: Reine Blaulicht-Meldung (Brand) ohne expliziten Bezug zum Kanton Waadt.): 'Une voiture de collection en flammes sur le parking de l'hôpital'
-- Gelöscht (Grund: Umweltvorfall/Blaulicht-Meldung im Kanton Freiburg (Epagny), außerhalb der Waadt.): 'L'Albeuve interdite à la baignade après une pollution'
-- Gelöscht (Grund: Unfallmeldung aus dem Kanton Aargau, außerhalb der Waadt.): 'Schlauchboot gekentert – Polizei sucht nach Bootsunfall bei Mühlau AG nach 5-jährigem Bub'
-- Gelöscht (Grund: Unfallmeldung aus dem Kanton Neuenburg (Boveresse), außerhalb der Waadt.): 'Motard héliporté après une collision with une auto'
+KI-Filter (Gemini) - 16 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Mathematisches Duplikat zu ID 1; ID 1 ist informativer (hintergrundorientierter).): 'Kolumbien – Rechter Anwalt steht vor Sieg bei Präsidentschaftswahl'
+- Weiterhin entfernt (Cache, Grund: Reine Blaulicht-Meldung (Brand) ohne expliziten Bezug zum Kanton Waadt.): 'Une voiture de collection en flammes sur le parking de l'hôpital'
+- Weiterhin entfernt (Cache, Grund: Umweltvorfall/Blaulicht-Meldung im Kanton Freiburg (Epagny), außerhalb der Waadt.): 'L'Albeuve interdite à la baignade après une pollution'
+- Weiterhin entfernt (Cache, Grund: Unfallmeldung aus dem Kanton Aargau, außerhalb der Waadt.): 'Schlauchboot gekentert – Polizei sucht nach Bootsunfall bei Mühlau AG nach 5-jährigem Bub'
+- Weiterhin entfernt (Cache, Grund: Unfallmeldung aus dem Kanton Neuenburg (Boveresse), außerhalb der Waadt.): 'Motard héliporté après une collision avec une auto'
+- Gelöscht (Grund: Kriminalität in der Schweiz ausserhalb des Kantons Waadt (Solothurn).): 'Solothurner Gerichtsprozess – 19-Jähriger soll junge Frau «aus Neugier» getötet haben'
+- Gelöscht (Grund: Kriminalität und Blaulicht-Meldung in der Schweiz ohne Beleg für den Standort Waadt.): 'Ils volent trois véhicules et abandonnent une Mercedes accidentée'
+- Gelöscht (Grund: Kriminalität in der Schweiz ausserhalb des Kantons Waadt.): 'Betrug im Namen der UBS – Vorsicht Falle! Opfer nimmt dreisten Telefonbetrug auf'
+- Gelöscht (Grund: Reine Blaulicht-Meldung in der Schweiz ausserhalb des Kantons Waadt.): 'Blindgänger – Taucher fischt Handgranate aus Rhein – Experten entschärfen sie'
 
 Finale Liste (live im XML-Feed):
+- [SRF Ausland] Druck zu gross – Britischer Premierminister Keir Starmer tritt zurück
+- [Journal de Morges] In Morges stellen sich junge Reporter in den Dienst der Biodiversität
+- [Journal de Morges] Proxipel gewinnt den ersten ARCAM-Innovationspreis
+- [SRF Ausland] Nahe Antarktis – Vogelgrippe tötet Tausende Babyrobben auf abgeschiedenen Inseln
+- [SRF Schweiz] Wegen Klimawandel – Die Störche sind zurück: Immer mehr Brutpaare im Bernbiet
+- [20 Min Romandie] Vom Schwimmen am Strand von Colombier wird abgeraten
+- [SRF Schweiz] Im Überlebenskampf – Kleinseilbahnen: Kulturgut in luftiger Schieflage
+- [SRF Schweiz] Ärzte-Nachwuchs im Spital – Nach dem Medizinstudium schlägt die Zukunftsangst zu
+- [SRF Wissen] «3 vo 5» – das Kultquiz – 5 Hitze-Hacks für einen kühlen Kopf an heissen Tagen
+- [SRF Schweiz] Olympische Winterspiele 2038 – Bundesrat: Olympia «einmalige Chance» für die Schweiz
+- [SRF Ausland] Aus Abwasser wird Trinkwasser – Frankreich geht wegen Wasserknappheit neue Wege
+- [SRF Ausland] Gespräche auf dem Bürgenstock – Iran und USA legen Grundstein für Verhandlungen – das Wichtigste
 - [SRF Schweiz] Mammografie für Früherkennung – Schweizweit grosse Unterschiede bei der Brustkrebs-Vorsorge
 - [SRF Ausland] Kolumbiens neue Rechte – De la Espriellas Sieg rückt Kolumbien näher an Trumps USA
 - [SRF Ausland] Keir Starmer unter Druck – Tritt der britische Premier heute zurück?
@@ -41,11 +56,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Im Visier der Polizei – Wie nigerianische Verbrecherbanden in der Schweiz operieren
 - [20 Min Romandie] Motorradfahrer stürzt in Schlucht: Lebensgefahr
 - [SRF Ausland] Gipfeltreffen auf Bürgenstock – USA und Iran ringen um Frieden – das ist zu erwarten
-- [SRF Schweiz] Russische Repression – Putin nimmt immer mehr Exilrussen ins Visier
-- [20 Min Romandie] Ein Parlamentarier will E-Scooter-Fahrer ausbremsen
-- [SRF Schweiz] Nach dem Bergsturz – Blatten: Welche Folgen hat der Wiederaufbau für das Lötschental?
-- [SRF Wirtschaft] Vermarktung Fussball-WM 2026 – Sportökonom: «Fussball ist kein Luxusprodukt»
-- [SRF Gesellschaft] Unsichtbare Reinigungskräfte – Sauberkeit hat ihren Preis – und viele Gesichter
-- [SRF Schweiz] Lebensmittel – Linsen im Test: Viel Protein … und ein bisschen Gift
-- [SRF Schweiz] EU-Vertragspaket – Führen die Bilateralen III zu Abstrichen der direkten Demokratie?
-- [SRF Schweiz] Störung wegen Bürgenstock – Flughafen Zürich wieder in vollem Betrieb
