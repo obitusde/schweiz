@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 21.6.2026, 12:58:39
-Letzter Lauf: 21.6.2026, 06:30:35
+Start: 22.6.2026, 06:30:35
+Letzter Lauf: 21.6.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,13 +17,30 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 10 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ausserhalb der Waadt (Kanton Genf).): 'Trois bus des TPG caillassés par des inconnus au Lignon'
-- Weiterhin entfernt (Cache, Grund: Reine Blaulicht-Meldung (Unfall) ohne spezifischen Bezug zur Waadt.): 'Un scootériste percute une auto puis une souche d'arbre'
-- Gelöscht (Grund: Unfall außerhalb von Vaud): 'Schlauchboot gekentert – Polizei sucht nach Bootsunfall bei Mühlau AG nach 5-jährigem Bub'
-- Gelöscht (Grund: Unfall außerhalb von Vaud): 'Unwetter in Zürich – Von herabfallendem Ast getroffen: 16-Jährige stirbt im Spital'
+KI-Filter (Gemini) - 20 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Unfall außerhalb von Vaud): 'Unwetter in Zürich – Von herabfallendem Ast getroffen: 16-Jährige stirbt im Spital'
+- Gelöscht (Grund: Mathematisches Duplikat zu ID 1; ID 1 ist informativer (hintergrundorientierter).): 'Kolumbien – Rechter Anwalt steht vor Sieg bei Präsidentschaftswahl'
+- Gelöscht (Grund: Reine Blaulicht-Meldung (Brand) ohne expliziten Bezug zum Kanton Waadt.): 'Une voiture de collection en flammes sur le parking de l'hôpital'
+- Gelöscht (Grund: Umweltvorfall/Blaulicht-Meldung im Kanton Freiburg (Epagny), außerhalb der Waadt.): 'L'Albeuve interdite à la baignade après une pollution'
+- Gelöscht (Grund: Unfallmeldung aus dem Kanton Aargau, außerhalb der Waadt.): 'Schlauchboot gekentert – Polizei sucht nach Bootsunfall bei Mühlau AG nach 5-jährigem Bub'
+- Gelöscht (Grund: Unfallmeldung aus dem Kanton Neuenburg (Boveresse), außerhalb der Waadt.): 'Motard héliporté après une collision with une auto'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Mammografie für Früherkennung – Schweizweit grosse Unterschiede bei der Brustkrebs-Vorsorge
+- [SRF Ausland] Kolumbiens neue Rechte – De la Espriellas Sieg rückt Kolumbien näher an Trumps USA
+- [SRF Ausland] Keir Starmer unter Druck – Tritt der britische Premier heute zurück?
+- [RTS Vaud] Wertvolle Hilfe gegen den Wolf: Herdenschutzhunde lernen das Zusammenleben mit Wanderern
+- [SRF Wirtschaft] Schwindender Absatz – Chinesische Autohersteller in der Krise –  die Hintergründe
+- [SRF Ausland] Beziehungen zur EU – Swiss Deal: Warum Grossbritannien die Schweiz als Vorbild sieht
+- [SRF Schweiz] Schlau und schnell – Greifvögel: 8 Fakten über die Könige der Lüfte
+- [SRF Wirtschaft] Hohe Medikamentenpreise – Der Fall «Keytruda» und die Debatte über Preise und Gewinne
+- [SRF Ausland] Fussball als Druckmittel – Argentinien: ohne Bezahlung der Alimente kein Stadionbesuch
+- [SRF Ausland] Mitte und Westen des Landes – Hitze in Frankreich: Alkoholverbot und geschlossene Schulen
+- [SRF Schweiz] «Der Sonntagsausflug» – Autofahren früher: Als der Stau am Gotthard noch ein Erlebnis war
+- [RTS Vaud] Freibad von Payerne von Badegästen und Prozessionsspinnern belagert
+- [SRF Schweiz] Im Visier der Polizei – Wie nigerianische Verbrecherbanden in der Schweiz operieren
+- [20 Min Romandie] Motorradfahrer stürzt in Schlucht: Lebensgefahr
+- [SRF Ausland] Gipfeltreffen auf Bürgenstock – USA und Iran ringen um Frieden – das ist zu erwarten
 - [SRF Schweiz] Russische Repression – Putin nimmt immer mehr Exilrussen ins Visier
 - [20 Min Romandie] Ein Parlamentarier will E-Scooter-Fahrer ausbremsen
 - [SRF Schweiz] Nach dem Bergsturz – Blatten: Welche Folgen hat der Wiederaufbau für das Lötschental?
@@ -32,19 +49,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Lebensmittel – Linsen im Test: Viel Protein … und ein bisschen Gift
 - [SRF Schweiz] EU-Vertragspaket – Führen die Bilateralen III zu Abstrichen der direkten Demokratie?
 - [SRF Schweiz] Störung wegen Bürgenstock – Flughafen Zürich wieder in vollem Betrieb
-- [SRF Ausland] Griechenland – Waldbrand auf Euböa zwingt Menschen zur Flucht
-- [SRF Schweiz] Datenleck gibt Einblick – Die Radiologie lastet immer schwerer auf dem Gesundheitswesen
-- [SRF Ausland] Skandal in Frankreich – Angst, Scham und Unterwerfung: Missbrauch an katholischer Schule
-- [SRF Ausland] Europa und Grossbritannien – Vor allem die jungen Leute wollen zurück in die EU
-- [SRF Wissen] Offizieller Fifa-Ball – Warum der WM-Ball vor den Spielen aufgeladen werden muss
-- [SRF Schweiz] Solothurner Uhrenindustrie – Als Uhrenarbeiter täglich Dutzende Tabletten schluckten
-- [SRF Schweiz] Todesfälle und Katastrophen – Freiwillige Arbeit im Care-Team: Wer tut sich das an?
-- [SRF Ausland] Debakel um US-Gedenkstätte – Zuerst wachsen Algen, dann blättert die Farbe ab
-- [20 Min Romandie] Die Schweiz und Europa vor einer historischen Hitzewelle
-- [Journal de Morges] 0,5 Promille Demokratie im Parlament
-- [SRF Ausland] Gegen Gewalt in Kenia – Die Karate-Grosis aus Korogocho
-- [SRF Ausland] Kosovos Hauptstadt – Warum Pristina einen Bauboom erlebt
-- [SRF Schweiz] Interaktiver Rechner – Mieten oder kaufen? Was Sie sich wo leisten können
-- [SRF Schweiz] Abkommen mit der EU – Bauernpräsident droht mit Nein zum Vertragspaket
-- [20 Min Romandie] Mutmasslicher Missbrauch durch den Theologen Daniel Marguerat: Untersuchung eingeleitet
-- [Journal de Morges] Proxipel gewinnt den ersten ARCAM-Innovationspreis
