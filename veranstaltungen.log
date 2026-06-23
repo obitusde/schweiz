@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 23.6.2026, 21:12:29
+Start: 23.6.2026, 21:14:09
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -15,11 +15,29 @@ Kein Link (ignoriert):
 Statischer Filter (Keywords):
 - Gelöscht [Keyword 'lire et écrire']: 'Permanence Lire et écrire'
 - Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
+- Gelöscht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
 - Gelöscht [Keyword 'dauerausstellung']: 'Tiere Afrikas'
+- Gelöscht [Keyword 'dauerausstellung']: 'Steine der Erde'
+- Gelöscht [Keyword 'dauerausstellung']: 'Tiere der Schweiz'
+- Gelöscht [Keyword 'dauerausstellung']: 'Käfer & Co - Die bunte Welt der wirbellosen Tiere'
+- Gelöscht [Keyword 'dauerausstellung']: 'Der Jagdhund – Helfer und Freund'
+- Gelöscht [Keyword 'dauerausstellung']: 'Auf eigene Faust'
+- Gelöscht [Keyword 'dauerausstellung']: 'Picas Nest'
+- Gelöscht [Keyword 'dauerausstellung']: 'Das Jagdhorn'
+- Gelöscht [Keyword 'dauerausstellung']: 'Tiere des Nordens'
+- Gelöscht [Keyword 'dauerausstellung']: 'Audiowalk «Louf mit mir!»'
+- Gelöscht [Keyword 'dauerausstellung']: 'Freiheit! Eine musikalische Annäherung'
+- Gelöscht [Keyword 'dauerausstellung']: 'Kosmos Klee. Die Sammlung'
+- Gelöscht [Keyword 'dauerausstellung']: '"Leben ist Schwingung" und "Vita und Werk Hugo Kükelhaus"'
+- Gelöscht [Keyword 'dauerausstellung']: '"Gut in Schuss". Neue Dauerausstellung'
+- Gelöscht [Keyword 'dauerausstellung']: 'SchulSchaulager Operation am offenen Herzen'
 
-Aus Cache übernommen (68):
-- Cache: 'Bern Massen – Foules – Crowds bis 19.07.2026'
+Aus Cache übernommen (71):
+- Cache: 'Riggisberg Villa Abegg – Das Anwesen eines Sammlerpaares bis 08.11.2026'
 - Cache: 'Bern Die Post vor 60 Jahren bis 21.12.2026'
+- Cache: 'Bern Poetics Of Deconstruction bis 15.08.2026'
+- Cache: 'Bern Fokus. Klees Rückseiten bis 23.08.2026'
+- Cache: 'Utzenstorf Der Fuchs bis 19.09.2026'
 - Cache: 'Ropraz Origine(s) - Exposition bis 26.07.2026'
 - Cache: 'Lausanne Studio Ghibli et Tapisserie d’Aubusson'
 - Cache: 'Morges Château de Morges: Konferenz über Schweizer Militärattachés'
@@ -98,9 +116,12 @@ KI-Filter / Cache-Löschungen (9):
 - Gelöscht [Cache: Duplikat von ID 12]: 'Ella Maillart. Fotografische Erzählungen'
 - Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'La collection'
 
-Finale Liste (68 Einträge):
-- [Museen Bern] Bern Massen – Foules – Crowds bis 19.07.2026
+Finale Liste (71 Einträge):
+- [Museen Bern] Riggisberg Villa Abegg – Das Anwesen eines Sammlerpaares bis 08.11.2026
 - [Museen Bern] Bern Die Post vor 60 Jahren bis 21.12.2026
+- [Museen Bern] Bern Poetics Of Deconstruction bis 15.08.2026
+- [Museen Bern] Bern Fokus. Klees Rückseiten bis 23.08.2026
+- [Museen Bern] Utzenstorf Der Fuchs bis 19.09.2026
 - [Temps Libre - Ce Weekend] Ropraz Origine(s) - Exposition bis 26.07.2026
 - [Platform 10 Events 2] Lausanne Studio Ghibli et Tapisserie d’Aubusson
 - [Morges Agenda] Morges Château de Morges: Konferenz über Schweizer Militärattachés
