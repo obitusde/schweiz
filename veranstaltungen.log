@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 23.6.2026, 15:13:48
+Start: 23.6.2026, 15:21:51
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -15,6 +15,7 @@ Kein Link (ignoriert):
 Statischer Filter (Keywords):
 - Gelöscht [Keyword 'lire et écrire']: 'Permanence Lire et écrire'
 - Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
+- Gelöscht [Keyword 'dauerausstellung']: 'Einstein Museum'
 - Gelöscht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
 
 Aus Cache übernommen (67):
@@ -86,8 +87,7 @@ Aus Cache übernommen (67):
 - Cache: 'Moutier 100 œuvres de la Collection jurassienne des beaux-arts (1985-2025) bis 28.06.2026'
 - Cache: 'Liestal Seidenband. Kapital, Kunst & Krise bis 06.04.2031'
 
-KI-Filter / Cache-Löschungen (10):
-- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Atelier'
+KI-Filter / Cache-Löschungen (9):
 - Gelöscht [Cache: Duplikat]: 'Lucette, une domestique aux talents cachés'
 - Gelöscht [Cache: Duplikat]: 'Lucette, une domestique aux talents cachés'
 - Gelöscht [Cache: Event ausschließlich für Senioren (Gym équilibr'âge)]: 'Séance de Gym équilibr'âge'
