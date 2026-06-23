@@ -5,21 +5,42 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Jun 2026 19:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:14:09 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>Bern Massen – Foules – Crowds bis 19.07.2026</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/massen-foules-crowds</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/massen-foules-crowds</guid>
-      <description><![CDATA[Ausstellung. Eine multimediale Untersuchung des Phänomens Menschenmenge und deren Wirkung auf das Individuum. Interaktive Stationen zu Dynamik und Kommunikation. Museum für Kommunikation, Bern.]]></description>
-      <pubDate>Tue, 23 Jun 2026 19:04:09 GMT</pubDate>
+      <title>Riggisberg Villa Abegg – Das Anwesen eines Sammlerpaares bis 08.11.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/villa-abegg-das-anwesen-eines-sammlerpaares</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/villa-abegg-das-anwesen-eines-sammlerpaares</guid>
+      <description><![CDATA[Führung. Exklusiver Rundgang durch die privaten Gesellschaftszimmer der Stifter Werner und Margarete Abegg. Die Teilnehmerzahl ist auf 5 Personen begrenzt. Villa Abegg, Abegg-Stiftung, Riggisberg.]]></description>
+      <pubDate>Tue, 23 Jun 2026 19:14:09 GMT</pubDate>
     </item>
     <item>
       <title>Bern Die Post vor 60 Jahren bis 21.12.2026</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/die-post-vor-60-jahren</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/die-post-vor-60-jahren</guid>
       <description><![CDATA[Historische Ausstellung über das Postwesen der 1960er Jahre. Zeitzeugenberichte ehemaliger PTT-Mitarbeitender bieten persönliche Einblicke in den damaligen Arbeitsalltag. Speziell auch für Kinder aufbereitet. Schulmuseum Bern.]]></description>
-      <pubDate>Tue, 23 Jun 2026 19:04:09 GMT</pubDate>
+      <pubDate>Tue, 23 Jun 2026 19:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Poetics Of Deconstruction bis 15.08.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/poetics-of-deconstruction</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/poetics-of-deconstruction</guid>
+      <description><![CDATA[Thematische Ausstellung, die sich mit der Ästhetik und Theorie der Dekonstruktion auseinandersetzt. Ein Blick auf Formauflösung in der zeitgenössischen Gestaltung. Kornhausforum, Bern.]]></description>
+      <pubDate>Tue, 23 Jun 2026 19:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Fokus. Klees Rückseiten bis 23.08.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-klees-rueckseiten</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-klees-rueckseiten</guid>
+      <description><![CDATA[Besondere Ausstellung, die wörtlich hinter die Kulissen der Werke Paul Klees blickt. Erstmals werden die oft vernachlässigten Rückseiten seiner Bilder als eigenständige Dokumente thematisiert. Zentrum Paul Klee, Bern.]]></description>
+      <pubDate>Tue, 23 Jun 2026 19:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Utzenstorf Der Fuchs bis 19.09.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/der-fuchs</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/der-fuchs</guid>
+      <description><![CDATA[Naturkundliche Ausstellung über den Fuchs als Meister der Anpassung. Die Schau ist besonders familienfreundlich und für Kinder konzipiert. Schloss Landshut / Schweizer Museum für Wild und Jagd, Utzenstorf.]]></description>
+      <pubDate>Tue, 23 Jun 2026 19:14:09 GMT</pubDate>
     </item>
     <item>
       <title>Ropraz Origine(s) - Exposition bis 26.07.2026</title>
