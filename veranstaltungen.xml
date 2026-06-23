@@ -5,14 +5,28 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Jun 2026 18:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 18:54:31 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>Bern Grönland bis 16.08.2026</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/groenland</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/groenland</guid>
-      <description><![CDATA[Ausstellung. Die Schau beleuchtet den rasanten ökologischen und gesellschaftlichen Wandel in Grönland. Dokumentation aktueller Veränderungen im hohen Norden. ALPS Alpines Museum der Schweiz, Bern.]]></description>
-      <pubDate>Tue, 23 Jun 2026 18:20:52 GMT</pubDate>
+      <title>Thun FABRICE HYBER bis 02.08.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/fabrice-hyber</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fabrice-hyber</guid>
+      <description><![CDATA[Retrospektive des französischen Künstlers Fabrice Hyber. Seine Werke verbinden Natur, Wissenschaft und Kunst zu komplexen, oft spielerischen Systemen. Kunstmuseum Thun.]]></description>
+      <pubDate>Tue, 23 Jun 2026 18:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Souvenir bis 07.01.2028</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/souvenir</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/souvenir</guid>
+      <description><![CDATA[Ausstellung. Eine Untersuchung von Erinnerungsstücken wie Selfies, Kitsch und Gipfelsteinen aus der Bergwelt. Ein interaktives Erlebnis, besonders für Kinder geeignet. ALPS Alpines Museum der Schweiz, Bern.]]></description>
+      <pubDate>Tue, 23 Jun 2026 18:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Vanessa Billy: Superconductors bis 23.08.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/vanessa-billy-superconductors</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/vanessa-billy-superconductors</guid>
+      <description><![CDATA[Kunstausstellung. Die Künstlerin Vanessa Billy präsentiert ihre Skulpturen und Installationen unter dem Titel „Superconductors“. Zeitgenössische Positionen im Dialog mit dem Raum. Kunsthalle Bern, Bern.]]></description>
+      <pubDate>Tue, 23 Jun 2026 18:54:31 GMT</pubDate>
     </item>
     <item>
       <title>Ropraz Origine(s) - Exposition bis 26.07.2026</title>
