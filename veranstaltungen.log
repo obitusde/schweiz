@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 23.6.2026, 21:14:09
+Start: 23.6.2026, 21:18:27
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -32,104 +32,33 @@ Statischer Filter (Keywords):
 - Gelöscht [Keyword 'dauerausstellung']: '"Gut in Schuss". Neue Dauerausstellung'
 - Gelöscht [Keyword 'dauerausstellung']: 'SchulSchaulager Operation am offenen Herzen'
 
-Aus Cache übernommen (71):
-- Cache: 'Riggisberg Villa Abegg – Das Anwesen eines Sammlerpaares bis 08.11.2026'
-- Cache: 'Bern Die Post vor 60 Jahren bis 21.12.2026'
-- Cache: 'Bern Poetics Of Deconstruction bis 15.08.2026'
-- Cache: 'Bern Fokus. Klees Rückseiten bis 23.08.2026'
-- Cache: 'Utzenstorf Der Fuchs bis 19.09.2026'
-- Cache: 'Ropraz Origine(s) - Exposition bis 26.07.2026'
-- Cache: 'Lausanne Studio Ghibli et Tapisserie d’Aubusson'
-- Cache: 'Morges Château de Morges: Konferenz über Schweizer Militärattachés'
-- Cache: 'Lausanne Alfredo Jaar. Inferno & Paradiso'
-- Cache: '[Caux] Expositions au Caux Palace bis 13.09.2026'
-- Cache: 'Lausanne Exposition // Nothing Serious bis 27.06.2026'
-- Cache: 'Ecublens Konstantin Mitenev bis 15.09.2026'
-- Cache: 'Prangins Lucette bis 23.08.2026'
-- Cache: 'Corsier-sur-Vevey Nocturnes à Chaplin's World bis 29.08.2026'
-- Cache: 'Aigle Josette Taramarcaz. Le Chant des pistes bis 13.09.2026'
-- Cache: 'Nyon UNDER A HOME WITH NO ROOF bis 06.09.2026'
-- Cache: 'Lausanne Hannah Darabi. Why Don't You Dance? bis 01.11.2026'
-- Cache: 'Lausanne Vernissage public – Alfredo Jaar, Hannah Darabi'
-- Cache: 'Lausanne Visite commentée – Marche des Fiertés'
-- Cache: 'Lausanne Visite commentée – Hannah Darabi'
-- Cache: 'Lausanne Visite commentée – Ella Maillart'
-- Cache: 'Lausanne Visite commentée – Otobong Nkanga'
-- Cache: 'Lausanne Guided Tour – Otobong Nkanga'
-- Cache: 'Lausanne Visite en famille – Isao Takahata'
-- Cache: 'Morges Café Bienvenue - Rencontre multiculturelle'
-- Cache: 'Cheseaux-Noréaz Le hêtre, un arbre-habitat bis 01.11.2026'
-- Cache: 'Morges Danse parents / enfants'
-- Cache: 'Morges Prévention & accompagnement du burnout'
-- Cache: 'Morges Caf' Conc' bis 28.08.2026'
-- Cache: 'Basel Basel auf dem Teller bis 21.03.2027'
-- Cache: '[Rossinière] Royaume des Chats à Rossinière bis 12.09.2026'
-- Cache: '[Lausanne] Kodai. L'Antiquité dans la pop culture japonaise bis 24.01.2027'
-- Cache: '[Assens] Exposition Aquafresca ! bis 19.07.2046'
-- Cache: '[Vevey] CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI bis 04.07.2026'
-- Cache: '[Ste-Croix] Une exposition tout en contrastes bis 04.07.2026'
-- Cache: '[Montricher] Écrits d'art brut bis 30.08.2026'
-- Cache: '[Oron-le-Châtel] Visite guidée en présence de l'artiste Sève Favre bis 27.06.2026'
-- Cache: '[Bex] Bex Arts 26 : Génies du lieu bis 03.10.2026'
-- Cache: '[Le Sentier] Le petit monde d'Anne Crausaz, à hauteur de fourmis bis 05.07.2026'
-- Cache: '[Vevey] Exposition: Arbres et Forêts de Daniel Frank bis 04.07.2026'
-- Cache: '[Cheseaux-Noréaz] Exposition artistique - Délicatesses forestières bis 12.07.2026'
-- Cache: '[Lausanne] Exposition Mimêsis - la nature aux origines de l'innovation bis 11.04.2027'
-- Cache: 'Stettlen Ausstellung «Ausnahme ohne Regel» von Arthur Freuler bis 03.07.2026'
-- Cache: 'Morges Diffusion des matchs de la Coupe du Monde de Football bis 19.07.2026'
-- Cache: 'Lausanne Ella Maillart bis 01.11.2026'
-- Cache: 'Vaduz Naturjuwel Haberfeld bis 30.08.2026'
-- Cache: 'Appenzell Caline Aoun Thresholds of Impermanence bis 25.10.2026'
-- Cache: 'Morges Espace 81 - exposition SANS FILTRE bis 30.06.2026'
-- Cache: 'Liestal Wildes Baselbiet. Tieren und Pflanzen auf der Spur bis 17.03.2030'
-- Cache: 'Morges Cours de sport à la piscine bis 30.08.2026'
-- Cache: 'Morges Musée Alexis Forel : Exposition "Salon des fondateurs" bis 01.11.2026'
-- Cache: 'Morges Musée Alexis Forel : Exposition De pierre à image bis 01.11.2026'
-- Cache: 'Prangins Kolonial. Globale Verflechtungen der Schweiz bis 11.10.2026'
-- Cache: 'Zürich Die Sammlung bis 31.12.2029'
-- Cache: 'Morges Exposition TOP SECRET bis 20.12.2026'
-- Cache: 'Lausanne Et nous alors? bis 27.09.2026'
-- Cache: 'Zürich Mit fliegendem Teppich durch die Geschichte bis 31.12.2029'
-- Cache: 'Morges 1110-SPARK bis 27.06.2026'
-- Cache: 'Zug Ilya & Emilia Kabakov – The Tennis Game bis 28.06.2026'
-- Cache: 'Morges Exposition photographique animalière bis 30.06.2026'
-- Cache: 'Lausanne Peintures françaises 1800-1945. Anatomie d’une collection bis 16.08.2026'
-- Cache: 'Luzern 1 Raum, 1 Werk. Installationen aus der Sammlung bis 15.11.2026'
-- Cache: 'Zürich Ideen Schweiz bis 31.12.2026'
-- Cache: 'Lausanne Marina Xenofontos. Play Life bis 02.08.2026'
-- Cache: 'Zürich Einfach Zürich bis 31.12.2026'
-- Cache: 'Lausanne Isao Takahata bis 27.09.2026'
-- Cache: 'Lenzburg Hauptsache gesund. Eine Ausstellung mit Nebenwirkungen bis 28.06.2026'
-- Cache: 'Lausanne Otobong Nkanga. I dreamt of you in colours bis 23.08.2026'
-- Cache: 'Zürich Geschichte Schweiz bis 31.12.2029'
-- Cache: 'Moutier 100 œuvres de la Collection jurassienne des beaux-arts (1985-2025) bis 28.06.2026'
-- Cache: 'Liestal Seidenband. Kapital, Kunst & Krise bis 06.04.2031'
+Aus Cache übernommen (0):
+- Keine.
 
-KI-Filter / Cache-Löschungen (9):
-- Gelöscht [Cache: Duplikat]: 'Lucette, une domestique aux talents cachés'
-- Gelöscht [Cache: Duplikat]: 'Lucette, une domestique aux talents cachés'
-- Gelöscht [Cache: Event ausschließlich für Senioren (Gym équilibr'âge)]: 'Séance de Gym équilibr'âge'
-- Gelöscht [Cache: Event ausschließlich für Senioren (AVIVO)]: 'Déclaration d'impôt - appui de l'AVIVO'
-- Gelöscht [Cache: Event ausschließlich für Senioren (Atelier für Senioren)]: 'Atelier d'informatique intergénérationnel pour les seniors'
-- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Visite guidée du mois'
-- Gelöscht [Cache: Duplikat von ID 14]: 'Caline Aoun Thresholds of Impermanence'
-- Gelöscht [Cache: Duplikat von ID 12]: 'Ella Maillart. Fotografische Erzählungen'
-- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'La collection'
+KI-Filter / Cache-Löschungen (11):
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Villa Abegg – Das Anwesen eines Sammlerpaares' [Feed: Museen Bern]
+- Gelöscht [Abgesagte Veranstaltung]: 'Studio Ghibli et Tapisserie d’Aubusson  Annulé !' [Feed: Platform 10 Events 2]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Alfredo Jaar. Inferno & Paradiso' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Duplikat von id 12]: 'Lucette, une domestique aux talents cachés' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Duplikat von id 12]: 'Lucette, une domestique aux talents cachés' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Event ausschließlich für Senioren]: 'Séance de Gym équilibr'âge' [Feed: Morges Agenda]
+- Gelöscht [Event ausschließlich für Senioren]: 'Déclaration d'impôt - appui de l'AVIVO' [Feed: Morges Agenda]
+- Gelöscht [Exklusiv für Senioren]: 'Atelier d'informatique intergénérationnel pour les seniors' [Feed: Morges Agenda]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Visite guidée du mois' [Feed: Temps Libre - Ce Weekend]
+- Gelöscht [Duplikat von ID 22]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'La collection' [Feed: Platform 10 Events]
 
-Finale Liste (71 Einträge):
-- [Museen Bern] Riggisberg Villa Abegg – Das Anwesen eines Sammlerpaares bis 08.11.2026
+Finale Liste (69 Einträge):
 - [Museen Bern] Bern Die Post vor 60 Jahren bis 21.12.2026
 - [Museen Bern] Bern Poetics Of Deconstruction bis 15.08.2026
 - [Museen Bern] Bern Fokus. Klees Rückseiten bis 23.08.2026
-- [Museen Bern] Utzenstorf Der Fuchs bis 19.09.2026
+- [Museen Bern] Utzenstorf Der Fuchs Meister der Anpassung bis 19.09.2026
 - [Temps Libre - Ce Weekend] Ropraz Origine(s) - Exposition bis 26.07.2026
-- [Platform 10 Events 2] Lausanne Studio Ghibli et Tapisserie d’Aubusson
-- [Morges Agenda] Morges Château de Morges: Konferenz über Schweizer Militärattachés
-- [Temps Libre - Ce Weekend] Lausanne Alfredo Jaar. Inferno & Paradiso
-- [Temps Libre - Ce Weekend] [Caux] Expositions au Caux Palace bis 13.09.2026
+- [Morges Agenda] Morges Château de Morges : conférence
+- [Temps Libre - Ce Weekend] Caux Expositions au Caux Palace bis 13.09.2026
 - [Temps Libre - Ce Weekend] Lausanne Exposition // Nothing Serious bis 27.06.2026
-- [Temps Libre - Ce Weekend] Ecublens Konstantin Mitenev bis 15.09.2026
-- [Temps Libre - Ce Weekend] Prangins Lucette bis 23.08.2026
+- [Temps Libre - Ce Weekend] Ecublens Exposition de Konstantin Mitenev bis 15.09.2026
+- [Temps Libre - Ce Weekend] Prangins Lucette, une domestique aux talents cachés bis 23.08.2026
 - [Temps Libre - Ce Weekend] Corsier-sur-Vevey Nocturnes à Chaplin's World bis 29.08.2026
 - [Temps Libre - Ce Weekend] Aigle Josette Taramarcaz. Le Chant des pistes bis 13.09.2026
 - [Temps Libre - Ce Weekend] Nyon UNDER A HOME WITH NO ROOF bis 06.09.2026
@@ -142,23 +71,23 @@ Finale Liste (71 Einträge):
 - [Platform 10 Events 2] Lausanne Guided Tour – Otobong Nkanga
 - [Platform 10 Events 2] Lausanne Visite en famille – Isao Takahata
 - [Morges Agenda] Morges Café Bienvenue - Rencontre multiculturelle
-- [museum.ch Ausstellungen] Cheseaux-Noréaz Le hêtre, un arbre-habitat bis 01.11.2026
-- [Morges Agenda] Morges Danse parents / enfants
-- [Morges Agenda] Morges Prévention & accompagnement du burnout
+- [museum.ch Ausstellungen] Cheseaux-Noréaz Qui vit là ? Le hêtre bis 01.11.2026
+- [Morges Agenda] Morges Danse parents / enfants bis 23.06.2026
+- [Morges Agenda] Morges Prévention & accompagnement du burnout bis 23.06.2026
 - [Morges Agenda] Morges Caf' Conc' bis 28.08.2026
-- [museum.ch Ausstellungen] Basel Basel auf dem Teller bis 21.03.2027
-- [Temps Libre - Ce Weekend] [Rossinière] Royaume des Chats à Rossinière bis 12.09.2026
-- [Temps Libre - Ce Weekend] [Lausanne] Kodai. L'Antiquité dans la pop culture japonaise bis 24.01.2027
-- [Temps Libre - Ce Weekend] [Assens] Exposition Aquafresca ! bis 19.07.2046
-- [Temps Libre - Ce Weekend] [Vevey] CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI bis 04.07.2026
-- [Temps Libre - Ce Weekend] [Ste-Croix] Une exposition tout en contrastes bis 04.07.2026
-- [Temps Libre - Ce Weekend] [Montricher] Écrits d'art brut bis 30.08.2026
-- [Temps Libre - Ce Weekend] [Oron-le-Châtel] Visite guidée en présence de l'artiste Sève Favre bis 27.06.2026
-- [Temps Libre - Ce Weekend] [Bex] Bex Arts 26 : Génies du lieu bis 03.10.2026
-- [Temps Libre - Ce Weekend] [Le Sentier] Le petit monde d'Anne Crausaz, à hauteur de fourmis bis 05.07.2026
-- [Temps Libre - Ce Weekend] [Vevey] Exposition: Arbres et Forêts de Daniel Frank bis 04.07.2026
-- [Temps Libre - Ce Weekend] [Cheseaux-Noréaz] Exposition artistique - Délicatesses forestières bis 12.07.2026
-- [Temps Libre - Ce Weekend] [Lausanne] Exposition Mimêsis - la nature aux origines de l'innovation bis 11.04.2027
+- [museum.ch Ausstellungen] Basel Basel auf dem Teller – Kulinarische Stadtgeschichte(n) bis 21.03.2027
+- [Temps Libre - Ce Weekend] Rossinière Royaume des Chats à Rossinière bis 12.09.2026
+- [Temps Libre - Ce Weekend] Lausanne Kodai. L'Antiquité dans la pop culture japonaise bis 24.01.2027
+- [Temps Libre - Ce Weekend] Assens Exposition Aquafresca ! bis 19.07.2046
+- [Temps Libre - Ce Weekend] Vevey CROQUE-MADAME / LUCIE KOHLER & CAROLINE TCHUMI bis 04.07.2026
+- [Temps Libre - Ce Weekend] Ste-Croix Une exposition tout en contrastes bis 04.07.2026
+- [Temps Libre - Ce Weekend] Montricher Écrits d'art brut bis 30.08.2026
+- [Temps Libre - Ce Weekend] Oron-le-Châtel Visite guidée en présence de l'artiste Sève Favre bis 27.06.2026
+- [Temps Libre - Ce Weekend] Bex Bex Arts 26 : Génies du lieu bis 03.10.2026
+- [Temps Libre - Ce Weekend] Le Sentier Le petit monde d'Anne Crausaz, à hauteur de fourmis bis 05.07.2026
+- [Temps Libre - Ce Weekend] Vevey Exposition: Arbres et Forêts de Daniel Frank bis 04.07.2026
+- [Temps Libre - Ce Weekend] Cheseaux-Noréaz Exposition artistique - Délicatesses forestières bis 12.07.2026
+- [Temps Libre - Ce Weekend] Lausanne Exposition Mimêsis bis 11.04.2027
 - [museum.ch Ausstellungen] Stettlen Ausstellung «Ausnahme ohne Regel» von Arthur Freuler bis 03.07.2026
 - [Morges Agenda] Morges Diffusion des matchs de la Coupe du Monde de Football bis 19.07.2026
 - [Platform 10 Events] Lausanne Ella Maillart bis 01.11.2026
@@ -167,16 +96,17 @@ Finale Liste (71 Einträge):
 - [Morges Agenda] Morges Espace 81 - exposition SANS FILTRE bis 30.06.2026
 - [museum.ch Ausstellungen] Liestal Wildes Baselbiet. Tieren und Pflanzen auf der Spur bis 17.03.2030
 - [Morges Agenda] Morges Cours de sport à la piscine bis 30.08.2026
-- [Morges Agenda] Morges Musée Alexis Forel : Exposition "Salon des fondateurs" bis 01.11.2026
-- [Morges Agenda] Morges Musée Alexis Forel : Exposition De pierre à image bis 01.11.2026
+- [Morges Agenda] Morges Musée Alexis Forel : Exposition Salon des fondateurs bis 01.11.2026
+- [Morges Agenda] Morges Musée Alexis Forel : De pierre à image bis 01.11.2026
 - [museum.ch Ausstellungen] Prangins Kolonial. Globale Verflechtungen der Schweiz bis 11.10.2026
+- [museum.ch Ausstellungen] Lausanne Ella Maillart. Fotografische Erzählungen bis 01.11.2026
 - [museum.ch Ausstellungen] Zürich Die Sammlung bis 31.12.2029
-- [Morges Agenda] Morges Exposition TOP SECRET bis 20.12.2026
+- [Morges Agenda] Morges Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945 bis 20.12.2026
 - [Platform 10 Events] Lausanne Et nous alors? bis 27.09.2026
 - [museum.ch Ausstellungen] Zürich Mit fliegendem Teppich durch die Geschichte bis 31.12.2029
 - [Morges Agenda] Morges 1110-SPARK bis 27.06.2026
-- [museum.ch Ausstellungen] Zug Ilya & Emilia Kabakov – The Tennis Game bis 28.06.2026
-- [Morges Agenda] Morges Exposition photographique animalière bis 30.06.2026
+- [museum.ch Ausstellungen] Zug Ilya & Emilia Kabakov – The Tennis Game - Kunsthaus Zug Schaudepot bis 28.06.2026
+- [Morges Agenda] Morges Exposition photographique animalière à la Galerie Soleil de M'inuit bis 30.06.2026
 - [Platform 10 Events] Lausanne Peintures françaises 1800-1945. Anatomie d’une collection bis 16.08.2026
 - [museum.ch Ausstellungen] Luzern 1 Raum, 1 Werk. Installationen aus der Sammlung bis 15.11.2026
 - [museum.ch Ausstellungen] Zürich Ideen Schweiz bis 31.12.2026
