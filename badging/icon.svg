@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#2c3e50"/>
+  <circle cx="256" cy="220" r="140" fill="none" stroke="white" stroke-width="22"/>
+  <!-- tick marks -->
+  <line x1="256" y1="88" x2="256" y2="108" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <line x1="256" y1="332" x2="256" y2="352" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <line x1="116" y1="220" x2="136" y2="220" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <line x1="376" y1="220" x2="396" y2="220" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <!-- hour hand pointing to ~10 -->
+  <line x1="256" y1="220" x2="196" y2="148" stroke="white" stroke-width="18" stroke-linecap="round"/>
+  <!-- minute hand pointing to 12 -->
+  <line x1="256" y1="220" x2="256" y2="108" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="256" cy="220" r="14" fill="white"/>
+  <text x="256" y="430" text-anchor="middle" fill="white"
+        font-size="90" font-weight="900"
+        font-family="system-ui, -apple-system, sans-serif"
+        letter-spacing="4">RO</text>
+</svg>
