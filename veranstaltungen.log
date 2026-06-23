@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 23.6.2026, 20:56:18
+Start: 23.6.2026, 21:04:09
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -16,16 +16,10 @@ Statischer Filter (Keywords):
 - Gelöscht [Keyword 'lire et écrire']: 'Permanence Lire et écrire'
 - Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
 - Gelöscht [Keyword 'dauerausstellung']: 'Tiere Afrikas'
-- Gelöscht [Keyword 'dauerausstellung']: 'Steine der Erde'
-- Gelöscht [Keyword 'dauerausstellung']: 'Tiere der Schweiz'
 
-Aus Cache übernommen (72):
-- Cache: 'Bern Anno 1811 - Die Anfänge der Blasmusik in der Schweiz bis 31.03.2028'
+Aus Cache übernommen (68):
 - Cache: 'Bern Massen – Foules – Crowds bis 19.07.2026'
-- Cache: 'Bern Tai Shani: M.I.A.S.M.A bis 23.08.2026'
 - Cache: 'Bern Die Post vor 60 Jahren bis 21.12.2026'
-- Cache: 'Bern Poetics Of Deconstruction bis 15.08.2026'
-- Cache: 'Bern Fokus. Klees Rückseiten bis 23.08.2026'
 - Cache: 'Ropraz Origine(s) - Exposition bis 26.07.2026'
 - Cache: 'Lausanne Studio Ghibli et Tapisserie d’Aubusson'
 - Cache: 'Morges Château de Morges: Konferenz über Schweizer Militärattachés'
@@ -104,13 +98,9 @@ KI-Filter / Cache-Löschungen (9):
 - Gelöscht [Cache: Duplikat von ID 12]: 'Ella Maillart. Fotografische Erzählungen'
 - Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'La collection'
 
-Finale Liste (72 Einträge):
-- [Museen Bern] Bern Anno 1811 - Die Anfänge der Blasmusik in der Schweiz bis 31.03.2028
+Finale Liste (68 Einträge):
 - [Museen Bern] Bern Massen – Foules – Crowds bis 19.07.2026
-- [Museen Bern] Bern Tai Shani: M.I.A.S.M.A bis 23.08.2026
 - [Museen Bern] Bern Die Post vor 60 Jahren bis 21.12.2026
-- [Museen Bern] Bern Poetics Of Deconstruction bis 15.08.2026
-- [Museen Bern] Bern Fokus. Klees Rückseiten bis 23.08.2026
 - [Temps Libre - Ce Weekend] Ropraz Origine(s) - Exposition bis 26.07.2026
 - [Platform 10 Events 2] Lausanne Studio Ghibli et Tapisserie d’Aubusson
 - [Morges Agenda] Morges Château de Morges: Konferenz über Schweizer Militärattachés
