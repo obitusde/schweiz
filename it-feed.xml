@@ -5,14 +5,426 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 04:10:25 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Heise] Microsoft bestellt großes Gaskraftwerk für KI in Texas</title>
+      <link>https://www.heise.de/news/Microsoft-bestellt-grosses-Gaskraftwerk-fuer-KI-in-Texas-11340909.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340909</guid>
+      <description><![CDATA[Microsofts KI braucht viel Strom. Für ein neues Rechenzentrum in Texas wird Chevron Erdgas verstromen.]]></description>
+      <pubDate>Tue, 23 Jun 2026 03:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Getty Images: Lizenz für OpenAI verdoppelt Aktienkurs</title>
+      <link>https://www.heise.de/news/Getty-Images-oeffnet-Bilddatenbank-fuer-Ausgabe-bei-ChatGPT-11340893.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340893</guid>
+      <description><![CDATA[OpenAI darf nun Bilder aus Getty Images' Fundus zeigen. Dessen Aktie explodiert.]]></description>
+      <pubDate>Mon, 22 Jun 2026 20:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Smartphones treiben Rückgang der Geburtenrate</title>
+      <link>https://www.heise.de/news/Seit-dem-iPhone-sinkt-die-Geburtenrate-11339717.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11339717</guid>
+      <description><![CDATA[Frauen bringen immer seltener Kinder zur Welt. Wirtschaftliche Gründe erklären das unzureichend. Eine neue Studie zeigt auf einen sozialen Faktor: Smartphones.]]></description>
+      <pubDate>Mon, 22 Jun 2026 18:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] PC-Gaming: Steam Machine ist vorbestellbar und kein Schnäppchen</title>
+      <link>https://www.golem.de/news/pc-gaming-steam-machine-ist-vorbestellbar-und-kein-schnaeppchen-2606-210049.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/pc-gaming-steam-machine-ist-vorbestellbar-und-kein-schnaeppchen-2606-210049.html</guid>
+      <description><![CDATA[Valve startet den Verkauf der Steam Machine. Der Preis (ab 1.040 Euro) dürfte für viele Spieler aber ein Problem sein. (<a href="https://www.golem.de/specials/steam-machine/">Steam Machine</a>, <a href="https://www.golem.de/specials/steam/">Steam</a>)]]></description>
+      <pubDate>Mon, 22 Jun 2026 18:06:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Externes Laufwerk mit Brenner: Für CD und DVD ab 13 Euro, Blu-Ray ab 70 Euro</title>
+      <link>https://www.heise.de/bestenlisten/ratgeber/externes-laufwerk-mit-brenner-fuer-cd-und-dvd-ab-13-euro-blu-ray-ab-70-euro/mnerwdt?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340803</guid>
+      <description><![CDATA[Lesen, Brennen, Sichern: Auch 2026 lohnt ein externes Laufwerk für CD, DVD und Blu-Ray mit Brenner. Los geht es ab 13 Euro. Wir zeigen, worauf zu achten ist.]]></description>
+      <pubDate>Mon, 22 Jun 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Grünes Signal gegen Palantir: Basis revoltiert gegen Überwachungssoftware</title>
+      <link>https://www.heise.de/news/Gruenes-Signal-gegen-Palantir-Basis-revoltiert-gegen-Ueberwachungssoftware-11340773.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340773</guid>
+      <description><![CDATA[Ein klares Votum der Landesdelegiertenkonferenz in NRW zu Palantir erhöht den Druck auf die schwarz-grüne Koalition und strahlt bis nach Baden-Württemberg aus.]]></description>
+      <pubDate>Mon, 22 Jun 2026 15:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Microsoft] (Co)work in Progress</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/co-work-in-progress/ba-p/4511672</link>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/co-work-in-progress/ba-p/4511672</guid>
+      <description><![CDATA[<H5>A complete record of milestones, launches, and newest innovations.</H5>
+
+<H3>Delegate complex work​ – Copilot Cowork is now GA</H3>
+<P><STRONG>Now generally available worldwide,</STRONG> <A class="lia-external-url" href="https://www.microsoft.com/en-us/microsoft-365-copilot/cowork" target="_blank" rel="noopener">Copilot Cowork</A> is an agentic system that plans, executes, and delivers real work.</P>
+<P>&nbsp;</P>
+<DIV style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"></DIV>
+<P>&nbsp;</P>
+<P>Getting to Cowork is now simpler. The redesigned Microsoft 365 Copilot app includes a<STRONG> toggle that makes it easy to move between everyday chat and deeper, multi-step work</STRONG> — with more capabilities on the way.</P>
+<P>And once you're in Cowork, the new home page gives you a single place to manage the work already in motion. You can search and revisit past tasks, review and adjust your scheduled tasks, and personalize with skills and plugins that expand what it can do for you.</P>
+<P>&nbsp;</P>
+
+<H3>Built for real work</H3>
+<P>Real work doesn't happen in one app — it's a meeting in Teams, a follow-up in Outlook, a decision buried in a chat. Cowork is powered by WorkIQ, integrated with the M365 apps you already live in, and extensible to the other work systems across your org — so it maps to how work actually gets done. And because different work demands different strengths, Cowork &nbsp;is multi-model by design.</P>
+<P>We’re expanding our model line-up, so you always get the right capability for the task, whether that's speed, depth, or specialized reasoning. Alongside Anthropic, <STRONG>we're adding OpenAI GPT 5.5 Thinking (Frontier) </STRONG>and<STRONG>, coming soon, Cowork 1</STRONG> — a secure, fine-tuned model post-trained specifically for Cowork tasks at substantially lower cost.</P>
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+<P>In Auto mode, Cowork picks the best model for the job: Anthropic for visual work like PowerPoint and graphics, OpenAI for in-depth research with citations, and coming soon, Cowork 1 for everyday tasks. Prefer to choose yourself? Use the model picker to take the wheel.</P>
+<P>And GPT 5.5 is hosted on Azure, so your data stays within Microsoft's trusted cloud — covered by Azure's enterprise security, compliance certifications, and data-residency controls including the EU Data Boundary.</P>
+<P>Cowork also maps to the way you work by connecting to the systems you already use — and with <A class="lia-external-url" href="Https://aka.ms/AgentShowcase" target="_blank" rel="noopener">new plugins</A>, it can now reason and act across even more of them.</P>
+<UL>
+<LI><STRONG>Nine plugins are available now in the plugin store </STRONG>— Enosix, <A href="https://www.harvey.ai/blog/harvey-copilot-cowork-launch" target="_blank" rel="noopener">Harvey</A>, LSEG, Miro, monday.com, Moodys, Morningstar, S&amp;P Global Energy, and TeamsMaestro — <A href="https://learn.microsoft.com/en-us/azure/databricks/integrations/msft-cowork" target="_blank" rel="noopener">with Databricks also available today via sideloading.</A></LI>
+<LI><STRONG>Microsoft Fabric and the full Dynamics 365 portfolio — Sales, Customer Service, and ERP apps — are live as well. </STRONG></LI>
+<LI>And <STRONG>eight more plugins are coming soon:</STRONG> Adobe, Atlassian, Box, Canva, CB Insights, Databricks (in plugin store), MoneyForward, and Templafy.</LI>
+</UL>
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+<P>Cowork doesn't just get things done — it gets things done how you like it. Skills are custom instructions that make Cowork work the way you do — and <STRONG>today we are making it even easier to build and refine over time</STRONG> as well as combining your own workflows with partner-provided or org-wide skills deployed through plugins.</P>
+<P>Imagine a tone skill that learns how you write from your last 2,000 emails, so every draft sounds like you. Or a design skill that matches your team's visual style every time. Or a business process skill that captures exactly how something gets done, start to finish — and runs it that way every time.</P>
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+<P>Knowledge at work doesn't live in a handful of polished apps — it's spread across SaaS tools, internal portals, expense systems, and many other web experiences you click through every day. Now in Frontier, <STRONG>Cowork can use your Edge browser</STRONG> to get work done in those places too.</P>
+<P>With browser automation you can ask Cowork to pull an executive summary from your analyst subscription, submit an expense report by first finding the right details in your email and then submitting it, or log into your analytics dashboard and export a data table as a CSV — without leaving Cowork. One thing to keep in mind: since browser activity runs locally, your computer needs to stay on until the task is complete.</P>
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+<P>Real work has a look — and Cowork now helps keep that look consistent .&nbsp;<STRONG>Presentations are now built using your company's official PowerPoint templates</STRONG> (GA), pulled straight from your asset library, so every deck comes out in your approved colors, fonts, logos, and layouts — no fixing slides after the fact.</P>
+<P>The same goes for images. <STRONG>Cowork can now create and edit visuals directly</STRONG> — deck graphics, document illustrations, email imagery — <STRONG>powered by OpenAI's ChatGPT Images 2.0</STRONG> (GA).</P>
+<P>&nbsp;</P>
+
+<H3>Work in confidence</H3>
+<P>Enterprise-ready AI starts with keeping everything secure. And security isn't just about where your data lives — it's about the controls you already trust, extended to the actions Cowork takes.</P>
+<P>Cowork integrates with Purview controls your security and compliance teams already use today to manage Microsoft 365 Copilot. Today, <STRONG>Cowork is protected by sensitivity-label inheritance and display, Communication Compliance, audit logging of interactions, interaction content in Data Security Posture Management (DSPM) activity explorer, <SPAN data-teams="true">Insider Risk Management of user risk associated with Cowork interactions, as well as Data Lifecycle Management (GA 6/22) </SPAN>and eDiscovery.</STRONG> Coming soon, <STRONG>Cowork will have Insider Risk Management of user risk associated with Cowork interactions, as well as Data Lifecycle Management (DLM) and Data Loss Prevention (DLP)</STRONG> for M365 Copilot extended to Cowork.</P>
+<P>In practice, this means that Cowork prompts, responses, and generated artifacts are governed, discoverable, and retained similar to Microsoft 365 Copilot today. No new stack to learn. No separate data security posture to manage. Admins govern Cowork the same way they govern Copilot today.</P>
+<H3>Get started with Copilot Cowork&nbsp;</H3>
+<P>Copilot Cowork requires the M365 Copilot User Subscription License (USL). Users are then billed for Cowork on a usage-based basis, with charges determined by the tasks they run. For more detail on the pricing model, refer to <A href="https://aka.ms/CopilotCredits/Learn" target="_blank" rel="noopener">this Microsoft Learn article</A>.</P>
+<P>To get started with Copilot Cowork, check out the <A href="https://aka.ms/CoworkAdoption" target="_blank" rel="noopener">Copilot Cowork adoption site</A>. For more information about Copilot Credits and cost management, see <A href="https://aka.ms/CopilotCredits/Learn" target="_blank" rel="noopener">this Microsoft Learn article</A>.</P>
+
+<P><SPAN data-contrast="none">Today we are again expanding model choice in Microsoft 365 Copilot with the addition of Anthropic's latest model—Claude Opus 4.8—now available in Copilot Cowork (Frontier). Learn more about our announcement </SPAN><A href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/available-today-anthropic-claude-opus-4-8-in-microsoft-365-copilot/4523405" target="_blank" rel="noopener"><SPAN data-contrast="none"><SPAN data-ccp-charstyle="Hyperlink">here</SPAN></SPAN></A>.</P>
+
+<P>Give Microsoft 365 Copilot Cowork your team's playbook. Plugins bring your organization's skills and knowledge into one workflow so Cowork can help support teams work the way they already do. <SPAN data-contrast="none"><A class="lia-external-url" href="https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-program" target="_blank" rel="noopener">Try Copilot Cowork in Frontier</A></SPAN></P>
+<P>In plain English: a <STRONG>connector </STRONG>is the “bridge” that lets Cowork safely pull data from another platform like Dynamics 365, Fabric, and Power BI—and in some cases send updates back. A <STRONG>plugin </STRONG>packages one or more connectors and skills together to help Cowork do a specific job. If something says <STRONG>read &amp; write</STRONG>, it means Cowork can both <STRONG>read </STRONG>data from that app and <SPAN data-contrast="none">where supported and configured, help&nbsp;</SPAN><STRONG><SPAN data-contrast="none">write</SPAN></STRONG><SPAN data-contrast="none">&nbsp;</SPAN><SPAN data-contrast="none">updates back</SPAN><SPAN data-contrast="none">&nbsp;</SPAN><SPAN data-contrast="none">(for example, create or update a record), not just view it.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&nbsp;</SPAN></P>
+
+<P>* Plugins can include only skills, only connectors or a combination of the two packaged together.</P>
+</img>
+<H3>Custom created plugins</H3>
+<P>Organizations can build custom plugins for their own needs or publish them for broader use. For example, a plugin could turn fragmented data into a single business snapshot, help new hires get up to speed by pulling the right context on day one, or connect to a pricing engine so Cowork can generate quotes on the spot. If you already use Claude Cowork plugins, you can bring them into Copilot Cowork in a few simple steps. Learn how to&nbsp;<A href="https://aka.ms/cowork-plugins" target="_blank" rel="noopener">add</A>, <A href="https://aka.ms/cowork-build-plugins" target="_blank" rel="noopener">create</A>, and <A href="https://aka.ms/cowork-manage-plugins" target="_blank" rel="noopener">manage</A> plugins in Copilot Cowork and start building yours today.</P>
+<H3>Partner plugins coming soon:</H3>
+<P>&nbsp;* Partner integrations for LSEG (London Stock Exchange Group), Miro, monday.com, and S&amp;P Global Energy are available in the coming weeks</P>
+<P>Whatever tools your team runs on, you’ll be able to bring them into Cowork.‌ In the coming weeks, we're launching integrations with LSEG (London Stock Exchange Group), Miro, monday.com, and S&amp;P Global Energy in Cowork. With additional partners including Adobe, Atlassian, Box, Enosix, Harvey.AI, Money Forward, Morningstar,  and Swoop by Prezi also on the way. This is just the first wave, with more plugins to come.</P>
+
+<H3>Native plugins &amp; connectors</H3>
+<P>We’re introducing a <A href="https://learn.microsoft.com/en-us/fabric/iq/overview" target="_blank" rel="noopener">Fabric IQ</A> integration, starting with Power BI, that lets you bring your Power BI data into Cowork workflows. This enables a seamless shift from spotting a trend to acting on it, across everything from pipeline health to operational KPIs. Cowork works with the <A class="lia-external-url" href="http://aka.ms/WTI2026BizApps" target="_blank" rel="noopener">Dynamics 365 plugins</A> to connect with Sales, Customer Service, and ERP so the work that moves your business—pipeline reviews, case resolution, supplier approvals—happens alongside everything else in Cowork, with the full context of the customer and transaction right there.</P>
+<DIV style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"></DIV>
+<H3>Here's how plugins and connectors come together in real-world scenarios</H3>
+<P><EM><SPAN data-contrast="none">The following examples are illustrative scenarios and may require configuration,&nbsp;</SPAN><SPAN data-contrast="none">custom skills, appropriate permissions, and data readiness. Capabilities may vary by c</SPAN><SPAN data-contrast="none">ustomer</SPAN><SPAN data-contrast="none"> and environment.</SPAN><SPAN data-contrast="none">&nbsp;</SPAN></EM></P>
+<H4>Finance contract review</H4>
+<P>A finance manager asks Cowork to help review an existing customer’s contract and surface potential issue for review before countersigning, then send an email to review the results.</P>
+<DIV class="styles_lia-table-wrapper__h6Xo9 styles_table-responsive__MW0lN"><table border="1" style="width: 888px; height: 879.335px; border-width: 1px;"><thead><tr style="height: 38.6667px;"><td style="height: 38.6667px;">
+<P>Plugin recipe</P>
+</td><td style="height: 38.6667px;">
+<P>What it does</P>
+</td></tr></thead><tbody><tr style="height: 122.667px;"><td style="height: 122.667px;">
+<P>Dynamics 365 ERP apps</P>
+</td><td style="height: 122.667px;">
+<P>Cowork pulls AR/AP history, deferred revenue, and long term unpaid invoices and payment history from <STRONG>Dynamics 365</STRONG> — confirming the customer's receivables are current and checking approval thresholds to surface any outliers before countersigning.</P>
+</td></tr><tr style="height: 38.6667px;"><td style="height: 38.6667px;">
+<P>Fabric IQ</P>
+</td><td style="height: 38.6667px;">
+<P>….then benchmarks the terms against historical deals in <STRONG>Fabric IQ</STRONG></P>
+</td></tr><tr style="height: 66.6667px;"><td style="height: 66.6667px;">
+<P>Core Cowork capability</P>
+</td><td style="height: 66.6667px;">
+<P>… so Cowork can benchmark key terms — price, payment terms, discount, tenor — against the customer's own historical deals.</P>
+</td></tr><tr style="height: 122.667px;"><td style="height: 122.667px;">
+<P>Custom skill: Compliance Checker</P>
+</td><td style="height: 122.667px;">
+<P>A&nbsp;<STRONG>customer-built Compliance Checker skill</STRONG> helps validate the contract against internal policy — revenue recognition rules, approval thresholds, and required legal language — and highlights potential gaps for human sign-off.</P>
+</td></tr><tr style="height: 244.667px;"><td style="height: 244.667px;">
+<P>LSEG</P>
+<P>&nbsp;</P>
+</td><td style="height: 244.667px;">
+<P>&nbsp;</P>
+<P>Combined Quantitative &amp; Qualitative Diligence Cowork assembles a multi-signal view using <STRONG>LSEG</STRONG> data: Worldscope fundamentals and IBES estimates for the counterparty’s financial health, sector-level credit spread curves and live swap rates to benchmark the contract’s pricing, FX forwards for any cross-border payment terms, and a sweep of IFR and news headlines for material events – producing a market-grounded risk context to sit alongside the compliance and ERP checks.<SUP>1</SUP></P>
+</td></tr><tr style="height: 150.667px;"><td style="height: 150.667px;">
+<P>S&amp;P Global Energy</P>
+<P>&nbsp;</P>
+</td><td style="height: 150.667px;">
+<P>Cowork then cross-references the customer contract's commodity pricing and indexation clauses against&nbsp;<STRONG>S&amp;P Global Energy's AI Ready Data</STRONG>&nbsp;— surfacing the latest rationales, commentaries, and market analyses across crude oil, natural gas, and related commodities — to flag any terms that sit out of line with current market conditions.</P>
+</td></tr><tr style="height: 94.6667px;"><td style="height: 94.6667px;">
+<P>Out-of-the-box Cowork skills</P>
+</td><td style="height: 94.6667px;">
+<P>The output: a consolidated finance review report attached and sent to the right reviewers (finance, legal, and compliance leads) for approvals before countersigning.</P>
+</td></tr></tbody><colgroup><col style="width: 444px" /><col style="width: 444px" /></colgroup></table></DIV>
+<P><EM><SPAN data-contrast="none"><SUP>1</SUP></SPAN></EM><EM><SPAN data-contrast="none">Cowork</SPAN><SPAN data-contrast="none">&nbsp;does not provide financial advice or replace a financial advisor. It can help assemble market context and&nbsp;</SPAN><SPAN data-contrast="none">supporting</SPAN><SPAN data-contrast="none">&nbsp;research for a&nbsp;</SPAN><SPAN data-contrast="none">team’s</SPAN><SPAN data-contrast="none">&nbsp;review, but it should not be relied&nbsp;</SPAN><SPAN data-contrast="none">on as</SPAN><SPAN data-contrast="none">&nbsp;a complete or sole basis for financial risk assessment or decision-making.</SPAN><SPAN data-ccp-props="{}">&nbsp;</SPAN></EM></P>
+<H4>Sales: Customer commit risk</H4>
+<P>An account executive asks Cowork to<SPAN data-contrast="none">&nbsp;</SPAN><SPAN data-contrast="none">review deals closing this quarter and help highlight which opportunities may be at risk</SPAN></P>
+<DIV class="styles_lia-table-wrapper__h6Xo9 styles_table-responsive__MW0lN"><table border="1" style="width: 881px; border-width: 1px;"><thead><tr><td>
+<P>Plugin recipe</P>
+</td><td>
+<P>What it does</P>
+</td></tr></thead><tbody><tr><td>
+<P>Dynamics 365 Sales</P>
+</td><td>
+<P>Cowork pulls the open sales opportunities in the commit-stage from <STRONG>Dynamics 365 Sales, </STRONG>including estimated revenue, close date and primary contact and then...</P>
+</td></tr><tr><td>
+<P>Fabric IQ</P>
+</td><td>
+<P>...compares each deal to historical close patterns with <STRONG>Fabric IQ</STRONG> to flag the ones that don’t follow historical norms.</P>
+</td></tr><tr><td>
+<P>Core Cowork capability</P>
+</td><td>
+<P>Then Cowork compares each live deal against those patterns — surfacing the ones that don't follow the norm.</P>
+</td></tr><tr><td>
+<P>Custom skill: Risk Scoring Model</P>
+</td><td>
+<P>Then Cowork runs everything through the <STRONG>customer's custom Risk Scoring skill,</STRONG> which applies their own internal rubric to help assign a risk tier to<SPAN data-contrast="none">&nbsp;opportunities based on the customer</SPAN><SPAN data-contrast="none">’s defined criteria</SPAN><SPAN data-contrast="none">.</SPAN></P>
+</td></tr><tr><td>
+<P>Dynamics 365 Customer Service</P>
+</td><td>
+<P>It also checks <STRONG>Dynamics 365 Customer</STRONG> <STRONG>Service </STRONG>for account health — bringing together context from open and closed cases — since service issues are often the earliest warning signs.</P>
+</td></tr><tr><td>
+<P>Out-of-the-box Cowork skills</P>
+</td><td>
+<P>Cowork helps prepare the quarter-close review meetings for the top three opportunities, assembling draft PowerPoint decks for the team to review, and attaching them to the meeting invites.</P>
+</td></tr><tr><td>
+<P>Dynamics 365 Sales</P>
+<P>&nbsp;</P>
+</td><td>
+<P>After each meeting, <STRONG>Dynamics 365 Sales</STRONG> automatically attaches the Teams meeting transcript to the opportunity record — so nothing falls through the cracks.</P>
+</td></tr></tbody><colgroup><col style="width: 50.00%" /><col style="width: 50.00%" /></colgroup></table></DIV>
+<H4>Marketing: Market Entry Strategy</H4>
+<P>A marketing exec asks Cowork to help evaluate and compare three potential markets for H2.</P>
+<DIV class="styles_lia-table-wrapper__h6Xo9 styles_table-responsive__MW0lN"><table border="1" style="width: 884px; border-width: 1px;"><thead><tr><td>
+<P>Plugin recipe</P>
+</td><td>
+<P>What it does</P>
+</td></tr></thead><tbody><tr><td>
+<P>Dynamics 365 Sales</P>
+</td><td>
+<P>Cowork pulls existing opportunity pipeline and customer concentration by geography from&nbsp;<STRONG>Dynamics 365 Sales</STRONG>&nbsp;to see where there's already organic pull versus where they'd be starting cold.&nbsp;</P>
+</td></tr><tr><td>
+<P>Fabric IQ</P>
+</td><td>
+<P><STRONG>Fabric IQ</STRONG>&nbsp;models revenue scenarios for each market based on how similar expansions have played out historically, giving a realistic range.</P>
+</td></tr><tr><td>
+<P>Core Cowork capability</P>
+</td><td>
+<P>…then models revenue scenarios for each candidate market — grounding the ranges in how similar expansions have played out for this customer, not generic forecasts.</P>
+</td></tr><tr><td>
+<P>Custom skill: Market Prioritization Rubric</P>
+</td><td>
+<P>A&nbsp;customer can create a <STRONG>custom Market Prioritization Rubric skill</STRONG>&nbsp;that scores each candidate on the criteria that matter to this company so the scoring reflects their own playbook, not a generic framework</P>
+</td></tr><tr><td>
+<P>Core Cowork capability</P>
+</td><td>
+<P>From there, Cowork produces an&nbsp;interactive HTML dashboard&nbsp;with a side-by-side view of all three markets that leadership can filter and poke at before the session, and a&nbsp;PowerPoint deck&nbsp;built from the same analysis.</P>
+</td></tr><tr><td>
+<P>Miro</P>
+</td><td>
+<P>Cowork uses a <STRONG>Miro skill</STRONG> to build a visual pros/cons board — color-coded nodes laying the three markets side by side against the team's criteria and past expansion decisions, so leadership can see the trade-offs at a glance and align on a choice.</P>
+</td></tr><tr><td>
+<P>monday.com</P>
+<P>&nbsp;</P>
+</td><td>
+<P>A&nbsp;<STRONG>monday.com skill </STRONG>then spins up a planning board&nbsp;pre-populated with the market comparison and open decision points, so the team can work through alignment in the room instead of building the board live.</P>
+</td></tr></tbody><colgroup><col style="width: 441.5px" /><col style="width: 441.5px" /></colgroup></table></DIV>
+<P><BR />Plugins are a big part of how Cowork gets more capable over time, but these are not the only enhancements coming to Cowork today.&nbsp;</P>
+<H4>Now available on iOS and Android mobile</H4>
+<P>You can now delegate tasks to Cowork wherever you are—on your commute, between meetings, or away from your desk. Start a task on your phone and pick it up later on your desktop or begin on your desktop and stay on top of it while on-the-go. Your laptop could be sitting at your desk, closed, and the task will be ready regardless. It's the same conversation, same context, always synced in the cloud and now in your pocket. <A class="lia-external-url" href="https://www.microsoft.com/en-us/microsoft-365-copilot/download-copilot-app#downloadthemobileapp" target="_blank" rel="noopener">Cowork is rolling out now for eligible Frontier users on mobile iOS and Android in the Microsoft 365 Copilot app.</A></P>
+<P>&nbsp;</P>
+<DIV style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"></DIV>
+<P>&nbsp;</P>
+<P>This is just the beginning. Every new plugin brings more of your organization’s skills and knowledge into Cowork, helping it work more like a capable teammate that understands how your business runs. With new mobile experiences and enterprise-grade security and governance, Cowork is ready to support work across apps, devices, and teams. <A class="lia-external-url" href="https://adoption.microsoft.com/en-us/copilot/frontier-program/" target="_blank" rel="noopener">Try Copilot Cowork today in the Frontier program.</A></P>
+
+<P>Today we're expanding model choice in Microsoft 365 Copilot with the addition of Anthropic's latest model—Claude Opus 4.7—now available in Copilot Cowork (Frontier). Learn more about our announcement <A href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/available-today-anthropic-claude-opus-4-7-in-microsoft-365-copilot/4511666" target="_blank" rel="noopener">here</A>.</P>
+
+<P>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program. <A href="https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-program" target="_blank" rel="noopener">Join Frontier</A> to get early access to Microsoft’s latest AI innovations.</P>
+
+<P><A href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/" target="_blank" rel="noopener">Copilot Cowork</A> makes it easy to delegate work. Describe the outcome you want and Cowork automatically grounds the work in your emails, meetings, messages, files, and data. Powered by Work IQ, Cowork draws on signals across Outlook, Teams, Excel, and the rest of Microsoft 365 so it can act with the same understanding you bring to your job.</P>
+<H4>Built for the enterprise</H4>
+<P>Copilot Cowork runs with security and governance boundaries. Identity, permissions, and compliance policies apply by default, and actions and outputs are auditable. Cowork runs in a protected, sandboxed cloud environment, so tasks can keep progressing safely as you move across devices. This is what makes execution durable at enterprise scale.</P>
+<P>Working closely with Anthropic, we have integrated the technology behind Claude Cowork into Microsoft 365 Copilot. It is this multi-model advantage that makes Copilot different. Your work is not limited by one brand of models. Copilot hosts the best innovation from across the industry and chooses the right model for the job regardless of who built it. This is a pattern of work that will only become more powerful as new models and ways of working emerge.</P>
+<P><A href="https://learn.microsoft.com/en-us/copilot/microsoft-365/cowork/" target="_blank" rel="noopener">Learn more about Copilot Cowork here</A>.</P>]]></description>
+      <pubDate>Mon, 22 Jun 2026 15:33:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] EU-Kommission sitzt Informationsfreiheitsanträge trotz sinkender Zahlen aus</title>
+      <link>https://www.heise.de/news/EU-Kommission-sitzt-Informationsfreiheitsantraege-trotz-sinkender-Zahlen-aus-11340757.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340757</guid>
+      <description><![CDATA[Ein Bericht der EU-Kommission offenbart erhebliche Verzögerungen bei Dokumentenanfragen, obwohl das Aufkommen von Ersuchen ein Achtjahrestief erreicht hat.]]></description>
+      <pubDate>Mon, 22 Jun 2026 15:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Norwegen will einen Tunnel für Hochseeschiffe bauen</title>
+      <link>https://www.heise.de/news/Norwegisches-Parlament-beschliesst-Bau-eines-Tunnels-fuer-Hochseeschiffe-11340681.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340681</guid>
+      <description><![CDATA[In Norwegen sollen Schiffe künftig einen Bergrücken zwischen zwei Fjorden unterqueren. Das Parlament hat das Budget für das umstrittene Projekt genehmigt.]]></description>
+      <pubDate>Mon, 22 Jun 2026 15:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Drohnenkrieg: Ukraine greift größtes russisches Satellitenzentrum an</title>
+      <link>https://www.golem.de/news/drohnenkrieg-ukraine-greift-groesstes-russisches-satellitenzentrum-an-2606-210044.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/drohnenkrieg-ukraine-greift-groesstes-russisches-satellitenzentrum-an-2606-210044.html</guid>
+      <description><![CDATA[Die Ukraine zielt mit Langstreckendrohnen auf militärisch und wirtschaftlich wichtige Objekte. Nun wurde ein Satellitenzentrum bei Moskau getroffen. (<a href="https://www.golem.de/specials/ukraine-krieg/">Ukrainekrieg</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
+      <pubDate>Mon, 22 Jun 2026 15:10:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Lord British: Ultima-Schöpfer will Kultserie von EA zurückholen</title>
+      <link>https://www.golem.de/news/lord-british-ultima-schoepfer-will-kultserie-von-ea-zurueckholen-2606-210042.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/lord-british-ultima-schoepfer-will-kultserie-von-ea-zurueckholen-2606-210042.html</guid>
+      <description><![CDATA[Richard Garriott will Ultima zurückholen. Die legendäre Rollenspielserie könnte 2027 vor einem Comeback stehen. (<a href="https://www.golem.de/specials/ultima/">Ultima</a>, <a href="https://www.golem.de/specials/urheberrecht/">Urheberrecht</a>)]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Modellpflege für den renault Megane E-Tech: LFP-Zellchemie und mehr Reichweite</title>
+      <link>https://www.heise.de/news/Renault-Megane-E-Tech-ueberarbeitet-Umstellung-auf-LFP-Batterie-11340515.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340515</guid>
+      <description><![CDATA[Im Rahmen einer kleinen Modellpflege bekommt der Megane eine leicht veränderte Optik und eine andere Zellchemie. Statt NMC setzt nun auch Renault auf LFP.]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Acer und Asus verkaufen wieder PCs und Notebooks in Deutschland</title>
+      <link>https://www.heise.de/news/Acer-und-Asus-verkaufen-wieder-PCs-und-Notebooks-in-Deutschland-11340615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340615</guid>
+      <description><![CDATA[Die beiden PC-Hersteller Acer und Asus einigen sich mit Nokia auf einen Patentrahmen. Dadurch darf der Verkauf wieder anlaufen.]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Geheimdienstbündnis warnt vor KI-gestützten Cyberangriffen</title>
+      <link>https://www.heise.de/news/Five-Eyes-warnen-KI-veraendert-Cyberrisiken-rasant-11340599.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340599</guid>
+      <description><![CDATA[Die Cybersicherheitsbehörden der Five-Eyes-Staaten warnen vor neuen Cyberrisiken durch KI. Sie fordern Chefs auf, Sicherheit als Geschäftsrisiko zu begreifen.]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] KI-Schrott: Besonders Tiktok für Kinder steckt voller KI-Slop</title>
+      <link>https://www.golem.de/news/ki-schrott-besonders-tiktok-fuer-kinder-steckt-voller-ki-slop-2606-210043.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ki-schrott-besonders-tiktok-fuer-kinder-steckt-voller-ki-slop-2606-210043.html</guid>
+      <description><![CDATA[Tiktok hat ein KI-Slop-Problem: Vor allem Inhalte für Kinder und im Bereich Wissenschaft stecken voller KI-Schrottvideos. (<a href="https://www.golem.de/specials/tiktok/">Tiktok</a>, <a href="https://www.golem.de/specials/videocommunity/">Video-Community</a>)]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:35:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Oppo Find X9 Ultra im Test: Verliebt in die zehnfache Telekamera</title>
+      <link>https://www.digitec.ch/de/page/oppo-find-x9-ultra-im-test-verliebt-in-die-zehnfache-telekamera-43043?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/oppo-find-x9-ultra-im-test-verliebt-in-die-zehnfache-telekamera-43043</guid>
+      <description><![CDATA[Es gibt viele Smartphones mit hervorragenden Kameras, aber nur das Oppo Find X9 Ultra hat eine Telekamera mit zehnfachem Zoom. Ich habe mich in sie verguckt.]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Top 8: Die beste Kompressor-Kühlbox im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-8-die-beste-kompressor-kuehlbox-im-test-echte-kuehlung-bis-minus-20-grad/8jwmngt?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340603</guid>
+      <description><![CDATA[Eiskalt unterwegs: Wir zeigen die besten Kompressor-Kühlboxen im Test und erklären, worauf es beim Kauf ankommt.]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] EcoFlow Stream 2: Neue Version des Balkonkraftwerks mit Speicher</title>
+      <link>https://www.heise.de/news/EcoFlow-stellt-neues-Balkonkraftwerk-mit-Speicher-vor-11340449.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340449</guid>
+      <description><![CDATA[Die zweite Generation des Stream-Systems hat bis auf den Namen wenig vom Vorgänger übernommen. EcoFlow setzt nun wie die Konkurrenz auf Stapelspeicher.]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Ernest: Neuer Nasa-Rover setzt neue Standards</title>
+      <link>https://www.golem.de/news/ernest-neuer-nasa-rover-setzt-neue-standards-2606-210018.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ernest-neuer-nasa-rover-setzt-neue-standards-2606-210018.html</guid>
+      <description><![CDATA[Ernest soll das können, woran Perseverance und andere Rover der Nasa scheitern. Die ersten Tests des neuen Prototyps sind vielversprechend. (<a href="https://www.golem.de/specials/mars-rover/">Mars Rover</a>, <a href="https://www.golem.de/specials/nasa/">Nasa</a>)]]></description>
+      <pubDate>Mon, 22 Jun 2026 13:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Android 17: Fehler bei WLAN, 5G und Touchscreen auf Pixel-Geräten</title>
+      <link>https://www.heise.de/news/Android-17-Bekannte-Bugs-und-erste-Loesungen-11340481.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340481</guid>
+      <description><![CDATA[Google hat mit Android 17 allerlei Fehler bereinigt, aber neue eingebaut. Eine Übersicht bekannter Bugs und wie sich manche beheben lassen.]]></description>
+      <pubDate>Mon, 22 Jun 2026 13:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Zweirad-Industrie startet neue Fahrradmesse in Köln</title>
+      <link>https://www.heise.de/news/Zweirad-Industrie-startet-neue-Fahrradmesse-in-Koeln-11340509.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340509</guid>
+      <description><![CDATA[Mit der „towards tomorrow - European Bike Show“ startet 2027 eine neue Fahrradmesse in Köln. Die Branche setzt auf frische Impulse und Konkurrenz zur Eurobike.]]></description>
+      <pubDate>Mon, 22 Jun 2026 13:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Halbleiterwerk offenbar zerstört: Schlag gegen russische Rüstungsproduktion</title>
+      <link>https://www.heise.de/news/Ukraine-nimmt-Russlands-Halbleiterfertigung-ins-Visier-11340485.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340485</guid>
+      <description><![CDATA[Videos zeigen ein zerstörtes Halbleiterwerk im russischen Woronesch. Laut ukrainischer Datenbank entstanden dort Komponenten für Marschflugkörper.]]></description>
+      <pubDate>Mon, 22 Jun 2026 13:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Ladesäule: Alpitronic bietet Megawattladen für Pkw</title>
+      <link>https://www.golem.de/news/ladesaeule-alpitronic-bietet-megawattladen-fuer-pkw-2606-210038.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ladesaeule-alpitronic-bietet-megawattladen-fuer-pkw-2606-210038.html</guid>
+      <description><![CDATA[Zwar beherrschen bislang nur wenige Elektroautos hohe Ladeleistungen bis 1.000 kW. Doch die ersten Ladesäulen dafür stehen bereit. (<a href="https://www.golem.de/specials/ladesaeule/">Ladesäule</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
+      <pubDate>Mon, 22 Jun 2026 13:11:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Mercedes-Aufsichtsratschef: 40-Stunden-Woche im Sinne der Wettbewerbsfähigkeit</title>
+      <link>https://www.heise.de/news/Mercedes-Aufsichtsratschef-40-Stunden-Woche-im-Sinne-der-Wettbewerbsfaehigkeit-11340129.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340129</guid>
+      <description><![CDATA[40 statt 35 Stunden die Woche bei gleichem Gehalt zu arbeiten, findet Mercedes-Aufsichtsratschef Martin Brudermüller zumutbar und gesund.]]></description>
+      <pubDate>Mon, 22 Jun 2026 13:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] KI-Update kompakt: Verbraucherschutz, Gemini for Home, KI-Werbung, Spiele</title>
+      <link>https://www.heise.de/news/KI-Update-kompakt-Verbraucherschutz-Gemini-for-Home-KI-Werbung-Spiele-11340299.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340299</guid>
+      <description><![CDATA[Das "KI-Update" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]></description>
+      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Bildung: Norwegen verbietet KI-Tools an Grundschulen</title>
+      <link>https://www.golem.de/news/bildung-norwegen-verbietet-ki-tools-an-grundschulen-2606-210036.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/bildung-norwegen-verbietet-ki-tools-an-grundschulen-2606-210036.html</guid>
+      <description><![CDATA[Norwegische Schüler sollen erst in der Mittelschule vorsichtig an KI herangeführt werden, vor dem Abschluss aber den Umgang damit lernen. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/jugendschutz/">Jugendschutz</a>)]]></description>
+      <pubDate>Mon, 22 Jun 2026 12:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Staffel 3 von House of the Dragon: Wieder einer tot? Mir doch egal!</title>
+      <link>https://www.golem.de/news/staffel-3-von-house-of-the-dragon-wieder-einer-tot-mir-doch-egal-2606-210000.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/staffel-3-von-house-of-the-dragon-wieder-einer-tot-mir-doch-egal-2606-210000.html</guid>
+      <description><![CDATA[Die dritte Staffel ist größer und spektakulärer. Aber die Probleme der beiden vorherigen bleiben bestehen. Eine Rezension von Peter Osteried (<a href="https://www.golem.de/specials/houseofthedragon/">House of the Dragon</a>, <a href="https://www.golem.de/specials/streaming/">Streaming</a>)]]></description>
+      <pubDate>Mon, 22 Jun 2026 12:08:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] In rätselhafter Kette: Weitere Galaxie ganz ohne Dunkle Materie gefunden</title>
+      <link>https://www.heise.de/news/In-raetselhafter-Kette-Weitere-Galaxie-ganz-ohne-Dunkle-Materie-gefunden-11340283.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340283</guid>
+      <description><![CDATA[Seit Jahren wird über eine mysteriöse Kette aus Galaxien gerätselt, von denen zwei keine Dunkle Materie enthalten. Jetzt wurde das für die dritte bestätigt.]]></description>
+      <pubDate>Mon, 22 Jun 2026 11:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Kein neues Nothing CMF Phone in diesem Jahr</title>
+      <link>https://www.heise.de/news/Nothing-CMF-Kein-neues-Budget-Smartphone-2026-11340137.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340137</guid>
+      <description><![CDATA[Aufgrund der hohen Kosten für Arbeitsspeicher bringt Nothing 2026 kein neues CMF Phone auf den Markt. Der Preis sei zu hoch für ein Gerät der Mittelklasse.]]></description>
+      <pubDate>Mon, 22 Jun 2026 11:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Digital sicher in den Urlaub</title>
+      <link>https://www.heise.de/news/Digital-sicher-in-den-Urlaub-11340035.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340035</guid>
+      <description><![CDATA[Die Urlaubszeit ist gekommen – damit auch die Zeit für Hinweise zur digitalen Absicherung. Damit der Urlaub erholsam werden kann.]]></description>
+      <pubDate>Mon, 22 Jun 2026 11:09:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Golem] Singlespeed: Canyon zeigt erstes E-Bike mit neuem Bosch-Nabenmotor</title>
       <link>https://www.golem.de/news/singlespeed-canyon-zeigt-erstes-e-bike-mit-neuem-bosch-nabenmotor-2606-210029.html</link>
       <guid isPermaLink="false">https://www.golem.de/news/singlespeed-canyon-zeigt-erstes-e-bike-mit-neuem-bosch-nabenmotor-2606-210029.html</guid>
       <description><![CDATA[Bosch steigt in den Markt für Nabenmotoren ein. Canyon präsentiert eines der ersten Serienräder auf Basis der neuen Plattform. (<a href="https://www.golem.de/specials/bosch/">Bosch</a>, <a href="https://www.golem.de/specials/e-bike/">E-Bike</a>)]]></description>
       <pubDate>Mon, 22 Jun 2026 10:26:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Satellit erfasst starke GPS-Störungen von Frankreich bis Pakistan</title>
+      <link>https://www.heise.de/news/Satellit-erfasst-starke-GPS-Stoerungen-vom-Frankreich-bis-Pakistan-11340183.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340183</guid>
+      <description><![CDATA[Durch die Kriege in der Ukraine und dem Nahen Osten werden GPS-Signale stark gestört. Ein experimenteller Satellit hat die Störungen erstmals gemessen.]]></description>
+      <pubDate>Mon, 22 Jun 2026 10:25:00 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] Nasa zeigt neuen Mars-Rover-Prototypen: Was „Ernest“ so besonders macht</title>
@@ -29,17 +441,17 @@
       <pubDate>Mon, 22 Jun 2026 10:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Chiphersteller: SK Hynix erstmals wertvoller als Samsung</title>
-      <link>https://www.heise.de/news/Chiphersteller-SK-Hynix-erstmals-wertvoller-als-Samsung-11340153.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11340153</guid>
-      <description><![CDATA[Vom Fast-Bankrott zum Börsenstar: Chipproduzent SK Hynix stößt Samsung Electronics vom Thron des wertvollsten Unternehmens des Landes.]]></description>
-      <pubDate>Mon, 22 Jun 2026 10:12:00 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Social-Media-Verbot für Jugendliche: Lösungen gefordert, die schnell wirken</title>
       <link>https://www.heise.de/news/Social-Media-Verbot-fuer-Jugendliche-Loesungen-gefordert-die-schnell-wirken-11339983.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11339983</guid>
       <description><![CDATA[Kurz bevor die Bundesregierung Empfehlungen zum digitalen Jugendschutz vorstellt, fordert eine Initiative ein striktes Social-Media-Mindestalter von 16 Jahren.]]></description>
+      <pubDate>Mon, 22 Jun 2026 10:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Chiphersteller: SK Hynix erstmals wertvoller als Samsung</title>
+      <link>https://www.heise.de/news/Chiphersteller-SK-Hynix-erstmals-wertvoller-als-Samsung-11340153.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340153</guid>
+      <description><![CDATA[Vom Fast-Bankrott zum Börsenstar: Chipproduzent SK Hynix stößt Samsung Electronics vom Thron des wertvollsten Unternehmens des Landes.]]></description>
       <pubDate>Mon, 22 Jun 2026 10:12:00 GMT</pubDate>
     </item>
     <item>
@@ -169,13 +581,6 @@
       <pubDate>Mon, 22 Jun 2026 06:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Ubisoft-Gründer: Claude Guillemot bei Cessna-Crash in Frankreich getötet</title>
-      <link>https://www.golem.de/news/ubisoft-gruender-claude-guillemot-bei-cessna-crash-in-frankreich-getoetet-2606-210004.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/ubisoft-gruender-claude-guillemot-bei-cessna-crash-in-frankreich-getoetet-2606-210004.html</guid>
-      <description><![CDATA[Beim Anflug auf den Flugplatz La Baule ist eine Cessna 421 abgestürzt. Unter den Opfern ist Claude Guillemot, Mitgründer von Ubisoft. (<a href="https://www.golem.de/specials/ubisoft/">Ubisoft</a>, <a href="https://www.golem.de/specials/luftfahrt/">Luftfahrt</a>)]]></description>
-      <pubDate>Mon, 22 Jun 2026 05:25:06 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Playstation-Studios: Sony bestätigt KI-Einsatz in der Spieleentwicklung</title>
       <link>https://www.heise.de/news/Playstation-Sonys-Studios-setzen-verstaerkt-KI-in-der-Entwicklung-ein-11339729.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11339729</guid>
@@ -202,69 +607,6 @@
       <guid isPermaLink="false">http://heise.de/-11339713</guid>
       <description><![CDATA[Flugzeugabsturz mit Ubisoft-Mitgründer + Steam-Gamepad bis 2027 vergriffen + 30 Jahre Quake + Solarstrom spart Milliarden + Norwegen gegen KI für Schulkinder]]></description>
       <pubDate>Mon, 22 Jun 2026 04:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Linus Torvalds – der wohltuend andere Tech-Leader</title>
-      <link>https://www.digitec.ch/de/page/linus-torvalds-der-wohltuend-andere-tech-leader-43050?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/linus-torvalds-der-wohltuend-andere-tech-leader-43050</guid>
-      <description><![CDATA[Der Linux-Erfinder ist ein Tech-Nerd wie aus dem Bilderbuch – und doch erfrischend anders als die meisten bekannten Figuren der Tech-Branche. Ein Versuch, dieser Ausnahmeerscheinung gerecht zu werden.]]></description>
-      <pubDate>Mon, 22 Jun 2026 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Valves Steam Controller wird bei neuen Bestellungen wohl erst 2027 ausgeliefert</title>
-      <link>https://www.heise.de/news/Valves-Steam-Controller-wird-bei-neuen-Bestellungen-wohl-erst-2027-ausgeliefert-11339703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11339703</guid>
-      <description><![CDATA[Die Bestellungen des neuen Steam Controllers haben Valve überwältigt. Wer jetzt bestellt, darf mit seinem Steam-Gamepad erst im nächsten Jahr rechnen.]]></description>
-      <pubDate>Mon, 22 Jun 2026 03:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] 30 Fakten zu 30 Jahren „Quake“</title>
-      <link>https://www.heise.de/hintergrund/30-Fakten-zu-30-Jahren-Quake-11339633.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11339633</guid>
-      <description><![CDATA[Im Jahr 1996 kam der Durchbruch für 3D-Egoshooter. Nicht nur die Technik, auch das Gameplay von „Quake“setzte Maßstäbe.]]></description>
-      <pubDate>Sun, 21 Jun 2026 22:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Jetzt erhältlich: Dachfenster-Simulation «Skylight» von Philips</title>
-      <link>https://www.digitec.ch/de/page/jetzt-erhaeltlich-dachfenster-simulation-skylight-von-philips-42793?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/jetzt-erhaeltlich-dachfenster-simulation-skylight-von-philips-42793</guid>
-      <description><![CDATA[Die neue Deckenleuchte «Skylight» bringt die Illusion eines Dachfensters in dein Zimmer. In einer Spezialversion soll die Lampe sogar deine Vitamin-D-Produktion anregen.]]></description>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] So baust du dir eine eigene Ladestation hinter dem Sofa</title>
-      <link>https://www.digitec.ch/de/page/so-baust-du-dir-eine-eigene-ladestation-hinter-dem-sofa-42996?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/so-baust-du-dir-eine-eigene-ladestation-hinter-dem-sofa-42996</guid>
-      <description><![CDATA[Unser Sofa ist zu einem Campingplatz für Smartphones, Laptops und Game-Controller verkommen. Mit etwas Holz, Farbe und einem 3D-Drucker baue ich mir eine elegantere Lösung.]]></description>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Ubisoft-Mitgründer stirbt bei Flugzeugabsturz in Frankreich</title>
-      <link>https://www.heise.de/news/Ubisoft-Mitgruender-stirbt-bei-Flugzeugabsturz-in-Frankreich-11339621.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11339621</guid>
-      <description><![CDATA[Nach dem Absturz einer Propellermaschine in Frankreich trauert das große Spiele-Unternehmen Ubisoft um einen seiner Gründer. Die Behörden ermitteln.]]></description>
-      <pubDate>Sun, 21 Jun 2026 14:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Kompressor-Kühlbox Bingi im Test: Von 26 auf minus 14 Grad in 30 Minuten</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/kompressor-kuehlbox-bingi-im-test-von-26-auf-minus-14-grad-in-30-minuten/5wtm43k?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11339293</guid>
-      <description><![CDATA[Die Kompressor-Kühlbox von Bingi fasst 22 l und kühlt bis zu -18 °C. Im Test zeigt der kompakte Kühlschrank, warum er trotz begrenztem Platzangebot überzeugt.]]></description>
-      <pubDate>Sun, 21 Jun 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Unbekannte senden falsche Katastrophenwarnung an Handys in Brasilien</title>
-      <link>https://www.heise.de/news/Unbekannte-senden-falsche-Katastrophenwarnung-an-Handys-in-Brasilien-11339555.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11339555</guid>
-      <description><![CDATA[In Brasilien erhielten zahlreiche Handys einen falschen Katastrophenalarm. Die Regierung untersucht einen mutmaßlichen Cyberangriff.]]></description>
-      <pubDate>Sun, 21 Jun 2026 11:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Russlands Jammer: Satellit bestätigt drastische GPS-Störsignale in Europa</title>
-      <link>https://www.golem.de/news/russlands-jammer-satellit-bestaetigt-drastische-gps-stoersignale-in-europa-2606-210002.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/russlands-jammer-satellit-bestaetigt-drastische-gps-stoersignale-in-europa-2606-210002.html</guid>
-      <description><![CDATA[Länder wie Russland stören GPS offenbar aktiv. "Das ist weitaus mehr, als wir erwartet haben", bestätigt nun ein Satellitenbetreiber. (<a href="https://www.golem.de/specials/gps/">GPS</a>, <a href="https://www.golem.de/specials/raumfahrt/">Raumfahrt</a>)]]></description>
-      <pubDate>Sun, 21 Jun 2026 11:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
