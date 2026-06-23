@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 23.6.2026, 20:20:52
+Start: 23.6.2026, 20:54:31
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -15,11 +15,11 @@ Kein Link (ignoriert):
 Statischer Filter (Keywords):
 - Gelöscht [Keyword 'lire et écrire']: 'Permanence Lire et écrire'
 - Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Gelöscht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
-- Gelöscht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
 
-Aus Cache übernommen (67):
-- Cache: 'Bern Grönland bis 16.08.2026'
+Aus Cache übernommen (69):
+- Cache: 'Thun FABRICE HYBER bis 02.08.2026'
+- Cache: 'Bern Souvenir bis 07.01.2028'
+- Cache: 'Bern Vanessa Billy: Superconductors bis 23.08.2026'
 - Cache: 'Ropraz Origine(s) - Exposition bis 26.07.2026'
 - Cache: 'Lausanne Studio Ghibli et Tapisserie d’Aubusson'
 - Cache: 'Morges Château de Morges: Konferenz über Schweizer Militärattachés'
@@ -88,7 +88,7 @@ Aus Cache übernommen (67):
 - Cache: 'Liestal Seidenband. Kapital, Kunst & Krise bis 06.04.2031'
 
 KI-Filter / Cache-Löschungen (10):
-- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Atelier'
+- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Mensch, Erde! –'
 - Gelöscht [Cache: Duplikat]: 'Lucette, une domestique aux talents cachés'
 - Gelöscht [Cache: Duplikat]: 'Lucette, une domestique aux talents cachés'
 - Gelöscht [Cache: Event ausschließlich für Senioren (Gym équilibr'âge)]: 'Séance de Gym équilibr'âge'
@@ -99,8 +99,10 @@ KI-Filter / Cache-Löschungen (10):
 - Gelöscht [Cache: Duplikat von ID 12]: 'Ella Maillart. Fotografische Erzählungen'
 - Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'La collection'
 
-Finale Liste (67 Einträge):
-- [Museen Bern] Bern Grönland bis 16.08.2026
+Finale Liste (69 Einträge):
+- [Museen Bern] Thun FABRICE HYBER bis 02.08.2026
+- [Museen Bern] Bern Souvenir bis 07.01.2028
+- [Museen Bern] Bern Vanessa Billy: Superconductors bis 23.08.2026
 - [Temps Libre - Ce Weekend] Ropraz Origine(s) - Exposition bis 26.07.2026
 - [Platform 10 Events 2] Lausanne Studio Ghibli et Tapisserie d’Aubusson
 - [Morges Agenda] Morges Château de Morges: Konferenz über Schweizer Militärattachés
