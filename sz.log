@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 22.6.2026, 06:24:59
-Letzter Lauf: 21.6.2026, 06:24:57
+Start: 23.6.2026, 06:24:58
+Letzter Lauf: 22.6.2026, 06:24:59
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -13,38 +13,44 @@ Abruf der RSS-Feeds:
 
 Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
-- Gelöscht wegen Keyword 'leute:': 'Leute: Wie sah eigentlich Dua Lipas Brautkleid aus?'
-- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 21. Juni 2026'
+- Gelöscht wegen Keyword 'leute:': 'Leute: „Konnte deswegen kein guter Vater sein“'
+- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 22. Juni 2026'
+- Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Bye Bye, Keir Starmer / Hallo, Rentenreform'
 
-KI-Filter (Gemini) - 29 neue Artikel geprüft:
-- Gelöscht (Grund: Behandelt deutsche Kommunalpolitik.): [Politik] 'Aktionstag „Kommunen am Limit“: Städte und Gemeinden protestieren bundesweit gegen Finanznot'
-- Gelöscht (Grund: Duplikat zu Artikel ID 4; Artikel 4 ist informativer.): [Politik] 'USA: Trump behauptet, Starmer werde als britischer Premier zurücktreten'
-- Gelöscht (Grund: Duplikat zu Artikel ID 14; Artikel 14 ist informativer.): [Politik] 'Podcast „Auf den Punkt“: Provokation und Klassenkampf: Die neue Doppelspitze der Linken'
-- Gelöscht (Grund: Behandelt deutsche Parteipolitik und Landespolitik.): [Politik] 'Reformen: Ablenkungsmanöver aus München'
-- Gelöscht (Grund: Behandelt deutsche Kommunalpolitik.): [Wirtschaft] 'Antriebswende: Was die Straße von Hormus für die Hornusstraße in Freiburg bedeutet'
-- Gelöscht (Grund: Behandelt deutsche Kommunalpolitik/Schulpolitik.): [Panorama] 'Hitze: Merke: Die Schule ist kein Freibad'
-- Gelöscht (Grund: Behandelt deutsche Regionalpolitik/Themen.): [Politik] 'Katholische Kirche: Heiner Wilmer als Bischof von Münster ins Amt eingeführt'
-- Gelöscht (Grund: Fällt unter die Kategorie Promis & Adel.): [Panorama] 'Britisches Königshaus: Prinz George zieht ins Elite-Internat'
+KI-Filter (Gemini) - 34 neue Artikel geprüft:
+- Gelöscht (Grund: Lokales Ereignis ohne längerfristige Relevanz): [Panorama] 'Baden-Württemberg: Gefahrgut legt A8 lahm'
+- Gelöscht (Grund: Deutsche parteipolitische Debatte/Gesetzgebung): [Wirtschaft] 'Heizungsgesetz: Kritik von allen Seiten'
+- Gelöscht (Grund: Regionale deutsche Politik/Lokales Berlin): [Politik] 'Glosse: Das Streiflicht'
+- Gelöscht (Grund: Deutsche Parteipolitik und sozialpolitische Interna): [Politik] 'Sozialpolitik: Gewerkschaften stemmen sich gegen Rentenpläne'
+- Gelöscht (Grund: Parteipolitische Interna (Deutschland)): [Politik] 'Neuer Linken-Chef: Pantisano entschuldigt sich für Faschismus-Vorwurf'
+- Gelöscht (Grund: Duplikat zum Thema Verhandlungen Schweiz/USA/Iran (Behalte id: 18)): [Politik] 'Irankrieg: Die Schweizer Diplomaten auf der Ersatzbank'
+- Gelöscht (Grund: Deutsche Parteipolitik und parlamentarische Interna): [Politik] 'Bundestagsabgeordnete: Ein Drittel hat Nebeneinkünfte'
 
 Finale Liste (live im XML-Feed):
-- [Leben] Familien-Newsletter: Geschwister als engste Rivalen
-- [Politik] Kolumbien: „Mit meiner Regierung wird es keinen Friedensprozess geben“
-- [Magazin] »Im Homeoffice arbeiten die Leute länger als im Büro«
-- [Politik] Angeschlagener Premierminister: Großbritannien wartet auf Starmers Rücktritt – Trump verabschiedet ihn bereits
-- [Politik] Rentenreform: Bas stimmt die Älteren auf Einschnitte ein
-- [Politik] Krieg in Nahost: Vance: Große Fortschritte in Gesprächen mit Iran
-- [Panorama] Wetter: Bis zu 40 Grad möglich in der neuen Woche
-- [Politik] Großbritannien: Zehn Jahre Brexit, zehn Jahre ohne Plan
-- [Politik] Krieg in der Ukraine: Ölanlagen auf Krim und in Krasnodar getroffen
-- [Politik] Kritik an Pekings Politik: Zwanzigfache Rente für Chinas Stadtbewohner
-- [Politik] Linken-Parteitag in Potsdam: „Verdammt noch mal, wir sind das Bollwerk“
-- [Wirtschaft] Cartoon: Meissners Strategen
-- [Politik] Schrottimmobilien: Das Geschäft mit fast verfallenen Häusern
-- [Wirtschaft] Luftfahrt: Das große Rätsel um die Zukunft von Easyjet
-- [Wirtschaft] EU-Pläne zur Industriepolitik: Plötzlich finden die Autokonzerne Abschottung doch gut
-- [Wirtschaft] Wirecard-Prozess: Ein Urteil noch in diesem Jahr scheint möglich
-- [Wirtschaft] Indien: Wenn der Goldpreis das Eheglück beeinflusst
-- [Wirtschaft] Börse: Droht ein neuer Absturz?
-- [Wirtschaft] Wirtschaftswachstum: Warum Italien besser dasteht als Deutschland
-- [Wirtschaft] Geldpolitik: Kommt jetzt der Preisschock?
+- [Magazin] »Gegen das wirksamste Medikament bestehen die meisten Vorurteile«
+- [Panorama] Kanada: Drei Tote bei Schusswechsel in Montreal
+- [Politik] Verteidigungspolitik: Pistorius zweifelt an Deutschlands Verteidigungswillen
+- [Wirtschaft] Energie: Wieso sich RWE ein Stromnetz kauft
+- [Wirtschaft] Staatskonzern: VW-Manager wird neuer Bahn-Finanzchef
+- [Wirtschaft] SZ-Depotcheck: Wie spare ich am besten auf eine Immobilie?
+- [Wirtschaft] SZ-Nachhaltigkeitsgipfel: „Der ‚Tankrabatt‘ war eine sehr schlechte Idee“
+- [Wirtschaft] Klimawandel: Auf einmal sind wir diesseits der Apokalypse
+- [Wirtschaft] Industrie und Mittelstand: Grüner als das Gesetz verlangt
+- [Wirtschaft] Guide Michelin: Das lukrative Geschäft mit den Sternen
+- [Leben] Rentendebatte: Sieben Knieoperationen und ein Bandscheibenvorfall
+- [Wirtschaft] US-Notenbank Fed: Er sprach in rätselhaften Sätzen, auch mal mit dadaistischen Zügen
+- [Panorama] Nepal: Die vielleicht bekannteste Leiche am Everest soll geborgen werden
+- [Politik] Deutsche in Syrien: Eva Maria Michelmann ist frei, die Fragen bleiben
+- [Politik] Krieg in Nahost: Vance: Iran will wieder IAEA-Inspektoren ins Land lassen
+- [Politik] Pistorius in Litauen: Noch fehlen Freiwillige für Brigade
+- [Politik] Ukraine-Krieg: Tourismusverbot auf der Krim
+- [Politik] Westjordanland: Israels Armee tötet zwei Palästinenser
+- [Politik] Gedenken an Widerstandskämpfer: Macron nutzt das Panthéon noch einmal für einen politischen Akzent
+- [Politik] Starmer-Nachfolge: Und der Gewinner ist ...
+- [Wirtschaft] Rüstungsindustrie: Deutschland steigt für viel Geld beim Panzerbauer KNDS ein
+- [Panorama] Glücksspielsucht: „Es ist, als ob einem der Teufel im Nacken sitzt“
+- [Panorama] Wetter: DWD: Waldbrandgefahr nimmt in kommenden Tagen zu
 - [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
+- [Panorama] Frankreich: Paris ist schön, aber noch nicht schön genug
+- [Wirtschaft] Hitzewelle: Muss ich weniger Miete zahlen, wenn es zu heiß wird?
+- [Panorama] Infektionskrankheit: Mehr als 1000 Ebola-Fälle in Kongo
