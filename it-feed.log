@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 22.6.2026, 12:28:18
-Letzter Lauf: 22.6.2026, 06:10:25
+Start: 23.6.2026, 06:10:25
+Letzter Lauf: 22.6.2026, 12:28:18
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,37 +10,82 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Testautomatisierung: Warum die Testpyramide in der Praxis oft scheitert'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Opel Astra Plug-in-Hybrid im Test: Lohnt sich der überarbeitete PHEV noch?'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Kurz erklärt: Agent Harness'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Himmelswächter mit PiCam und Raspi4 zur Astrobeobachtung bauen'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: IT-Sicherheitstag Dortmund 2026: Digitale Souveränität im Fokus'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Mit dem Elektroauto stressfrei in den Urlaub: Wie Sie in Europa günstig laden'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Agentic QA: Wie KI-Agenten die Qualitätssicherung transformieren'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Prime Day 2026 - jetzt die besten Deals bei Amazon sichern'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Samsung Galaxy Buds3 FE günstig wie nie im frühen Prime-Day-Angebot'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Präzisions-Lötkolben-Set im frühen Prime-Angebot zum Jahrestiefstpreis bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Exklusiv für Golem-Leser: Mini-PCs von Acemagic mehr als 400 Euro günstiger'
+- Gelöscht wegen Keyword '(g+)': '(g+) Artificial Intelligence: The World's Leading Deepfake Expert No Longer Trusts His Own Eyes'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Dreo Standventilator zum Sparpreis unter 95 Euro'
+- Gelöscht wegen Keyword '(g+)': '(g+) Automation-Plattform n8n: n8n als Generalschlüssel im Netz'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: iPhone 17 Pro Max mit Airpods Pro 3: maximale Performance im Tarif bei o2'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Garmin Edge Explore 2 Fahrradnavi jetzt für unter 200 Euro zum Tiefstpreis bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 4-in-1-Ladegerät mit 140 Watt und Display als früher Prime-Deal rund 70 Euro bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Exklusiv für Prime-Mitglieder zwei Echo Dots zum Preis von einem'
 
-KI-Filter (Gemini) - 40 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Saugroboter sind als Negativ-Thema explizit in den Vorgaben aufgeführt.): 'Top 10: Der beste Saugroboter mit Wischfunktion'
-- Weiterhin entfernt (Cache, Grund: Dieser Artikel befasst sich mit Netzwerk-Infrastruktur und Deep OS-Internals (Sicherheitslücke in ei): 'Sicherheitslücken gefährden Verbindungen über libssh2'
-- Gelöscht (Grund: Inhalt betrifft Web-Infrastruktur (Proxy-Software).): 'Squidbleed: 29 Jahre alte Lücke in populärer Proxy-Software entdeckt'
-- Gelöscht (Grund: Fällt unter Enterprise-IT und IT-Management.): 'Jetzt bei uns erhältlich: Surface-for-Business-Computer von Microsoft'
-- Gelöscht (Grund: Fällt unter Deep OS-Internals und Basteleien (macOS SMB-Support).): 'Nachrüstung für Apples Time Capsule: Open-Source-Projekt hält SMB am Leben'
-- Gelöscht (Grund: Betrifft Enterprise-IT und Server-Infrastruktur.): 'Megapod: Tesla will vollintegrierte KI-Server verkaufen'
-- Gelöscht (Grund: Behandelt das ausgeschlossene Apple-Thema iOS.): 'WebKit statt Konkurrenz-Engines: iOS-Browser laut Microsoft 30 Prozent lahmer'
-- Gelöscht (Grund: Duplikat zu Artikel ID 3 (SK Hynix Börsenwert).): 'KI-Boom: SK Hynix ist jetzt wertvoller als Samsung'
-- Gelöscht (Grund: Gehört zu Deep OS-Internals (Linux-Desktop-Entwicklung).): 'Ubuntu Myna: Spracherkennung für den Linux-Desktop'
-- Gelöscht (Grund: Fällt unter belangloses Apple-Rauschen (Management und Design).): 'Apples Designteam: Unter John Ternus wieder mit mehr Bedeutung'
-- Gelöscht (Grund: Betrifft Web-Infrastruktur und Code-Theorie (SSH-Bibliothek).): 'libssh2: Teils kritische Lücken in populärer SSH-Bibliothek'
-- Gelöscht (Grund: Fällt unter Deep OS-Internals (Windows-Betriebssystem-Updates).): 'Windows 11 26H2 biegt auf Zielgerade ein'
-- Gelöscht (Grund: Behandelt interne PC-Komponenten und PC-Eigenbau (Grafikkarten-Kühlung).): 'Ungewöhnliches Kühlprojekt: Youtuber kühlt RTX 3060 per Eismaschine'
-- Gelöscht (Grund: Duplikat zu Artikel ID 32 (Polymarket/Influencer-Vorwürfe).): 'Täuschung bei Prognoseplattform: Polymarket bezahlte Creators für gefälschte Videos'
+KI-Filter (Gemini) - 39 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Web-Infrastruktur (Proxy-Software).): 'Squidbleed: 29 Jahre alte Lücke in populärer Proxy-Software entdeckt'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Enterprise-IT und IT-Management.): 'Jetzt bei uns erhältlich: Surface-for-Business-Computer von Microsoft'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Deep OS-Internals und Basteleien (macOS SMB-Support).): 'Nachrüstung für Apples Time Capsule: Open-Source-Projekt hält SMB am Leben'
+- Weiterhin entfernt (Cache, Grund: Betrifft Enterprise-IT und Server-Infrastruktur.): 'Megapod: Tesla will vollintegrierte KI-Server verkaufen'
+- Weiterhin entfernt (Cache, Grund: Behandelt das ausgeschlossene Apple-Thema iOS.): 'WebKit statt Konkurrenz-Engines: iOS-Browser laut Microsoft 30 Prozent lahmer'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel ID 3 (SK Hynix Börsenwert).): 'KI-Boom: SK Hynix ist jetzt wertvoller als Samsung'
+- Weiterhin entfernt (Cache, Grund: Gehört zu Deep OS-Internals (Linux-Desktop-Entwicklung).): 'Ubuntu Myna: Spracherkennung für den Linux-Desktop'
+- Weiterhin entfernt (Cache, Grund: Fällt unter belangloses Apple-Rauschen (Management und Design).): 'Apples Designteam: Unter John Ternus wieder mit mehr Bedeutung'
+- Weiterhin entfernt (Cache, Grund: Betrifft Web-Infrastruktur und Code-Theorie (SSH-Bibliothek).): 'libssh2: Teils kritische Lücken in populärer SSH-Bibliothek'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Deep OS-Internals (Windows-Betriebssystem-Updates).): 'Windows 11 26H2 biegt auf Zielgerade ein'
+- Weiterhin entfernt (Cache, Grund: Behandelt interne PC-Komponenten und PC-Eigenbau (Grafikkarten-Kühlung).): 'Ungewöhnliches Kühlprojekt: Youtuber kühlt RTX 3060 per Eismaschine'
+- Gelöscht (Grund: Inhalt betrifft interne PC-Komponenten (CPU-Features/RAM-Verschlüsselung).): 'Nach Protesten: AMD bringt RAM-Verschlüsselung TSME zurück'
+- Gelöscht (Grund: Duplikat-Regel: Identisches Ereignis wie Artikel ID 4 (Preise und Verfügbarkeit der Steam Machine).): 'Valve hadert mit dem Preis: Die Steam Machine kostet mindestens 1040 Euro'
+- Gelöscht (Grund: Inhalt betrifft Deep OS-Internals und Basteleien an Windows (Deaktivierung von Systemfunktionen).): 'Windows 11 ohne Bing: "Die schnellste Suche, die ich in Windows je erlebt habe"'
+- Gelöscht (Grund: Inhalt betrifft Deep OS-Internals (Entwicklung eines spezialisierten Betriebssystems).): 'Betriebssystem: Fractal OS vereinfacht Suche nach Hardware-Sicherheitslücken'
+- Gelöscht (Grund: Inhalt betrifft Code-Theorie und Web-Infrastruktur (Versionskontrollsysteme/Entwickler-Tools).): 'Lore: Epic Games' Git-Alternative für Spieleentwickler'
+- Gelöscht (Grund: Inhalt betrifft Deep OS-Internals und Linux-Distributionen.): 'Raspberry Pi OS: Sanfte Versionspflege'
+- Gelöscht (Grund: Inhalt betrifft Web-Infrastruktur und Code-Theorie (Github-Repositories/Entwickler-Infrastruktur).): 'Github als Malware-Schleuder: Trojaner über 10.000 Github-Repos verbreitet'
+- Gelöscht (Grund: Inhalt betrifft Apple-Themen (macOS-Anwendung für Wallet-Integration).): 'Pass Designer: Neue App erlaubt jedem, eigene Apple-Wallet-Pässe zu erstellen'
+- Gelöscht (Grund: Inhalt betrifft Deep OS-Internals und allgemeines Windows-Update-Rauschen.): 'Nächstes großes Windows-Update: "Macht euch bereit für Windows 11 26H2"'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Microsoft bestellt großes Gaskraftwerk für KI in Texas
+- [Heise] Getty Images: Lizenz für OpenAI verdoppelt Aktienkurs
+- [Heise] Smartphones treiben Rückgang der Geburtenrate
+- [Golem] PC-Gaming: Steam Machine ist vorbestellbar und kein Schnäppchen
+- [Heise] Externes Laufwerk mit Brenner: Für CD und DVD ab 13 Euro, Blu-Ray ab 70 Euro
+- [Heise] Grünes Signal gegen Palantir: Basis revoltiert gegen Überwachungssoftware
+- [Microsoft] (Co)work in Progress
+- [Heise] EU-Kommission sitzt Informationsfreiheitsanträge trotz sinkender Zahlen aus
+- [Heise] Norwegen will einen Tunnel für Hochseeschiffe bauen
+- [Golem] Drohnenkrieg: Ukraine greift größtes russisches Satellitenzentrum an
+- [Golem] Lord British: Ultima-Schöpfer will Kultserie von EA zurückholen
+- [Heise] Modellpflege für den renault Megane E-Tech: LFP-Zellchemie und mehr Reichweite
+- [Heise] Acer und Asus verkaufen wieder PCs und Notebooks in Deutschland
+- [Heise] Geheimdienstbündnis warnt vor KI-gestützten Cyberangriffen
+- [Golem] KI-Schrott: Besonders Tiktok für Kinder steckt voller KI-Slop
+- [Digitec] Oppo Find X9 Ultra im Test: Verliebt in die zehnfache Telekamera
+- [Heise] Top 8: Die beste Kompressor-Kühlbox im Test
+- [Heise] EcoFlow Stream 2: Neue Version des Balkonkraftwerks mit Speicher
+- [Golem] Ernest: Neuer Nasa-Rover setzt neue Standards
+- [Heise] Android 17: Fehler bei WLAN, 5G und Touchscreen auf Pixel-Geräten
+- [Heise] Zweirad-Industrie startet neue Fahrradmesse in Köln
+- [Heise] Halbleiterwerk offenbar zerstört: Schlag gegen russische Rüstungsproduktion
+- [Golem] Ladesäule: Alpitronic bietet Megawattladen für Pkw
+- [Heise] Mercedes-Aufsichtsratschef: 40-Stunden-Woche im Sinne der Wettbewerbsfähigkeit
+- [Heise] KI-Update kompakt: Verbraucherschutz, Gemini for Home, KI-Werbung, Spiele
+- [Golem] Bildung: Norwegen verbietet KI-Tools an Grundschulen
+- [Golem] Staffel 3 von House of the Dragon: Wieder einer tot? Mir doch egal!
+- [Heise] In rätselhafter Kette: Weitere Galaxie ganz ohne Dunkle Materie gefunden
+- [Heise] Kein neues Nothing CMF Phone in diesem Jahr
+- [Heise] Digital sicher in den Urlaub
 - [Golem] Singlespeed: Canyon zeigt erstes E-Bike mit neuem Bosch-Nabenmotor
+- [Heise] Satellit erfasst starke GPS-Störungen von Frankreich bis Pakistan
 - [Heise] Nasa zeigt neuen Mars-Rover-Prototypen: Was „Ernest“ so besonders macht
 - [Golem] Autopilot aktiviert: Tesla-Fahrer kracht in Wohnhaus
-- [Heise] Chiphersteller: SK Hynix erstmals wertvoller als Samsung
 - [Heise] Social-Media-Verbot für Jugendliche: Lösungen gefordert, die schnell wirken
+- [Heise] Chiphersteller: SK Hynix erstmals wertvoller als Samsung
 - [Heise] Kein neues „Stranger Things“: Netflix setzt „The Boroughs“ ab
 - [Golem] J.A.R.V.I.S. für jeden: Wo bleibt unser persönlicher KI-Assistent?
 - [Golem] PC-Gaming: Epic Games Store rüstet gegen Steam auf
@@ -59,17 +104,7 @@ Finale Liste (live im XML-Feed):
 - [Golem] Burewestnik SSC-X-9 Skyfall: Russlands radioaktiver Marschflugkörper
 - [Heise] Polymarket: Angeblich seit Monaten irreführende Werbung von Influencern
 - [Golem] Organisierte Banden: Kriminelle Kunden im Onlinehandel sind ein wachsendes Problem
-- [Golem] Ubisoft-Gründer: Claude Guillemot bei Cessna-Crash in Frankreich getötet
 - [Heise] Playstation-Studios: Sony bestätigt KI-Einsatz in der Spieleentwicklung
 - [Heise] Regeln brechen will gelernt sein: #65 „Fotomerksätze auf dem Prüfstand"
 - [Heise] Großbritannien: Provider setzen auf „Kill Switch“ gegen Smartphone-Diebstahl
 - [Heise] Montag: Ubisoft-Gründer tödlich verunglückt, Steam Controller erst wieder 2027
-- [Digitec] Linus Torvalds – der wohltuend andere Tech-Leader
-- [Heise] Valves Steam Controller wird bei neuen Bestellungen wohl erst 2027 ausgeliefert
-- [Heise] 30 Fakten zu 30 Jahren „Quake“
-- [Digitec] Jetzt erhältlich: Dachfenster-Simulation «Skylight» von Philips
-- [Digitec] So baust du dir eine eigene Ladestation hinter dem Sofa
-- [Heise] Ubisoft-Mitgründer stirbt bei Flugzeugabsturz in Frankreich
-- [Heise] Kompressor-Kühlbox Bingi im Test: Von 26 auf minus 14 Grad in 30 Minuten
-- [Heise] Unbekannte senden falsche Katastrophenwarnung an Handys in Brasilien
-- [Golem] Russlands Jammer: Satellit bestätigt drastische GPS-Störsignale in Europa
