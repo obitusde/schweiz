@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 22.6.2026, 12:58:40
-Letzter Lauf: 22.6.2026, 06:30:35
+Start: 23.6.2026, 06:30:37
+Letzter Lauf: 22.6.2026, 12:58:40
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,19 +17,61 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 16 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Mathematisches Duplikat zu ID 1; ID 1 ist informativer (hintergrundorientierter).): 'Kolumbien – Rechter Anwalt steht vor Sieg bei Präsidentschaftswahl'
-- Weiterhin entfernt (Cache, Grund: Reine Blaulicht-Meldung (Brand) ohne expliziten Bezug zum Kanton Waadt.): 'Une voiture de collection en flammes sur le parking de l'hôpital'
-- Weiterhin entfernt (Cache, Grund: Umweltvorfall/Blaulicht-Meldung im Kanton Freiburg (Epagny), außerhalb der Waadt.): 'L'Albeuve interdite à la baignade après une pollution'
-- Weiterhin entfernt (Cache, Grund: Unfallmeldung aus dem Kanton Aargau, außerhalb der Waadt.): 'Schlauchboot gekentert – Polizei sucht nach Bootsunfall bei Mühlau AG nach 5-jährigem Bub'
-- Weiterhin entfernt (Cache, Grund: Unfallmeldung aus dem Kanton Neuenburg (Boveresse), außerhalb der Waadt.): 'Motard héliporté après une collision avec une auto'
-- Gelöscht (Grund: Kriminalität in der Schweiz ausserhalb des Kantons Waadt (Solothurn).): 'Solothurner Gerichtsprozess – 19-Jähriger soll junge Frau «aus Neugier» getötet haben'
-- Gelöscht (Grund: Kriminalität und Blaulicht-Meldung in der Schweiz ohne Beleg für den Standort Waadt.): 'Ils volent trois véhicules et abandonnent une Mercedes accidentée'
-- Gelöscht (Grund: Kriminalität in der Schweiz ausserhalb des Kantons Waadt.): 'Betrug im Namen der UBS – Vorsicht Falle! Opfer nimmt dreisten Telefonbetrug auf'
-- Gelöscht (Grund: Reine Blaulicht-Meldung in der Schweiz ausserhalb des Kantons Waadt.): 'Blindgänger – Taucher fischt Handgranate aus Rhein – Experten entschärfen sie'
+KI-Filter (Gemini) - 49 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalität und Blaulicht-Meldung in der Schweiz ohne Beleg für den Standort Waadt.): 'Ils volent trois véhicules et abandonnent une Mercedes accidentée'
+- Weiterhin entfernt (Cache, Grund: Kriminalität in der Schweiz ausserhalb des Kantons Waadt.): 'Betrug im Namen der UBS – Vorsicht Falle! Opfer nimmt dreisten Telefonbetrug auf'
+- Weiterhin entfernt (Cache, Grund: Reine Blaulicht-Meldung in der Schweiz ausserhalb des Kantons Waadt.): 'Blindgänger – Taucher fischt Handgranate aus Rhein – Experten entschärfen sie'
+- Gelöscht (Grund: Duplikat zu Artikel 1 (Galeere La Liberté).): 'L’association de la galère vote le dépôt de bilan'
+- Gelöscht (Grund: Duplikat zu Artikel 37 (der informativere SRF-Artikel bleibt).): 'Druck zu gross – Britischer Premierminister Keir Starmer tritt zurück'
+- Gelöscht (Grund: Kriminalität/Gerichtsprozess in der Schweiz außerhalb von Vaud (Solothurn).): 'Solothurner Gerichtsprozess – 19-Jähriger tötet Frau «aus Neugier»: Kleine Verwahrung gefordert'
+- Gelöscht (Grund: Wahl in der Schweiz außerhalb von Vaud oder Genf (Zürich).): 'Regierungsratswahlen Zürich – Philipp Kutter soll Mitte-Sitz in der Regierung verteidigen'
+- Gelöscht (Grund: Unfall/Gebäudeschaden in der Schweiz außerhalb von Vaud (Baselland).): 'Gebäudeschaden – Decke im Baselbieter Regierungszimmer eingestürzt'
+- Gelöscht (Grund: Kriminalität in der Schweiz außerhalb von Vaud (Genf).): 'Un convoyeur de fonds volé en pleine journée au centre-ville'
+- Gelöscht (Grund: Kriminalität/Amtsmissbrauch in der Schweiz außerhalb von Vaud (Baselland).): 'Strafgericht Baselland – Migrationsbeamtin soll jahrelang Ausländer schikaniert haben'
+- Gelöscht (Grund: Blaulicht-Meldung (Polizeistationen) in der Schweiz außerhalb von Vaud (Fribourg).): 'Charmey et Le Mouret privés de postes de police de proximité'
+- Gelöscht (Grund: Duplikat zu Artikel 15 (SRF-Artikel wird bevorzugt).): 'L'avis de canicule passe à «fort danger» pour beaucoup de Romands'
+- Gelöscht (Grund: Duplikat zu Artikel 12 (der informativere SRF-Artikel bleibt).): 'Ex-Vorsitzender US-Notenbank – Alan Greenspan stirbt im Alter von 100 Jahren'
+- Gelöscht (Grund: Kriminalität/Missbrauch in der Schweiz außerhalb von Vaud (Wallis).): 'Sexuelle Übergriffe im Kloster – Wie weiter nach dem Missbrauchsskandal in St. Maurice?'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] Druck zu gross – Britischer Premierminister Keir Starmer tritt zurück
+- [Journal de Morges] «Wir bilden ein eingespieltes Team»
+- [20 Min Romandie] Mangels Finanzierung: Das «grösste Segelschiff des Genfersees» im Todeskampf
+- [SRF Schweiz] Kinder- und Jugendgesundheit – BAG-Bericht liefert erstmals einen schweizweiten Überblick
+- [SRF Schweiz] Start der Vernehmlassung – Röstis «Verkehr '45» dürfte im Parlament zum Zankapfel werden
+- [RTS Vaud] Die Konferenz der reformierten Kirchen der Romandie distanziert sich von Daniel Marguerat
+- [20 Min Romandie] «Damit habe ich nicht gerechnet»: Überraschungskonzert im Flugzeug
+- [20 Min Romandie] Dieses 60 Gramm schwere GPS-Gehäuse soll das Radfahren sicherer machen
+- [SRF Schweiz] Globale Medienpräsenz – Bürgenstock-Gespräche schüren Hoffnungen im Tourismus
+- [20 Min Romandie] Er betäubte Homosexuelle, um sie auszurauben
+- [SRF Schweiz] Strassen und Schienen – Wie die Hitze der Schweizer Infrastruktur zu schaffen macht
+- [SRF Wirtschaft] Schweizer Hochseeschiffe – Schweizer Flagge soll zurück auf die Weltmeere
+- [SRF Ausland] Verstorbener Fed-Chef – Alan Greenspan: Der US-Notenbankchef mit dem grossen Einfluss
+- [SRF Ausland] Korruptionsprozess in Spanien – Spaniens Ministerpräsident im Netz mit Korruptionsverdächtigen
+- [20 Min Romandie] Nach der Riponne wird es nun in Chauderon brenzlig
+- [SRF Schweiz] Hitzewelle und Trockenheit – 35-Grad-Marke an mehreren Orten geknackt – teils Hitzewarnungen
+- [SRF Wissen] KI an Hochschulen – Schummeln Studierende mit KI? Kaum jemand kann es belegen
+- [SRF Wirtschaft] Freihandel – Mercosur-Abkommen: Kontroverse um Umweltschutz und Nachhaltigkeit
+- [SRF Schweiz] Neues Luftverteidigungssystem – Rüstungsfirmen machen grosse Versprechen bei Flugabwehrsystemen
+- [Journal de Morges] Ein Kunsthandwerkermarkt in Bussigny für die schönen Tage
+- [SRF Schweiz] Fachleute warnen – Der Luchs geht um – aber wie lange noch?
+- [SRF Ausland] Wintersonnenwende in Tasmanien – 3000 Nackte feiern kuriosen Brauch
+- [SRF Schweiz] Verteidigungsminister Pfister – «Ich mache Sitzungen bewusst im Bunker»
+- [20 Min Romandie] Der Staat hat sich verrechnet und Verbrenner-Autos viel zu hoch besteuert
+- [SRF Wissen] Hitzewelle und Trockenheit – Wann geht uns in der Schweiz das Wasser aus?
+- [20 Min Romandie] Erste Sommersaison für den Verbier Express
+- [SRF Ausland] Kolumbien – Rechter Anwalt steht vor Sieg bei Präsidentschaftswahl
+- [SRF Wissen] Jagd auf alte Bücher – KI-Firmen kaufen Antiquariate leer – und vernichten die Bücher
+- [20 Min Romandie] Schulumzüge wegen Hitzewelle abgesagt
+- [Morges Actualitiés] Wöchentliche Aktivitäten im Schwimmbad
+- [SRF Ausland] Keir Starmer tritt zurück – Der britische Premierminister ist weg, die Probleme bleiben
+- [Journal de Morges] Morgier Badmintonspieler steigen in die 2. Liga auf
+- [20 Min Romandie] Autobahnausbau verärgert Umweltschützer
+- [SRF Schweiz] Provisorische Bilanz – Ausgaben für Tourismus steigen weiter an
+- [SRF Schweiz] Zahlen zu Shared Mobility – Der Sharing-Boom verliert an Tempo
+- [RTS Vaud] Anne Delseth zur künstlerischen Leiterin von Visions du Réel ernannt
+- [SRF Schweiz] Minenräumer von Digger – Mit Maschinen aus dem Berner Jura gegen Minen in der Ukraine
+- [20 Min Romandie] Anwohner prangern seit Monaten eine gefährliche Bodenschwelle an
+- [20 Min Romandie] Bankbetrug: Kunden haben Schwierigkeiten, ihr Geld zurückzuerhalten
 - [Journal de Morges] In Morges stellen sich junge Reporter in den Dienst der Biodiversität
 - [Journal de Morges] Proxipel gewinnt den ersten ARCAM-Innovationspreis
 - [SRF Ausland] Nahe Antarktis – Vogelgrippe tötet Tausende Babyrobben auf abgeschiedenen Inseln
@@ -41,18 +83,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Olympische Winterspiele 2038 – Bundesrat: Olympia «einmalige Chance» für die Schweiz
 - [SRF Ausland] Aus Abwasser wird Trinkwasser – Frankreich geht wegen Wasserknappheit neue Wege
 - [SRF Ausland] Gespräche auf dem Bürgenstock – Iran und USA legen Grundstein für Verhandlungen – das Wichtigste
-- [SRF Schweiz] Mammografie für Früherkennung – Schweizweit grosse Unterschiede bei der Brustkrebs-Vorsorge
-- [SRF Ausland] Kolumbiens neue Rechte – De la Espriellas Sieg rückt Kolumbien näher an Trumps USA
-- [SRF Ausland] Keir Starmer unter Druck – Tritt der britische Premier heute zurück?
-- [RTS Vaud] Wertvolle Hilfe gegen den Wolf: Herdenschutzhunde lernen das Zusammenleben mit Wanderern
-- [SRF Wirtschaft] Schwindender Absatz – Chinesische Autohersteller in der Krise –  die Hintergründe
-- [SRF Ausland] Beziehungen zur EU – Swiss Deal: Warum Grossbritannien die Schweiz als Vorbild sieht
-- [SRF Schweiz] Schlau und schnell – Greifvögel: 8 Fakten über die Könige der Lüfte
-- [SRF Wirtschaft] Hohe Medikamentenpreise – Der Fall «Keytruda» und die Debatte über Preise und Gewinne
-- [SRF Ausland] Fussball als Druckmittel – Argentinien: ohne Bezahlung der Alimente kein Stadionbesuch
-- [SRF Ausland] Mitte und Westen des Landes – Hitze in Frankreich: Alkoholverbot und geschlossene Schulen
-- [SRF Schweiz] «Der Sonntagsausflug» – Autofahren früher: Als der Stau am Gotthard noch ein Erlebnis war
-- [RTS Vaud] Freibad von Payerne von Badegästen und Prozessionsspinnern belagert
-- [SRF Schweiz] Im Visier der Polizei – Wie nigerianische Verbrecherbanden in der Schweiz operieren
-- [20 Min Romandie] Motorradfahrer stürzt in Schlucht: Lebensgefahr
-- [SRF Ausland] Gipfeltreffen auf Bürgenstock – USA und Iran ringen um Frieden – das ist zu erwarten
