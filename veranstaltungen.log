@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 22.6.2026, 06:33:20
+Start: 23.6.2026, 14:47:15
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -7,16 +7,39 @@ Feeds:
 - https://politepaul.com/fd/LMgYtHqPB9vF.xml
 - https://politepaul.com/fd/AC9SWsow67fe.xml
 - https://politepaul.com/fd/L3cCYeTigq4G.xml
-- https://politepaul.com/fd/zKsSAWngDbou.xml
+- https://www.museen-bern.ch/de/ausstellungen
 
 Kein Link (ignoriert):
 - Keine.
 
 Statischer Filter (Keywords):
+- Gelöscht [Keyword 'lire et écrire']: 'Permanence Lire et écrire'
 - Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
 
-Aus Cache übernommen (43):
+Aus Cache übernommen (64):
+- Cache: 'Lausanne Studio Ghibli et Tapisserie d’Aubusson'
+- Cache: 'Lausanne Alfredo Jaar. Inferno & Paradiso'
 - Cache: '[Caux] Expositions au Caux Palace bis 13.09.2026'
+- Cache: 'Lausanne Exposition // Nothing Serious bis 27.06.2026'
+- Cache: 'Ecublens Konstantin Mitenev bis 15.09.2026'
+- Cache: 'Prangins Lucette bis 23.08.2026'
+- Cache: 'Corsier-sur-Vevey Nocturnes à Chaplin's World bis 29.08.2026'
+- Cache: 'Aigle Josette Taramarcaz. Le Chant des pistes bis 13.09.2026'
+- Cache: 'Nyon UNDER A HOME WITH NO ROOF bis 06.09.2026'
+- Cache: 'Lausanne Hannah Darabi. Why Don't You Dance? bis 01.11.2026'
+- Cache: 'Lausanne Vernissage public – Alfredo Jaar, Hannah Darabi'
+- Cache: 'Lausanne Visite commentée – Marche des Fiertés'
+- Cache: 'Lausanne Visite commentée – Hannah Darabi'
+- Cache: 'Lausanne Visite commentée – Ella Maillart'
+- Cache: 'Lausanne Visite commentée – Otobong Nkanga'
+- Cache: 'Lausanne Guided Tour – Otobong Nkanga'
+- Cache: 'Lausanne Visite en famille – Isao Takahata'
+- Cache: 'Morges Café Bienvenue - Rencontre multiculturelle'
+- Cache: 'Cheseaux-Noréaz Le hêtre, un arbre-habitat bis 01.11.2026'
+- Cache: 'Morges Danse parents / enfants'
+- Cache: 'Morges Prévention & accompagnement du burnout'
+- Cache: 'Morges Caf' Conc' bis 28.08.2026'
+- Cache: 'Basel Basel auf dem Teller bis 21.03.2027'
 - Cache: '[Rossinière] Royaume des Chats à Rossinière bis 12.09.2026'
 - Cache: '[Lausanne] Kodai. L'Antiquité dans la pop culture japonaise bis 24.01.2027'
 - Cache: '[Assens] Exposition Aquafresca ! bis 19.07.2046'
@@ -29,7 +52,6 @@ Aus Cache übernommen (43):
 - Cache: '[Vevey] Exposition: Arbres et Forêts de Daniel Frank bis 04.07.2026'
 - Cache: '[Cheseaux-Noréaz] Exposition artistique - Délicatesses forestières bis 12.07.2026'
 - Cache: '[Lausanne] Exposition Mimêsis - la nature aux origines de l'innovation bis 11.04.2027'
-- Cache: '[Lausanne] Miaou, meuh, wouf : animaux et art verrier au mudac bis 16.09.2026'
 - Cache: 'Stettlen Ausstellung «Ausnahme ohne Regel» von Arthur Freuler bis 03.07.2026'
 - Cache: 'Morges Diffusion des matchs de la Coupe du Monde de Football bis 19.07.2026'
 - Cache: 'Lausanne Ella Maillart bis 01.11.2026'
@@ -60,19 +82,21 @@ Aus Cache übernommen (43):
 - Cache: 'Moutier 100 œuvres de la Collection jurassienne des beaux-arts (1985-2025) bis 28.06.2026'
 - Cache: 'Liestal Seidenband. Kapital, Kunst & Krise bis 06.04.2031'
 
-KI-Filter / Cache-Löschungen (10):
+KI-Filter / Cache-Löschungen (9):
+- Gelöscht [Cache: Duplikat]: 'Lucette, une domestique aux talents cachés'
+- Gelöscht [Cache: Duplikat]: 'Lucette, une domestique aux talents cachés'
+- Gelöscht [Cache: Event ausschließlich für Senioren (Gym équilibr'âge)]: 'Séance de Gym équilibr'âge'
+- Gelöscht [Cache: Event ausschließlich für Senioren (AVIVO)]: 'Déclaration d'impôt - appui de l'AVIVO'
+- Gelöscht [Cache: Event ausschließlich für Senioren (Atelier für Senioren)]: 'Atelier d'informatique intergénérationnel pour les seniors'
 - Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Visite guidée du mois'
 - Gelöscht [Cache: Duplikat von ID 14]: 'Caline Aoun Thresholds of Impermanence'
 - Gelöscht [Cache: Duplikat von ID 12]: 'Ella Maillart. Fotografische Erzählungen'
 - Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'La collection'
-- Gelöscht [Duplikat]: 'Lucette, une domestique aux talents cachés' [Feed: Temps Libre - Ce Weekend]
-- Gelöscht [Duplikat]: 'Lucette, une domestique aux talents cachés' [Feed: Temps Libre - Ce Weekend]
-- Gelöscht [Event ausschließlich für Senioren (Gym équilibr'âge)]: 'Séance de Gym équilibr'âge' [Feed: Morges Agenda]
-- Gelöscht [Event ausschließlich für Senioren (AVIVO)]: 'Déclaration d'impôt - appui de l'AVIVO' [Feed: Morges Agenda]
-- Gelöscht [Event ausschließlich für Senioren (Atelier für Senioren)]: 'Atelier d'informatique intergénérationnel pour les seniors' [Feed: Morges Agenda]
-- Gelöscht [Event ausschließlich für Senioren (Yoga Sénior 60+)]: 'Yoga Sénior 60+' [Feed: Morges Agenda]
 
 Finale Liste (66 Einträge):
+- [Temps Libre - Ce Weekend] Ropraz Origine(s) - Exposition bis 26.07.2026
+- [Platform 10 Events 2] Lausanne Studio Ghibli et Tapisserie d’Aubusson
+- [Morges Agenda] Morges Château de Morges: Konferenz über Schweizer Militärattachés
 - [Temps Libre - Ce Weekend] Lausanne Alfredo Jaar. Inferno & Paradiso
 - [Temps Libre - Ce Weekend] [Caux] Expositions au Caux Palace bis 13.09.2026
 - [Temps Libre - Ce Weekend] Lausanne Exposition // Nothing Serious bis 27.06.2026
@@ -81,7 +105,6 @@ Finale Liste (66 Einträge):
 - [Temps Libre - Ce Weekend] Corsier-sur-Vevey Nocturnes à Chaplin's World bis 29.08.2026
 - [Temps Libre - Ce Weekend] Aigle Josette Taramarcaz. Le Chant des pistes bis 13.09.2026
 - [Temps Libre - Ce Weekend] Nyon UNDER A HOME WITH NO ROOF bis 06.09.2026
-- [Platform 10 Events 2] Lausanne Studio Ghibli et Tapisserie d’Aubusson
 - [Temps Libre - Ce Weekend] Lausanne Hannah Darabi. Why Don't You Dance? bis 01.11.2026
 - [Platform 10 Events 2] Lausanne Vernissage public – Alfredo Jaar, Hannah Darabi
 - [Platform 10 Events 2] Lausanne Visite commentée – Marche des Fiertés
@@ -94,7 +117,6 @@ Finale Liste (66 Einträge):
 - [museum.ch Ausstellungen] Cheseaux-Noréaz Le hêtre, un arbre-habitat bis 01.11.2026
 - [Morges Agenda] Morges Danse parents / enfants
 - [Morges Agenda] Morges Prévention & accompagnement du burnout
-- [Morges Agenda] Morges Boxe éducative
 - [Morges Agenda] Morges Caf' Conc' bis 28.08.2026
 - [museum.ch Ausstellungen] Basel Basel auf dem Teller bis 21.03.2027
 - [Temps Libre - Ce Weekend] [Rossinière] Royaume des Chats à Rossinière bis 12.09.2026
@@ -109,7 +131,6 @@ Finale Liste (66 Einträge):
 - [Temps Libre - Ce Weekend] [Vevey] Exposition: Arbres et Forêts de Daniel Frank bis 04.07.2026
 - [Temps Libre - Ce Weekend] [Cheseaux-Noréaz] Exposition artistique - Délicatesses forestières bis 12.07.2026
 - [Temps Libre - Ce Weekend] [Lausanne] Exposition Mimêsis - la nature aux origines de l'innovation bis 11.04.2027
-- [Temps Libre - Ce Weekend] [Lausanne] Miaou, meuh, wouf : animaux et art verrier au mudac bis 16.09.2026
 - [museum.ch Ausstellungen] Stettlen Ausstellung «Ausnahme ohne Regel» von Arthur Freuler bis 03.07.2026
 - [Morges Agenda] Morges Diffusion des matchs de la Coupe du Monde de Football bis 19.07.2026
 - [Platform 10 Events] Lausanne Ella Maillart bis 01.11.2026
