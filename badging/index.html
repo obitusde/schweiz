@@ -74,7 +74,7 @@
 
     <div id="statusBadge" class="status-badge status-bereit">Lade...</div>
 
-    <a href="https://aptime.cloud-horoquartz.fr" target="_blank" class="btn-link">🌐 AP Time öffnen</a>
+    <a id="btnAPTime" href="#" target="_blank" class="btn-link">🌐 AP Time öffnen</a>
 
     <div class="display-section">
         <div id="countdownLabel" style="font-size: 13px; color: #7f8c8d;">Verbleibende Sollzeit:</div>
@@ -108,26 +108,73 @@
 </div>
 
 <script>
-// =============================================================
-// CONFIG — REPLACE THIS WITH YOUR APPS SCRIPT DEPLOYMENT URL
-// =============================================================
-// After deploying Code.gs as a web app, paste the URL here.
-// It looks like: https://script.google.com/macros/s/AKfycby.../exec
+// ==============================================================
+// CONFIG — alle Einstellungen hier anpassen
+// ==============================================================
+
+// ----- Verbindung zum Backend -----
+// Nach Apps-Script-Deployment hier die /exec-URL einfügen
 const API_URL = "https://script.google.com/macros/s/AKfycbz22FEAIA51dl8OMnqcSMtR_q293ALfLrTUKPIvuzL5o9r74Sa1odQoHCwLTKEBW4TWYA/exec";
 
-// Time to remind you in the morning if you haven't badged in (24h format)
-const REMINDER_HOUR = 9;
-const REMINDER_MINUTE = 0;
-// =============================================================
+// ----- Externer Link (AP Time Button) -----
+const AP_TIME_URL = "https://aptime.cloud-horoquartz.fr";
 
-const SOLL_MILLISEKUNDEN = ((8 * 60) + 25) * 60 * 1000;
+// ----- Sollarbeitszeit pro Tag -----
+const SOLL_STUNDEN = 8;
+const SOLL_MINUTEN = 25;
+
+// ----- Pausen-Schieberegler -----
+const PAUSE_STANDARD_MINUTEN = 45;    // Voreinstellung an neuem Tag
+const PAUSE_MIN_MINUTEN = 15;
+const PAUSE_MAX_MINUTEN = 120;
+const PAUSE_SCHRITT_MINUTEN = 5;
+
+// ----- Erinnerungen -----
+// Jede Erinnerung kann einzeln ein-/ausgeschaltet werden (true / false)
+
+// Erinnerungen am Wochenende? (Samstag + Sonntag)
+const ERINNERUNGEN_AM_WOCHENENDE = false;
+
+// 1. Morgen-Erinnerung: wenn noch nicht eingestempelt
+//    (funktioniert auch bei geschlossener App über Service Worker)
+const ERINNERUNG_MORGENS_AKTIV = false;
+const ERINNERUNG_MORGENS_STUNDE = 9;
+const ERINNERUNG_MORGENS_MINUTE = 0;
+
+// 2. Mittag-Erinnerung: wenn keine Pause gestartet wurde
+//    (nur wenn App geöffnet ist)
+const ERINNERUNG_MITTAG_VERGESSEN_AKTIV = true;
+const ERINNERUNG_MITTAG_VERGESSEN_STUNDE = 12;
+const ERINNERUNG_MITTAG_VERGESSEN_MINUTE = 30;
+
+// 3. Pause-Ende-Erinnerung: wenn Pause-Status zu lange aktiv
+//    (nur wenn App geöffnet ist)
+const ERINNERUNG_PAUSE_ENDE_AKTIV = true;
+const ERINNERUNG_PAUSE_ENDE_STUNDE = 13;
+const ERINNERUNG_PAUSE_ENDE_MINUTE = 30;
+
+// 4. Feierabend-Erinnerung: bei erreichter Sollarbeitszeit
+//    Wiederholt sich alle X Minuten bis ausgestempelt
+//    (nur wenn App geöffnet ist)
+const ERINNERUNG_FEIERABEND_AKTIV = true;
+const ERINNERUNG_FEIERABEND_INTERVAL_MINUTEN = 15;
+
+// ==============================================================
+// AB HIER NICHTS MEHR ÄNDERN
+// ==============================================================
+
+const SOLL_MILLISEKUNDEN = (SOLL_STUNDEN * 60 + SOLL_MINUTEN) * 60 * 1000;
 const CLIENT_HEUTE_STR = new Date().toDateString();
+
+// Erinnerungszeiten in HHMM-Format für schnelle Vergleiche
+const MITTAG_ZEIT_NUMMER = ERINNERUNG_MITTAG_VERGESSEN_STUNDE * 100 + ERINNERUNG_MITTAG_VERGESSEN_MINUTE;
+const PAUSE_ENDE_ZEIT_NUMMER = ERINNERUNG_PAUSE_ENDE_STUNDE * 100 + ERINNERUNG_PAUSE_ENDE_MINUTE;
 
 let state = {
     status: 'BEREIT',
     kommenZeit: null,
     gehenZeit: null,
-    geplantePauseMinuten: 45,
+    geplantePauseMinuten: PAUSE_STANDARD_MINUTEN,
     realePauseMs: 0,
     uiPauseStartZeit: null,
     letzteFeierabendErinnerung: null,
@@ -139,6 +186,7 @@ const btnKommen = document.getElementById('btnKommen');
 const btnPause = document.getElementById('btnPause');
 const btnGehen = document.getElementById('btnGehen');
 const btnReset = document.getElementById('btnReset');
+const btnAPTime = document.getElementById('btnAPTime');
 const pauseSlider = document.getElementById('pauseSlider');
 const sliderValue = document.getElementById('sliderValue');
 const mainTimer = document.getElementById('mainTimer');
@@ -151,6 +199,22 @@ const statusBadge = document.getElementById('statusBadge');
 const countdownLabel = document.getElementById('countdownLabel');
 const loadingOverlay = document.getElementById('loadingOverlay');
 const configWarning = document.getElementById('configWarning');
+
+// Slider-Einstellungen aus Config
+pauseSlider.min = PAUSE_MIN_MINUTEN;
+pauseSlider.max = PAUSE_MAX_MINUTEN;
+pauseSlider.step = PAUSE_SCHRITT_MINUTEN;
+pauseSlider.value = PAUSE_STANDARD_MINUTEN;
+sliderValue.innerText = PAUSE_STANDARD_MINUTEN + " Minuten";
+
+// AP Time Link aus Config
+btnAPTime.href = AP_TIME_URL;
+
+// Helper: ist heute Wochenende?
+function istWochenende() {
+    const tag = new Date().getDay();
+    return tag === 0 || tag === 6;
+}
 
 // =============================================================
 // API HELPER — talks to Apps Script via fetch
@@ -191,39 +255,40 @@ window.addEventListener('load', async () => {
     await initialisiereZustandVonServer();
     setInterval(updateTicker, 1000);
 
-    // Ask for notification permission
     if (window.Notification && Notification.permission === "default") {
         Notification.requestPermission();
     }
 
-    // Register service worker for background reminders
     if ('serviceWorker' in navigator) {
         try {
             const reg = await navigator.serviceWorker.register('service-worker.js');
-
-            // Wait for it to be ready before messaging
             await navigator.serviceWorker.ready;
 
-            // Tell SW about our API URL so it can do background checks
-            if (reg.active) {
-                // Store the API URL in a cache the SW can read
-                const cache = await caches.open('royal-oak-v1');
-                await cache.put('config-api-url', new Response(API_URL));
-            }
+            // Config-Blob für den Service Worker im Cache hinterlegen
+            const cache = await caches.open('royal-oak-v2');
+            const swConfig = {
+                apiUrl: API_URL,
+                morningActive: ERINNERUNG_MORGENS_AKTIV,
+                morningHour: ERINNERUNG_MORGENS_STUNDE,
+                morningMinute: ERINNERUNG_MORGENS_MINUTE,
+                weekendActive: ERINNERUNGEN_AM_WOCHENENDE
+            };
+            await cache.put('config-reminder', new Response(JSON.stringify(swConfig)));
 
-            // Schedule today's morning reminder (if it's still in the future)
-            scheduleMorningReminder(reg);
+            // Nur planen, wenn Morgen-Erinnerung aktiviert ist
+            if (ERINNERUNG_MORGENS_AKTIV && (ERINNERUNGEN_AM_WOCHENENDE || !istWochenende())) {
+                scheduleMorningReminder(reg);
 
-            // Try to register periodic background sync for reliability
-            if ('periodicSync' in reg) {
-                try {
-                    const permState = await navigator.permissions.query({ name: 'periodic-background-sync' });
-                    if (permState.state === 'granted') {
-                        await reg.periodicSync.register('check-badge-status', {
-                            minInterval: 12 * 60 * 60 * 1000 // 12 hours
-                        });
-                    }
-                } catch (e) { /* not all browsers support this */ }
+                if ('periodicSync' in reg) {
+                    try {
+                        const permState = await navigator.permissions.query({ name: 'periodic-background-sync' });
+                        if (permState.state === 'granted') {
+                            await reg.periodicSync.register('check-badge-status', {
+                                minInterval: 12 * 60 * 60 * 1000
+                            });
+                        }
+                    } catch (e) { /* Browser ohne Unterstützung — ignorieren */ }
+                }
             }
         } catch (err) {
             console.warn('SW registration failed:', err);
@@ -234,24 +299,22 @@ window.addEventListener('load', async () => {
 function scheduleMorningReminder(swReg) {
     const now = new Date();
     const target = new Date();
-    target.setHours(REMINDER_HOUR, REMINDER_MINUTE, 0, 0);
+    target.setHours(ERINNERUNG_MORGENS_STUNDE, ERINNERUNG_MORGENS_MINUTE, 0, 0);
+
+    const sw = swReg.active || swReg.installing || swReg.waiting;
+    if (!sw) return;
 
     if (target.getTime() <= now.getTime()) {
-        // Already past reminder time — check immediately
-        if (swReg.active) {
-            swReg.active.postMessage({ type: 'CHECK_REMINDER', apiUrl: API_URL });
-        }
+        // Zeit ist heute schon vorbei — direkt prüfen
+        sw.postMessage({ type: 'CHECK_REMINDER', apiUrl: API_URL });
         return;
     }
 
-    // Schedule on the SW
-    if (swReg.active) {
-        swReg.active.postMessage({
-            type: 'SCHEDULE_REMINDER',
-            fireAtMs: target.getTime(),
-            apiUrl: API_URL
-        });
-    }
+    sw.postMessage({
+        type: 'SCHEDULE_REMINDER',
+        fireAtMs: target.getTime(),
+        apiUrl: API_URL
+    });
 }
 
 function showLoading(show) {
@@ -271,6 +334,12 @@ function verarbeiteServerStatus(serverState) {
     state.geplantePauseMinuten = serverState.geplantePauseMinuten;
     state.realePauseMs = serverState.realePauseMs || 0;
     state.uiPauseStartZeit = serverState.uiPauseStartZeit ? new Date(serverState.uiPauseStartZeit) : null;
+
+    // Fresh state: Frontend-Voreinstellung respektieren
+    // (greift nur wenn noch nichts gestempelt wurde heute)
+    if (state.status === 'BEREIT' && !state.kommenZeit) {
+        state.geplantePauseMinuten = PAUSE_STANDARD_MINUTEN;
+    }
 
     pauseSlider.value = state.geplantePauseMinuten;
     sliderValue.innerText = state.geplantePauseMinuten + " Minuten";
@@ -356,7 +425,7 @@ btnReset.addEventListener('click', async () => {
 });
 
 // =============================================================
-// Display helpers (unchanged from original)
+// Display helpers
 // =============================================================
 function formatUhrzeit(date) {
     if (!date) return "--:--";
@@ -419,6 +488,8 @@ function updateFeierabendAnzeige() {
 }
 
 function sendNotification(title, body) {
+    // Wochenend-Check für alle In-App-Erinnerungen
+    if (!ERINNERUNGEN_AM_WOCHENENDE && istWochenende()) return;
     if (window.Notification && Notification.permission === "granted") {
         new Notification(title, { body: body, icon: 'icon-192.png' });
     }
@@ -437,7 +508,7 @@ function updateUIForStatus() {
         document.getElementById('sliderContainer').style.opacity = "1";
         document.getElementById('sliderContainer').style.pointerEvents = "auto";
         lblKommen.innerText = "--:--";
-        mainTimer.innerText = "08:25:00";
+        mainTimer.innerText = formatDauer(SOLL_MILLISEKUNDEN);
         progressBar.style.width = "0%";
         progressBar.style.backgroundColor = "var(--link-color)";
         countdownLabel.innerText = "Verbleibende Sollzeit:";
@@ -490,19 +561,27 @@ function updateTicker() {
     const jetzt = new Date();
     const aktuelleUhrzeitNummer = jetzt.getHours() * 100 + jetzt.getMinutes();
 
-    if (aktuelleUhrzeitNummer >= 1230 && aktuelleUhrzeitNummer < 1330 && !state.mittagErinnerungAbgefeuert) {
-        if (state.status === 'ARBEIT' && state.realePauseMs === 0) {
-            sendNotification("Mittagspause vergessen?", "Es ist nach 12:30 Uhr. Hast du vergessen, die Pause einzutragen?");
-            state.mittagErinnerungAbgefeuert = true;
-        }
-    }
-    if (aktuelleUhrzeitNummer >= 1330 && !state.pauseEndeErinnerungAbgefeuert) {
-        if (state.status === 'PAUSE') {
-            sendNotification("Pause beenden?", "Es ist nach 13:30 Uhr. Du bist laut App immer noch in der Pause.");
-            state.pauseEndeErinnerungAbgefeuert = true;
-        }
+    // --- Mittag-Erinnerung ---
+    if (ERINNERUNG_MITTAG_VERGESSEN_AKTIV
+        && aktuelleUhrzeitNummer >= MITTAG_ZEIT_NUMMER
+        && aktuelleUhrzeitNummer < (MITTAG_ZEIT_NUMMER + 100)
+        && !state.mittagErinnerungAbgefeuert
+        && state.status === 'ARBEIT'
+        && state.realePauseMs === 0) {
+        sendNotification("Mittagspause vergessen?", "Hast du vergessen, die Pause einzutragen?");
+        state.mittagErinnerungAbgefeuert = true;
     }
 
+    // --- Pause-Ende-Erinnerung ---
+    if (ERINNERUNG_PAUSE_ENDE_AKTIV
+        && aktuelleUhrzeitNummer >= PAUSE_ENDE_ZEIT_NUMMER
+        && !state.pauseEndeErinnerungAbgefeuert
+        && state.status === 'PAUSE') {
+        sendNotification("Pause beenden?", "Du bist laut App immer noch in der Pause.");
+        state.pauseEndeErinnerungAbgefeuert = true;
+    }
+
+    // --- Pause-Anzeige ---
     let anzeigeePauseMs;
     if (state.realePauseMs > 0 || state.status === 'PAUSE') {
         anzeigeePauseMs = state.realePauseMs;
@@ -515,11 +594,13 @@ function updateTicker() {
         lblPause.innerText = state.geplantePauseMinuten + " Min (Schieber)";
     }
 
+    // --- Reale Arbeitszeit ---
     const nettoArbeitszeitMs = (state.realePauseMs > 0 || state.status === 'PAUSE')
         ? jetzt - state.kommenZeit - anzeigeePauseMs
         : jetzt - state.kommenZeit;
     lblRealeZeit.innerText = formatDauer(Math.max(0, nettoArbeitszeitMs)).substring(0, 5) + " Std";
 
+    // --- Feierabend-Countdown ---
     updateFeierabendAnzeige();
     const feierabend = berechneFeierabendUhrzeit();
     const restZeitMs = feierabend - jetzt;
@@ -544,9 +625,11 @@ function updateTicker() {
         mainTimer.classList.add('overtime');
         progressBar.style.backgroundColor = "gold";
 
-        if (state.status === 'ARBEIT' || state.status === 'PAUSE') {
+        // --- Feierabend-Erinnerung ---
+        if (ERINNERUNG_FEIERABEND_AKTIV
+            && (state.status === 'ARBEIT' || state.status === 'PAUSE')) {
             let msSeitFeierabend = Math.abs(restZeitMs);
-            let intervalMs = 15 * 60 * 1000;
+            let intervalMs = ERINNERUNG_FEIERABEND_INTERVAL_MINUTEN * 60 * 1000;
 
             if (!state.letzteFeierabendErinnerung) {
                 sendNotification("FEIERABEND!", "Du hast deine Sollarbeitszeit erreicht. Vergiss das Ausstempeln nicht!");

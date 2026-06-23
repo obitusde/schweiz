@@ -1,13 +1,12 @@
 // =============================================================
 // Royal Oak Arbeitszeit — Service Worker
 // =============================================================
-// Handles:
-//   1. Offline app shell caching
-//   2. Periodic background sync to check badge status
-//   3. Displaying notifications when reminders are due
+// Liest alle Einstellungen aus dem Config-Blob, den die Seite
+// beim Laden in den Cache schreibt. Hier muss nichts angepasst
+// werden — die Config-Werte stehen in index.html.
 // =============================================================
 
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = `royal-oak-${CACHE_VERSION}`;
 const SHELL_FILES = [
   './',
@@ -18,7 +17,7 @@ const SHELL_FILES = [
 ];
 
 // =============================================================
-// Install — cache the app shell
+// Install — App-Shell cachen
 // =============================================================
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -28,7 +27,7 @@ self.addEventListener('install', (event) => {
 });
 
 // =============================================================
-// Activate — clean up old caches
+// Activate — alte Caches aufräumen
 // =============================================================
 self.addEventListener('activate', (event) => {
   event.waitUntil(
@@ -42,37 +41,33 @@ self.addEventListener('activate', (event) => {
 });
 
 // =============================================================
-// Fetch — cache-first for the app shell only
-// API calls to Apps Script always go to network
+// Fetch — Cache-First für Shell, Network für API
 // =============================================================
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
 
-  // Never cache Apps Script API calls — always fresh
+  // Apps Script Aufrufe niemals cachen
   if (url.hostname.includes('googleusercontent.com') ||
       url.hostname.includes('script.google.com')) {
-    return; // let it pass through normally
+    return;
   }
 
-  // Cache-first for our own shell files
   event.respondWith(
     caches.match(event.request).then((cached) => {
       if (cached) return cached;
       return fetch(event.request).then((response) => {
-        // Cache successful GETs for next time
         if (event.request.method === 'GET' && response.ok) {
           const clone = response.clone();
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
         }
         return response;
-      }).catch(() => cached); // fallback to cached if available
+      }).catch(() => cached);
     })
   );
 });
 
 // =============================================================
-// Periodic background sync — fires roughly daily
-// Checks if the user still needs to badge in today
+// Periodic background sync (best-effort)
 // =============================================================
 self.addEventListener('periodicsync', (event) => {
   if (event.tag === 'check-badge-status') {
@@ -80,7 +75,6 @@ self.addEventListener('periodicsync', (event) => {
   }
 });
 
-// Regular background sync as fallback (triggered manually from page)
 self.addEventListener('sync', (event) => {
   if (event.tag === 'check-badge-status') {
     event.waitUntil(checkAndRemind());
@@ -88,47 +82,50 @@ self.addEventListener('sync', (event) => {
 });
 
 // =============================================================
-// Manual reminder check — triggered by message from page
-// (most reliable mechanism — runs when the page calls it)
+// Nachrichten von der Seite
 // =============================================================
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'CHECK_REMINDER') {
-    event.waitUntil(checkAndRemind(event.data.apiUrl));
+    event.waitUntil(checkAndRemind());
   }
   if (event.data && event.data.type === 'SCHEDULE_REMINDER') {
-    // Schedule a notification at a specific future time
-    scheduleReminder(event.data.fireAtMs, event.data.apiUrl);
+    scheduleReminder(event.data.fireAtMs);
   }
 });
 
 // =============================================================
-// Core reminder logic
+// Config aus dem Cache lesen
 // =============================================================
-async function getApiUrl() {
-  // Stored in cache as a tiny config blob — set on first page load
+async function getConfig() {
   try {
     const cache = await caches.open(CACHE_NAME);
-    const res = await cache.match('config-api-url');
-    if (res) return await res.text();
+    const res = await cache.match('config-reminder');
+    if (res) return await res.json();
   } catch (e) { /* ignore */ }
   return null;
 }
 
-async function checkAndRemind(apiUrlOverride) {
-  const apiUrl = apiUrlOverride || (await getApiUrl());
-  if (!apiUrl) return;
+// =============================================================
+// Kern-Logik: Status prüfen, ggf. Benachrichtigung anzeigen
+// =============================================================
+async function checkAndRemind() {
+  const config = await getConfig();
+  if (!config) return;
 
-  // Don't remind on weekends
-  const day = new Date().getDay();
-  if (day === 0 || day === 6) return;
+  // Erinnerung in Config deaktiviert?
+  if (!config.morningActive) return;
 
-  // Only remind during morning hours
-  const hour = new Date().getHours();
-  if (hour < 7 || hour > 11) return;
+  // Wochenende?
+  if (!config.weekendActive) {
+    const tag = new Date().getDay();
+    if (tag === 0 || tag === 6) return;
+  }
+
+  if (!config.apiUrl) return;
 
   try {
     const dateStr = new Date().toDateString();
-    const url = `${apiUrl}?action=checkReminder&date=${encodeURIComponent(dateStr)}`;
+    const url = `${config.apiUrl}?action=checkReminder&date=${encodeURIComponent(dateStr)}`;
     const response = await fetch(url);
     const data = await response.json();
 
@@ -143,28 +140,26 @@ async function checkAndRemind(apiUrlOverride) {
       });
     }
   } catch (err) {
-    // Silent fail — we'll try again next sync
+    // Stille — beim nächsten Sync neu versuchen
   }
 }
 
 // =============================================================
-// Local timer-based reminder (fires while SW is alive)
+// Lokaler Timer (best-effort, hält nur solange SW lebt)
 // =============================================================
 let reminderTimer = null;
-function scheduleReminder(fireAtMs, apiUrl) {
+function scheduleReminder(fireAtMs) {
   if (reminderTimer) clearTimeout(reminderTimer);
   const delay = fireAtMs - Date.now();
   if (delay <= 0) {
-    checkAndRemind(apiUrl);
+    checkAndRemind();
     return;
   }
-  // setTimeout in a service worker is best-effort —
-  // browser may kill the worker before it fires
-  reminderTimer = setTimeout(() => checkAndRemind(apiUrl), delay);
+  reminderTimer = setTimeout(() => checkAndRemind(), delay);
 }
 
 // =============================================================
-// Notification click — focus or open the app
+// Klick auf Notification — App öffnen / fokussieren
 // =============================================================
 self.addEventListener('notificationclick', (event) => {
   event.notification.close();
