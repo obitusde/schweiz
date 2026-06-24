@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 23.6.2026, 06:24:58
-Letzter Lauf: 22.6.2026, 06:24:59
+Start: 24.6.2026, 06:24:58
+Letzter Lauf: 23.6.2026, 06:24:58
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -13,44 +13,52 @@ Abruf der RSS-Feeds:
 
 Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
-- Gelöscht wegen Keyword 'leute:': 'Leute: „Konnte deswegen kein guter Vater sein“'
-- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 22. Juni 2026'
-- Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Bye Bye, Keir Starmer / Hallo, Rentenreform'
+- Gelöscht wegen Keyword 'leute:': 'Leute: „Jetzt will ich nicht mehr nackt sein“'
+- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 23. Juni 2026'
 
-KI-Filter (Gemini) - 34 neue Artikel geprüft:
-- Gelöscht (Grund: Lokales Ereignis ohne längerfristige Relevanz): [Panorama] 'Baden-Württemberg: Gefahrgut legt A8 lahm'
-- Gelöscht (Grund: Deutsche parteipolitische Debatte/Gesetzgebung): [Wirtschaft] 'Heizungsgesetz: Kritik von allen Seiten'
-- Gelöscht (Grund: Regionale deutsche Politik/Lokales Berlin): [Politik] 'Glosse: Das Streiflicht'
-- Gelöscht (Grund: Deutsche Parteipolitik und sozialpolitische Interna): [Politik] 'Sozialpolitik: Gewerkschaften stemmen sich gegen Rentenpläne'
-- Gelöscht (Grund: Parteipolitische Interna (Deutschland)): [Politik] 'Neuer Linken-Chef: Pantisano entschuldigt sich für Faschismus-Vorwurf'
-- Gelöscht (Grund: Duplikat zum Thema Verhandlungen Schweiz/USA/Iran (Behalte id: 18)): [Politik] 'Irankrieg: Die Schweizer Diplomaten auf der Ersatzbank'
-- Gelöscht (Grund: Deutsche Parteipolitik und parlamentarische Interna): [Politik] 'Bundestagsabgeordnete: Ein Drittel hat Nebeneinkünfte'
+KI-Filter (Gemini) - 43 neue Artikel geprüft:
+- Gelöscht (Grund: Unfall ohne längerfristige Relevanz): [Panorama] 'A 31: Zwei Menschen sterben bei Unfall auf Autobahn im Emsland'
+- Gelöscht (Grund: Duplikat zu Artikel id:0, dieser ist informativer): [Wissen] 'Hitzewelle: Ist das ein normaler Sommer – oder der Klimawandel?'
+- Gelöscht (Grund: Duplikat zu Artikel id:10, dieser ist informativer): [Politik] 'Albanien: Der Premier und das Luxusresort im Naturschutzgebiet'
+- Gelöscht (Grund: Duplikat zu Artikel id:8, dieser ist informativer): [Politik] 'Großbritannien: Äußerlich unerfahren'
+- Gelöscht (Grund: Duplikat zu Artikel id:4, dieser ist informativer): [Politik] 'Krieg in Nahost: Dämpfer für Trump: US-Senat stimmt für Ende der Angriffe auf Iran'
 
 Finale Liste (live im XML-Feed):
-- [Magazin] »Gegen das wirksamste Medikament bestehen die meisten Vorurteile«
-- [Panorama] Kanada: Drei Tote bei Schusswechsel in Montreal
-- [Politik] Verteidigungspolitik: Pistorius zweifelt an Deutschlands Verteidigungswillen
-- [Wirtschaft] Energie: Wieso sich RWE ein Stromnetz kauft
-- [Wirtschaft] Staatskonzern: VW-Manager wird neuer Bahn-Finanzchef
-- [Wirtschaft] SZ-Depotcheck: Wie spare ich am besten auf eine Immobilie?
-- [Wirtschaft] SZ-Nachhaltigkeitsgipfel: „Der ‚Tankrabatt‘ war eine sehr schlechte Idee“
-- [Wirtschaft] Klimawandel: Auf einmal sind wir diesseits der Apokalypse
-- [Wirtschaft] Industrie und Mittelstand: Grüner als das Gesetz verlangt
-- [Wirtschaft] Guide Michelin: Das lukrative Geschäft mit den Sternen
-- [Leben] Rentendebatte: Sieben Knieoperationen und ein Bandscheibenvorfall
-- [Wirtschaft] US-Notenbank Fed: Er sprach in rätselhaften Sätzen, auch mal mit dadaistischen Zügen
-- [Panorama] Nepal: Die vielleicht bekannteste Leiche am Everest soll geborgen werden
-- [Politik] Deutsche in Syrien: Eva Maria Michelmann ist frei, die Fragen bleiben
-- [Politik] Krieg in Nahost: Vance: Iran will wieder IAEA-Inspektoren ins Land lassen
-- [Politik] Pistorius in Litauen: Noch fehlen Freiwillige für Brigade
-- [Politik] Ukraine-Krieg: Tourismusverbot auf der Krim
-- [Politik] Westjordanland: Israels Armee tötet zwei Palästinenser
-- [Politik] Gedenken an Widerstandskämpfer: Macron nutzt das Panthéon noch einmal für einen politischen Akzent
-- [Politik] Starmer-Nachfolge: Und der Gewinner ist ...
-- [Wirtschaft] Rüstungsindustrie: Deutschland steigt für viel Geld beim Panzerbauer KNDS ein
-- [Panorama] Glücksspielsucht: „Es ist, als ob einem der Teufel im Nacken sitzt“
-- [Panorama] Wetter: DWD: Waldbrandgefahr nimmt in kommenden Tagen zu
+- [Panorama] Wetter: Analyse: Klimawandel macht Hitzewelle bis zu 4 Grad heißer
+- [Politik] USA: US-Richter stoppt ICE-Festnahmen in Einwanderungsgerichten
+- [Panorama] Gastronomie: Michelin-Sterne vergeben: Das sind die Ausgezeichneten
+- [Panorama] Verkehr: Nach bundesweiter Bahnstörung: Verspätungen und Ausfälle
+- [Politik] USA: Der US-Kongress protestiert gegen Trumps Iran-Politik
+- [Politik] Terror: Hatte der Attentäter von Solingen ein islamistisches Netzwerk?
+- [Politik] Krieg in der Ukraine: „Trick der USA“: Russlands Kritik an Trump wächst
+- [Politik] Rücktritt von Keir Starmer: Ist Großbritannien unregierbar?
+- [Wirtschaft] Logistik: DHL verliert Spitzenmanagerin
+- [Politik] Podcast „Auf den Punkt“: „Flamingo-Revolution“: Stürzt Albaniens Premier über Pläne für ein Luxusresort?
+- [Magazin] Wie viel Wasser sollte man trinken?
+- [Politik] Glosse: Das Streiflicht
+- [Wirtschaft] Handelsverband Deutschland: Schaden durch Ladendiebstähle übertrifft erstmals Drei-Milliarden-Marke
+- [Wirtschaft] Mobilität: Warum fahren so wenige Dienstwagen elektrisch?
+- [Politik] Alterssicherung: Merz und Bas wollen Rentenvorschläge voll umsetzen
+- [Wirtschaft] SZ-Nachhaltigkeitsgipfel: Klimaschutz spaltet die Stahlindustrie
 - [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
-- [Panorama] Frankreich: Paris ist schön, aber noch nicht schön genug
-- [Wirtschaft] Hitzewelle: Muss ich weniger Miete zahlen, wenn es zu heiß wird?
-- [Panorama] Infektionskrankheit: Mehr als 1000 Ebola-Fälle in Kongo
+- [Wirtschaft] Zahlungsverkehr: Mehrheit der EU-Abgeordneten für digitalen Euro
+- [Wirtschaft] Spielwarenindustrie: Aus für Playmobil-Produktion in Deutschland
+- [Politik] Neuer Rentenfonds: Wie in Schweden: So soll die Rente der Zukunft funktionieren
+- [Politik] Russlands Krieg gegen die Ukraine: Wie die Ukraine die Krim von Russland isoliert
+- [Wirtschaft] Grünen-Fraktionschefin: Wenn Fakten allein nicht reichen
+- [Wissen] Psychologie: Politiker trauen ihren Wählern beim Klimaschutz weniger zu als gerechtfertigt
+- [Politik] Infrastruktur und Umweltschutz: Regierung will mehr Tempo bei Verkehrsprojekten ermöglichen
+- [Wirtschaft] SZ Nachhaltigkeitsgipfel: „Ich finde es schade, dass Sie leiser geworden sind“
+- [Panorama] Italien: La dolce Vespa
+- [Auto] Subaru Uncharted: Unterwegs auf Neuland
+- [Wirtschaft] Monopolkomission: „In der Rüstungsindustrie darf es nicht zu einem zweiten Google kommen“
+- [Panorama] Prozess um mutmaßliche Polizeigewalt: Gefesselt im Rettungswagen, dann blieb der Puls weg
+- [Wirtschaft] Sportwagenhersteller: Porsche-Aktionäre rechnen ab: „Ein Scherbenhaufen“
+- [Wirtschaft] US-Notenbank: Greenspans Vermächtnis gilt es zu wahren – mehr denn je
+- [Wirtschaft] Börse: Die Space-X-Aktie beendet ihren Höhenflug
+- [Magazin] »So ein Spiel hätte meinen Schulabschluss gefährdet«
+- [Panorama] Geburten während der WM: Schnell in den Kreißsaal und zurück zur Mannschaft
+- [Wirtschaft] Energiepreise: „Energie darf keine Frage des Geldbeutels sein“
+- [Panorama] USA: Wo ist die Mutter von Moderatorin Savannah Guthrie?
+- [Wirtschaft] Luisa Neubauer: Die flexible Aktivistin
+- [Wirtschaft] Statistisches Bundesamt: Jeder Fünfte kann sich keinen Urlaub leisten
