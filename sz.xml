@@ -5,196 +5,273 @@
     <link>https://obitusde.github.io/schweiz/sz.xml</link>
     <description>KI-gefilterter Newsfeed der Süddeutschen Zeitung</description>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Jun 2026 04:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:24:58 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Magazin] »Gegen das wirksamste Medikament bestehen die meisten Vorurteile«</title>
-      <link>https://www.sueddeutsche.de/magazin/gesundheit/akne-hautgesundheit-therapie-narben-li.3497267</link>
-      <guid isPermaLink="false">li.3497267</guid>
-      <description><![CDATA[<p>Millionen Menschen haben auch weit über die Pubertät hinaus Akne. Die Erkrankung hinterlässt oft Narben und belastet die Psyche enorm. Der Dermatologe Alexander Kreuter erklärt, wie man sie nachhaltig loswerden kann.</p>]]></description>
-      <pubDate>Tue, 23 Jun 2026 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Kanada: Drei Tote bei Schusswechsel in Montreal</title>
-      <link>https://www.sueddeutsche.de/panorama/montreal-schusswechsel-tote-polizist-li.3503453</link>
-      <guid isPermaLink="false">li.3503453</guid>
-      <description><![CDATA[<p>In Montreal erschießt ein Angreifer nach Polizeiangaben einen Beamten und einen Zivilisten. Auch der mutmaßliche Täter stirbt.</p>]]></description>
-      <pubDate>Tue, 23 Jun 2026 00:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Verteidigungspolitik: Pistorius zweifelt an Deutschlands Verteidigungswillen</title>
-      <link>https://www.sueddeutsche.de/politik/verteidigung-ruestung-pistorius-gesamtverteidigung-zivilschutz-li.3503400</link>
-      <guid isPermaLink="false">li.3503400</guid>
-      <description><![CDATA[<p>Militär allein reicht nicht: Verteidigungsminister Boris Pistorius wirbt für eine neue Sicherheitskultur in Deutschland. Die ganze Gesellschaft solle bereit sein, für ihre Freiheit einzustehen.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 22:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Energie: Wieso sich RWE ein Stromnetz kauft</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/rwe-amprion-krebber-stromnetz-li.3503386</link>
-      <guid isPermaLink="false">li.3503386</guid>
-      <description><![CDATA[<p>Der Essener Kraftwerkskonzern investiert 3,6 Milliarden Euro und hält künftig 55 Prozent an Amprion, Deutschlands zweitgrößtem Betreiber von Übertragungsnetzen.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 17:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Staatskonzern: VW-Manager wird neuer Bahn-Finanzchef</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/bahn-finanzchef-michael-obrowski-vw-nutzfahrzeuge-li.3503311</link>
-      <guid isPermaLink="false">li.3503311</guid>
-      <description><![CDATA[<p>Bald ist der Bahn-Vorstand wieder komplett: Michael Obrowski soll die vakante Stelle einnehmen. Seine Vorgängerin war nach nur vier Monaten gegangen – und zwar nicht im Guten.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 15:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] SZ-Depotcheck: Wie spare ich am besten auf eine Immobilie?</title>
-      <link>https://www.sueddeutsche.de/projekte/artikel/wirtschaft/etf-vermoegensaufbau-sparen-immobilie-e776538/</link>
-      <guid isPermaLink="false">er.e776538</guid>
-      <description><![CDATA[<p>Alexander ist 30 und hat früh angefangen, an der Börse zu investieren. Sein Ziel: irgendwann eine Immobilie kaufen zu können. Wie er das am besten angeht, rät ein Experte im nächsten Teil der Serie „SZ-Depotcheck“.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 14:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] SZ-Nachhaltigkeitsgipfel: „Der ‚Tankrabatt‘ war eine sehr schlechte Idee“</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/deutschland-wirtschaft-energiepreise-wachstum-co-preis-interview-li.3496360</link>
-      <guid isPermaLink="false">li.3496360</guid>
-      <description><![CDATA[<p>Top-Ökonom Gabriel Felbermayr erklärt im Interview, warum die Regierung falsch auf die hohen Benzinpreise reagiert hat, wie chinesische E-Autos den Deutschen helfen und mit welchen Argumenten man AfD-Wähler für die Energiewende gewinnt.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 14:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Klimawandel: Auf einmal sind wir diesseits der Apokalypse</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/klima-klimawandel-hitze-artensterben-kommentar-li.3499961</link>
-      <guid isPermaLink="false">li.3499961</guid>
-      <description><![CDATA[<p>Die Zukunft ist plötzlich weniger bedrohlich als befürchtet: Gut möglich, dass das Klima eines Tages noch als eines der einfacheren Probleme erscheint.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 14:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Industrie und Mittelstand: Grüner als das Gesetz verlangt</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/industrie-politik-wege-nachhaltigkeit-li.3486980</link>
-      <guid isPermaLink="false">li.3486980</guid>
-      <description><![CDATA[<p>Einige Firmen produzieren bereits klimafreundlich und warten gar nicht erst auf entsprechende Vorgaben. Warum sie das tun und was die Politik von ihnen lernen kann.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 13:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Guide Michelin: Das lukrative Geschäft mit den Sternen</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/michelin-guide-deutschland-sterne-hotels-wein-li.3485876</link>
-      <guid isPermaLink="false">li.3485876</guid>
-      <description><![CDATA[<p>Der Gourmetführer Michelin richtet sich neu aus. Die grünen Sterne für Nachhaltigkeit werden gestrichen, dafür gibt es Bewertungen in mehr Regionen und Ländern. Damit die Tester überhaupt kommen, fließt Geld.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 13:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Leben] Rentendebatte: Sieben Knieoperationen und ein Bandscheibenvorfall</title>
-      <link>https://www.sueddeutsche.de/leben/dachdecker-bottrop-arbeit-rentenalter-diskussion-reform-li.3454146</link>
-      <guid isPermaLink="false">li.3454146</guid>
-      <description><![CDATA[<p>Dachdecker sind die Lieblingshandwerker, wenn Politiker gegen eine Erhöhung des Rentenalters sind. Aber was sagen sie selbst dazu? Eine Baustellenbegehung in Bottrop.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 13:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] US-Notenbank Fed: Er sprach in rätselhaften Sätzen, auch mal mit dadaistischen Zügen</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/alan-greenspan-federal-reserve-us-notenbank-chef-tod-jahren-li.3503159</link>
-      <guid isPermaLink="false">li.3503159</guid>
-      <description><![CDATA[<p>Alan Greenspan führte 19 Jahre lang die US-Notenbank und galt als Orakel. In seiner Amtszeit sorgte er für niedrige Zinsen, die Börsen boomten, danach kam die Finanzkrise. Jetzt ist er mit 100 Jahren gestorben.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 13:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Nepal: Die vielleicht bekannteste Leiche am Everest soll geborgen werden</title>
-      <link>https://www.sueddeutsche.de/panorama/mount-everest-leiche-green-boots-bergsteiger-bergung-markierung-li.3502518</link>
-      <guid isPermaLink="false">li.3502518</guid>
-      <description><![CDATA[<p>„Green Boots“ diente Bergsteigern am Mount Everest lange als Wegmarke. Die Identität des Toten mit den grünen Stiefeln ist seit 30 Jahren nicht zweifelsfrei geklärt. Das könnte sich bald ändern.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 13:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Deutsche in Syrien: Eva Maria Michelmann ist frei, die Fragen bleiben</title>
-      <link>https://www.sueddeutsche.de/politik/syrien-haft-deutsche-freigelassen-eva-maria-michelmann-li.3502761</link>
-      <guid isPermaLink="false">li.3502761</guid>
-      <description><![CDATA[<p>Ende Januar haben syrische Regierungstruppen die Kölnerin im Kurdengebiet Rojava gefangen genommen. Jetzt ist sie zurück. Geklärt ist der Fall für sie und ihre Unterstützer aber nicht.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 12:56:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Krieg in Nahost: Vance: Iran will wieder IAEA-Inspektoren ins Land lassen</title>
-      <link>https://www.sueddeutsche.de/politik/liveblog-nahost-vance-iran-li.3500746</link>
-      <guid isPermaLink="false">li.3500746</guid>
-      <description><![CDATA[<p>Der US-Vizepräsident verkündet einen „wichtigen Meilenstein zur Beendigung des iranischen Atomwaffenprogramms“. In der Schweiz sollen die Gespräche zwischen USA und Iran noch die ganze Woche weitergehen.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 12:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Pistorius in Litauen: Noch fehlen Freiwillige für Brigade</title>
-      <link>https://www.sueddeutsche.de/politik/pistorius-in-litauen-noch-fehlen-freiwillige-fuer-brigade-li.3503069</link>
-      <guid isPermaLink="false">li.3503069</guid>
-      <description />
-      <pubDate>Mon, 22 Jun 2026 12:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Ukraine-Krieg: Tourismusverbot auf der Krim</title>
-      <link>https://www.sueddeutsche.de/politik/ukraine-krieg-tourismusverbot-auf-der-krim-li.3503206</link>
-      <guid isPermaLink="false">li.3503206</guid>
-      <description />
-      <pubDate>Mon, 22 Jun 2026 12:27:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Westjordanland: Israels Armee tötet zwei Palästinenser</title>
-      <link>https://www.sueddeutsche.de/politik/westjordanland-israels-armee-toetet-zwei-palaestinenser-li.3503162</link>
-      <guid isPermaLink="false">li.3503162</guid>
-      <description />
-      <pubDate>Mon, 22 Jun 2026 12:17:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Gedenken an Widerstandskämpfer: Macron nutzt das Panthéon noch einmal für einen politischen Akzent</title>
-      <link>https://www.sueddeutsche.de/politik/frankreich-pantheon-macron-marc-bloch-le-pen-li.3502185</link>
-      <guid isPermaLink="false">li.3502185</guid>
-      <description><![CDATA[<p>Der Historiker und Widerstandskämpfer Marc Bloch kommt in die Ruhmeshalle der Republik – und seine Familie will bei der Zeremonie keine rechtsextremen Politiker sehen. Frankreichs Präsident hat einen Einwand.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 12:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Starmer-Nachfolge: Und der Gewinner ist ...</title>
-      <link>https://www.sueddeutsche.de/politik/keir-starmer-ruecktritt-grossbritannien-premier-regelung-zukunft-li.3502759</link>
-      <guid isPermaLink="false">li.3502759</guid>
-      <description><![CDATA[<p>Andy Burnham, der bisherige Bürgermeister von Manchester, hat beste Chancen, neuer britischer Premier zu werden. Warum kann es bis dahin noch etwas dauern? Antworten auf die wichtigsten Fragen.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 12:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Rüstungsindustrie: Deutschland steigt für viel Geld beim Panzerbauer KNDS ein</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/deutschland-panzerhersteller-knds-beteiligung-boersengang-li.3503140</link>
-      <guid isPermaLink="false">li.3503140</guid>
-      <description><![CDATA[<p>Nach langem Hin und Her gibt es endlich eine Einigung mit der Eigentümerfamilie. Nun soll die Rüstungsfirma schon bald an die Börse gehen – dabei geht es um Milliarden.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 11:44:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Glücksspielsucht: „Es ist, als ob einem der Teufel im Nacken sitzt“</title>
-      <link>https://www.sueddeutsche.de/panorama/gluecksspiel-sucht-junge-maenner-li.3502747</link>
-      <guid isPermaLink="false">li.3502747</guid>
-      <description><![CDATA[<p>Mit 15 Jahren ging Philipp zum ersten Mal in eine Spielhalle. Seitdem verlor er viel Geld in Casinos, machte hohe Schulden und brach schließlich zusammen. Warum entwickeln besonders oft junge Männer eine Glücksspielsucht und was hilft dagegen?</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 11:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Wetter: DWD: Waldbrandgefahr nimmt in kommenden Tagen zu</title>
-      <link>https://www.sueddeutsche.de/panorama/wetter-hitze-deutschland-news-liveblog-gefahr-waldbrand-li.3502376</link>
+      <title>[Panorama] Wetter: Analyse: Klimawandel macht Hitzewelle bis zu 4 Grad heißer</title>
+      <link>https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-analyse-klimawandel-temperaturen-li.3502376</link>
       <guid isPermaLink="false">li.3502376</guid>
-      <description><![CDATA[<p>Besonders im Süden und Osten Deutschlands soll zum Ende der Woche hin die Gefahr von Waldbränden steigen. Die DLRG meldet sechs Badetote seit Freitag.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 11:07:28 GMT</pubDate>
+      <description><![CDATA[<p>Wissenschaftler erkennen in der aktuellen Hitzewelle ein bekanntes Muster – mit einem Unterschied: Die Temperaturen nähern sich dem Limit, an das sich Menschen und Ökosysteme anpassen können.</p>]]></description>
+      <pubDate>Wed, 24 Jun 2026 03:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] USA: US-Richter stoppt ICE-Festnahmen in Einwanderungsgerichten</title>
+      <link>https://www.sueddeutsche.de/politik/usa-news-ice-richter-festnahmen-einwanderungsgerichte-li.3494806</link>
+      <guid isPermaLink="false">li.3494806</guid>
+      <description><![CDATA[<p>Der Beschluss stoppt einen besonders umstrittenen Teil der Abschiebepolitik von US-Präsident Donald Trump. ICE-Beamte hatten im vergangenen Jahr immer wieder Migranten in den Fluren von Gerichtsgebäuden festgenommen.</p>]]></description>
+      <pubDate>Wed, 24 Jun 2026 03:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Panorama] Gastronomie: Michelin-Sterne vergeben: Das sind die Ausgezeichneten</title>
+      <link>https://www.sueddeutsche.de/panorama/michelin-sterne-2026-restaurants-muenchen-the-cloud-frankfurt-li.3499721</link>
+      <guid isPermaLink="false">li.3499721</guid>
+      <description><![CDATA[<p>Frisch eröffnet und schon zwei Sterne: Ein Münchner Koch mischt die Gourmetszene auf und wird gleich doppelt ausgezeichnet.</p>]]></description>
+      <pubDate>Wed, 24 Jun 2026 03:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Panorama] Verkehr: Nach bundesweiter Bahnstörung: Verspätungen und Ausfälle</title>
+      <link>https://www.sueddeutsche.de/panorama/bahn-zugverkehr-stoerung-li.3504078</link>
+      <guid isPermaLink="false">li.3504078</guid>
+      <description><![CDATA[<p>Der Bahnverkehr ist wieder schrittweise angelaufen – Einschränkungen bleiben aber weiter bestehen. Eine Störung des digitalen Bahnfunks hatte den Fern-  und Regionalverkehr sowie die S-Bahnen bundesweit lahmgelegt.</p>]]></description>
+      <pubDate>Wed, 24 Jun 2026 03:14:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] USA: Der US-Kongress protestiert gegen Trumps Iran-Politik</title>
+      <link>https://www.sueddeutsche.de/politik/usa-iran-kongress-resolution-donald-trump-li.3504107</link>
+      <guid isPermaLink="false">li.3504107</guid>
+      <description><![CDATA[<p>Der Senat und das Repräsentantenhaus wollen den Präsidenten daran hindern, seinen Krieg gegen Iran fortzusetzen. Erstmals seit dem Vietnamkrieg findet ein Beschluss dieser Art eine Mehrheit in beiden Kammern.</p>]]></description>
+      <pubDate>Wed, 24 Jun 2026 01:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Terror: Hatte der Attentäter von Solingen ein islamistisches Netzwerk?</title>
+      <link>https://www.sueddeutsche.de/politik/solingen-anschlag-taeter-islamisten-wuest-li.3503845</link>
+      <guid isPermaLink="false">li.3503845</guid>
+      <description><![CDATA[<p>Issa al-H. wurde für den Anschlag vor zwei Jahren mit drei Toten als Einzeltäter verurteilt, aber auch gegen drei seiner Chatpartner laufen Ermittlungen. Jetzt tauchen Hinweise auf mögliche weitere Kontakte zu Islamisten auf.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 19:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Krieg in der Ukraine: „Trick der USA“: Russlands Kritik an Trump wächst</title>
+      <link>https://www.sueddeutsche.de/politik/ukraine-krieg-krim-russland-putin-trump-alaska-kritik-li.3500126</link>
+      <guid isPermaLink="false">li.3500126</guid>
+      <description><![CDATA[<p>Binnen drei Tagen haben drei hochrangige russische Vertreter erklärt, die USA hätten Zusagen nicht eingehalten. Offenbar ist man in Moskau vom Verhalten des US-Präsidenten frustriert.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 18:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Rücktritt von Keir Starmer: Ist Großbritannien unregierbar?</title>
+      <link>https://www.sueddeutsche.de/projekte/artikel/politik/grossbritannien-ruecktritt-premierminister-starmer-e935450/</link>
+      <guid isPermaLink="false">er.e935450</guid>
+      <description><![CDATA[<p>Das Vereinigte Königreich wird nach dem Rücktritt von Keir Starmer den siebten Premierminister in zehn Jahren bekommen. Was ist bloß los in diesem Land?</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 15:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Logistik: DHL verliert Spitzenmanagerin</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/kreis-dhl-vorstand-deutsche-post-meyer-li.3503996</link>
+      <guid isPermaLink="false">li.3503996</guid>
+      <description><![CDATA[<p>Melanie Kreis verlässt den weltweit größten Logistikkonzern im kommenden Jahr. Sie sitzt schon seit zwölf Jahren im Vorstand. Ihr Nachfolger hat ebenfalls viel Erfahrung.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 15:31:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Podcast „Auf den Punkt“: „Flamingo-Revolution“: Stürzt Albaniens Premier über Pläne für ein Luxusresort?</title>
+      <link>https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-albanien-proteste-edi-rama-jared-kushner-li.3503954</link>
+      <guid isPermaLink="false">li.3503954</guid>
+      <description><![CDATA[<p>Seit Wochen gehen in Albanien Menschen auf die Straße. Erst ging es um Umweltschutz, mittlerweile fordern sie den Rücktritt des Premiers Edi Rama. Was sind die Hintergründe?</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 15:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Magazin] Wie viel Wasser sollte man trinken?</title>
+      <link>https://www.sueddeutsche.de/magazin/gruss-aus-der-kueche/wasser-menge-li.3492960</link>
+      <guid isPermaLink="false">li.3492960</guid>
+      <description><![CDATA[<p>Wie viel ist genug und was passiert, wenn ich zu wenig trinke? Eine Expertin klärt auf.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Glosse: Das Streiflicht</title>
+      <link>https://www.sueddeutsche.de/politik/glosse-das-streiflicht-li.3503446</link>
+      <guid isPermaLink="false">li.3503446</guid>
+      <description><![CDATA[<p>Robin Hoods Eiche ist gestorben, und irgendwann werden die Historiker bezweifeln, ob es den Baum überhaupt wirklich gegeben hat, wenn schon der Rächer der Enterbten eine Legende war.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 14:58:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Handelsverband Deutschland: Schaden durch Ladendiebstähle übertrifft erstmals Drei-Milliarden-Marke</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/ladendiebstahl-deutschland-rekordschaden-li.3503975</link>
+      <guid isPermaLink="false">li.3503975</guid>
+      <description><![CDATA[<p>Im vergangenen Jahr wurden rund 380 000 Ladendiebstähle registriert. Die Dunkelziffer soll bei mehr als 98 Prozent liegen.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 14:52:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Mobilität: Warum fahren so wenige Dienstwagen elektrisch?</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/dienstwagen-deutschland-elektroautos-firmenflotten-entwicklung-li.3486985</link>
+      <guid isPermaLink="false">li.3486985</guid>
+      <description><![CDATA[<p>Unternehmen könnten eigentlich die Treiber der E-Mobilität sein. Doch die E-Auto-Zulassungszahlen sehen im Vergleich zu Privatkunden eher mau aus. Dabei gibt es Firmen, die zeigen, wie es klappen kann.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 14:04:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Alterssicherung: Merz und Bas wollen Rentenvorschläge voll umsetzen</title>
+      <link>https://www.sueddeutsche.de/politik/rentenreform-rente-deutschland-vorschlaege-merz-bas-li.3503175</link>
+      <guid isPermaLink="false">li.3503175</guid>
+      <description><![CDATA[<p>Der Kanzler und die Arbeitsministerin legen sich fest: Die Koalition soll die Empfehlungen der Kommission ohne Abstriche ins Gesetzbuch bringen. Bas will dafür „auch persönlich“ einstehen. In der SPD-Fraktion regt sich Widerspruch.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] SZ-Nachhaltigkeitsgipfel: Klimaschutz spaltet die Stahlindustrie</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/jaroni-stahl-ets-emissionshandel-nachhaltigkeitsgipfel-li.3487236</link>
+      <guid isPermaLink="false">li.3487236</guid>
+      <description><![CDATA[<p>Die EU will das mit Abstand wichtigste Klimaschutzgesetz reformieren. Deutschlands größter Stahlkonzern fordert Entlastungen, doch kleinere Rivalen wollen das gar nicht.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 13:57:08 GMT</pubDate>
     </item>
     <item>
       <title>[Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen</title>
       <link>https://www.sueddeutsche.de/projekte/artikel/wetter/hitze-temperatur-deutschland-vergleich-karte-e360874/</link>
       <guid isPermaLink="false">er.e360874</guid>
       <description><![CDATA[<p>Ist es heute wärmer oder kälter als sonst um diese Zeit? Und welche Rolle spielt der Klimawandel? Finden Sie heraus, wie ungewöhnlich die Temperaturen aktuell in Ihrer Region sind.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 09:42:00 GMT</pubDate>
+      <pubDate>Tue, 23 Jun 2026 13:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Panorama] Frankreich: Paris ist schön, aber noch nicht schön genug</title>
-      <link>https://www.sueddeutsche.de/panorama/paris-recht-auf-schoenheit-emmanuel-gregoire-lily-munson-li.3502561</link>
-      <guid isPermaLink="false">li.3502561</guid>
-      <description><![CDATA[<p>Der neue Bürgermeister gibt ein „Recht auf Schönheit“ aus, samt Manifest. Damit kontert er die Nörgler, die die Stadt im Niedergang sehen. Ist das wirklich nötig?</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 09:15:19 GMT</pubDate>
+      <title>[Wirtschaft] Zahlungsverkehr: Mehrheit der EU-Abgeordneten für digitalen Euro</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/euro-europa-abstimmung-europaparlament-li.3503883</link>
+      <guid isPermaLink="false">li.3503883</guid>
+      <description><![CDATA[<p>Derzeit wird der digitale Zahlungsverkehr in Europa von US-Anbietern dominiert – das soll sich ändern. Auf dem Weg zum digitalen Euro wurde nun ein weiterer Schritt getan.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 13:14:38 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Hitzewelle: Muss ich weniger Miete zahlen, wenn es zu heiß wird?</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/miete-hitze-mietminderung-rechtliche-lage-li.3501530</link>
-      <guid isPermaLink="false">li.3501530</guid>
-      <description><![CDATA[<p>Menschen in Dachgeschosswohnungen und mit großen Fenstern haben dieser Tage besonders mit der Hitze zu kämpfen. Immerhin: Einige von ihnen könnten sich Geld zurückholen.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 08:25:29 GMT</pubDate>
+      <title>[Wirtschaft] Spielwarenindustrie: Aus für Playmobil-Produktion in Deutschland</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/playmobil-produktion-deutschland-werk-zirndorf-li.3503871</link>
+      <guid isPermaLink="false">li.3503871</guid>
+      <description><![CDATA[<p>Fast jedes Kind kennt die ewig lächelnden Spielfiguren. Produziert werden diese jetzt nur noch im Ausland. Ein unausweichlicher Schritt, sagt der Hersteller. Trotzdem gibt es Kritik.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 13:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>[Panorama] Infektionskrankheit: Mehr als 1000 Ebola-Fälle in Kongo</title>
-      <link>https://www.sueddeutsche.de/panorama/ebola-kongo-1000-faelle-li.3502756</link>
-      <guid isPermaLink="false">li.3502756</guid>
-      <description><![CDATA[<p>Gesundheitsexperten sind besorgt über die rasante Ausbreitung von Ebola in der Demokratischen Republik Kongo.</p>]]></description>
-      <pubDate>Mon, 22 Jun 2026 08:04:46 GMT</pubDate>
+      <title>[Politik] Neuer Rentenfonds: Wie in Schweden: So soll die Rente der Zukunft funktionieren</title>
+      <link>https://www.sueddeutsche.de/politik/renten-reform-deutschland-vorbild-schweden-li.3503182</link>
+      <guid isPermaLink="false">li.3503182</guid>
+      <description><![CDATA[<p>Der große Wurf der Rentenkommission ist geklaut: Die Deutschen sollen eine Aktienrente wie die Schweden bekommen. Das sind die fünf Rententricks der Skandinavier.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 12:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Russlands Krieg gegen die Ukraine: Wie die Ukraine die Krim von Russland isoliert</title>
+      <link>https://www.sueddeutsche.de/politik/russland-ukraine-krim-isolation-angriffe-ferienlager-li.3503612</link>
+      <guid isPermaLink="false">li.3503612</guid>
+      <description><![CDATA[<p>Brücken, Autobahnen, Fähren – Kiew zerstört Stück für Stück die Verbindungen zur besetzten Halbinsel. Der militärische Nutzen für die Ukraine ist enorm. Der psychologische auch.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 12:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Grünen-Fraktionschefin: Wenn Fakten allein nicht reichen</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/klimapolitik-deutschland-gruene-heizungsgesetz-li.3502054</link>
+      <guid isPermaLink="false">li.3502054</guid>
+      <description><![CDATA[<p>Grünen-Fraktionschefin Katharina Dröge arbeitet den Niedergang der Klima-Euphorie auf – und findet dabei eine Menge Hinweise für die eigene Partei.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 12:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wissen] Psychologie: Politiker trauen ihren Wählern beim Klimaschutz weniger zu als gerechtfertigt</title>
+      <link>https://www.sueddeutsche.de/wissen/deutschland-politiker-zustimmung-klimaschutz-li.3503657</link>
+      <guid isPermaLink="false">li.3503657</guid>
+      <description><![CDATA[<p>Eine aktuelle Studie zeigt: Diese Fehlannahme könnte entscheidende Veränderungen verhindern, obwohl diese längst mehrheitsfähig wären.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 12:40:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Infrastruktur und Umweltschutz: Regierung will mehr Tempo bei Verkehrsprojekten ermöglichen</title>
+      <link>https://www.sueddeutsche.de/politik/infrastruktur-und-umweltschutz-regierung-will-mehr-tempo-bei-verkehrsprojekten-ermoeglichen-li.3503850</link>
+      <guid isPermaLink="false">li.3503850</guid>
+      <description />
+      <pubDate>Tue, 23 Jun 2026 12:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] SZ Nachhaltigkeitsgipfel: „Ich finde es schade, dass Sie leiser geworden sind“</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/diess-industrie-klimaschutz-klimaaktivistin-hinrichs-diskussion-li.3487013</link>
+      <guid isPermaLink="false">li.3487013</guid>
+      <description><![CDATA[<p>Der ehemalige Auto-Boss Herbert Diess und die Aktivistin Carla Hinrichs diskutieren über den richtigen Weg aus der Klimakrise. Die zwei zeigen durchaus überraschende Seiten.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 12:22:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Panorama] Italien: La dolce Vespa</title>
+      <link>https://www.sueddeutsche.de/panorama/vespa-rom-italien-symbol-kino-li.3502753</link>
+      <guid isPermaLink="false">li.3502753</guid>
+      <description><![CDATA[<p>Es gibt kein italienischeres Fahrzeug als den Piaggio-Roller. Und Rom wäre ohne sein Knattern eine andere Stadt. Das Kultgefährt wird 80 Jahre alt und weiterhin von allen geliebt. Na gut: fast von allen.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 12:16:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Auto] Subaru Uncharted: Unterwegs auf Neuland</title>
+      <link>https://www.sueddeutsche.de/auto/subaru-elektro-suv-uncharted-solterra-deutschland-li.3492914</link>
+      <guid isPermaLink="false">li.3492914</guid>
+      <description><![CDATA[<p>Die Marke Subaru steht seit vielen Jahren für robuste Autos mit Allradantrieb. Jetzt haben die Japaner ihr zweites E-Auto herausgebracht – und dem kompakten SUV nicht nur einen ungewöhnlichen Namen gegeben.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 12:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Monopolkomission: „In der Rüstungsindustrie darf es nicht zu einem zweiten Google kommen“</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/bundeswehr-ruestung-wettbewerb-kosten-monopolrisiken-deutschland-rheinmetall-uebernahme-li.3499792</link>
+      <guid isPermaLink="false">li.3499792</guid>
+      <description><![CDATA[<p>Wettbewerbshüter sind  beunruhigt, wie freihändig Deutschland  gerade Milliarden in Rüstung investiert. Drohen gefährliche Abhängigkeiten?</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 11:55:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Panorama] Prozess um mutmaßliche Polizeigewalt: Gefesselt im Rettungswagen, dann blieb der Puls weg</title>
+      <link>https://www.sueddeutsche.de/panorama/ibrahima-barry-polizeieinsatz-fluechtlingsunterkunft-muehlheim-an-der-ruhr-prozess-li.3501629</link>
+      <guid isPermaLink="false">li.3501629</guid>
+      <description><![CDATA[<p>Ibrahima Barry, ein Geflüchteter aus Guinea, randaliert in einer Unterkunft in Mülheim an der Ruhr. Die Polizei kommt. Am Ende ist er tot. Jetzt stehen neun Beamte vor Gericht.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 11:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Sportwagenhersteller: Porsche-Aktionäre rechnen ab: „Ein Scherbenhaufen“</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/porsche-stuttgart-hauptversammlung-kritik-aktionaere-krise-strategie-li.3503782</link>
+      <guid isPermaLink="false">li.3503782</guid>
+      <description><![CDATA[<p>Der Porsche-Führung bläst auf der Hauptversammlung heftiger Gegenwind entgegen. Was die Investoren kritisieren – und wann der neue Porsche-Chef liefern will.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 11:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] US-Notenbank: Greenspans Vermächtnis gilt es zu wahren – mehr denn je</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/alan-greenspan-unabhaengigkeit-us-notenbank-li.3503561</link>
+      <guid isPermaLink="false">li.3503561</guid>
+      <description><![CDATA[<p>Alan Greenspan wird als unabhängiger Fed-Chef in Erinnerung bleiben. Ihm verdankt die US-Notenbank ihren guten Ruf, der auf dem Spiel steht.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 11:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Börse: Die Space-X-Aktie beendet ihren Höhenflug</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/boerse-spacex-kursrueckgang-elon-musk-li.3503663</link>
+      <guid isPermaLink="false">li.3503663</guid>
+      <description><![CDATA[<p>Nach der ersten Euphorie muss das Weltraumunternehmen von Elon Musk nun Kursverluste hinnehmen. Aber teuer ist das Wertpapier noch immer.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 11:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Magazin] »So ein Spiel hätte meinen Schulabschluss gefährdet«</title>
+      <link>https://www.sueddeutsche.de/magazin/psychologie/gaming-eltern-kinder-vertrauen-zocken-fortnite-begleitung-streamer-li.3500319</link>
+      <guid isPermaLink="false">li.3500319</guid>
+      <description><![CDATA[<p>Für Eltern ist die Welt der Computerspiele oft schwer zugänglich: Wie problematisch sind Fortnite, Roblox & Co.? Wie kann man zockende Kinder und Jugendliche gut begleiten? Der Gamer Maxim Markow und der Psychologe Benjamin Strobel darüber, wo Vorsicht geboten ist und wie gemeinsames Spielen auch verbinden kann.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Panorama] Geburten während der WM: Schnell in den Kreißsaal und zurück zur Mannschaft</title>
+      <link>https://www.sueddeutsche.de/panorama/wm-2026-jeremy-doku-geburt-france-pierron-kritik-belgien-li.3503056</link>
+      <guid isPermaLink="false">li.3503056</guid>
+      <description><![CDATA[<p>Der Belgier Jérémy Doku jettet kurz nach London, um bei der Geburt seines Kindes dabei zu sein. Kritiker sagen, er lasse sein Team im Stich.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 09:14:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Energiepreise: „Energie darf keine Frage des Geldbeutels sein“</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/berlin-energiekrise-energiepreise-folgen-expertin-verbraucherschuetzerin-li.3496327</link>
+      <guid isPermaLink="false">li.3496327</guid>
+      <description><![CDATA[<p>Vor allem Haushalte mit wenig Geld treffen Energiekrisen hart. Deutschlands oberste Verbraucherschützerin Ramona Pop verlangt deshalb gezielte Hilfen – und eine rasche Abkehr von fossiler Energie.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 09:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Panorama] USA: Wo ist die Mutter von Moderatorin Savannah Guthrie?</title>
+      <link>https://www.sueddeutsche.de/panorama/savannah-guthrie-nancy-guthrie-entfuehrung-erpresser-tot-li.3503638</link>
+      <guid isPermaLink="false">li.3503638</guid>
+      <description><![CDATA[<p>Seit Monaten ist die Mutter der US-Moderatorin Savannah Guthrie verschwunden. Nun berichten Medien über eine mutmaßliche Nachricht der Entführer.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 08:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Luisa Neubauer: Die flexible Aktivistin</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/luisa-neubauer-klimaaktivistin-deutschland-li.3486975</link>
+      <guid isPermaLink="false">li.3486975</guid>
+      <description><![CDATA[<p>Bohrinseln, Stadtbild, Ulmen-Fernandes: Die wichtigste Umweltaktivistin Deutschlands baut ihren Protest immer weiter aus. Weil Klimaschutz nicht mehr so angesagt ist?</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 08:26:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Statistisches Bundesamt: Jeder Fünfte kann sich keinen Urlaub leisten</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/urlaub-deutschland-fuenfte-reise-li.3503624</link>
+      <guid isPermaLink="false">li.3503624</guid>
+      <description><![CDATA[<p>Eine Woche Erholung am Meer oder in den Bergen? Das ist für viele Menschen hierzulande finanziell nicht drin. Für eine Bevölkerungsgruppe fällt der Urlaub besonders oft aus.</p>]]></description>
+      <pubDate>Tue, 23 Jun 2026 08:09:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
