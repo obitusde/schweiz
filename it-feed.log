@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 24.6.2026, 06:10:28
-Letzter Lauf: 23.6.2026, 12:28:18
+Start: 24.6.2026, 12:28:22
+Letzter Lauf: 24.6.2026, 06:10:28
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,12 +10,23 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Vom Umgang mit Sicherheitslücken im Linux-Kernel'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Reparieren statt wegwerfen: Das neue EU-Recht auf Reparatur'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Modellraketen entwerfen und simulieren mit OpenRocket'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Display-Ratgeber: Die besten Bildschirme für den Mac'
+- Gelöscht wegen Keyword 'podcast': '„Passwort“ Folge 60: Sinn und Unsinn von CVSS, SSVC, EPSS und Co'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | 851 Chefs für ein Netz: Wie Deutschlands Stromsystem die Energiewende ausbremst'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Batterie für das Elektroautos: Welchen Vorteil Feststoffbatterien haben'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Gardena Smart System im Test: Garten automatisch mähen und bewässern'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | heise+ Expertentalk: Balkonkraftwerk – Solarenergie leicht gemacht'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: heise jobs IT Tag Köln 2026: IT-Jobmesse mit Karriereprogramm'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: KI-Sicherheit im Unternehmen: Worauf Mitarbeitende im Alltag achten sollten '
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Im Kampf gegen die Hitzewelle: Dimplex Akkuventilator jetzt nur 130 Euro zum Prime-Day-Bestpreis'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Starkes Multitool jetzt zum Prime-Day-Preis sichern'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Smarter Mini-Beamer mit Akku zum Aktionspreis am Prime Day'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Microsoft Surface Pro 13'' OLED am Prime Day stark reduziert'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 100-Watt-Ladegerät mit vier Ports am Prime Day erstmals nur rund 30 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Externe SSD von SanDisk mit 1 TByte günstig wie seit Monaten nicht am Prime Day'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Wand-Schlauchbox von Gardena mit Zubehör günstig am Prime Day'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Nur solange der Vorrat reicht | PCGH-Testsieger Samsung 9100 Pro im Prime-Day-Angebot'
@@ -24,44 +35,61 @@ Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 27 Zoll großer 2K-Gaming-Monitor mit 200 Hz für unter 130 Euro am Prime Day'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bluetooth-Kopfhörer von Bose am Prime Day stark reduziert'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Dreame L40 Ultra Saugroboter zum Prime Day 200 Euro günstiger'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Samsung-Smartphone zum Prime-Day-Preis sichern'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Prime Day 2026 - das sind die 60 besten Deals bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fahrradcomputer mit GPS am Prime Day zum Tiefpreis bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ninja Luxe Premier Kaffeemaschine mit hohem Prime-Rabatt'
-- Gelöscht wegen Keyword '(g+)': '(g+) GDScript im Praxistest: Warten in der Godot-Engine'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Amazon Echo Show 11 am Prime Day zum Bestpreis von nur noch rund 155 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Begehrtes Samsung Galaxy Tab zum Tiefstpreis am Prime Day'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Star Treks Enterprise-D von Lego am Prime Day stark reduziert'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Einhell Akku-Bohrhammer im starken Prime-Deal nur bis morgen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kindle Paperwhite am Prime Day jetzt zum Tiefstpreis für knapp unter 140 Euro bei Amazon'
 
-KI-Filter (Gemini) - 51 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Deep OS-Internals (Eingriffe in Terminal-Sicherheitsmechanismen)): 'Neuer Terminalschutz: So will Apple ClickFix-Angriffen abwehren'
-- Weiterhin entfernt (Cache, Grund: Deep OS-Internals / Web-Infrastruktur (Sicherheitslücke in Basis-Softwarebibliothek)): 'Pixelsmash: Lücke in FFmpeg-Decoder gefährdet unzählige Systeme'
-- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Ein Artikel zum Ereignis Steam Machine (ID 17) verbleibt im Feed.): 'Valve: Die Steam Machine muss kein Bestseller werden'
-- Weiterhin entfernt (Cache, Grund: Enterprise-IT & Netzwerk-Infrastruktur / Interne PC-Komponenten (HPC-Systeme und Prozessoren)): 'Top500: China stellt mit eigener Hardware den schnellsten Supercomputer'
-- Weiterhin entfernt (Cache, Grund: Apple-Themen: visionOS): 'Vision Pro: Neue visionOS-27-Features teilweise nicht mehr für M2-Modell'
-- Weiterhin entfernt (Cache, Grund: Code-Theorie (Softwarearchitektur für KI)): 'KI-Basis entwickeln: Die Architektur smarter Systeme'
-- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Ein Artikel zum Ereignis Steam Machine (ID 17) verbleibt im Feed.): 'Kommentar: Die Steam Machine ist nur ein weiteres Symptom eines kaputten Marktes'
-- Weiterhin entfernt (Cache, Grund: Deep OS-Internals (Secure-Boot-Zertifikate)): 'Secure-Boot: Zertifikatablauf steht an, Microsoft gibt weitere Hilfestellung'
-- Weiterhin entfernt (Cache, Grund: Web-Infrastruktur (Traffic-Management und Browser-Protokolle)): 'PACT: Cloudflare will mit Browserherstellern böswilligen Traffic aussortieren'
-- Weiterhin entfernt (Cache, Grund: Enterprise-IT & Netzwerk-Infrastruktur (Backup-Lösungen)): 'Veeam will Daten, Identitäten und Risiken zusammenführen'
-- Weiterhin entfernt (Cache, Grund: Nur interne PC-Komponenten (SSD)): 'Optimus: Sinnbild einer Branche in der Krise'
-- Gelöscht (Grund: Duplikat zu Artikel 2 (Bahnverkehr Funkstörung).): 'Kommunikationsstörung: Bahn und Nahverkehr in ganz Deutschland ausgefallen'
-- Gelöscht (Grund: Themenbereich Enterprise-IT & Netzwerk-Infrastruktur (Rechenzentren).): 'Energieeffizienz: Bundesregierung will Vorgaben für Rechenzentren lockern'
-- Gelöscht (Grund: Themenbereich Enterprise-IT & Netzwerk-Infrastruktur (Glasfasernetze).): 'MIH Gruppe: Eurofiber Glasfasernetz in alten Berliner Fernwärmetunneln gerettet'
-- Gelöscht (Grund: Themenbereich Deep OS-Internals (Linux-Support und Kernel-Ankündigung).): 'Qualcomm: Linux-Neustart für Dragonwing-Plattform'
-- Gelöscht (Grund: Duplikat zu Artikel 13 (Digitaler Euro).): 'Alternative zu Visa und Co.: Klare Mehrheit stimmt für Einführung des digitalen Euro'
-- Gelöscht (Grund: Themenbereich Interne PC-Komponenten (Massenspeicher).): 'Samsung produziert ab Jahresende High-End-Speicher UFS 5.0'
-- Gelöscht (Grund: Themenbereich Interne PC-Komponenten (Speicher/HBM4).): 'Jedec: SPHBM4 bringt Stapelspeicher in günstigere Packages'
-- Gelöscht (Grund: Themenbereich Enterprise-IT & Netzwerk-Infrastruktur (IT-Infrastruktur für Unternehmen).): 'HPE: AI-Factory als Turnkey-System'
-- Gelöscht (Grund: Duplikat zu Artikel 16 (vzbv-Untersuchung von Social-Media-Anbietern).): 'Pflichten nicht erfüllt: Schwere Vorwürfe gegen Instagram, Tiktok, Youtube und Co.'
-- Gelöscht (Grund: Ausschlusskriterium Apple-Themen (iOS und iPhone).): 'Erweiterter Wiederherstellungsmodus dank iOS 27 bald auf dem iPhone'
-- Gelöscht (Grund: Themenbereich Enterprise-IT (Unternehmenssoftware).): 'Testlauf: Wie SAP mit KI-Agenten eine Firma führen will'
-- Gelöscht (Grund: Themenbereich Interne PC-Komponenten (CPU).): 'AMD: Heftige Kritik bringt Verschlüsselung in Ryzen-CPUs zurück'
-- Gelöscht (Grund: Themenbereich Enterprise-IT & Netzwerk-Infrastruktur (Großrechner-Infrastruktur).): 'Top500-Liste: Chinesischer Supercomputer düpiert die USA'
+KI-Filter (Gemini) - 43 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 2 (Bahnverkehr Funkstörung).): 'Kommunikationsstörung: Bahn und Nahverkehr in ganz Deutschland ausgefallen'
+- Weiterhin entfernt (Cache, Grund: Themenbereich Enterprise-IT & Netzwerk-Infrastruktur (Rechenzentren).): 'Energieeffizienz: Bundesregierung will Vorgaben für Rechenzentren lockern'
+- Weiterhin entfernt (Cache, Grund: Themenbereich Enterprise-IT & Netzwerk-Infrastruktur (Glasfasernetze).): 'MIH Gruppe: Eurofiber Glasfasernetz in alten Berliner Fernwärmetunneln gerettet'
+- Weiterhin entfernt (Cache, Grund: Themenbereich Deep OS-Internals (Linux-Support und Kernel-Ankündigung).): 'Qualcomm: Linux-Neustart für Dragonwing-Plattform'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 13 (Digitaler Euro).): 'Alternative zu Visa und Co.: Klare Mehrheit stimmt für Einführung des digitalen Euro'
+- Weiterhin entfernt (Cache, Grund: Themenbereich Interne PC-Komponenten (Massenspeicher).): 'Samsung produziert ab Jahresende High-End-Speicher UFS 5.0'
+- Weiterhin entfernt (Cache, Grund: Themenbereich Enterprise-IT & Netzwerk-Infrastruktur (IT-Infrastruktur für Unternehmen).): 'HPE: AI-Factory als Turnkey-System'
+- Weiterhin entfernt (Cache, Grund: Ausschlusskriterium Apple-Themen (iOS und iPhone).): 'Erweiterter Wiederherstellungsmodus dank iOS 27 bald auf dem iPhone'
+- Gelöscht (Grund: Fällt unter das harte Ausschlusskriterium iPhone.): 'iPhone Ultra: Apple startet Produktion des faltbaren iPhones'
+- Gelöscht (Grund: Fällt unter belangloses Apple-Rauschen und Hardware-Spekulationen.): 'Neue Hardware: Diese Produkte stehen bei Apple in diesem Jahr noch aus'
+- Gelöscht (Grund: Fällt unter die Ausschlusskriterien Apple-Updates und iOS.): 'Zweite Entwicklerbeta von iOS 27 und macOS 27: Das ist neu'
+- Gelöscht (Grund: Fällt unter Web-Infrastruktur (Vite).): 'Webentwicklung: Vite 8.1 soll große Anwendungen beschleunigen'
+- Gelöscht (Grund: Behandelt Netzwerk-Infrastruktur (GSM-R).): 'GSM-R: Fehlerhaftes Update hat wohl den Bahnfunk lahmgelegt'
+- Gelöscht (Grund: Duplikat zu Artikel ID 38 (selbes Spiel-Release).): '„Unhinged“: Horror-Spiel von Netflix lässt das echte Handy klingeln'
+- Gelöscht (Grund: Fällt unter das harte Ausschlusskriterium Saugroboter.): 'Nur Legospielen kann er nicht: Der Mova V70 Ultra überzeugt im Test'
+- Gelöscht (Grund: Duplikat zum Bahnthema (ID 28) und enthält Netzwerk-Infrastruktur (Rechenzentren).): 'Mittwoch: Funkstörung legte Bahnverkehr lahm, Meta pausiert Mitarbeiter-Tracking'
 
 Finale Liste (live im XML-Feed):
+- [Golem] EU-Vorhaben: Autohersteller warnen vor steigenden Kosten ohne US-Technologie
+- [Heise] GameStop-CEO verzichtet auf Bonuszahlung
+- [Golem] Typische Steuerirrtümer: Die Steuererklärung lohnt sich nicht? Stimmt nicht!
+- [Heise] Max-Planck-Forscher stellen Nanodiamanten aus Graphen her
+- [Heise] Windows Update: Vorschau macht Rechtsklick-Bereich auf Touchpads einstellbar
+- [Golem] World of Claudecraft: KI programmiert funktionierendes MMORPG für 200 Dollar
+- [Golem] Hitzewelle: Rekordwert für Börsenstrompreis erwartet
+- [Golem] Hitzewelle: Portasplit-Klimageräte in Deutschland nahezu vergriffen
+- [Heise] Claude mischt sich ein: Der neue proaktive KI-Kollege für Slack
+- [Golem] Meta Glasses: KI-Brille bekommt neue Designeroptik und wird günstiger
+- [Golem] Sicherheitslücke: Millionen von Samsung-Smartphones durch Kernel-Bug gefährdet
+- [Heise] BSI warnt vor Auswirkungen von KI auf Cybersicherheit
+- [Heise] Lange Vorgeschichte: Wikipedia-Mitgründer auf der Online-Enzyklopädie gesperrt
+- [Heise] Softwarebranche muss Geschäftsmodelle umbauen
+- [Golem] Deutsche Tochterfirma: Waymo landet in München
+- [Golem] Peaq: Skodas größtes E-Auto ist bestellbar
+- [Heise] Warum das Healthtech-Unternehmen Heidi auf den deutschen Markt setzt
+- [Golem] Elektroauto: Hyundais sportliche Stromer sollen Auspuffknallen bekommen
+- [Golem] Aktienkurs: SpaceX verliert 22 Prozent Marktwert in wenigen Tagen
+- [Heise] Thunderbird: Webmail-Alpha kommt im nächsten Monat
+- [Heise] Home Assistant: Update stopft Informationsleck
+- [Golem] Robotertraining: Gratis-Reinigung gegen private Wohnungsdaten
+- [Heise] Ergebnis ohne Erkenntnis: Was uns AlphaGo über GenAI lehrt
+- [Heise] Bahnverkehr normalisiert sich nach bundesweitem IT-Ausfall
+- [Golem] Cyberangriff auf Klue: Hacker erbeutet Daten von Lastpass-Nutzern
+- [Heise] Google investiert 75 Millionen US-Dollar in Filmstudio A24
+- [Heise] Spuren von Cyberangriffen führen oft nach Russland
+- [Heise] Freelancer kämpfen mit Projektakquise und Preisdruck
+- [Heise] „Rogue Trader“: Owlcat zieht ungeliebten Launcher nach 19 Stunden zurück
+- [Heise] Aktuelle Hitzewelle in Westeuropa wegen Klimawandel um bis zu 4 Grad heißer
+- [Golem] In eigener Sache: Lies unsere E-Paper-Dossiers einen Monat lang zum Spezialpreis!
+- [Golem] Horror: Netflix-Spiel ruft auf dem echten Smartphone an
+- [Golem] Bargeldlos zahlen: Diese neuen Funktionen erhält die Girocard alias EC-Karte
+- [Heise] Ausgehend von Südkorea: Tech- und IT-Aktien teils deutlich gefallen
+- [Heise] Kommentar zur Fußball-WM: Keine Fernseh-Millionen für Krümelfußball
 - [Heise] Meta setzt das Mitarbeiter-Tracking für KI-Training nach möglichem Datenleck aus
 - [Digitec] Ein Heisser Jupiter auf extrem elliptischer Bahn
 - [Heise] Bahnverkehr wegen Funkstörung deutschlandweit eingestellt; UPDATE: Läuft wieder
@@ -87,34 +115,12 @@ Finale Liste (live im XML-Feed):
 - [Heise] Allcodube iPlay 70 Max Pro im Test: 13-Zoll-Tablet mit LTE für nur 210 Euro
 - [Heise] Porsche-Aktionäre rechnen ab: „Ein Scherbenhaufen“
 - [Heise] Fokus auf Nacktheit viel zu eng: Neue Regeln für Weitergabe von Fotos gefordert
-- [Golem] Raumfahrtgeschichte und Zukunft: Ende der Spaceshuttle-Ära und Platz für SpaceX
 - [Heise] Gesetz für schnellere Verkehrsprojekte beschlossen
 - [Heise] BenQ Creative Pro PV3250U: Kontraststarker Profi-Monitor mit hoher Farbtreue
 - [Heise] Der Fehmarnbelt-Tunnel ist hinter dem Plan – Klarheit im Herbst
-- [Golem] KI für Werbetreibende: OpenAI strebt 100 Milliarden US-Dollar Werbeumsatz an
 - [Digitec] Weltrekord in «Super Mario Bros.» – der perfekte Run ist nur noch 100 Millisekunden entfernt
 - [Heise] GPT-5.5-Cyber schlägt Mythos: Update für Sicherheitsmodell von OpenAI
-- [Golem] Claude Mythos und Co.: BSI warnt vor wachsender Cyberbedrohung durch KI
-- [Golem] Congratulations: Steam-Spiel bietet 10 Minuten Umfang für 1.000 US-Dollar
 - [Heise] Intersolar-Start mit gemischten Signalen: PV-Branche zwischen Boom und Bremse
 - [Heise] 3I/ATLAS: Interstellarer Komet ist wohl sogar 10 bis 12 Milliarden Jahre alt
 - [Heise] Counterpoint: Apple dominiert weiterhin den Smartwatch-Markt
 - [Heise] Hitzewelle in Deutschland: Beliebtes Klimagerät „Portasplit“ wird zur Mangelware
-- [Golem] Netzwerk-Meister: Der lange Arm des Peter Thiel
-- [Golem] KI in Filmbranche: Filmstudio A24 wird mit Google Deepmind zusammenarbeiten
-- [Heise] Honor X80 Pro Max könnte bis zu drei Tage Laufzeit haben
-- [Heise] Teams: Microsoft verpasst Benachrichtigungen einen Feinschliff
-- [Heise] Wirtschaftsweiser: Warum hohe Spritpreise gut für Deutschland sein können
-- [Golem] Tony Krueger: Erfinder der Fehler-Unterkringelung in Word gestorben
-- [Digitec] Top 10: Die Android-Smartphones mit der längsten Akkulaufzeit
-- [Heise] SpaceX-Testmission: Starfall soll einmal Nutzlast überall auf die Erde bringen
-- [Heise] Reflection AI schließt Milliarden-Deal mit SpaceX über Rechenkapazität
-- [Heise] Trump ordnet schnellere Entwicklung von Quantencomputern an
-- [Digitec] Für 1039 Euro bekommst du eine Steam Machine mit der Leistung einer PS5
-- [Heise] Forscher messen unerwartet viel CO2 in den Organismen im Meeresboden
-- [Heise] Tado ergänzt Smart-Home-App um Lademanagement für E-Autos von 15 Marken
-- [Heise] Patientenvertreterin: „Wir haben bei der Digitalisierung den Überblick verloren“
-- [Heise] E-Bike-Boom in Deutschland flaut ab – Preise fallen
-- [Heise] EU-Automarkt wächst weiter – Chinesen legen weiter zu
-- [Heise] Prime Day 2026: Die besten Deals im Check
-- [Heise] Dienstag: Microsoft bestellt Gaskraftwerk, Grüne revoltieren gegen Palantir
