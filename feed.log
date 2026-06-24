@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 24.6.2026, 06:30:35
-Letzter Lauf: 23.6.2026, 12:58:39
+Start: 24.6.2026, 12:58:39
+Letzter Lauf: 24.6.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,28 +17,47 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 38 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Vermisstenanzeige) außerhalb des Kantons Waadt (Genf).): 'Avez-vous vu cet homme?'
-- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb des Kantons Waadt (Freiburg).): 'Sept scooters dérobés: le voleur serait un ado 15 ans'
-- Gelöscht (Grund: Betrifft politische Wahlen außerhalb von Waadt und Genf.): 'Regierungsratswahlen Zürich – FDP Zürich nominiert Andri Silberschmidt und Martin Huber'
-- Gelöscht (Grund: Kriminalität/Gerichtsfall in der Schweiz außerhalb von Vaud.): 'Strafgericht Baselland – Amtsmissbrauch: Freispruch für Migrationsbeamtin'
-- Gelöscht (Grund: Blaulicht-Meldung/Kriminalität in der Schweiz außerhalb von Vaud.): 'Aargauer Tierschutzfall – Schlecht gehaltene Tiere in Schopf – 59 Hühner eingeschläfert'
-- Gelöscht (Grund: Unfallmeldung in der Schweiz außerhalb von Vaud (Kanton Freiburg).): 'Deux cyclistes blessées dans deux accidents à Guin'
-- Gelöscht (Grund: Kriminalität/Gerichtsfall in der Schweiz (Schaffhausen) außerhalb von Vaud.): 'Umstrittene Suizidkapsel – Gericht erlaubt Entsiegelung im Sarco-Fall trotz Anwaltsgeheimnis'
-- Gelöscht (Grund: Brandgefahr/Blaulicht-Meldung in der Schweiz außerhalb von Vaud (Kanton Wallis).): 'Risque de feu de forêt: le Valais tire la sonnette d'alarme'
+KI-Filter (Gemini) - 22 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Betrifft politische Wahlen außerhalb von Waadt und Genf.): 'Regierungsratswahlen Zürich – FDP Zürich nominiert Martin Huber und Andri Silberschmidt'
+- Weiterhin entfernt (Cache, Grund: Kriminalität/Gerichtsfall in der Schweiz außerhalb von Vaud.): 'Strafgericht Baselland – Amtsmissbrauch: Freispruch für Migrationsbeamtin'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Kriminalität in der Schweiz außerhalb von Vaud.): 'Aargauer Tierschutzfall – Schlecht gehaltene Tiere in Schopf – 59 Hühner eingeschläfert'
+- Weiterhin entfernt (Cache, Grund: Unfallmeldung in der Schweiz außerhalb von Vaud (Kanton Freiburg).): 'Deux cyclistes blessées dans deux accidents à Guin'
+- Weiterhin entfernt (Cache, Grund: Kriminalität/Gerichtsfall in der Schweiz (Schaffhausen) außerhalb von Vaud.): 'Umstrittene Suizidkapsel – Gericht erlaubt Entsiegelung im Sarco-Fall trotz Anwaltsgeheimnis'
+- Weiterhin entfernt (Cache, Grund: Brandgefahr/Blaulicht-Meldung in der Schweiz außerhalb von Vaud (Kanton Wallis).): 'Risque de feu de forêt: le Valais tire la sonnette d'alarme'
+- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Bern)): 'Mädchen-Mord im Könizbergwald – Bundesgericht bestätigt Urteil gegen Mutter – 18 Jahre Haft'
+- Gelöscht (Grund: Blaulicht-Meldung außerhalb der Waadt (Jura)): 'Une soirée «GHB» et un shot sexiste créent un tollé dans le Jura'
 
 Finale Liste (live im XML-Feed):
+- [Journal de Morges] Aubonne übt (erneut) sein Vorkaufsrecht aus, um ein Gebäude zu kaufen
+- [20 Min Romandie] Sie erhält Rechnungen auf den Namen ihres vor acht Jahren verstorbenen Mannes
+- [20 Min Romandie] Kleines Mädchen nach Kollision schwer verletzt
+- [20 Min Romandie] Billie Joy: «Mein Vater rettete sich, indem er meine Mutter ermordete»
+- [20 Min Romandie] Fünf Gemeinden wehren sich gegen die Stationierung der F-35 in Payerne
+- [SRF Wissen] Sommerzeit ist Gewitterzeit – Blitzeinschlag: Das sind die Gefahren und so schützen Sie sich
+- [20 Min Romandie] Ein winziges Insekt kostet das Naturhistorische Museum 30 Millionen
+- [20 Min Romandie] Fünf Jahre Gefängnis für Gynäkologen wegen sexueller Übergriffe
+- [SRF Schweiz] Hitzewelle und Trockenheit – Wärme macht der Bahn-Infrastruktur zu schaffen
+- [SRF Schweiz] Bewältigung von Notlagen – Fusion Zivilschutz und -dienst: Bundesrat plant Sicherheitsdienst
+- [SRF Ausland] Altersvorsorge – Geht es in Deutschland nun vorwärts bei der Rentenreform?
+- [20 Min Romandie] Bei grosser Hitze können diese Medikamente gefährlich sein
+- [SRF Schweiz] Schweizer Mietrecht – Mieter gegen Vermieter: Ein Streit mit Geschichte
+- [SRF Ausland] Präsidentschaftswahlen in Peru – Das knappe Ergebnis macht den Job für Fujimori nicht einfacher
+- [20 Min Romandie] 19-Jährige stirbt nach Sturz vor einem anderen Motorradfahrer
+- [SRF Schweiz] Etikettenschwindel – Fleischbeschiss beim Grosshändler
+- [Morges Actualitiés] Der Hydriscore steigt auf Stufe 3
+- [20 Min Romandie] In der Hitze (und einer 30 kg schweren Rüstung) legte er 250 km zurück
+- [SRF Ausland] Krieg im Iran – Senat stimmt für Ende der Angriffe: Was heisst das für Trump?
+- [SRF Ausland] Hilfswerk Ärzte ohne Grenzen – Zuerst Sex, dann Hilfe – interner Bericht zeigt Missbrauchsfälle
 - [SRF Schweiz] Im Ausland versteckt – Von Mami oder Papi entführt: Der Staat schaut zu
-- [SRF Schweiz] Nicht alles nur Krise – Trotz Herausforderungen: Jugendliche sehen's mehrheitlich positiv
-- [SRF Schweiz] Tipps für die Sommerferien – So kann das EDA bei einem Notfall im Ausland helfen
+- [SRF Schweiz] Nicht alles nur Krise – Prüfung bestanden, erste Liebe – was Jugendliche am meisten prägt
+- [SRF Schweiz] Tipps für die Sommerferien – Was tun bei einem Notfall in den Ferien? So hilft das EDA
 - [SRF Ausland] Störung bei Deutscher Bahn – Landesweiter Ausfall bei der Deutschen Bahn – Züge rollen wieder
-- [SRF Schweiz] Hitzewelle und Trockenheit – Am heissesten war es in Genf und Basel
 - [Journal de Morges] Lokale Produkte im Schloss L’Isle im Rampenlicht
 - [SRF Wirtschaft] Lohnpakete der CEOs – Mehr als 10 Mio.: Die 8 absoluten Spitzenverdiener der Schweiz
 - [SRF Schweiz] Bruch zwischen Lega und SVP – Tessiner Rechtsparteien gehen getrennte Wege
 - [SRF Ausland] Zehn Jahre, sechs Rücktritte – An der Downing Street überlebt nur einer: Larry, der Kater
 - [20 Min Romandie] Deutschschweizer SVP-Politiker beklagt politisches «Diktat» der Westschweizer
-- [SRF Schweiz] BAG-Gesundheitsbericht – Schweizer Mädchen geht es schlechter
+- [SRF Wissen] BAG-Gesundheitsbericht – Schweizer Mädchen geht es schlechter
 - [20 Min Romandie] Dating-Portal-Räuber zu 9 Jahren Haft verurteilt
 - [20 Min Romandie] Eidgenössisches Schwingfest 2031: Nicht in Plainpalais
 - [SRF Ausland] Mord an Mädchen in Frankreich – Bericht: Serie von «Fehlern und Nachlässigkeiten» im Fall Lyhanna
@@ -60,16 +79,3 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Bundesgericht entzieht der Genfer Staatsanwaltschaft ein Dossier
 - [SRF Gesellschaft] Afrikanische Visionärin – Diese «Schwarze Feministin» will die Gesellschaft wachrütteln
 - [SRF Schweiz] Bald vor Bundesgericht – Wer zahlt fürs Spermien-Einfrieren bei trans Menschen?
-- [SRF Schweiz] Genügend Unterschriften – Mieterverband reicht Mietpreis-Initiative ein
-- [20 Min Romandie] SBB starten Bau einer dritten Spur bei Morges
-- [RTS Vaud] Bestätigte Krätze-Fälle im Kanton Waadt sind letztlich selten
-- [SRF Wirtschaft] Kühles für den Mund – Glaceverkäufe steigen bei Hitze – drei Sorten schwingen oben aus
-- [SRF Schweiz] Schlau und schnell – Greifvögel: 8 Fakten über die Könige der Lüfte
-- [SRF Ausland] Ex-Trump-Unterstützer – Tucker Carlson bricht mit der Republikanischen Partei
-- [20 Min Romandie] Mehrere Tramlinien während des Sommers unterbrochen
-- [SRF Schweiz] Sicherheit im Wasser – Ertrinken verhindern – mit Schwimmbojen oben bleiben
-- [SRF Wissen] Automatische Rasenmäher – Mähroboter sind eine Gefahr für Igel
-- [SRF Gesellschaft] Entdeckung auf dem Estrich – «Vier Seiten Leben»: Die verheimlichte Tante in der Psychiatrie
-- [SRF Schweiz] Soziologieprofessorin – Soziologin Katja Rost im Alter von 50 Jahren verstorben
-- [SRF Wissen] Blütenpollen in Seesedimenten – Bern älter als gedacht: Pollenanalyse widerlegt Gründungsmythos
-- [Journal de Morges] «Wir bilden ein eingespieltes Team»
