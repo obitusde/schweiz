@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 24.6.2026, 06:24:58
-Letzter Lauf: 23.6.2026, 06:24:58
+Start: 25.6.2026, 06:24:57
+Letzter Lauf: 24.6.2026, 06:24:58
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -13,52 +13,56 @@ Abruf der RSS-Feeds:
 
 Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
-- Gelöscht wegen Keyword 'leute:': 'Leute: „Jetzt will ich nicht mehr nackt sein“'
-- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 23. Juni 2026'
+- Gelöscht wegen Keyword 'leute:': 'Leute: Harry und Meghan wollen bei König Charles unterkommen'
+- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 24. Juni 2026'
+- Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Bundesweite Störung: Die Bahn hat besonnen reagiert'
 
-KI-Filter (Gemini) - 43 neue Artikel geprüft:
-- Gelöscht (Grund: Unfall ohne längerfristige Relevanz): [Panorama] 'A 31: Zwei Menschen sterben bei Unfall auf Autobahn im Emsland'
-- Gelöscht (Grund: Duplikat zu Artikel id:0, dieser ist informativer): [Wissen] 'Hitzewelle: Ist das ein normaler Sommer – oder der Klimawandel?'
-- Gelöscht (Grund: Duplikat zu Artikel id:10, dieser ist informativer): [Politik] 'Albanien: Der Premier und das Luxusresort im Naturschutzgebiet'
-- Gelöscht (Grund: Duplikat zu Artikel id:8, dieser ist informativer): [Politik] 'Großbritannien: Äußerlich unerfahren'
-- Gelöscht (Grund: Duplikat zu Artikel id:4, dieser ist informativer): [Politik] 'Krieg in Nahost: Dämpfer für Trump: US-Senat stimmt für Ende der Angriffe auf Iran'
+KI-Filter (Gemini) - 46 neue Artikel geprüft:
+- Gelöscht (Grund: Betrifft deutsche Parteipolitik/Parteipolitische Interna.): [Politik] 'Rechtsextremismus: Hitlergruß-Vorwurf gegen AfD-Politiker Reichardt'
+- Gelöscht (Grund: Betrifft deutsche Kommunalpolitik.): [Wirtschaft] 'Stadtpolitik: Wie läuft’s mit dem grünen Umbau Münchens, Herr Krause?'
+- Gelöscht (Grund: Duplikat zu ID 19 (behandeln dasselbe Thema: Stopp des Fregattenprogramms).): [Politik] 'Bundeswehr: Ende für das größte Rüstungsprojekt der Marine'
+- Gelöscht (Grund: Betrifft deutsche Kommunalpolitik/lokale Verordnungen.): [Auto] 'Scan-Autos: Verschärfte Jagd auf Falschparker'
+- Gelöscht (Grund: Duplikat zu ID 40 (behandeln den Vorfall der Bahnstörung).): [Wirtschaft] 'Deutsche Bahn: Und plötzlich steht alles still'
+- Gelöscht (Grund: Betrifft deutsche Parteipolitik.): [Wirtschaft] 'SZ Nachhaltigkeitsgipfel: Hubert Aiwanger nimmt es mit dem Klimawandel nicht so genau'
 
 Finale Liste (live im XML-Feed):
-- [Panorama] Wetter: Analyse: Klimawandel macht Hitzewelle bis zu 4 Grad heißer
-- [Politik] USA: US-Richter stoppt ICE-Festnahmen in Einwanderungsgerichten
-- [Panorama] Gastronomie: Michelin-Sterne vergeben: Das sind die Ausgezeichneten
-- [Panorama] Verkehr: Nach bundesweiter Bahnstörung: Verspätungen und Ausfälle
-- [Politik] USA: Der US-Kongress protestiert gegen Trumps Iran-Politik
-- [Politik] Terror: Hatte der Attentäter von Solingen ein islamistisches Netzwerk?
-- [Politik] Krieg in der Ukraine: „Trick der USA“: Russlands Kritik an Trump wächst
-- [Politik] Rücktritt von Keir Starmer: Ist Großbritannien unregierbar?
-- [Wirtschaft] Logistik: DHL verliert Spitzenmanagerin
-- [Politik] Podcast „Auf den Punkt“: „Flamingo-Revolution“: Stürzt Albaniens Premier über Pläne für ein Luxusresort?
-- [Magazin] Wie viel Wasser sollte man trinken?
+- [Politik] NSDAP-Mitgliederkartei: Geschichte(n) schreiben: Lassen Sie uns zusammenarbeiten
+- [Politik] NSDAP-Mitgliederkartei: Wer war in der Nazi-Partei?
+- [Panorama] Viele Tote befürchtet: Zwei Erdbeben erschüttern Venezuela – Notstand ausgerufen
+- [Politik] USA: Trump eröffnet US-Jubiläumsfeiern mit Selbstlob
+- [Politik] E5-Treffen in Berlin: Wie fünf Europäer die Nato retten wollen
+- [Wissen] Psychologie und Popmusik: Ich, ich, ich: Popsongs sind in den vergangenen 50 Jahren immer selbstbezogener geworden
+- [Politik] NSDAP-Mitgliederkartei: Wie man Parteimitglied wurde
+- [Politik] NSDAP-Mitgliederkartei: Warum wir uns der Auswertung der NSDAP-Akten widmen
+- [Wirtschaft] René Benko: Der Trick mit dem Staubsauger
+- [Politik] Werkstattbericht: Wie wir die NSDAP-Akten ausgewertet haben
 - [Politik] Glosse: Das Streiflicht
-- [Wirtschaft] Handelsverband Deutschland: Schaden durch Ladendiebstähle übertrifft erstmals Drei-Milliarden-Marke
-- [Wirtschaft] Mobilität: Warum fahren so wenige Dienstwagen elektrisch?
-- [Politik] Alterssicherung: Merz und Bas wollen Rentenvorschläge voll umsetzen
-- [Wirtschaft] SZ-Nachhaltigkeitsgipfel: Klimaschutz spaltet die Stahlindustrie
+- [Wissen] Biologie: Wie man Motten loswird
+- [Magazin] Wie essen, um mit allen Mikronährstoffen versorgt zu sein?
+- [Magazin] Die Forelle auf der Erbse
+- [Politik] Jugendschutz: Prien: Social Media erst ab 13 Jahren
+- [Wirtschaft] SK Hynix: Südkoreanischer Chiphersteller gehört zu den größten Profiteuren des KI-Booms
+- [Wirtschaft] Patente: Wie Deutschland sein Wissen nach China verkauft
+- [Wirtschaft] Rüstung: Rekord-Kurssturz bei Rheinmetall
+- [Wirtschaft] Russland: Razzien rund um Ex-Gazprom-Tochter wegen Sabotageverdachts
+- [Politik] NSDAP-Mitgliederkartei: Wie man die NSDAP-Karteikarten richtig liest
+- [Politik] Russland: „Sie übertragen ihren Selbsthass auf den Westen“
+- [Politik] Libanon: Die Beschützerin der Schildkröten stirbt nach israelischem Luftangriff
+- [Panorama] Baden-Württemberg: Polizei ermittelt gegen Mutter des gefundenen toten Babys
+- [Wirtschaft] Artenvielfalt: Lass wachsen!
+- [Leben] Klimaanlagen: Schwitz, lass nach
+- [Wissen] Frankreich: Erster Ebola-Fall in Europa seit Beginn des aktuellen Ausbruchs
+- [Wirtschaft] Geld: Welche Folgen haben die höheren Leitzinsen für Verbraucher?
+- [Leben] Kolumne „Liebes Paar“: Darf ich mich neu verlieben?
+- [Leben] Berlin: Der Mann, der dem Bundespräsidenten aufs Dach stieg
+- [Leben] Historie: Das Verbrechen im Wald nebenan
+- [Wirtschaft] Panzerbauer KNDS: Der große staatliche Einfluss wird Investoren abschrecken
+- [Panorama] Prozess in Zweibrücken: Er wollte bloß Tickets kontrollieren, dann wird er totgeprügelt
+- [Panorama] SZ-Podcast „Das Thema“: Der TÜV und die Toten
+- [Wirtschaft] Infineon-Chef Hanebeck: „Du musst unter den richtigen Apfelbäumen stehen“
+- [Leben] Kolumne „Schon schön“: Schützenfest mit Bad Bunny
+- [Wirtschaft] Commerzbank/Unicredit: Plan B für die Commerzbank
+- [Panorama] Verkehr: Bahnstörung in Deutschland: Die wichtigsten Fragen und Antworten
+- [Wirtschaft] EU-Digitalkommissarin Henna Virkkunen: „Souveränität heißt nicht Protektionismus“
 - [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
-- [Wirtschaft] Zahlungsverkehr: Mehrheit der EU-Abgeordneten für digitalen Euro
-- [Wirtschaft] Spielwarenindustrie: Aus für Playmobil-Produktion in Deutschland
-- [Politik] Neuer Rentenfonds: Wie in Schweden: So soll die Rente der Zukunft funktionieren
-- [Politik] Russlands Krieg gegen die Ukraine: Wie die Ukraine die Krim von Russland isoliert
-- [Wirtschaft] Grünen-Fraktionschefin: Wenn Fakten allein nicht reichen
-- [Wissen] Psychologie: Politiker trauen ihren Wählern beim Klimaschutz weniger zu als gerechtfertigt
-- [Politik] Infrastruktur und Umweltschutz: Regierung will mehr Tempo bei Verkehrsprojekten ermöglichen
-- [Wirtschaft] SZ Nachhaltigkeitsgipfel: „Ich finde es schade, dass Sie leiser geworden sind“
-- [Panorama] Italien: La dolce Vespa
-- [Auto] Subaru Uncharted: Unterwegs auf Neuland
-- [Wirtschaft] Monopolkomission: „In der Rüstungsindustrie darf es nicht zu einem zweiten Google kommen“
-- [Panorama] Prozess um mutmaßliche Polizeigewalt: Gefesselt im Rettungswagen, dann blieb der Puls weg
-- [Wirtschaft] Sportwagenhersteller: Porsche-Aktionäre rechnen ab: „Ein Scherbenhaufen“
-- [Wirtschaft] US-Notenbank: Greenspans Vermächtnis gilt es zu wahren – mehr denn je
-- [Wirtschaft] Börse: Die Space-X-Aktie beendet ihren Höhenflug
-- [Magazin] »So ein Spiel hätte meinen Schulabschluss gefährdet«
-- [Panorama] Geburten während der WM: Schnell in den Kreißsaal und zurück zur Mannschaft
-- [Wirtschaft] Energiepreise: „Energie darf keine Frage des Geldbeutels sein“
-- [Panorama] USA: Wo ist die Mutter von Moderatorin Savannah Guthrie?
-- [Wirtschaft] Luisa Neubauer: Die flexible Aktivistin
-- [Wirtschaft] Statistisches Bundesamt: Jeder Fünfte kann sich keinen Urlaub leisten
+- [Leben] NSDAP-Mitgliederkartei: „Die besten Nationalsozialisten“
