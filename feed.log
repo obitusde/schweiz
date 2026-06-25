@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 25.6.2026, 06:30:37
-Letzter Lauf: 24.6.2026, 12:58:39
+Start: 25.6.2026, 12:58:40
+Letzter Lauf: 25.6.2026, 06:30:37
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,28 +17,41 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'wölfe': 'Revision Jagdgesetz – Regeln für den Abschuss von Wölfen sollen gelockert werden'
 
-KI-Filter (Gemini) - 41 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung außerhalb der Waadt (Jura)): 'Une soirée «GHB» et un shot sexiste créent un tollé dans le Jura'
-- Gelöscht (Grund: Kriminalität/Missbrauchsmeldung ausserhalb des Kantons Waadt (Bern/Winterthur).): 'Männer in der Kinderbetreuung – Kita-Betreuer: «Mein Dasein als Mann macht mich nicht zum Täter»'
-- Gelöscht (Grund: Kriminalität ausserhalb des Kantons Waadt (Bern).): 'Mädchen-Mord im Könizbergwald – Bundesgericht bestätigt Urteil gegen Mutter – 18 Jahre Haft'
-- Gelöscht (Grund: Duplikat zu Artikel 8 (Themenkomplex Bundesfinanzen/Rüstung).): 'Mehr Mittel, weniger MwSt – VBS-Chef Pfister kommt seinem Aufrüstungsziel etwas näher'
-- Gelöscht (Grund: Duplikat zu Artikel 2 (Hitzewelle Schweiz).): 'Hitze in Grafiken – Wo die Hitzewelle in der Schweiz am heftigsten ist'
-- Gelöscht (Grund: Duplikat zu Artikel 8 (Themenkomplex Bundesfinanzen/Mehrwertsteuer).): 'Zusätzliche Rüstungsausgaben – Bundesrat will Mehrwertsteuer nur um 0.5 Prozentpunkte erhöhen'
-- Gelöscht (Grund: Duplikat zu Artikel 2 (Hitzewelle Schweiz).): '«Une possible fin de la vague de chaleur se profile pour lundi»'
-- Gelöscht (Grund: Negativ-Thema (Suizidrate) ausserhalb des Kantons Waadt (Jura).): 'Le canton du Jura affiche le plus haut taux de suicide du pays'
-- Gelöscht (Grund: Duplikat zu Artikel 8 (Staatshaushalt/Steuermehreinnahmen).): 'Staatshaushalt – Bundesrat verzichtet auf weitere Sparpakete – dank Gewinnsteuern'
+KI-Filter (Gemini) - 16 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalität/Missbrauchsmeldung ausserhalb des Kantons Waadt (Bern/Winterthur).): 'Männer in der Kinderbetreuung – Kita-Betreuer: «Mein Dasein als Mann macht mich nicht zum Täter»'
+- Weiterhin entfernt (Cache, Grund: Kriminalität ausserhalb des Kantons Waadt (Bern).): 'Mädchen-Mord im Könizbergwald – Bundesgericht bestätigt Urteil gegen Mutter – 18 Jahre Haft'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 8 (Themenkomplex Bundesfinanzen/Rüstung).): 'Mehr Mittel, weniger MwSt – VBS-Chef Pfister kommt seinem Aufrüstungsziel etwas näher'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 2 (Hitzewelle Schweiz).): 'Hitze in Grafiken – Wo die Hitzewelle in der Schweiz am heftigsten ist'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 8 (Themenkomplex Bundesfinanzen/Mehrwertsteuer).): 'Zusätzliche Rüstungsausgaben – Bundesrat will Mehrwertsteuer nur um 0.5 Prozentpunkte erhöhen'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 2 (Hitzewelle Schweiz).): '«Une possible fin de la vague de chaleur se profile pour lundi»'
+- Weiterhin entfernt (Cache, Grund: Negativ-Thema (Suizidrate) ausserhalb des Kantons Waadt (Jura).): 'Le canton du Jura affiche le plus haut taux de suicide du pays'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 8 (Staatshaushalt/Steuermehreinnahmen).): 'Staatshaushalt – Bundesrat verzichtet auf weitere Sparpakete – dank Gewinnsteuern'
+- Gelöscht (Grund: Duplikat zum Thema Erdbeben in Venezuela (ID 13 ist informativer).): 'Notstand ausgerufen – Schwere Erdbeben erschüttern Venezuela – das ist bekannt'
+- Gelöscht (Grund: Duplikat zum Thema Erdbeben in Venezuela (ID 13 ist informativer).): 'Erdbeben in Venezuela – Caritas-Mitarbeiter: «Jetzt braucht es sauberes Wasser und Zelte»'
+- Gelöscht (Grund: Brandmeldung ausserhalb des Kantons Waadt (Roches-de-Moron liegt im Kanton Neuenburg).): 'Important incendie de forêt maîtrisé aux Roches-de-Moron'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] Notstand ausgerufen – Schwere Erdbeben erschüttern Venezuela – viele Tote befürchtet
-- [SRF Schweiz] Temperaturen über 30 Grad – Hitzewelle erinnert an Sommer 2003 und 2018 – ein Rückblick
+- [20 Min Romandie] Westschweiz nimmt im Verhältnis mehr Asylsuchende auf
+- [SRF Ausland] Südamerikanische Feedlots – Fleisch-Edelstücke auf Kosten des Tierwohls
+- [SRF Schweiz] Live vom Open Air St. Gallen – Run aufs Gelände: Das Open Air St. Gallen ist offiziell eröffnet
+- [20 Min Romandie] Arbeiten in der Sonne am Nachmittag bis Sonntag verboten
+- [SRF Schweiz] Hitzewelle und Trockenheit – AKW Beznau 1 und 2 laufen noch auf 50 Prozent
+- [20 Min Romandie] Das beste Pain au Chocolat von Lausanne wurde gekürt
+- [SRF Schweiz] Hitze und Sport – Baspo-Direktorin: «Mit Klimakammern simulieren wir Hitze»
+- [SRF Ausland] Französische Politik – Macron hievt Vertraute in Spitzenpositionen: Sein Recht?
+- [20 Min Romandie] Mutmassliche Räuber von Daillens stehen in Lyon vor Gericht
+- [20 Min Romandie] Die Westschweiz feiert die Nati
+- [SRF Ausland] Katastrophe in Venezuela – Schweres Erdbeben forderte mindestens 164 Tote und 971 Verletzte
+- [SRF Schweiz] Sparen bei der Auslandhilfe – Vorschlag des Bundesrates stösst auf scharfe Kritik
+- [SRF Wissen] Ebola im Ostkongo – «Die Menschen sterben, ohne dass wir sie zu Gesicht bekommen»
+- [SRF Schweiz] Temperaturen über 30 Grad – Hitzewelle erinnert an Sommer 2003 und 2018 – ein Vergleich
 - [RTS Vaud] FDP Waadt desavouiert ihre Abgeordneten und unterstützt 12%-Initiative zur Steuersenkung
 - [RTS Vaud] Streit um den Start von Movodis, dem künftigen Riesen des öffentlichen Verkehrs im Waadtland
-- [SRF Schweiz] Hitzewelle und Trockenheit – Spanien misst heisseste Junitage seit mehr als 70 Jahren
 - [SRF Schweiz] Entlastungspaket 2027 – Bundesrat will 100 Millionen Franken bei der Auslandhilfe sparen
 - [RTS Vaud] IT-Software Epic für Waadtländer Krankenhäuser spaltet die Abgeordneten tiefgreifend
 - [SRF Schweiz] Mehreinnahmen des Bundes – Karin Keller-Sutter: «Bin Bundesrätin, nicht Parteipolitikerin»
 - [SRF Wissen] Auswirkungen von KI – Was für Berufseinsteiger im neuen Arbeitsmarkt wichtig ist
-- [SRF Ausland] Bis zu 44 Grad im Schatten – Die Hitze hat Frankreich voll im Griff
+- [SRF Ausland] Bis zu 44 Grad im Schatten – Höchste Warnstufe in den meisten Teilen von Frankreich
 - [20 Min Romandie] Jugendliche fordern thematische Bürgerversammlungen
 - [SRF Ausland] Zugreisen im Krieg – Die Lebensader der Ukraine ist nun auch Ziel russischer Angriffe
 - [SRF Wirtschaft] Strasse von Hormus – Gesperrt, offen, gesperrt: Krieg um eine Meerenge
@@ -50,7 +63,7 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Mit der Trockenheit steigt die Brandgefahr im Kanton
 - [SRF Ausland] Norwegisches Königshaus – Høiby legt Berufung gegen vierjährige Haftstrafe ein
 - [20 Min Romandie] Diebstahl von Luxusautos: Unter den Verdächtigen ein 13-jähriger Teenager
-- [SRF Wissen] Mini-Roboter im Mund – Uni Basel entwickelt einen Zahnroboter
+- [SRF Wissen] Mini-Roboter im Mund – Forschende entwickeln neuen Zahnroboter
 - [20 Min Romandie] Hitzewelle setzt vierzig Fahrzeuge der TPG ausser Betrieb
 - [SRF Wissen] Sommerzeit ist Gewitterzeit – Blitzeinschlag: Das sind die Gefahren und so schützen Sie sich
 - [SRF Wissen] Insektenforschung – Lästige Blutsauger: Acht Fakten rund um die Bremse
@@ -62,19 +75,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Wissen] Schlangen in der Schweiz – Schlangenbisse: Weniger gefährlich als gedacht
 - [SRF Ausland] Hilfswerk Ärzte ohne Grenzen – Zuerst Sex, dann Hilfe – interner Bericht zeigt Missbrauchsfälle
 - [Journal de Morges] Aubonne übt (erneut) sein Vorkaufsrecht zum Kauf eines Gebäudes aus
-- [20 Min Romandie] Sie erhält Rechnungen auf den Namen ihres vor acht Jahren verstorbenen Mannes
-- [20 Min Romandie] Kleines Mädchen nach Kollision schwer verletzt
-- [20 Min Romandie] Billie Joy: «Mein Vater rettete sich, indem er meine Mutter ermordete»
-- [20 Min Romandie] Fünf Gemeinden wehren sich gegen die Stationierung der F-35 in Payerne
-- [20 Min Romandie] Ein winziges Insekt kostet das Naturhistorische Museum 30 Millionen
-- [20 Min Romandie] Fünf Jahre Gefängnis für Gynäkologen wegen sexueller Übergriffe
-- [SRF Schweiz] Bewältigung von Notlagen – Fusion Zivilschutz und -dienst: Bundesrat plant Sicherheitsdienst
-- [SRF Ausland] Altersvorsorge – Geht es in Deutschland nun vorwärts bei der Rentenreform?
-- [20 Min Romandie] Bei grosser Hitze können diese Medikamente gefährlich sein
-- [SRF Schweiz] Schweizer Mietrecht – Mieter gegen Vermieter: Ein Streit mit Geschichte
-- [SRF Ausland] Präsidentschaftswahlen in Peru – Das knappe Ergebnis macht den Job für Fujimori nicht einfacher
-- [20 Min Romandie] 19-Jährige stirbt nach Sturz vor einem anderen Motorradfahrer
-- [SRF Schweiz] Etikettenschwindel – Fleischbeschiss beim Grosshändler
-- [Morges Actualitiés] Der Hydriscore steigt auf Stufe 3
-- [20 Min Romandie] In der Hitze (und einer 30 kg schweren Rüstung) legte er 250 km zurück
-- [SRF Ausland] Krieg im Iran – Senat stimmt für Ende der Angriffe: Was heisst das für Trump?
