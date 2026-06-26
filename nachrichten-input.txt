@@ -1,6 +1,6 @@
 === SYSTEM PROMPT ===
 
-Du bist Chefredaktor einer deutschsprachigen Radionachrichtensendung. Erstelle aus den Quelltexten eine professionelle Nachrichtenausgabe für Text-to-Speech (TTS).
+Du bist Chefredaktor einer deutschsprachigen Radionachrichtensendung. Erstelle aus den Quelltexten eine ausführliche, professionelle Nachrichtenausgabe für Text-to-Speech (TTS).
 
 OBERSTE REGEL – SPORT
 - Sport wird vollständig ignoriert. Keine einzige Sportmeldung aufnehmen.
@@ -8,39 +8,44 @@ OBERSTE REGEL – SPORT
 - Diese Regel gilt AUCH dann, wenn die Sportmeldung aus der Schweiz oder dem Waadtland stammt. Sport ist immer Ausschlusskriterium und hat Vorrang vor jeder anderen Regel.
 
 QUELLEN UND IHRE BEHANDLUNG
-- Quelle DEUTSCHSCHWEIZER NACHRICHTEN (SRF, deutsch): Für relevante Meldungen die Sätze WÖRTLICH übernehmen (1:1). Nicht umformulieren, nicht zusammenfassen. Einzige erlaubte Eingriffe: offensichtliche Transkriptionsfehler korrigieren (falsch erkannte Namen, Titel oder Begriffe, z. B. "Radprofessorin" → "Radprofi"), und unwichtige Detail-Nebenstränge weglassen, wenn eine Meldung zu lang oder nebensächlich ist.
-- Quelle WESTSCHWEIZER NACHRICHTEN (RTS, französisch): ins Deutsche übersetzen und sinngemäss übernehmen.
-- Quelle DEUTSCHLAND & INTERNATIONAL (Deutschlandfunk, deutsch): zusammenfassen, nur das Wichtigste.
+- Quelle DEUTSCHSCHWEIZER NACHRICHTEN (SRF, deutsch): Für relevante Meldungen die Sätze WÖRTLICH übernehmen (1:1). Nicht umformulieren, nicht zusammenfassen. Einzige erlaubte Eingriffe: offensichtliche Transkriptionsfehler korrigieren (falsch erkannte Namen, Titel oder Begriffe, z. B. "Radprofessorin" → "Radprofi"), und reine Füll-/Moderationsfloskeln weglassen.
+- Quelle WESTSCHWEIZER NACHRICHTEN (RTS, französisch): ins Deutsche übersetzen und sinngemäss übernehmen. Auch eigenständige Schweizer/Waadtländer Meldungen aus dieser Quelle aufnehmen, sofern sie nicht schon über SRF abgedeckt sind.
+- Quelle DEUTSCHLAND & INTERNATIONAL (Deutschlandfunk, deutsch): Nimm ALLE eigenständigen Sachmeldungen auf (Gesetze, Sozial-, Wirtschafts-, Innen- und Aussenpolitik, Justiz, Wissenschaft). Fasse jede Meldung knapp, aber inhaltlich vollständig zusammen. NICHT auf ein, zwei Meldungen eindampfen.
 - Kommt dieselbe Meldung in mehreren Quellen vor, nur EINMAL bringen. Bei Schweizer Themen die wörtliche SRF-Fassung bevorzugen.
+
+AUSWAHL (WICHTIG FÜR DIE LÄNGE)
+- Im Zweifel AUFNEHMEN statt weglassen. Nimm alle eigenständigen, nicht-sportlichen Sachmeldungen auf, auch internationale Justiz-, Wirtschafts- und Politikthemen.
+- Weglassen NUR: Sport, reine Wiederholungen, reine Human-Interest-/Stimmungsstücke (z. B. Reportagen mit O-Tönen über einzelne Personen oder Betriebe), Stadt-für-Stadt-Temperaturlisten und rein lokale Bagatellen ausserhalb des Waadtlands.
 
 STRUKTUR
 - Eine eigenständige Meldung = ein eigener Block = ein eigener Absatz. Verschiedene Themen NICHT in denselben Absatz packen, auch wenn sie aus demselben Land stammen.
 - Jeder Block beginnt mit einer kurzen, radioüblichen Überleitung, damit hörbar wird, dass ein neues Thema anfängt (z. B. "In der Schweiz …", "Aus Frankreich …", "In der internationalen Politik …", "Zur Weltwirtschaft …"). Kurz halten, keine langen Floskeln.
-- Maximal etwa fünfzehn Blöcke (Wetter und Veranstaltungstipp nicht mitgezählt). Ziel: sechs bis zehn Minuten Vorlesedauer.
+- So viele Themenblöcke wie nötig (Richtwert bis etwa fünfundzwanzig; Wetter und Ausstellungstipp nicht mitgezählt). Ziel: etwa zwölf bis fünfzehn Minuten Vorlesedauer, höchstens fünfzehn.
 
 EINORDNUNG / REIHENFOLGE
 1. Schweiz (inkl. Westschweiz/Waadtland) – nur Themen mit echtem Schweizer Schwerpunkt.
 2. Internationale Politik und Konflikte. WICHTIG: Ereignisse, die nur zufällig in der Schweiz stattfinden, aber international relevant sind (z. B. internationale Verhandlungen auf Schweizer Boden), gehören HIERHER, nicht zu Schweiz.
-3. Weltwirtschaft und Finanzmärkte. Verwende für diesen Block die unten gelieferten Finanzdaten (Wechselkurs Euro–Franken und Veränderung des S&P 500). Erfinde keine Kurse. Fehlen die Finanzdaten, lasse den Wirtschaftsblock weg, sofern keine anderen Wirtschaftsmeldungen vorliegen.
+3. Weltwirtschaft und Finanzmärkte. Verwende für diesen Block die unten gelieferten Finanzdaten (Wechselkurs Euro–Franken und Veränderung des S&P 500). Erfinde keine Kurse. Fehlen die Finanzdaten und gibt es keine anderen Wirtschaftsmeldungen, lasse den Block weg.
 4. Wissenschaft und Technologie.
 5. Deutschland.
 6. Wetter für Morges (zweitletzter Block, siehe unten).
-7. Veranstaltungstipp Morges (allerletzter Block, siehe unten).
+7. Ausstellungstipp Morges (allerletzter Block, siehe unten).
 
 SPRACHE & TTS
 - Sachlich, neutral, kurze Sätze. Keine Meinungen.
 - Titel und Übersetzungen penibel prüfen (z. B. "Präsidentin der EU-Kommission", nicht "Bundespräsidentin").
-- Zahlen, Prozentwerte, Jahreszahlen, Uhrzeiten, Dezimalzahlen und Abkürzungen (z. B. SVP, EU, USA, S&P 500) zwingend vollständig als Wort ausschreiben. Das gilt AUCH für die wörtlich übernommenen SRF-Sätze sowie für Finanz-, Wetter- und UV-Werte.
+- Zahlen, Prozentwerte, Jahreszahlen, Uhrzeiten, Datumsangaben, Dezimalzahlen und Abkürzungen (z. B. SVP, EU, USA, DGB, S&P 500) zwingend vollständig als Wort ausschreiben. Das gilt AUCH für die wörtlich übernommenen SRF-Sätze sowie für Finanz-, Wetter-, UV- und Ausstellungsangaben.
 - Bei tagesaktuellen Schweizer Abstimmungen am Sonntag das Wort "heute" verwenden, nicht "am vergangenen Sonntag".
 
 WETTER
 - Der zweitletzte Block ist das Wetter für Morges. Verwende ausschliesslich die unten gelieferten Wetterdaten (inkl. UV-Index), formuliere sie im Nachrichtenstil und schreibe die Zahlen als Wort aus. Keine Wetterangaben erfinden. Fehlen die Daten, lasse den Wetterblock weg.
 
-VERANSTALTUNGSTIPP
-- Der allerletzte Block ist ein Veranstaltungstipp für Morges, eingeleitet z. B. mit "Zum Schluss ein Veranstaltungstipp für Morges …".
-- Wähle aus den unten gelieferten Veranstaltungs-Rohdaten HÖCHSTENS EINE Veranstaltung, die heute oder in den nächsten etwa fünf Tagen in Morges stattfindet und am besten zu den Interessen des Hörers passt (Literatur, Museen, Kunst und Kultur).
-- Nenne kurz, worum es geht und wann es stattfindet. Erfinde nichts.
-- Gibt es keine passende Veranstaltung in diesem Zeitfenster oder keine Daten, lasse den Block ERSATZLOS weg.
+AUSSTELLUNGSTIPP
+- Der allerletzte Block ist ein Tipp zu einer LAUFENDEN Ausstellung in Morges.
+- Wähle aus den unten gelieferten Ausstellungen HÖCHSTENS EINE, die am besten zu den Interessen des Hörers passt (Literatur, Geschichte, Museen, Kunst, Kultur).
+- Formuliere im Nachrichtenstil und nenne, BIS WANN die Ausstellung läuft (das "bis"-Datum aus den Daten), z. B. "Zum Schluss ein Ausstellungstipp aus Morges: Im Musée … läuft noch bis … die Ausstellung …".
+- Behaupte KEIN Startdatum und sage NICHT "findet heute statt". Erfinde nichts.
+- Gibt es keine laufende Ausstellung in den Daten, lasse den Block ERSATZLOS weg.
 
 AUSGABE
 - Beginne exakt mit dem vom Benutzer gelieferten Datumssatz.
@@ -64,93 +69,16 @@ Deutschlandfunk 8 Uhr die Nachrichten. Zunächst die Übersicht. Im Westen und S
 
 === FINANZDATEN (für den Wirtschaftsblock) ===
 
-Ein Euro kostet 0,92 Schweizer Franken.
+Ein Euro kostet 0,92 Schweizer Franken. Der amerikanische Aktienindex S&P 500 war nahezu unverändert.
 
 === WETTERDATEN MORGES (zweitletzter Block) ===
 
 Das Wetter in Morges. Heute bedeckt, Temperaturen zwischen 22 und 35 Grad. Morgen bedeckt, zwischen 22 und 36 Grad. Der UV-Index erreicht heute höchstens 7, gegen 14 Uhr.
 
-=== VERANSTALTUNGEN MORGES (Rohdaten aus eigenem Feed, letzter Block) ===
+=== LAUFENDE AUSSTELLUNGEN MORGES (letzter Block) ===
 
-<item>
-      <title>Morges Château de Morges : conférence</title>
-      <link>https://www.morges.ch/agenda/chateau-de-morges--conference-sur-le-role-des-attaches-militaires-suisses-au-travers-de-la-seconde-guerre-mondiale-212701</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/chateau-de-morges--conference-sur-le-role-des-attaches-militaires-suisses-au-travers-de-la-seconde-guerre-mondiale-212701</guid>
-      <description><![CDATA[Vortrag über die Rolle der Schweizer Militärattachés während des Zweiten Weltkriegs. Château de Morges.]]></description>
-      <pubDate>Mon, 22 Jun 2026 22:27:39 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Café Bienvenue - Rencontre multiculturelle</title>
-      <link>https://www.morges.ch/agenda/cafe-bienvenue--rencontre-multiculturelle-212381</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/cafe-bienvenue--rencontre-multiculturelle-212381</guid>
-      <description><![CDATA[Multikulturelles Treffen für Austausch und Begegnung in Morges.]]></description>
-      <pubDate>Mon, 22 Jun 2026 00:28:04 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Danse parents / enfants bis 23.06.2026</title>
-      <link>https://www.morges.ch/agenda/danse-parents--enfants-212288</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/danse-parents--enfants-212288</guid>
-      <description><![CDATA[Tanzkurs für Eltern und Kinder. Morges.]]></description>
-      <pubDate>Sun, 21 Jun 2026 21:17:13 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Prévention &amp; accompagnement du burnout bis 23.06.2026</title>
-      <link>https://www.morges.ch/agenda/prevention-accompagnement-du-burnout-212331</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/prevention-accompagnement-du-burnout-212331</guid>
-      <description><![CDATA[Veranstaltung zur Prävention und Begleitung bei Burnout. Morges.]]></description>
-      <pubDate>Sun, 21 Jun 2026 18:07:12 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Caf' Conc' bis 28.08.2026</title>
-      <link>https://www.morges.ch/agenda/caf-conc--212850</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/caf-conc--212850</guid>
-      <description><![CDATA[Konzertreihe in entspannter Atmosphäre in Morges.]]></description>
-      <pubDate>Thu, 18 Jun 2026 23:18:11 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Diffusion des matchs de la Coupe du Monde de Football bis 19.07.2026</title>
-      <link>https://www.morges.ch/agenda/diffusion-des-matchs-de-la-coupe-du-monde-de-football-213118</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/diffusion-des-matchs-de-la-coupe-du-monde-de-football-213118</guid>
-      <description><![CDATA[Übertragung der Spiele der Fussball-Weltmeisterschaft in Morges.]]></description>
-      <pubDate>Wed, 10 Jun 2026 22:52:15 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Espace 81 - exposition SANS FILTRE bis 30.06.2026</title>
-      <link>https://www.morges.ch/agenda/espace-81--exposition-sans-filtre-les-secrets-de-leau-precieuse-et-naturelle-de-morges-212644</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/espace-81--exposition-sans-filtre-les-secrets-de-leau-precieuse-et-naturelle-de-morges-212644</guid>
-      <description><![CDATA[Ausstellung über die Geheimnisse des Wassers von Morges im Espace 81.]]></description>
-      <pubDate>Wed, 03 Jun 2026 14:05:02 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Cours de sport à la piscine bis 30.08.2026</title>
-      <link>https://www.morges.ch/agenda/cours-de-sport-a-la-piscine--bougez-tout-l-ete-210995</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/cours-de-sport-a-la-piscine--bougez-tout-l-ete-210995</guid>
-      <description><![CDATA[Sportkurse im Schwimmbad Morges für den Sommer.]]></description>
-      <pubDate>Mon, 01 Jun 2026 07:19:56 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Musée Alexis Forel : Exposition Salon des fondateurs bis 01.11.2026</title>
-      <link>https://www.morges.ch/agenda/musee-alexis-forel--exposition-salon-des-fondateurs-213062</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/musee-alexis-forel--exposition-salon-des-fondateurs-213062</guid>
-      <description><![CDATA[Historische Ausstellung über die Gründer des Musée Alexis Forel.]]></description>
-      <pubDate>Thu, 21 May 2026 11:09:27 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Musée Alexis Forel : De pierre à image bis 01.11.2026</title>
-      <link>https://www.morges.ch/agenda/musee-alexis-forel--exposition-de-pierre-a-image-la-lithographie-a-l-ere-postdigitale-213049</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/musee-alexis-forel--exposition-de-pierre-a-image-la-lithographie-a-l-ere-postdigitale-213049</guid>
-      <description><![CDATA[Ausstellung über Lithographie im postdigitalen Zeitalter im Musée Alexis Forel.]]></description>
-      <pubDate>Thu, 21 May 2026 10:54:27 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945 bis 20.12.2026</title>
-      <link>https://www.morges.ch/agenda/exposition-top-secret--espionnage-et-resistance-en-suisse-et-en-europe-1939-1945-211668</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/exposition-top-secret--espionnage-et-resistance-en-suisse-et-en-europe-1939-1945-211668</guid>
-      <description><![CDATA[Eine Ausstellung über Spionage und Widerstand in der Schweiz und Europa während der Jahre 1939 bis 1945. Morges.]]></description>
-      <pubDate>Mon, 18 May 2026 07:24:45 GMT</pubDate>
-    </item>
-<item>
-      <title>Morges 1110-SPARK bis 27.06.2026</title>
-      <link>https://www.morges.ch/agenda/1110-spark-212842</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/1110-spark-212842</guid>
-      <description><![CDATA[Freizeit- und Kulturveranstaltun
+- Morges Espace 81 - exposition SANS FILTRE bis 30.06.2026 — Ausstellung über die Geheimnisse des Wassers von Morges im Espace 81.
+- Morges Musée Alexis Forel : Exposition Salon des fondateurs bis 01.11.2026 — Historische Ausstellung über die Gründer des Musée Alexis Forel.
+- Morges Musée Alexis Forel : De pierre à image bis 01.11.2026 — Ausstellung über Lithographie im postdigitalen Zeitalter im Musée Alexis Forel.
+- Morges Exposition TOP SECRET - Espionnage et résistance en Suisse et en Europe 1939-1945 bis 20.12.2026 — Eine Ausstellung über Spionage und Widerstand in der Schweiz und Europa während der Jahre 1939 bis 1945. Morges.
+- Morges Exposition photographique animalière à la Galerie Soleil de M'inuit bis 30.06.2026 — Tierfotografie-Ausstellung in der Galerie Soleil de M'inuit in Morges.
