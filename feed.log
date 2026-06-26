@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 26.6.2026, 06:30:36
-Letzter Lauf: 25.6.2026, 12:58:40
+Start: 26.6.2026, 12:58:39
+Letzter Lauf: 26.6.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,26 +17,38 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 42 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Brandmeldung ausserhalb des Kantons Waadt (Roches-de-Moron liegt im Kanton Neuenburg).): 'Important incendie de forêt maîtrisé aux Roches-de-Moron'
-- Gelöscht (Grund: Dublette zu Artikel 0 (SRF-Artikel bevorzugt).): 'Notstand ausgerufen – Schwere Erdbeben erschüttern Venezuela – das ist bekannt'
-- Gelöscht (Grund: Meldung über einen Brand außerhalb des Kantons Waadt (La Chaux-de-Fonds).): 'Un véhicule en feu près de la gare'
-- Gelöscht (Grund: Blaulicht-Meldung (Brandgefahr/Feuerverbot) außerhalb des Kantons Waadt.): 'Les cantons interdisent ou restreignent les feux en plein air'
-- Gelöscht (Grund: Meldung über einen Brand außerhalb des Kantons Waadt (Genf).): 'La Tesla incendiée à la manif anti-G7 a brûlé plusieurs jours'
-- Gelöscht (Grund: Dublette zu Artikel 30 (Gleiches Thema: Widerstände bei der Movodis-Fusion).): 'La fusion s'enlise dans les rivalités régionales'
-- Gelöscht (Grund: Kriminalitätsmeldung außerhalb des Kantons Waadt.): 'À 45 ans, il rembourse ceux qu'il avait escroqués'
+KI-Filter (Gemini) - 16 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Dublette zu Artikel 0 (SRF-Artikel bevorzugt).): 'Notstand ausgerufen – Schwere Erdbeben erschüttern Venezuela – das ist bekannt'
+- Weiterhin entfernt (Cache, Grund: Meldung über einen Brand außerhalb des Kantons Waadt (La Chaux-de-Fonds).): 'Un véhicule en feu près de la gare'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Brandgefahr/Feuerverbot) außerhalb des Kantons Waadt.): 'Les cantons interdisent ou restreignent les feux en plein air'
+- Weiterhin entfernt (Cache, Grund: Meldung über einen Brand außerhalb des Kantons Waadt (Genf).): 'La Tesla incendiée à la manif anti-G7 a brûlé plusieurs jours'
+- Weiterhin entfernt (Cache, Grund: Dublette zu Artikel 30 (Gleiches Thema: Widerstände bei der Movodis-Fusion).): 'La fusion s'enlise dans les rivalités régionales'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung außerhalb des Kantons Waadt.): 'À 45 ans, il rembourse ceux qu'il avait escroqués'
+- Gelöscht (Grund: Kriminalität in der Schweiz ohne spezifischen Bezug zum Kanton Waadt.): 'Nach Welle von Überfällen – Polizei fokussiert auf Tiktok-Räuber'
+- Gelöscht (Grund: Kriminalität in der Schweiz außerhalb von Vaud.): 'Le gestionnaire S. B. et ses associés condamnés à la prison ferme'
+- Gelöscht (Grund: Verkehrsunfall in der Schweiz außerhalb des Kantons Waadt (Kanton Freiburg).): 'Un motard de 29 ans se tue dans un accident à St-Sylvestre'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Live vom Open Air St. Gallen – Fans warten 13 Stunden in der prallen Sonne auf ihre Idole
+- [SRF Schweiz] Endlich kühle Plätzchen – Cool bleiben? Hier ist es bei Hitze spitze
+- [20 Min Romandie] Migros testet am Sonntag einen Laden ohne Personal
+- [SRF Ausland] Erdbeben in Venezuela – Schweizer Team auf dem Weg ++ Zahl der Toten steigt auf 235
+- [SRF Schweiz] Hitzewelle und Trockenheit – Hitzetag Nummer 10: Heiss und sonnig bei lokal bis 38 Grad
+- [20 Min Romandie] Sie rettet eine Entenfamilie, die auf ihrem Balkon im 6. Stock geboren wurde
+- [SRF Ausland] Lebenslange Haft – Höchststrafe für Anschlag auf Magdeburger Weihnachtsmarkt
+- [SRF Wirtschaft] Bis zu 25 Prozent mehr – Deshalb erhöht Apple weltweit die Preise
+- [SRF Schweiz] Eidgenössisches Jodlerfest – 12-jährige Livia Wipf mischt Fahnenschwinger-Tradition auf
+- [20 Min Romandie] Die Organisatoren von No-G7 ziehen vor Gericht
+- [RTS Vaud] Waadtländer Schulen schicken Schüler kurz vor den Sommerferien ohne klaren Grund nach Hause
+- [SRF Schweiz] Neuer Fotoband – Als der Punk im beschaulichen Bern Einzug hielt
+- [SRF Wissen] Landwirtschaft im Wasserstress – Wenn die Wiese braun wird: Bauern rüsten sich für den Klimawandel
 - [SRF Ausland] Nach Erdbeben in Venezuela – Die Lage nach dem Jahrhundertbeben bleibt unübersichtlich
 - [20 Min Romandie] «Solange das Kind die Pedale erreicht, ist es für mich in Ordnung»
 - [SRF Schweiz] Trotz leichter Verbesserung – Weiterhin zu wenige Halte- und Durchgangsplätze für Fahrende
-- [SRF Schweiz] Kein freiwilliger Zivildienst – Neuer Sicherheitsdienst – Chance für mehr Gleichstellung?
+- [SRF Schweiz] Kein freiwilliger Zivildienst – Beendet neuer Sicherheitsdienst die Benachteiligung von Frauen?
 - [SRF Ausland] Neue Regeln für die Politik – Giorgia Meloni macht sich am Wahlgesetz zu schaffen
 - [Journal de Morges] Die Familie Ravet kehrt für den Bundesrat in die Küche zurück
-- [SRF Ausland] Katastrophe in Venezuela – Flieger mit den Spezialisten aus der Schweiz ist gestartet
-- [SRF Schweiz] Live vom Open Air St. Gallen – Worüber das OASG nach dem ersten Festivaltag spricht
 - [RTS Vaud] Waadtländer SVP nominiert erneut Jean-François Thuillard für den Staatsrat
-- [SRF Schweiz] Hitzewelle und Trockenheit – Paris verbietet öffentlichen Konsum und Verkauf von Alkohol
 - [Journal de Morges] Über 120 Millionen für die Abwasserreinigung
 - [Journal de Morges] In 100 Jahren hat sich die Morgianerin Yvonne Paccaud nie unterkriegen lassen
 - [SRF Ausland] Erdbeben in Venezuela – «Wo ich wohne, sind ganze Hochhäuser eingestürzt»
@@ -51,7 +63,7 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Erdbeben in Venezuela – Das Erdbeben trifft ein Land im Krisenmodus
 - [SRF Wirtschaft] Strassenbau bei 35 Grad – Wie Bauarbeiter der Hitze trotzen
 - [SRF Wissen] Walforschung im Mittelmeer – Pottwale reden Dialekt – und verschieden schnell
-- [SRF Schweiz] Gefährliche Hautkrankheit – Krätzefälle in Romandie, aber keine Epidemie
+- [SRF Schweiz] Mühsame Hautkrankheit – Krätzefälle in Romandie, aber keine Epidemie
 - [RTS Vaud] Yverdon und Travys fordern mehr Gewicht innerhalb des künftigen Riesen Movodis
 - [SRF Schweiz] Stimmen aus der Community – «Klimaerwärmung kommt schneller als Anpassung der Gesellschaft»
 - [SRF Wirtschaft] Auch weniger Poststellen – Umsatz im Postmarkt sinkt wegen abnehmender Briefmengen
@@ -63,13 +75,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Erdbeben in Venezuela – Caritas-Mitarbeiter: «Jetzt braucht es sauberes Wasser und Zelte»
 - [SRF Ausland] Vorwürfe gegen Israel – UNO-Bericht: «Kinder werden gezielt von Israel beschossen»
 - [SRF Schweiz] Ab 2027 – Die Post steigt aus dem Patientendossier EPD aus
-- [20 Min Romandie] Westschweiz nimmt im Verhältnis mehr Asylsuchende auf
-- [SRF Ausland] Südamerikanische Feedlots – Fleisch-Edelstücke auf Kosten des Tierwohls
-- [20 Min Romandie] Arbeiten in der Sonne am Nachmittag bis Sonntag verboten
-- [20 Min Romandie] Das beste Pain au Chocolat von Lausanne wurde gekürt
-- [SRF Schweiz] Hitze und Sport – Baspo-Direktorin: «Mit Klimakammern simulieren wir Hitze»
-- [SRF Ausland] Französische Politik – Macron hievt Vertraute in Spitzenpositionen: Sein Recht?
-- [20 Min Romandie] Mutmassliche Räuber von Daillens stehen in Lyon vor Gericht
-- [20 Min Romandie] Die Westschweiz feiert die Nati
-- [SRF Schweiz] Sparen bei der Auslandhilfe – Vorschlag des Bundesrates stösst auf scharfe Kritik
-- [SRF Wissen] Ebola im Ostkongo – «Die Menschen sterben, ohne dass wir sie zu Gesicht bekommen»
