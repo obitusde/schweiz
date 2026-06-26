@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 25.6.2026, 12:28:17
-Letzter Lauf: 25.6.2026, 06:10:25
+Start: 26.6.2026, 06:10:26
+Letzter Lauf: 25.6.2026, 12:28:17
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,68 +10,92 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Secrets Management: Mit IT-Pipelines und statischen Secrets umgehen'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Chiphersteller im Höhenflug: So profitieren Anleger von der zweiten KI-Welle'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Avatar: Fire and Ash im Heimkino-Test: Das Kino erstickt in Hyperkontrolle'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Brandursache: Hauselektrik. Wie man Probleme vermeidet'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Görliwood erleben: Fototour zu den berühmtesten Filmkulissen von Görlitz'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Kühl durch die Hitze: Mythen und Fakten rund um die Klimaanlage'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Microsoft 365 Copilot für IT-Administratoren'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | 10-Gigabit-Netzwerk für zu Hause: Voraussetzungen und Verkabelung'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot:  c’t-Workshop: Physische IT-Sicherheit '
-- Gelöscht wegen Keyword 'heise+': 'heise+ | KI-Kosten reduzieren: Wie man mit Prompt-Caching messbar Token sparen kann'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Suzuki DR-Z4SM im Test: Die Rückkehr der Supermoto-Legende'
 - Gelöscht wegen Keyword '#heiseshow': 'Donnerstag: EU-Rückzug von Binance, Anthropic mit Ausweispflicht für KI-Nutzer'
 - Gelöscht wegen Keyword '#heiseshow': '#heiseshow: Bahnstörung, Digitaler Euro, KI-Bann in Schulen'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Die Klimaanlage fürs Bett im Test: Kühler schlafen in heißen Nächten'
-- Gelöscht wegen Keyword 'podcast': 'Digital-Health-Podcast: DiGA als Innovation auf Kosten der Krankenkassen?'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | c’t-Story: Wie der Krieg für mich endete'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: ISO 27001 als Admin im Unternehmen praktisch umsetzen'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bosch Pro Ratschenschlüssel bei Amazon nun billiger als am Black Friday'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 65 Zoll großer 4K-OLED-Fernseher von LG günstig wie nie am Prime Day'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Nachtsichtgerät mit 4K am Prime Day für nur 59,49 Euro bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: High-End-SSDs von Acer und Samsung zum Prime Deal'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Philips Airfryer mit Doppelkammer zum Bestpreis am Prime Day erstmals unter 170 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Google Pixel 10 Pro günstig wie nie am Prime Day'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Überwachungskamera für außen und innen im Set für nur 34,99 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bosch Akku-Kompressor im Prime Deal 40 Euro günstiger'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Die besten 40 Deals für unter 50 Euro am Prime Day'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 4K-Dashcam mit 128-GB-Speicherkarte am Prime Day zum Bestpreis unter 120 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Philips Hue Smart Slim Einbauleuchte über 30 Euro günstiger'
+- Gelöscht wegen Keyword '(g+)': '(g+) Arbeit in der IT: Wer mehr Gehalt will, sucht eigentlich etwas Anderes'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Starker E-Scooter von Segway-Ninebot zum Prime-Day-Preis'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Laptop von Lenovo mit 15,3'' am Prime Day stark reduziert'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ugreen NASync DXP4800 Pro als Bestseller am Prime Day zum Bestpreis'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Eismaschine Ninja Creami Deluxe zum günstigen Prime Day Preis'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Sabrent Festplatten-Dockingstation für 2,5 und 3,5 Zoll SATA am Prime Day erstmals unter 20 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: GTA 6 jetzt für PS5 und Xbox vorbestellbar'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: BFSG und WCAG in Webprojekten umsetzen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Hazet Smartcase am Prime Day billiger als anderswo'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Elektrische Kühlboxen im Prime Deal zum Tiefstpreis'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Mähroboter ohne Begrenzungskabel am Prime Day günstig wie nie'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Apple Watch Series 11 am Prime Day zum neuen Bestpreis nur 369 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fritz!Powerline WLAN-Set zum Tiefpreis am Prime Day'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: DJI Neo 2 Fly More Combo erreicht am Prime Day neuen Tiefstpreis'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Powerbanks von Belkin, Ugreen und Anker im Prime-Angebot'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Govee LED-Strip (20 m) mit App am Prime Day nur 1 Euro pro Meter'
+- [FEED FEHLER] https://www.lightroomqueen.com/feed/: Exception: Request failed for https://www.lightroomqueen.com returned code 403. Truncated server response: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta htt... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 34 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Thema Enterprise-IT & Netzwerk-Infrastruktur (Kabelnetz-Infrastruktur).): 'Vodafone: 70.000 Haushalte brauchen Segmentierungen im Kabelnetz'
-- Weiterhin entfernt (Cache, Grund: Thema interne PC-Komponenten (SSDs).): 'Neuer Look. Gleiche Power. SANDISK Optimus.'
-- Weiterhin entfernt (Cache, Grund: Thema Enterprise-IT & Netzwerk-Infrastruktur (Energieversorgung für KI-Systeme).): 'Power-Management: Infineon feiert den KI-Boom'
-- Weiterhin entfernt (Cache, Grund: Thema Code-Theorie und Web-Infrastruktur (Entwickler-Werkzeuge).): 'Figma: KI-Werkzeuge für Design, Code und Zusammenarbeit'
-- Weiterhin entfernt (Cache, Grund: Thema Enterprise-IT (Rechenzentrumsinfrastruktur).): 'Energieeffizienzgesetz: Bundesregierung weicht Rechenzentrumseffizienz weiter auf'
-- Weiterhin entfernt (Cache, Grund: Apple-Themen: iOS.): 'iOS-App-Entwickler in China reichen Beschwerde gegen Apple ein'
-- Weiterhin entfernt (Cache, Grund: Thema Enterprise-IT (Software-Lizenzierung im großen Stil).): 'Bund in der Abhängigkeitsfalle: Kostenexplosion bei Microsoft-Lizenzen'
-- Weiterhin entfernt (Cache, Grund: Thema Code-Theorie und Web-Infrastruktur (Enterprise Search/RAG-Pipelines).): 'Mistral OCR 4: Dokumentenanalyse für 170 Sprachen'
-- Weiterhin entfernt (Cache, Grund: Negative-Thema: iPhone.): 'Ottocast Cabin Care Owl im Test: Babykamera & Wireless-Carplay-Adapter in einem'
-- Weiterhin entfernt (Cache, Grund: Thema Deep OS-Internals und Basteleien an Linux (Linux-Rechner-Bastelsatz).): 'Linux-Touchpanel mit A20-Rechner'
-- Weiterhin entfernt (Cache, Grund: Thema Code-Theorie und Web-Infrastruktur (API-Infrastruktur).): 'Sichere API-Zugriffe für Agenten mit Postman Passport'
-- Weiterhin entfernt (Cache, Grund: Thema Code-Theorie (KI-Einsatz beim Programmieren).): 'KI-Coding-Tools: Geschwindigkeit ohne Kontrolle als Risiko'
-- Weiterhin entfernt (Cache, Grund: Thema Enterprise-IT & Netzwerk-Infrastruktur (UniFi OS/Netzwerkkomponenten).): 'Ubiquiti UniFi OS-Sicherheitslücken werden angegriffen'
-- Weiterhin entfernt (Cache, Grund: Duplikat: Behandelt dasselbe Ereignis wie Artikel 44.): '„Star Fox“ angespielt: Ein Fuchs muss tun, was ein Fuchs tun muss'
-- Weiterhin entfernt (Cache, Grund: Duplikat: Behandelt dasselbe Ereignis wie Artikel 45.): '„GTA 6“ kostet 80 US-Dollar – Euro-Preis bleibt offen'
-- Weiterhin entfernt (Cache, Grund: Thema Enterprise-IT (SSO-Infrastruktur für Unternehmen).): 'Zoho Corp. ManageEngine: Kritische SSO-Lücke ermöglicht Kontenübernahme'
-- Weiterhin entfernt (Cache, Grund: Apple-Themen: Siri.): 'Siri AI: Was in der Beta geht und was noch nicht'
-- Weiterhin entfernt (Cache, Grund: Thema interne PC-Komponenten (RAM).): 'Speicherriesen priorisieren offenbar wieder DDR5-DRAM'
-- Weiterhin entfernt (Cache, Grund: Thema Code-Theorie und Web-Infrastruktur (Container-Images).): 'Minimus stellt tausende CVE-freie Container-Images kostenlos bereit'
-- Gelöscht (Grund: Fällt unter Code-Theorie und Software-Architektur (Anti-Pattern in Projekten).): 'software-architektur.tv: Wie fährst du dein Projekt zuverlässig an die Wand?'
-- Gelöscht (Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Ökosystem einer Programmiersprache).): 'Rust startet kommerzielles Netzwerk'
-- Gelöscht (Grund: Fällt unter das Thema Code-Theorie (wirtschaftliche Analyse der Softwareentwicklung).): 'KI teurer als der Mensch: Bis 2028 übersteigen Coding-Kosten das Entwicklergehalt'
-- Gelöscht (Grund: Fällt unter Web-Infrastruktur und Enterprise-IT (OAuth/Cloudflare-Ökosystem).): 'OAuth für alle: Cloudflare öffnet sein Ökosystem'
-- Gelöscht (Grund: Fällt unter Basteleien an Windows (PowerToys ist ein System-Utility für Poweruser).): 'PowerToys 0.100.1: Bugfix-Release bügelt nervende Fehler aus'
-- Gelöscht (Grund: Fällt unter das Thema interne Hardware-Komponenten (KI-Chip/Silizium).): 'Jalapeno: OpenAIs erster eigener KI-Chip ist fertig'
-- Gelöscht (Grund: Fällt unter das Thema Code-Theorie (Software-Testing und Entwicklungsprozesse).): 'Software Testing: Was KI mit Vertrauen und Teamgefüge wirklich anrichtet'
-- Gelöscht (Grund: Fällt unter Enterprise-IT und Datenbank-Infrastruktur.): 'Sicherheitsupdate: Kritische Client-Handshake-Lücke bedroht IBM Db2'
-- Gelöscht (Grund: Fällt unter Enterprise-IT und Netzwerk-Infrastruktur (Cisco).): 'Angriffe auf Cisco Unified CM beobachtet'
-- Gelöscht (Grund: Fällt unter das Verbot von Artikeln über interne PC-Komponenten (RAM-Diskussion).): 'Weniger für mehr Geld: Microsoft rechtfertigt 8 GByte RAM in eigenen Laptops'
-- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe Ereignis (GTA 6 Vorbestellung/Preis) wie Artikel 24.): 'Rockstar Games: Die Ultimate Edition von GTA 6 ist der eigentliche Standard'
-- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe Ereignis wie Artikel 29.): 'Anlernen neuer KI-Systeme: Anthropic wirft Alibaba unerlaubte Kopier-Attacke vor'
-- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe Ereignis (GTA 6 Preis) wie Artikel 24.): '„GTA 6“ kostet in Europa 80 Euro'
+KI-Filter (Gemini) - 44 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Software-Architektur (Anti-Pattern in Projekten).): 'software-architektur.tv: Wie fährst du dein Projekt zuverlässig an die Wand?'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Ökosystem einer Programmiersprache).): 'Rust startet kommerzielles Netzwerk'
+- Weiterhin entfernt (Cache, Grund: Fällt unter das Thema Code-Theorie (wirtschaftliche Analyse der Softwareentwicklung).): 'KI teurer als der Mensch: Bis 2028 übersteigen Coding-Kosten das Entwicklergehalt'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Web-Infrastruktur und Enterprise-IT (OAuth/Cloudflare-Ökosystem).): 'OAuth für alle: Cloudflare öffnet sein Ökosystem'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Basteleien an Windows (PowerToys ist ein System-Utility für Poweruser).): 'PowerToys 0.100.1: Bugfix-Release bügelt nervende Fehler aus'
+- Weiterhin entfernt (Cache, Grund: Fällt unter das Thema interne Hardware-Komponenten (KI-Chip/Silizium).): 'Jalapeno: OpenAIs erster eigener KI-Chip ist fertig'
+- Weiterhin entfernt (Cache, Grund: Fällt unter das Thema Code-Theorie (Software-Testing und Entwicklungsprozesse).): 'Software Testing: Was KI mit Vertrauen und Teamgefüge wirklich anrichtet'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Enterprise-IT und Datenbank-Infrastruktur.): 'Sicherheitsupdate: Kritische Client-Handshake-Lücke bedroht IBM Db2'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Enterprise-IT und Netzwerk-Infrastruktur (Cisco).): 'Angriffe auf Cisco Unified CM beobachtet'
+- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe Ereignis (GTA 6 Preis) wie Artikel 24.): '„GTA 6“ kostet in Europa 80 Euro'
+- Gelöscht (Grund: Inhalt betrifft interne PC-Komponenten und Halbleiterfertigung.): 'Halbleiterfertigung: IBM stapelt für 7-Angstrom-Prozess Transistoren'
+- Gelöscht (Grund: Inhalt betrifft Netzwerk-Infrastruktur.): 'Koax und DOCSIS 3.1: Vodafone-Kabelnetz braucht beim Segmentieren viel Tiefbau'
+- Gelöscht (Grund: Inhalt betrifft interne PC-Komponenten (Speicherherstellung).): 'Micron: Client-Speicher bringt die höchste Marge ein'
+- Gelöscht (Grund: Inhalt betrifft Enterprise-IT und Infrastruktur.): 'Hitzewelle: Abschaltung von Rechenzentren nicht ausgeschlossen'
+- Gelöscht (Grund: Inhalt betrifft Web-Infrastruktur (Cloud-Dienste).): 'AWS und Azure: EU-Kommission knöpft sich Cloud-Riesen wettbewerbsrechtlich vor'
+- Gelöscht (Grund: Inhalt betrifft Deep OS-Internals und Betriebssystem-Wartung/Updates.): 'Windows 10: ESU-Updates bis Oktober 2027 verlängert'
+- Gelöscht (Grund: Duplikat zu Artikel 17.): 'Bundestag wählt Juraprofessor Moritz Hennemann neuen Datenschutzbeauftragten'
+- Gelöscht (Grund: Inhalt betrifft das Thema iPhone (Ausschlusskriterium) sowie belangloses Apple-Rauschen.): 'Apple erhöht Preise für Macs und iPads'
+- Gelöscht (Grund: Duplikat zu Artikel 21.): 'Tesla plant massive Personalaufstockung in Grünheide'
+- Gelöscht (Grund: Inhalt betrifft interne PC-Komponenten (Speichermarkt).): 'Micron: Speicherabkommen schließen Rückkehr zu alten Preisen aus'
+- Gelöscht (Grund: Inhalt fällt unter belangloses Apple-Rauschen (Preisanpassungen/Updates).): 'iPad, Mac, Apple TV: Apple erhöht auch in Deutschland die Preise'
+- Gelöscht (Grund: Inhalt betrifft Code-Theorie (KI-Entwicklung).): 'Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter'
+- Gelöscht (Grund: Inhalt fällt unter belangloses Apple-Rauschen (Preisanpassungen).): 'Macs und iPads zuerst: Apple setzt die Preise hoch'
+- Gelöscht (Grund: Duplikat zu Artikel 16.): 'Leica SL3-P: Leicas neue Vollformatkamera kostet 6.000 Euro'
+- Gelöscht (Grund: Inhalt fokussiert auf interne PC-Komponenten (Grafikkarten/Prozessoren).): 'Mit Radeon RX 9060XT: Steam-Machine-Alternative hat mehr Leistung zum gleichen Preis'
+- Gelöscht (Grund: Inhalt betrifft Enterprise-IT und interne PC-Komponenten (Server-CPUs).): 'Dragonfly: Qualcomm plant Server-CPU und Speicher mit Rechenfunktion'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Bungie feuert die meisten Destiny-Entwickler und sogar einige des Marathon-Teams
+- [Heise] Autos sind zu vernetzt: Polestar gibt den US-Markt auf
+- [Digitec] Digitales Notizbuch von Huion im Test: träge, aber vielseitig
+- [Digitec] Besuch beim Schweizer Controller-Hersteller Rocket Games
+- [Heise] Australische Kinder nutzen Soziale Netze trotz Verbots
+- [Heise] Xbox: Microsoft erhöht Konsolenpreise weltweit zum 1. August
+- [Heise] Amazon-Bestseller am Prime Day 2026: Welche Deals lohnen sich?
+- [Golem] Prädiktive Polizeiarbeit: Britisches Projekt zur Verbrechensvorhersage gescheitert
+- [Heise] Sachsens neues Polizeigesetz: KI-Fahndung und Gesichtserkennung beschlossen
+- [Heise] Mars-Rover Perseverance: Marathon absolviert und aus dem All fotografiert
+- [Microsoft] Learning Agent now generally available — personalized AI upskilling for every employee
+- [Heise] Leica SL3-P: Neue Vollformatkamera mit 44 Megapixeln für 6.000 Euro
+- [Golem] Moritz Hennemann: Bundestag wählt neuen Datenschutzbeauftragten
+- [Heise] Gesetz zur Stärkung der Cybersicherheit: Ärzte sehen Schweigepflicht gefährdet
+- [Golem] Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein
+- [Heise] Kia PV5: E-Bus nun auch mit weniger Reichweite und Platz
+- [Golem] Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor
+- [Heise] Home Gym statt Fitnessstudio: Smarte Geräte, Laufband & Ergometer für zu Hause
+- [Digitec] Oppo Reno 16 Pro im Test: Gutes Smartphone, happiger Preis
+- [Heise] Commodore reagiert auf Kritik: Sailfish-Klapphandy wird 100 US-Dollar günstiger
+- [Golem] Anhörung zum Heizungsgesetz: Experten befürchten hohe Kosten für Mieter
+- [Heise] Landtag NRW: Abschaffung der Landesdatenschützer bringt Juristen ins Schwitzen
+- [Golem] Resurrection: Für manche eine Offenbarung, für andere eine Geduldsprobe
+- [Heise] Zuse-Computer-Museum ZCOM in Hoyerswerda steht vor dem Aus
+- [Heise] „GTA 6“: Betrug mit vermeintlichem „Early Access“
+- [Heise] ChatGPT und Copilot: US-Verlage reichen nächste Klage wegen KI-Training ein
+- [Heise] Niederländischer Energieversorger baut 1-Gigawattstunden-Langzeitspeicher
+- [Heise] Digitalisierung der Verwaltung: Bund gibt Tempo vor, Länder müssen aufholen
+- [Golem] 12 Jahre alter Bug: Manipulierbare Download-Links auf Python.org
 - [Golem] Crash mit FSD: Familie von Unfallopfer verklagt Tesla
 - [Golem] Kia EV2 im Praxistest: An diesem Auto muss VW mit dem ID.Cross vorbei
 - [Golem] Platz 33 der damaliges Weltrangliste: Als das US-Militär einen Supercomputer aus 1.760 Playstations baute
@@ -85,42 +109,8 @@ Finale Liste (live im XML-Feed):
 - [Golem] Slate Truck: E-Pick-up für 24.950 Dollar ist fertig
 - [Golem] Astronomie: Neptunmond Nereid könnte Apokalypse überlebt haben
 - [Digitec] Speicherplatz für noch mehr Daten
-- [Golem] Künstliche Intelligenz: Forscher prognostiziert Superintelligenz für 2027
 - [Digitec] «GTA 6» kostet 80 Franken und kommt ohne Disc
-- [Golem] Jugendschutz: Australiens Social-Media-Verbot zeigt kaum Wirkung
 - [Digitec] «Avatar: The Last Airbender» Staffel 2 kürzt schmerzhaft viel – und überzeugt trotzdem
-- [Golem] Behörden greifen ein: Millionen von Passwörtern mit Malware erbeutet
 - [Heise] Anthropic beschuldigt Alibaba des KI-Modell-Diebstahls
 - [Heise] Verfassungsschutz zu Spionage: Unis sollen wachsamer sein
 - [Heise] Google Play: Alternative Bezahlsysteme ab 30. Juni weltweit erlaubt
-- [Heise] Anthropic darf für die Nutzung von Claude künftig einen Ausweis verlangen
-- [Heise] Binance stellt Kryptowährungs-Handel im Europäischen Wirtschaftsraum ein
-- [Digitec] Der beste Fensterputzroboter bisher – aber auch der teuerste
-- [Heise] OpenAI und Broadcom kündigen neuen KI-Chip Jalapeño an
-- [Heise] Funklöchern auf der Spur: Zweite bundesweite Mobilfunkmesswoche läuft
-- [Heise] Angebote für Mini-PC & Laptop im Check: Echte Tiefstpreise und bis 20 % Rabatt
-- [Heise] Astronomie: Galaxien im Bullet-Cluster doch kein Beweis für Dunkle Materie?
-- [Heise] Elektronische Patientenakte: Zwischen KI-Ambitionen und Kritik am Ausbautempo
-- [Digitec] «Supergirl»: Rotzig, betrunken und leider nur okay
-- [Heise] Autos werden laut einer aktuellen Studie im Jahr mehr als 1 Zentimeter länger
-- [Heise] Alibaba verklagt US-Regierung
-- [Golem] Fantasy bei Prime Video: Conan der Barbar wird Animationsserie
-- [Golem] Drohnen im Polizeieinsatz: Polizei entwaffnet Verdächtigen mit Magnetdrohne
-- [Golem] App des Weißen Hauses: US-Regierungsmitarbeiter werden Trump-App nicht los
-- [Heise] Quantensicherer NFC- und eSIM-Chip für Smartphones und Smartwatches
-- [Golem] Datenleck stoppt KI-Training: Meta setzt Überwachung seiner Angestellten aus
-- [Golem] US-Regierung fordert Einblick: Meta verweigert Überprüfung von KI-Modellen
-- [Heise] Hepha Urban X: E-Bike lädt in 15 Minuten, rekuperiert und schaltet selbst
-- [Heise] DHL lässt Fracht über den Atlantik segeln
-- [Golem] Anthropic: EU-Digitalkommissarin kritisiert USA für KI-Exportbeschränkungen
-- [Heise] Mehr als Mindestalter: Was die Prien-Kommission empfiehlt
-- [Golem] Astronomie: Gigantische Weltraumexplosion hinterließ Spuren am Meeresboden
-- [Heise] Diese alternativen Klimaanlagen sind lieferbar
-- [Heise] KI-Update kompakt: Five-Eyes-Warnung, GPT-5.5-Cyber, Vibecoding, Filmbranche
-- [Digitec] Gemini trifft auf Smart Home: Der neue Home Speaker im Test
-- [Golem] Massenhafte Buchbestellungen: Gefährdet destruktives Scannen für KI das deutsche Bucherbe?
-- [Heise] ADAC-Ganzjahresreifentest: Ein Modell ist „gut“, fünf sind ein Sicherheitsrisiko
-- [Digitec] «Star Fox» im Test: ein fast perfektes Remake
-- [Heise] Zahlen, bitte! Auf der Welt gibt es 11.422 Großstädte – was wir über sie wissen
-- [Heise] Nach Störung: Bahn nennt Techniktausch als Ursache
-- [Heise] Intersolar 2026: Klimaneutralität technisch machbar, politisch nicht auf Kurs
