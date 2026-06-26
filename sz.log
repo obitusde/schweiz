@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 25.6.2026, 06:24:57
-Letzter Lauf: 24.6.2026, 06:24:58
+Start: 26.6.2026, 06:24:57
+Letzter Lauf: 25.6.2026, 06:24:57
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -13,56 +13,64 @@ Abruf der RSS-Feeds:
 
 Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
-- Gelöscht wegen Keyword 'leute:': 'Leute: Harry und Meghan wollen bei König Charles unterkommen'
-- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 24. Juni 2026'
-- Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Bundesweite Störung: Die Bahn hat besonnen reagiert'
+- Gelöscht wegen Keyword 'leute:': 'Leute: Was schenkt man einer Milliardärin zur Hochzeit?'
+- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 25. Juni 2026'
 
-KI-Filter (Gemini) - 46 neue Artikel geprüft:
-- Gelöscht (Grund: Betrifft deutsche Parteipolitik/Parteipolitische Interna.): [Politik] 'Rechtsextremismus: Hitlergruß-Vorwurf gegen AfD-Politiker Reichardt'
-- Gelöscht (Grund: Betrifft deutsche Kommunalpolitik.): [Wirtschaft] 'Stadtpolitik: Wie läuft’s mit dem grünen Umbau Münchens, Herr Krause?'
-- Gelöscht (Grund: Duplikat zu ID 19 (behandeln dasselbe Thema: Stopp des Fregattenprogramms).): [Politik] 'Bundeswehr: Ende für das größte Rüstungsprojekt der Marine'
-- Gelöscht (Grund: Betrifft deutsche Kommunalpolitik/lokale Verordnungen.): [Auto] 'Scan-Autos: Verschärfte Jagd auf Falschparker'
-- Gelöscht (Grund: Duplikat zu ID 40 (behandeln den Vorfall der Bahnstörung).): [Wirtschaft] 'Deutsche Bahn: Und plötzlich steht alles still'
-- Gelöscht (Grund: Betrifft deutsche Parteipolitik.): [Wirtschaft] 'SZ Nachhaltigkeitsgipfel: Hubert Aiwanger nimmt es mit dem Klimawandel nicht so genau'
+KI-Filter (Gemini) - 55 neue Artikel geprüft:
+- Gelöscht (Grund: Deutsches Politik-Thema, fällt unter den Ausschlussbereich deutsche Kommunalpolitik/Politik.): [Politik] 'Bundespolitik: Entlastung von Kommunen: Bund einigt sich mit Ländern auf Finanzreform'
+- Gelöscht (Grund: Thema Kochen/Rezepte.): [Magazin] 'Bratkartoffeln im Sommergewand'
+- Gelöscht (Grund: Thema Mode/Benimmregeln (kein informativer Mehrwert).): [Magazin] 'Soll ich was sagen, wenn ich die Kleidung meines Chefs unpassend finde?'
+- Gelöscht (Grund: Thema Mode.): [Leben] 'Ladies & Gentlemen: Hitze Couture'
+- Gelöscht (Grund: Thema Mode.): [Leben] 'Italien: Das Comeback der alten Damen'
+- Gelöscht (Grund: Duplikat zu ID 13; ID 13 ist informativer.): [Politik] 'Schifffahrt: Oman: Keine Hormus-Gebühren'
+- Gelöscht (Grund: Regionale deutsche Kommunalpolitik/Infrastruktur.): [Politik] 'Stuttgart 21: „Die Bahn hat bei der Umsetzung gravierende Fehler gemacht“'
+- Gelöscht (Grund: Parteipolitik.): [Politik] 'AfD: Ein ausgestreckter Arm und viele Fragen'
+- Gelöscht (Grund: Duplikat zu ID 3/ID 10; ID 10 ist umfassender und informativer.): [Panorama] 'Südamerika: Zahl der Toten nach schwerem Erdbeben in Venezuela steigt'
+- Gelöscht (Grund: Duplikat zu ID 40; ID 40 enthält weiterführende Einordnung.): [Wirtschaft] 'Everllence: Volkswagen verkauft Mehrheit an Motorenhersteller'
+- Gelöscht (Grund: Deutsche Kommunalpolitik/Stadt-Thema.): [Panorama] 'Halle (Saale): Ein Badesee, nicht mehr für alle?'
+- Gelöscht (Grund: Thema Erziehung von Kleinkindern.): [Leben] 'Elternkolumne „Die Erziehungsberechtigten“: Dann hau doch!'
 
 Finale Liste (live im XML-Feed):
-- [Politik] NSDAP-Mitgliederkartei: Geschichte(n) schreiben: Lassen Sie uns zusammenarbeiten
-- [Politik] NSDAP-Mitgliederkartei: Wer war in der Nazi-Partei?
-- [Panorama] Viele Tote befürchtet: Zwei Erdbeben erschüttern Venezuela – Notstand ausgerufen
-- [Politik] USA: Trump eröffnet US-Jubiläumsfeiern mit Selbstlob
-- [Politik] E5-Treffen in Berlin: Wie fünf Europäer die Nato retten wollen
-- [Wissen] Psychologie und Popmusik: Ich, ich, ich: Popsongs sind in den vergangenen 50 Jahren immer selbstbezogener geworden
-- [Politik] NSDAP-Mitgliederkartei: Wie man Parteimitglied wurde
-- [Politik] NSDAP-Mitgliederkartei: Warum wir uns der Auswertung der NSDAP-Akten widmen
-- [Wirtschaft] René Benko: Der Trick mit dem Staubsauger
-- [Politik] Werkstattbericht: Wie wir die NSDAP-Akten ausgewertet haben
-- [Politik] Glosse: Das Streiflicht
-- [Wissen] Biologie: Wie man Motten loswird
-- [Magazin] Wie essen, um mit allen Mikronährstoffen versorgt zu sein?
-- [Magazin] Die Forelle auf der Erbse
-- [Politik] Jugendschutz: Prien: Social Media erst ab 13 Jahren
-- [Wirtschaft] SK Hynix: Südkoreanischer Chiphersteller gehört zu den größten Profiteuren des KI-Booms
-- [Wirtschaft] Patente: Wie Deutschland sein Wissen nach China verkauft
-- [Wirtschaft] Rüstung: Rekord-Kurssturz bei Rheinmetall
-- [Wirtschaft] Russland: Razzien rund um Ex-Gazprom-Tochter wegen Sabotageverdachts
-- [Politik] NSDAP-Mitgliederkartei: Wie man die NSDAP-Karteikarten richtig liest
-- [Politik] Russland: „Sie übertragen ihren Selbsthass auf den Westen“
-- [Politik] Libanon: Die Beschützerin der Schildkröten stirbt nach israelischem Luftangriff
-- [Panorama] Baden-Württemberg: Polizei ermittelt gegen Mutter des gefundenen toten Babys
-- [Wirtschaft] Artenvielfalt: Lass wachsen!
-- [Leben] Klimaanlagen: Schwitz, lass nach
-- [Wissen] Frankreich: Erster Ebola-Fall in Europa seit Beginn des aktuellen Ausbruchs
-- [Wirtschaft] Geld: Welche Folgen haben die höheren Leitzinsen für Verbraucher?
-- [Leben] Kolumne „Liebes Paar“: Darf ich mich neu verlieben?
-- [Leben] Berlin: Der Mann, der dem Bundespräsidenten aufs Dach stieg
-- [Leben] Historie: Das Verbrechen im Wald nebenan
-- [Wirtschaft] Panzerbauer KNDS: Der große staatliche Einfluss wird Investoren abschrecken
-- [Panorama] Prozess in Zweibrücken: Er wollte bloß Tickets kontrollieren, dann wird er totgeprügelt
-- [Panorama] SZ-Podcast „Das Thema“: Der TÜV und die Toten
-- [Wirtschaft] Infineon-Chef Hanebeck: „Du musst unter den richtigen Apfelbäumen stehen“
-- [Leben] Kolumne „Schon schön“: Schützenfest mit Bad Bunny
-- [Wirtschaft] Commerzbank/Unicredit: Plan B für die Commerzbank
-- [Panorama] Verkehr: Bahnstörung in Deutschland: Die wichtigsten Fragen und Antworten
-- [Wirtschaft] EU-Digitalkommissarin Henna Virkkunen: „Souveränität heißt nicht Protektionismus“
+- [Politik] USA: Bayer gewinnt vor Oberstem Gerichtshof zu Glyphosat
+- [Politik] Krieg in Nahost: Iran greift Containerschiff in der Straße von Hormus an
+- [Politik] USA: Oberster Gerichtshof stützt Trumps Asylpolitik
+- [Panorama] Erdbeben: „Venezuela rutscht von einer Krise in die nächste“
+- [Wirtschaft] Einzelhandel: Galeria erhält Millionenkredit für Sanierung
+- [Leben] Post von euch: Ausversehengesichter
+- [Politik] SZ-Podcast „Auf den Punkt“: Deutschland schwitzt – und muss Hitze neu denken
+- [Wissen] Menschheitsgeschichte: Hihihi oder hahaha?
+- [Wissen] Erdbeben: Doppel-Katastrophe aus dem Untergrund
+- [Politik] Krieg in Nahost: Oman: Keine Gebühren an der Straße von Hormus geplant
+- [Magazin] Was meine KI über mich denkt
+- [Magazin] Der Berg ruft
 - [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
-- [Leben] NSDAP-Mitgliederkartei: „Die besten Nationalsozialisten“
+- [Wirtschaft] Arbeitspsychologie: Aber Chef, ich habe keinen Durst
+- [Magazin] Renaissance von britischem Charme
+- [Wirtschaft] Glyphosat-Klagen: Bayer gewinnt im Glyphosat-Streit vor US-Supreme-Court
+- [Politik] Ukraine-Konferenz in Polen: Ein Zahltag und viele Pläne
+- [Magazin] Welche Kindersonnencreme empfehlen Dermatologinnen – und Kinder?
+- [Wirtschaft] Grünheide: Tesla verkündet: Mehr als 1000 neue Mitarbeiter in Deutschland
+- [Wirtschaft] Rüstungsunternehmen: Hat Rheinmetall zu viel versprochen?
+- [Politik] Verteidigung: Nur 530 Freiwillige für die Bundeswehr
+- [Wirtschaft] Wohnungsmarkt: Immobilienpreise in Deutschland steigen langsamer
+- [Politik] Glosse: Das Streiflicht
+- [Politik] Grundgesetz: Gutachten sieht gute Chancen für ein AfD-Verbot
+- [Leben] Rätseln: Wortkarussell
+- [Leben] Lachen: Witzduell
+- [Leben] Anderswowort: Die Arschkarte ziehen
+- [Politik] Katholische Kirche: Die finstere Seite der Lichtgestalt
+- [Wirtschaft] Reden wir über Geld: „So schnell, wie ich das Geld gewonnen habe, habe ich es auch wieder verloren“
+- [Wirtschaft] Renault: Kamikazedrohnen aus der Autofabrik
+- [Wirtschaft] Hitzewelle: Viele Pariser halten es in ihren Wohnungen nicht mehr aus
+- [Wirtschaft] Everllence-Verkauf: Volkswagen verschafft sich etwas Luft – im besten Fall
+- [Leben] Patchwork-Familie: Ich würde sie gerne mögen
+- [Leben] Familiengeschichte: „Da bröckelt das Vertrauen in das Familiennarrativ“
+- [Leben] Interview mit Juli Zeh: „Ein wachsender Teil der Menschen ist gar nicht mehr erreichbar“
+- [Magazin] Flussbier
+- [Panorama] Wetter: Rekord für wärmste Nacht in Deutschland eingestellt
+- [Leben] Culture: Fruit Is Too Sweet
+- [Wirtschaft] Private Krankenversicherung Ergo: Die Marke DKV verschwindet vom Markt
+- [Leben] Serie: „Wie hast du dich verändert“: Campen unter dem Fünf-Sterne-Himmel
+- [Leben] Essay über das Meer: Eine schrecklich schöne Welt
+- [Leben] Deutscher Alltag: Fehlt nur noch Mick Jagger
+- [Panorama] Kolumne „Mitten in …“: Meerschweinchen, mausetot
