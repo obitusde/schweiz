@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 25.6.2026, 12:58:40
-Letzter Lauf: 25.6.2026, 06:30:37
+Start: 26.6.2026, 06:30:36
+Letzter Lauf: 25.6.2026, 12:58:40
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -15,63 +15,61 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/QYUORaarYc2r.xml
 
 Statischer Filter (Keywords):
-- Gelöscht wegen Keyword 'wölfe': 'Revision Jagdgesetz – Regeln für den Abschuss von Wölfen sollen gelockert werden'
+- Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 16 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Kriminalität/Missbrauchsmeldung ausserhalb des Kantons Waadt (Bern/Winterthur).): 'Männer in der Kinderbetreuung – Kita-Betreuer: «Mein Dasein als Mann macht mich nicht zum Täter»'
-- Weiterhin entfernt (Cache, Grund: Kriminalität ausserhalb des Kantons Waadt (Bern).): 'Mädchen-Mord im Könizbergwald – Bundesgericht bestätigt Urteil gegen Mutter – 18 Jahre Haft'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 8 (Themenkomplex Bundesfinanzen/Rüstung).): 'Mehr Mittel, weniger MwSt – VBS-Chef Pfister kommt seinem Aufrüstungsziel etwas näher'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 2 (Hitzewelle Schweiz).): 'Hitze in Grafiken – Wo die Hitzewelle in der Schweiz am heftigsten ist'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 8 (Themenkomplex Bundesfinanzen/Mehrwertsteuer).): 'Zusätzliche Rüstungsausgaben – Bundesrat will Mehrwertsteuer nur um 0.5 Prozentpunkte erhöhen'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 2 (Hitzewelle Schweiz).): '«Une possible fin de la vague de chaleur se profile pour lundi»'
-- Weiterhin entfernt (Cache, Grund: Negativ-Thema (Suizidrate) ausserhalb des Kantons Waadt (Jura).): 'Le canton du Jura affiche le plus haut taux de suicide du pays'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 8 (Staatshaushalt/Steuermehreinnahmen).): 'Staatshaushalt – Bundesrat verzichtet auf weitere Sparpakete – dank Gewinnsteuern'
-- Gelöscht (Grund: Duplikat zum Thema Erdbeben in Venezuela (ID 13 ist informativer).): 'Notstand ausgerufen – Schwere Erdbeben erschüttern Venezuela – das ist bekannt'
-- Gelöscht (Grund: Duplikat zum Thema Erdbeben in Venezuela (ID 13 ist informativer).): 'Erdbeben in Venezuela – Caritas-Mitarbeiter: «Jetzt braucht es sauberes Wasser und Zelte»'
-- Gelöscht (Grund: Brandmeldung ausserhalb des Kantons Waadt (Roches-de-Moron liegt im Kanton Neuenburg).): 'Important incendie de forêt maîtrisé aux Roches-de-Moron'
+KI-Filter (Gemini) - 42 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Brandmeldung ausserhalb des Kantons Waadt (Roches-de-Moron liegt im Kanton Neuenburg).): 'Important incendie de forêt maîtrisé aux Roches-de-Moron'
+- Gelöscht (Grund: Dublette zu Artikel 0 (SRF-Artikel bevorzugt).): 'Notstand ausgerufen – Schwere Erdbeben erschüttern Venezuela – das ist bekannt'
+- Gelöscht (Grund: Meldung über einen Brand außerhalb des Kantons Waadt (La Chaux-de-Fonds).): 'Un véhicule en feu près de la gare'
+- Gelöscht (Grund: Blaulicht-Meldung (Brandgefahr/Feuerverbot) außerhalb des Kantons Waadt.): 'Les cantons interdisent ou restreignent les feux en plein air'
+- Gelöscht (Grund: Meldung über einen Brand außerhalb des Kantons Waadt (Genf).): 'La Tesla incendiée à la manif anti-G7 a brûlé plusieurs jours'
+- Gelöscht (Grund: Dublette zu Artikel 30 (Gleiches Thema: Widerstände bei der Movodis-Fusion).): 'La fusion s'enlise dans les rivalités régionales'
+- Gelöscht (Grund: Kriminalitätsmeldung außerhalb des Kantons Waadt.): 'À 45 ans, il rembourse ceux qu'il avait escroqués'
 
 Finale Liste (live im XML-Feed):
+- [SRF Ausland] Nach Erdbeben in Venezuela – Die Lage nach dem Jahrhundertbeben bleibt unübersichtlich
+- [20 Min Romandie] «Solange das Kind die Pedale erreicht, ist es für mich in Ordnung»
+- [SRF Schweiz] Trotz leichter Verbesserung – Weiterhin zu wenige Halte- und Durchgangsplätze für Fahrende
+- [SRF Schweiz] Kein freiwilliger Zivildienst – Neuer Sicherheitsdienst – Chance für mehr Gleichstellung?
+- [SRF Ausland] Neue Regeln für die Politik – Giorgia Meloni macht sich am Wahlgesetz zu schaffen
+- [Journal de Morges] Die Familie Ravet kehrt für den Bundesrat in die Küche zurück
+- [SRF Ausland] Katastrophe in Venezuela – Flieger mit den Spezialisten aus der Schweiz ist gestartet
+- [SRF Schweiz] Live vom Open Air St. Gallen – Worüber das OASG nach dem ersten Festivaltag spricht
+- [RTS Vaud] Waadtländer SVP nominiert erneut Jean-François Thuillard für den Staatsrat
+- [SRF Schweiz] Hitzewelle und Trockenheit – Paris verbietet öffentlichen Konsum und Verkauf von Alkohol
+- [Journal de Morges] Über 120 Millionen für die Abwasserreinigung
+- [Journal de Morges] In 100 Jahren hat sich die Morgianerin Yvonne Paccaud nie unterkriegen lassen
+- [SRF Ausland] Erdbeben in Venezuela – «Wo ich wohne, sind ganze Hochhäuser eingestürzt»
+- [20 Min Romandie] Die SBB werden in der Westschweiz langsamer und in der Deutschschweiz schneller
+- [SRF Wirtschaft] Demografischer Wandel – Tiefe Geburtenrate ist Gefahr für Wirtschaft
+- [SRF Ausland] Unkrautvernichter – Bayer mit Erfolg vor oberstem US-Gericht im Glyphosat-Streit
+- [20 Min Romandie] Zwei kritisierte Demo-Einsätze: ein einziger Einsatzleiter
+- [SRF Ausland] Erdbeben in Venezuela – Trümmer und Tränen – die Katastrophe in Bildern
+- [20 Min Romandie] G7-Gipfel führt zur Absage der Lake Parade 2026
+- [SRF Schweiz] Rettungswesen – Neue Rega-Basis: Hoffnung im Goms, Widerstand im Wallis
+- [SRF Schweiz] NDB-Bericht 2026 – NDB: Sicherheitslage der Schweiz weiter verschlechtert
+- [SRF Ausland] Erdbeben in Venezuela – Das Erdbeben trifft ein Land im Krisenmodus
+- [SRF Wirtschaft] Strassenbau bei 35 Grad – Wie Bauarbeiter der Hitze trotzen
+- [SRF Wissen] Walforschung im Mittelmeer – Pottwale reden Dialekt – und verschieden schnell
+- [SRF Schweiz] Gefährliche Hautkrankheit – Krätzefälle in Romandie, aber keine Epidemie
+- [RTS Vaud] Yverdon und Travys fordern mehr Gewicht innerhalb des künftigen Riesen Movodis
+- [SRF Schweiz] Stimmen aus der Community – «Klimaerwärmung kommt schneller als Anpassung der Gesellschaft»
+- [SRF Wirtschaft] Auch weniger Poststellen – Umsatz im Postmarkt sinkt wegen abnehmender Briefmengen
+- [20 Min Romandie] Warum Schweine mehr unter der Hitzewelle leiden
+- [SRF Wissen] Einzigartiges Euclid-Bild – So schön war die Milchstrasse noch nie
+- [SRF Schweiz] Experimente mit Adoptivkindern – Politik reagiert auf Skandal bei Terre des Hommes
+- [20 Min Romandie] Immer noch Hitzewelle, aber mit einer neuen Variante
+- [SRF Schweiz] Die Hälfte ist 60+ – Die abstimmende Bevölkerung wird immer älter
+- [SRF Ausland] Erdbeben in Venezuela – Caritas-Mitarbeiter: «Jetzt braucht es sauberes Wasser und Zelte»
+- [SRF Ausland] Vorwürfe gegen Israel – UNO-Bericht: «Kinder werden gezielt von Israel beschossen»
+- [SRF Schweiz] Ab 2027 – Die Post steigt aus dem Patientendossier EPD aus
 - [20 Min Romandie] Westschweiz nimmt im Verhältnis mehr Asylsuchende auf
 - [SRF Ausland] Südamerikanische Feedlots – Fleisch-Edelstücke auf Kosten des Tierwohls
-- [SRF Schweiz] Live vom Open Air St. Gallen – Run aufs Gelände: Das Open Air St. Gallen ist offiziell eröffnet
 - [20 Min Romandie] Arbeiten in der Sonne am Nachmittag bis Sonntag verboten
-- [SRF Schweiz] Hitzewelle und Trockenheit – AKW Beznau 1 und 2 laufen noch auf 50 Prozent
 - [20 Min Romandie] Das beste Pain au Chocolat von Lausanne wurde gekürt
 - [SRF Schweiz] Hitze und Sport – Baspo-Direktorin: «Mit Klimakammern simulieren wir Hitze»
 - [SRF Ausland] Französische Politik – Macron hievt Vertraute in Spitzenpositionen: Sein Recht?
 - [20 Min Romandie] Mutmassliche Räuber von Daillens stehen in Lyon vor Gericht
 - [20 Min Romandie] Die Westschweiz feiert die Nati
-- [SRF Ausland] Katastrophe in Venezuela – Schweres Erdbeben forderte mindestens 164 Tote und 971 Verletzte
 - [SRF Schweiz] Sparen bei der Auslandhilfe – Vorschlag des Bundesrates stösst auf scharfe Kritik
 - [SRF Wissen] Ebola im Ostkongo – «Die Menschen sterben, ohne dass wir sie zu Gesicht bekommen»
-- [SRF Schweiz] Temperaturen über 30 Grad – Hitzewelle erinnert an Sommer 2003 und 2018 – ein Vergleich
-- [RTS Vaud] FDP Waadt desavouiert ihre Abgeordneten und unterstützt 12%-Initiative zur Steuersenkung
-- [RTS Vaud] Streit um den Start von Movodis, dem künftigen Riesen des öffentlichen Verkehrs im Waadtland
-- [SRF Schweiz] Entlastungspaket 2027 – Bundesrat will 100 Millionen Franken bei der Auslandhilfe sparen
-- [RTS Vaud] IT-Software Epic für Waadtländer Krankenhäuser spaltet die Abgeordneten tiefgreifend
-- [SRF Schweiz] Mehreinnahmen des Bundes – Karin Keller-Sutter: «Bin Bundesrätin, nicht Parteipolitikerin»
-- [SRF Wissen] Auswirkungen von KI – Was für Berufseinsteiger im neuen Arbeitsmarkt wichtig ist
-- [SRF Ausland] Bis zu 44 Grad im Schatten – Höchste Warnstufe in den meisten Teilen von Frankreich
-- [20 Min Romandie] Jugendliche fordern thematische Bürgerversammlungen
-- [SRF Ausland] Zugreisen im Krieg – Die Lebensader der Ukraine ist nun auch Ziel russischer Angriffe
-- [SRF Wirtschaft] Strasse von Hormus – Gesperrt, offen, gesperrt: Krieg um eine Meerenge
-- [SRF Wirtschaft] Schweizer Leitindex – SMI klettert auf neues Allzeithoch
-- [SRF Wissen] Herzspezialist ordnet ein – Emotionen an der WM: Warum Fussball wortwörtlich ans Herz geht
-- [RTS Vaud] Das Montreux Comedy Festival verpflichtet sich, mindestens 10 % Schweizer Komiker zu programmieren
-- [Morges Actualitiés] Der Zirkus kommt nach Morges
-- [20 Min Romandie] Kein kostenloser Eintritt in die Schwimmbäder Bellerive und Montchoisi
-- [20 Min Romandie] Mit der Trockenheit steigt die Brandgefahr im Kanton
-- [SRF Ausland] Norwegisches Königshaus – Høiby legt Berufung gegen vierjährige Haftstrafe ein
-- [20 Min Romandie] Diebstahl von Luxusautos: Unter den Verdächtigen ein 13-jähriger Teenager
-- [SRF Wissen] Mini-Roboter im Mund – Forschende entwickeln neuen Zahnroboter
-- [20 Min Romandie] Hitzewelle setzt vierzig Fahrzeuge der TPG ausser Betrieb
-- [SRF Wissen] Sommerzeit ist Gewitterzeit – Blitzeinschlag: Das sind die Gefahren und so schützen Sie sich
-- [SRF Wissen] Insektenforschung – Lästige Blutsauger: Acht Fakten rund um die Bremse
-- [SRF Schweiz] Ein Land im Wandel – Die Schweiz aus der Vogelperspektive – seit 1926
-- [20 Min Romandie] Während des G7-Gipfels 117 gesuchte Personen an den Grenzen gefasst
-- [SRF Wissen] Hitzewelle auch in den Bergen – Gletscher haben bereits jetzt ihre Winterreserven aufgebraucht
-- [SRF Schweiz] Urteil des Bundesgerichts – Spermien einfrieren bei trans Personen: Kasse muss zahlen
-- [RTS Vaud] Suspendierung des Gemeinderats Ihsan Kurt in Prilly vom Bundesgericht bestätigt
-- [SRF Wissen] Schlangen in der Schweiz – Schlangenbisse: Weniger gefährlich als gedacht
-- [SRF Ausland] Hilfswerk Ärzte ohne Grenzen – Zuerst Sex, dann Hilfe – interner Bericht zeigt Missbrauchsfälle
-- [Journal de Morges] Aubonne übt (erneut) sein Vorkaufsrecht zum Kauf eines Gebäudes aus
