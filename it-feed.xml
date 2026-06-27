@@ -5,454 +5,252 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Fri, 26 Jun 2026 10:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:28:18 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Heise] Mercedes verschiebt Sonderzahlung: Betriebsrat kritisiert Sparkurs</title>
-      <link>https://www.heise.de/news/Mercedes-verschiebt-Sonderzahlung-Betriebsrat-kritisiert-Sparkurs-11345995.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345995</guid>
-      <description><![CDATA[Mercedes verschiebt den jährlichen „Transformationsbaustein“, der Betriebsrat spricht von einer „einseitigen Entscheidung“ und sieht wachsenden Druck.]]></description>
-      <pubDate>Fri, 26 Jun 2026 10:19:00 GMT</pubDate>
+      <title>[Golem] Trainingsmaterial: Indische Fabrikarbeiter filmen sich für KI-Roboter</title>
+      <link>https://www.golem.de/news/trainingsmaterial-indische-fabrikarbeiter-filmen-sich-fuer-ki-roboter-2606-210165.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/trainingsmaterial-indische-fabrikarbeiter-filmen-sich-fuer-ki-roboter-2606-210165.html</guid>
+      <description><![CDATA[Unternehmen zapfen indische Fabriken als Datenquelle für humanoide Roboter an. Die Arbeiter liefern die Aufnahmen - und wissen oft nicht, warum. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/robots/">Roboter</a>)]]></description>
+      <pubDate>Sat, 27 Jun 2026 10:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] ZCOM in Hoyerswerda: Zuse-Computer-Museum steht Schließung bevor</title>
-      <link>https://www.golem.de/news/zcom-in-hoyerswerda-zuse-computer-museum-steht-schliessung-bevor-2606-210222.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/zcom-in-hoyerswerda-zuse-computer-museum-steht-schliessung-bevor-2606-210222.html</guid>
-      <description><![CDATA[Das Museum beherbergt 18.000 Exponate und dokumentiert die Geschichte vom Rechenschieber bis zum Smartphone. (<a href="https://www.golem.de/specials/technikgeschichte/">Technikgeschichte</a>, <a href="https://www.golem.de/specials/computer/">Computer</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 10:16:07 GMT</pubDate>
+      <title>[Golem] Librepods im Test: Diese App zaubert viele praktische Airpods-Funktionen auf Android-Geräte</title>
+      <link>https://www.golem.de/news/librepods-im-test-diese-app-zaubert-viele-airpods-funktionen-auf-android-geraete-2606-210207.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/librepods-im-test-diese-app-zaubert-viele-airpods-funktionen-auf-android-geraete-2606-210207.html</guid>
+      <description><![CDATA[Je mehr Funktionen Apple für seine Airpods-Produkte entwickelt, desto weniger davon gibt es für Android-Geräte. Hier hilft die App Librepods - und sie kann noch mehr. Ein Test von Ingo Pakalski (<a href="https://www.golem.de/specials/apple-airpods/">Airpods</a>, <a href="https://www.golem.de/specials/apple/">Apple</a>)]]></description>
+      <pubDate>Sat, 27 Jun 2026 10:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Post zum Freitag: Die irrationale deutsche Angst vor Klimaanlagen muss verschwinden!</title>
-      <link>https://www.heise.de/meinung/Post-zum-Freitag-Die-irrationale-deutsche-Angst-vor-Klimaanlagen-muss-verschwinden-11345910.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345910</guid>
-      <description><![CDATA[40 Grad sind kaum auszuhalten. Trotzdem hält sich in Deutschland hartnäckig eine irrationale Angst vor Klimaanlagen – mit fatalen Folgen für die Schwächsten.]]></description>
-      <pubDate>Fri, 26 Jun 2026 10:02:00 GMT</pubDate>
+      <title>[Heise] US-Regierung lässt Zugang zu neuer KI von OpenAI beschränken</title>
+      <link>https://www.heise.de/news/US-Regierung-laesst-Zugang-zu-neuer-KI-von-OpenAI-beschraenken-11346768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346768</guid>
+      <description><![CDATA[Die amerikanische Regierung bestimmt nun mit, wer Zugang zu neuen KI-Modellen bekommt. Ein Auslöser ist Angst vor Missbrauch für Cyberattacken.]]></description>
+      <pubDate>Sat, 27 Jun 2026 09:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Geschichten über Vorgesetzte: "Am Ende der Besprechung ist immer einer am Weinen"</title>
-      <link>https://www.golem.de/news/geschichten-ueber-vorgesetzte-am-ende-der-besprechung-ist-immer-einer-am-weinen-2606-210179.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/geschichten-ueber-vorgesetzte-am-ende-der-besprechung-ist-immer-einer-am-weinen-2606-210179.html</guid>
-      <description><![CDATA[Vom schrägen Betriebsausflug über cholerische und inkompetente, aber auch empathische (!) Chefs: Ihr habt uns von euren Vorgesetzten erzählt. (<a href="https://www.golem.de/specials/it-jobs/">Arbeit</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 10:00:11 GMT</pubDate>
+      <title>[Golem] Schwindende Relevanz: Grok erzeugt hauptsächlich Erotikinhalte</title>
+      <link>https://www.golem.de/news/schwindende-relevanz-grok-erzeugt-hauptsaechlich-erotikinhalte-2606-210254.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/schwindende-relevanz-grok-erzeugt-hauptsaechlich-erotikinhalte-2606-210254.html</guid>
+      <description><![CDATA[Das KI-Modell Grok von xAI stand bereits wegen erotisierter Inhalte in der Kritik. Genau die sollen aber weiterhin zentral für das Geschäft sein. (<a href="https://www.golem.de/specials/xai/">xAI</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Sat, 27 Jun 2026 09:27:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] Massenentlassung bei Bungie: Fast das gesamte «Destiny 2»-Team muss gehen</title>
-      <link>https://www.digitec.ch/de/page/massenentlassung-bei-bungie-fast-das-gesamte-destiny-2-team-muss-gehen-43106?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/massenentlassung-bei-bungie-fast-das-gesamte-destiny-2-team-muss-gehen-43106</guid>
-      <description><![CDATA[Das Gamestudio Bungie streicht rund 300 Stellen. Von der Entlassungswelle sind fast alle Beschäftigten des «Destiny»-Teams sowie Teile der «Marathon»-Belegschaft betroffen. Auch Studioleiter Justin Truman verlässt das Unternehmen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:58:32 GMT</pubDate>
+      <title>[Heise] Getty kuschelt mit OpenAI – die Fotonews der Woche 26/2026</title>
+      <link>https://www.heise.de/news/Getty-kuschelt-mit-OpenAI-die-Fotonews-der-Woche-26-2026-11345918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11345918</guid>
+      <description><![CDATA[Getty Images und OpenAI werden Partner: Bilder jetzt in ChatGPT und Aktie steigt. VSCO will 500 Dollar, Adobe kauft Topaz Labs.]]></description>
+      <pubDate>Sat, 27 Jun 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Altersverifizierung für Social Media: Umsetzung bleibt das größte Problem</title>
-      <link>https://www.heise.de/news/Social-Media-Experten-fordern-risikobasierten-Jugendschutz-statt-Altersgrenzen-11345830.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345830</guid>
-      <description><![CDATA[Ob 13 oder 16 Jahre: Experten warnen, dass starre Altersgrenzen für soziale Medien ohne praktikable Altersprüfung kaum Wirkung zeigen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:43:00 GMT</pubDate>
+      <title>[Heise] KI-Hype vs. Realität: Warum Technologie allein nicht reicht</title>
+      <link>https://www.heise.de/hintergrund/KI-Hype-vs-Realitaet-Warum-Technologie-allein-nicht-reicht-11340363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11340363</guid>
+      <description><![CDATA[Warum der Erfolg von KI in der Praxis vom Zusammenspiel zwischen Mensch und Technik abhängt, erklärt Michael Zimmer in seiner Keynote von der data2day 2025.]]></description>
+      <pubDate>Sat, 27 Jun 2026 07:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Notion Mail wird abgeschaltet: Was Nutzer jetzt tun müssen</title>
-      <link>https://www.heise.de/news/Notion-Mail-wird-abgeschaltet-Was-Nutzer-jetzt-tun-muessen-11345780.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345780</guid>
-      <description><![CDATA[Notion stellt seinen E-Mail-Client Notion Mail am 22. September 2026 ein. Nutzer müssen bestimmte Daten bis dahin sichern.]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:40:00 GMT</pubDate>
+      <title>[Heise] Lukratives Sommergeschäft: Wie Geschäftemacher an Fake-Klimaanlagen verdienen</title>
+      <link>https://www.heise.de/hintergrund/Lukratives-Sommergeschaeft-Wie-Geschaeftemacher-an-Fake-Klimaanlagen-verdienen-11346695.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346695</guid>
+      <description><![CDATA[Jeden Sommer dasselbe Spiel: Werbebanner, Videos und Spam-Mails versprechen Linderung bei Hitze. Doch was – und wer – steckt dahinter?]]></description>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] Microsoft erhöht Xbox-Preise deutlich</title>
-      <link>https://www.digitec.ch/de/page/microsoft-erhoeht-xbox-preise-deutlich-43104?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/microsoft-erhoeht-xbox-preise-deutlich-43104</guid>
-      <description><![CDATA[Nach der ersten Preiserhöhung im Oktober folgt nun die zweite. Microsoft erhöht die Preise für die Xbox um bis zu 150 US-Dollar.]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:18:08 GMT</pubDate>
+      <title>[Heise] Punktuell und mittig: Die Bilder der Woche 26</title>
+      <link>https://www.heise.de/news/Punktuell-und-mittig-Die-Bilder-der-Woche-26-11345836.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11345836</guid>
+      <description><![CDATA[Diese Woche haben es viele Bilder in die Auswahl geschafft, deren Hauptmotiv mittig liegt. Das sind unsere aktuellen Favoriten aus der heise Fotogalerie.]]></description>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Polymarket: Kriminelle sollen Kryptowerte in Millionenhöhe gestohlen haben</title>
-      <link>https://www.heise.de/news/Polymarket-Kriminelle-entwenden-Kryptowerte-in-Millionenhoehe-11345764.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345764</guid>
-      <description><![CDATA[Bei Polymarket haben Angreifer über eingeschleusten Schadcode Geld von Nutzerkonten gestohlen. Das Wettportal will Betroffene entschädigen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:17:00 GMT</pubDate>
+      <title>[Golem] Meccha Chameleon: Das Zehn-Millionen-Wunder und weitere tolle Indiegames</title>
+      <link>https://www.golem.de/news/meccha-chameleon-das-zehn-millionen-wunder-und-weitere-tolle-indiegames-2606-210226.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/meccha-chameleon-das-zehn-millionen-wunder-und-weitere-tolle-indiegames-2606-210226.html</guid>
+      <description><![CDATA[Verstecken für Nerds: Meccha Chameleon zieht mit einer pfiffigen Idee viele Millionen Spieler an. Außerdem: düstere Abenteuer und Top-Design. Von Rainer Sigl (<a href="https://www.golem.de/specials/indiegames/">Indiegames</a>, <a href="https://www.golem.de/specials/spieletest/">Spieletest</a>)]]></description>
+      <pubDate>Sat, 27 Jun 2026 05:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] YouTube-Werbeblocker mit 11 Millionen Installationen mit möglicher Hintertür</title>
-      <link>https://www.heise.de/news/YouTube-Werbeblocker-mit-11-Millionen-Installationen-mit-moeglicher-Hintertuer-11345655.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345655</guid>
-      <description><![CDATA[Adblock for YouTube kommt auf mehr als 11 Millionen Installationen. Es kann jedoch unkontrolliert Script-Code in jede Seite injizieren.]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:17:00 GMT</pubDate>
+      <title>[Heise] Quantic Dream: Streik soll „Star Wars Eclipse“ und 115 Stellen retten</title>
+      <link>https://www.heise.de/news/Quantic-Dream-Streik-soll-Star-Wars-Eclipse-und-115-Stellen-retten-11346726.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346726</guid>
+      <description><![CDATA[Beim Studio Quantic Dream sind 115 Stellen bedroht. Die Belegschaft streikt, um das seit 2021 angekündigte „Star Wars Eclipse“ zu retten.]]></description>
+      <pubDate>Sat, 27 Jun 2026 05:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Bericht über massiven Stellenabbau bei VW: Bis zu 100.000 Jobs in Gefahr</title>
-      <link>https://www.heise.de/news/Bericht-ueber-massiven-Stellenabbau-bei-VW-Bis-zu-100-000-Jobs-in-Gefahr-11345820.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345820</guid>
-      <description><![CDATA[VW plant drastische Einschnitte: Vier deutsche Werke könnten schließen, weltweit bis zu 100.000 Jobs wegfallen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:13:00 GMT</pubDate>
+      <title>[Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche</title>
+      <link>https://www.digitec.ch/de/page/die-wichtigsten-game-trailer-und-ankuendigungen-der-woche-43080?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/die-wichtigsten-game-trailer-und-ankuendigungen-der-woche-43080</guid>
+      <description><![CDATA[Die Redaktion hat für dich die spannendsten Trailer und Neuankündigungen der vergangenen Woche (20.06. bis 27.06.) gesammelt.]]></description>
+      <pubDate>Fri, 26 Jun 2026 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] „RollerCoaster Tycoon 3“: Freizeitpark-Klassiker von 2004 gratis bei Epic</title>
-      <link>https://www.heise.de/news/RollerCoaster-Tycoon-3-Freizeitpark-Klassiker-von-2004-gratis-bei-Epic-11345796.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345796</guid>
-      <description><![CDATA[„RollerCoaster Tycoon 3 Complete Edition“ ist bis zum 2. Juli kostenlos im Epic Games Store. Bei Steam kostet das Spiel aktuell 5 Euro.]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:12:00 GMT</pubDate>
+      <title>[Heise] Top 10: Der beste Ventilator im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ventilator-im-test-switchbot-siegt-dreo-pustet-alle-weg/3vw0k3j?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346609</guid>
+      <description><![CDATA[Wir zeigen die zehn besten Ventilatoren aus unseren Tests. Testsieger, Preis-Leistungs-Sieger und Kaufberatung im Überblick.]]></description>
+      <pubDate>Fri, 26 Jun 2026 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Sport-Streaming: Schlag gegen milliardenfach genutzten illegalen Streamingdienst</title>
-      <link>https://www.golem.de/news/sport-streaming-schlag-gegen-milliardenfach-genutzten-illegalen-streamingdienst-2606-210216.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/sport-streaming-schlag-gegen-milliardenfach-genutzten-illegalen-streamingdienst-2606-210216.html</guid>
-      <description><![CDATA[Ermittler haben 44 Domains eines Streamingdienstes namens PirloTV übernommen. Der kam zuletzt auf fast eine Milliarde Aufrufe pro Jahr. (<a href="https://www.golem.de/specials/streaming/">Streaming</a>, <a href="https://www.golem.de/specials/iptv/">IPTV</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 08:32:08 GMT</pubDate>
+      <title>[Golem] Ohne Bargeld: DHL bietet Kartenzahlung bei Nachnahme und Zoll</title>
+      <link>https://www.golem.de/news/ohne-bargeld-dhl-bietet-kartenzahlung-bei-nachnahme-und-zoll-2606-210252.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ohne-bargeld-dhl-bietet-kartenzahlung-bei-nachnahme-und-zoll-2606-210252.html</guid>
+      <description><![CDATA[Die Handscanner der DHL-Zusteller bekommen ein wichtiges Update: Die lästige Barzahlung bei Zoll und Nachnahme gehört endlich der Vergangenheit an. (<a href="https://www.golem.de/specials/onlinehandel/">Onlinehandel</a>, <a href="https://www.golem.de/specials/nfc/">NFC</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 16:46:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Nach Bahnstörung: Ruf nach Verbot chinesischer Teile in kritischer Infrastruktur</title>
-      <link>https://www.heise.de/news/Nach-Bahnstoerung-Ruf-nach-Verbot-chinesischer-Teile-in-kritischer-Infrastruktur-11345581.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345581</guid>
-      <description><![CDATA[Eine folgenreiche Funkstörung entfacht abermals die Debatte um Elektronik aus China: Zu groß sei die Gefahr, dass die Volksrepublik Infrastruktur angreift.]]></description>
-      <pubDate>Fri, 26 Jun 2026 08:05:00 GMT</pubDate>
+      <title>[Golem] EU-Richtlinie umgesetzt: Bundestag beschließt Recht auf Reparatur</title>
+      <link>https://www.golem.de/news/eu-richtlinie-umgesetzt-bundestag-beschliesst-recht-auf-reparatur-2606-210249.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/eu-richtlinie-umgesetzt-bundestag-beschliesst-recht-auf-reparatur-2606-210249.html</guid>
+      <description><![CDATA[Das Recht auf Reparatur soll für weniger Elektroschrott sorgen. Ein neuer Paragraf im BGB setzt es in deutsches Recht um. (<a href="https://www.golem.de/specials/recycling-und-reparatur/">Recycling & Reparatur</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 15:52:11 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Nach Beschwerden: Commodore senkt Preis seines Klapp-Handys um 100 US-Dollar</title>
-      <link>https://www.golem.de/news/nach-beschwerden-commodore-senkt-preis-seines-klapp-handys-um-100-us-dollar-2606-210214.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/nach-beschwerden-commodore-senkt-preis-seines-klapp-handys-um-100-us-dollar-2606-210214.html</guid>
-      <description><![CDATA[Nach der Vorstellung des Commodore Callback beschwerten sich viele über den Preis von 500 US-Dollar - der Hersteller reagiert. (<a href="https://www.golem.de/specials/commodore/">Commodore</a>, <a href="https://www.golem.de/specials/smartphone/">Smartphone</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 07:32:05 GMT</pubDate>
+      <title>[Heise] Freiwillig statt Zwang: Das doppelte Spiel um die EU-Chatkontrolle</title>
+      <link>https://www.heise.de/news/Freiwillig-statt-Zwang-Das-doppelte-Spiel-um-die-EU-Chatkontrolle-11346573.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346573</guid>
+      <description><![CDATA[Konzerne liefern auch ohne Gesetz viele Hinweise auf sexuellen Kindesmissbrauch. Die Bundesregierung bricht offenbar ihr Versprechen gegen Massenüberwachung.]]></description>
+      <pubDate>Fri, 26 Jun 2026 15:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Aktuelle Hitzewelle die schlimmste in Westeuropa seit Beginn der Aufzeichnungen</title>
-      <link>https://www.heise.de/news/Aktuelle-Hitzewelle-die-schlimmste-in-Westeuropa-seit-Beginn-der-Aufzeichnungen-11345407.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345407</guid>
-      <description><![CDATA[In Deutschland steht jetzt der Höhepunkt einer extremen Hitzewelle an, die noch 2003 mehrere Grad kühler ausgefallen wäre. Darauf weist ein Forschungsteam hin.]]></description>
-      <pubDate>Fri, 26 Jun 2026 07:24:00 GMT</pubDate>
+      <title>[Golem] KI und Cyberabwehr: Chinesisches Sicherheitstool soll besser als Mythos sein</title>
+      <link>https://www.golem.de/news/ki-und-cyberabwehr-chinesische-sicherheitstool-soll-besser-als-mythos-sein-2606-210246.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ki-und-cyberabwehr-chinesische-sicherheitstool-soll-besser-als-mythos-sein-2606-210246.html</guid>
+      <description><![CDATA[Laut dem CEO des chinesischen Unternehmens Qihoo 360 verfolgt das KI-Sicherheitstool Tulongfeng einen effizienteren Ansatz als Mythos. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/malware/">Malware</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 15:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Künstliche Intelligenz: US-Regierung kontrolliert Freigabe von GPT 5.6</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-us-regierung-kontrolliert-freigabe-von-gpt-5-6-2606-210212.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/kuenstliche-intelligenz-us-regierung-kontrolliert-freigabe-von-gpt-5-6-2606-210212.html</guid>
-      <description><![CDATA[OpenAI gibt das KI-Modell GPT 5.6 auf Druck der US-Regierung vorerst nur für ausgewählte Partner frei. (<a href="https://www.golem.de/specials/openai/">OpenAI</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 07:07:03 GMT</pubDate>
+      <title>[Golem] CATL-Chef: Massenfertigung von Feststoffbatterien erst ab 2030</title>
+      <link>https://www.golem.de/news/catl-chef-massenfertigung-von-feststoffbatterien-erst-ab-2030-2606-210245.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/catl-chef-massenfertigung-von-feststoffbatterien-erst-ab-2030-2606-210245.html</guid>
+      <description><![CDATA[Feststoffbatterien bringen Elektroautos zahlreiche Vorteile. Der Durchbruch braucht aber noch Zeit - findet zumindest der Chef von CATL. (<a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>, <a href="https://www.golem.de/specials/wissenschaft/">Wissenschaft</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 15:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Chrome: Zwei Updates in einer Woche</title>
-      <link>https://www.heise.de/news/Chrome-Zwei-Updates-in-einer-Woche-11345455.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345455</guid>
-      <description><![CDATA[Google hat in der Nacht zum Freitag ein zweites Chrome-Update in dieser Woche veröffentlicht. Der Grund bleibt unklar.]]></description>
-      <pubDate>Fri, 26 Jun 2026 06:55:00 GMT</pubDate>
+      <title>[Heise] Google setzt Verlage bei KI-Lizenzen offenbar unter Druck</title>
+      <link>https://www.heise.de/news/Google-setzt-Verlage-bei-KI-Lizenzen-offenbar-unter-Druck-11346411.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346411</guid>
+      <description><![CDATA[Google soll ein Google-News-Programm für Verlage an KI-Rechte für Inhalte knüpfen und das mögliche Auslaufen älterer Vereinbarungen als Druckmittel nutzen.]]></description>
+      <pubDate>Fri, 26 Jun 2026 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Wegen „GTA 6“: Werden die Konsolen wieder knapp?</title>
-      <link>https://www.heise.de/news/Wegen-GTA-6-Werden-die-Konsolen-wieder-knapp-11345411.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345411</guid>
-      <description><![CDATA[Ein Händler warnt gegenüber The Game Business vor Konsolenknappheit zum „GTA 6“-Launch. Auch Xbox-Strategiechef Matthew Ball bestätigt fehlende Liefermengen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 06:54:00 GMT</pubDate>
+      <title>[Heise] NRW: Datenschutzbeauftragte empfiehlt Schulen klare Regeln für Handyfotos</title>
+      <link>https://www.heise.de/news/Digitaltag-2026-Datenschutzbeauftragte-gibt-NRW-Schulen-Tipps-zu-Handyfotos-11346385.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346385</guid>
+      <description><![CDATA[Die NRW-Datenschutzbeauftragte empfiehlt Schulen klare Regeln für Handyfotos und -videos sowie mehr Aufklärung über Datenschutz.]]></description>
+      <pubDate>Fri, 26 Jun 2026 14:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Automobilindustrie: Ford korrigiert KI-Strategie mit Ingenieuren</title>
-      <link>https://www.golem.de/news/automobilindustrie-ford-korrigiert-ki-strategie-mit-ingenieuren-2606-210208.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/automobilindustrie-ford-korrigiert-ki-strategie-mit-ingenieuren-2606-210208.html</guid>
-      <description><![CDATA[Automatisierte Systeme haben unzureichende Ergebnisse geliefert. Nun programmieren erfahrene Fachkräfte die KI-Werkzeuge bei Ford um. (<a href="https://www.golem.de/specials/ford/">Ford</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 06:31:09 GMT</pubDate>
+      <title>[Heise] Schöne neue Suchwelt: Warum Google und Co. bald für KI-Fehler haften sollen</title>
+      <link>https://www.heise.de/news/Schoene-neue-Suchwelt-Warum-Google-und-Co-bald-fuer-KI-Fehler-haften-sollen-11346415.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346415</guid>
+      <description><![CDATA[Wer fragt, kriegt fertige KI-Antworten statt Linklisten. Laut einem Rechtsgutachten für die Landesmedienanstalten sollen die Tech-Riesen dafür voll einstehen.]]></description>
+      <pubDate>Fri, 26 Jun 2026 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Contra Microsoft 365 – der Kommentar: Mit Support-Ende in die Cloud gezwungen</title>
-      <link>https://www.heise.de/meinung/Contra-Microsoft-365-der-Kommentar-Unternehmen-in-der-Abofalle-11344098.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344098</guid>
-      <description><![CDATA[Microsoft beendet den Support für Office 2021. Der Migrationspfad führt nicht nur in die Cloud, sondern auch in die Abhängigkeit, kommentiert Frank Karlitschek.]]></description>
-      <pubDate>Fri, 26 Jun 2026 06:15:00 GMT</pubDate>
+      <title>[Golem] Tollwut durch JD Vance: Duckduckgo-KI verbreitet Falschinformation zu Trumps Tod</title>
+      <link>https://www.golem.de/news/tollwut-durch-jd-vance-duckduckgo-ki-verbreitet-falschinformation-zu-trumps-tod-2606-210244.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/tollwut-durch-jd-vance-duckduckgo-ki-verbreitet-falschinformation-zu-trumps-tod-2606-210244.html</guid>
+      <description><![CDATA[Laut dem KI-Assistenten ist der US-Präsident an Tollwut erkrankt und gestorben. Dahinter stecken mehrere Ebenen Reddit-Satire. (<a href="https://www.golem.de/specials/duckduckgo/">Duckduckgo</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 14:16:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Pro Microsoft 365 – der Kommentar: Pragmatisch gesehen die beste Wahl</title>
-      <link>https://www.heise.de/meinung/Pro-Microsoft-365-der-Kommentar-Nicht-alternativlos-aber-meist-erste-Wahl-11344094.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344094</guid>
-      <description><![CDATA[Unternehmen wollen Cloud statt eigener Infrastruktur. Und dafür bietet Microsoft das beste Gesamtpaket, meint Alexander Eggers.]]></description>
-      <pubDate>Fri, 26 Jun 2026 06:15:00 GMT</pubDate>
+      <title>[Heise] Carlinkit Mini Ultra 5 im Test: Wireless Carplay &amp; Android Auto für 40 Euro</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/carlinkit-mini-ultra-5-im-test-wireless-carplay-und-android-auto-fuer-40-euro/d4tryd0?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11345167</guid>
+      <description><![CDATA[Der Carlinkit Mini Ultra 5 beendet den Kabelsalat im Cockpit und ist extrem kompakt. Wir haben den Adapter für Wireless Carplay und Android Auto getestet.]]></description>
+      <pubDate>Fri, 26 Jun 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Quantenverschlüsselung: ARD und Vodafone testen abhörsichere TV-Übertragung</title>
-      <link>https://www.heise.de/news/Quantenverschluesselung-ARD-und-Vodafone-testen-abhoersichere-TV-Uebertragung-11341780.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11341780</guid>
-      <description><![CDATA[ARD, Vodafone und die Duale Hochschule BW haben erfolgreich eine Quantenverschlüsselung für TV-Übertragungen getestet. Diese entlarvt  Abhörversuche sofort.]]></description>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 GMT</pubDate>
+      <title>[Golem] V - Die außerirdischen Besucher kommen: Wie der Faschismus über die Welt kam</title>
+      <link>https://www.golem.de/news/v-die-ausserirdischen-besucher-kommen-wie-der-faschismus-ueber-die-welt-kam-2606-209993.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/v-die-ausserirdischen-besucher-kommen-wie-der-faschismus-ueber-die-welt-kam-2606-209993.html</guid>
+      <description><![CDATA[Zuerst hat es zwei Miniserien gegeben, dann eine wöchentliche Serie. Zum Phänomen wurde V - Die außerirdischen Besucher kommen aber vor 40 Jahren in den Videotheken. Eine Rezension von Peter Osteried (<a href="https://www.golem.de/specials/science-fiction/">Science-Fiction</a>, <a href="https://www.golem.de/specials/fernsehen/">Fernsehen</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 13:30:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Microsoft verlängert ESU-Programm: Windows 10 erhält ein Jahr mehr kostenlose Sicherheitsupdates</title>
-      <link>https://www.golem.de/news/microsoft-verlaengert-esu-programm-windows-10-erhaelt-ein-jahr-mehr-kostenlose-sicherheitsupdates-2606-210205.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/microsoft-verlaengert-esu-programm-windows-10-erhaelt-ein-jahr-mehr-kostenlose-sicherheitsupdates-2606-210205.html</guid>
-      <description><![CDATA[Microsoft aktualisiert das ESU-Programm für Privatkunden: Kostenlose Sicherheitsupdates für Windows 10 gibt es ein Jahr länger als bisher zugesichert. (<a href="https://www.golem.de/specials/windows10/">Windows 10</a>, <a href="https://www.golem.de/specials/microsoft/">Microsoft</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 05:31:06 GMT</pubDate>
+      <title>[Golem] Amble One: Offener elektrischer Buggy ist bis 65 km/h schnell</title>
+      <link>https://www.golem.de/news/amble-one-offener-elektrischer-buggy-ist-bis-65-km-h-schnell-2606-210237.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/amble-one-offener-elektrischer-buggy-ist-bis-65-km-h-schnell-2606-210237.html</guid>
+      <description><![CDATA[Für den deutschen Winter ist der Amble One wohl eher nichts - er soll aber ideal für kurze Wege in wärmeren Gefilden oder den Strand sein. (<a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>, <a href="https://www.golem.de/specials/auto/">Auto</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 13:05:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Nach Auf und Ab der SpaceX-Aktie: OpenAI könnte Börsengang verschieben</title>
-      <link>https://www.heise.de/news/Nach-Auf-und-Ab-der-SpaceX-Aktie-OpenAI-koennte-Boersengang-verschieben-11345373.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345373</guid>
-      <description><![CDATA[Anfang des Monats hat OpenAI Unterlagen für einen Börsengang eingereicht, nun wird intern offenbar gebremst. Verantwortlich ist wohl auch die Bilanz von SpaceX.]]></description>
-      <pubDate>Fri, 26 Jun 2026 05:08:00 GMT</pubDate>
+      <title>[Heise] Stefan Hartung verlässt Bosch überraschend zum 30. Juni</title>
+      <link>https://www.heise.de/news/Bosch-Chef-Stefan-Hartung-geht-vorzeitig-11346319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346319</guid>
+      <description><![CDATA[Konjunkturflaute, Stellenabbau, rote Zahlen: Bei Bosch drückt es an allen Ecken. Mitten in der Krise verlässt Chef Stefan Hartung überraschend den Konzern.]]></description>
+      <pubDate>Fri, 26 Jun 2026 13:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Auslegungssache 162: Aufsichtsbehörde unter Druck</title>
-      <link>https://www.heise.de/hintergrund/Auslegungssache-162-Aufsichtsbehoerde-unter-Druck-11344967.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344967</guid>
-      <description><![CDATA[Der baden-württembergische Datenschutzbeauftragte berichtet von drohenden Kürzungen und Plänen, wie sich die Aufsichtsbehörden moderner aufstellen wollen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 04:10:00 GMT</pubDate>
+      <title>[Heise] Fakes im Netz: So entlarvt jeder KI-generierte Videos (von uns getestet)</title>
+      <link>https://www.heise.de/news/Erkennt-das-c-t-3003-Team-KI-Videos-11346033.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346033</guid>
+      <description><![CDATA[KI-Fakes überschwemmen Social Media. c't 3003 hat sich selbst getestet und liefert die 6-Punkte-Checkliste, mit der jeder Deepfakes zuverlässig entlarvt.]]></description>
+      <pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Bungie feuert die meisten Destiny-Entwickler und sogar einige des Marathon-Teams</title>
-      <link>https://www.heise.de/news/Bungie-feuert-die-meisten-Destiny-Entwickler-und-sogar-einige-des-Marathon-Teams-11345351.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345351</guid>
-      <description><![CDATA[Das Sony-Spielestudio bestätigt frühere Gerüchte über signifikante Entlassungen. Das Destiny-Team ist am stärksten betroffen, aber auch Marathon-Entwickler.]]></description>
-      <pubDate>Fri, 26 Jun 2026 03:33:00 GMT</pubDate>
+      <title>[Heise] KI-Update Deep-Dive: Synthetische Bilder gegen den Bias</title>
+      <link>https://www.heise.de/news/KI-Update-Deep-Dive-Synthetische-Bilder-gegen-den-Bias-11341480.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11341480</guid>
+      <description><![CDATA[KI-Modelle zur Hautkrebserkennung sind oft voreingenommen. Das Projekt "MedGenAI" des DFKI will das Problem mit gezielt erzeugten synthetischen Bildern lösen.]]></description>
+      <pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Autos sind zu vernetzt: Polestar gibt den US-Markt auf</title>
-      <link>https://www.heise.de/news/Autos-sind-zu-vernetzt-Polestar-gibt-den-US-Markt-auf-11345339.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345339</guid>
-      <description><![CDATA[Umfassende Vernetzung zwecks Datensammlung wird Polestar zum Verhängnis. Der chinesische Autobauer muss den US-Markt verlassen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 03:05:00 GMT</pubDate>
+      <title>[Heise] AGCM prüft Microsoft 365: Vorwurf intransparenter Preiserhöhungen</title>
+      <link>https://www.heise.de/news/AGCM-prueft-Microsoft-365-Vorwurf-intransparenter-Preiserhoehungen-11346335.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346335</guid>
+      <description><![CDATA[Die italienische Wettbewerbsbehörde AGCM untersucht Microsoft wegen der Kommunikation bei Preiserhöhungen für Microsoft 365 nach Copilot-Integration.]]></description>
+      <pubDate>Fri, 26 Jun 2026 12:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] Digitales Notizbuch von Huion im Test: träge, aber vielseitig</title>
-      <link>https://www.digitec.ch/de/page/digitales-notizbuch-von-huion-im-test-traege-aber-vielseitig-43068?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/digitales-notizbuch-von-huion-im-test-traege-aber-vielseitig-43068</guid>
-      <description><![CDATA[Sieht aus wie ein Notizbuch, ist aber ein Tablet: Das Huion Note E besticht mit mattem Display, Android-Software und einem top Stylus. Das digitale Notizbuch ist aber träge.]]></description>
-      <pubDate>Thu, 25 Jun 2026 22:00:00 GMT</pubDate>
+      <title>[Golem] Sarah Wynn-Williams: Whistleblowerin verklagt Meta wegen nötigender Überwachung</title>
+      <link>https://www.golem.de/news/sarah-wynn-williams-whistleblowerin-verklagt-meta-wegen-noetigender-ueberwachung-2606-210234.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/sarah-wynn-williams-whistleblowerin-verklagt-meta-wegen-noetigender-ueberwachung-2606-210234.html</guid>
+      <description><![CDATA[Die ehemalige Meta-Angestellte hatte in ihren Memoiren über die toxische Unternehmenskultur des Konzerns berichtet. (<a href="https://www.golem.de/specials/meta/">Meta</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 12:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Digitec] Besuch beim Schweizer Controller-Hersteller Rocket Games</title>
-      <link>https://www.digitec.ch/de/page/besuch-beim-schweizer-controller-hersteller-rocket-games-42961?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/besuch-beim-schweizer-controller-hersteller-rocket-games-42961</guid>
-      <description><![CDATA[Rocket Games produziert Premium-Playstation-Controller für Menschen, die sich nicht mit Stangenware zufriedengeben. Ich habe das Unternehmen in Rümlang besucht.]]></description>
-      <pubDate>Thu, 25 Jun 2026 22:00:00 GMT</pubDate>
+      <title>[Heise] 77 Pfund pro Person: Das könnte Apple iCloud-Nutzern in Großbritannien zahlen</title>
+      <link>https://www.heise.de/news/77-Pfund-pro-Person-Das-koennte-Apple-iCloud-Nutzern-in-Grossbritannien-zahlen-11343660.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11343660</guid>
+      <description><![CDATA[In einer großen Sammelklage soll Apple den Briten wegen der iCloud-Kosten viel Geld zahlen. Darauf hofft das Äquivalent zur Stiftung Warentest „Which?“.]]></description>
+      <pubDate>Fri, 26 Jun 2026 12:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Australische Kinder nutzen Soziale Netze trotz Verbots</title>
-      <link>https://www.heise.de/news/Australische-Kinder-nutzen-Soziale-Netze-trotz-Verbots-11345261.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345261</guid>
-      <description><![CDATA[Als erstes Land der Welt hat Australien Unter-16-Jährige aus Sozialen Netzen verbannt. Das Verbot wirkt kaum.]]></description>
-      <pubDate>Thu, 25 Jun 2026 20:23:00 GMT</pubDate>
+      <title>[Golem] Elektroauto: Polestar muss sich aus USA zurückziehen</title>
+      <link>https://www.golem.de/news/elektroauto-polestar-muss-sich-aus-usa-zurueckziehen-2606-210232.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/elektroauto-polestar-muss-sich-aus-usa-zurueckziehen-2606-210232.html</guid>
+      <description><![CDATA[Weil Polestar aus China kommt und die Elektroautos Daten senden, dürfen sie nicht mehr in den USA verkauft werden. Polestar schwenkt nach Europa um. (<a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 12:30:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Xbox: Microsoft erhöht Konsolenpreise weltweit zum 1. August</title>
-      <link>https://www.heise.de/news/Xbox-Microsoft-erhoeht-Konsolenpreise-weltweit-zum-1-August-11345223.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345223</guid>
-      <description><![CDATA[Microsoft erhöht die Preise der Xbox-Konsolen weltweit zum 1. August. Das Modell mit 2 TByte Speicher wird eingestellt. Euro-Preise für Deutschland fehlen noch.]]></description>
-      <pubDate>Thu, 25 Jun 2026 18:53:00 GMT</pubDate>
+      <title>[Golem] Gwynne Shotwell: SpaceX spricht offen über ein eigenes Mobilfunknetz</title>
+      <link>https://www.golem.de/news/gwynne-shotwell-spacex-spricht-offen-ueber-ein-eigenes-mobilfunknetz-2606-210231.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/gwynne-shotwell-spacex-spricht-offen-ueber-ein-eigenes-mobilfunknetz-2606-210231.html</guid>
+      <description><![CDATA[SpaceX plant offenbar den Aufbau eines Mobilfunknetzes in den USA und könnte damit vom D2D-Partner zum direkten Konkurrenten für T-Mobile, AT&T und Verizon werden. (<a href="https://www.golem.de/specials/starlink/">Starlink</a>, <a href="https://www.golem.de/specials/aws/">AWS</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 12:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Amazon-Bestseller am Prime Day 2026: Welche Deals lohnen sich?</title>
-      <link>https://www.heise.de/bestenlisten/ratgeber/amazon-bestseller-am-prime-day-2026-welche-deals-lohnen-sich/9w9b4j1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345055</guid>
-      <description><![CDATA[Nicht jeder Rabatt beim Prime Day ist ein echtes Schnäppchen. Wir analysieren die Bestseller bei Amazon und verraten, wo sich der Kauf wirklich lohnt.]]></description>
-      <pubDate>Thu, 25 Jun 2026 18:00:00 GMT</pubDate>
+      <title>[Golem] Chrome-Erweiterung: Mögliche Backdoor in millionenfach installiertem Adblocker</title>
+      <link>https://www.golem.de/news/chrome-erweiterung-moegliche-backdoor-in-beliebtem-youtube-adblocker-entdeckt-2606-210227.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/chrome-erweiterung-moegliche-backdoor-in-beliebtem-youtube-adblocker-entdeckt-2606-210227.html</guid>
+      <description><![CDATA[Mit mehr als zehn Millionen Installationen ist Adblock for Youtube eine der beliebtesten Chrome-Erweiterungen. Doch sie birgt erhebliche Gefahren. (<a href="https://www.golem.de/specials/adblocker/">AdBlocker</a>, <a href="https://www.golem.de/specials/browser/">Browser</a>)]]></description>
+      <pubDate>Fri, 26 Jun 2026 11:16:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Prädiktive Polizeiarbeit: Britisches Projekt zur Verbrechensvorhersage gescheitert</title>
-      <link>https://www.golem.de/news/praediktive-polizeiarbeit-britisches-projekt-zur-verbrechensvorhersage-gescheitert-2606-210198.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/praediktive-polizeiarbeit-britisches-projekt-zur-verbrechensvorhersage-gescheitert-2606-210198.html</guid>
-      <description><![CDATA[Keines der mindestens 23 entwickelten Vorhersagemodelle soll zuverlässige Ergebnisse geliefert haben. (<a href="https://www.golem.de/specials/predictive-policing/">Predictive Policing</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Thu, 25 Jun 2026 16:15:10 GMT</pubDate>
+      <title>[Digitec] ETH-Durchbruch: Ein Pixel, der gleichzeitig Kamera und Display ist</title>
+      <link>https://www.digitec.ch/de/page/eth-durchbruch-ein-pixel-der-gleichzeitig-kamera-und-display-ist-43103?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/eth-durchbruch-ein-pixel-der-gleichzeitig-kamera-und-display-ist-43103</guid>
+      <description><![CDATA[Was jahrzehntelang als unmöglich galt, funktioniert jetzt tatsächlich: Die ETH Zürich hat einen Pixel entwickelt, der gleichzeitig Bilder anzeigt und Licht analysiert. Das könnte Displays und Kameras grundlegend verändern.]]></description>
+      <pubDate>Fri, 26 Jun 2026 11:02:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Sachsens neues Polizeigesetz: KI-Fahndung und Gesichtserkennung beschlossen</title>
-      <link>https://www.heise.de/news/Sachsens-neues-Polizeigesetz-KI-Fahndung-und-Gesichtserkennung-beschlossen-11345047.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345047</guid>
-      <description><![CDATA[Nach einem monatelangen Tauziehen hat der Sächsische Landtag weitreichende Befugnisse für die Ermittler verabschiedet. Scharfe Kritik kommt von Bürgerrechtlern.]]></description>
-      <pubDate>Thu, 25 Jun 2026 16:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Mars-Rover Perseverance: Marathon absolviert und aus dem All fotografiert</title>
-      <link>https://www.heise.de/news/Mars-Rover-Perseverance-Anlaesslich-der-Marathondistanz-aus-dem-All-fotografiert-11344757.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344757</guid>
-      <description><![CDATA[Überhaupt erst als zweiter Rover auf einem anderen Himmelskörper hat Perseverance die Marathondistanz erreicht. Kurz zuvor wurde er aus dem All abgelichtet.]]></description>
-      <pubDate>Thu, 25 Jun 2026 16:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Microsoft] Learning Agent now generally available — personalized AI upskilling for every employee</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/learning-agent-now-generally-available-personalized-ai/ba-p/4524571</link>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/learning-agent-now-generally-available-personalized-ai/ba-p/4524571</guid>
-      <description><![CDATA[<H2><STRONG>Meet Learning Agent in Microsoft 365 Copilot</STRONG></H2>
-<P>Today we’re excited to announce the general availability of Learning Agent in Microsoft 365 Copilot, to help every employee build Copilot and AI skills where the work gets done. It provides personalized recommendations based on each person’s context – their role, daily tasks, and work patterns – so learning feels relevant, practical, and easy to act on. Learning Agent helps users learn by doing — right within Microsoft 365 Copilot, and across other familiar experiences including Teams, Word, Excel, and PowerPoint.</P>
-<P>As organizations roll out AI tools across the board, the workforce has not kept pace and employees need support to use these new tools effectively. Turning access into real usage is hindered by disconnected learning sources, outdated course catalogs, and generic learning programs. Employees are asked to adopt AI, but they’re not always given clear, relevant guidance into how it applies to their specific role and daily work.</P>
-<P>How can leaders tasked with AI transformation help employees build AI fluency and turn AI investments into meaningful business results? Enter Learning Agent – a personalized, interactive Microsoft 365 Copilot agent embedded in the flow of work, designed to drive meaningful learning experiences and deliver measurable impact.</P>
-<H2><STRONG>Scale AI skilling across your workforce</STRONG></H2>
-<P>Powered by Work IQ and connected with AI Skills Navigator (in preview later this month), Learning Agent goes beyond content curation. The agent grounds every recommendation in the richest learning signal available in the enterprise – data from your <STRONG>Microsoft 365 ecosystem</STRONG>, <STRONG>authoritative SharePoint sites</STRONG> organization admins designate as sources of truth, Microsoft's <STRONG>out-of-the-box global content</STRONG> from AI Skills Navigator, Microsoft Learn, and Microsoft 365 training, along with the <STRONG>LMS and third-party content</STRONG> already flowing through Viva Learning. Employees and organizations can build AI fluency at scale in four key ways that personalize skilling for each employee, ensure learning is relevant to real work, and connect closely to measurable business impact.</P>
-<H3><STRONG>Make AI upskilling and reskilling really stick</STRONG></H3>
-<P>Employees need more than generic AI training. Learning Agent enables tailored AI and Copilot skilling through personalized, continuous learning they can use right away.</P>
-<UL>
-<LI><STRONG>AI Tip of the Day</STRONG> – Copilot tips tailored to each employee’s role and tasks, with starter prompts they can try immediately</LI>
-<LI><STRONG>AI Skills Navigator integrated experience</STRONG> (in preview later this month) – trusted Microsoft-curated training, credentials, and insights from sources like Microsoft Learn, and YouTube for a variety of learning paths</LI>
-<LI><STRONG>Admin-led Copilot onboarding</STRONG> (in preview later this month) – IT admins can trigger guided, hands-on training to specific security groups, with progress tracked through Viva Learning</LI>
-<LI><STRONG>Copilot Academy entry point</STRONG> – structured learning paths and Microsoft documentation to build foundational and advanced Copilot skills directly in Microsoft 365 Copilot</LI>
-<LI><STRONG>Tenant-grounded microlearning</STRONG>– highly contextual recommendations sourced from admin-prioritized authoritative SharePoint sites and content across the Microsoft 365 ecosystem</LI>
-<LI><STRONG>Org-curated learning</STRONG> – while the agent enables AI skilling out of the box for Microsoft 365 Copilot users, organizations with Viva Learning licenses get an enhanced experience that surfaces assigned training, academies, and learning paths from connected learning management systems alongside AI-driven recommendations</LI>
-</UL>
-<P>For IT leaders rolling out Copilot in their organization, this means turning awareness into real skill growth — without building a separate training program from scratch.</P>
-
-<P>&nbsp;</P>
-<H3><STRONG>Deliver learning in the moment employees need it</STRONG></H3>
-<P>The best learning happens when it’s timely, relevant, and easy to act on. Learning Agent brings personalized guidance directly into the Copilot experience, so people can learn while getting work done.</P>
-<UL>
-<LI><STRONG>Grounded in real work</STRONG> –recommendations are based on each user’s role, not a generic curriculum</LI>
-<LI><STRONG>Built into Microsoft 365 Copilot</STRONG> (desktop app and <A href="https://m365.cloud.microsoft/chat" target="_blank" rel="noopener">web browser</A>) – no switching tools, no digging through course catalogs, and no extra friction</LI>
-<LI><STRONG>Access across Microsoft 365</STRONG> <STRONG>experiences</STRONG> – streamlined agent experience extended to Word, Excel, PowerPoint, and Teams</LI>
-</UL>
-<P>Beyond traditional learning tools, Learning Agent meets people where they already work, making it easier to build habits and sustain adoption to reshape how people work.</P>
-<P class="lia-indent-padding-left-30px"><EM>“Learning Agent has the potential to reinvent Learning at EY delivering dynamic, deeply </EM><EM>personalised experiences in the flow of work.</EM></P>
-<P class="lia-indent-padding-left-30px"><EM>I’m incredibly excited to see how it continues to evolve and shape a truly future‑ready workforce.”</EM></P>
-<P class="lia-indent-padding-left-30px"><EM>— Jon Turner, Global Learning &amp; Development Innovation &amp; AI Lead, EY</EM></P>
-<P class="lia-indent-padding-left-30px">&nbsp;</P>
-<H3><STRONG>Personalize learning without adding complexity</STRONG></H3>
-<P>Generic training gets generic results. Learning Agent personalizes learning at enterprise scale, so each employee gets guidance that feels relevant – without requiring manual curation for every role, team, or scenario.</P>
-<UL>
-<LI><STRONG>Context from user skills and work patterns</STRONG> – recommendations are shaped by each person’s skills and tasks, powered by people and user context from Work IQ</LI>
-<LI><STRONG>Relevant across the organization</STRONG> – personalization can reflect the needs of individuals, teams, and the broader organization</LI>
-<LI><STRONG>Grounded in enterprise knowledge</STRONG> – the agent can surface content from across Microsoft 365 and prioritize admin-configured SharePoint as an authoritative source</LI>
-<LI><STRONG>Role-based and AI-driven paths</STRONG> – employees can explore curated learning paths from Copilot Academy, AI Skills Navigator, and their organization’s own training content</LI>
-<LI><STRONG>One connected learning ecosystem</STRONG> – bring together out-of-the-box content from AI Skills Navigator, LinkedIn Learning, Microsoft 365 training and content from Viva Learning (including courses, Academies, and curated learning paths), alongside integrations with LMS platforms and third-party providers. This creates a single, unified destination where employees can easily discover and access all their learning content.</LI>
-</UL>
-<P>For Talent Development leaders, that means every employee can get a more tailored learning experience — without the overhead of managing everything manually.</P>
-
-<P><EM>“Learning Agent in Copilot provides a unique and personalized learning experience for our employees in Grundfos … if someone doesn't know where to start, or how to proceed with their learning journey, Learning Agent supports you by identifying relevant skills and build personal learning collections through skill assessments. With a few minutes spent with Learning Agent, you find more relevant courses, instead of ending spending hours on a course only to find out it did not provide what you were looking for.”</EM></P>
-<P><EM>— Marcus Bendt Krogh Haure, Lead Product Owner, Learn &amp; Grow, Grundfos</EM></P>
-<H3><STRONG>Help employees learn by doing</STRONG></H3>
-<P>Watching content is only part of the story. Learning Agent helps employees build skills through hands-on, interactive experiences that make learning more practical, engaging, and easier to apply on the job.</P>
-<UL>
-<LI><STRONG>Skill assessments with personalized next steps</STRONG> – users can take an assessment grounded in enterprise content to spot gaps and get a learning plan tailored to what they need or complete a certification</LI>
-<LI><STRONG>Microlearning in chat</STRONG> – people can learn in short, conversational sessions without leaving the flow of work</LI>
-<LI><STRONG>Interactive coaching</STRONG> –&nbsp;<SPAN data-teams="true"> get experiences like LinkedIn Learning AI Role Play and Skillsoft CAISY® Conversation AI Simulator so employees can practice real scenarios in a safe environment (additional licenses required)</SPAN></LI>
-<LI><STRONG>Gamified engagement</STRONG> – features like learning streaks help keep momentum going over time</LI>
-</UL>
-<P>This learn-by-doing approach helps employees move beyond consuming content and start building skills they can put to work right away.</P>
-
-<P>For Talent Development leaders, reports help admins and leaders understand the impact of skilling initiatives and connect learning activities to business outcomes. Reporting is accessed in two surfaces - in the Viva Insights Agent Dashboard, and in the Learning Agent reporting dashboard. These reports give admins and leaders a holistic view of how employees are engaging with Learning Agent.</P>
-<P>The Agent Dashboard in Viva Insights (public preview) provides insight into adoption metrics across <EM>all </EM>agents. <A href="https://learn.microsoft.com/en-us/viva/insights/org-team-insights/agent-dashboard" target="_blank" rel="noopener">Learn more about the Agent Dashboard</A>. Learning Agent usage reports show a variety of metrics calculated over a 30-day period – including discovery rate, active users, engagement rate, and general activity level. Admins access this report directly in Learning Agent, with a Microsoft 365 Copilot license.</P>
-<P class="lia-indent-padding-left-30px">&nbsp;</P>
-
-<H2><STRONG>What’s next</STRONG></H2>
-<P>General availability is just the start. Here’s a look at what we’re building next to help workforces grow AI skills faster and make skilling even more connected to the flow of work.</P>
-<UL>
-<LI>AI Skills Navigator preview features in Learning Agent will roll out to general availability, along with embedding the experience within the agent</LI>
-<LI>Admin-led Copilot onboarding and training preview features in Learning Agent will roll out to general availability</LI>
-<LI>Expanded support for content extensibility connectors, so customers can bring their existing content into a centralized agentic experience</LI>
-<LI>Learning Agent will be embedded in Viva Learning, maintaining your experience wherever you are upskilling</LI>
-</UL>
-<H2><STRONG>Get started</STRONG></H2>
-<P>For customers with a Microsoft 365 Copilot license, Learning Agent is ready to deploy today – see our deployment and configuration guidance <A href="https://learn.microsoft.com/en-us/viva/learning/learning-agent-overview-deployment-steps" target="_blank" rel="noopener">here</A>. If you’re attending Microsoft Build this week, June 2-3, in San Francisco, join us at <A href="https://build.microsoft.com/en-US/sessions/DEM351?source=sessions" target="_blank" rel="noopener">DEM351 - “AI Skills Navigator: Accelerate tech skills with personalized learning”</A> and visit the Global Skilling booth.</P>
-<P>Employees with access to Learning Agent can jump right into the starter recommendations or try out these prompts:</P>
-<UL>
-<LI><EM>“What skills should I focus on to grow in my current role?”</EM></LI>
-<LI><EM>“Give me a tip to use Copilot for [your scenario — e.g., summarize an email thread into key decisions and action items]”</EM></LI>
-<LI><EM>“Help me improve in this task: [your scenario — e.g., maintain and update technical documentation libraries]”</EM></LI>
-<LI><EM>“Recommend short videos to learn [skill]”</EM></LI>
-<LI><EM>“Start a role play simulation for handling [scenario — e.g., a customer escalation]”</EM></LI>
-</UL>
-<P>To read more about additional agents in Microsoft 365 Copilot, visit our <A href="https://adoption.microsoft.com/en-us/ai-agents/agents-in-microsoft-365/" target="_blank" rel="noopener">adoption page</A> and <A href="https://aka.ms/AMC/CopilotCommunity" target="_blank" rel="noopener">join the Copilot community</A> to ask questions and connect with other customers.</P>]]></description>
-      <pubDate>Thu, 25 Jun 2026 16:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Leica SL3-P: Neue Vollformatkamera mit 44 Megapixeln für 6.000 Euro</title>
-      <link>https://www.heise.de/news/Leica-SL3-P-Neue-Vollformatkamera-mit-44-Megapixeln-fuer-6-000-Euro-11344863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344863</guid>
-      <description><![CDATA[Mit der SL3-P bringt Leica eine neue Vollformatkamera auf den Markt. Parallel dazu kündigt der Wetzlarer Hersteller zwei neue Objektive für das SL-System an.]]></description>
-      <pubDate>Thu, 25 Jun 2026 15:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Moritz Hennemann: Bundestag wählt neuen Datenschutzbeauftragten</title>
-      <link>https://www.golem.de/news/moritz-hennemann-bundestag-waehlt-neuen-datenschutzbeauftragten-2606-210195.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/moritz-hennemann-bundestag-waehlt-neuen-datenschutzbeauftragten-2606-210195.html</guid>
-      <description><![CDATA[Nach dem Amtsverzicht von Specht-Riemenschneider ist ihr Nachfolger zum Bundesdatenschutzbeauftragten gewählt worden. (<a href="https://www.golem.de/specials/bfdi/">Bundesbeauftragter für Datenschutz und I</a>, <a href="https://www.golem.de/specials/datenschutz/">Datenschutz</a>)]]></description>
-      <pubDate>Thu, 25 Jun 2026 15:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Gesetz zur Stärkung der Cybersicherheit: Ärzte sehen Schweigepflicht gefährdet</title>
-      <link>https://www.heise.de/news/Gesetz-zur-Staerkung-der-Cybersicherheit-Aerzte-sehen-Schweigepflicht-gefaehrdet-11344811.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344811</guid>
-      <description><![CDATA[Die Kassenärztliche Bundesvereinigung sieht in den geplanten neuen Cyberabwehrbefugnissen von BKA und Bundespolizei Risiken für die Schweigepflicht.]]></description>
-      <pubDate>Thu, 25 Jun 2026 15:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein</title>
-      <link>https://www.golem.de/news/hoehere-produktion-geplant-tesla-stellt-1-000-neue-mitarbeiter-in-gruenheide-ein-2606-210191.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/hoehere-produktion-geplant-tesla-stellt-1-000-neue-mitarbeiter-in-gruenheide-ein-2606-210191.html</guid>
-      <description><![CDATA[Tesla will die Produktion des Model Y in Grünheide weiter hochfahren. Die Suche nach Mitarbeitern für die Batteriezellproduktion gestaltet sich schwierig. (<a href="https://www.golem.de/specials/gigafactory-berlin/">Gigafactory Berlin</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
-      <pubDate>Thu, 25 Jun 2026 14:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Kia PV5: E-Bus nun auch mit weniger Reichweite und Platz</title>
-      <link>https://www.heise.de/tests/Kia-PV5-E-Bus-nun-auch-mit-weniger-Reichweite-und-Platz-11344801.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344801</guid>
-      <description><![CDATA[Mit einer neuen Einstiegsvariante macht Kia den PV5 preiswerter als bisher. Dafür ist der E-Bus kürzer und weniger weitreichend.]]></description>
-      <pubDate>Thu, 25 Jun 2026 14:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor</title>
-      <link>https://www.golem.de/news/akkutechnik-catl-stellt-stromspeicher-mit-neuer-natrium-technik-vor-2606-210186.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/akkutechnik-catl-stellt-stromspeicher-mit-neuer-natrium-technik-vor-2606-210186.html</guid>
-      <description><![CDATA[Container mit eisenbasierten NFPP-Natriumakkus sind effiziente Netzspeicher ohne seltene Rohstoffe. Nur das Produktionsvolumen muss steigen. Von Frank Wunderlich-Pfeiffer (<a href="https://www.golem.de/specials/natrium-ionen-akkus/">Natrium-Ionen-Akkus</a>, <a href="https://www.golem.de/specials/energie-und-klima/">Energie & Klima</a>)]]></description>
-      <pubDate>Thu, 25 Jun 2026 14:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Home Gym statt Fitnessstudio: Smarte Geräte, Laufband &amp; Ergometer für zu Hause</title>
-      <link>https://www.heise.de/bestenlisten/ratgeber/home-gym-statt-fitnessstudio-smarte-geraete-laufband-und-ergometer-fuer-zu-hause/dy68hhh?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344654</guid>
-      <description><![CDATA[Training zu Hause trotz Platzmangel: Smarte Home Gyms, faltbare Laufbänder und kompakte Ergometer ermöglichen effektives Kraft- und Ausdauertraining.]]></description>
-      <pubDate>Thu, 25 Jun 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Oppo Reno 16 Pro im Test: Gutes Smartphone, happiger Preis</title>
-      <link>https://www.digitec.ch/de/page/oppo-reno-16-pro-im-test-gutes-smartphone-happiger-preis-43095?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/oppo-reno-16-pro-im-test-gutes-smartphone-happiger-preis-43095</guid>
-      <description><![CDATA[Das Reno 16 Pro ist Oppos bestes Mittelklasse-Smartphone und würde diese Rolle perfekt ausfüllen, wäre da nicht der hohe Preis.]]></description>
-      <pubDate>Thu, 25 Jun 2026 13:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Commodore reagiert auf Kritik: Sailfish-Klapphandy wird 100 US-Dollar günstiger</title>
-      <link>https://www.heise.de/news/Commodore-senkt-Preis-des-Callback-8020-nach-Kritik-aus-der-Community-11344608.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344608</guid>
-      <description><![CDATA[Nur wenige Tage nach der Vorstellung des Callback 8020 reduziert Commodore den Einstiegspreis seines Klapphandys um 100 US-Dollar.]]></description>
-      <pubDate>Thu, 25 Jun 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Anhörung zum Heizungsgesetz: Experten befürchten hohe Kosten für Mieter</title>
-      <link>https://www.golem.de/news/anhoerung-zum-heizungsgesetz-experten-befuerchten-hohe-kosten-fuer-mieter-2606-210182.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/anhoerung-zum-heizungsgesetz-experten-befuerchten-hohe-kosten-fuer-mieter-2606-210182.html</guid>
-      <description><![CDATA[Sowohl Mieter als auch Vermieter befürchten höhere Kosten durch das neue Heizungsgesetz. Zudem könnte es die Klimaschutzziele torpedieren. Ein Bericht von Friedhelm Greis (<a href="https://www.golem.de/specials/energiewende/">Energiewende</a>, <a href="https://www.golem.de/specials/bundesregierung/">Bundesregierung</a>)]]></description>
-      <pubDate>Thu, 25 Jun 2026 12:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Landtag NRW: Abschaffung der Landesdatenschützer bringt Juristen ins Schwitzen</title>
-      <link>https://www.heise.de/news/Streit-um-Datenschutzaufsicht-Absurd-das-zentral-aus-Berlin-oder-Bonn-zu-tun-11344352.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344352</guid>
-      <description><![CDATA[Verfassungsrechtler sehen große Hürden für die Abschaffung der Landesdatenschutzbeauftragten. Darüber wurde im nordrhein-westfälischen Landtag diskutiert.]]></description>
-      <pubDate>Thu, 25 Jun 2026 12:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Zuse-Computer-Museum ZCOM in Hoyerswerda steht vor dem Aus</title>
-      <link>https://www.heise.de/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-steht-vor-dem-Aus-11344470.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344470</guid>
-      <description><![CDATA[Das Zuse-Computer-Museum ZCOM in Hoyerswerda könnte Ende des Jahres schließen, da die finanzielle Unterstützung wegfällt.]]></description>
-      <pubDate>Thu, 25 Jun 2026 11:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] „GTA 6“: Betrug mit vermeintlichem „Early Access“</title>
-      <link>https://www.heise.de/news/GTA-6-Betrug-mit-vermeintlichem-Early-Access-11344286.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344286</guid>
-      <description><![CDATA[Das Interesse an „Grand Theft Auto VI“ entgeht auch Kriminellen nicht. Die ködern Opfer mit vermeintlich früherem Zugriff.]]></description>
-      <pubDate>Thu, 25 Jun 2026 11:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] ChatGPT und Copilot: US-Verlage reichen nächste Klage wegen KI-Training ein</title>
-      <link>https://www.heise.de/news/ChatGPT-und-Copilot-US-Verlage-reichen-naechste-Klage-wegen-KI-Training-ein-11344362.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344362</guid>
-      <description><![CDATA[Die Klagewelle gegen KI-Firmen reißt nicht ab: Jetzt gehen in den USA Verlage, die fast 400 Zeitungen vertreiben, gerichtlich gegen OpenAI und Microsoft vor.]]></description>
-      <pubDate>Thu, 25 Jun 2026 11:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Niederländischer Energieversorger baut 1-Gigawattstunden-Langzeitspeicher</title>
-      <link>https://www.heise.de/news/Niederlaendischer-Energieversorger-baut-1-Gigawattstunden-Langzeitspeicher-11344418.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344418</guid>
-      <description><![CDATA[Europäische Energieversorger setzen stark auf Windstrom. In den Niederlanden wird ein großer Netzspeicher gebaut, der den Windstrom mehrere Tage speichern kann.]]></description>
-      <pubDate>Thu, 25 Jun 2026 11:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Digitalisierung der Verwaltung: Bund gibt Tempo vor, Länder müssen aufholen</title>
-      <link>https://www.heise.de/news/Staatsmodernisierung-Bund-kommt-voran-die-Laender-laufen-hinterher-11344380.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344380</guid>
-      <description><![CDATA[Die Digitalisierung der Verwaltung wird derzeit vor allem vom Bund vorangetrieben, die Länder sind noch hinterher. Der Bitkom fordert Mut zu großen Reformen.]]></description>
-      <pubDate>Thu, 25 Jun 2026 11:01:00 GMT</pubDate>
+      <title>[Heise] Drei Fragen und Antworten: So klappt der Abschied von Microsoft 365</title>
+      <link>https://www.heise.de/news/Drei-Fragen-und-Antworten-So-klappt-der-Abschied-von-Microsoft-365-11344887.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11344887</guid>
+      <description><![CDATA[M365 dominiert den digitalen Arbeitsplatz, doch längst gibt es auch gute Alternativen. Ein Blick darauf, was der Wechsel bringt und wo Kompromisse nötig sind.]]></description>
+      <pubDate>Fri, 26 Jun 2026 10:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
