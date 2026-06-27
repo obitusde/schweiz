@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 27.6.2026, 06:30:35
-Letzter Lauf: 26.6.2026, 12:58:39
+Start: 27.6.2026, 12:58:39
+Letzter Lauf: 27.6.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,20 +17,31 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 35 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Kriminalität in der Schweiz ohne spezifischen Bezug zum Kanton Waadt.): 'Nach Welle von Überfällen – Polizei fokussiert auf Tiktok-Räuber'
-- Weiterhin entfernt (Cache, Grund: Kriminalität in der Schweiz außerhalb von Vaud.): 'Le gestionnaire S. B. et ses associés condamnés à la prison ferme'
-- Weiterhin entfernt (Cache, Grund: Verkehrsunfall in der Schweiz außerhalb des Kantons Waadt (Kanton Freiburg).): 'Un motard de 29 ans se tue dans un accident à St-Sylvestre'
-- Gelöscht (Grund: Brand außerhalb von Vaud (Genf).): 'Le feu a éclaté dans une chambre de l'hôpital cantonal'
-- Gelöscht (Grund: Tödlicher Unfall außerhalb von Vaud.): 'Un artisan succombe à des gaz toxiques'
-- Gelöscht (Grund: Unfall außerhalb von Vaud (Jura).): 'Un motard blessé dans un accident sur l'A16 près de Delémont'
-- Gelöscht (Grund: Duplikat zu ID 21 (RTS Vaud ist informativer).): 'Attouchements sur deux fillettes à Yverdon: un homme interpellé'
-- Gelöscht (Grund: Kriminalität außerhalb von Vaud (Jura).): 'Il se venge en semant la mauvaise herbe... sur le mauvais champ'
-- Gelöscht (Grund: Unfall außerhalb von Vaud (Fribourg).): 'Collision entre une voiture et un bus à Romont: une blessée'
-- Gelöscht (Grund: Duplikat zu ID 33 (RTS Vaud ist informativer).): 'Le trafic ferroviaire reprend partiellement en gare de Lausanne'
+KI-Filter (Gemini) - 15 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Brand außerhalb von Vaud (Genf).): 'Le feu a éclaté dans une chambre de l'hôpital cantonal'
+- Weiterhin entfernt (Cache, Grund: Tödlicher Unfall außerhalb von Vaud.): 'Un artisan succombe à des gaz toxiques'
+- Weiterhin entfernt (Cache, Grund: Unfall außerhalb von Vaud (Jura).): 'Un motard blessé dans un accident sur l'A16 près de Delémont'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 21 (RTS Vaud ist informativer).): 'Attouchements sur deux fillettes à Yverdon: un homme interpellé'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb von Vaud (Jura).): 'Il se venge en semant la mauvaise herbe... sur le mauvais champ'
+- Weiterhin entfernt (Cache, Grund: Unfall außerhalb von Vaud (Fribourg).): 'Collision entre une voiture et un bus à Romont: une blessée'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 33 (RTS Vaud ist informativer).): 'Le trafic ferroviaire reprend partiellement en gare de Lausanne'
+- Gelöscht (Grund: Blaulicht-Meldung (Vermisstenfall) außerhalb der Waadt (Kanton Freiburg).): 'Avez-vous vu cette personne?'
+- Gelöscht (Grund: Unfallmeldung außerhalb der Waadt (Kanton Genf).): 'Un chauffeur blessé après le renversement d'une arroseuse'
+- Gelöscht (Grund: Duplikat zu ID 13 (beide behandeln das Erdbeben in Venezuela).): 'Erdbeben in Venezuela – Militär soll Kontrolle in Katastrophenregion übernehmen'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] Erdbeben in Venezuela – Militär soll Kontrolle in Katastrophenregion übernehmen
+- [Journal de Morges] Sie will Heimkindern durch Ausflüge auf den See helfen
+- [SRF Schweiz] FDP-Co-Präsident im Interview – Mühlemann: «Bundesrat will lieber den Konsum belasten als sparen»
+- [SRF Wirtschaft] Folgen des Iran-Krieges – Tiefer Schweinepreis in China: Schweizer Exporteure unter Druck
+- [SRF Schweiz] Wenn eine Person verschwindet – Von vermisst zu verschollen – für Angehörige eine Herausforderung
+- [SRF Wissen] Ausgeklügelte Jagdtaktik – Ameisen-Katapult-Falle der Ballista-Spinne erstmals dokumentiert
+- [20 Min Romandie] Die Stadt verschärft Regeln für Schaufenster und sorgt für Ärger
+- [20 Min Romandie] Postbote nach 42 Jahren entlassen: Bundesrat greift nicht ein
+- [SRF Schweiz] Im Dienst der SNB – Ehemaliger SNB-Chef Hans Meyer mit 90 Jahren gestorben
+- [SRF Schweiz] Schlachten, Wursten, Würzen – Immer weniger Metzger: Wandel oder Bedrohung?
+- [SRF Wirtschaft] Hohe Kosten, wenig Nutzen – Warum Montreal die Fussball-WM nicht wollte
+- [SRF Ausland] Schweizerischer Erdbebendienst – Warum gab es in Venezuela keine Erdbebenwarnung?
+- [20 Min Romandie] Ein Kampf «David gegen Goliath» um die Reparatur seines Peugeots
 - [SRF Schweiz] Live vom Open Air St. Gallen – Darüber redet das OASG nach dem Festival-Freitag
 - [SRF Schweiz] «Arena» zu heissen Eisen – EU, AKW und AHV sorgen für Gewitter zwischen Parteispitzen
 - [SRF Ausland] Erneuter Angriff – Wegen Digitalsteuer-Plänen: Trump droht Europäern mit Zöllen
@@ -58,12 +69,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Gesellschaft] Nach Rückzug der Hauptzeugin – Vergewaltigungsanklage gegen Harvey Weinstein fallen gelassen
 - [SRF Ausland] Kennerin der Protestbewegung – Irans Opposition ist trotz leerer Trump-Versprechen nicht am Ende
 - [RTS Vaud] Bahnverkehr in Lausanne nach vollständiger Unterbrechung wieder aufgenommen
-- [SRF Schweiz] Endlich kühle Plätzchen – Cool bleiben? Hier ist es bei Hitze spitze
-- [20 Min Romandie] Migros testet am Sonntag einen Laden ohne Personal
-- [20 Min Romandie] Sie rettet eine Entenfamilie, die auf ihrem Balkon im 6. Stock geboren wurde
-- [SRF Ausland] Lebenslange Haft – Höchststrafe für Anschlag auf Magdeburger Weihnachtsmarkt
-- [SRF Wirtschaft] Bis zu 25 Prozent mehr – Deshalb erhöht Apple weltweit die Preise
-- [20 Min Romandie] Die Organisatoren von No-G7 ziehen vor Gericht
-- [RTS Vaud] Waadtländer Schulen schicken Schüler kurz vor den Sommerferien ohne klaren Grund nach Hause
-- [SRF Schweiz] Neuer Fotoband – Als der Punk im beschaulichen Bern Einzug hielt
-- [SRF Wissen] Landwirtschaft im Wasserstress – Wenn die Wiese braun wird: Bauern rüsten sich für den Klimawandel
