@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 26.6.2026, 12:28:17
-Letzter Lauf: 26.6.2026, 06:10:26
+Start: 27.6.2026, 12:28:18
+Letzter Lauf: 27.6.2026, 06:10:29
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,120 +10,76 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise+': 'heise+ | M365-Alternativen im Überblick'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: LLMs im eigenen Rechenzentrum: Online-Konferenz zu Anforderungen und Anwendung'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Effiziente KI: Wie neue Modelle die Token-Kosten und RAM-Preise senken könnten'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c’t-Webinar: Vom Prompt-Schreiber zum Art Director'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Cloud-Hosting im Preischeck: Virtuelle Server werden spürbar teurer'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | 10-Gbit/s-Ethernet: So finden Sie die richtige Hardware fürs Expressnetz'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Brandursache: Hauselektrik. Wie man Probleme vermeidet'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Mehr Tempo beim Coding – mit KI-Assistenten effizient programmieren'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Home Assistant: Smart Home direkt vom Android-Homescreen steuern'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Mini-Barebone Asus NUC 16 Pro mit 16 Kernen und Wi-Fi 7 im Test'
-- Gelöscht wegen Keyword 'podcast': 'Freitag: Social-Media-Verbot ohne Wirkung, US-Automarkt künftig ohne Polestar'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Avatar: Fire and Ash im Heimkino-Test: Das Kino erstickt in Hyperkontrolle'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Brandursache: Hauselektrik. Wie man Probleme vermeidet'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Görliwood erleben: Fototour zu den berühmtesten Filmkulissen von Görlitz'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Kühl durch die Hitze: Mythen und Fakten rund um die Klimaanlage'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Microsoft 365 Copilot für IT-Administratoren'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Carplay Display nachrüsten für nur 44,46 Euro am Prime Day'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: AVM Fritz!Box 7530 AX DSL-Router noch bis Mitternacht zum Prime-Day-Bestpreis von 126 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: SUP-Board mit Zubehör zum reduzierten Prime-Day-Preis'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kärcher-Fenstersauger am Prime Day zum Jahrestiefstpreis nur rund 46 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Nur noch heute über 300 Euro auf Garmin fenix 8 Smartwatch sparen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Souveräne Cloud-Strategie mit STACKIT: Governance und Umsetzung'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bosch Pro Ratschenschlüssel bei Amazon nun billiger als am Black Friday'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 65 Zoll großer 4K-OLED-Fernseher von LG günstig wie nie am Prime Day'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Nachtsichtgerät mit 4K am Prime Day für nur 59,49 Euro bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: High-End-SSDs von Acer und Samsung zum Prime Deal'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Philips Airfryer mit Doppelkammer zum Bestpreis am Prime Day erstmals unter 170 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Google Pixel 10 Pro günstig wie nie am Prime Day'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Überwachungskamera für außen und innen im Set für nur 34,99 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bosch Akku-Kompressor im Prime Deal 40 Euro günstiger'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Die besten 40 Deals für unter 50 Euro am Prime Day'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Active Directory Hardening – Vom Audit zur sicheren Umgebung'
+- Gelöscht wegen Keyword 'podcast': 'Wie ihr euer NAS am besten für Datei-Sharing nutzt | c’t uplink'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | KI-Überwachung in der Straßenbahn: Mehr Sicherheit im Fahrgastraum?'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Windows Server absichern und härten'
+- Gelöscht wegen Keyword 'tgiqf': '#TGIQF: Das Quiz rund um „Quake“'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Xiaomi Redmi Note 15 Pro + Smartwatch im Tarif mit 50 GB bei Blau jetzt zum Mini-Preis'
+- Gelöscht wegen Keyword '(g+)': '(g+) DIY: Wie ich allein ein lokales KI-Social-Network gebaut habe'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Elgato Stream Deck MK.2 zum Jahresbestpreis am Prime Day'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: USB-SSD-Stick mit 128 GByte günstig wie nie für unter 27 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bestseller-Balkonkraftwerk mit 900 Watt nur heute für 234 Euro bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: WLAN-Steckdose mit Alexa im günstigen Viererpack am Prime Day'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Beliebter Multitool-Stift mit LED-Lampe am Prime Day jetzt nur noch kurz 14 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Drei Einsteiger-Gaming-Stühle im Prime Deal stark vergünstigt erhältlich'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Smart-TV zum Prime Day für unter 160 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Hype um GTA 6: Wo soll das noch hinführen?'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Wärmebildkamera fürs Handy günstig wie nie am Prime Day'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Die 50 besten Deals am Prime Day noch bis Mitternacht sichern'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bosch Schrauberbit-Set fast zum halben Preis im Prime Deal'
+- Gelöscht wegen Keyword '(g+)': '(g+) Autonome Agenten: Das Betriebssystem der nächsten Internetgeneration'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Anker Solix C2000 Powerstation mit bis zu 4000 Watt am Prime Day 100 Euro unter Bestpreis'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: DJI Mini 3 nur noch heute über 150 Euro günstiger'
+- Gelöscht wegen Keyword 'podcast': 'Turtle Beach Stealth Pro 2 im Test: mein neues Lieblings-Headset'
 - [FEED FEHLER] https://www.lightroomqueen.com/feed/: Exception: Request failed for https://www.lightroomqueen.com returned code 403. Truncated server response: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta htt... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 39 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft interne PC-Komponenten und Halbleiterfertigung.): 'Halbleiterfertigung: IBM stapelt für 7-Angström-Prozess Transistoren'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Netzwerk-Infrastruktur.): 'Koax und DOCSIS 3.1: Vodafone-Kabelnetz braucht beim Segmentieren viel Tiefbau'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft interne PC-Komponenten (Speicherherstellung).): 'Micron: Client-Speicher bringt die höchste Marge ein'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Enterprise-IT und Infrastruktur.): 'Hitzewelle: Abschaltung von Rechenzentren nicht ausgeschlossen'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Web-Infrastruktur (Cloud-Dienste).): 'AWS und Azure: EU-Kommission knöpft sich Cloud-Riesen wettbewerbsrechtlich vor'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Deep OS-Internals und Betriebssystem-Wartung/Updates.): 'Windows 10: ESU-Updates bis Oktober 2027 verlängert'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 17.): 'Bundestag wählt Juraprofessor Moritz Hennemann neuen Datenschutzbeauftragten'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft das Thema iPhone (Ausschlusskriterium) sowie belangloses Apple-Rauschen.): 'Apple erhöht Preise für Macs und iPads'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 21.): 'Tesla plant massive Personalaufstockung in Grünheide'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft interne PC-Komponenten (Speichermarkt).): 'Micron: Speicherabkommen schließen Rückkehr zu alten Preisen aus'
-- Weiterhin entfernt (Cache, Grund: Inhalt fällt unter belangloses Apple-Rauschen (Preisanpassungen/Updates).): 'iPad, Mac, Apple TV: Apple erhöht auch in Deutschland die Preise'
-- Weiterhin entfernt (Cache, Grund: Inhalt fällt unter belangloses Apple-Rauschen (Preisanpassungen).): 'Macs und iPads zuerst: Apple setzt die Preise hoch'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Code-Theorie (KI-Entwicklung).): 'Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 16.): 'Leica SL3-P: Leicas neue Vollformatkamera kostet 6.000 Euro'
-- Gelöscht (Grund: Inhalt betrifft interne PC-Komponenten (Prozessoren) sowie Apple-Spekulationen.): 'Neue M-Chips: Was Apple bei M5, M6 und M7 plant'
-- Gelöscht (Grund: Inhalt betrifft ausschließlich interne PC-Komponenten (Speicherchips).): 'Über 80 Prozent Marge: Micron sichert hohe Speicherpreise auf fünf Jahre ab'
-- Gelöscht (Grund: Negativ-Thema: iPhone.): 'Indien: iPhone-Zulieferer mit Umweltproblemen und Datenabflüssen'
-- Gelöscht (Grund: Negativ-Thema: iPhone.): 'iPhone-Preiserhöhung: Kommt sie noch im Sommer?'
-- Gelöscht (Grund: Duplikat-Regel: Identisch mit Artikel 13.): 'Auch Werksschließungen: VW soll 100.000 Stellen abbauen wollen'
-- Gelöscht (Grund: Inhalt betrifft interne PC-Komponenten (Prozessoren) sowie Apple-Spekulationen.): 'Laut Insidern: Der Apple M6 kommt wohl ohne Pro- und Max-Version aus'
-- Gelöscht (Grund: Inhalt befasst sich mit einem Deep-Dive in interne Hardware-Komponenten (CPU, Unified Memory).): '30 Jahre Nintendo 64: Als Nintendos Konsolen noch High-End-Hardware waren'
-- Gelöscht (Grund: Inhalt betrifft Enterprise-IT & Netzwerk-Infrastruktur.): 'Kritische Systemdatenlücke bedroht Netzwerkbetriebssystem Arista EOS'
-- Gelöscht (Grund: Inhalt betrifft Code-Theorie und spezifische Entwickler-Themen.): 'Neu in .NET 10.0 [29]: IP-Adressen prüfen mit IPAddress.IsValid()'
-- Gelöscht (Grund: Negativ-Thema: Star Trek.): 'Wirtschaft der Zukunft: Warum die Föderation kein Geld mehr braucht'
-- Gelöscht (Grund: Duplikat-Regel: Identisch mit Artikel 11.): 'Skript eingeschleust: Hacker erbeuten Nutzergelder von Polymarket'
-- Gelöscht (Grund: Duplikat-Regel: Identisch mit Artikel 10.): 'Spielebranche: Microsoft erhöht Xbox-Preise weltweit'
-- Gelöscht (Grund: Duplikat-Regel: Identisch mit Artikel 5.): 'Nach „Destiny 2“-Aus: Massenentlassung beim Studio Bungie'
-- Gelöscht (Grund: Duplikat-Regel: Identisch mit Artikel 5.): 'Bungie: Sony baut beim Destiny-Studio zahlreiche Stellen ab'
+KI-Filter (Gemini) - 12 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Thema Enterprise-IT & Netzwerk-Infrastruktur (Core-Switches).): 'Core-Switch: Bahn nennt Ursache für bundesweiten Ausfall'
+- Weiterhin entfernt (Cache, Grund: Thema Code-Theorie und Web-Infrastruktur (Entwickler-Tools/IDE).): 'Xcode 26.6: Google Gemini zieht als Programmierassistent in Apples IDE ein'
+- Weiterhin entfernt (Cache, Grund: Thema Enterprise-IT und Code-Theorie (ETL, Datenbankarchitektur).): 'Databricks will ETL zwischen Datenbanken und Analytics überflüssig machen'
+- Weiterhin entfernt (Cache, Grund: Thema Interne PC-Komponenten und Enterprise-IT (Server-CPU).): 'Dragonfly C1000: Qualcomm kündigt Serverprozessor für 2028 an'
+- Weiterhin entfernt (Cache, Grund: Thema Interne PC-Komponenten (RAM).): 'RAM sei Dank: 2026 ist das denkbar schlechteste Jahr für den Hardwareeinkauf'
+- Weiterhin entfernt (Cache, Grund: Thema Interne PC-Komponenten (Chip-Architektur).): '0,7 Nanometer: IBM zeigt die ersten Chips mit CFET-Transistoren'
+- Weiterhin entfernt (Cache, Grund: Harte Ausschlusskriterium: Apple Thema iPhone.): 'iPhone 17: Wohl so lange Apples Nummer eins wie noch nie'
+- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Inhaltlich identisch mit ID 4.): 'Bundestag beschließt Recht auf Reparatur von Elektrogeräten'
+- Weiterhin entfernt (Cache, Grund: Thema Code-Theorie (Programmiersprachen-Internals).): 'Im Test: Elixirs 1.20 neues intelligentes Typsystem'
+- Gelöscht (Grund: Behandelt interne PC-Komponenten (RAM), was gemäß den Negativ-Themen explizit ausgeschlossen ist.): 'CXMT: Apple will Zustimmung der US-Regierung für RAM aus China'
+- Gelöscht (Grund: Behandelt Themen aus den Bereichen Code-Theorie, Web-Infrastruktur und Softwareentwicklung (z. B. Spring Boot, Next.js, Rust).): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
 
 Finale Liste (live im XML-Feed):
-- [Heise] Mercedes verschiebt Sonderzahlung: Betriebsrat kritisiert Sparkurs
-- [Golem] ZCOM in Hoyerswerda: Zuse-Computer-Museum steht Schließung bevor
-- [Heise] Post zum Freitag: Die irrationale deutsche Angst vor Klimaanlagen muss verschwinden!
-- [Golem] Geschichten über Vorgesetzte: "Am Ende der Besprechung ist immer einer am Weinen"
-- [Digitec] Massenentlassung bei Bungie: Fast das gesamte «Destiny 2»-Team muss gehen
-- [Heise] Altersverifizierung für Social Media: Umsetzung bleibt das größte Problem
-- [Heise] Notion Mail wird abgeschaltet: Was Nutzer jetzt tun müssen
-- [Digitec] Microsoft erhöht Xbox-Preise deutlich
-- [Heise] Polymarket: Kriminelle sollen Kryptowerte in Millionenhöhe gestohlen haben
-- [Heise] YouTube-Werbeblocker mit 11 Millionen Installationen mit möglicher Hintertür
-- [Heise] Bericht über massiven Stellenabbau bei VW: Bis zu 100.000 Jobs in Gefahr
-- [Heise] „RollerCoaster Tycoon 3“: Freizeitpark-Klassiker von 2004 gratis bei Epic
-- [Golem] Sport-Streaming: Schlag gegen milliardenfach genutzten illegalen Streamingdienst
-- [Heise] Nach Bahnstörung: Ruf nach Verbot chinesischer Teile in kritischer Infrastruktur
-- [Golem] Nach Beschwerden: Commodore senkt Preis seines Klapp-Handys um 100 US-Dollar
-- [Heise] Aktuelle Hitzewelle die schlimmste in Westeuropa seit Beginn der Aufzeichnungen
-- [Golem] Künstliche Intelligenz: US-Regierung kontrolliert Freigabe von GPT 5.6
-- [Heise] Chrome: Zwei Updates in einer Woche
-- [Heise] Wegen „GTA 6“: Werden die Konsolen wieder knapp?
-- [Golem] Automobilindustrie: Ford korrigiert KI-Strategie mit Ingenieuren
-- [Heise] Contra Microsoft 365 – der Kommentar: Mit Support-Ende in die Cloud gezwungen
-- [Heise] Pro Microsoft 365 – der Kommentar: Pragmatisch gesehen die beste Wahl
-- [Heise] Quantenverschlüsselung: ARD und Vodafone testen abhörsichere TV-Übertragung
-- [Golem] Microsoft verlängert ESU-Programm: Windows 10 erhält ein Jahr mehr kostenlose Sicherheitsupdates
-- [Heise] Nach Auf und Ab der SpaceX-Aktie: OpenAI könnte Börsengang verschieben
-- [Heise] Auslegungssache 162: Aufsichtsbehörde unter Druck
-- [Heise] Bungie feuert die meisten Destiny-Entwickler und sogar einige des Marathon-Teams
-- [Heise] Autos sind zu vernetzt: Polestar gibt den US-Markt auf
-- [Digitec] Digitales Notizbuch von Huion im Test: träge, aber vielseitig
-- [Digitec] Besuch beim Schweizer Controller-Hersteller Rocket Games
-- [Heise] Australische Kinder nutzen Soziale Netze trotz Verbots
-- [Heise] Xbox: Microsoft erhöht Konsolenpreise weltweit zum 1. August
-- [Heise] Amazon-Bestseller am Prime Day 2026: Welche Deals lohnen sich?
-- [Golem] Prädiktive Polizeiarbeit: Britisches Projekt zur Verbrechensvorhersage gescheitert
-- [Heise] Sachsens neues Polizeigesetz: KI-Fahndung und Gesichtserkennung beschlossen
-- [Heise] Mars-Rover Perseverance: Marathon absolviert und aus dem All fotografiert
-- [Microsoft] Learning Agent now generally available — personalized AI upskilling for every employee
-- [Heise] Leica SL3-P: Neue Vollformatkamera mit 44 Megapixeln für 6.000 Euro
-- [Golem] Moritz Hennemann: Bundestag wählt neuen Datenschutzbeauftragten
-- [Heise] Gesetz zur Stärkung der Cybersicherheit: Ärzte sehen Schweigepflicht gefährdet
-- [Golem] Höhere Produktion geplant: Tesla stellt 1.000 neue Mitarbeiter in Grünheide ein
-- [Heise] Kia PV5: E-Bus nun auch mit weniger Reichweite und Platz
-- [Golem] Akkutechnik: CATL stellt Stromspeicher mit neuer Natrium-Technik vor
-- [Heise] Home Gym statt Fitnessstudio: Smarte Geräte, Laufband & Ergometer für zu Hause
-- [Digitec] Oppo Reno 16 Pro im Test: Gutes Smartphone, happiger Preis
-- [Heise] Commodore reagiert auf Kritik: Sailfish-Klapphandy wird 100 US-Dollar günstiger
-- [Golem] Anhörung zum Heizungsgesetz: Experten befürchten hohe Kosten für Mieter
-- [Heise] Landtag NRW: Abschaffung der Landesdatenschützer bringt Juristen ins Schwitzen
-- [Heise] Zuse-Computer-Museum ZCOM in Hoyerswerda steht vor dem Aus
-- [Heise] „GTA 6“: Betrug mit vermeintlichem „Early Access“
-- [Heise] ChatGPT und Copilot: US-Verlage reichen nächste Klage wegen KI-Training ein
-- [Heise] Niederländischer Energieversorger baut 1-Gigawattstunden-Langzeitspeicher
-- [Heise] Digitalisierung der Verwaltung: Bund gibt Tempo vor, Länder müssen aufholen
+- [Golem] Trainingsmaterial: Indische Fabrikarbeiter filmen sich für KI-Roboter
+- [Golem] Librepods im Test: Diese App zaubert viele praktische Airpods-Funktionen auf Android-Geräte
+- [Heise] US-Regierung lässt Zugang zu neuer KI von OpenAI beschränken
+- [Golem] Schwindende Relevanz: Grok erzeugt hauptsächlich Erotikinhalte
+- [Heise] Getty kuschelt mit OpenAI – die Fotonews der Woche 26/2026
+- [Heise] KI-Hype vs. Realität: Warum Technologie allein nicht reicht
+- [Heise] Lukratives Sommergeschäft: Wie Geschäftemacher an Fake-Klimaanlagen verdienen
+- [Heise] Punktuell und mittig: Die Bilder der Woche 26
+- [Golem] Meccha Chameleon: Das Zehn-Millionen-Wunder und weitere tolle Indiegames
+- [Heise] Quantic Dream: Streik soll „Star Wars Eclipse“ und 115 Stellen retten
+- [Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche
+- [Heise] Top 10: Der beste Ventilator im Test
+- [Golem] Ohne Bargeld: DHL bietet Kartenzahlung bei Nachnahme und Zoll
+- [Golem] EU-Richtlinie umgesetzt: Bundestag beschließt Recht auf Reparatur
+- [Heise] Freiwillig statt Zwang: Das doppelte Spiel um die EU-Chatkontrolle
+- [Golem] KI und Cyberabwehr: Chinesisches Sicherheitstool soll besser als Mythos sein
+- [Golem] CATL-Chef: Massenfertigung von Feststoffbatterien erst ab 2030
+- [Heise] Google setzt Verlage bei KI-Lizenzen offenbar unter Druck
+- [Heise] NRW: Datenschutzbeauftragte empfiehlt Schulen klare Regeln für Handyfotos
+- [Heise] Schöne neue Suchwelt: Warum Google und Co. bald für KI-Fehler haften sollen
+- [Golem] Tollwut durch JD Vance: Duckduckgo-KI verbreitet Falschinformation zu Trumps Tod
+- [Heise] Carlinkit Mini Ultra 5 im Test: Wireless Carplay & Android Auto für 40 Euro
+- [Golem] V - Die außerirdischen Besucher kommen: Wie der Faschismus über die Welt kam
+- [Golem] Amble One: Offener elektrischer Buggy ist bis 65 km/h schnell
+- [Heise] Stefan Hartung verlässt Bosch überraschend zum 30. Juni
+- [Heise] Fakes im Netz: So entlarvt jeder KI-generierte Videos (von uns getestet)
+- [Heise] KI-Update Deep-Dive: Synthetische Bilder gegen den Bias
+- [Heise] AGCM prüft Microsoft 365: Vorwurf intransparenter Preiserhöhungen
+- [Golem] Sarah Wynn-Williams: Whistleblowerin verklagt Meta wegen nötigender Überwachung
+- [Heise] 77 Pfund pro Person: Das könnte Apple iCloud-Nutzern in Großbritannien zahlen
+- [Golem] Elektroauto: Polestar muss sich aus USA zurückziehen
+- [Golem] Gwynne Shotwell: SpaceX spricht offen über ein eigenes Mobilfunknetz
+- [Golem] Chrome-Erweiterung: Mögliche Backdoor in millionenfach installiertem Adblocker
+- [Digitec] ETH-Durchbruch: Ein Pixel, der gleichzeitig Kamera und Display ist
+- [Heise] Drei Fragen und Antworten: So klappt der Abschied von Microsoft 365
