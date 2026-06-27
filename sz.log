@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 26.6.2026, 06:24:57
-Letzter Lauf: 25.6.2026, 06:24:57
+Start: 27.6.2026, 06:24:57
+Letzter Lauf: 26.6.2026, 06:24:57
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -13,64 +13,52 @@ Abruf der RSS-Feeds:
 
 Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
-- Gelöscht wegen Keyword 'leute:': 'Leute: Was schenkt man einer Milliardärin zur Hochzeit?'
-- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 25. Juni 2026'
+- Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Erdbeben in Venezuela: Was deutsche Helfer leisten können'
+- Gelöscht wegen Keyword 'leute:': 'Leute: Barack Obama kennt nur noch den Geradeaus-Modus'
+- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 26. Juni 2026'
 
-KI-Filter (Gemini) - 55 neue Artikel geprüft:
-- Gelöscht (Grund: Deutsches Politik-Thema, fällt unter den Ausschlussbereich deutsche Kommunalpolitik/Politik.): [Politik] 'Bundespolitik: Entlastung von Kommunen: Bund einigt sich mit Ländern auf Finanzreform'
-- Gelöscht (Grund: Thema Kochen/Rezepte.): [Magazin] 'Bratkartoffeln im Sommergewand'
-- Gelöscht (Grund: Thema Mode/Benimmregeln (kein informativer Mehrwert).): [Magazin] 'Soll ich was sagen, wenn ich die Kleidung meines Chefs unpassend finde?'
-- Gelöscht (Grund: Thema Mode.): [Leben] 'Ladies & Gentlemen: Hitze Couture'
-- Gelöscht (Grund: Thema Mode.): [Leben] 'Italien: Das Comeback der alten Damen'
-- Gelöscht (Grund: Duplikat zu ID 13; ID 13 ist informativer.): [Politik] 'Schifffahrt: Oman: Keine Hormus-Gebühren'
-- Gelöscht (Grund: Regionale deutsche Kommunalpolitik/Infrastruktur.): [Politik] 'Stuttgart 21: „Die Bahn hat bei der Umsetzung gravierende Fehler gemacht“'
-- Gelöscht (Grund: Parteipolitik.): [Politik] 'AfD: Ein ausgestreckter Arm und viele Fragen'
-- Gelöscht (Grund: Duplikat zu ID 3/ID 10; ID 10 ist umfassender und informativer.): [Panorama] 'Südamerika: Zahl der Toten nach schwerem Erdbeben in Venezuela steigt'
-- Gelöscht (Grund: Duplikat zu ID 40; ID 40 enthält weiterführende Einordnung.): [Wirtschaft] 'Everllence: Volkswagen verkauft Mehrheit an Motorenhersteller'
-- Gelöscht (Grund: Deutsche Kommunalpolitik/Stadt-Thema.): [Panorama] 'Halle (Saale): Ein Badesee, nicht mehr für alle?'
-- Gelöscht (Grund: Thema Erziehung von Kleinkindern.): [Leben] 'Elternkolumne „Die Erziehungsberechtigten“: Dann hau doch!'
+KI-Filter (Gemini) - 42 neue Artikel geprüft:
+- Gelöscht (Grund: Fällt unter deutsche Kommunalpolitik): [Politik] 'Nach Bund-Länder-Treffen: Kommunen fordern Soforthilfen'
+- Gelöscht (Grund: Duplikat zu ID 16 (Thema Automobilkrise/Spartrends)): [Wirtschaft] 'Autoindustrie: Mercedes verschärft Sparkurs: Mehr arbeiten für das gleiche Geld'
+- Gelöscht (Grund: Duplikat zu ID 14 (informativere Darstellung gewählt)): [Panorama] 'Erdbeben in Venezuela: „Alles schlimm, alles ist zerstört“'
+- Gelöscht (Grund: Fällt unter Promis/Adel): [Panorama] 'Großbritannien: Ein einzigartiger Blick in die royalen Finanzen'
+- Gelöscht (Grund: Duplikat zu ID 1 und ID 4 (Hitzewelle/Rekordhitze)): [Wissen] 'Wetter in Deutschland: Wo es heute besonders heiß ist'
+- Gelöscht (Grund: Duplikat zu ID 30 (Urteil zum Weihnachtsmarkt-Anschlag)): [Panorama] 'Magdeburg: Anschlag auf Weihnachtsmarkt: Taleb A. zu lebenslanger Haftstrafe verurteilt'
+- Gelöscht (Grund: Duplikat zu ID 40 (Sprachliche Dublette auf Deutsch)): [Wirtschaft] 'Top economists warn: „China and the US will eat up Europe piece by piece“'
+- Gelöscht (Grund: Fällt unter deutsche Kommunalpolitik/Regionalpolitik mit Fokus auf Landkreise): [Wissen] 'Demografie: Wo die Jugend verschwindet'
 
 Finale Liste (live im XML-Feed):
-- [Politik] USA: Bayer gewinnt vor Oberstem Gerichtshof zu Glyphosat
-- [Politik] Krieg in Nahost: Iran greift Containerschiff in der Straße von Hormus an
-- [Politik] USA: Oberster Gerichtshof stützt Trumps Asylpolitik
-- [Panorama] Erdbeben: „Venezuela rutscht von einer Krise in die nächste“
-- [Wirtschaft] Einzelhandel: Galeria erhält Millionenkredit für Sanierung
-- [Leben] Post von euch: Ausversehengesichter
-- [Politik] SZ-Podcast „Auf den Punkt“: Deutschland schwitzt – und muss Hitze neu denken
-- [Wissen] Menschheitsgeschichte: Hihihi oder hahaha?
-- [Wissen] Erdbeben: Doppel-Katastrophe aus dem Untergrund
-- [Politik] Krieg in Nahost: Oman: Keine Gebühren an der Straße von Hormus geplant
-- [Magazin] Was meine KI über mich denkt
-- [Magazin] Der Berg ruft
-- [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
-- [Wirtschaft] Arbeitspsychologie: Aber Chef, ich habe keinen Durst
-- [Magazin] Renaissance von britischem Charme
-- [Wirtschaft] Glyphosat-Klagen: Bayer gewinnt im Glyphosat-Streit vor US-Supreme-Court
-- [Politik] Ukraine-Konferenz in Polen: Ein Zahltag und viele Pläne
-- [Magazin] Welche Kindersonnencreme empfehlen Dermatologinnen – und Kinder?
-- [Wirtschaft] Grünheide: Tesla verkündet: Mehr als 1000 neue Mitarbeiter in Deutschland
-- [Wirtschaft] Rüstungsunternehmen: Hat Rheinmetall zu viel versprochen?
-- [Politik] Verteidigung: Nur 530 Freiwillige für die Bundeswehr
-- [Wirtschaft] Wohnungsmarkt: Immobilienpreise in Deutschland steigen langsamer
+- [Politik] Krieg in Nahost: USA und Iran greifen gegenseitig Militärstützpunkte an
+- [Panorama] Wetter: Temperaturrekord in Deutschland: 41,3 Grad im Saarland gemessen
+- [Politik] USA: Wegen Digitalsteuer-Plänen: Trump droht Europäern mit Zöllen in Höhe von 100 Prozent
+- [Leben] Familien-Newsletter: Die ganze Familie ist ballaballa
+- [Wissen] Hitzewelle: Bis zu 42 Grad und Tropennächte: Deutschland steuert auf Extremhitze-Wochenende zu
+- [Wirtschaft] Kaufhäuser: Der 160-Millionen-Kredit verschleiert Galerias Not
+- [Politik] Südasien: Droht zwischen Indien und Pakistan ein Krieg ums Wasser?
+- [Politik] NSDAP-Mitgliederkartei: „Alle haben ein verbrecherisches Regime legitimiert“
+- [Wirtschaft] Computer: Ein weiteres Jahr Gnadenfrist für Windows 10
+- [Wirtschaft] Energie: Gewürge beim grünen Gas
+- [Wirtschaft] Altersvorsorge: Zusammen sind wir superreich
+- [Politik] UN-Bericht: Deutschland wichtiger Umschlagplatz für illegalen Ketamin-Handel
+- [Wirtschaft] Autozulieferer: Mitten in der schweren Krise: Bosch-Chef geht überraschend
+- [Panorama] Erdbeben in Venezuela: Suche nach Vermissten geht weiter – Deutsche Helfer auf dem Weg
+- [Panorama] Gewalt gegen Frauen: „Wir kennen die Männer, die denken, sie können machen, was sie wollen“
+- [Wirtschaft] Autoindustrie: Die letzte Chance für VW und Mercedes
 - [Politik] Glosse: Das Streiflicht
-- [Politik] Grundgesetz: Gutachten sieht gute Chancen für ein AfD-Verbot
-- [Leben] Rätseln: Wortkarussell
-- [Leben] Lachen: Witzduell
-- [Leben] Anderswowort: Die Arschkarte ziehen
-- [Politik] Katholische Kirche: Die finstere Seite der Lichtgestalt
-- [Wirtschaft] Reden wir über Geld: „So schnell, wie ich das Geld gewonnen habe, habe ich es auch wieder verloren“
-- [Wirtschaft] Renault: Kamikazedrohnen aus der Autofabrik
-- [Wirtschaft] Hitzewelle: Viele Pariser halten es in ihren Wohnungen nicht mehr aus
-- [Wirtschaft] Everllence-Verkauf: Volkswagen verschafft sich etwas Luft – im besten Fall
-- [Leben] Patchwork-Familie: Ich würde sie gerne mögen
-- [Leben] Familiengeschichte: „Da bröckelt das Vertrauen in das Familiennarrativ“
-- [Leben] Interview mit Juli Zeh: „Ein wachsender Teil der Menschen ist gar nicht mehr erreichbar“
-- [Magazin] Flussbier
-- [Panorama] Wetter: Rekord für wärmste Nacht in Deutschland eingestellt
-- [Leben] Culture: Fruit Is Too Sweet
-- [Wirtschaft] Private Krankenversicherung Ergo: Die Marke DKV verschwindet vom Markt
-- [Leben] Serie: „Wie hast du dich verändert“: Campen unter dem Fünf-Sterne-Himmel
-- [Leben] Essay über das Meer: Eine schrecklich schöne Welt
-- [Leben] Deutscher Alltag: Fehlt nur noch Mick Jagger
-- [Panorama] Kolumne „Mitten in …“: Meerschweinchen, mausetot
+- [Politik] Bahn: Stuttgart 21: Noch einmal drei Milliarden Euro teurer
+- [Panorama] Istanbul: Lange Haftstrafen nach Tod einer deutschen Familie
+- [Wirtschaft] Autoindustrie: Bericht: VW könnte vier deutsche Werke schließen
+- [Politik] Altersvorsorge: Wer bei den Rentenplänen draufzahlt – und wer profitiert
+- [Wirtschaft] Wohlstand: Die europäische Wirtschaft schmilzt
+- [Politik] Krieg in der Ukraine: Krim ruft Ausnahmezustand aus
+- [Politik] Sicherheit in Europa: „Wir müssen die ersten Schlachten gewinnen“
+- [Wirtschaft] Rüstung: Bund steigt für Milliarden beim Panzerbauer KNDS ein
+- [Politik] Verkehr: Deutschland wird Baustellen-Land
+- [Politik] Attentate im Auftrag von Iran?: Pistole mit Schalldämpfer „für den einmaligen Gebrauch“
+- [Politik] Urteil zum Weihnachtsmarkt-Anschlag: Höchststrafe, Tränen und eine technische Panne
+- [Leben] SZ Weekender: Eintauchen
+- [Magazin] Das ist der beste Ventilator für den Sommer
+- [Wissen] Psychiatrie: Der Teufel ist nur eine Psychose
+- [Panorama] Fußball-WM: Bangladesch ruft: Deutschland vor!
+- [Wirtschaft] Warnung von Top-Ökonomen: „China und die USA werden Europa aufessen, Stück für Stück“
+- [Magazin] »Die wenigsten Paare verstehen, was in ihrer Beziehung schiefläuft«
