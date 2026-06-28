@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 28.6.2026, 06:30:36
-Letzter Lauf: 27.6.2026, 12:58:39
+Start: 28.6.2026, 12:58:39
+Letzter Lauf: 28.6.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,16 +17,26 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 24 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Vermisstenfall) außerhalb der Waadt (Kanton Freiburg).): 'Le jeune homme porté disparu a été retrouvé en bonne santé'
-- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb der Waadt (Kanton Genf).): 'Un chauffeur blessé après le renversement d'une arroseuse'
-- Gelöscht (Grund: Duplikat zu Artikel 12 (beide behandeln die Pride in Lausanne); Artikel 12 ist informativer.): '«Je suis très fier de voir autant de bienveillance dans ma ville»'
-- Gelöscht (Grund: Kriminalitätsmeldung außerhalb von Vaud (Tatort im Kanton Bern).): 'Mord im Könizbergwald – Was die Spurensicherung am Tatort erschweren kann'
-- Gelöscht (Grund: Blaulicht-Meldung/Rettungswesen außerhalb von Vaud (Kanton Wallis).): 'Rettungswesen – Neue Rega-Basis: Hoffnung im Goms, Widerstand im Wallis'
+KI-Filter (Gemini) - 13 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 12 (beide behandeln die Pride in Lausanne); Artikel 12 ist informativer.): '«Je suis très fier de voir autant de bienveillance dans ma ville»'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung außerhalb von Vaud (Tatort im Kanton Bern).): 'Mord im Könizbergwald – Was die Spurensicherung am Tatort erschweren kann'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Rettungswesen außerhalb von Vaud (Kanton Wallis).): 'Rettungswesen – Neue Rega-Basis: Hoffnung im Goms, Widerstand im Wallis'
 
 Finale Liste (live im XML-Feed):
+- [Journal de Morges] Hautemorges zahlt für die Erneuerung der Eisbahn von Morges
+- [SRF Schweiz] «Alone Together» – Zu zweit auf einer Insel – woran es bei vier Paaren hakt
+- [SRF Schweiz] Schweizer Luftwaffe – Schweiz zahlte vorzeitig 500 Millionen an die USA – für F-35-Jets
+- [SRF Ausland] Streit um Bäder in Italien – Neuausschreibung der Strandbäder in Italien ist umstritten
+- [20 Min Romandie] „Man suchte ein leichtes Opfer“: Er behauptet, die Polizei habe ihn in eine Falle gelockt
+- [SRF Schweiz] Aktion der Krebsliga – Gratis-Sonnencreme für Hautkrebs-Hotspot Schweiz
+- [SRF Schweiz] Schlacht bei Murten – Die erstaunlichen Überbleibsel der eidgenössischen Heldentat
+- [SRF Schweiz] Philipp Matthias Bregy – Bregy ist seit einem Jahr Mitte-Präsident – die Bilanz
+- [SRF Ausland] Nach Protesten – Serbiens Präsident Vucic kündigt Rücktritt an
+- [SRF Schweiz] Berner Verkehrsgeschichte – Dampftram steht neu unter Denkmalschutz und fährt noch immer
+- [RTS Vaud] Das Maison de la Radio in La Sallaz schliesst nach 91 Jahren endgültig seine Mikrofone
+- [SRF Ausland] Autonome Drohnen im Krieg – Ethiker: «Plötzlich wird das Töten klarer sichtbar als zuvor»
+- [SRF Wissen] Klimatisierte Räume – Erkältung wegen Klimaanlage – stimmt das?
 - [SRF Schweiz] Live vom Open Air St. Gallen – Die Rave-Teufel von Scooter bringen die Hitze zurück ins Tobel
-- [SRF Ausland] Nach Protesten – Serbiens Präsident Vucic kündigt taktischen Rücktritt an
 - [SRF Ausland] Transparenz bei Wahlen – Schweiz unterstützt Korruptionsbekämpfung in Peru
 - [SRF Schweiz] Forschungsprojekt in Luzern – Kein Patentrezept gegen Nährstoffverluste auf Bauernhöfen
 - [SRF Schweiz] Abstimmungen 27. September – GLP sagt Nein zu Neutralitäts- und Ernährungsinitiative
@@ -46,15 +56,3 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Marketingaktion eines Tabakriesen sorgt für Kritik
 - [20 Min Romandie] Das Bodenpersonal in Cointrin beklagt unzureichende Pausen
 - [SRF Ausland] Vergleich mit dem 1. Weltkrieg – «Dieser Krieg geht weit über die Ukraine und Russland hinaus»
-- [Journal de Morges] Sie will Heimkindern durch Ausflüge auf den See helfen
-- [SRF Schweiz] FDP-Co-Präsident im Interview – Mühlemann: «Bundesrat will lieber den Konsum belasten als sparen»
-- [SRF Wirtschaft] Folgen des Iran-Krieges – Tiefer Schweinepreis in China: Schweizer Exporteure unter Druck
-- [SRF Schweiz] Wenn eine Person verschwindet – Von vermisst zu verschollen – für Angehörige eine Herausforderung
-- [SRF Wissen] Ausgeklügelte Jagdtaktik – Ameisen-Katapult-Falle der Ballista-Spinne erstmals dokumentiert
-- [20 Min Romandie] Die Stadt verschärft Regeln für Schaufenster und sorgt für Ärger
-- [20 Min Romandie] Postbote nach 42 Jahren entlassen: Bundesrat greift nicht ein
-- [SRF Schweiz] Im Dienst der SNB – Ehemaliger SNB-Chef Hans Meyer mit 90 Jahren gestorben
-- [SRF Schweiz] Schlachten, Wursten, Würzen – Immer weniger Metzger: Wandel oder Bedrohung?
-- [SRF Wirtschaft] Hohe Kosten, wenig Nutzen – Warum Montreal die Fussball-WM nicht wollte
-- [SRF Ausland] Schweizerischer Erdbebendienst – Warum gab es in Venezuela keine Erdbebenwarnung?
-- [20 Min Romandie] Ein Kampf «David gegen Goliath» um die Reparatur seines Peugeots
