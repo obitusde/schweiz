@@ -1,6 +1,6 @@
 === SZ-FEED PROTOKOLL ===
-Start: 27.6.2026, 06:24:57
-Letzter Lauf: 26.6.2026, 06:24:57
+Start: 28.6.2026, 06:24:57
+Letzter Lauf: 27.6.2026, 06:24:57
 
 Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/auto
@@ -12,53 +12,17 @@ Abruf der RSS-Feeds:
 - https://rss.sueddeutsche.de/rss/Wissen
 
 Statischer Filter (Keywords):
-- Gelöscht wegen Keyword 'momentaufnahmen im': 'Momentaufnahmen im Juni: Bilder des Tages'
-- Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: Erdbeben in Venezuela: Was deutsche Helfer leisten können'
-- Gelöscht wegen Keyword 'leute:': 'Leute: Barack Obama kennt nur noch den Geradeaus-Modus'
-- Gelöscht wegen Keyword 'sz am abend': 'SZ am Abend: Nachrichten vom 26. Juni 2026'
+- Gelöscht wegen Keyword 'podcast:': 'Podcast: „Auf den Punkt“: NSDAP: Was eine Mitgliedschaft bedeutet hat'
 
-KI-Filter (Gemini) - 42 neue Artikel geprüft:
-- Gelöscht (Grund: Fällt unter deutsche Kommunalpolitik): [Politik] 'Nach Bund-Länder-Treffen: Kommunen fordern Soforthilfen'
-- Gelöscht (Grund: Duplikat zu ID 16 (Thema Automobilkrise/Spartrends)): [Wirtschaft] 'Autoindustrie: Mercedes verschärft Sparkurs: Mehr arbeiten für das gleiche Geld'
-- Gelöscht (Grund: Duplikat zu ID 14 (informativere Darstellung gewählt)): [Panorama] 'Erdbeben in Venezuela: „Alles schlimm, alles ist zerstört“'
-- Gelöscht (Grund: Fällt unter Promis/Adel): [Panorama] 'Großbritannien: Ein einzigartiger Blick in die royalen Finanzen'
-- Gelöscht (Grund: Duplikat zu ID 1 und ID 4 (Hitzewelle/Rekordhitze)): [Wissen] 'Wetter in Deutschland: Wo es heute besonders heiß ist'
-- Gelöscht (Grund: Duplikat zu ID 30 (Urteil zum Weihnachtsmarkt-Anschlag)): [Panorama] 'Magdeburg: Anschlag auf Weihnachtsmarkt: Taleb A. zu lebenslanger Haftstrafe verurteilt'
-- Gelöscht (Grund: Duplikat zu ID 40 (Sprachliche Dublette auf Deutsch)): [Wirtschaft] 'Top economists warn: „China and the US will eat up Europe piece by piece“'
-- Gelöscht (Grund: Fällt unter deutsche Kommunalpolitik/Regionalpolitik mit Fokus auf Landkreise): [Wissen] 'Demografie: Wo die Jugend verschwindet'
+KI-Filter (Gemini) - 9 neue Artikel geprüft:
+- Gelöscht (Grund: Duplikat zum Artikel mit ID 3, welcher die Kernereignisse umfassender darstellt.): [Panorama] 'Erdbeben in Venezuela: „Alles schlimm, alles ist zerstört“'
+- Gelöscht (Grund: Duplikat zum Artikel mit ID 6, welcher den Sachverhalt informativer als Nachrichtenmeldung zusammenfasst.): [Politik] 'Nahost: Israel und Libanon einigen sich auf Abkommen'
 
 Finale Liste (live im XML-Feed):
-- [Politik] Krieg in Nahost: USA und Iran greifen gegenseitig Militärstützpunkte an
-- [Panorama] Wetter: Temperaturrekord in Deutschland: 41,3 Grad im Saarland gemessen
-- [Politik] USA: Wegen Digitalsteuer-Plänen: Trump droht Europäern mit Zöllen in Höhe von 100 Prozent
-- [Leben] Familien-Newsletter: Die ganze Familie ist ballaballa
-- [Wissen] Hitzewelle: Bis zu 42 Grad und Tropennächte: Deutschland steuert auf Extremhitze-Wochenende zu
-- [Wirtschaft] Kaufhäuser: Der 160-Millionen-Kredit verschleiert Galerias Not
-- [Politik] Südasien: Droht zwischen Indien und Pakistan ein Krieg ums Wasser?
-- [Politik] NSDAP-Mitgliederkartei: „Alle haben ein verbrecherisches Regime legitimiert“
-- [Wirtschaft] Computer: Ein weiteres Jahr Gnadenfrist für Windows 10
-- [Wirtschaft] Energie: Gewürge beim grünen Gas
-- [Wirtschaft] Altersvorsorge: Zusammen sind wir superreich
-- [Politik] UN-Bericht: Deutschland wichtiger Umschlagplatz für illegalen Ketamin-Handel
-- [Wirtschaft] Autozulieferer: Mitten in der schweren Krise: Bosch-Chef geht überraschend
-- [Panorama] Erdbeben in Venezuela: Suche nach Vermissten geht weiter – Deutsche Helfer auf dem Weg
-- [Panorama] Gewalt gegen Frauen: „Wir kennen die Männer, die denken, sie können machen, was sie wollen“
-- [Wirtschaft] Autoindustrie: Die letzte Chance für VW und Mercedes
-- [Politik] Glosse: Das Streiflicht
-- [Politik] Bahn: Stuttgart 21: Noch einmal drei Milliarden Euro teurer
-- [Panorama] Istanbul: Lange Haftstrafen nach Tod einer deutschen Familie
-- [Wirtschaft] Autoindustrie: Bericht: VW könnte vier deutsche Werke schließen
-- [Politik] Altersvorsorge: Wer bei den Rentenplänen draufzahlt – und wer profitiert
-- [Wirtschaft] Wohlstand: Die europäische Wirtschaft schmilzt
-- [Politik] Krieg in der Ukraine: Krim ruft Ausnahmezustand aus
-- [Politik] Sicherheit in Europa: „Wir müssen die ersten Schlachten gewinnen“
-- [Wirtschaft] Rüstung: Bund steigt für Milliarden beim Panzerbauer KNDS ein
-- [Politik] Verkehr: Deutschland wird Baustellen-Land
-- [Politik] Attentate im Auftrag von Iran?: Pistole mit Schalldämpfer „für den einmaligen Gebrauch“
-- [Politik] Urteil zum Weihnachtsmarkt-Anschlag: Höchststrafe, Tränen und eine technische Panne
-- [Leben] SZ Weekender: Eintauchen
-- [Magazin] Das ist der beste Ventilator für den Sommer
-- [Wissen] Psychiatrie: Der Teufel ist nur eine Psychose
-- [Panorama] Fußball-WM: Bangladesch ruft: Deutschland vor!
-- [Wirtschaft] Warnung von Top-Ökonomen: „China und die USA werden Europa aufessen, Stück für Stück“
-- [Magazin] »Die wenigsten Paare verstehen, was in ihrer Beziehung schiefläuft«
+- [Politik] USA: Trump nominiert ehemaligen Polizist als neuen ICE-Direktor
+- [Politik] Krieg in Nahost: USA und Iran greifen sich erneut an – Trump droht mit Vernichtung
+- [Politik] Krieg in der Ukraine: Bürgermeister: Fast zwei Dutzend Drohnen vor Moskau abgeschossen
+- [Panorama] Venezuela: Zahl der Toten steigt nach Erdbeben auf mehr als 1400
+- [Panorama] Wetter: Erneut Temperaturrekord in Deutschland: 41,5 Grad gemessen
+- [Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen
+- [Politik] Krieg in Libanon: Israel macht erstmals Zugeständnisse und zieht sich aus Zonen in Libanon zurück
