@@ -5,8 +5,71 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Sat, 27 Jun 2026 10:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 04:10:26 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Heise] Top 10: Carplay-Wireless-Adapter im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-carplay-wireless-adapter-im-test-iphone-im-auto-kabellos-nutzen/wwqt5v6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11345179</guid>
+      <description><![CDATA[Apple Carplay kabellos im Auto nutzen ohne passendes Infotainment? Ein Wireless-Adapter macht es möglich. Wir zeigen die besten.]]></description>
+      <pubDate>Sat, 27 Jun 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Heimliche Überwachung: Regierung bricht ihr Schweigen bei stillen SMS</title>
+      <link>https://www.heise.de/news/Heimliche-Ueberwachung-Regierung-bricht-ihr-Schweigen-bei-stillen-SMS-11346858.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346858</guid>
+      <description><![CDATA[Nach Jahren der Abschottung liefert das Innenministerium wieder eine Zahl zu den umstrittenen Ortungs-SMS: Der Einsatz von „Stealth Pings“ ist eingebrochen.]]></description>
+      <pubDate>Sat, 27 Jun 2026 17:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Per Brief: US-Regierung hebt Sperre von Claude Mythos auf</title>
+      <link>https://www.heise.de/news/Per-Brief-US-Regierung-hebt-Sperre-von-Claude-Mythos-auf-11346880.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346880</guid>
+      <description><![CDATA[Per Brief hat der Handelsminister der USA der Firma Anthropic erlaubt, ihr KI-Modell Claude Mythos wieder freizuschalten. Fable bleibt gesperrt.]]></description>
+      <pubDate>Sat, 27 Jun 2026 15:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] GPT-5.6: OpenAI verspricht mehr Leistung bei weniger Token-Verbrauch</title>
+      <link>https://www.heise.de/news/GPT-5-6-OpenAI-verspricht-mehr-Leistung-bei-weniger-Token-Verbrauch-11346852.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346852</guid>
+      <description><![CDATA[OpenAI veröffentlicht GPT-5.6. Laut dem Hersteller übertreffen seine neuen KI-Modelle die Konkurrenz von Anthropic und verbrauchen weniger Token.]]></description>
+      <pubDate>Sat, 27 Jun 2026 15:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Lucas-Drohne: US-Streitkräfte rüsten Kamikaze-Schwarm mit KI aus</title>
+      <link>https://www.golem.de/news/lucas-drohne-us-streitkraefte-ruesten-kamikaze-schwarm-mit-ki-aus-2606-210261.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/lucas-drohne-us-streitkraefte-ruesten-kamikaze-schwarm-mit-ki-aus-2606-210261.html</guid>
+      <description><![CDATA[Bislang waren die günstigen Shahed-Nachbauten der USA simple Einwegwaffen. Jetzt sollen sie miteinander kommunizieren und im Schwarm angreifen. (<a href="https://www.golem.de/specials/militaer/">Militär</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
+      <pubDate>Sat, 27 Jun 2026 14:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Marstek Venus D im Test</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/marstek-venus-d-im-test-leistungsstarker-speicher-fuers-bkw-mit-hybridem-laden/t6c40zj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346597</guid>
+      <description><![CDATA[Als modularer Speicher fürs BKW liefert der Marstek Venus D vier MPPT-Eingänge sowie eine hohe AC-Leistung von 2,2 kW und unterstützt hybrides Laden.]]></description>
+      <pubDate>Sat, 27 Jun 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Trump: Wenn Digitalsteuer, dann 100 Prozent höhere Zölle</title>
+      <link>https://www.heise.de/news/Trump-Wenn-Digitalsteuer-dann-100-Prozent-hoehere-Zoelle-11346834.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11346834</guid>
+      <description><![CDATA[Eigentlich hatten sich die USA und die EU auf ein Zollabkommen geeinigt. Doch Präsident Trump droht bereits mit neuen Abgaben. Die EU bleibt hart.]]></description>
+      <pubDate>Sat, 27 Jun 2026 13:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] climate.us: US-Klima-Portal dank Spenden wieder online</title>
+      <link>https://www.golem.de/news/climate-us-us-klima-portal-dank-spenden-wieder-online-2606-210260.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/climate-us-us-klima-portal-dank-spenden-wieder-online-2606-210260.html</guid>
+      <description><![CDATA[Donald Trump ordnete die Einstellung an, ehemalige Mitarbeiter haben das Portal mit Informationen zum Klimawandel unter neuer Adresse zurückgebracht. (<a href="https://www.golem.de/specials/klimawandel/">Klimawandel</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
+      <pubDate>Sat, 27 Jun 2026 13:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Länger arbeiten: Mercedes-Benz will 35-Stunden-Woche kippen</title>
+      <link>https://www.golem.de/news/laenger-arbeiten-mercedes-benz-will-35-stunden-woche-kippen-2606-210255.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/laenger-arbeiten-mercedes-benz-will-35-stunden-woche-kippen-2606-210255.html</guid>
+      <description><![CDATA[Länger arbeiten, gleich viel verdienen: Vorstandschef Källenius will die Arbeitszeit erhöhen, der Betriebsrat blockt. Dahinter steckt ein strukturelles Problem. (<a href="https://www.golem.de/specials/mercedes-benz/">Mercedes Benz</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
+      <pubDate>Sat, 27 Jun 2026 10:50:06 GMT</pubDate>
+    </item>
     <item>
       <title>[Golem] Trainingsmaterial: Indische Fabrikarbeiter filmen sich für KI-Roboter</title>
       <link>https://www.golem.de/news/trainingsmaterial-indische-fabrikarbeiter-filmen-sich-fuer-ki-roboter-2606-210165.html</link>
@@ -76,181 +139,6 @@
       <guid isPermaLink="false">http://heise.de/-11346726</guid>
       <description><![CDATA[Beim Studio Quantic Dream sind 115 Stellen bedroht. Die Belegschaft streikt, um das seit 2021 angekündigte „Star Wars Eclipse“ zu retten.]]></description>
       <pubDate>Sat, 27 Jun 2026 05:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche</title>
-      <link>https://www.digitec.ch/de/page/die-wichtigsten-game-trailer-und-ankuendigungen-der-woche-43080?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/die-wichtigsten-game-trailer-und-ankuendigungen-der-woche-43080</guid>
-      <description><![CDATA[Die Redaktion hat für dich die spannendsten Trailer und Neuankündigungen der vergangenen Woche (20.06. bis 27.06.) gesammelt.]]></description>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Top 10: Der beste Ventilator im Test</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ventilator-im-test-switchbot-siegt-dreo-pustet-alle-weg/3vw0k3j?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346609</guid>
-      <description><![CDATA[Wir zeigen die zehn besten Ventilatoren aus unseren Tests. Testsieger, Preis-Leistungs-Sieger und Kaufberatung im Überblick.]]></description>
-      <pubDate>Fri, 26 Jun 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Ohne Bargeld: DHL bietet Kartenzahlung bei Nachnahme und Zoll</title>
-      <link>https://www.golem.de/news/ohne-bargeld-dhl-bietet-kartenzahlung-bei-nachnahme-und-zoll-2606-210252.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/ohne-bargeld-dhl-bietet-kartenzahlung-bei-nachnahme-und-zoll-2606-210252.html</guid>
-      <description><![CDATA[Die Handscanner der DHL-Zusteller bekommen ein wichtiges Update: Die lästige Barzahlung bei Zoll und Nachnahme gehört endlich der Vergangenheit an. (<a href="https://www.golem.de/specials/onlinehandel/">Onlinehandel</a>, <a href="https://www.golem.de/specials/nfc/">NFC</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 16:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] EU-Richtlinie umgesetzt: Bundestag beschließt Recht auf Reparatur</title>
-      <link>https://www.golem.de/news/eu-richtlinie-umgesetzt-bundestag-beschliesst-recht-auf-reparatur-2606-210249.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/eu-richtlinie-umgesetzt-bundestag-beschliesst-recht-auf-reparatur-2606-210249.html</guid>
-      <description><![CDATA[Das Recht auf Reparatur soll für weniger Elektroschrott sorgen. Ein neuer Paragraf im BGB setzt es in deutsches Recht um. (<a href="https://www.golem.de/specials/recycling-und-reparatur/">Recycling & Reparatur</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 15:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Freiwillig statt Zwang: Das doppelte Spiel um die EU-Chatkontrolle</title>
-      <link>https://www.heise.de/news/Freiwillig-statt-Zwang-Das-doppelte-Spiel-um-die-EU-Chatkontrolle-11346573.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346573</guid>
-      <description><![CDATA[Konzerne liefern auch ohne Gesetz viele Hinweise auf sexuellen Kindesmissbrauch. Die Bundesregierung bricht offenbar ihr Versprechen gegen Massenüberwachung.]]></description>
-      <pubDate>Fri, 26 Jun 2026 15:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] KI und Cyberabwehr: Chinesisches Sicherheitstool soll besser als Mythos sein</title>
-      <link>https://www.golem.de/news/ki-und-cyberabwehr-chinesische-sicherheitstool-soll-besser-als-mythos-sein-2606-210246.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/ki-und-cyberabwehr-chinesische-sicherheitstool-soll-besser-als-mythos-sein-2606-210246.html</guid>
-      <description><![CDATA[Laut dem CEO des chinesischen Unternehmens Qihoo 360 verfolgt das KI-Sicherheitstool Tulongfeng einen effizienteren Ansatz als Mythos. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/malware/">Malware</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 15:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] CATL-Chef: Massenfertigung von Feststoffbatterien erst ab 2030</title>
-      <link>https://www.golem.de/news/catl-chef-massenfertigung-von-feststoffbatterien-erst-ab-2030-2606-210245.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/catl-chef-massenfertigung-von-feststoffbatterien-erst-ab-2030-2606-210245.html</guid>
-      <description><![CDATA[Feststoffbatterien bringen Elektroautos zahlreiche Vorteile. Der Durchbruch braucht aber noch Zeit - findet zumindest der Chef von CATL. (<a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>, <a href="https://www.golem.de/specials/wissenschaft/">Wissenschaft</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 15:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Google setzt Verlage bei KI-Lizenzen offenbar unter Druck</title>
-      <link>https://www.heise.de/news/Google-setzt-Verlage-bei-KI-Lizenzen-offenbar-unter-Druck-11346411.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346411</guid>
-      <description><![CDATA[Google soll ein Google-News-Programm für Verlage an KI-Rechte für Inhalte knüpfen und das mögliche Auslaufen älterer Vereinbarungen als Druckmittel nutzen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] NRW: Datenschutzbeauftragte empfiehlt Schulen klare Regeln für Handyfotos</title>
-      <link>https://www.heise.de/news/Digitaltag-2026-Datenschutzbeauftragte-gibt-NRW-Schulen-Tipps-zu-Handyfotos-11346385.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346385</guid>
-      <description><![CDATA[Die NRW-Datenschutzbeauftragte empfiehlt Schulen klare Regeln für Handyfotos und -videos sowie mehr Aufklärung über Datenschutz.]]></description>
-      <pubDate>Fri, 26 Jun 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Schöne neue Suchwelt: Warum Google und Co. bald für KI-Fehler haften sollen</title>
-      <link>https://www.heise.de/news/Schoene-neue-Suchwelt-Warum-Google-und-Co-bald-fuer-KI-Fehler-haften-sollen-11346415.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346415</guid>
-      <description><![CDATA[Wer fragt, kriegt fertige KI-Antworten statt Linklisten. Laut einem Rechtsgutachten für die Landesmedienanstalten sollen die Tech-Riesen dafür voll einstehen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Tollwut durch JD Vance: Duckduckgo-KI verbreitet Falschinformation zu Trumps Tod</title>
-      <link>https://www.golem.de/news/tollwut-durch-jd-vance-duckduckgo-ki-verbreitet-falschinformation-zu-trumps-tod-2606-210244.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/tollwut-durch-jd-vance-duckduckgo-ki-verbreitet-falschinformation-zu-trumps-tod-2606-210244.html</guid>
-      <description><![CDATA[Laut dem KI-Assistenten ist der US-Präsident an Tollwut erkrankt und gestorben. Dahinter stecken mehrere Ebenen Reddit-Satire. (<a href="https://www.golem.de/specials/duckduckgo/">Duckduckgo</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 14:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Carlinkit Mini Ultra 5 im Test: Wireless Carplay &amp; Android Auto für 40 Euro</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/carlinkit-mini-ultra-5-im-test-wireless-carplay-und-android-auto-fuer-40-euro/d4tryd0?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11345167</guid>
-      <description><![CDATA[Der Carlinkit Mini Ultra 5 beendet den Kabelsalat im Cockpit und ist extrem kompakt. Wir haben den Adapter für Wireless Carplay und Android Auto getestet.]]></description>
-      <pubDate>Fri, 26 Jun 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] V - Die außerirdischen Besucher kommen: Wie der Faschismus über die Welt kam</title>
-      <link>https://www.golem.de/news/v-die-ausserirdischen-besucher-kommen-wie-der-faschismus-ueber-die-welt-kam-2606-209993.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/v-die-ausserirdischen-besucher-kommen-wie-der-faschismus-ueber-die-welt-kam-2606-209993.html</guid>
-      <description><![CDATA[Zuerst hat es zwei Miniserien gegeben, dann eine wöchentliche Serie. Zum Phänomen wurde V - Die außerirdischen Besucher kommen aber vor 40 Jahren in den Videotheken. Eine Rezension von Peter Osteried (<a href="https://www.golem.de/specials/science-fiction/">Science-Fiction</a>, <a href="https://www.golem.de/specials/fernsehen/">Fernsehen</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Amble One: Offener elektrischer Buggy ist bis 65 km/h schnell</title>
-      <link>https://www.golem.de/news/amble-one-offener-elektrischer-buggy-ist-bis-65-km-h-schnell-2606-210237.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/amble-one-offener-elektrischer-buggy-ist-bis-65-km-h-schnell-2606-210237.html</guid>
-      <description><![CDATA[Für den deutschen Winter ist der Amble One wohl eher nichts - er soll aber ideal für kurze Wege in wärmeren Gefilden oder den Strand sein. (<a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>, <a href="https://www.golem.de/specials/auto/">Auto</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Stefan Hartung verlässt Bosch überraschend zum 30. Juni</title>
-      <link>https://www.heise.de/news/Bosch-Chef-Stefan-Hartung-geht-vorzeitig-11346319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346319</guid>
-      <description><![CDATA[Konjunkturflaute, Stellenabbau, rote Zahlen: Bei Bosch drückt es an allen Ecken. Mitten in der Krise verlässt Chef Stefan Hartung überraschend den Konzern.]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Fakes im Netz: So entlarvt jeder KI-generierte Videos (von uns getestet)</title>
-      <link>https://www.heise.de/news/Erkennt-das-c-t-3003-Team-KI-Videos-11346033.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346033</guid>
-      <description><![CDATA[KI-Fakes überschwemmen Social Media. c't 3003 hat sich selbst getestet und liefert die 6-Punkte-Checkliste, mit der jeder Deepfakes zuverlässig entlarvt.]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] KI-Update Deep-Dive: Synthetische Bilder gegen den Bias</title>
-      <link>https://www.heise.de/news/KI-Update-Deep-Dive-Synthetische-Bilder-gegen-den-Bias-11341480.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11341480</guid>
-      <description><![CDATA[KI-Modelle zur Hautkrebserkennung sind oft voreingenommen. Das Projekt "MedGenAI" des DFKI will das Problem mit gezielt erzeugten synthetischen Bildern lösen.]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] AGCM prüft Microsoft 365: Vorwurf intransparenter Preiserhöhungen</title>
-      <link>https://www.heise.de/news/AGCM-prueft-Microsoft-365-Vorwurf-intransparenter-Preiserhoehungen-11346335.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346335</guid>
-      <description><![CDATA[Die italienische Wettbewerbsbehörde AGCM untersucht Microsoft wegen der Kommunikation bei Preiserhöhungen für Microsoft 365 nach Copilot-Integration.]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Sarah Wynn-Williams: Whistleblowerin verklagt Meta wegen nötigender Überwachung</title>
-      <link>https://www.golem.de/news/sarah-wynn-williams-whistleblowerin-verklagt-meta-wegen-noetigender-ueberwachung-2606-210234.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/sarah-wynn-williams-whistleblowerin-verklagt-meta-wegen-noetigender-ueberwachung-2606-210234.html</guid>
-      <description><![CDATA[Die ehemalige Meta-Angestellte hatte in ihren Memoiren über die toxische Unternehmenskultur des Konzerns berichtet. (<a href="https://www.golem.de/specials/meta/">Meta</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] 77 Pfund pro Person: Das könnte Apple iCloud-Nutzern in Großbritannien zahlen</title>
-      <link>https://www.heise.de/news/77-Pfund-pro-Person-Das-koennte-Apple-iCloud-Nutzern-in-Grossbritannien-zahlen-11343660.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11343660</guid>
-      <description><![CDATA[In einer großen Sammelklage soll Apple den Briten wegen der iCloud-Kosten viel Geld zahlen. Darauf hofft das Äquivalent zur Stiftung Warentest „Which?“.]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Elektroauto: Polestar muss sich aus USA zurückziehen</title>
-      <link>https://www.golem.de/news/elektroauto-polestar-muss-sich-aus-usa-zurueckziehen-2606-210232.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/elektroauto-polestar-muss-sich-aus-usa-zurueckziehen-2606-210232.html</guid>
-      <description><![CDATA[Weil Polestar aus China kommt und die Elektroautos Daten senden, dürfen sie nicht mehr in den USA verkauft werden. Polestar schwenkt nach Europa um. (<a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Gwynne Shotwell: SpaceX spricht offen über ein eigenes Mobilfunknetz</title>
-      <link>https://www.golem.de/news/gwynne-shotwell-spacex-spricht-offen-ueber-ein-eigenes-mobilfunknetz-2606-210231.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/gwynne-shotwell-spacex-spricht-offen-ueber-ein-eigenes-mobilfunknetz-2606-210231.html</guid>
-      <description><![CDATA[SpaceX plant offenbar den Aufbau eines Mobilfunknetzes in den USA und könnte damit vom D2D-Partner zum direkten Konkurrenten für T-Mobile, AT&T und Verizon werden. (<a href="https://www.golem.de/specials/starlink/">Starlink</a>, <a href="https://www.golem.de/specials/aws/">AWS</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:15:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Chrome-Erweiterung: Mögliche Backdoor in millionenfach installiertem Adblocker</title>
-      <link>https://www.golem.de/news/chrome-erweiterung-moegliche-backdoor-in-beliebtem-youtube-adblocker-entdeckt-2606-210227.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/chrome-erweiterung-moegliche-backdoor-in-beliebtem-youtube-adblocker-entdeckt-2606-210227.html</guid>
-      <description><![CDATA[Mit mehr als zehn Millionen Installationen ist Adblock for Youtube eine der beliebtesten Chrome-Erweiterungen. Doch sie birgt erhebliche Gefahren. (<a href="https://www.golem.de/specials/adblocker/">AdBlocker</a>, <a href="https://www.golem.de/specials/browser/">Browser</a>)]]></description>
-      <pubDate>Fri, 26 Jun 2026 11:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] ETH-Durchbruch: Ein Pixel, der gleichzeitig Kamera und Display ist</title>
-      <link>https://www.digitec.ch/de/page/eth-durchbruch-ein-pixel-der-gleichzeitig-kamera-und-display-ist-43103?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/eth-durchbruch-ein-pixel-der-gleichzeitig-kamera-und-display-ist-43103</guid>
-      <description><![CDATA[Was jahrzehntelang als unmöglich galt, funktioniert jetzt tatsächlich: Die ETH Zürich hat einen Pixel entwickelt, der gleichzeitig Bilder anzeigt und Licht analysiert. Das könnte Displays und Kameras grundlegend verändern.]]></description>
-      <pubDate>Fri, 26 Jun 2026 11:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Drei Fragen und Antworten: So klappt der Abschied von Microsoft 365</title>
-      <link>https://www.heise.de/news/Drei-Fragen-und-Antworten-So-klappt-der-Abschied-von-Microsoft-365-11344887.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11344887</guid>
-      <description><![CDATA[M365 dominiert den digitalen Arbeitsplatz, doch längst gibt es auch gute Alternativen. Ein Blick darauf, was der Wechsel bringt und wo Kompromisse nötig sind.]]></description>
-      <pubDate>Fri, 26 Jun 2026 10:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
