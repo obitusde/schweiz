@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 27.6.2026, 12:58:39
-Letzter Lauf: 27.6.2026, 06:30:35
+Start: 28.6.2026, 06:30:36
+Letzter Lauf: 27.6.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,19 +17,35 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 15 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Brand außerhalb von Vaud (Genf).): 'Le feu a éclaté dans une chambre de l'hôpital cantonal'
-- Weiterhin entfernt (Cache, Grund: Tödlicher Unfall außerhalb von Vaud.): 'Un artisan succombe à des gaz toxiques'
-- Weiterhin entfernt (Cache, Grund: Unfall außerhalb von Vaud (Jura).): 'Un motard blessé dans un accident sur l'A16 près de Delémont'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 21 (RTS Vaud ist informativer).): 'Attouchements sur deux fillettes à Yverdon: un homme interpellé'
-- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb von Vaud (Jura).): 'Il se venge en semant la mauvaise herbe... sur le mauvais champ'
-- Weiterhin entfernt (Cache, Grund: Unfall außerhalb von Vaud (Fribourg).): 'Collision entre une voiture et un bus à Romont: une blessée'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 33 (RTS Vaud ist informativer).): 'Le trafic ferroviaire reprend partiellement en gare de Lausanne'
-- Gelöscht (Grund: Blaulicht-Meldung (Vermisstenfall) außerhalb der Waadt (Kanton Freiburg).): 'Avez-vous vu cette personne?'
-- Gelöscht (Grund: Unfallmeldung außerhalb der Waadt (Kanton Genf).): 'Un chauffeur blessé après le renversement d'une arroseuse'
-- Gelöscht (Grund: Duplikat zu ID 13 (beide behandeln das Erdbeben in Venezuela).): 'Erdbeben in Venezuela – Militär soll Kontrolle in Katastrophenregion übernehmen'
+KI-Filter (Gemini) - 24 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Vermisstenfall) außerhalb der Waadt (Kanton Freiburg).): 'Le jeune homme porté disparu a été retrouvé en bonne santé'
+- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb der Waadt (Kanton Genf).): 'Un chauffeur blessé après le renversement d'une arroseuse'
+- Gelöscht (Grund: Duplikat zu Artikel 12 (beide behandeln die Pride in Lausanne); Artikel 12 ist informativer.): '«Je suis très fier de voir autant de bienveillance dans ma ville»'
+- Gelöscht (Grund: Kriminalitätsmeldung außerhalb von Vaud (Tatort im Kanton Bern).): 'Mord im Könizbergwald – Was die Spurensicherung am Tatort erschweren kann'
+- Gelöscht (Grund: Blaulicht-Meldung/Rettungswesen außerhalb von Vaud (Kanton Wallis).): 'Rettungswesen – Neue Rega-Basis: Hoffnung im Goms, Widerstand im Wallis'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Live vom Open Air St. Gallen – Die Rave-Teufel von Scooter bringen die Hitze zurück ins Tobel
+- [SRF Ausland] Nach Protesten – Serbiens Präsident Vucic kündigt taktischen Rücktritt an
+- [SRF Ausland] Transparenz bei Wahlen – Schweiz unterstützt Korruptionsbekämpfung in Peru
+- [SRF Schweiz] Forschungsprojekt in Luzern – Kein Patentrezept gegen Nährstoffverluste auf Bauernhöfen
+- [SRF Schweiz] Abstimmungen 27. September – GLP sagt Nein zu Neutralitäts- und Ernährungsinitiative
+- [SRF Schweiz] National- und Ständeratswahlen – Die FDP will Wähler mit klaren Botschaften gewinnen
+- [SRF Ausland] Erdbeben in Venezuela – Offizielle Zahl der Toten steigt auf 1430
+- [20 Min Romandie] Der Bahnverkehr kann wieder aufgenommen werden, bleibt aber gestört
+- [SRF Wirtschaft] Höhere Löhne, harter Markt – Ist die Zeit der Billig-Tomaten aus Spanien vorbei?
+- [20 Min Romandie] Mit 17 Jahren Lehrerin auf einer verlorenen Insel: Ein Schock und viel Freude
+- [SRF Ausland] Mega-Finanzspritze der EU – Italiens gemischte Bilanz mit den Corona-Milliarden
+- [RTS Vaud] Tausende Menschen ziehen für die Pride romande durch Lausanne
+- [20 Min Romandie] Die Hitze setzt den Kühlschränken in mehreren Migros-Filialen zu
+- [Journal de Morges] Eine sehr dichte 2. Liga... und somit ein gesunder Wettbewerb?
+- [SRF Ausland] SRF-Korrespondenten berichten – Wasserknappheit: Was können wir von anderen Ländern lernen?
+- [20 Min Romandie] Das CERN wird für vier Jahre stillgelegt
+- [SRF Ausland] Italienisches Lebensgefühl – Die Vespa wird 80 Jahre alt und mehrere Tausend Fans feiern mit
+- [SRF Schweiz] Schutz vor Hitze – Braucht es mehr Klimaanlagen in Altersheimen?
+- [20 Min Romandie] Marketingaktion eines Tabakriesen sorgt für Kritik
+- [20 Min Romandie] Das Bodenpersonal in Cointrin beklagt unzureichende Pausen
+- [SRF Ausland] Vergleich mit dem 1. Weltkrieg – «Dieser Krieg geht weit über die Ukraine und Russland hinaus»
 - [Journal de Morges] Sie will Heimkindern durch Ausflüge auf den See helfen
 - [SRF Schweiz] FDP-Co-Präsident im Interview – Mühlemann: «Bundesrat will lieber den Konsum belasten als sparen»
 - [SRF Wirtschaft] Folgen des Iran-Krieges – Tiefer Schweinepreis in China: Schweizer Exporteure unter Druck
@@ -42,30 +58,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Wirtschaft] Hohe Kosten, wenig Nutzen – Warum Montreal die Fussball-WM nicht wollte
 - [SRF Ausland] Schweizerischer Erdbebendienst – Warum gab es in Venezuela keine Erdbebenwarnung?
 - [20 Min Romandie] Ein Kampf «David gegen Goliath» um die Reparatur seines Peugeots
-- [SRF Schweiz] Live vom Open Air St. Gallen – Darüber redet das OASG nach dem Festival-Freitag
-- [SRF Schweiz] «Arena» zu heissen Eisen – EU, AKW und AHV sorgen für Gewitter zwischen Parteispitzen
-- [SRF Ausland] Erneuter Angriff – Wegen Digitalsteuer-Plänen: Trump droht Europäern mit Zöllen
-- [SRF Wirtschaft] Klimapläne ungenügend – Drei Jahre Berichtspflicht: Ethos-Bericht bemängelt Fortschritte
-- [SRF Schweiz] Unterschätztes Risiko Hitze – Wie die Hitze die Schweiz verändert
-- [Journal de Morges] Der durch soziale Kontakte bereicherte Introvertierte
-- [SRF Schweiz] Schweizer Landwirtschaft – Fenaco-Chef: «Ertragssicherheit in der Schweiz nimmt stark ab»
-- [SRF Ausland] 13 Millionen Pfund – König Charles legt erstmals Steuerrechnung offen
-- [SRF Ausland] Wenn Fussball politisch wird – Kommt es zur spanisch-mexikanischen Versöhnung am Spielfeldrand?
-- [SRF Schweiz] CO₂-Ziele bei Neuwagen – Das 100-Millionen-Geschenk von Bundesrat Rösti an die Autobranche
-- [SRF Wirtschaft] Wegen Hitze – Run auf Ventilatoren und Klimageräte: Worauf es beim Kauf ankommt
-- [SRF Schweiz] Rampenverkauf der SBB – Vom Erstklasssitz bis zum Gabelstapler
-- [SRF Wissen] Tipps für den Alltag – So überstehen Sie den Hitzestress besser
-- [SRF Ausland] Fussball-WM in Seattle – Ägypten und Iran wollen nichts von Pride-Feierlichkeiten wissen
-- [SRF Schweiz] Ende der Hitzewelle in Sicht – Nächste Woche kühlt es ab!
-- [SRF Schweiz] Schweizer Hilfe in Venezuela – So arbeiten die Schweizer Rettungshunde im Einsatz
-- [SRF Schweiz] Eidgenössisches Jodlerfest – 12-jährige Livia Wipf mischt Fahnenschwinger-Tradition auf
-- [RTS Vaud] Belästigung von Mädchen in Yverdon-les-Bains: Ein Verdächtiger wurde festgenommen und bestreitet die Tat nicht
-- [SRF Ausland] Erdbeben in Venezuela – Experte: «Venezuelas Gesundheitssystem ist ausgeblutet»
-- [20 Min Romandie] Badeunfall an einem Strand in Lausanne endet tragisch
-- [SRF Ausland] Tod bei Ferien in Istanbul – Lange Haftstrafen im Prozess um vergiftete Hamburger Familie
-- [20 Min Romandie] Guy Parmelin zeigt dem Bundesrat den Kanton Waadt
-- [SRF Schweiz] Waldbrandgefahr – In diesen Schweizer Regionen gilt ein Feuerverbot
-- [SRF Schweiz] Verbot von Böllern – Feuerwerksinitiative kommt zur Abstimmung – ohne Gegenvorschlag
-- [SRF Gesellschaft] Nach Rückzug der Hauptzeugin – Vergewaltigungsanklage gegen Harvey Weinstein fallen gelassen
-- [SRF Ausland] Kennerin der Protestbewegung – Irans Opposition ist trotz leerer Trump-Versprechen nicht am Ende
-- [RTS Vaud] Bahnverkehr in Lausanne nach vollständiger Unterbrechung wieder aufgenommen
