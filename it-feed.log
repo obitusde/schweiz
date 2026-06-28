@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 28.6.2026, 06:10:26
-Letzter Lauf: 27.6.2026, 12:28:18
+Start: 28.6.2026, 12:28:18
+Letzter Lauf: 28.6.2026, 06:10:26
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,21 +10,29 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Active Directory Hardening – Vom Audit zur sicheren Umgebung'
-- Gelöscht wegen Keyword 'podcast': 'Wie ihr euer NAS am besten für Datei-Sharing nutzt | c’t uplink'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Xiaomi Redmi Note 15 Pro + Smartwatch im Tarif mit 50 GB bei Blau jetzt zum Mini-Preis'
-- Gelöscht wegen Keyword '(g+)': '(g+) DIY: Wie ich allein ein lokales KI-Social-Network gebaut habe'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Visuelle PKM-Tools: Heptabase, Obsidian Canvas und Xmind im Vergleich'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | So kann man eine PS3 mit dem Raspberry Pi Pico hacken'
+- Gelöscht wegen Keyword '(g+)': '(g+) Lokales Sprachmodell: Vom Ollama-Demo zur produktiven Open-LLM-App'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Administration, DevOps und Konfigurationsmanagement'
 - [FEED FEHLER] https://www.lightroomqueen.com/feed/: Exception: Request failed for https://www.lightroomqueen.com returned code 403. Truncated server response: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta htt... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 13 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Behandelt interne PC-Komponenten (RAM), was gemäß den Negativ-Themen explizit ausgeschlossen ist.): 'CXMT: Apple will Zustimmung der US-Regierung für RAM aus China'
-- Weiterhin entfernt (Cache, Grund: Behandelt Themen aus den Bereichen Code-Theorie, Web-Infrastruktur und Softwareentwicklung (z. B. Sp): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
-- Gelöscht (Grund: Duplikat zu Artikel 3 (Behandelt dasselbe aktuelle Ereignis: Veröffentlichung von GPT-5.6).): 'KI: OpenAI startet GPT 5.6 unter Regierungsvorbehalt'
-- Gelöscht (Grund: Duplikat zu Artikel 2 (Behandelt dasselbe aktuelle Ereignis: Aufhebung der US-Sperre für Claude Mythos).): 'Mythos 5: Trump gibt Anthropic-KI-Sperre teilweise auf'
-- Gelöscht (Grund: Duplikat zu Artikel 6 (Behandelt dasselbe aktuelle Ereignis: Trumps Drohung mit 100 % Zoll wegen der Digitalsteuer).): 'Wegen möglicher Digitalsteuer: Trump droht Europa mit 100 Prozent Zollaufschlag'
-- Gelöscht (Grund: Fällt unter das Ausschlusskriterium Netzwerk-Infrastruktur (Ursache des Bahnausfalls war der Tausch eines Switches).): 'Bahnausfall: Wartungsarbeiten künftig nur von 0 bis 4 Uhr'
+KI-Filter (Gemini) - 9 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 3 (Behandelt dasselbe aktuelle Ereignis: Veröffentlichung von GPT-5.6).): 'KI: OpenAI startet GPT 5.6 unter Regierungsvorbehalt'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 2 (Behandelt dasselbe aktuelle Ereignis: Aufhebung der US-Sperre für Claude Myth): 'Mythos 5: Trump gibt Anthropic-KI-Sperre teilweise auf'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 6 (Behandelt dasselbe aktuelle Ereignis: Trumps Drohung mit 100 % Zoll wegen der): 'Wegen möglicher Digitalsteuer: Trump droht Europa mit 100 Prozent Zollaufschlag'
+- Weiterhin entfernt (Cache, Grund: Fällt unter das Ausschlusskriterium Netzwerk-Infrastruktur (Ursache des Bahnausfalls war der Tausch ): 'Bahnausfall: Wartungsarbeiten künftig nur von 0 bis 4 Uhr'
+- Gelöscht (Grund: Duplikat: Der Artikel behandelt dasselbe Ereignis wie Artikel 5 (Prognose der Bundesarbeitsagentur zum IT-Arbeitsmarkt).): 'Arbeitsagentur: Jobs in der IT-Branche haben Zukunft'
 
 Finale Liste (live im XML-Feed):
+- [Golem] Digitales Bezahlen immer beliebter: Die meisten Deutschen wollen überall auch bargeldlos zahlen können
+- [Golem] Südkorea: Jeder Soldat soll zum Drohnenpiloten werden
+- [Golem] Streamingabo: Netflix verlangt für jedes Profil eine eigene E-Mail-Adresse
+- [Golem] Stadt und Amazon wollen nichts ändern: Gericht kippt Bebauungsplan für bereits genutztes Amazon-Lager
+- [Golem] Trotz KI: Jobs in der IT-Branche haben laut Arbeitsagentur eine Zukunft
+- [Heise] G7-Datenschutzgipfel: Ruf nach Regeln für Alterskontrollen und Smart Homes
+- [Heise] Missing Link: 30 Jahre N64 – Nintendos 3D-Wunderkiste
+- [Golem] KI im Krieg: Autonome Waffen übernehmen das Schlachtfeld
 - [Heise] Top 10: Carplay-Wireless-Adapter im Test
 - [Heise] Heimliche Überwachung: Regierung bricht ihr Schweigen bei stillen SMS
 - [Heise] Per Brief: US-Regierung hebt Sperre von Claude Mythos auf
@@ -34,13 +42,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] Trump: Wenn Digitalsteuer, dann 100 Prozent höhere Zölle
 - [Golem] climate.us: US-Klima-Portal dank Spenden wieder online
 - [Golem] Länger arbeiten: Mercedes-Benz will 35-Stunden-Woche kippen
-- [Golem] Trainingsmaterial: Indische Fabrikarbeiter filmen sich für KI-Roboter
-- [Golem] Librepods im Test: Diese App zaubert viele praktische Airpods-Funktionen auf Android-Geräte
-- [Heise] US-Regierung lässt Zugang zu neuer KI von OpenAI beschränken
-- [Golem] Schwindende Relevanz: Grok erzeugt hauptsächlich Erotikinhalte
-- [Heise] Getty kuschelt mit OpenAI – die Fotonews der Woche 26/2026
-- [Heise] KI-Hype vs. Realität: Warum Technologie allein nicht reicht
-- [Heise] Lukratives Sommergeschäft: Wie Geschäftemacher an Fake-Klimaanlagen verdienen
-- [Heise] Punktuell und mittig: Die Bilder der Woche 26
-- [Golem] Meccha Chameleon: Das Zehn-Millionen-Wunder und weitere tolle Indiegames
-- [Heise] Quantic Dream: Streik soll „Star Wars Eclipse“ und 115 Stellen retten
