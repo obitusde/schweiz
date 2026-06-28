@@ -5,245 +5,56 @@
     <link>https://obitusde.github.io/schweiz/sz.xml</link>
     <description>KI-gefilterter Newsfeed der Süddeutschen Zeitung</description>
     <language>de</language>
-    <lastBuildDate>Sat, 27 Jun 2026 04:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 04:24:57 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Politik] Krieg in Nahost: USA und Iran greifen gegenseitig Militärstützpunkte an</title>
+      <title>[Politik] USA: Trump nominiert ehemaligen Polizist als neuen ICE-Direktor</title>
+      <link>https://www.sueddeutsche.de/politik/usa-news-donald-trump-ice-lance-schroyer-einwanderung-li.3506498</link>
+      <guid isPermaLink="false">li.3506498</guid>
+      <description><![CDATA[<p>Lance Schroyer, ehemals Polizist aus Oklahoma, soll auf Wunsch von Donald Trump neuer Direktor der Einwanderungsbehörde ICE werden. Der Senat muss dem Vorschlag zustimmen.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 00:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Krieg in Nahost: USA und Iran greifen sich erneut an – Trump droht mit Vernichtung</title>
       <link>https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-israel-libanon-li.3505461</link>
       <guid isPermaLink="false">li.3505461</guid>
-      <description><![CDATA[<p>Trotz vereinbarter Waffenruhe beschießen sich beide Staaten nahe der Straße von Hormus. Streitpunkt bleibt, wer dort den Schiffsverkehr kontrolliert. Vance droht: „Gewalt wird mit Gewalt beantwortet“.</p>]]></description>
-      <pubDate>Sat, 27 Jun 2026 03:05:00 GMT</pubDate>
+      <description><![CDATA[<p>Waffenruhe unter Druck: Die USA greifen erneut Ziele in Iran an, Teheran beschießt US-Militärbasen in Kuwait und Bahrain – beide Seiten drohen, die Verhandlungen platzen zu lassen.</p>]]></description>
+      <pubDate>Sat, 27 Jun 2026 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Panorama] Wetter: Temperaturrekord in Deutschland: 41,3 Grad im Saarland gemessen</title>
-      <link>https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-temperaturrekord-deutschland-saarland-saarbruecken-burbach-li.3502376</link>
-      <guid isPermaLink="false">li.3502376</guid>
-      <description><![CDATA[<p>In Saarbrücken-Burbach wurde dem Deutschen Wetterdienst zufolge am Nachmittag nach vorläufigen Angaben die höchste Temperatur registriert, die bisher in Deutschland gemessen wurde.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 19:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] USA: Wegen Digitalsteuer-Plänen: Trump droht Europäern mit Zöllen in Höhe von 100 Prozent</title>
-      <link>https://www.sueddeutsche.de/politik/usa-news-trump-zoelle-100-prozent-europa-digitalsteuer-li.3494806</link>
-      <guid isPermaLink="false">li.3494806</guid>
-      <description><![CDATA[<p>Die Zölle würden an die Stelle vereinbarter Zollabkommen treten, schreibt der US-Präsident auf seiner Plattform Truth Social.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 17:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Leben] Familien-Newsletter: Die ganze Familie ist ballaballa</title>
-      <link>https://www.sueddeutsche.de/leben/fussball-wm-erziehung-familie-li.3500916</link>
-      <guid isPermaLink="false">li.3500916</guid>
-      <description><![CDATA[<p>Normalerweise ist unser Autor bei der Erziehung seiner Söhne konsequent. Doch wie soll das gehen, wenn Fußball-WM ist?</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wissen] Hitzewelle: Bis zu 42 Grad und Tropennächte: Deutschland steuert auf Extremhitze-Wochenende zu</title>
-      <link>https://www.sueddeutsche.de/wissen/deutschland-hitzewelle-temperaturen-tropennacht-li.3505268</link>
-      <guid isPermaLink="false">li.3505268</guid>
-      <description><![CDATA[<p>Es sind Temperaturen, die ohne den Klimawandel kaum möglich wären. Wie sie zustande kommen und was die Lage aktuell so gefährlich macht.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 16:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Kaufhäuser: Der 160-Millionen-Kredit verschleiert Galerias Not</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/galeria-kaufhaeuser-kredit-li.3505711</link>
-      <guid isPermaLink="false">li.3505711</guid>
-      <description><![CDATA[<p>Wer glaubt, Galeria sei dank des Darlehens gerettet, fällt auf die PR des Unternehmens herein. Geld verdient damit der Kreditgeber, die Kaufhauskette macht dagegen wohl weitere 30 Filialen dicht.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 14:59:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Südasien: Droht zwischen Indien und Pakistan ein Krieg ums Wasser?</title>
-      <link>https://www.sueddeutsche.de/projekte/artikel/politik/indien-pakistan-wasserversorgung-konflikt-e140742/</link>
-      <guid isPermaLink="false">er.e140742</guid>
-      <description><![CDATA[<p>Indien will Pakistan „keinen einzigen Tropfen Wasser“ mehr überlassen. Das klingt krass. Der Streit um den Indus und seine Nebenflüsse heizt sich unter den Atommächten bedrohlich auf.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 14:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] NSDAP-Mitgliederkartei: „Alle haben ein verbrecherisches Regime legitimiert“</title>
-      <link>https://www.sueddeutsche.de/politik/nsdap-mitgliederkartei-nationalsozialismus-familie-falter-interview-li.3499186</link>
-      <guid isPermaLink="false">li.3499186</guid>
-      <description><![CDATA[<p>Opportunisten, überzeugte Nazis, spezielle Umstände – mit Hitlers Parteigenossen kennt sich der Forscher Jürgen W. Falter aus. Unwissentlich sei niemand eingetreten, sagt er. Ein Fall gibt ihm allerdings Rätsel auf.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 14:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Computer: Ein weiteres Jahr Gnadenfrist für Windows 10</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/windows-verlaengerung-sicherheitsupdates-li.3505735</link>
-      <guid isPermaLink="false">li.3505735</guid>
-      <description><![CDATA[<p>Computernutzer können sich mit dem Umstieg auf das eher unbeliebte Windows 11 noch ein weiteres Jahr Zeit lassen. Bis Oktober 2027 gibt es noch Sicherheitsupdates. Das dürfte vielen gelegen kommen.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 14:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Energie: Gewürge beim grünen Gas</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/wasserstoff-oge-nucera-klaas-china-stahl-li.3485633</link>
-      <guid isPermaLink="false">li.3485633</guid>
-      <description><![CDATA[<p>Der Iran-Krieg zeigt wieder, wie riskant die Abhängigkeit von Erdgas-Importen ist. Wasserstoff soll die heimisch produzierte, klimafreundliche Alternative sein. Doch der Hochlauf stockt. Ortsbesuch bei der Energiewende.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:51:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Altersvorsorge: Zusammen sind wir superreich</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/rentenreform-schweden-aktienmarkt-spacex-spotify-li.3501119</link>
-      <guid isPermaLink="false">li.3501119</guid>
-      <description><![CDATA[<p>Altersvorsorgedepot, Kapitaldeckung – 2026 ist das Jahr der Rentenreformen. Was die Politik dabei von Space-X und Spotify lernen könnte.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:47:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] UN-Bericht: Deutschland wichtiger Umschlagplatz für illegalen Ketamin-Handel</title>
-      <link>https://www.sueddeutsche.de/politik/un-bericht-deutschland-wichtiger-umschlagplatz-fuer-illegalen-ketamin-handel-li.3505992</link>
-      <guid isPermaLink="false">li.3505992</guid>
-      <description />
-      <pubDate>Fri, 26 Jun 2026 13:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Autozulieferer: Mitten in der schweren Krise: Bosch-Chef geht überraschend</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/bosch-stuttgart-chef-stefan-hartung-konzern-abgang-li.3505929</link>
-      <guid isPermaLink="false">li.3505929</guid>
-      <description><![CDATA[<p>Der Abschied kommt sehr kurzfristig: Stefan Hartung gibt bereits Anfang kommender Woche seinen Chefposten bei dem weltweit größten Autozulieferer ab. „Auf eigenen Wunsch“, heißt es. Die Hintergründe sind unklar.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Erdbeben in Venezuela: Suche nach Vermissten geht weiter – Deutsche Helfer auf dem Weg</title>
-      <link>https://www.sueddeutsche.de/panorama/erdbeben-venezuela-suche-vermisste-deutsch-hilfe-li.3505845</link>
-      <guid isPermaLink="false">li.3505845</guid>
-      <description><![CDATA[<p>Tausende Menschen werden noch immer vermisst, die Lage ist unübersichtlich. Deutsche Soldaten und Einsatzkräfte des THW fliegen in die Krisenregion.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Gewalt gegen Frauen: „Wir kennen die Männer, die denken, sie können machen, was sie wollen“</title>
-      <link>https://www.sueddeutsche.de/panorama/duezen-tekkal-kristina-lunz-interview-digitale-gewalt-collien-fernandes-maenner-li.3500393</link>
-      <guid isPermaLink="false">li.3500393</guid>
-      <description><![CDATA[<p>Zehn Forderungen an die Politik haben die Aktivistinnen Düzen Tekkal und Kristina Lunz gestellt. Gegen männliche Gewalt. Im Interview erzählen sie, was sie selbst erlebt haben, was sich nach Collien Fernandes ändern muss und warum sie noch Hoffnung in Männer setzen.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:23:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Autoindustrie: Die letzte Chance für VW und Mercedes</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/vw-mercedes-arbeitsplatzabbau-sparmassnahmen-deutschland-li.3505920</link>
-      <guid isPermaLink="false">li.3505920</guid>
-      <description><![CDATA[<p>Wieder kündigen zwei deutsche Autohersteller Sparpläne an. Die Arbeitnehmer sollten jetzt nicht blockieren. Sonst könnte es bald zu spät sein.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Glosse: Das Streiflicht</title>
-      <link>https://www.sueddeutsche.de/politik/glosse-das-streiflicht-li.3505464</link>
-      <guid isPermaLink="false">li.3505464</guid>
-      <description><![CDATA[<p>Viel zu lange haben die Deutschen das schlechte Wetter schlechtgemacht. Jetzt sehnen sie sich nach Blitz und Donner, aber nun will das Gewitter auch nicht mehr kommen.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Bahn: Stuttgart 21: Noch einmal drei Milliarden Euro teurer</title>
-      <link>https://www.sueddeutsche.de/politik/stuttgart-21-kosten-bahn-evelyn-palla-li.3503018</link>
-      <guid isPermaLink="false">li.3503018</guid>
-      <description><![CDATA[<p>Das Großprojekt wird nicht nur zwölf Jahre später fertig als geplant, sondern soll auch wesentlich mehr kosten: 14,5 statt 11,5 Milliarden Euro. Sind nun wenigstens diese Zahlen belastbar?</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Istanbul: Lange Haftstrafen nach Tod einer deutschen Familie</title>
-      <link>https://www.sueddeutsche.de/panorama/istanbul-tuerkei-deutsche-familie-hotel-pestizide-vergiftet-urteil-li.3505645</link>
-      <guid isPermaLink="false">li.3505645</guid>
-      <description><![CDATA[<p>Das Paar und seine Kinder waren durch Insektizide vergiftet worden. Der Hotelbetreiber und drei Mitarbeiter einer Schädlingsbekämpfungsfirma müssen ins Gefängnis.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:05:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Autoindustrie: Bericht: VW könnte vier deutsche Werke schließen</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/vw-stellenabbau-100-000-arbeitsplaetze-streichung-li.3505704</link>
-      <guid isPermaLink="false">li.3505704</guid>
-      <description><![CDATA[<p>Mittelfristig könnten die Standorte in Hannover, Zwickau und Emden sowie das Audi-Werk in Neckarsulm geschlossen werden. Bis zu 100 000 Jobs könnten konzernweit wegfallen.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Altersvorsorge: Wer bei den Rentenplänen draufzahlt – und wer profitiert</title>
-      <link>https://www.sueddeutsche.de/politik/rentenreform-2026-vorschlaege-ueberblick-analyse-li.3505003</link>
-      <guid isPermaLink="false">li.3505003</guid>
-      <description><![CDATA[<p>Die Spitzen von CDU und SPD wollen die Empfehlungen der Rentenkommission komplett umsetzen. Wie realistisch ist das? Und wie würde sich die Reform auf einzelne Gruppen auswirken?</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:50:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Wohlstand: Die europäische Wirtschaft schmilzt</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/hitze-europa-folgen-produktivitaetsverluste-wirtschaft-li.3504006</link>
-      <guid isPermaLink="false">li.3504006</guid>
-      <description><![CDATA[<p>Hitze ist eben nicht nur Badewetter. Über ein unterschätztes Risiko für die Wirtschaft, das Staaten bald Milliarden Euro kosten wird – zu Lasten des Wohlstands.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Krieg in der Ukraine: Krim ruft Ausnahmezustand aus</title>
-      <link>https://www.sueddeutsche.de/politik/ukraine-krieg-eu-krim-li.3500126</link>
+      <title>[Politik] Krieg in der Ukraine: Bürgermeister: Fast zwei Dutzend Drohnen vor Moskau abgeschossen</title>
+      <link>https://www.sueddeutsche.de/politik/ukraine-krieg-russland-moskau-drohnen-li.3500126</link>
       <guid isPermaLink="false">li.3500126</guid>
-      <description><![CDATA[<p>Die von Russland annektierte Halbinsel kämpft mit Treibstoffmangel und wirtschaftlichen Schwierigkeiten. Die anhaltenden Angriffe der Ukraine schwächen Russland auch andernorts.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:40:00 GMT</pubDate>
+      <description><![CDATA[<p>Erneut sind ukrainische Drohnen im Anflug auf die Millionenmetropole. Die Ukraine meldet einen Angriff auf eine russische Ölpumpstation.</p>]]></description>
+      <pubDate>Sat, 27 Jun 2026 20:24:13 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Sicherheit in Europa: „Wir müssen die ersten Schlachten gewinnen“</title>
-      <link>https://www.sueddeutsche.de/politik/nato-estland-ostflanke-narva-russland-vorbereitung-li.3502713</link>
-      <guid isPermaLink="false">li.3502713</guid>
-      <description><![CDATA[<p>In der estnischen Grenzstadt Narva stößt die Nato-Ostflanke an Russland. Niemand will hier einen Krieg – aber das baltische Land bereitet sich darauf vor. Im Ernstfall soll jeder Meter Staatsgebiet verteidigt werden.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:36:56 GMT</pubDate>
+      <title>[Panorama] Venezuela: Zahl der Toten steigt nach Erdbeben auf mehr als 1400</title>
+      <link>https://www.sueddeutsche.de/panorama/venezuela-erdbeben-tote-li.3506448</link>
+      <guid isPermaLink="false">li.3506448</guid>
+      <description><![CDATA[<p>430 Nachbeben, zerstörte Hochhäuser und unzählige Vermisste – das ganze Ausmaß der Erdbebentragödie in Venezuela ist noch immer unklar. Die Suche läuft weiter, während die Chancen für Überlebende mit jeder Stunde sinken.</p>]]></description>
+      <pubDate>Sat, 27 Jun 2026 20:06:16 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Rüstung: Bund steigt für Milliarden beim Panzerbauer KNDS ein</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/knds-bund-einstieg-panzer-li.3505886</link>
-      <guid isPermaLink="false">li.3505886</guid>
-      <description><![CDATA[<p>Deutschland und Frankreich wollen sich mit je 40 Prozent an dem Panzerhersteller beteiligen. Der Bundestag hat das Geschäft gebilligt. Ziel sei Augenhöhe mit Frankreich als Miteigentümer. Kritik von Grünen und Linken.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:22:28 GMT</pubDate>
+      <title>[Panorama] Wetter: Erneut Temperaturrekord in Deutschland: 41,5 Grad gemessen</title>
+      <link>https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-temperaturrekord-deutschland-sachsen-anhalt-li.3502376</link>
+      <guid isPermaLink="false">li.3502376</guid>
+      <description><![CDATA[<p>Der vorläufige Höchstwert wurde um 16.20 Uhr in Möckern-Drewitz in Sachsen-Anhalt gemessen, wie der Deutsche Wetterdienst mitteilt. Zudem registriert der DWD in mehreren Bundesländern die jeweils höchste Temperatur, die dort jemals gemessen wurde.</p>]]></description>
+      <pubDate>Sat, 27 Jun 2026 19:29:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Verkehr: Deutschland wird Baustellen-Land</title>
-      <link>https://www.sueddeutsche.de/politik/deutschland-infrastrukturgesetz-bauprojekte-li.3505647</link>
-      <guid isPermaLink="false">li.3505647</guid>
-      <description><![CDATA[<p>Der Bundestag beschließt ein Gesetz, das Hunderte Verkehrsvorhaben beschleunigen soll. Die Koalition sieht darin einen Durchbruch. Doch die Natur könnte auf der Strecke bleiben.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:20:19 GMT</pubDate>
+      <title>[Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen</title>
+      <link>https://www.sueddeutsche.de/projekte/artikel/wetter/hitze-temperatur-deutschland-vergleich-karte-e360874/</link>
+      <guid isPermaLink="false">er.e360874</guid>
+      <description><![CDATA[<p>Ist es heute wärmer oder kälter als sonst um diese Zeit? Und welche Rolle spielt der Klimawandel? Finden Sie heraus, wie ungewöhnlich die Temperaturen aktuell in Ihrer Region sind.</p>]]></description>
+      <pubDate>Sat, 27 Jun 2026 09:06:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Attentate im Auftrag von Iran?: Pistole mit Schalldämpfer „für den einmaligen Gebrauch“</title>
-      <link>https://www.sueddeutsche.de/politik/spionage-iran-islamismus-antisemitismus-prozess-hamburg-li.3503010</link>
-      <guid isPermaLink="false">li.3503010</guid>
-      <description><![CDATA[<p>Zwei Männer sollen im Auftrag Irans Mordanschläge auf die Chefs des Zentralrats der Juden und der Deutsch-Israelischen Gesellschaft geplant haben. Wie weit reicht der Arm des Mullah-Regimes?</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Politik] Urteil zum Weihnachtsmarkt-Anschlag: Höchststrafe, Tränen und eine technische Panne</title>
-      <link>https://www.sueddeutsche.de/politik/magdeburg-weihnachtsmarktanschlag-prozess-urteil-li.3503012</link>
-      <guid isPermaLink="false">li.3503012</guid>
-      <description><![CDATA[<p>Taleb A. wird wegen des Anschlags auf dem Magdeburger Weihnachtsmarkt zu lebenslanger Haft verurteilt. Das Gericht stellt die besondere Schwere der Schuld fest – und kämpft bei der Urteilsverkündung mit Tonproblemen.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Leben] SZ Weekender: Eintauchen</title>
-      <link>https://www.sueddeutsche.de/projekte/artikel/gesellschaft/sz-weekender-lesegeschichten-e500462/</link>
-      <guid isPermaLink="false">er.e500462</guid>
-      <description><![CDATA[<p>Juli Zeh im Interview, die Magie des Meeres, die besten günstigen Sommerweine. Und mehr. Zehn Geschichten für das Wochenende.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Magazin] Das ist der beste Ventilator für den Sommer</title>
-      <link>https://www.sueddeutsche.de/magazin/gut-getestet/ventilator-test-stromverbrauch-lautstaerke-hitze-guenstig-li.3489505</link>
-      <guid isPermaLink="false">li.3489505</guid>
-      <description><![CDATA[<p>Eine kühle Brise macht Hitzetage in der Wohnung oder im Büro erträglicher. Ein Klima-Ingenieur hat zehn Ventilatoren zwischen 25 und 300 Euro getestet, ihre Lautstärke gemessen – und erhebliche Unterschiede beim Stromverbrauch festgestellt.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wissen] Psychiatrie: Der Teufel ist nur eine Psychose</title>
-      <link>https://www.sueddeutsche.de/projekte/artikel/wissen/anneliese-michel-exorzismus-fall-folgen-deutschland-e001025/</link>
-      <guid isPermaLink="false">er.e001025</guid>
-      <description><![CDATA[<p>Vor 50 Jahren starb Anneliese Michel, nach 67 großen Exorzismen. Diese Riten gibt es noch immer. Warum sie großen Schaden anrichten können.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 10:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Fußball-WM: Bangladesch ruft: Deutschland vor!</title>
-      <link>https://www.sueddeutsche.de/panorama/deutsche-nationalmannschaft-wm-fanclub-bangladesch-public-viewing-li.3501224</link>
-      <guid isPermaLink="false">li.3501224</guid>
-      <description><![CDATA[<p>Ihre eigene Nationalelf wird es wohl nie zu einer WM schaffen, also haben sie sich ein anderes Land ausgesucht. Beim Public Viewing mit den „Germany Football Die Hard Fans of Bangladesh“ fühlt man sich fast wie zu Hause, wenn sie über Manuel Neuer schimpfen.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 09:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Warnung von Top-Ökonomen: „China und die USA werden Europa aufessen, Stück für Stück“</title>
-      <link>https://www.sueddeutsche.de/wirtschaft/europa-deutschland-usa-china-wirtschaft-experten-warnung-interview-li.3501160</link>
-      <guid isPermaLink="false">li.3501160</guid>
-      <description><![CDATA[<p>Wenn Europa keine technologische Autonomie erlangt, wird es zur wirtschaftlichen Beute der Supermächte, sagen Niall Ferguson und Moritz Schularick voraus. Doch der Abstieg der deutschen Industrie lasse sich stoppen.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 06:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Magazin] »Die wenigsten Paare verstehen, was in ihrer Beziehung schiefläuft«</title>
-      <link>https://www.sueddeutsche.de/magazin/liebe-und-partnerschaft/beziehungskrisen-ursachen-loesungen-li.3504630</link>
-      <guid isPermaLink="false">li.3504630</guid>
-      <description><![CDATA[<p>»Wir haben uns auseinandergelebt«, »Wir sind einfach zu verschieden«: Solche Sätze hört die Paartherapeutin Petra Kratzert oft, dabei stimmen sie selten. Ein Gespräch über weit verbreitete Beziehungsirrtümer – und was meist wirklich hinter Krisen  steckt.</p>]]></description>
-      <pubDate>Fri, 26 Jun 2026 06:13:00 GMT</pubDate>
+      <title>[Politik] Krieg in Libanon: Israel macht erstmals Zugeständnisse und zieht sich aus Zonen in Libanon zurück</title>
+      <link>https://www.sueddeutsche.de/politik/israel-libanon-friedensabkommen-rueckzug-kontrolle-li.3504895</link>
+      <guid isPermaLink="false">li.3504895</guid>
+      <description><![CDATA[<p>Israel und Libanon einigen sich auf ein Abkommen, das den Krieg beenden soll. Die Hisbollah saß nicht mit am Tisch und lehnt die Einigung ab.</p>]]></description>
+      <pubDate>Sat, 27 Jun 2026 08:21:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
