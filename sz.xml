@@ -5,56 +5,175 @@
     <link>https://obitusde.github.io/schweiz/sz.xml</link>
     <description>KI-gefilterter Newsfeed der Süddeutschen Zeitung</description>
     <language>de</language>
-    <lastBuildDate>Sun, 28 Jun 2026 04:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:24:58 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Politik] USA: Trump nominiert ehemaligen Polizist als neuen ICE-Direktor</title>
-      <link>https://www.sueddeutsche.de/politik/usa-news-donald-trump-ice-lance-schroyer-einwanderung-li.3506498</link>
-      <guid isPermaLink="false">li.3506498</guid>
-      <description><![CDATA[<p>Lance Schroyer, ehemals Polizist aus Oklahoma, soll auf Wunsch von Donald Trump neuer Direktor der Einwanderungsbehörde ICE werden. Der Senat muss dem Vorschlag zustimmen.</p>]]></description>
-      <pubDate>Sun, 28 Jun 2026 00:27:06 GMT</pubDate>
+      <title>[Politik] Konfrontation: Pakistan: Haben erneut Ziele in Afghanistan angegriffen</title>
+      <link>https://www.sueddeutsche.de/politik/pakistan-afghanistan-angriffe-grenze-li.3507109</link>
+      <guid isPermaLink="false">li.3507109</guid>
+      <description><![CDATA[<p>Bei den Auseinandersetzungen sollen etwa 30 Menschen ums Leben gekommen sein. Seit letztem Herbst kommt es immer wieder zu gegenseitigen Angriffen zwischen den Nachbarländern.</p>]]></description>
+      <pubDate>Mon, 29 Jun 2026 04:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Krieg in Nahost: USA und Iran greifen sich erneut an – Trump droht mit Vernichtung</title>
-      <link>https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-israel-libanon-li.3505461</link>
+      <title>[Panorama] Zehntausende noch vermisst: Geruch des Todes breitet sich nach Beben in Venezuela aus</title>
+      <link>https://www.sueddeutsche.de/panorama/venezuela-erdbeben-katastrophe-geruch-vermisste-tote-li.3507110</link>
+      <guid isPermaLink="false">li.3507110</guid>
+      <description><![CDATA[<p>Es ist der fünfte Tag nach den verheerenden Erdbeben. Bislang liegt die Zahl der Todesopfer bei 1450, doch Zehntausende gelten noch als vermisst.</p>]]></description>
+      <pubDate>Mon, 29 Jun 2026 03:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Krieg in Nahost: USA setzen trotz Eskalation auf Dialog mit Iran</title>
+      <link>https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-news-verhandlungen-angriffe-li.3505461</link>
       <guid isPermaLink="false">li.3505461</guid>
-      <description><![CDATA[<p>Waffenruhe unter Druck: Die USA greifen erneut Ziele in Iran an, Teheran beschießt US-Militärbasen in Kuwait und Bahrain – beide Seiten drohen, die Verhandlungen platzen zu lassen.</p>]]></description>
-      <pubDate>Sat, 27 Jun 2026 22:36:00 GMT</pubDate>
+      <description><![CDATA[<p>Beide Seiten haben sich in den letzten Tagen angegriffen, ein dauerhafter Frieden ist nicht in Sicht. Dennoch sollen laut US-Angaben die Gespräche fortgesetzt werden.</p>]]></description>
+      <pubDate>Mon, 29 Jun 2026 02:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Krieg in der Ukraine: Bürgermeister: Fast zwei Dutzend Drohnen vor Moskau abgeschossen</title>
-      <link>https://www.sueddeutsche.de/politik/ukraine-krieg-russland-moskau-drohnen-li.3500126</link>
+      <title>[Magazin] Der Trainer meines Lebens</title>
+      <link>https://www.sueddeutsche.de/magazin/leben-und-gesellschaft/trainer-trainerin-motivation-sport-amateursport-li.3503556</link>
+      <guid isPermaLink="false">li.3503556</guid>
+      <description><![CDATA[<p>Bei der WM stehen sie an der Seitenlinie, aber auch jenseits des Leistungssports sind Trainerinnen und Trainer oft prägende Figuren, deren guter Einfluss noch Jahrzehnte später spürbar ist. Die SZ-Magazin-Redaktion möchte ein paar von ihnen Danke sagen.</p>]]></description>
+      <pubDate>Mon, 29 Jun 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Krieg in der Ukraine: Putin hält Krisensitzung wegen Treibstoffmangel ab</title>
+      <link>https://www.sueddeutsche.de/politik/ukraine-krieg-russland-putin-treibstoffmangel-krisensitzung-li.3500126</link>
       <guid isPermaLink="false">li.3500126</guid>
-      <description><![CDATA[<p>Erneut sind ukrainische Drohnen im Anflug auf die Millionenmetropole. Die Ukraine meldet einen Angriff auf eine russische Ölpumpstation.</p>]]></description>
-      <pubDate>Sat, 27 Jun 2026 20:24:13 GMT</pubDate>
+      <description><![CDATA[<p>Der russische Präsident denkt über ein Exportverbot für Diesel nach. Weil die Ukraine Raffinerien in Russland angreift, wird an vielen Tankstellen im Land das Benzin knapp.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 18:37:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Panorama] Venezuela: Zahl der Toten steigt nach Erdbeben auf mehr als 1400</title>
-      <link>https://www.sueddeutsche.de/panorama/venezuela-erdbeben-tote-li.3506448</link>
-      <guid isPermaLink="false">li.3506448</guid>
-      <description><![CDATA[<p>430 Nachbeben, zerstörte Hochhäuser und unzählige Vermisste – das ganze Ausmaß der Erdbebentragödie in Venezuela ist noch immer unklar. Die Suche läuft weiter, während die Chancen für Überlebende mit jeder Stunde sinken.</p>]]></description>
-      <pubDate>Sat, 27 Jun 2026 20:06:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Panorama] Wetter: Erneut Temperaturrekord in Deutschland: 41,5 Grad gemessen</title>
-      <link>https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-temperaturrekord-deutschland-sachsen-anhalt-li.3502376</link>
+      <title>[Panorama] Wetter: 41,7 Grad: neuer Hitzerekord in Deutschland</title>
+      <link>https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-41-7-grad-hitze-rekord-li.3502376</link>
       <guid isPermaLink="false">li.3502376</guid>
-      <description><![CDATA[<p>Der vorläufige Höchstwert wurde um 16.20 Uhr in Möckern-Drewitz in Sachsen-Anhalt gemessen, wie der Deutsche Wetterdienst mitteilt. Zudem registriert der DWD in mehreren Bundesländern die jeweils höchste Temperatur, die dort jemals gemessen wurde.</p>]]></description>
-      <pubDate>Sat, 27 Jun 2026 19:29:01 GMT</pubDate>
+      <description><![CDATA[<p>Am Sonntagnachmittag war es im brandenburgischen Neißemünde 41,7 Grad heiß, meldet der Deutsche Wetterdienst. Drei Tage in Folge wurde hierzulande nun ein neuer Höchstwert aufgestellt.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 14:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Glosse: Das Streiflicht</title>
+      <link>https://www.sueddeutsche.de/politik/streiflicht-glosse-fussball-wm-li.3502585</link>
+      <guid isPermaLink="false">li.3502585</guid>
+      <description><![CDATA[<p>Matchmomentum und verdächtige Ausbrüche von Männlichkeit: Jede Sekunde dieser Fußball-WM wird medial intensiv begleitet. Und doch bleiben ihre drei größten Rätsel ungelöst.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 13:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Altersvorsorge: „Man muss überhaupt erst mal das Geld haben, um zu sparen“</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/altersvorsorgedepot-finanzbildung-deutschland-amundi-pellis-li.3501849</link>
+      <guid isPermaLink="false">li.3501849</guid>
+      <description><![CDATA[<p>Christian Pellis, Deutschlandchef des großen europäischen Vermögensverwalters Amundi, spricht über das neue Altersvorsorgedepot und die Rentenpläne der Regierung.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 12:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Altersvorsorge: Rentenpaket träfe Minijobber besonders hart</title>
+      <link>https://www.sueddeutsche.de/politik/rentenreform-rente-minijobs-li.3506595</link>
+      <guid isPermaLink="false">li.3506595</guid>
+      <description><![CDATA[<p>CDU und SPD wollen die Vergünstigungen für mehr als sechs Millionen Minijobber abschaffen. Warum das zur Belastungsprobe in der Koalition werden könnte.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 12:52:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Großbritannien: Wer hier regieren will, muss erst mal am Mann mit der Mülltonne auf dem Kopf vorbei</title>
+      <link>https://www.sueddeutsche.de/politik/politik-spasskandidaten-count-binface-london-li.3505307</link>
+      <guid isPermaLink="false">li.3505307</guid>
+      <description><![CDATA[<p>Seit Jahren tritt Count Binface da an, wo Mächtige kandidieren. Natürlich, er bleibt chancenlos. Wobei, neulich in Makerfield waren die Tories nur knapp vor ihm. Doch was sind Zahlen angesichts eines moralischen Siegs.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 12:43:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Biografie über Hans Schwerte: Der SS-Offizier, der Uni-Rektor in Aachen wurde</title>
+      <link>https://www.sueddeutsche.de/politik/hans-schwerte-ss-hauptsturmfuehrer-rektor-rwth-aachen-angelina-pils-schwerte-schneider-li.3498866</link>
+      <guid isPermaLink="false">li.3498866</guid>
+      <description><![CDATA[<p>Das Doppelleben von Hans Ernst Schneider, der nach dem Krieg als Hans Schwerte zum liberalen Germanisten mutiert war und erst 1995 aufflog, verrät einiges über den Umgang der Deutschen mit der NS-Zeit.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 12:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Erinnerungen von Elisabeth Schwarzhaupt: „Dieser erste weibliche Minister“</title>
+      <link>https://www.sueddeutsche.de/politik/elisabeth-schwarzhaupt-ministerin-deutschland-cdu-memoiren-li.3480115</link>
+      <guid isPermaLink="false">li.3480115</guid>
+      <description><![CDATA[<p>Elisabeth Schwarzhaupt war 1961 die erste bundesdeutsche Ministerin. Wie sich die CDU-Politikerin gegen Adenauer und die anderen Herrn durchsetzte, schrieb sie in einem „Lebensbericht“ nieder.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 12:31:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Serbien: Vučić kündigt Rücktritt an</title>
+      <link>https://www.sueddeutsche.de/politik/serbien-vucic-kuendigt-ruecktritt-an-li.3506918</link>
+      <guid isPermaLink="false">li.3506918</guid>
+      <description />
+      <pubDate>Sun, 28 Jun 2026 12:10:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Argentinien: Milei-Vertrauter tritt nach Skandal zurück</title>
+      <link>https://www.sueddeutsche.de/politik/argentinien-milei-vertrauter-tritt-nach-skandal-zurueck-li.3506753</link>
+      <guid isPermaLink="false">li.3506753</guid>
+      <description />
+      <pubDate>Sun, 28 Jun 2026 11:53:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Politik] Australien: Strafen für Social-Media-Konzerne verdoppelt</title>
+      <link>https://www.sueddeutsche.de/politik/australien-strafen-fuer-social-media-konzerne-verdoppelt-li.3506741</link>
+      <guid isPermaLink="false">li.3506741</guid>
+      <description />
+      <pubDate>Sun, 28 Jun 2026 11:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wissen] Rekordtemperaturen in Deutschland: „Heute ist der letzte Tag der extremen Hitzewelle“</title>
+      <link>https://www.sueddeutsche.de/wissen/deutschland-wetter-hitze-unwetter-abkuehlung-li.3506608</link>
+      <guid isPermaLink="false">li.3506608</guid>
+      <description><![CDATA[<p>Tagelang hat Deutschland unter extremen Temperaturen gelitten. Nun ist Abkühlung in Sicht. Doch zuvor drohen teils heftige Gewitter.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 10:49:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] VW-Konzern: Bericht: Porsche will Cayenne-Produktion nach Leipzig verlagern</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/porsche-cayenne-produktion-leipzig-li.3506689</link>
+      <guid isPermaLink="false">li.3506689</guid>
+      <description><![CDATA[<p>Voraussetzung sei eine ⁠spürbare Absenkung der Löhne. Hintergrund ist laut Insidern der größte Umbau in der Geschichte des Mutterkonzerns VW.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 10:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Reisen: Diese Kostenfallen machen das Autofahren im Urlaub teuer</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/autofahren-urlaub-kostenfallen-bussgelder-europa-li.3493243</link>
+      <guid isPermaLink="false">li.3493243</guid>
+      <description><![CDATA[<p>Eine teure Fahrverbotszone in Palermo, eine Mautfalle auf der kroatischen Autobahn, hohe Ladepreise für E-Fahrzeuge:  Was Urlauber wissen müssen, die mit dem Auto unterwegs sind.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 09:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Baustoffe: Wie vor Zweitem Weltkrieg: Zementverbrauch auf Tiefstand</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/baustoffe-wie-vor-zweitem-weltkrieg-zementverbrauch-auf-tiefstand-li.3506615</link>
+      <guid isPermaLink="false">li.3506615</guid>
+      <description><![CDATA[<p>Verbandspräsident von Achten erwartet aber eine Trendwende im zweiten Halbjahr – auch dank des Sondervermögens.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 09:44:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Offene Immobilienfonds: Für diese Anleger gibt es keine Hoffnung mehr</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/immobilienfonds-deutschland-krise-fondsaufloesungen-kanam-li.3506435</link>
+      <guid isPermaLink="false">li.3506435</guid>
+      <description><![CDATA[<p>Die Krise offener Immobilienfonds wird größer:  Erstmals wird ein Fonds nicht nur geschlossen, sondern vollständig abgewickelt. Für die Kundinnen und Kunden ist das sehr schlecht.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 08:52:57 GMT</pubDate>
     </item>
     <item>
       <title>[Wissen] Wetter in Deutschland: So ungewöhnlich sind die Temperaturen</title>
       <link>https://www.sueddeutsche.de/projekte/artikel/wetter/hitze-temperatur-deutschland-vergleich-karte-e360874/</link>
       <guid isPermaLink="false">er.e360874</guid>
       <description><![CDATA[<p>Ist es heute wärmer oder kälter als sonst um diese Zeit? Und welche Rolle spielt der Klimawandel? Finden Sie heraus, wie ungewöhnlich die Temperaturen aktuell in Ihrer Region sind.</p>]]></description>
-      <pubDate>Sat, 27 Jun 2026 09:06:00 GMT</pubDate>
+      <pubDate>Sun, 28 Jun 2026 08:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Politik] Krieg in Libanon: Israel macht erstmals Zugeständnisse und zieht sich aus Zonen in Libanon zurück</title>
-      <link>https://www.sueddeutsche.de/politik/israel-libanon-friedensabkommen-rueckzug-kontrolle-li.3504895</link>
-      <guid isPermaLink="false">li.3504895</guid>
-      <description><![CDATA[<p>Israel und Libanon einigen sich auf ein Abkommen, das den Krieg beenden soll. Die Hisbollah saß nicht mit am Tisch und lehnt die Einigung ab.</p>]]></description>
-      <pubDate>Sat, 27 Jun 2026 08:21:42 GMT</pubDate>
+      <title>[Wissen] Psychologie: Kann man Freundschaft künstlich herstellen?</title>
+      <link>https://www.sueddeutsche.de/wissen/hirnsynchronisation-freundschaft-bad-bunny-li.3502763</link>
+      <guid isPermaLink="false">li.3502763</guid>
+      <description><![CDATA[<p>Wenn Menschen etwas gemeinsam erleben, gleichen sich ihre Hirnaktivitäten an, und sie spüren Sympathie und Zusammenhalt. Forscher wollen den Effekt nun im Labor erzeugen.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 08:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Energie: Haushalte spüren bislang nichts von der Gas-Krise</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/gaskosten-deutschland-preise-li.3506606</link>
+      <guid isPermaLink="false">li.3506606</guid>
+      <description><![CDATA[<p>Bislang haben sich trotz des Iran-Kriegs die Gaspreise für Verbraucherinnen und Verbraucher nicht geändert. Das Vergleichsportal Verivox hält sogar Tarifsenkungen für möglich.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 07:51:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Italien: Wie die Ermittlungen gegen Benko in Italien verpuffen</title>
+      <link>https://www.sueddeutsche.de/wirtschaft/rene-benko-italien-bozen-gardasee-li.3499761</link>
+      <guid isPermaLink="false">li.3499761</guid>
+      <description><![CDATA[<p>Von Bozen aus wollte Milliardenpleitier René Benko Italien erobern. Dazu verbündete er sich mit einem Südtiroler Statthalter  – und vielleicht auch mit dem lokalen Establishment. Es wird ermittelt, aber manches verwundert.</p>]]></description>
+      <pubDate>Sun, 28 Jun 2026 07:31:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
