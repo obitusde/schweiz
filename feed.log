@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 29.6.2026, 06:30:35
-Letzter Lauf: 28.6.2026, 12:58:39
+Start: 29.6.2026, 12:58:39
+Letzter Lauf: 29.6.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,16 +17,32 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 23 neue Artikel geprüft:
-- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung in der Schweiz außerhalb der Waadt.): 'Angriff auf Zürcher Juden 2024 – Prozess nach Messerangriff in Zürich: 17-Jähriger vor Gericht'
-- Gelöscht (Grund: Duplikat-Regel: ID 4 behandelt dasselbe Thema (Erdbeben in Venezuela) und ist informativer.): 'Venezolanische Diaspora – Nach Erdbeben: «Einige Verwandte antworten, andere nicht»'
+KI-Filter (Gemini) - 17 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalität/Blaulicht-Meldung in der Schweiz außerhalb der Waadt.): 'Angriff auf Zürcher Juden 2024 – Prozess nach Messerangriff in Zürich: 17-Jähriger vor Gericht'
+- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: ID 4 behandelt dasselbe Thema (Erdbeben in Venezuela) und ist informativer.): 'Venezolanische Diaspora – Nach Erdbeben: «Einige Verwandte antworten, andere nicht»'
+- Gelöscht (Grund: Unfall in der Schweiz außerhalb des Kantons Waadt (Mörel-Filet/Wallis).): 'Une voiture chute dans le Rhône: un mort'
+- Gelöscht (Grund: Unfall in der Schweiz außerhalb des Kantons Waadt (Courrendlin/Jura).): 'Un automobiliste perd la maîtrise de sa voiture sur l'A16'
+- Gelöscht (Grund: Duplikat zu Artikel 1 (Thema: Erdbeben in Venezuela).): 'Erdbeben in Venezuela – Noch gibt es Hoffnung auf Überlebende'
 
 Finale Liste (live im XML-Feed):
+- [Journal de Morges] Zoé Claessens ist Vize-Europameisterin
+- [SRF Ausland] Erdbeben in Venezuela – Stromausfall stoppt Venezuelas grösste Raffinerie
+- [SRF Schweiz] Walter Arnold – Verjährung: Wer hat den Schweizer 1996 in Madagaskar ermordet?
+- [SRF Schweiz] Roboter-Herzchirurgie in Basel – Wenn die Chirurgin an der Konsole sitzt
+- [SRF Schweiz] Debatte um Atomkraftwerke – Studie: Neue AKW lohnen sich nur mit staatlicher Unterstützung
+- [20 Min Romandie] Illegaler Netzanschluss kappt 570 Haushalten den Strom
+- [SRF Wirtschaft] Öl-Geld fürs Klima – Norwegischer Risiko-Chef: «Gibt keine vergleichbaren Ereignisse»
+- [20 Min Romandie] Unwetter 2024: Letzte Millionen freigegeben
+- [20 Min Romandie] Räuber von Daillens zu 8 bis 13 Jahren Haft verurteilt
+- [SRF Ausland] Journalismus unter Druck – Serbien: Letzte unabhängige Medien in Gefahr
+- [20 Min Romandie] Start-up verlängert Lebensdauer von E-Bike-Akkus
+- [SRF Schweiz] Schweizer Pionierprojekt – Solarenergie zwischen Bahngleisen: Erste positive Bilanz
+- [SRF Schweiz] Energiepreise – Stromtarife dürften 2027 erneut sinken
+- [SRF Wissen] Justiz und Medienrecht – Palantir akzeptiert Urteil im Streit mit der «Republik»
 - [SRF Ausland] Krieg in der Ukraine – Jagd auf Drohnen auf dem Schwarzen Meer
 - [SRF Schweiz] Ungesunde Aktionen – Für wenig Geld gibts Fett, Zucker und Salz – aber kaum Obst
-- [SRF Schweiz] Zollverhandlungen mit USA – Parmelin in Washington – was ist bei den Zöllen zu erwarten?
+- [SRF Schweiz] Zollverhandlungen mit USA – Zollverhandlungen mit den USA gehen in die nächste Runde
 - [SRF Schweiz] Sinti und Jenische – Unabhängige Kommission soll jahrzehntelanges Unrecht aufklären
-- [SRF Ausland] Erdbeben in Venezuela – Zahl der Toten bei 1450 ++ Wenig Hoffnung für Verschüttete
 - [SRF Ausland] Flucht wegen Sudan-Krieg – Geflüchtete Frauen im Tschad: Risiko der sexualisierten Gewalt
 - [SRF Schweiz] Haushaltsgeräte im Museum – Mann, Frau, Staubsauger: Die Hausfrau als idealisierte Werbefigur
 - [SRF Schweiz] Liveticker zum Nachlesen – Das OASG 2026 ist Geschichte – und eins für die Geschichtsbücher
@@ -36,22 +52,10 @@ Finale Liste (live im XML-Feed):
 - [SRF Wirtschaft] Uhrenindustrie – Die Uhrenindustrie will nicht stehen bleiben
 - [SRF Schweiz] Unterwegs fürs Gemeinwohl – Warum ein 77-Jähriger freiwillig Wanderwege pflegt
 - [SRF Schweiz] Muotatal: Natürliche Kühlorte – Auch im Hochsommer strömt hier eisige Luft aus dem Berg
-- [Journal de Morges] Blutspenden machen keine Ferien
 - [SRF Ausland] Erneute Angriffe Iran und USA – Von Entspannung keine Spur
 - [20 Min Romandie] «Nur drei Sekunden fehlten, und ich wäre darunter gewesen»
 - [SRF Wirtschaft] Umfrage der ZHAW – Trinkgeld auch bei Take-away und Selbstbedienung?
 - [SRF Ausland] Warten auf die Deportation – Tausende Migrantinnen und Migranten in Südafrika leben in Angst
 - [SRF Ausland] Queeres Leben in China – Schweizer Dragqueen trifft auf chinesische Repression
 - [SRF Ausland] Repression am Golf – Golfstaaten nutzen den Krieg als Vorwand für Verhaftungen
-- [SRF Schweiz] «Alone Together» – Zu zweit auf einer Insel – woran es bei vier Paaren hakt
-- [SRF Schweiz] Schweizer Luftwaffe – Schweiz zahlte vorzeitig 500 Millionen an die USA – für F-35-Jets
-- [SRF Ausland] Streit um Bäder in Italien – Neuausschreibung der Strandbäder in Italien ist umstritten
-- [20 Min Romandie] „Man suchte ein leichtes Opfer“: Er behauptet, die Polizei habe ihn in eine Falle gelockt
-- [SRF Schweiz] Aktion der Krebsliga – Gratis-Sonnencreme für Hautkrebs-Hotspot Schweiz
-- [SRF Schweiz] Schlacht bei Murten – Die erstaunlichen Überbleibsel der eidgenössischen Heldentat
-- [SRF Schweiz] Philipp Matthias Bregy – Bregy ist seit einem Jahr Mitte-Präsident – die Bilanz
-- [SRF Ausland] Nach Protesten – Serbiens Präsident Vucic kündigt Rücktritt an
-- [SRF Schweiz] Berner Verkehrsgeschichte – Dampftram steht neu unter Denkmalschutz und fährt noch immer
-- [RTS Vaud] Das Maison de la Radio in La Sallaz schliesst nach 91 Jahren endgültig seine Mikrofone
-- [SRF Ausland] Autonome Drohnen im Krieg – Ethiker: «Plötzlich wird das Töten klarer sichtbar als zuvor»
-- [SRF Wissen] Klimatisierte Räume – Erkältung wegen Klimaanlage – stimmt das?
+- [Journal de Morges] Hautemorges zahlt für die Erneuerung der Eisbahn von Morges
