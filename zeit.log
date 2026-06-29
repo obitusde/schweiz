@@ -1,0 +1,44 @@
+=== ZEIT-FEED PROTOKOLL ===
+Start: 29.6.2026, 10:13:57
+Letzter Lauf: 29.6.2026, 06:24:58
+
+Abruf der RSS-Feeds:
+- https://newsfeed.zeit.de/digital/index
+- https://newsfeed.zeit.de/gesellschaft/index
+- https://newsfeed.zeit.de/mobilitaet/index
+- https://newsfeed.zeit.de/wirtschaft/index
+- https://newsfeed.zeit.de/geld/index
+- https://newsfeed.zeit.de/schweiz/index
+- https://newsfeed.zeit.de/arbeit/index
+- https://newsfeed.zeit.de/wissen/index
+- https://newsfeed.zeit.de/entdecken/index
+
+Statischer Filter (Keywords):
+- [FEED FEHLER] https://newsfeed.zeit.de/wissen/index: Exception: Request failed for https://newsfeed.zeit.de returned code 404. Truncated server response: <!DOCTYPE html>
+<html lang="de" class="no-js "    >
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
+
+KI-Filter (Gemini) - 19 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Unfall ohne längerfristige Relevanz (lokales Ereignis)): [Gesellschaft] 'Notlandung: Flugzeug muss wegen Rauchalarm in Erfurt notlanden'
+- GelÃ¶scht (Grund: Unfall ohne längerfristige Relevanz): [Gesellschaft] 'Badeunfälle in Deutschland: Mindestens 15 Menschen bei Badeunfällen gestorben'
+- GelÃ¶scht (Grund: Duplikat zu Artikel 9 (Erdbeben in Venezuela); Artikel 9 ist informativer hinsichtlich der Rettungssituation): [Gesellschaft] 'Erdbeben in Venezuela: EU aktiviert Katastrophenschutz für Venezuela'
+
+Finale Liste (live im XML-Feed):
+- [Gesellschaft] Hitzewelle: Carsten Schneider sieht Länder beim Hitzeschutz in der Pflicht
+- [Wirtschaft] Statistisches Bundesamt: Staatsinvestitionen so hoch wie seit 26 Jahren nicht mehr
+- [Wirtschaft] Umweltschutz: Greenpeace kritisiert Bundesregierung für klimaschädliche Subventionen
+- [Wirtschaft] KI in der Steuerberatung: Gehört der KI-Steuerberater wirklich verboten?
+- [Arbeit] Gehirngerechtes Arbeiten: Was Hirnforscher tun, um produktiver zu sein
+- [Wirtschaft] Ifo Institut: Tankrabatt wurde bei Diesel wohl zu wenig weitergegeben
+- [Entdecken] Plank-Challenge: Rentner sind die Sportikonen unserer Zeit
+- [Gesellschaft] Wolfgang Schmidbauer: Ist es okay, wenn Eltern ein Lieblingskind haben?
+- [Gesellschaft] Erdbeben in Venezuela: Mehrere Kinder werden lebend aus den Trümmern geborgen
+- [Gesellschaft] Waldbrände in den USA: Drei Feuerwehrleute sterben bei Einsatz gegen Waldbrände
+- [Gesellschaft] Hitzewelle: Deutscher Wetterdienst meldet Temperaturhöchstwert von 41,7 Grad
+- [Gesellschaft] Türkei: Veranstalter melden 50 Festnahmen bei Pride-Umzug in Istanbul
+- [Gesellschaft] Frankreich: Elf Tote bei Absturz von Kleinflugzeug nahe Nancy
+- [Schweiz] »Wie viel Schweiz steckt in Ihnen?« von Markus Freitag: Wie ich mir das Fragezeichen angewöhnt habe
+- [Entdecken] Immobilienmakler auf Mallorca: Ein Tag in den Häusern der Superreichen
+- [Wirtschaft] Tabaksteuer: Preis für Shisha-Tabak könnte sich durch Gesetzesänderung verdoppeln
