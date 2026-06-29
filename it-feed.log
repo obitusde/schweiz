@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 28.6.2026, 12:28:18
-Letzter Lauf: 28.6.2026, 06:10:26
+Start: 29.6.2026, 06:10:26
+Letzter Lauf: 28.6.2026, 12:28:18
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,6 +10,8 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Display-Ratgeber: Die besten Bildschirme für den Mac'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Agentic AI: Konferenz zu Legacy-Migration und den Herausforderungen fürs Team'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Visuelle PKM-Tools: Heptabase, Obsidian Canvas und Xmind im Vergleich'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | So kann man eine PS3 mit dem Raspberry Pi Pico hacken'
@@ -17,14 +19,23 @@ Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Administration, DevOps und Konfigurationsmanagement'
 - [FEED FEHLER] https://www.lightroomqueen.com/feed/: Exception: Request failed for https://www.lightroomqueen.com returned code 403. Truncated server response: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta htt... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 9 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 3 (Behandelt dasselbe aktuelle Ereignis: Veröffentlichung von GPT-5.6).): 'KI: OpenAI startet GPT 5.6 unter Regierungsvorbehalt'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 2 (Behandelt dasselbe aktuelle Ereignis: Aufhebung der US-Sperre für Claude Myth): 'Mythos 5: Trump gibt Anthropic-KI-Sperre teilweise auf'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 6 (Behandelt dasselbe aktuelle Ereignis: Trumps Drohung mit 100 % Zoll wegen der): 'Wegen möglicher Digitalsteuer: Trump droht Europa mit 100 Prozent Zollaufschlag'
-- Weiterhin entfernt (Cache, Grund: Fällt unter das Ausschlusskriterium Netzwerk-Infrastruktur (Ursache des Bahnausfalls war der Tausch ): 'Bahnausfall: Wartungsarbeiten künftig nur von 0 bis 4 Uhr'
-- Gelöscht (Grund: Duplikat: Der Artikel behandelt dasselbe Ereignis wie Artikel 5 (Prognose der Bundesarbeitsagentur zum IT-Arbeitsmarkt).): 'Arbeitsagentur: Jobs in der IT-Branche haben Zukunft'
+KI-Filter (Gemini) - 13 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Duplikat: Der Artikel behandelt dasselbe Ereignis wie Artikel 5 (Prognose der Bundesarbeitsagentur z): 'Arbeitsagentur: Jobs in der IT-Branche haben Zukunft'
+- Gelöscht (Grund: Thematisiert interne PC-Komponenten (Speicher/RAM).): 'Bericht: Apple bemüht sich um Speicher von CXMT'
+- Gelöscht (Grund: Fällt unter das Ausschlusskriterium Apple Themen (iOS).): 'Apple blockt russische Messenger – Russland rät Bürgern zu Android'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Taiwanische Cybersicherheitsbehörde warnt vor Überwachung durch billige eSIMs
+- [Digitec] Jetzt bei uns: die Panorama-Sicherheitskamera Reolink Omvi 3i PoE
+- [Digitec] Die 100 besten Games aller Zeiten: Platz 33-2
+- [Digitec] Soundcore Liberty 5 Pro und Pro Max: Bassmonster mit top Noise Cancelling
+- [Heise] Top 10: Speicher für Balkonkraftwerk im Test
+- [Heise] „Sorry, Sandy“ – John Carmack bedauert das Ende des „Quake”-Teams
+- [Heise] Social Media ab 16: Australien verdoppelt Strafen für Plattformen
+- [Heise] Laptop Chuwi Corebook Air im Test: Leicht & für 550 €, aber QWERTY-Tastatur
+- [Heise] Verfassungswidrig? Scharfe Kritik an geplanter Streaming-Abgabe
+- [Golem] Geran 4: Russland setzt Jet-Drohnen gegen ukrainische Kampfflugzeuge ein
+- [Golem] Lotsen: Belfast schickt elektrisches Hydrofoil-Boot in den Hafen
 - [Golem] Digitales Bezahlen immer beliebter: Die meisten Deutschen wollen überall auch bargeldlos zahlen können
 - [Golem] Südkorea: Jeder Soldat soll zum Drohnenpiloten werden
 - [Golem] Streamingabo: Netflix verlangt für jedes Profil eine eigene E-Mail-Adresse
@@ -33,12 +44,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] G7-Datenschutzgipfel: Ruf nach Regeln für Alterskontrollen und Smart Homes
 - [Heise] Missing Link: 30 Jahre N64 – Nintendos 3D-Wunderkiste
 - [Golem] KI im Krieg: Autonome Waffen übernehmen das Schlachtfeld
-- [Heise] Top 10: Carplay-Wireless-Adapter im Test
-- [Heise] Heimliche Überwachung: Regierung bricht ihr Schweigen bei stillen SMS
-- [Heise] Per Brief: US-Regierung hebt Sperre von Claude Mythos auf
-- [Heise] GPT-5.6: OpenAI verspricht mehr Leistung bei weniger Token-Verbrauch
-- [Golem] Lucas-Drohne: US-Streitkräfte rüsten Kamikaze-Schwarm mit KI aus
-- [Heise] Marstek Venus D im Test
-- [Heise] Trump: Wenn Digitalsteuer, dann 100 Prozent höhere Zölle
-- [Golem] climate.us: US-Klima-Portal dank Spenden wieder online
-- [Golem] Länger arbeiten: Mercedes-Benz will 35-Stunden-Woche kippen
