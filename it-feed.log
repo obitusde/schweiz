@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 29.6.2026, 06:10:26
-Letzter Lauf: 28.6.2026, 12:28:18
+Start: 29.6.2026, 12:28:17
+Letzter Lauf: 29.6.2026, 06:10:26
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,25 +10,63 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | GitHub-Alternative Forgejo mit Actions zur automatisierten Codeschmiede machen'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Umstieg von M365 auf Nextcloud – eine Anleitung'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c’t-Workshop: Effziente Datenanalyse mit Power BI'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Extraschnelles Netz: Zwei USB-C-Adapter für 10-Gbit/s-Ethernet im Vergleich'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: BCM und IT-Notfallplanung – vorbereitet für den Ernstfall'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Visuelle PKM-Tools: Heptabase, Obsidian Canvas und Xmind im Vergleich'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | VW ID.7 Tourer Pro im Test: Kleine Batterie, schlaue Entscheidung'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Display-Ratgeber: Die besten Bildschirme für den Mac'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Agentic AI: Konferenz zu Legacy-Migration und den Herausforderungen fürs Team'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Visuelle PKM-Tools: Heptabase, Obsidian Canvas und Xmind im Vergleich'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | So kann man eine PS3 mit dem Raspberry Pi Pico hacken'
-- Gelöscht wegen Keyword '(g+)': '(g+) Lokales Sprachmodell: Vom Ollama-Demo zur produktiven Open-LLM-App'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Administration, DevOps und Konfigurationsmanagement'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Samsung Galaxy Tab mit S-Pen stark reduziert bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kollaboration ohne Datenschutzrisiko - geht das?'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Nur noch heute und morgen: 15 Prozent Rabatt auf IT-Security-Workshops'
 - [FEED FEHLER] https://www.lightroomqueen.com/feed/: Exception: Request failed for https://www.lightroomqueen.com returned code 403. Truncated server response: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta htt... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 13 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Duplikat: Der Artikel behandelt dasselbe Ereignis wie Artikel 5 (Prognose der Bundesarbeitsagentur z): 'Arbeitsagentur: Jobs in der IT-Branche haben Zukunft'
-- Gelöscht (Grund: Thematisiert interne PC-Komponenten (Speicher/RAM).): 'Bericht: Apple bemüht sich um Speicher von CXMT'
-- Gelöscht (Grund: Fällt unter das Ausschlusskriterium Apple Themen (iOS).): 'Apple blockt russische Messenger – Russland rät Bürgern zu Android'
+KI-Filter (Gemini) - 34 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Thematisiert interne PC-Komponenten (Speicher/RAM).): 'Bericht: Apple bemüht sich um Speicher von CXMT'
+- Weiterhin entfernt (Cache, Grund: Fällt unter das Ausschlusskriterium Apple Themen (iOS).): 'Apple blockt russische Messenger – Russland rät Bürgern zu Android'
+- Gelöscht (Grund: Inhalt befasst sich mit iOS (Harter Ausschluss).): 'AirPods-Firmware-Beta und iOS 27: Das ist neu bei Apples Stöpseln'
+- Gelöscht (Grund: Inhalt befasst sich mit Star Trek (Harter Ausschluss).): 'Klang aus den Fünfzigern: Star Trek borgte Phaser-Sound aus Filmklassiker'
+- Gelöscht (Grund: Inhalt befasst sich mit Deep OS-Internals und Linux (Harter Ausschluss).): 'Root-Zugriff möglich: Exploits für gefährliche Lücke im Linux-Kernel geleakt'
+- Gelöscht (Grund: Inhalt befasst sich mit internen PC-Komponenten und OS-Basteleien (Harter Ausschluss).): 'Alter PC: Bastler nutzt Windows 11 mit 3 GByte DDR1-Arbeitsspeicher'
+- Gelöscht (Grund: Inhalt befasst sich mit Web-Infrastruktur (Harter Ausschluss).): 'Umami 3.2.0: Heatmaps und verbesserte Webanalyse'
+- Gelöscht (Grund: Duplikat zu Artikel 16 (Dasselbe Ereignis).): 'Fußball-Streaming ade: 400 illegale Streamingportale vom Netz genommen'
+- Gelöscht (Grund: Duplikat zu Artikel 11 (Dasselbe Ereignis).): 'Brief an die EU: Österreich will Anthropic nach Europa holen'
+- Gelöscht (Grund: Inhalt befasst sich mit Apple-Themen und internen PC-Komponenten/RAM (Harter Ausschluss).): 'Montag: Apple für chinesischen Speicher, Warnung vor Datenklau durch eSIMs'
 
 Finale Liste (live im XML-Feed):
-- [Heise] Taiwanische Cybersicherheitsbehörde warnt vor Überwachung durch billige eSIMs
+- [Golem] Rockstar Games: Erster Händler spricht von irren GTA-6-Rekordverkäufen
+- [Golem] Jugendschutz: Australien verdoppelt Strafen für Social-Media-Unternehmen
+- [Golem] Vor der Nasdaq-100-Aufnahme: Neuer Schub für SpaceX
+- [Golem] Solarausbau: Ausschreibungen zu PV mit Speicher haben klaren Preistrend
+- [Heise] Cyberangriffe auf Hotel- und Gastgewerbe: Täter nisten sich ein
+- [Golem] Quantic Dream: Entwickler wollen Star Wars Eclipse mit Streiks retten
+- [Golem] Für Halbleiterfabriken: Südkorea will Genehmigungsverfahren deutlich verkürzen
+- [Golem] Wegen US-Einflussnahme: Österreichischer Staatssekretär will Anthropic in EU holen
+- [Heise] Forscher heben Temperatur für Supraleitung ohne dauerhafte Druckerhöhung an
+- [Golem] Kunden werden zu Neuvertrag gedrängt: 1&1 erschwert Umzug mit aktivem DSL-Vertrag
+- [Heise] Gegen Normen verstoßen? Zwei Artikel von Max Planck nach 60 Jahren zurückgezogen
+- [Heise] USA beschlagnahmen fast 400 Domains für illegale WM-Streams
+- [Golem] Weltraumteleskop: Esa-Teleskop Euclid liefert riesiges Mosaik der Milchstraße
+- [Digitec] WD Elements Portable: Externe Festplatten erhalten USB-C und bis zu 6 Terabyte
+- [Golem] Bayerische Polizei und Palantir: Ist der Einsatz von Vera teils verfassungswidrig?
+- [Golem] Cariad: VW will autonomes Fahren ohne Bosch weiterentwickeln
+- [Golem] KI-Forschung: Chatbots können Wahnvorstellungen verstärken
+- [Heise] Planeten wie Zuckerwatte: Nasa-Mission Tess entdeckt besondere Riesen im All
+- [Heise] FBI-Warnung: Russischer Geheimdienst sieht es auf Messenger-Backup-Keys ab
+- [Golem] Perseverance: Erneut komplexe Kohlenstoffe im Marsgestein entdeckt
+- [Heise] BMW schickt neuen humanoiden Figure-03-Roboter zur Arbeit
+- [Heise] Netflix: Jedes Profil braucht künftig eine eigene E-Mail-Adresse
+- [Heise] Ifo Institut: Tankrabatt wurde nur teilweise weitergegeben
+- [Golem] Engpässe bei Rechenkapazitäten: Google begrenzt Metas Zugriff auf Gemini
+- [Heise] Erdbeben in Venezuela: Android-Geräte haben über 11 Millionen Menschen gewarnt
+- [Heise] Innenministerium konkretisiert den Cyberdome teilweise
+- [Heise] Taiwan: Cybersicherheitsbehörde warnt vor Überwachung durch billige eSIMs
+- [Digitec] Soundcore Liberty 5 Pro und Pro Max: Bassmonster mit top Noise Cancelling
 - [Digitec] Jetzt bei uns: die Panorama-Sicherheitskamera Reolink Omvi 3i PoE
 - [Digitec] Die 100 besten Games aller Zeiten: Platz 33-2
-- [Digitec] Soundcore Liberty 5 Pro und Pro Max: Bassmonster mit top Noise Cancelling
 - [Heise] Top 10: Speicher für Balkonkraftwerk im Test
 - [Heise] „Sorry, Sandy“ – John Carmack bedauert das Ende des „Quake”-Teams
 - [Heise] Social Media ab 16: Australien verdoppelt Strafen für Plattformen
@@ -36,11 +74,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] Verfassungswidrig? Scharfe Kritik an geplanter Streaming-Abgabe
 - [Golem] Geran 4: Russland setzt Jet-Drohnen gegen ukrainische Kampfflugzeuge ein
 - [Golem] Lotsen: Belfast schickt elektrisches Hydrofoil-Boot in den Hafen
-- [Golem] Digitales Bezahlen immer beliebter: Die meisten Deutschen wollen überall auch bargeldlos zahlen können
-- [Golem] Südkorea: Jeder Soldat soll zum Drohnenpiloten werden
-- [Golem] Streamingabo: Netflix verlangt für jedes Profil eine eigene E-Mail-Adresse
-- [Golem] Stadt und Amazon wollen nichts ändern: Gericht kippt Bebauungsplan für bereits genutztes Amazon-Lager
-- [Golem] Trotz KI: Jobs in der IT-Branche haben laut Arbeitsagentur eine Zukunft
-- [Heise] G7-Datenschutzgipfel: Ruf nach Regeln für Alterskontrollen und Smart Homes
-- [Heise] Missing Link: 30 Jahre N64 – Nintendos 3D-Wunderkiste
-- [Golem] KI im Krieg: Autonome Waffen übernehmen das Schlachtfeld
