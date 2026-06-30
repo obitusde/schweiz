@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 29.6.2026, 12:58:39
-Letzter Lauf: 29.6.2026, 06:30:35
+Start: 30.6.2026, 06:30:36
+Letzter Lauf: 29.6.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,17 +17,50 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 17 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Kriminalität/Blaulicht-Meldung in der Schweiz außerhalb der Waadt.): 'Angriff auf Zürcher Juden 2024 – Prozess nach Messerangriff in Zürich: 17-Jähriger vor Gericht'
-- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: ID 4 behandelt dasselbe Thema (Erdbeben in Venezuela) und ist informativer.): 'Venezolanische Diaspora – Nach Erdbeben: «Einige Verwandte antworten, andere nicht»'
-- Gelöscht (Grund: Unfall in der Schweiz außerhalb des Kantons Waadt (Mörel-Filet/Wallis).): 'Une voiture chute dans le Rhône: un mort'
-- Gelöscht (Grund: Unfall in der Schweiz außerhalb des Kantons Waadt (Courrendlin/Jura).): 'Un automobiliste perd la maîtrise de sa voiture sur l'A16'
-- Gelöscht (Grund: Duplikat zu Artikel 1 (Thema: Erdbeben in Venezuela).): 'Erdbeben in Venezuela – Noch gibt es Hoffnung auf Überlebende'
+KI-Filter (Gemini) - 37 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Unfall in der Schweiz außerhalb des Kantons Waadt (Mörel-Filet/Wallis).): 'Une voiture chute dans le Rhône: un mort'
+- Weiterhin entfernt (Cache, Grund: Unfall in der Schweiz außerhalb des Kantons Waadt (Courrendlin/Jura).): 'Un automobiliste perd la maîtrise de sa voiture sur l'A16'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 1 (Thema: Erdbeben in Venezuela).): 'Erdbeben in Venezuela – Noch gibt es Hoffnung auf Überlebende'
+- Gelöscht (Grund: Blaulicht-Meldung (Polizeieinsatz) ausserhalb von Waadt (Bern).): 'Une femme trans évacuée de la zone naturiste pour femmes'
+- Gelöscht (Grund: Blaulicht-Meldung (Polizeieinsatz) ausserhalb von Waadt (Bern).): 'Eskalation wegen Geschlecht – Berner Polizei führt trans Frau aus dem Marzilibad'
+- Gelöscht (Grund: Duplikat zu ID 10.): 'Entlassung von Lisa Cook – Mehrere Schlappen für Trump vor dem Supreme Court'
+- Gelöscht (Grund: Duplikat zu ID 6 (SRF-Feed bevorzugt).): 'Pascal Jaussi condamné à 5 ans et demi de prison'
+- Gelöscht (Grund: Blaulicht-Meldung (illegale Aktion) ausserhalb von Waadt (Genf).): 'Viral mais illégal: sauter d'un toit dans le Rhône fait le buzz'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Jugendstrafrecht – Ein Jahr Haft für 17 Messerstiche? Warum Jugendstrafen milde sind
+- [SRF Schweiz] Zollstreit mit den USA – «Es gibt keine Sicherheiten mehr in dieser Welt»
+- [SRF Ausland] Explosion in Monaco – Drei Verletzte nach mutmasslichem Anschlag in Monaco
+- [SRF Ausland] Schüsse in Jugendeinrichtung – Sechs Tote nach Schüssen in norddeutscher Stadt Stade
+- [SRF Ausland] Legalisierung Sans-Papiers – Spaniens Sonderweg: Rund eine Million Anträge
+- [SRF Schweiz] «Schweizer Elon Musk» – Jaussi zu fünfeinhalb Jahren Haft verurteilt
+- [SRF Ausland] Allein in letzter Woche – WHO meldet über 1300 Hitzetote in Europa
+- [20 Min Romandie] Kontrolleure in Zivil sind nun mit von der Partie
+- [SRF Schweiz] Debatte um neue Kernkraftwerke – Der hürdenreiche Weg hin zu neuen AKWs
+- [SRF Ausland] Oberstes Gericht in den USA – Wo der Supreme Court Trump einhegt – und gewähren lässt
+- [SRF Wissen] Klimawandel und Landwirtschaft – Die Sahara erreicht Südeuropa – mit Folgen für die Schweiz
+- [20 Min Romandie] Museumsprojekt für Le Corbusier gerichtlich gestoppt
+- [SRF Ausland] Datenschutzgründe – Whatsapp setzt neu auf Benutzernamen statt Handynummern
+- [SRF Schweiz] Bilanz Jodlerfest in Basel – Eidgenössisches Schwitzfest bei 39 Grad
+- [20 Min Romandie] Funkstille in La Sallaz nach 91 Jahren auf Sendung
+- [SRF Ausland] Prämien für Fischer – Warum Griechenland Jagd auf diesen Kugelfisch macht
+- [SRF Wissen] Nach der Hitze – Ist die Schweiz auf künftige Hitzewellen vorbereitet?
+- [SRF Schweiz] Umfrage – Fast jede fünfte Person in der Schweiz hält Kryptoanlagen
+- [20 Min Romandie] Cannabishandel und Entführungen: Fünf Angeklagte gestehen
+- [SRF Ausland] Kaunertal in Österreich – Nach Unwetter im Tirol werden 200 Personen evakuiert
+- [SRF Schweiz] Hitzewelle und warme Gewässer – «Nie stand es so früh so kritisch um viele Gewässer und Fische»
+- [SRF Schweiz] Aktion der Krebsliga – Gratis-Sonnencreme für Hautkrebs-Hotspot Schweiz
+- [SRF Schweiz] Diskurs um AKW-Neubauten – Initiative «Blackout stoppen» ist vorerst vom Tisch
+- [SRF Schweiz] Premiere im Kanton Glarus – Autofreies Klöntal: Des einen Freud, des andern Frust
+- [SRF Ausland] Erdbeben in Venezuela – Stromausfall stoppt Raffinerie – Der Ticker zum Nachlesen
+- [SRF Ausland] Grausiger Fund in Tierheim – Schock in Kalifornien: 117 tote Hunde gefunden
+- [20 Min Romandie] Entlassen, während sie über ihren schwer verletzten Sohn wachte
+- [SRF Ausland] Krieg in der Ukraine – Geldbetrug: Wenn russische «Helden» zu Opfern werden
+- [20 Min Romandie] Die nächste Hitzewelle zeichnet sich bereits ab
+- [SRF Schweiz] Suisa Songwriting Camp – Die Schweizer ESC-Hitfabrik wird umgebaut
 - [Journal de Morges] Zoé Claessens ist Vize-Europameisterin
-- [SRF Ausland] Erdbeben in Venezuela – Stromausfall stoppt Venezuelas grösste Raffinerie
-- [SRF Schweiz] Walter Arnold – Verjährung: Wer hat den Schweizer 1996 in Madagaskar ermordet?
+- [20 Min Romandie] Piusbruderschaft lässt Risiko einer Kirchenspaltung aufkommen
+- [SRF Schweiz] Walter Arnold – Mord an Schweizer Entwicklungshelfer verjährt ungeklärt
 - [SRF Schweiz] Roboter-Herzchirurgie in Basel – Wenn die Chirurgin an der Konsole sitzt
 - [SRF Schweiz] Debatte um Atomkraftwerke – Studie: Neue AKW lohnen sich nur mit staatlicher Unterstützung
 - [20 Min Romandie] Illegaler Netzanschluss kappt 570 Haushalten den Strom
@@ -39,23 +72,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Schweizer Pionierprojekt – Solarenergie zwischen Bahngleisen: Erste positive Bilanz
 - [SRF Schweiz] Energiepreise – Stromtarife dürften 2027 erneut sinken
 - [SRF Wissen] Justiz und Medienrecht – Palantir akzeptiert Urteil im Streit mit der «Republik»
-- [SRF Ausland] Krieg in der Ukraine – Jagd auf Drohnen auf dem Schwarzen Meer
-- [SRF Schweiz] Ungesunde Aktionen – Für wenig Geld gibts Fett, Zucker und Salz – aber kaum Obst
-- [SRF Schweiz] Zollverhandlungen mit USA – Zollverhandlungen mit den USA gehen in die nächste Runde
-- [SRF Schweiz] Sinti und Jenische – Unabhängige Kommission soll jahrzehntelanges Unrecht aufklären
-- [SRF Ausland] Flucht wegen Sudan-Krieg – Geflüchtete Frauen im Tschad: Risiko der sexualisierten Gewalt
-- [SRF Schweiz] Haushaltsgeräte im Museum – Mann, Frau, Staubsauger: Die Hausfrau als idealisierte Werbefigur
-- [SRF Schweiz] Liveticker zum Nachlesen – Das OASG 2026 ist Geschichte – und eins für die Geschichtsbücher
-- [SRF Ausland] Aleksandar Vucic tritt zurück – «Vucic will weiter seine Macht zementieren»
-- [20 Min Romandie] Großbrand im Schloss von Divonne-les-Bains
-- [SRF Ausland] Fallschirmspringerschule – Elf Tote bei Flugzeugabsturz nahe Nancy
-- [SRF Wirtschaft] Uhrenindustrie – Die Uhrenindustrie will nicht stehen bleiben
-- [SRF Schweiz] Unterwegs fürs Gemeinwohl – Warum ein 77-Jähriger freiwillig Wanderwege pflegt
-- [SRF Schweiz] Muotatal: Natürliche Kühlorte – Auch im Hochsommer strömt hier eisige Luft aus dem Berg
-- [SRF Ausland] Erneute Angriffe Iran und USA – Von Entspannung keine Spur
-- [20 Min Romandie] «Nur drei Sekunden fehlten, und ich wäre darunter gewesen»
-- [SRF Wirtschaft] Umfrage der ZHAW – Trinkgeld auch bei Take-away und Selbstbedienung?
-- [SRF Ausland] Warten auf die Deportation – Tausende Migrantinnen und Migranten in Südafrika leben in Angst
-- [SRF Ausland] Queeres Leben in China – Schweizer Dragqueen trifft auf chinesische Repression
-- [SRF Ausland] Repression am Golf – Golfstaaten nutzen den Krieg als Vorwand für Verhaftungen
-- [Journal de Morges] Hautemorges zahlt für die Erneuerung der Eisbahn von Morges
