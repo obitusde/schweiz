@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 29.6.2026, 12:28:17
-Letzter Lauf: 29.6.2026, 06:10:26
+Start: 30.6.2026, 06:10:25
+Letzter Lauf: 29.6.2026, 12:28:17
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,34 +10,83 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise+': 'heise+ | GitHub-Alternative Forgejo mit Actions zur automatisierten Codeschmiede machen'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Umstieg von M365 auf Nextcloud – eine Anleitung'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Warum Big-Tech-Konzerne ihre KI-Modelle öffnen – ein Interview'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Fünf Tage Akkulaufzeit: E-Ink-Smartphone Bigme Hibreak Pro im Test'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Cine-Objektive: Mehr Videoqualität für spiegellose Kameras'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Smart-TV OLED65G66 im Test: Besseres Bild, KI-Funktionen mäßig'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Fit für die Zukunft – Software im laufenden Betrieb modernisieren'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Vehicle to Grid: Wenn das E-Auto Geld verdient'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c’t-Workshop: Effziente Datenanalyse mit Power BI'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Extraschnelles Netz: Zwei USB-C-Adapter für 10-Gbit/s-Ethernet im Vergleich'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: BCM und IT-Notfallplanung – vorbereitet für den Ernstfall'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Visuelle PKM-Tools: Heptabase, Obsidian Canvas und Xmind im Vergleich'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | VW ID.7 Tourer Pro im Test: Kleine Batterie, schlaue Entscheidung'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Display-Ratgeber: Die besten Bildschirme für den Mac'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Agentic AI: Konferenz zu Legacy-Migration und den Herausforderungen fürs Team'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Platz 1 bei Amazon - Weber Holzkohlegrill befristet im Amazon-Angebot'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ladegerät mit 65 W und drei Ports für nur 21,97 Euro bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Top-Deal nach dem Prime Day - Saugroboter von Roborock zum Tiefstpreis bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kult-Computer Commodore 64 kehrt dieses Jahr als Handheld zurück'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Schluss mit Kabelsalat dank dieser stark reduzierten Anker USB-C Kabel'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Top-bewertete Taschenlampe bei Amazon für unter 13 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Monitor mit 24,5'' FHD und 180 Hz für 82,99 Euro bei Amazon'
+- Gelöscht wegen Keyword '(g+)': '(g+) IKEv1-Altlast: Abgekündigtes Protokoll öffnet Ransomware-Banden das Firmen-VPN'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Samsung Galaxy Tab mit S-Pen stark reduziert bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kollaboration ohne Datenschutzrisiko - geht das?'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Nur noch heute und morgen: 15 Prozent Rabatt auf IT-Security-Workshops'
 - [FEED FEHLER] https://www.lightroomqueen.com/feed/: Exception: Request failed for https://www.lightroomqueen.com returned code 403. Truncated server response: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta htt... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 34 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Thematisiert interne PC-Komponenten (Speicher/RAM).): 'Bericht: Apple bemüht sich um Speicher von CXMT'
-- Weiterhin entfernt (Cache, Grund: Fällt unter das Ausschlusskriterium Apple Themen (iOS).): 'Apple blockt russische Messenger – Russland rät Bürgern zu Android'
-- Gelöscht (Grund: Inhalt befasst sich mit iOS (Harter Ausschluss).): 'AirPods-Firmware-Beta und iOS 27: Das ist neu bei Apples Stöpseln'
-- Gelöscht (Grund: Inhalt befasst sich mit Star Trek (Harter Ausschluss).): 'Klang aus den Fünfzigern: Star Trek borgte Phaser-Sound aus Filmklassiker'
-- Gelöscht (Grund: Inhalt befasst sich mit Deep OS-Internals und Linux (Harter Ausschluss).): 'Root-Zugriff möglich: Exploits für gefährliche Lücke im Linux-Kernel geleakt'
-- Gelöscht (Grund: Inhalt befasst sich mit internen PC-Komponenten und OS-Basteleien (Harter Ausschluss).): 'Alter PC: Bastler nutzt Windows 11 mit 3 GByte DDR1-Arbeitsspeicher'
-- Gelöscht (Grund: Inhalt befasst sich mit Web-Infrastruktur (Harter Ausschluss).): 'Umami 3.2.0: Heatmaps und verbesserte Webanalyse'
-- Gelöscht (Grund: Duplikat zu Artikel 16 (Dasselbe Ereignis).): 'Fußball-Streaming ade: 400 illegale Streamingportale vom Netz genommen'
-- Gelöscht (Grund: Duplikat zu Artikel 11 (Dasselbe Ereignis).): 'Brief an die EU: Österreich will Anthropic nach Europa holen'
-- Gelöscht (Grund: Inhalt befasst sich mit Apple-Themen und internen PC-Komponenten/RAM (Harter Ausschluss).): 'Montag: Apple für chinesischen Speicher, Warnung vor Datenklau durch eSIMs'
+KI-Filter (Gemini) - 45 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit iOS (Harter Ausschluss).): 'AirPods-Firmware-Beta und iOS 27: Das ist neu bei Apples Stöpseln'
+- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit Star Trek (Harter Ausschluss).): 'Klang aus den Fünfzigern: Star Trek borgte Phaser-Sound aus Filmklassiker'
+- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit Deep OS-Internals und Linux (Harter Ausschluss).): 'Root-Zugriff möglich: Exploits für gefährliche Lücke im Linux-Kernel geleakt'
+- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit internen PC-Komponenten und OS-Basteleien (Harter Ausschluss).): 'Alter PC: Bastler nutzt Windows 11 mit 3 GByte DDR1-Arbeitsspeicher'
+- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit Web-Infrastruktur (Harter Ausschluss).): 'Umami 3.2.0: Heatmaps und verbesserte Webanalyse'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 11 (Dasselbe Ereignis).): 'Brief an die EU: Österreich will Anthropic nach Europa holen'
+- Weiterhin entfernt (Cache, Grund: Inhalt befasst sich mit Apple-Themen und internen PC-Komponenten/RAM (Harter Ausschluss).): 'Montag: Apple für chinesischen Speicher, Warnung vor Datenklau durch eSIMs'
+- Gelöscht (Grund: Behandelt ausschließlich interne PC-Komponenten (Speicherchips/DRAM).): 'Milliardenauftrag: Chinas CXMT vereinbart Lieferung von Speicherchips an Tencent'
+- Gelöscht (Grund: Behandelt Enterprise-IT und Netzwerk-Infrastruktur (Firmenkundennetzwerke).): 'Verizon: BT Group legt internationales Firmenkundennetzwerk mit US-Konzern zusammen'
+- Gelöscht (Grund: Duplikat zu Artikel ID 9.): 'Ministerium genehmigt Übernahme von MediaMarktSaturn durch JD.com'
+- Gelöscht (Grund: Duplikat zu Artikel ID 20.): 'Rocket Lab: Weltraumkonzern kauft Satellitentelefonnetzwerk Iridium für 8 Milliarden Dollar'
+- Gelöscht (Grund: Behandelt Netzwerk-Infrastruktur (GSM-R/Bahnfunk).): 'Nach Ausfall: Veralteter Bahnfunk GSM-R laut Experten "strukturell anfällig"'
+- Gelöscht (Grund: Behandelt ausschließlich interne PC-Komponenten (DRAM/RAM-Fertigung).): 'Kartellbildung: Klage gegen DRAM-Hersteller wegen Speicherpreisen'
+- Gelöscht (Grund: Behandelt ausschließlich interne PC-Komponenten (Halbleiter/Speicherproduktion).): 'Speicherhersteller investieren Hunderte Milliarden in neue Halbleiterwerke'
+- Gelöscht (Grund: Fällt unter Deep OS-Internals/Updates und belangloses Betriebssystem-Rauschen.): 'Windows-Insider-Vorschau verbessert die Taskleiste'
+- Gelöscht (Grund: Behandelt Deep OS-Internals (Support-Zeiträume) und Betriebssystem-Updates.): 'Windows-10-Sicherheitsupdates für Privatkunden bis Oktober 2027 verlängert'
+- Gelöscht (Grund: Behandelt Code-Theorie und Web-Infrastruktur (Git-Tools/Commits).): 'Git grafisch mit KI sortieren und verwalten – GitBrowser'
+- Gelöscht (Grund: Behandelt Code-Theorie und Web-Infrastruktur (SSH-Bibliotheken).): 'Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht'
+- Gelöscht (Grund: Behandelt ausschließlich interne PC-Komponenten (RAM).): 'RAM-Krise: 1 GByte RAM kostet heute so viel wie 1 GByte vor 16 Jahren'
+- Gelöscht (Grund: Behandelt Code-Theorie und Web-Infrastruktur (Sicherheitsmanagement für Open-Source).): 'Neue Allianz für mehr Open-Source-Schutz'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Chips übertrumpfen Autos: Mexiko profitiert vom KI-Boom
+- [Heise] Nordamerika-Premiere: CO2-Zertifikate aus Direct Air Capture für Microsoft
+- [Heise] Top 10: Bestes Smartphone bis 400 Euro im Test
+- [Heise] WhatsApp führt Benutzernamen ein – Handynummer bleibt privat
+- [Heise] Geheimdienste im Visier: Straßburger Gericht prüft deutsche Überwachungspraxis
+- [Heise] Chinas GLM-5.2 erreicht Anthropics Mythos bei der Schwachstellensuche
+- [Golem] Sony: PS6 mit 4K und 120 fps für 1.000 US-Dollar?
+- [Golem] JD.com: Wirtschaftsministerium genehmigt Übernahme von Mediamarkt-Saturn
+- [Golem] T-Mobile Holding: Telekom forciert neuen Hauptsitz im Ausland
+- [Digitec] Hitze, Gewitter und die halbe Nacht wach: Gut geschlafen, sagt die Smartwatch
+- [Golem] Drei Euro pro Warenkategorie: Abgabe auf Billigwaren aus China gilt ab Mittwoch
+- [Heise] So würde eine KI als Start-up-Chef abschneiden
+- [Golem] Bastelprojekt: So läuft Youtube auf dem Game Boy Color von 1998
+- [Heise] Plattformarbeit im Test: Kaum eine App bietet faire Bedingungen
+- [Heise] Statt Emulator: Bastler baut Apple II Plus komplett in Hardware nach
+- [Golem] Security: Google Recaptcha-Alternative lässt sich mit Stock-Fotos austricksen
+- [Heise] E-Scooter Egret Unit im Test: Viel Power, großer Akku & cleverer Gepäckträger
+- [Heise] Rocket Lab kauft Iridium: Konkurrenz für SpaceX im Satellitenmarkt
+- [Heise] KI-Update kompakt: KI-Moderation, Finanzmarkt, Datenschutz, GPT-Images
+- [Heise] Busy Bar: Produktivitäts-Gadget vom Erfinder des Flipper Zero erscheint im Juli
+- [Heise] CD Projekt wird wieder CD Projekt Red
+- [Golem] Leere PDFs statt Originaltext: Historische Arbeiten von Max Planck zurückgezogen
+- [Golem] Energiewende: Grüne wollen regionale Strompreise einführen
+- [Golem] Citizen Vigilante: Der Film, der nie verboten war
+- [Golem] Hitzewelle in Europa: Erst 37 °C, zuletzt 41 °C, bald 47 °C
+- [Digitec] Schluss mit anonymen Profilen: Netflix führt Mail-Zwang für Mitnutzer ein
+- [Digitec] Galaxus lanciert Travel eSIM
+- [Golem] Microsoft Edge: Malware in millionenfach installierten Browser-Add-ons entdeckt
+- [Heise] Bericht: VW will autonomes Fahren ohne Bosch weiterentwickeln
+- [Heise] Erdgeschichte: Asteroideneinschläge haben Entstehung von Kontinenten verzögert
+- [Digitec] Sony entfernt Hunderte gekaufte Filme aus Playstation-Bibliotheken
+- [Heise] KI-Engpass: Google kann Metas Nachfrage nach Gemini nicht mehr decken
 - [Golem] Rockstar Games: Erster Händler spricht von irren GTA-6-Rekordverkäufen
+- [Heise] Apple verliert Vizepräsident an OpenAI – und Jony Ive
 - [Golem] Jugendschutz: Australien verdoppelt Strafen für Social-Media-Unternehmen
 - [Golem] Vor der Nasdaq-100-Aufnahme: Neuer Schub für SpaceX
 - [Golem] Solarausbau: Ausschreibungen zu PV mit Speicher haben klaren Preistrend
@@ -47,30 +96,16 @@ Finale Liste (live im XML-Feed):
 - [Golem] Wegen US-Einflussnahme: Österreichischer Staatssekretär will Anthropic in EU holen
 - [Heise] Forscher heben Temperatur für Supraleitung ohne dauerhafte Druckerhöhung an
 - [Golem] Kunden werden zu Neuvertrag gedrängt: 1&1 erschwert Umzug mit aktivem DSL-Vertrag
-- [Heise] Gegen Normen verstoßen? Zwei Artikel von Max Planck nach 60 Jahren zurückgezogen
+- [Heise] Gegen Normen verstoßen? Zwei Artikel Max Plancks nach 60 Jahren zurückgezogen
 - [Heise] USA beschlagnahmen fast 400 Domains für illegale WM-Streams
 - [Golem] Weltraumteleskop: Esa-Teleskop Euclid liefert riesiges Mosaik der Milchstraße
 - [Digitec] WD Elements Portable: Externe Festplatten erhalten USB-C und bis zu 6 Terabyte
-- [Golem] Bayerische Polizei und Palantir: Ist der Einsatz von Vera teils verfassungswidrig?
+- [Golem] Polizei und Palantir: Wie Bayern die Kontrolle über Palantir verliert
 - [Golem] Cariad: VW will autonomes Fahren ohne Bosch weiterentwickeln
-- [Golem] KI-Forschung: Chatbots können Wahnvorstellungen verstärken
 - [Heise] Planeten wie Zuckerwatte: Nasa-Mission Tess entdeckt besondere Riesen im All
 - [Heise] FBI-Warnung: Russischer Geheimdienst sieht es auf Messenger-Backup-Keys ab
-- [Golem] Perseverance: Erneut komplexe Kohlenstoffe im Marsgestein entdeckt
 - [Heise] BMW schickt neuen humanoiden Figure-03-Roboter zur Arbeit
 - [Heise] Netflix: Jedes Profil braucht künftig eine eigene E-Mail-Adresse
 - [Heise] Ifo Institut: Tankrabatt wurde nur teilweise weitergegeben
-- [Golem] Engpässe bei Rechenkapazitäten: Google begrenzt Metas Zugriff auf Gemini
 - [Heise] Erdbeben in Venezuela: Android-Geräte haben über 11 Millionen Menschen gewarnt
 - [Heise] Innenministerium konkretisiert den Cyberdome teilweise
-- [Heise] Taiwan: Cybersicherheitsbehörde warnt vor Überwachung durch billige eSIMs
-- [Digitec] Soundcore Liberty 5 Pro und Pro Max: Bassmonster mit top Noise Cancelling
-- [Digitec] Jetzt bei uns: die Panorama-Sicherheitskamera Reolink Omvi 3i PoE
-- [Digitec] Die 100 besten Games aller Zeiten: Platz 33-2
-- [Heise] Top 10: Speicher für Balkonkraftwerk im Test
-- [Heise] „Sorry, Sandy“ – John Carmack bedauert das Ende des „Quake”-Teams
-- [Heise] Social Media ab 16: Australien verdoppelt Strafen für Plattformen
-- [Heise] Laptop Chuwi Corebook Air im Test: Leicht & für 550 €, aber QWERTY-Tastatur
-- [Heise] Verfassungswidrig? Scharfe Kritik an geplanter Streaming-Abgabe
-- [Golem] Geran 4: Russland setzt Jet-Drohnen gegen ukrainische Kampfflugzeuge ein
-- [Golem] Lotsen: Belfast schickt elektrisches Hydrofoil-Boot in den Hafen
