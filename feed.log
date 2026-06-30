@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 30.6.2026, 06:30:36
-Letzter Lauf: 29.6.2026, 12:58:39
+Start: 30.6.2026, 12:58:38
+Letzter Lauf: 30.6.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,20 +17,41 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 37 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfall in der Schweiz außerhalb des Kantons Waadt (Mörel-Filet/Wallis).): 'Une voiture chute dans le Rhône: un mort'
-- Weiterhin entfernt (Cache, Grund: Unfall in der Schweiz außerhalb des Kantons Waadt (Courrendlin/Jura).): 'Un automobiliste perd la maîtrise de sa voiture sur l'A16'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 1 (Thema: Erdbeben in Venezuela).): 'Erdbeben in Venezuela – Noch gibt es Hoffnung auf Überlebende'
-- Gelöscht (Grund: Blaulicht-Meldung (Polizeieinsatz) ausserhalb von Waadt (Bern).): 'Une femme trans évacuée de la zone naturiste pour femmes'
-- Gelöscht (Grund: Blaulicht-Meldung (Polizeieinsatz) ausserhalb von Waadt (Bern).): 'Eskalation wegen Geschlecht – Berner Polizei führt trans Frau aus dem Marzilibad'
-- Gelöscht (Grund: Duplikat zu ID 10.): 'Entlassung von Lisa Cook – Mehrere Schlappen für Trump vor dem Supreme Court'
-- Gelöscht (Grund: Duplikat zu ID 6 (SRF-Feed bevorzugt).): 'Pascal Jaussi condamné à 5 ans et demi de prison'
-- Gelöscht (Grund: Blaulicht-Meldung (illegale Aktion) ausserhalb von Waadt (Genf).): 'Viral mais illégal: sauter d'un toit dans le Rhône fait le buzz'
+KI-Filter (Gemini) - 26 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Polizeieinsatz) ausserhalb von Waadt (Bern).): 'Une femme trans évacuée de la zone naturiste pour femmes'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Polizeieinsatz) ausserhalb von Waadt (Bern).): 'Eskalation wegen Geschlecht – Berner Polizei führt trans Frau aus dem Marzilibad'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 10.): 'Entlassung von Lisa Cook – Mehrere Schlappen für Trump vor dem Supreme Court'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 6 (SRF-Feed bevorzugt).): 'Pascal Jaussi condamné à 5 ans et demi de prison'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (illegale Aktion) ausserhalb von Waadt (Genf).): 'Viral mais illégal: sauter d'un toit dans le Rhône fait le buzz'
+- Gelöscht (Grund: Tödlicher Verkehrsunfall in Les Crosets (Wallis) außerhalb des Kantons Waadt.): 'Après une sortie de route, un homme de 34 ans perd la vie'
+- Gelöscht (Grund: Blaulicht-Meldung über eine Naturgefahr und Strassensperrung im Wallis außerhalb des Kantons Waadt.): 'Une lave torrentielle coupe la route de la Grande-Dixence'
+- Gelöscht (Grund: Mathematisches Duplikat zu ID 23; beide Artikel behandeln den Zollstreit mit den USA, ID 23 ist informativer.): 'Zollverhandlungen mit USA – Schweiz darf sich keine Illusionen machen'
 
 Finale Liste (live im XML-Feed):
-- [SRF Schweiz] Jugendstrafrecht – Ein Jahr Haft für 17 Messerstiche? Warum Jugendstrafen milde sind
-- [SRF Schweiz] Zollstreit mit den USA – «Es gibt keine Sicherheiten mehr in dieser Welt»
-- [SRF Ausland] Explosion in Monaco – Drei Verletzte nach mutmasslichem Anschlag in Monaco
+- [SRF Ausland] Explosion in Monaco – Anschlag in Monaco: Derzeit keine Terror-Ermittlungen
+- [SRF Ausland] Erdbeben in Venezuela – Unicef: «Sofortiges Spielen ist die beste Therapie für Kinder»
+- [20 Min Romandie] «Wir sprechen von verwüsteten Gebieten: Es ist zum Weinen...»
+- [20 Min Romandie] Hitzewelle: Notaufnahme-Aktivität um 60 % gestiegen
+- [SRF Schweiz] Unfallstatistik – Zahl der Freizeitunfälle steigt in der Schweiz weiter an
+- [SRF Ausland] Drei Jahre im Ukraine-Krieg – Botschafter: «Man lernt, die Raketen am Ton zu erkennen»
+- [20 Min Romandie] Plädoyer für die künftige Metro Jura-Salève über Cornavin
+- [SRF Schweiz] Schutzmassnahmen im Handel – EU reduziert zollfreie Importmenge von Schweizer Stahl
+- [20 Min Romandie] Sturzfluten an der Nordwand des Matterhorns
+- [SRF Schweiz] Faszination Ungeziefer – «Am Anfang dachte ich noch: Uh, das würde ich nie machen»
+- [SRF Ausland] WM-Aus für Deutschland – Das elende Ende einer grossen Elf
+- [20 Min Romandie] Genf von Hagel und starken Böen heimgesucht
+- [20 Min Romandie] Häusliche Gewalt: Die Polizei rückte 2025 insgesamt 966 Mal aus
+- [Morges Actualitiés] Einschränkungen beim Trinkwasser
+- [20 Min Romandie] Energieversorger Groupe E streicht zwischen 22 und 31 Stellen
+- [SRF Schweiz] Effiziente Hilfe aus der Luft – Was die neuen Rettungshelikopter der Rega taugen
+- [20 Min Romandie] Die Schweizer Solar-Bahnstrecke ist international gefragt
+- [SRF Ausland] Fussball-WM in den USA – Die WM läuft, der Präsident fehlt – bis jetzt
+- [SRF Schweiz] Prüfung durch Finanzkontrolle – IT-Projekt des VBS: «Wir wechseln das Rad am fahrenden Auto»
+- [RTS Vaud] Untersuchungshaft: Eine „Ewigkeit“, die im Kanton Waadt immer länger wird
+- [SRF Schweiz] Zollstreit mit den USA – Parmelin: «Es gibt keine Sicherheiten mehr in dieser Welt»
+- [SRF Wissen] WHO gibt Entwarnung – Hantavirus-Ausbruch auf der «Hondius» geht dem Ende zu
+- [SRF Gesellschaft] Arschgyge, Goofe und Huresiech – Ohne Anstand und Sitte: Hier lernen Sie, ordentlich zu schimpfen
+- [SRF Schweiz] Jugendstrafrecht – Warum nur ein Jahr Haft für jugendlichen Messerstecher?
 - [SRF Ausland] Schüsse in Jugendeinrichtung – Sechs Tote nach Schüssen in norddeutscher Stadt Stade
 - [SRF Ausland] Legalisierung Sans-Papiers – Spaniens Sonderweg: Rund eine Million Anträge
 - [SRF Schweiz] «Schweizer Elon Musk» – Jaussi zu fünfeinhalb Jahren Haft verurteilt
@@ -59,16 +80,3 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Die nächste Hitzewelle zeichnet sich bereits ab
 - [SRF Schweiz] Suisa Songwriting Camp – Die Schweizer ESC-Hitfabrik wird umgebaut
 - [Journal de Morges] Zoé Claessens ist Vize-Europameisterin
-- [20 Min Romandie] Piusbruderschaft lässt Risiko einer Kirchenspaltung aufkommen
-- [SRF Schweiz] Walter Arnold – Mord an Schweizer Entwicklungshelfer verjährt ungeklärt
-- [SRF Schweiz] Roboter-Herzchirurgie in Basel – Wenn die Chirurgin an der Konsole sitzt
-- [SRF Schweiz] Debatte um Atomkraftwerke – Studie: Neue AKW lohnen sich nur mit staatlicher Unterstützung
-- [20 Min Romandie] Illegaler Netzanschluss kappt 570 Haushalten den Strom
-- [SRF Wirtschaft] Öl-Geld fürs Klima – Norwegischer Risiko-Chef: «Gibt keine vergleichbaren Ereignisse»
-- [20 Min Romandie] Unwetter 2024: Letzte Millionen freigegeben
-- [20 Min Romandie] Räuber von Daillens zu 8 bis 13 Jahren Haft verurteilt
-- [SRF Ausland] Journalismus unter Druck – Serbien: Letzte unabhängige Medien in Gefahr
-- [20 Min Romandie] Start-up verlängert Lebensdauer von E-Bike-Akkus
-- [SRF Schweiz] Schweizer Pionierprojekt – Solarenergie zwischen Bahngleisen: Erste positive Bilanz
-- [SRF Schweiz] Energiepreise – Stromtarife dürften 2027 erneut sinken
-- [SRF Wissen] Justiz und Medienrecht – Palantir akzeptiert Urteil im Streit mit der «Republik»
