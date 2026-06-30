@@ -5,25 +5,235 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Mon, 29 Jun 2026 10:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:30:36 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[SRF Schweiz] Jugendstrafrecht – Ein Jahr Haft für 17 Messerstiche? Warum Jugendstrafen milde sind</title>
+      <link>https://www.srf.ch/news/schweiz/jugendstrafrecht-ein-jahr-haft-fuer-17-messerstiche-warum-jugendstrafen-milde-sind</link>
+      <guid isPermaLink="false">urn:srf:article:019f1257-fb62-09d9-9d3e-bb1bd0a14e98</guid>
+      <description><![CDATA[Erziehen statt strafen – die Idee des Jugendstrafrechts. Im internationalen Vergleich ist die Schweiz besonders milde.]]></description>
+      <pubDate>Tue, 30 Jun 2026 04:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Zollstreit mit den USA – «Es gibt keine Sicherheiten mehr in dieser Welt»</title>
+      <link>https://www.srf.ch/news/schweiz/zollstreit-mit-den-usa-es-gibt-keine-sicherheiten-mehr-in-dieser-welt</link>
+      <guid isPermaLink="false">urn:srf:article:019f161a-afd7-78bf-a5cc-4070052e99ae</guid>
+      <description><![CDATA[Guy Parmelin erklärt im Interview, weshalb der Bundesrat im Zollstreit mit den USA die Absichtserklärung bekräftigt hat.]]></description>
+      <pubDate>Tue, 30 Jun 2026 04:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Explosion in Monaco – Drei Verletzte nach mutmasslichem Anschlag in Monaco</title>
+      <link>https://www.srf.ch/news/international/explosion-in-monaco-drei-verletzte-nach-mutmasslichem-anschlag-in-monaco</link>
+      <guid isPermaLink="false">urn:srf:article:019f1584-7791-8af3-f6e2-def7270eb864</guid>
+      <description><![CDATA[In Monaco sind bei einer Explosion drei Menschen teils schwer verletzt worden. Der mutmassliche Täter ist flüchtig.]]></description>
+      <pubDate>Tue, 30 Jun 2026 03:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Schüsse in Jugendeinrichtung – Sechs Tote nach Schüssen in norddeutscher Stadt Stade</title>
+      <link>https://www.srf.ch/news/international/schuesse-in-jugendeinrichtung-sechs-tote-nach-schuessen-in-norddeutscher-stadt-stade</link>
+      <guid isPermaLink="false">urn:srf:article:019f1330-2b81-d985-0a43-92bd1a6a955e</guid>
+      <description><![CDATA[Mehrere Personen wurden in der Stadt westlich von Hamburg verletzt. Der mutmassliche Schütze wurde festgenommen.]]></description>
+      <pubDate>Tue, 30 Jun 2026 01:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Legalisierung Sans-Papiers – Spaniens Sonderweg: Rund eine Million Anträge</title>
+      <link>https://www.srf.ch/news/international/legalisierung-sans-papiers-spaniens-sonderweg-rund-eine-million-antraege</link>
+      <guid isPermaLink="false">urn:srf:article:019f1327-8608-0b95-28a0-62b2166dd840</guid>
+      <description><![CDATA[In Spanien endet die dreimonatige Frist für irreguläre Migrantinnen und Migranten, um deren Aufenthalt zu legalisieren.]]></description>
+      <pubDate>Mon, 29 Jun 2026 21:58:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] «Schweizer Elon Musk» – Jaussi zu fünfeinhalb Jahren Haft verurteilt</title>
+      <link>https://www.srf.ch/news/schweiz/schweizer-elon-musk-jaussi-zu-fuenfeinhalb-jahren-haft-verurteilt</link>
+      <guid isPermaLink="false">urn:srf:article:019f13a5-43b1-cd65-78e4-4995226d7ded</guid>
+      <description><![CDATA[Der Gründer von «Swiss Space Systems» wurde wegen Veruntreuung, Betrugs, Urkundenfälschung und Brandstiftung belangt.]]></description>
+      <pubDate>Mon, 29 Jun 2026 19:48:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Allein in letzter Woche – WHO meldet über 1300 Hitzetote in Europa</title>
+      <link>https://www.srf.ch/news/international/allein-in-letzter-woche-who-meldet-ueber-1300-hitzetote-in-europa</link>
+      <guid isPermaLink="false">urn:srf:article:019f13db-ecb7-ed50-c903-3be5a6783098</guid>
+      <description><![CDATA[Vor allem für ältere und vulnerable Menschen kann Hitze gefährlich werden. Die WHO legt alarmierende Zahlen vor.]]></description>
+      <pubDate>Mon, 29 Jun 2026 19:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Kontrolleure in Zivil sind nun mit von der Partie</title>
+      <link>https://www.20min.ch/fr/story/lausanne-vd-des-controleurs-en-civil-sont-desormais-de-la-partie-103592765</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-vd-des-controleurs-en-civil-sont-desormais-de-la-partie-103592765</guid>
+      <description><![CDATA[Seit Anfang des Jahres sind Kontrolleure der Lausanner Verkehrsbetriebe in Zivil in Bussen und Metros unterwegs. Das Ziel: diskreter vorzugehen.]]></description>
+      <pubDate>Mon, 29 Jun 2026 17:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Debatte um neue Kernkraftwerke – Der hürdenreiche Weg hin zu neuen AKWs</title>
+      <link>https://www.srf.ch/news/schweiz/debatte-um-neue-kernkraftwerke-der-huerdenreiche-weg-hin-zu-neuen-akws</link>
+      <guid isPermaLink="false">urn:srf:article:019f1408-fed0-ca52-9747-6b4e62838b34</guid>
+      <description><![CDATA[Neue Kernkraftwerke sind ein heiss diskutiertes Thema. Nun legen namhafte Forschende eine neue Studie vor.]]></description>
+      <pubDate>Mon, 29 Jun 2026 17:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Oberstes Gericht in den USA – Wo der Supreme Court Trump einhegt – und gewähren lässt</title>
+      <link>https://www.srf.ch/news/international/oberstes-gericht-in-den-usa-wo-der-supreme-court-trump-einhegt-und-gewaehren-laesst</link>
+      <guid isPermaLink="false">urn:srf:article:019f1416-adc6-d49d-0ca8-90aa2be23e60</guid>
+      <description><![CDATA[Donald Trump muss eine Niederlage vor dem Obersten Gericht hinnehmen. SRF-Korrespondent Andrea Christen ordnet ein.]]></description>
+      <pubDate>Mon, 29 Jun 2026 17:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Klimawandel und Landwirtschaft – Die Sahara erreicht Südeuropa – mit Folgen für die Schweiz</title>
+      <link>https://www.srf.ch/wissen/klimawandel/klimawandel-und-landwirtschaft-die-sahara-erreicht-suedeuropa-mit-folgen-fuer-die-schweiz</link>
+      <guid isPermaLink="false">urn:srf:article:019eefe7-19f9-4f9a-2501-5bf6df8ac331</guid>
+      <description><![CDATA[Die Bauern auf Sizilien mussten Tiere schlachten und Zitrusbäume ausreissen. Wie geht es weiter mit der Landwirtschaft?]]></description>
+      <pubDate>Mon, 29 Jun 2026 17:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Museumsprojekt für Le Corbusier gerichtlich gestoppt</title>
+      <link>https://www.20min.ch/fr/story/geneve-projet-de-musee-consacre-a-le-corbusier-torpille-en-justice-103592863</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-projet-de-musee-consacre-a-le-corbusier-torpille-en-justice-103592863</guid>
+      <description><![CDATA[Das Verwaltungsgericht hebt die staatliche Bewilligung für ein Museumszentrum zu Ehren des berühmten Architekten auf. Das Projekt zieht sich seit einem Jahrzehnt hin.]]></description>
+      <pubDate>Mon, 29 Jun 2026 16:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Datenschutzgründe – Whatsapp setzt neu auf Benutzernamen statt Handynummern</title>
+      <link>https://www.srf.ch/news/international/datenschutzgruende-whatsapp-setzt-neu-auf-benutzernamen-statt-handynummern</link>
+      <guid isPermaLink="false">urn:srf:article:019f1433-30a7-1d2b-8312-4001e6086370</guid>
+      <description><![CDATA[Wer bei Whatsapp bald neue Chats startet, kann künftig statt der Telefonnummer einen Benutzernamen verwenden.]]></description>
+      <pubDate>Mon, 29 Jun 2026 16:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bilanz Jodlerfest in Basel – Eidgenössisches Schwitzfest bei 39 Grad</title>
+      <link>https://www.srf.ch/news/schweiz/bilanz-jodlerfest-in-basel-eidgenoessisches-schwitzfest-bei-39-grad</link>
+      <guid isPermaLink="false">urn:srf:article:019f1213-9faf-18cc-eb19-a9cee1205b21</guid>
+      <description><![CDATA[Basel im Zeichen der Schweizer Folklore – 200'000 Gäste und 12'000 Aktive trotzen am Wochenende der Hitze.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:58:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Funkstille in La Sallaz nach 91 Jahren auf Sendung</title>
+      <link>https://www.20min.ch/fr/story/lausanne-silence-radio-a-la-sallaz-apres-91-ans-d-antenne-103592941</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-silence-radio-a-la-sallaz-apres-91-ans-d-antenne-103592941</guid>
+      <description><![CDATA[Nach 91 Jahren Geschichte hat das Radiohaus La Sallaz am Montag seine letzten Sendungen ausgestrahlt. Die Teams der RTS ziehen nun an den Standort Ecublens um.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Prämien für Fischer – Warum Griechenland Jagd auf diesen Kugelfisch macht</title>
+      <link>https://www.srf.ch/news/international/praemien-fuer-fischer-warum-griechenland-jagd-auf-diesen-kugelfisch-macht</link>
+      <guid isPermaLink="false">urn:srf:article:019f132a-2c71-3780-c28a-bbac62049389</guid>
+      <description><![CDATA[Erst bereitete der Hasenkopf-Kugelfisch türkischen Fischern Probleme, nun tritt er massiv in griechischen Gewässern auf.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:42:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Nach der Hitze – Ist die Schweiz auf künftige Hitzewellen vorbereitet?</title>
+      <link>https://www.srf.ch/news/nach-der-hitze-ist-die-schweiz-auf-kuenftige-hitzewellen-vorbereitet</link>
+      <guid isPermaLink="false">urn:srf:article:019f1381-272d-c636-193b-3e3c7ce68ebf</guid>
+      <description><![CDATA[Die Temperaturen sinken, doch solche Extremereignisse dürften häufiger werden, sagt der SRF-Wissenschaftsredaktor.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Umfrage – Fast jede fünfte Person in der Schweiz hält Kryptoanlagen</title>
+      <link>https://www.srf.ch/news/schweiz/umfrage-fast-jede-fuenfte-person-in-der-schweiz-haelt-kryptoanlagen</link>
+      <guid isPermaLink="false">urn:srf:article:019f1399-26e3-71bc-f910-bcdaddc441d1</guid>
+      <description><![CDATA[In Krypto zu investieren, wird in der Schweiz immer beliebter.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:37:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Cannabishandel und Entführungen: Fünf Angeklagte gestehen</title>
+      <link>https://www.20min.ch/fr/story/justice-vaudoise-trafic-de-cannabis-et-kidnappings-cinq-accuses-passent-aux-aveux-103592626</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/justice-vaudoise-trafic-de-cannabis-et-kidnappings-cinq-accuses-passent-aux-aveux-103592626</guid>
+      <description><![CDATA[Dealer, die Opfer eines Diebstahls wurden, wollten sich durch Entführungen rächen. Im Prozess gaben fünf der sechs Angeklagten die Taten zu und akzeptierten die vorgeschlagenen Strafen.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Kaunertal in Österreich – Nach Unwetter im Tirol werden 200 Personen evakuiert</title>
+      <link>https://www.srf.ch/news/international/kaunertal-in-oesterreich-nach-unwetter-im-tirol-werden-200-personen-evakuiert</link>
+      <guid isPermaLink="false">urn:srf:article:019f1363-328a-db0c-f7d9-3aef297822f4</guid>
+      <description><![CDATA[Muren haben im Tirol die Gletscherstrasse verschüttet. Nun wurden Menschen per Helikopter aus dem Tal geflogen.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:06:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Hitzewelle und warme Gewässer – «Nie stand es so früh so kritisch um viele Gewässer und Fische»</title>
+      <link>https://www.srf.ch/news/schweiz/hitzewelle-und-warme-gewaesser-nie-stand-es-so-frueh-so-kritisch-um-viele-gewaesser-und-fische</link>
+      <guid isPermaLink="false">urn:srf:article:019f1266-abdb-b2af-2437-71130bef6bd2</guid>
+      <description><![CDATA[Die Fische leiden unter den hohen Wassertemperaturen. Wie kritisch es ist, erklärt der Schweizer Fischereiverband.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Aktion der Krebsliga – Gratis-Sonnencreme für Hautkrebs-Hotspot Schweiz</title>
+      <link>https://www.srf.ch/news/dialog/aktion-der-krebsliga-gratis-sonnencreme-fuer-hautkrebs-hotspot-schweiz</link>
+      <guid isPermaLink="false">urn:srf:article:019efde1-7c13-3e70-c43e-7f11f256e7c9</guid>
+      <description><![CDATA[Die Schweiz ist weltweit mit am stärksten betroffen von Hautkrebs. Jetzt stehen Sonnencreme-Spender im ganzen Land.]]></description>
+      <pubDate>Mon, 29 Jun 2026 13:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Diskurs um AKW-Neubauten – Initiative «Blackout stoppen» ist vorerst vom Tisch</title>
+      <link>https://www.srf.ch/news/schweiz/diskurs-um-akw-neubauten-initiative-blackout-stoppen-ist-vorerst-vom-tisch</link>
+      <guid isPermaLink="false">urn:srf:article:019f1364-af0d-fbfa-803e-c170d626e526</guid>
+      <description><![CDATA[Ein Referendum gegen den Gegenvorschlag macht einen Urnengang zu AKW-Neubauten in der Schweiz wahrscheinlich.]]></description>
+      <pubDate>Mon, 29 Jun 2026 13:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Premiere im Kanton Glarus – Autofreies Klöntal: Des einen Freud, des andern Frust</title>
+      <link>https://www.srf.ch/news/schweiz/premiere-im-kanton-glarus-autofreies-kloental-des-einen-freud-des-andern-frust</link>
+      <guid isPermaLink="false">urn:srf:article:019f1253-e17f-3e50-820a-f23125814f6d</guid>
+      <description><![CDATA[Der autofreie Sonntag im glarnerischen Klöntal begeisterte viele. Aber nicht alle profitierten vom ersten Slow Sunday.]]></description>
+      <pubDate>Mon, 29 Jun 2026 13:08:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Erdbeben in Venezuela – Stromausfall stoppt Raffinerie – Der Ticker zum Nachlesen</title>
+      <link>https://www.srf.ch/news/international/erdbeben-in-venezuela-stromausfall-stoppt-raffinerie-der-ticker-zum-nachlesen</link>
+      <guid isPermaLink="false">urn:srf:article:019efd18-266f-0673-78d2-98a21b10001d</guid>
+      <description><![CDATA[Die Amuay-Raffinerie in Venezuela stellt nach Stromausfall den Betrieb ein. Erdbeben belasten die Energieversorgung.]]></description>
+      <pubDate>Mon, 29 Jun 2026 12:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Grausiger Fund in Tierheim – Schock in Kalifornien: 117 tote Hunde gefunden</title>
+      <link>https://www.srf.ch/news/international/grausiger-fund-in-tierheim-schock-in-kalifornien-117-tote-hunde-gefunden</link>
+      <guid isPermaLink="false">urn:srf:article:019f12ad-c83d-12e3-1baf-14063c306233</guid>
+      <description><![CDATA[Schockierender Fund auf Tierheimgelände: über 100 Hunde tot, Ermittlungen laufen.]]></description>
+      <pubDate>Mon, 29 Jun 2026 12:34:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Entlassen, während sie über ihren schwer verletzten Sohn wachte</title>
+      <link>https://www.20min.ch/fr/story/tragedie-de-crans-montana-licenciee-alors-qu-elle-veillait-son-fils-gravement-brule-103592840</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/tragedie-de-crans-montana-licenciee-alors-qu-elle-veillait-son-fils-gravement-brule-103592840</guid>
+      <description><![CDATA[Während ihr 18-jähriger Sohn nach dem Brand in Crans-Montana um sein Überleben kämpfte, erfuhr eine Bewohnerin aus Lutry, dass sie entlassen wurde.]]></description>
+      <pubDate>Mon, 29 Jun 2026 12:19:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Krieg in der Ukraine – Geldbetrug: Wenn russische «Helden» zu Opfern werden</title>
+      <link>https://www.srf.ch/news/international/krieg-in-der-ukraine-geldbetrug-wenn-russische-helden-zu-opfern-werden</link>
+      <guid isPermaLink="false">urn:srf:article:019ef950-4514-902d-5330-5da204555ffc</guid>
+      <description><![CDATA[Der Kreml feiert seine Soldaten. Doch an der Front wie in der Heimat werden sie oft Opfer von Verbrechen.]]></description>
+      <pubDate>Mon, 29 Jun 2026 11:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Die nächste Hitzewelle zeichnet sich bereits ab</title>
+      <link>https://www.20min.ch/fr/story/meteo-en-suisse-la-prochaine-vague-de-chaleur-se-profile-deja-103592700</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/meteo-en-suisse-la-prochaine-vague-de-chaleur-se-profile-deja-103592700</guid>
+      <description><![CDATA[Nach dieser Rekordhitzewelle wird das Wetter nur eine kurze Atempause einlegen, bevor die Temperaturen wieder deutlich ansteigen.]]></description>
+      <pubDate>Mon, 29 Jun 2026 11:52:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Suisa Songwriting Camp – Die Schweizer ESC-Hitfabrik wird umgebaut</title>
+      <link>https://www.srf.ch/kultur/musik/suisa-songwriting-camp-die-schweizer-esc-hitfabrik-wird-umgebaut</link>
+      <guid isPermaLink="false">urn:srf:article:019ef933-fbf5-e299-c6c7-1bf311a96427</guid>
+      <description><![CDATA[Das Suisa Songwriting Camp fabrizierte Schweizer ESC-Hits. Trotz der Erfolge wird die Songschmiede nun neu ausgerichtet.]]></description>
+      <pubDate>Mon, 29 Jun 2026 11:20:41 GMT</pubDate>
+    </item>
     <item>
       <title>[Journal de Morges] Zoé Claessens ist Vize-Europameisterin</title>
       <link>https://journaldemorges.ch/actualite/zoe-claessens-vice-championne-deurope/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/zoe-claessens-vice-championne-deurope/</guid>
-      <description><![CDATA[Die Fahrerin aus Villars-sous-Yens hat bei den Europameisterschaften Silber gewonnen.]]></description>
+      <description><![CDATA[Die Pilotin aus Villars-sous-Yens hat bei den Europameisterschaften Silber gewonnen.]]></description>
       <pubDate>Mon, 29 Jun 2026 10:58:50 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Erdbeben in Venezuela – Stromausfall stoppt Venezuelas grösste Raffinerie</title>
-      <link>https://www.srf.ch/news/international/erdbeben-in-venezuela-stromausfall-stoppt-venezuelas-groesste-raffinerie</link>
-      <guid isPermaLink="false">urn:srf:article:019efd18-266f-0673-78d2-98a21b10001d</guid>
-      <description><![CDATA[Die Amuay-Raffinerie in Venezuela stellt nach Stromausfall den Betrieb ein. Erdbeben belasten die Energieversorgung.]]></description>
-      <pubDate>Mon, 29 Jun 2026 10:44:32 GMT</pubDate>
+      <title>[20 Min Romandie] Piusbruderschaft lässt Risiko einer Kirchenspaltung aufkommen</title>
+      <link>https://www.20min.ch/fr/story/fondee-en-suisse-la-fraternite-saint-pie-x-fait-planer-un-risque-de-schisme-103592792</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/fondee-en-suisse-la-fraternite-saint-pie-x-fait-planer-un-risque-de-schisme-103592792</guid>
+      <description><![CDATA[Diese in Écône (VS) gegründete traditionalistische katholische Gemeinschaft möchte ohne Zustimmung des Vatikans eigene Bischöfe weihen. Warum gerade jetzt?]]></description>
+      <pubDate>Mon, 29 Jun 2026 10:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Walter Arnold – Verjährung: Wer hat den Schweizer 1996 in Madagaskar ermordet?</title>
-      <link>https://www.srf.ch/news/schweiz/walter-arnold-verjaehrung-wer-hat-den-schweizer-1996-in-madagaskar-ermordet</link>
+      <title>[SRF Schweiz] Walter Arnold – Mord an Schweizer Entwicklungshelfer verjährt ungeklärt</title>
+      <link>https://www.srf.ch/news/schweiz/walter-arnold-mord-an-schweizer-entwicklungshelfer-verjaehrt-ungeklaert</link>
       <guid isPermaLink="false">urn:srf:article:019e73a8-0954-7cd2-8531-e3641b20a63d</guid>
       <description><![CDATA[Freunde und Familie von Walter Arnold sind überzeugt, dass er einem Skandal auf der Spur war und deshalb sterben musste.]]></description>
       <pubDate>Mon, 29 Jun 2026 10:31:53 GMT</pubDate>
@@ -104,146 +314,6 @@
       <guid isPermaLink="false">urn:srf:article:019f10a7-b0c6-f2f4-f037-c95cc56539cf</guid>
       <description><![CDATA[Palantir akzeptiert eine Niederlage vor dem Zürcher Handelsgericht im Streit mit der «Republik».]]></description>
       <pubDate>Mon, 29 Jun 2026 04:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Krieg in der Ukraine – Jagd auf Drohnen auf dem Schwarzen Meer</title>
-      <link>https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-jagd-auf-drohnen-auf-dem-schwarzen-meer</link>
-      <guid isPermaLink="false">urn:srf:article:019ebb2f-a5aa-99c2-ebdb-3074db3624aa</guid>
-      <description><![CDATA[Ukrainische Kampfboote schützen die Hafenstadt Odessa – und fangen Drohnen bereits über dem Schwarzen Meer ab.]]></description>
-      <pubDate>Mon, 29 Jun 2026 04:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Ungesunde Aktionen – Für wenig Geld gibts Fett, Zucker und Salz – aber kaum Obst</title>
-      <link>https://www.srf.ch/news/dialog/ungesunde-aktionen-fuer-wenig-geld-gibts-fett-zucker-und-salz-aber-kaum-obst</link>
-      <guid isPermaLink="false">urn:srf:article:019f035c-821a-21cc-2c1e-c3a4c9d312c7</guid>
-      <description><![CDATA[Eine Auswertung zeigt: Detailhändler geben überwiegend Süsses und Snacks in Aktion. Eine Expertin kritisiert.]]></description>
-      <pubDate>Mon, 29 Jun 2026 04:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Zollverhandlungen mit USA – Zollverhandlungen mit den USA gehen in die nächste Runde</title>
-      <link>https://www.srf.ch/news/wirtschaft/zollverhandlungen-mit-usa-zollverhandlungen-mit-den-usa-gehen-in-die-naechste-runde</link>
-      <guid isPermaLink="false">urn:srf:article:019f0f2a-711a-0dd6-5be8-1fb38b78891e</guid>
-      <description><![CDATA[In einem Monat läuft die Zollvereinbarung mit den USA aus. Der Bundespräsident will das «Danach» sichern.]]></description>
-      <pubDate>Mon, 29 Jun 2026 04:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Sinti und Jenische – Unabhängige Kommission soll jahrzehntelanges Unrecht aufklären</title>
-      <link>https://www.srf.ch/news/schweiz/sinti-und-jenische-unabhaengige-kommission-soll-jahrzehntelanges-unrecht-aufklaeren</link>
-      <guid isPermaLink="false">urn:srf:article:019ef52e-1121-2e46-19c5-521fd99bddfa</guid>
-      <description><![CDATA[Das Eidgenössische Departement des Innern spricht von einem notwendigen Schritt – und auch Betroffene begrüssen ihn.]]></description>
-      <pubDate>Mon, 29 Jun 2026 03:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Flucht wegen Sudan-Krieg – Geflüchtete Frauen im Tschad: Risiko der sexualisierten Gewalt</title>
-      <link>https://www.srf.ch/news/international/flucht-wegen-sudan-krieg-gefluechtete-frauen-im-tschad-risiko-der-sexualisierten-gewalt</link>
-      <guid isPermaLink="false">urn:srf:article:019eefa7-96be-f308-8823-5f38afaf6952</guid>
-      <description><![CDATA[Viele Frauen und Mädchen sind Opfer von sexualisierter Gewalt geworden. Eine Expertin ordnet ein.]]></description>
-      <pubDate>Sun, 28 Jun 2026 19:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Haushaltsgeräte im Museum – Mann, Frau, Staubsauger: Die Hausfrau als idealisierte Werbefigur</title>
-      <link>https://www.srf.ch/news/schweiz/haushaltsgeraete-im-museum-mann-frau-staubsauger-die-hausfrau-als-idealisierte-werbefigur</link>
-      <guid isPermaLink="false">urn:srf:article:019efdde-9b85-60ad-a8ed-8267b68fc524</guid>
-      <description><![CDATA[Eine Museumsausstellung in Appenzell zeigt Haushaltsgeräte von 1900 bis 1970. Sie zeichnet damit auch ein Bild der Frau.]]></description>
-      <pubDate>Sun, 28 Jun 2026 18:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Liveticker zum Nachlesen – Das OASG 2026 ist Geschichte – und eins für die Geschichtsbücher</title>
-      <link>https://www.srf.ch/radio-srf-3/festivalsommer/liveticker-zum-nachlesen-das-oasg-2026-ist-geschichte-und-eins-fuer-die-geschichtsbuecher</link>
-      <guid isPermaLink="false">urn:srf:article:019ef8af-5281-0eed-be1f-8a72c9ccc397</guid>
-      <description><![CDATA[Das Open Air St. Gallen ist vorbei. Die schönsten und spannendsten Geschichten vom Festival zum Nachlesen.]]></description>
-      <pubDate>Sun, 28 Jun 2026 18:50:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Aleksandar Vucic tritt zurück – «Vucic will weiter seine Macht zementieren»</title>
-      <link>https://www.srf.ch/news/international/aleksandar-vucic-tritt-zurueck-vucic-will-weiter-seine-macht-zementieren</link>
-      <guid isPermaLink="false">urn:srf:article:019f0f09-e2b9-451c-47da-f88500f774fb</guid>
-      <description><![CDATA[Serbiens Präsident kündigt den vorzeitigen Rücktritt an. Ein taktisches Manöver, sagt die Journalistin Adelheid Wölfl.]]></description>
-      <pubDate>Sun, 28 Jun 2026 18:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Großbrand im Schloss von Divonne-les-Bains</title>
-      <link>https://www.20min.ch/fr/story/france-voisine-un-important-incendie-en-cours-au-chateau-de-divonne-les-bains-103592396</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/france-voisine-un-important-incendie-en-cours-au-chateau-de-divonne-les-bains-103592396</guid>
-      <description><![CDATA[Am Sonntag ist im Schloss von Divonne-les-Bains ein großer Brand ausgebrochen. Die Feuerwehren aus Genf und der Waadt wurden mobilisiert.]]></description>
-      <pubDate>Sun, 28 Jun 2026 17:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Fallschirmspringerschule – Elf Tote bei Flugzeugabsturz nahe Nancy</title>
-      <link>https://www.srf.ch/news/international/fallschirmspringerschule-elf-tote-bei-flugzeugabsturz-nahe-nancy</link>
-      <guid isPermaLink="false">urn:srf:article:019f0e02-8bdd-6df9-b9ba-e15baa9ad0bf</guid>
-      <description><![CDATA[Beim Absturz eines Kleinflugzeugs nahe der ostfranzösischen Stadt Nancy sind offenbar elf Menschen ums Leben gekommen.]]></description>
-      <pubDate>Sun, 28 Jun 2026 16:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Uhrenindustrie – Die Uhrenindustrie will nicht stehen bleiben</title>
-      <link>https://www.srf.ch/news/wirtschaft/uhrenindustrie-die-uhrenindustrie-will-nicht-stehen-bleiben</link>
-      <guid isPermaLink="false">urn:srf:article:019f08fa-b42b-34c5-dec3-c39034798a91</guid>
-      <description><![CDATA[Der Uhrenverband sieht sich durch Zölle und den Krieg in Nahost unter Druck, bleibt aber zuversichtlich.]]></description>
-      <pubDate>Sun, 28 Jun 2026 16:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Unterwegs fürs Gemeinwohl – Warum ein 77-Jähriger freiwillig Wanderwege pflegt</title>
-      <link>https://www.srf.ch/news/schweiz/unterwegs-fuers-gemeinwohl-warum-ein-77-jaehriger-freiwillig-wanderwege-pflegt</link>
-      <guid isPermaLink="false">urn:srf:article:019efe07-22e6-7d58-6d86-7b7fd317d457</guid>
-      <description><![CDATA[Felix Feurer ist pensioniert, packt aber weiter an. Als Freiwilliger hält er Wanderwege im Zürcher Weinland in Schuss.]]></description>
-      <pubDate>Sun, 28 Jun 2026 15:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Muotatal: Natürliche Kühlorte – Auch im Hochsommer strömt hier eisige Luft aus dem Berg</title>
-      <link>https://www.srf.ch/news/schweiz/muotatal-natuerliche-kuehlorte-auch-im-hochsommer-stroemt-hier-eisige-luft-aus-dem-berg</link>
-      <guid isPermaLink="false">urn:srf:article:019efdca-a758-0db1-a7ff-6f71760ea35b</guid>
-      <description><![CDATA[Im Schwyzer Muotatal gibt es Hunderte natürlicher Klimageräte: Aus Felsspalten strömt eiskalte Luft.]]></description>
-      <pubDate>Sun, 28 Jun 2026 15:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Erneute Angriffe Iran und USA – Von Entspannung keine Spur</title>
-      <link>https://www.srf.ch/news/international/nahost/erneute-angriffe-iran-und-usa-von-entspannung-keine-spur</link>
-      <guid isPermaLink="false">urn:srf:article:019f0e90-2157-d547-0a7f-aa772c39b81f</guid>
-      <description><![CDATA[Der amerikanisch-iranische Waffenstillstand steht gewaltig unter Druck. Überraschend kommt das alles nicht.]]></description>
-      <pubDate>Sun, 28 Jun 2026 14:48:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] «Nur drei Sekunden fehlten, und ich wäre darunter gewesen»</title>
-      <link>https://www.20min.ch/fr/story/chambesy-ge-a-trois-secondes-pres-j-etais-dessous-103592135</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/chambesy-ge-a-trois-secondes-pres-j-etais-dessous-103592135</guid>
-      <description><![CDATA[Ein Baum stürzte am Samstag auf eine wichtige Verkehrsachse und verursachte einen großen Schrecken. Wegen der Hitze verzeichnen die Feuerwehren vermehrt Einsätze dieser Art.]]></description>
-      <pubDate>Sun, 28 Jun 2026 14:32:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Umfrage der ZHAW – Trinkgeld auch bei Take-away und Selbstbedienung?</title>
-      <link>https://www.srf.ch/news/wirtschaft/umfrage-der-zhaw-trinkgeld-auch-bei-take-away-und-selbstbedienung</link>
-      <guid isPermaLink="false">urn:srf:article:019efebf-f2f1-9ae4-57a5-8f8826c1462b</guid>
-      <description><![CDATA[Eine aktuelle Befragung zeigt: Manche Menschen sind unsicher, wo Trinkgeld angebracht ist.]]></description>
-      <pubDate>Sun, 28 Jun 2026 14:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Warten auf die Deportation – Tausende Migrantinnen und Migranten in Südafrika leben in Angst</title>
-      <link>https://www.srf.ch/news/international/warten-auf-die-deportation-tausende-migrantinnen-und-migranten-in-suedafrika-leben-in-angst</link>
-      <guid isPermaLink="false">urn:srf:article:019eef3e-3667-74a2-03f7-a55264023b21</guid>
-      <description><![CDATA[In Südafrika schürt «March on March» den Hass auf Migranten. Tausende verstecken sich, andere wollen repatriiert werden.]]></description>
-      <pubDate>Sun, 28 Jun 2026 13:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Queeres Leben in China – Schweizer Dragqueen trifft auf chinesische Repression</title>
-      <link>https://www.srf.ch/news/international/queeres-leben-in-china-schweizer-dragqueen-trifft-auf-chinesische-repression</link>
-      <guid isPermaLink="false">urn:srf:article:019e92fb-f9dd-702b-9bfd-191dd84f1a58</guid>
-      <description><![CDATA[In China werden Freiräume für queere Subkulturen immer kleiner. Das erlebte ein Zürcher Drag-Künstler auf seiner Tour.]]></description>
-      <pubDate>Sun, 28 Jun 2026 11:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Repression am Golf – Golfstaaten nutzen den Krieg als Vorwand für Verhaftungen</title>
-      <link>https://www.srf.ch/news/international/repression-am-golf-golfstaaten-nutzen-den-krieg-als-vorwand-fuer-verhaftungen</link>
-      <guid isPermaLink="false">urn:srf:article:019eef38-3b54-4a1a-d285-281a5e244b72</guid>
-      <description><![CDATA[Während die Golfstaaten nach aussen auf Diplomatie setzen, nimmt die Repression gegen die eigene Bevölkerung massiv zu.]]></description>
-      <pubDate>Sun, 28 Jun 2026 11:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Hautemorges zahlt für die Erneuerung der Eisbahn von Morges</title>
-      <link>https://journaldemorges.ch/actualite/societe/hautemorges-payera-pour-la-mue-de-la-patinoire-de-morges/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/hautemorges-payera-pour-la-mue-de-la-patinoire-de-morges/</guid>
-      <description />
-      <pubDate>Sun, 28 Jun 2026 10:59:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
