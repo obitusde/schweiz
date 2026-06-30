@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 29.6.2026, 10:13:57
-Letzter Lauf: 29.6.2026, 06:24:58
+Start: 30.6.2026, 06:59:31
+Letzter Lauf: 29.6.2026, 10:13:57
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -21,24 +21,29 @@ Statischer Filter (Keywords):
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
 KI-Filter (Gemini) - 19 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Unfall ohne längerfristige Relevanz (lokales Ereignis)): [Gesellschaft] 'Notlandung: Flugzeug muss wegen Rauchalarm in Erfurt notlanden'
-- GelÃ¶scht (Grund: Unfall ohne längerfristige Relevanz): [Gesellschaft] 'Badeunfälle in Deutschland: Mindestens 15 Menschen bei Badeunfällen gestorben'
-- GelÃ¶scht (Grund: Duplikat zu Artikel 9 (Erdbeben in Venezuela); Artikel 9 ist informativer hinsichtlich der Rettungssituation): [Gesellschaft] 'Erdbeben in Venezuela: EU aktiviert Katastrophenschutz für Venezuela'
+- GelÃ¶scht (Grund: Duplikat des Themas 'Schüsse in Stade', Artikel 0 enthält bereits die relevanten Informationen.): [Gesellschaft] 'Stade: Was über die Schüsse in einer Jugendeinrichtung in Stade bekannt ist'
+- GelÃ¶scht (Grund: Duplikat des Themas 'Schüsse in Stade', Artikel 0 gilt als der informativste Bericht.): [Gesellschaft] 'Niedersachsen: Fünf Tote nach Schüssen in Jugendeinrichtung in Stade'
+- GelÃ¶scht (Grund: Fällt unter die Kategorie 'Unfälle ohne längerfristige Relevanz'.): [Gesellschaft] 'Badetote in Deutschland: 26 Männer und Jungen bei Badeunfällen am Wochenende gestorben'
+- GelÃ¶scht (Grund: Duplikat zum Erdbeben in Venezuela, Artikel 3 behandelt das Hauptthema prägnanter.): [Gesellschaft] 'Erdbeben in Venezuela: Schulen in Venezuela bleiben nach Erdbebenkatastrophe geschlossen'
+- GelÃ¶scht (Grund: Fällt unter die Kategorie 'Deutsche Kommunalpolitik & Städte'.): [Gesellschaft] 'Kölner Dom: Kölner Dom kostet ab Mittwoch Eintritt – bisher kein erhöhter Andrang'
 
 Finale Liste (live im XML-Feed):
-- [Gesellschaft] Hitzewelle: Carsten Schneider sieht Länder beim Hitzeschutz in der Pflicht
+- [Gesellschaft] Schüsse in Stade: »Was die gesehen haben, hinterlässt Spuren«
+- [Gesellschaft] Grenze zu Frankreich: Drei Verletzte bei mutmaßlichem Sprengstoffanschlag in Monaco
+- [Wirtschaft] MediaMarktSaturn: Ministerium erlaubt Übernahme von MediaMarkt durch Konzern aus China
+- [Gesellschaft] Erdbeben in Venezuela: Zahl der Toten in Venezuela steigt auf 1.700
+- [Mobilität] Tarifverhandlungen bei Ryanair: Vereinigung Cockpit wirft Ryanair unfaire Verhandlungsmethoden vor
+- [Arbeit] Agentur für Arbeit: Jobcenter können künftig Alkohol beim Bewerbungsgespräch ahnden
+- [Wirtschaft] Pläne gegen Altersarmut: Abschreckende Hürden, 22 Formularseiten und hohe Dunkelziffer
+- [Mobilität] Stellenabbau bei Volkswagen: VW-Spitze schweigt laut Arbeitnehmerseite zu Umfang des Stellenabbaus
+- [Gesellschaft] Tirol: Rund 200 Menschen nach Schlammlawinen aus Kaunertal ausgeflogen
+- [Digital] Frauen in der IT: Die verdrängten Wurzeln der digitalen Welt
+- [Gesellschaft] Hitzewelle: 130 Millionen Europäer erleben heute Temperaturen von 35 Grad Celsius
+- [Mobilität] Tankrabatt: Spritpreise sollen erst am Mittwoch nach 12 Uhr wieder steigen
+- [Entdecken] Meyer Werft: Nach dem Brunch mit dem Pfleger zum Jacuzzi
+- [Wirtschaft] Ehegattensplitting: Ehegattensplitting abschaffen? So tut es den wenigsten weh
 - [Wirtschaft] Statistisches Bundesamt: Staatsinvestitionen so hoch wie seit 26 Jahren nicht mehr
 - [Wirtschaft] Umweltschutz: Greenpeace kritisiert Bundesregierung für klimaschädliche Subventionen
 - [Wirtschaft] KI in der Steuerberatung: Gehört der KI-Steuerberater wirklich verboten?
 - [Arbeit] Gehirngerechtes Arbeiten: Was Hirnforscher tun, um produktiver zu sein
 - [Wirtschaft] Ifo Institut: Tankrabatt wurde bei Diesel wohl zu wenig weitergegeben
-- [Entdecken] Plank-Challenge: Rentner sind die Sportikonen unserer Zeit
-- [Gesellschaft] Wolfgang Schmidbauer: Ist es okay, wenn Eltern ein Lieblingskind haben?
-- [Gesellschaft] Erdbeben in Venezuela: Mehrere Kinder werden lebend aus den Trümmern geborgen
-- [Gesellschaft] Waldbrände in den USA: Drei Feuerwehrleute sterben bei Einsatz gegen Waldbrände
-- [Gesellschaft] Hitzewelle: Deutscher Wetterdienst meldet Temperaturhöchstwert von 41,7 Grad
-- [Gesellschaft] Türkei: Veranstalter melden 50 Festnahmen bei Pride-Umzug in Istanbul
-- [Gesellschaft] Frankreich: Elf Tote bei Absturz von Kleinflugzeug nahe Nancy
-- [Schweiz] »Wie viel Schweiz steckt in Ihnen?« von Markus Freitag: Wie ich mir das Fragezeichen angewöhnt habe
-- [Entdecken] Immobilienmakler auf Mallorca: Ein Tag in den Häusern der Superreichen
-- [Wirtschaft] Tabaksteuer: Preis für Shisha-Tabak könnte sich durch Gesetzesänderung verdoppeln
