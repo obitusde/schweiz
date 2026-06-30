@@ -5,20 +5,111 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Mon, 29 Jun 2026 08:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:59:31 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Gesellschaft] Hitzewelle: Carsten Schneider sieht Länder beim Hitzeschutz in der Pflicht</title>
+      <title>[Gesellschaft] Schüsse in Stade: »Was die gesehen haben, hinterlässt Spuren«</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/schuesse-stade-tatort-jugendeinrichtung-polizei</link>
+      <guid isPermaLink="false">{urn:uuid:3d9404d2-2d48-48e2-8eec-178e51ee3125}</guid>
+      <description><![CDATA[Auslöser für die Bluttat von Stade, bei der ein Mann mutmaßlich sechs Menschen erschoss, war ein Sorgerechtsstreit. Die Polizei sichert Spuren einer unbegreiflichen Tat.]]></description>
+      <pubDate>Tue, 30 Jun 2026 03:34:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Grenze zu Frankreich: Drei Verletzte bei mutmaßlichem Sprengstoffanschlag in Monaco</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/monaco-frankreich-mutmasslicher-sprengstoffanschlag-verletzte</link>
+      <guid isPermaLink="false">{urn:uuid:53a0d907-69b1-481e-b496-b97878502a89}</guid>
+      <description><![CDATA[In einem Wohnhaus in Monaco hat sich eine Explosion ereignet. Medienberichten zufolge wurde ein ukrainischer Geschäftsmann verletzt. Ein Verdächtiger ist auf der Flucht.]]></description>
+      <pubDate>Mon, 29 Jun 2026 22:01:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] MediaMarktSaturn: Ministerium erlaubt Übernahme von MediaMarkt durch Konzern aus China</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-06/mediamarktsaturn-jd-com-uebernahme-ceconomy-bundesregierung</link>
+      <guid isPermaLink="false">{urn:uuid:67224824-555d-499a-a85d-dddad0760b24}</guid>
+      <description><![CDATA[Das chinesische Unternehmen JD.com darf Europas größten Elektronikhändler MediaMarktSaturn übernehmen. Die Bundesregierung behält sich spezielle Kontrollrechte vor.]]></description>
+      <pubDate>Mon, 29 Jun 2026 20:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Erdbeben in Venezuela: Zahl der Toten in Venezuela steigt auf 1.700</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/erdbeben-venezuela-caraballeda-la-guaira-rettung</link>
+      <guid isPermaLink="false">{urn:uuid:ccfeea51-b727-4f16-acbe-8d1665e8fcd3}</guid>
+      <description><![CDATA[In Venezuela hat ein Nachbeben der Stärke 4,6 unter anderem die schwer geschädigte Hafenstadt La Guaira getroffen. Die Zahl der Toten ist auf 1.700 gestiegen.]]></description>
+      <pubDate>Mon, 29 Jun 2026 19:13:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mobilität] Tarifverhandlungen bei Ryanair: Vereinigung Cockpit wirft Ryanair unfaire Verhandlungsmethoden vor</title>
+      <link>https://www.zeit.de/mobilitaet/2026-06/ryanair-tarifverhandlungen-vereinigung-cockpit-piloten-gewerkschaft</link>
+      <guid isPermaLink="false">{urn:uuid:9acab532-d31e-481a-83d8-18e299f287b2}</guid>
+      <description><![CDATA[Die Pilotengewerkschaft Vereinigung Cockpit wirft Ryanair Einschüchterungsversuche vor. Mitglieder der Tarifkommission seien bei Verhandlungen unter Druck gesetzt worden.]]></description>
+      <pubDate>Mon, 29 Jun 2026 17:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Arbeit] Agentur für Arbeit: Jobcenter können künftig Alkohol beim Bewerbungsgespräch ahnden</title>
+      <link>https://www.zeit.de/arbeit/2026-06/jobcenter-sanktionen-grundsicherung-buergergeld-reform</link>
+      <guid isPermaLink="false">{urn:uuid:8e5a3b64-a4bf-4c34-a905-edef5e743d7e}</guid>
+      <description><![CDATA[Leistungsempfänger, die beim Bewerbungsgespräch ungepflegt oder alkoholisiert sind, bekommen künftig Probleme. Die Arbeitsagentur stuft das als Pflichtverletzung ein.]]></description>
+      <pubDate>Mon, 29 Jun 2026 15:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Pläne gegen Altersarmut: Abschreckende Hürden, 22 Formularseiten und hohe Dunkelziffer</title>
+      <link>https://www.zeit.de/wirtschaft/2026-06/plaene-altersarmut-rentenkommission-arbeitszeit-renteneintritt</link>
+      <guid isPermaLink="false">{urn:uuid:d0419a20-9c2a-4027-879a-ef0494fbd772}</guid>
+      <description><![CDATA[Wer im Alter arm ist, muss aufwendig Hilfe beantragen. Viele schaffen das nicht. Unser Autor war Rentenkommissionsmitglied. Hier erklärt er, wie das künftig besser geht.]]></description>
+      <pubDate>Mon, 29 Jun 2026 14:33:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mobilität] Stellenabbau bei Volkswagen: VW-Spitze schweigt laut Arbeitnehmerseite zu Umfang des Stellenabbaus</title>
+      <link>https://www.zeit.de/mobilitaet/2026-06/vw-stellenabbau-arbeitsplaetze-werksschliessung-betriebsrat</link>
+      <guid isPermaLink="false">{urn:uuid:dca0e2ab-b04e-49c6-9f73-d6f4e67eb0a3}</guid>
+      <description><![CDATA[Bis zu 100.000 Stellen sollen Medienberichten zufolge bei VW wegfallen. Der Betriebsrat hat dazu noch keine Details von der Konzernspitze erhalten.]]></description>
+      <pubDate>Mon, 29 Jun 2026 13:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Tirol: Rund 200 Menschen nach Schlammlawinen aus Kaunertal ausgeflogen</title>
+      <link>https://www.zeit.de/gesellschaft/2026-06/muren-kaunertal-tirol-gletscherstrasse-bundesheer</link>
+      <guid isPermaLink="false">{urn:uuid:ddaf5cd8-da8a-454a-b2c7-88fd1f1afa4a}</guid>
+      <description><![CDATA[Nach starken Regenfällen haben Schlammlawinen die Kaunertaler Gletscherstraße blockiert. Rund 200 eingeschlossene Menschen wurden per Hubschrauber in Sicherheit gebracht.]]></description>
+      <pubDate>Mon, 29 Jun 2026 12:43:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digital] Frauen in der IT: Die verdrängten Wurzeln der digitalen Welt</title>
+      <link>https://www.zeit.de/digital/internet/2026-06/frauen-it-geschichte-ursprung-erfindungen-klischee</link>
+      <guid isPermaLink="false">{urn:uuid:67bf52cd-aeff-4729-841d-8962c5bed943}</guid>
+      <description><![CDATA[Die Geschichte der IT beginnt nicht mit einem Nerd in einer Garage im Silicon Valley. Sondern mit Frauen. Was wir gerade heute von ihnen lernen können – und sollten.]]></description>
+      <pubDate>Mon, 29 Jun 2026 11:47:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Hitzewelle: 130 Millionen Europäer erleben heute Temperaturen von 35 Grad Celsius</title>
       <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/hitzewelle-sommer-temperaturen-rekord-gefahr</link>
       <guid isPermaLink="false">{urn:uuid:a08c42fb-f161-4307-8fd1-59f69bb40903}</guid>
-      <description><![CDATA[Der Bundesumweltminister fordert die Länder auf, das Sondervermögen für Investitionen in Hitzeschutz zu nutzen. WHO spricht von vielen Hitzetoten in Europa. Das Liveblog]]></description>
-      <pubDate>Mon, 29 Jun 2026 07:50:59 GMT</pubDate>
+      <description><![CDATA[In Deutschland hat es sich abgekühlt, aber weite Teile Europas leiden noch unter der großen Hitze. Klimaforscher Rahmstorf wirft Politikern Ignoranz vor. Das Liveblog]]></description>
+      <pubDate>Mon, 29 Jun 2026 11:47:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mobilität] Tankrabatt: Spritpreise sollen erst am Mittwoch nach 12 Uhr wieder steigen</title>
+      <link>https://www.zeit.de/mobilitaet/2026-06/tankrabatt-12-uhr-regel-spritpreise-bft</link>
+      <guid isPermaLink="false">{urn:uuid:9e029b38-29ee-4f66-8d03-6f7fa07302ec}</guid>
+      <description><![CDATA[Mitte der Woche läuft der staatliche 17-Cent-Rabatt auf Benzin und Diesel aus. Die Preise sollen aber nicht direkt steigen, kündigt der Tankstellenverband an.]]></description>
+      <pubDate>Mon, 29 Jun 2026 11:30:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Entdecken] Meyer Werft: Nach dem Brunch mit dem Pfleger zum Jacuzzi</title>
+      <link>https://www.zeit.de/2026/28/meyer-werft-serenity-kreuzfahrtschiff-senioren-betreutes-wohnen</link>
+      <guid isPermaLink="false">{urn:uuid:1c20d672-0c88-4260-a5e9-156403debd2b}</guid>
+      <description><![CDATA[Wer über 80 ist, hört oft auf zu reisen. Bei der Meyer Werft denkt man darüber nach, wie ein Kreuzfahrtschiff für alte Menschen aussehen muss – mit Enkel-Kabinen.]]></description>
+      <pubDate>Mon, 29 Jun 2026 09:40:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Ehegattensplitting: Ehegattensplitting abschaffen? So tut es den wenigsten weh</title>
+      <link>https://www.zeit.de/geld/2026-06/ehegattensplitting-abschaffung-familie-berechnung-belastung</link>
+      <guid isPermaLink="false">{urn:uuid:1697e868-c38e-441c-97d9-4f2351ec4c4b}</guid>
+      <description><![CDATA[Nach dem Splitting-Aus könnten viele Familien mehr Geld haben als zuvor, zeigt eine neue Studie. Schaden würde es nur den Reichsten. Wie die Reform gelingen könnte.]]></description>
+      <pubDate>Mon, 29 Jun 2026 08:12:41 GMT</pubDate>
     </item>
     <item>
       <title>[Wirtschaft] Statistisches Bundesamt: Staatsinvestitionen so hoch wie seit 26 Jahren nicht mehr</title>
-      <link>https://www.zeit.de/wirtschaft/2026-06/staatsinvestitionen-bruttoinvestitionen-ausgaben-bundeswehr-2025</link>
+      <link>https://www.zeit.de/wirtschaft/2026-06/staatsinvestitionen-bruttoinvestitionen-ausgaben-bundeswehr-2025-gxe</link>
       <guid isPermaLink="false">{urn:uuid:fc5f2d5e-d205-48e2-b569-5dae856e02bc}</guid>
-      <description><![CDATA[Die deutschen Investitionen sind so stark gestiegen wie seit dem Jahr 2000 nicht mehr. Vor allem bei Rüstungsgütern stiegen die Ausgaben.]]></description>
+      <description><![CDATA[Die deutschen Investitionen sind so stark gestiegen wie seit dem Jahr 2000 nicht mehr. Der Staat gab vor allem deutlich mehr für Rüstungsgüter aus.]]></description>
       <pubDate>Mon, 29 Jun 2026 07:40:50 GMT</pubDate>
     </item>
     <item>
@@ -48,76 +139,6 @@
       <guid isPermaLink="false">{urn:uuid:34d1dc68-ea78-4d5b-9d97-9489e74ae52d}</guid>
       <description><![CDATA[Anfang Juli läuft der Tankrabatt aus. Eine Analyse des Münchner ifo Instituts zeigt: Nur ein Teil der Autofahrer profitierte vollständig von der Maßnahme.]]></description>
       <pubDate>Mon, 29 Jun 2026 05:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Entdecken] Plank-Challenge: Rentner sind die Sportikonen unserer Zeit</title>
-      <link>https://www.zeit.de/2026/28/plank-challenge-fitness-brettposition-longevity</link>
-      <guid isPermaLink="false">{urn:uuid:4d87d2ed-9a13-4ba1-aeb8-b5de5991ddfc}</guid>
-      <description><![CDATA[Was ich alles über mich und auch über Langlebigkeit erfuhr, als mich im Fitnessstudio ein Fremder fragte: »Hey, Bock auf Plank-Challenge?«]]></description>
-      <pubDate>Mon, 29 Jun 2026 04:11:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Wolfgang Schmidbauer: Ist es okay, wenn Eltern ein Lieblingskind haben?</title>
-      <link>https://www.zeit.de/familie/2026-06/elternliebe-geschwister-familienkonflikte-lieblingskind</link>
-      <guid isPermaLink="false">{urn:uuid:169dd2e0-fbbd-40b6-a31a-bdf03675af75}</guid>
-      <description><![CDATA[Es ist Eltern unmöglich, allen Kindern auf gleiche Weise gerecht zu werden. Das ungeliebte Kind gewesen zu sein, kann sich für einen Menschen sogar als Vorteil entpuppen.]]></description>
-      <pubDate>Mon, 29 Jun 2026 03:59:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Erdbeben in Venezuela: Mehrere Kinder werden lebend aus den Trümmern geborgen</title>
-      <link>https://www.zeit.de/politik/ausland/2026-06/maria-corina-machado-venezuela-nobelpreis-rueckkehr</link>
-      <guid isPermaLink="false">{urn:uuid:c2c99e80-542b-4553-8643-86a39a6de34e}</guid>
-      <description><![CDATA[Vier Tage nach dem Erdbeben konnten Hilfskräfte mehrere Kinder retten. Aber die Hoffnung auf Überlebende sinkt. Oppositionspolitikerin Machado will nach Venezuela reisen.]]></description>
-      <pubDate>Mon, 29 Jun 2026 00:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Waldbrände in den USA: Drei Feuerwehrleute sterben bei Einsatz gegen Waldbrände</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/waldbraende-usa-utah-colorado-feuerwehrleute-nationalgarde</link>
-      <guid isPermaLink="false">{urn:uuid:2e51fc57-220d-41c4-a73f-7ac7e7d0e0ba}</guid>
-      <description><![CDATA[Im Grenzgebiet zwischen Utah und Colorado waren mehrere Feuerwehrleute von Waldbränden eingeschlossen. In Colorado rief der Gouverneur den Notstand aus.]]></description>
-      <pubDate>Mon, 29 Jun 2026 00:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Hitzewelle: Deutscher Wetterdienst meldet Temperaturhöchstwert von 41,7 Grad</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/deutscher-wetterdienst-meldet-temperatur-von-41-7-grad-in-brandenburg</link>
-      <guid isPermaLink="false">{urn:uuid:5ea068c8-85c8-4747-9a26-e28cdb2ed4cb}</guid>
-      <description><![CDATA[Den dritten Tag in Folge ist in Deutschland ein neuer Temperaturextremwert registriert worden. Im brandenburgischen Oder-Spree-Kreis stieg das Thermometer auf 41,7 Grad.]]></description>
-      <pubDate>Sun, 28 Jun 2026 15:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Türkei: Veranstalter melden 50 Festnahmen bei Pride-Umzug in Istanbul</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/tuerkei-pride-parade-istanbul-verbot-verhaftungen-vorwuerfe</link>
-      <guid isPermaLink="false">{urn:uuid:4918ee4c-180b-4949-9479-cd1a6510f71f}</guid>
-      <description><![CDATA[Die Istanbuler Pride ist seit Jahren verboten, die Regierung äußert sich queerfeindlich. Bei einem nicht genehmigten Umzug gab es den Veranstaltern zufolge 50 Festnahmen.]]></description>
-      <pubDate>Sun, 28 Jun 2026 14:27:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Frankreich: Elf Tote bei Absturz von Kleinflugzeug nahe Nancy</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/flugzeugabsturz-frankreich-nancy-fallschirmspringer</link>
-      <guid isPermaLink="false">{urn:uuid:3fc6f99d-0d6c-4b55-8284-dd7a51a061be}</guid>
-      <description><![CDATA[Im Nordosten Frankreichs sind elf Menschen bei einem Flugzeugabsturz gestorben. Medienberichten zufolge waren zehn Fallschirmspringer an Bord des Kleinflugzeugs.]]></description>
-      <pubDate>Sun, 28 Jun 2026 13:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] »Wie viel Schweiz steckt in Ihnen?« von Markus Freitag: Wie ich mir das Fragezeichen angewöhnt habe</title>
-      <link>https://www.zeit.de/2026/28/wie-viel-schweiz-steckt-in-ihnen-markus-freitag-demokratie-buch</link>
-      <guid isPermaLink="false">{urn:uuid:bae9e9c0-9ec4-4222-b927-9ca47511c615}</guid>
-      <description><![CDATA[Der Politologe Markus Freitag ergründet die Schweiz seit Jahrzehnten – als gebürtiger Deutscher. Und weiß heute, warum wir so gut darin sind, Widersprüche auszuhalten.]]></description>
-      <pubDate>Sun, 28 Jun 2026 12:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Entdecken] Immobilienmakler auf Mallorca: Ein Tag in den Häusern der Superreichen</title>
-      <link>https://www.zeit.de/2026/28/immobilienmakler-mallorca-reichtum-luxusimmobilien-marcel-remus</link>
-      <guid isPermaLink="false">{urn:uuid:1d0fcb67-3f05-4822-9d16-777a017f59b7}</guid>
-      <description><![CDATA[Krise? Nie lief das Geschäft so gut wie jetzt, sagt Marcel Remus, der Villen mit sechs Bädern und Spa vermittelt. Auf Mallorca nimmt er uns mit in ein eigenes Universum.]]></description>
-      <pubDate>Sun, 28 Jun 2026 11:44:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Tabaksteuer: Preis für Shisha-Tabak könnte sich durch Gesetzesänderung verdoppeln</title>
-      <link>https://www.zeit.de/wirtschaft/2026-06/shisha-tabaksteuer-wasserpfeifentabak-preis-bundesfinanzministerium</link>
-      <guid isPermaLink="false">{urn:uuid:5d2228b2-8796-469d-a5f1-7c7e02ada128}</guid>
-      <description><![CDATA[Ein neuer Gesetzentwurf sieht eine Verdopplung der Steuerlast auf Wasserpfeifentabak bis 2030 vor. Ein Lobbyverband warnt vor mehr Schwarzmarkt-Verkäufen.]]></description>
-      <pubDate>Sun, 28 Jun 2026 09:03:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
