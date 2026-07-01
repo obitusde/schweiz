@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 30.6.2026, 12:28:18
-Letzter Lauf: 30.6.2026, 06:10:25
+Start: 1.7.2026, 06:10:26
+Letzter Lauf: 30.6.2026, 12:28:18
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,56 +10,86 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Mini-Barebone Asus NUC 16 Pro mit 16 Kernen und Wi-Fi 7 im Test'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Interview zur Deutschland-App: Wie KI komplizierte Anträge entwirren soll'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | So funktioniert Langzeitarchivierung mit Voxeln in Quarzglas'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Claude Code in der Praxis – eigenen KI-Chat-Agenten in fünf Sessions entwickeln'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Mähroboter im Test: Elektro-Schafe mit Laser-Augen'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c’t-Webinar: Die faszinierende Welt der Quantenphysik verstehen'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Fünf Tage Akkulaufzeit: E-Ink-Smartphone Bigme Hibreak Pro im Test'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: RAG-Systeme effizient evaluieren und optimieren'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Smarter Wasserhahn im Eigenbau'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Warum Big-Tech-Konzerne ihre KI-Modelle öffnen – ein Interview'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Fünf Tage Akkulaufzeit: E-Ink-Smartphone Bigme Hibreak Pro im Test'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Cine-Objektive: Mehr Videoqualität für spiegellose Kameras'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Smart-TV OLED65G66 im Test: Besseres Bild, KI-Funktionen mäßig'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Fit für die Zukunft – Software im laufenden Betrieb modernisieren'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Vehicle to Grid: Wenn das E-Auto Geld verdient'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 27 Zoll großer Gaming-Monitor von AOC mit 180 Hz für unter 100 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Teleskop mit Smartphone-Adapter reduziert bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bestseller-Luftpumpe mit Akku jetzt zum Bestpreis nur noch rund 23 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Convertible von HP mit Intel Core i5 zum Aktionspreis bei Amazon'
+- Gelöscht wegen Keyword '(g+)': '(g+) Security: Wie Unternehmen mit IAM Risiken reduzieren'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 70mai A810 Lite Dashcam als spätes Prime-Day-Angebot unter 100 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: SSD einfach auslesen - Sabrent Dual NVMe-Gehäuse jetzt nur rund 124 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Tastatur SteelSeries Apex Pro Mini zum Tiefstpreis bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Drohne mit 84 Minuten Flugzeit bei Amazon im Angebot'
 - Gelöscht wegen Keyword 'podcast': 'Podcast Besser Wissen: Woher kommt der Mac?'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Anker-Laptop-Powerbank mit 25.000 mAh jetzt wieder unter 85 Euro'
 - Gelöscht wegen Keyword '(g+)': '(g+) Opinion Markets: The new AI-based world order'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gepäck in Echtzeit verfolgen - Boarding per Gesichtserkennung'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: BFSG und WCAG in Webprojekten umsetzen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Platz 1 bei Amazon - Weber Holzkohlegrill befristet im Amazon-Angebot'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ladegerät mit 65 W und drei Ports für nur 21,97 Euro bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Top-Deal nach dem Prime Day - Saugroboter von Roborock zum Tiefstpreis bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kult-Computer Commodore 64 kehrt dieses Jahr als Handheld zurück'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Schluss mit Kabelsalat dank dieser stark reduzierten Anker USB-C Kabel'
-- [FEED FEHLER] https://www.lightroomqueen.com/feed/: Exception: Request failed for https://www.lightroomqueen.com returned code 403. Truncated server response: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta htt... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 40 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Behandelt ausschließlich interne PC-Komponenten (Speicherchips/DRAM).): 'Milliardenauftrag: Chinas CXMT vereinbart Lieferung von Speicherchips an Tencent'
-- Weiterhin entfernt (Cache, Grund: Behandelt Enterprise-IT und Netzwerk-Infrastruktur (Firmenkundennetzwerke).): 'Verizon: BT Group legt internationales Firmenkundennetzwerk mit US-Konzern zusammen'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel ID 9.): 'Ministerium genehmigt Übernahme von MediaMarktSaturn durch JD.com'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel ID 20.): 'Weltraumkonzern: Warum Rocket Lab 8 Milliarden Dollar für Iridium bezahlt'
-- Weiterhin entfernt (Cache, Grund: Behandelt Netzwerk-Infrastruktur (GSM-R/Bahnfunk).): 'Nach Ausfall: Veralteter Bahnfunk GSM-R laut Experten "strukturell anfällig"'
-- Weiterhin entfernt (Cache, Grund: Behandelt ausschließlich interne PC-Komponenten (DRAM/RAM-Fertigung).): 'Kartellbildung: Klage gegen DRAM-Hersteller wegen Speicherpreisen'
-- Weiterhin entfernt (Cache, Grund: Behandelt ausschließlich interne PC-Komponenten (Halbleiter/Speicherproduktion).): 'Speicherhersteller investieren Hunderte Milliarden in neue Halbleiterwerke'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Deep OS-Internals/Updates und belangloses Betriebssystem-Rauschen.): 'Windows-Insider-Vorschau verbessert die Taskleiste'
-- Weiterhin entfernt (Cache, Grund: Behandelt Deep OS-Internals (Support-Zeiträume) und Betriebssystem-Updates.): 'Windows-10-Sicherheitsupdates für Privatkunden bis Oktober 2027 verlängert'
-- Weiterhin entfernt (Cache, Grund: Behandelt Code-Theorie und Web-Infrastruktur (Git-Tools/Commits).): 'Git grafisch mit KI sortieren und verwalten – GitBrowser'
-- Weiterhin entfernt (Cache, Grund: Behandelt Code-Theorie und Web-Infrastruktur (SSH-Bibliotheken).): 'Kritische libssh2-Lücke: Proof-of-Concept-Exploit veröffentlicht'
-- Weiterhin entfernt (Cache, Grund: Behandelt Code-Theorie und Web-Infrastruktur (Sicherheitsmanagement für Open-Source).): 'Neue Allianz für mehr Open-Source-Schutz'
-- Gelöscht (Grund: Es handelt sich um Spekulationen über Apple-Hardware (Apple-Rauschen).): 'M6 wird übersprungen: MacBook Ultra mit älteren Chips?'
-- Gelöscht (Grund: Es handelt sich um belangloses Apple-Rauschen bezüglich Display-Spezifikationen.): 'Mehr Farben: Apple macht laut Bericht bei BT2020 mit'
-- Gelöscht (Grund: Die Grafikkarte ist eine interne PC-Komponente.): 'RTX 3060 12 GByte: Nvidia verkauft fünf Jahre alte Grafikkarten erneut'
-- Gelöscht (Grund: Behandelt Preise für RAM, eine interne PC-Komponente.): 'Jetzt wird gegen die hohen RAM-Preise geklagt'
-- Gelöscht (Grund: Behandelt PC-Eigenbau und interne Hardware-Komponenten.): 'Apple: Bastler baut Apple II mit 6502-CPU und SRAM nach'
-- Gelöscht (Grund: Es handelt sich um Enterprise-IT (Software für Unternehmen).): 'Oracle E-Business Suite: Angriffe auf Payments beobachtet'
-- Gelöscht (Grund: Fällt unter das Ausschlusskriterium Apple Themen: iOS.): 'Künstliche Intelligenz: Openclaw bekommt eigene Apps für iOS und Android'
-- Gelöscht (Grund: Fernwartungssoftware fällt unter Enterprise-IT & Netzwerk-Infrastruktur.): 'SimpleHelp: Lücke in Fernwartungssoftware in freier Wildbahn missbraucht'
-- Gelöscht (Grund: Behandelt iOS sowie allgemeine Apple-Betriebssystem-Updates (Apple-Rauschen).): 'iOS 26.5.2, iPadOS 26.5.2 und macOS 26.5.2: Wichtige Sicherheitsfixes wegen KI'
+KI-Filter (Gemini) - 49 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Es handelt sich um Spekulationen über Apple-Hardware (Apple-Rauschen).): 'M6 wird übersprungen: MacBook Ultra mit älteren Chips?'
+- Weiterhin entfernt (Cache, Grund: Es handelt sich um belangloses Apple-Rauschen bezüglich Display-Spezifikationen.): 'Mehr Farben: Apple macht laut Bericht bei BT2020 mit'
+- Weiterhin entfernt (Cache, Grund: Die Grafikkarte ist eine interne PC-Komponente.): 'RTX 3060 12 GByte: Nvidia verkauft fünf Jahre alte Grafikkarten erneut'
+- Weiterhin entfernt (Cache, Grund: Behandelt Preise für RAM, eine interne PC-Komponente.): 'Jetzt wird gegen die hohen RAM-Preise geklagt'
+- Weiterhin entfernt (Cache, Grund: Behandelt PC-Eigenbau und interne Hardware-Komponenten.): 'Apple: Bastler baut Apple II mit 6502-CPU und SRAM nach'
+- Weiterhin entfernt (Cache, Grund: Es handelt sich um Enterprise-IT (Software für Unternehmen).): 'Oracle E-Business Suite: Angriffe auf Payments beobachtet'
+- Weiterhin entfernt (Cache, Grund: Fällt unter das Ausschlusskriterium Apple Themen: iOS.): 'Künstliche Intelligenz: Openclaw bekommt eigene Apps für iOS und Android'
+- Weiterhin entfernt (Cache, Grund: Fernwartungssoftware fällt unter Enterprise-IT & Netzwerk-Infrastruktur.): 'SimpleHelp: Lücke in Fernwartungssoftware in freier Wildbahn missbraucht'
+- Weiterhin entfernt (Cache, Grund: Behandelt iOS sowie allgemeine Apple-Betriebssystem-Updates (Apple-Rauschen).): 'iOS 26.5.2, iPadOS 26.5.2 und macOS 26.5.2: Wichtige Sicherheitsfixes wegen KI'
+- Gelöscht (Grund: Inhaltlicher Bezug zum Apple-Betriebssystem iOS (AirDrop).): 'Sicherheitslücken in Apples AirDrop und Androids Quick Share entdeckt'
+- Gelöscht (Grund: Duplikat zu Artikel 25 (Vodafone Tarifumstellung).): 'Smartphone-Tarife: Vodafone startet mit neuen Tarifen ohne Giga Depot'
+- Gelöscht (Grund: Interne PC-Komponenten (Grafikkarte).): 'Nvidia bringt 5,5 Jahre alte Grafikkarte zurück'
+- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur (Backhaul/Glasfaseranbindung).): 'Unsere Grüne Glasfaser: Telefónica bindet mehr Antennenstandorte mit Glasfaser an'
+- Gelöscht (Grund: Duplikat zu Artikel 20 (Vorstellung der BMW X5/iX5 Serie).): 'BMW iX5 vorgestellt: Das Elektro-SUV geht ans Limit'
+- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur (Rechenzentren).): 'Nicht eingepreist: Betreiber unterschätzen Klimarisiken für Rechenzentren'
+- Gelöscht (Grund: Duplikat zu Artikel 34 (Trassenfreigabe durch die Bundesnetzagentur).): 'Bahn muss mehr Platz für Konkurrenten schaffen'
+- Gelöscht (Grund: Interne PC-Komponenten (CPU-Kühler).): 'Kühlerklassiker: Scythe kehrt nach Deutschland zurück'
+- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur (Rechenzentrums-Hardware).): 'Komponenten für Rechenzentren als Ziel: Hardware-Diebstähle in den USA nehmen zu'
+- Gelöscht (Grund: Apple Themen (iOS/iPadOS) und allgemeines Apple-Rauschen (OS-Updates).): 'iPadOS 27: Apple öffnet Handschrifterkennung für Dritt-Apps'
+- Gelöscht (Grund: Inhaltlicher Bezug zum Thema iPhone.): 'Leak bei indischem Apple-Fertiger Tata: Details zum iPhone 18 Pro entfleucht'
+- Gelöscht (Grund: Code-Theorie und Web-Infrastruktur (Entwickler-Themen/Bibliotheken).): '.NET-Grafiken: SkiaSharp 4 mit Engine-Upgrade erschienen'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Apotheken dürfen assistierte Telemedizin anbieten
+- [Heise] Frankreich streicht eigene Paketsteuer für Kleinsendungen nach geringem Ertrag
+- [Heise] Supreme Court überprüft Apples Missachtung des Epic-Gerichts
+- [Digitec] Das sind die Streaming-Highlights im Juli
+- [Digitec] RingConn Gen 3 verfolgt den Blutdruck und vibriert – was bringt das?
+- [Digitec] Das sind die Game-Highlights im Juli
+- [Heise] Amazons KI-ler machen Hausbesuche: Forward Deployed Engineering
+- [Heise] Top 5: Der beste Rolladenmotor im Test
+- [Golem] Wegen nach China geschmuggelter KI-Chips: Razzien bei Supermicro Computers
+- [Heise] Solarmodul zerlegt Plastikmüll in Wasserstoff und andere Chemikalien
+- [Heise] Etappensieg mit Beigeschmack: EU-Parlament trotzt vorerst der Chatkontrolle
+- [Golem] Unfallforschung: Elektroautos genauso sicher wie Verbrenner, aber mit anderen Unfällen
+- [Golem] Russland: Nichtfossiles, nichtbiologisches Erdöl in 10 km Tiefe vermutet
+- [Microsoft] The workflow is the product: Copilot Cowork plugins change what AI can do for businesses
+- [Microsoft] What’s New in Microsoft 365 Copilot | June 2026
+- [Heise] BMW X5 vorgestellt: Nie war das SUV technologieoffener
+- [Heise] US-Urteil erschüttert das Fundament des transatlantischen Datentransfers
+- [Heise] DLR-Projekt Loki: KI soll Fluglotsen und Piloten bei der Arbeit unterstützen
+- [Heise] Graviert, schneidet & druckt: Klasse-1-Laser-Engraver xTool M2 überzeugt im Test
+- [Heise] Vodafone: Mehr Datenvolumen und neue Namen für Mobilfunktarife
+- [Digitec] Vorschau: «Splatoon Raiders» macht Lust auf Meer
+- [Heise] Mega-Investitionen: Aktuelle KI-Euphorie gefährlich wie die Dotcom-Blase
+- [Heise] Spritpreise ziehen vor Ende des Tankrabatts deutlich an
+- [Heise] In fünf Milliarden Jahren: Erde könnte Aufblähung der Sonne doch überstehen
+- [Golem] Batterieforschung: Europas Chance bei Lithium-Schwefel-Akkus
+- [Heise] Qi2-Nachfolger: Drahtloses Laden mit bis zu 50 Watt in Arbeit
+- [Golem] Schienenverkehr: Bahn muss Konkurrenten wie Italo und Flix mehr Trassen abgeben
+- [Heise] Euro NCAP: Unterfahrschutz an Lkw-Anhänger versagt im Crashtest
+- [Heise] Tesla: FSD v14 Lite für Hardware 3 wird veröffentlicht
+- [Golem] Sicherheitslücken ohne Ende: Menge an KI-Bug-Reports überfordert Github
+- [Heise] Zahlen, bitte! 172 unvollendete Kanal-Kilometer quer durch Florida
+- [Heise] „Schlechteste App, die ich genutzt habe“: Openclaws Android-App verärgert Nutzer
+- [Golem] Erstmals nicht Erster: Samsung startet neuen Anlauf für 1,4-nm-Prozess
+- [Heise] Amazfit nutzt iPhone-Öffnung für interaktive Benachrichtigungen auf Smartwatches
+- [Golem] Hitzewelle: In 61 Prozent der deutschen Haushalte waren es über 30 °C
+- [Golem] Facebook-Datenlecks: EuGH soll über Zulässigkeit von Sammelklage entscheiden
+- [Digitec] Schluss mit Nummern: WhatsApp startet die Benutzernamen
 - [Golem] Ohne Social Media, Browser und E-Mail: So teuer ist Commodores Klapp-Smartphone wirklich
 - [Golem] Scroll Stopper: Smarter Ständer soll gegen Smartphone-Sucht helfen
 - [Golem] Staffel 3 von Silo: Was ist das Geheimnis der Silos?
@@ -71,7 +101,7 @@ Finale Liste (live im XML-Feed):
 - [Heise] Die besten VR-Spiele im Juli 2026: „Fixer Undercover“ und „Puzzles of the World“
 - [Heise] Bot-Schutz: Googles reCaptcha mit Handgesten fällt auf Fotos rein
 - [Heise] Ozonloch: Schädigung der Ozonschicht begann viel früher und durch anderen Stoff
-- [Golem] LED-Anzeigetafeln: Straßenschilder durch Controller-Lücken manipulierbar
+- [Golem] Sicherheitslücken im Controller: Elektronische Verkehrsschilder sind manipulierbar
 - [Golem] Microsoft: Xbox stoppt offenbar Game-Pass-Deals
 - [Heise] Deutschland-App: KI soll Anträge vereinfachen
 - [Digitec] Der Steam Controller ist der Traum aller Sofa-PC-Zocker
@@ -81,40 +111,8 @@ Finale Liste (live im XML-Feed):
 - [Heise] Taucheranzug ermöglicht ferngesteuerten Cyborg-Kakerlaken das Atmen unter Wasser
 - [Golem] Rockstar Games: GTA 6 enttäuscht im Handel
 - [Digitec] RAW-Entwickler: Bei Darktable tappe ich im Dunkeln
-- [Golem] Nach Signal-Attacken: USA bieten üppiges Kopfgeld für russische Hacker
-- [Golem] Wero Tracker: Webseite informiert über Wero-fähige Banken und Onlineshops
-- [Golem] Hondas CUV e im Test: Ein fast richtig guter Elektroroller
 - [Heise] Software Testing: Positives Führen – Was dahinter steckt und was nicht
 - [Heise] Neue Zollregeln für Kleinsendungen aus Nicht-EU-Staaten ab Juli
 - [Heise] Tidal: KI-Musik bleibt erlaubt, verdient aber kein Geld mehr
-- [Golem] CEO-Bench: KI-Agenten scheitern als virtuelle Chefs
-- [Golem] E-Autos: Tesla-Batterien aus Nevada-Fabrik gestohlen
 - [Heise] Playstation 6: Sony will Konsolen nicht mit erheblichen Verlusten verkaufen
 - [Heise] Dienstag: Milliardenauftrag für Chinas CXMT, CO2-Zertifikate für Microsoft
-- [Heise] Chips übertrumpfen Autos: Mexiko profitiert vom KI-Boom
-- [Heise] Nordamerika-Premiere: CO2-Zertifikate aus Direct Air Capture für Microsoft
-- [Heise] Top 10: Bestes Smartphone bis 400 Euro im Test
-- [Heise] WhatsApp führt Benutzernamen ein – Handynummer bleibt privat
-- [Heise] Geheimdienste im Visier: Straßburger Gericht prüft deutsche Überwachungspraxis
-- [Heise] Chinas GLM-5.2 erreicht Anthropics Mythos bei der Schwachstellensuche
-- [Golem] Sony: PS6 mit 4K und 120 fps für 1.000 US-Dollar?
-- [Golem] JD.com: Wirtschaftsministerium genehmigt Übernahme von Mediamarkt-Saturn
-- [Golem] T-Mobile Holding: Telekom forciert neuen Hauptsitz im Ausland
-- [Digitec] Hitze, Gewitter und die halbe Nacht wach: Gut geschlafen, sagt die Smartwatch
-- [Golem] Drei Euro pro Warenkategorie: Abgabe auf Billigwaren aus China gilt ab Mittwoch
-- [Heise] So würde eine KI als Start-up-Chef abschneiden
-- [Golem] Bastelprojekt: So läuft Youtube auf dem Game Boy Color von 1998
-- [Heise] Plattformarbeit im Test: Kaum eine App bietet faire Bedingungen
-- [Heise] Statt Emulator: Bastler baut Apple II Plus komplett in Hardware nach
-- [Golem] Security: Google Recaptcha-Alternative lässt sich mit Stock-Fotos austricksen
-- [Heise] E-Scooter Egret Unit im Test: Viel Power, großer Akku & cleverer Gepäckträger
-- [Heise] Rocket Lab kauft Iridium: Konkurrenz für SpaceX im Satellitenmarkt
-- [Heise] KI-Update kompakt: KI-Moderation, Finanzmarkt, Datenschutz, GPT-Images
-- [Heise] Busy Bar: Produktivitäts-Gadget vom Erfinder des Flipper Zero erscheint im Juli
-- [Heise] CD Projekt wird wieder CD Projekt Red
-- [Digitec] Schluss mit anonymen Profilen: Netflix führt Mail-Zwang für Mitnutzer ein
-- [Digitec] Galaxus lanciert Travel eSIM
-- [Heise] Bericht: VW will autonomes Fahren ohne Bosch weiterentwickeln
-- [Heise] Erdgeschichte: Asteroideneinschläge haben Entstehung von Kontinenten verzögert
-- [Digitec] Sony entfernt Hunderte gekaufte Filme aus Playstation-Bibliotheken
-- [Heise] KI-Engpass: Google kann Metas Nachfrage nach Gemini nicht mehr decken
