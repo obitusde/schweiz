@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 30.6.2026, 12:58:38
-Letzter Lauf: 30.6.2026, 06:30:36
+Start: 1.7.2026, 06:30:35
+Letzter Lauf: 30.6.2026, 12:58:38
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,25 +17,55 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 26 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Polizeieinsatz) ausserhalb von Waadt (Bern).): 'Une femme trans évacuée de la zone naturiste pour femmes'
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (Polizeieinsatz) ausserhalb von Waadt (Bern).): 'Eskalation wegen Geschlecht – Berner Polizei führt trans Frau aus dem Marzilibad'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 10.): 'Entlassung von Lisa Cook – Mehrere Schlappen für Trump vor dem Supreme Court'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 6 (SRF-Feed bevorzugt).): 'Pascal Jaussi condamné à 5 ans et demi de prison'
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung (illegale Aktion) ausserhalb von Waadt (Genf).): 'Viral mais illégal: sauter d'un toit dans le Rhône fait le buzz'
-- Gelöscht (Grund: Tödlicher Verkehrsunfall in Les Crosets (Wallis) außerhalb des Kantons Waadt.): 'Après une sortie de route, un homme de 34 ans perd la vie'
-- Gelöscht (Grund: Blaulicht-Meldung über eine Naturgefahr und Strassensperrung im Wallis außerhalb des Kantons Waadt.): 'Une lave torrentielle coupe la route de la Grande-Dixence'
-- Gelöscht (Grund: Mathematisches Duplikat zu ID 23; beide Artikel behandeln den Zollstreit mit den USA, ID 23 ist informativer.): 'Zollverhandlungen mit USA – Schweiz darf sich keine Illusionen machen'
+KI-Filter (Gemini) - 36 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Tödlicher Verkehrsunfall in Les Crosets (Wallis) außerhalb des Kantons Waadt.): 'Après une sortie de route, un homme de 34 ans perd la vie'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung über eine Naturgefahr und Strassensperrung im Wallis außerhalb des Kantons Waadt.): 'Une lave torrentielle coupe la route de la Grande-Dixence'
+- Weiterhin entfernt (Cache, Grund: Mathematisches Duplikat zu ID 23; beide Artikel behandeln den Zollstreit mit den USA, ID 23 ist info): 'Zollverhandlungen mit USA – Schweiz darf sich keine Illusionen machen'
+- Gelöscht (Grund: Blaulicht-Meldung/Unfallereignis außerhalb von Vaud (Uri/Zürich)): 'Unwetter über der Schweiz – Strassen überflutet ++ Flüge umgeleitet ++ Konzert unterbrochen'
+- Gelöscht (Grund: Brandmeldung außerhalb von Vaud (Freiburg)): 'Un incendie à la salle de gym des Avoines'
+- Gelöscht (Grund: Duplikat zu ID 12; SRF-Artikel wird bevorzugt): 'Bars, fanzones: où voir le match de la Suisse à 5h du matin?'
+- Gelöscht (Grund: Kriminalität/Gerichtsprozess außerhalb von Vaud (Solothurn)): 'Solothurner Gerichtsprozess – Täter von Bellach wegen Mordes verurteilt'
+- Gelöscht (Grund: Blaulicht-Meldung/Fehlalarm außerhalb von Vaud (Luzern)): 'Brandalarm auf Kapellbrücke – Spinnen halten in Luzern die Feuerwehr auf Trab'
+- Gelöscht (Grund: Verkehrsunfall außerhalb von Vaud (Freiburg)): 'Un cycliste perd la vie après une collision avec un camion'
+- Gelöscht (Grund: Duplikat zu ID 13; SRF-Artikel wird bevorzugt): 'Schutzmassnahmen im Handel – EU reduziert zollfreie Importmenge von Schweizer Stahl'
+- Gelöscht (Grund: Verkehrsunfall außerhalb von Vaud (Jura)): 'Une voiture se renverse après une collision sur un giratoire'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] Explosion in Monaco – Anschlag in Monaco: Derzeit keine Terror-Ermittlungen
+- [20 Min Romandie] Mietpreise steigen am Genfersee weiter an
+- [SRF Schweiz] Streit mit Italien – Das Tessin provoziert eine Krise mit Rom um Grenzgänger
+- [SRF Schweiz] Stromnetz der Zukunft – In der Schweiz beginnt das Zeitalter der Grossbatterien
+- [SRF Wirtschaft] Börsenbilanz Halbjahr 2026 – Top und Flop an der Börse – die Zwischenbilanz zum Halbjahr
+- [SRF Ausland] Niederlage für Trump – Supreme Court hält an US-Staatsbürgerschaft bei Geburt fest
+- [SRF Wirtschaft] Studie von PWC – Studie: Spitalfinanzen besser, aber noch nicht gut genug
+- [SRF Ausland] Übergriffe gegen Ausländer – Tausende protestieren gegen Migranten in Südafrika
+- [SRF Ausland] Nach Jahrhunderterdbeben – Zahl der Todesopfer in Venezuela steigt auf über 1900
+- [SRF Schweiz] Bericht des Datenschützers – Datenschützer sieht Öffentlichkeitsgesetz gefährdet
+- [SRF Wirtschaft] Schweizer Landesversorgung – So hält die Schweiz ihre Versorgung krisensicher
+- [SRF Wissen] Fiese Anstosszeiten – Fussball vs. Schlaf: So kommen Sie durch die WM-Nächte
+- [SRF Schweiz] EU senkt Stahleinfuhrquoten – Stahlhart – die Schweizer Industrie ist empört
+- [Journal de Morges] «Das ist mein bisher bestes Ergebnis»
+- [20 Min Romandie] Staat will mit der Sanierung von 300 Gebäuden mit gutem Beispiel vorangehen
+- [SRF Schweiz] Bundesgericht zu Arztgeheimnis – Wider den gesunden Menschenverstand
+- [20 Min Romandie] Klimaanlagen sollten am nächsten Tag geliefert werden, nun dauert es eine Woche
+- [SRF Ausland] Forscher entwickeln Rezept – KI designt dir deinen Lieblingsburger
+- [SRF Ausland] Fehlentscheid an der WM – Warum der Fussball den fehlbaren Schiedsrichter braucht
+- [SRF Schweiz] E-ID ab 2027 – Die Einführung der E-ID verzögert sich
+- [SRF Ausland] Skurrile Staatsgeschenke – Diplomatische Kuriositäten: Vom Sachbuch bis zum Kamel
+- [20 Min Romandie] Bern genehmigt Bahntunnel zwischen Morges und Perroy
+- [20 Min Romandie] Drei kleine Konzerte und dann... die Rückkehr
+- [SRF Schweiz] Nach Beschluss des Parlaments – Breites Bündnis lanciert Referendum gegen den Bau neuer AKW
+- [20 Min Romandie] Sonnencrèmes verschmutzen Bergseen
+- [20 Min Romandie] Philippe Revaz wird das «19h30» nicht mehr moderieren
+- [SRF Wirtschaft] Studie zur Vermögensverteilung – Die Reichen sind nochmals viel reicher geworden
+- [SRF Wirtschaft] Von Kokos bis Himbeere – Glacetrends: Warum nicht jede Sorte den Sommer erlebt
+- [20 Min Romandie] Das CERN in Genf möchte die Tour de France 2029 ausrichten
+- [SRF Ausland] Explosion in Monaco – Paketbombe: Ukrainischer Oligarch mit Familie schwer verletzt
 - [SRF Ausland] Erdbeben in Venezuela – Unicef: «Sofortiges Spielen ist die beste Therapie für Kinder»
 - [20 Min Romandie] «Wir sprechen von verwüsteten Gebieten: Es ist zum Weinen...»
 - [20 Min Romandie] Hitzewelle: Notaufnahme-Aktivität um 60 % gestiegen
 - [SRF Schweiz] Unfallstatistik – Zahl der Freizeitunfälle steigt in der Schweiz weiter an
-- [SRF Ausland] Drei Jahre im Ukraine-Krieg – Botschafter: «Man lernt, die Raketen am Ton zu erkennen»
+- [SRF Ausland] Sein Mandat in Kiew endet – Botschafter: «Nach drei Jahren Ukraine bin ich müde»
 - [20 Min Romandie] Plädoyer für die künftige Metro Jura-Salève über Cornavin
-- [SRF Schweiz] Schutzmassnahmen im Handel – EU reduziert zollfreie Importmenge von Schweizer Stahl
 - [20 Min Romandie] Sturzfluten an der Nordwand des Matterhorns
 - [SRF Schweiz] Faszination Ungeziefer – «Am Anfang dachte ich noch: Uh, das würde ich nie machen»
 - [SRF Ausland] WM-Aus für Deutschland – Das elende Ende einer grossen Elf
@@ -50,33 +80,3 @@ Finale Liste (live im XML-Feed):
 - [RTS Vaud] Untersuchungshaft: Eine „Ewigkeit“, die im Kanton Waadt immer länger wird
 - [SRF Schweiz] Zollstreit mit den USA – Parmelin: «Es gibt keine Sicherheiten mehr in dieser Welt»
 - [SRF Wissen] WHO gibt Entwarnung – Hantavirus-Ausbruch auf der «Hondius» geht dem Ende zu
-- [SRF Gesellschaft] Arschgyge, Goofe und Huresiech – Ohne Anstand und Sitte: Hier lernen Sie, ordentlich zu schimpfen
-- [SRF Schweiz] Jugendstrafrecht – Warum nur ein Jahr Haft für jugendlichen Messerstecher?
-- [SRF Ausland] Schüsse in Jugendeinrichtung – Sechs Tote nach Schüssen in norddeutscher Stadt Stade
-- [SRF Ausland] Legalisierung Sans-Papiers – Spaniens Sonderweg: Rund eine Million Anträge
-- [SRF Schweiz] «Schweizer Elon Musk» – Jaussi zu fünfeinhalb Jahren Haft verurteilt
-- [SRF Ausland] Allein in letzter Woche – WHO meldet über 1300 Hitzetote in Europa
-- [20 Min Romandie] Kontrolleure in Zivil sind nun mit von der Partie
-- [SRF Schweiz] Debatte um neue Kernkraftwerke – Der hürdenreiche Weg hin zu neuen AKWs
-- [SRF Ausland] Oberstes Gericht in den USA – Wo der Supreme Court Trump einhegt – und gewähren lässt
-- [SRF Wissen] Klimawandel und Landwirtschaft – Die Sahara erreicht Südeuropa – mit Folgen für die Schweiz
-- [20 Min Romandie] Museumsprojekt für Le Corbusier gerichtlich gestoppt
-- [SRF Ausland] Datenschutzgründe – Whatsapp setzt neu auf Benutzernamen statt Handynummern
-- [SRF Schweiz] Bilanz Jodlerfest in Basel – Eidgenössisches Schwitzfest bei 39 Grad
-- [20 Min Romandie] Funkstille in La Sallaz nach 91 Jahren auf Sendung
-- [SRF Ausland] Prämien für Fischer – Warum Griechenland Jagd auf diesen Kugelfisch macht
-- [SRF Wissen] Nach der Hitze – Ist die Schweiz auf künftige Hitzewellen vorbereitet?
-- [SRF Schweiz] Umfrage – Fast jede fünfte Person in der Schweiz hält Kryptoanlagen
-- [20 Min Romandie] Cannabishandel und Entführungen: Fünf Angeklagte gestehen
-- [SRF Ausland] Kaunertal in Österreich – Nach Unwetter im Tirol werden 200 Personen evakuiert
-- [SRF Schweiz] Hitzewelle und warme Gewässer – «Nie stand es so früh so kritisch um viele Gewässer und Fische»
-- [SRF Schweiz] Aktion der Krebsliga – Gratis-Sonnencreme für Hautkrebs-Hotspot Schweiz
-- [SRF Schweiz] Diskurs um AKW-Neubauten – Initiative «Blackout stoppen» ist vorerst vom Tisch
-- [SRF Schweiz] Premiere im Kanton Glarus – Autofreies Klöntal: Des einen Freud, des andern Frust
-- [SRF Ausland] Erdbeben in Venezuela – Stromausfall stoppt Raffinerie – Der Ticker zum Nachlesen
-- [SRF Ausland] Grausiger Fund in Tierheim – Schock in Kalifornien: 117 tote Hunde gefunden
-- [20 Min Romandie] Entlassen, während sie über ihren schwer verletzten Sohn wachte
-- [SRF Ausland] Krieg in der Ukraine – Geldbetrug: Wenn russische «Helden» zu Opfern werden
-- [20 Min Romandie] Die nächste Hitzewelle zeichnet sich bereits ab
-- [SRF Schweiz] Suisa Songwriting Camp – Die Schweizer ESC-Hitfabrik wird umgebaut
-- [Journal de Morges] Zoé Claessens ist Vize-Europameisterin
