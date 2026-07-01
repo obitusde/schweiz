@@ -5,8 +5,92 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Jul 2026 04:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[SRF Schweiz] Umstrittene Einbürgerung – Thurgauer Parlament bürgert Syrer nach acht Jahren ein</title>
+      <link>https://www.srf.ch/news/schweiz/umstrittene-einbuergerung-thurgauer-parlament-buergert-syrer-nach-acht-jahren-ein</link>
+      <guid isPermaLink="false">urn:srf:article:019f178d-815a-3d9f-9e8e-28110cd4ad5c</guid>
+      <description><![CDATA[Ein Einbürgerungsgesuch, mehrere Gerichtsurteile und politische Debatten: Nun ist der Fall abgeschlossen.]]></description>
+      <pubDate>Wed, 01 Jul 2026 10:48:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Neue Regeln ab 1. Juli – Autorennen, Kinderschutz, Handybetrug: Das gilt ab jetzt</title>
+      <link>https://www.srf.ch/news/schweiz/neue-regeln-ab-1-juli-autorennen-kinderschutz-handybetrug-das-gilt-ab-jetzt</link>
+      <guid isPermaLink="false">urn:srf:article:019f1cc9-215e-e428-a20c-69ed00178b1c</guid>
+      <description><![CDATA[Vom Strassenverkehr über Gesundheits-Apps bis zu Spoofing: Ab heute treten diverse Neuerungen in Kraft. Eine Übersicht.]]></description>
+      <pubDate>Wed, 01 Jul 2026 10:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Nach fünf Jahren – Merkel inszeniert sich mit «Spuren der Macht»</title>
+      <link>https://www.srf.ch/news/international/nach-fuenf-jahren-merkel-inszeniert-sich-mit-spuren-der-macht</link>
+      <guid isPermaLink="false">urn:srf:article:019f1cd2-c71d-ff4e-6d1b-40e93d1cb73b</guid>
+      <description><![CDATA[Aussergewöhnlich lange liess sich Angela Merkel Zeit mit dem offiziellen Porträt. Nun wurde es in Berlin enthüllt.]]></description>
+      <pubDate>Wed, 01 Jul 2026 09:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] 80 Jahre Atomtests – Bikini-Atoll: Das verlorene Paradies</title>
+      <link>https://www.srf.ch/news/international/80-jahre-atomtests-bikini-atoll-das-verlorene-paradies</link>
+      <guid isPermaLink="false">urn:srf:article:019f1738-ba93-4157-81a4-b6f26583a941</guid>
+      <description><![CDATA[1946 verliessen 167 Menschen das Bikini-Atoll für Atombombentests der USA. Bis heute können sie nicht zurück.]]></description>
+      <pubDate>Wed, 01 Jul 2026 09:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Lausanne führt geschlechtsneutrale WCs ein, um Wartezeiten für Frauen zu verkürzen</title>
+      <link>https://www.20min.ch/fr/story/vaud-lausanne-aura-des-wc-non-genres-pour-eviter-aux-femmes-d-attendre-103594149</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-lausanne-aura-des-wc-non-genres-pour-eviter-aux-femmes-d-attendre-103594149</guid>
+      <description><![CDATA[Die Stadt will, dass die selbstreinigenden Einzelkabinen von beiden Geschlechtern genutzt werden können, um den Komfort für Frauen zu verbessern.]]></description>
+      <pubDate>Wed, 01 Jul 2026 08:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Höchstwerte übertroffen – Meere so warm wie noch nie um diese Jahreszeit</title>
+      <link>https://www.srf.ch/news/hoechstwerte-uebertroffen-meere-so-warm-wie-noch-nie-um-diese-jahreszeit</link>
+      <guid isPermaLink="false">urn:srf:article:019f1c7e-73d3-c610-1d35-f32248d7a84e</guid>
+      <description><![CDATA[Die globale Durchschnittstemperatur der Wasseroberflächen lag zum Sommeranfang am 21. Juni bei knapp 21 Grad.]]></description>
+      <pubDate>Wed, 01 Jul 2026 08:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Zubehör von Angriffsdrohnen – Vögel in der Ukraine bauen offenbar Nester aus Glasfaserkabeln</title>
+      <link>https://www.srf.ch/news/international/ukraine/zubehoer-von-angriffsdrohnen-voegel-in-der-ukraine-bauen-offenbar-nester-aus-glasfaserkabeln</link>
+      <guid isPermaLink="false">urn:srf:article:019f19b3-a4b2-dc7e-a352-2d4e38356829</guid>
+      <description><![CDATA[Mehrere ukrainische Soldaten wollen entsprechende Funde gemacht haben.]]></description>
+      <pubDate>Wed, 01 Jul 2026 08:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Vergangenheit von Betreuern in Ferienfreizeiten wird nicht gründlich geprüft</title>
+      <link>https://www.20min.ch/fr/story/vaud-le-passe-des-animateurs-de-centres-aeres-n-est-pas-scanne-a-fond-103594119</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-le-passe-des-animateurs-de-centres-aeres-n-est-pas-scanne-a-fond-103594119</guid>
+      <description><![CDATA[Yverdon verlangt keinen Sonderprivatauszug aus dem Strafregister von Erwachsenen, die Kinder bei Tagesaktivitäten betreuen. In der Schweiz besteht eine Gesetzeslücke.]]></description>
+      <pubDate>Wed, 01 Jul 2026 07:23:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Verbot aufgehoben – Gibt es bald wieder Formel-1-Rennen in der Schweiz?</title>
+      <link>https://www.srf.ch/news/schweiz/verbot-aufgehoben-gibt-es-bald-wieder-formel-1-rennen-in-der-schweiz</link>
+      <guid isPermaLink="false">urn:srf:article:019f179d-ef15-14ab-c954-dc433d7860d3</guid>
+      <description><![CDATA[Ab dem 1. Juli sind Rundstreckenrennen in der Schweiz wieder erlaubt. Formel-1-Rennen bleiben trotzdem unrealistisch.]]></description>
+      <pubDate>Wed, 01 Jul 2026 07:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Fliegen wie ein Falke – Fliegen wie ein Falke: Vorbild für die Drohnen von morgen</title>
+      <link>https://www.srf.ch/wissen/technik/fliegen-wie-ein-falke-fliegen-wie-ein-falke-vorbild-fuer-die-drohnen-von-morgen</link>
+      <guid isPermaLink="false">urn:srf:article:019f137a-dca1-6c25-2a4e-1b4885b37f24</guid>
+      <description><![CDATA[Ingenieure schauen sich Strategien beim Falken ab, um Drohnen künftig auch bei Turbulenzen flugtauglicher zu machen.]]></description>
+      <pubDate>Wed, 01 Jul 2026 06:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Wachbleiben wegen der WM – Nati-Spiel um 5 Uhr: So vermeiden Sie den Knockout</title>
+      <link>https://www.srf.ch/news/gesellschaft/wachbleiben-wegen-der-wm-nati-spiel-um-5-uhr-so-vermeiden-sie-den-knockout</link>
+      <guid isPermaLink="false">urn:srf:article:019f17a2-6628-6204-05a5-3b2622d0ff42</guid>
+      <description><![CDATA[Nicht nur die Nati spielt zur Unzeit. Vorschlafen, nachschlafen, durchbeissen? Der Survival-Guide für Fussballfans.]]></description>
+      <pubDate>Wed, 01 Jul 2026 06:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Gesellschaft] Gegen Smartphone-Tunnelblick – Die verlorene Intensität: Wie wir wieder mehr fühlen</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/gegen-smartphone-tunnelblick-die-verlorene-intensitaet-wie-wir-wieder-mehr-fuehlen</link>
+      <guid isPermaLink="false">urn:srf:article:019f129b-a260-298b-b5b6-ceb7feb877f4</guid>
+      <description><![CDATA[Verkümmert im digitalen Zeitalter unsere Fähigkeit zur Sinneswahrnehmung – und wie können wir gegensteuern?]]></description>
+      <pubDate>Wed, 01 Jul 2026 06:02:58 GMT</pubDate>
+    </item>
     <item>
       <title>[20 Min Romandie] Mietpreise steigen am Genfersee weiter an</title>
       <link>https://www.20min.ch/fr/story/geneve-la-hausse-des-loyers-se-poursuit-au-bout-du-lac-103593723</link>
@@ -78,25 +162,11 @@
       <pubDate>Tue, 30 Jun 2026 17:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wissen] Fiese Anstosszeiten – Fussball vs. Schlaf: So kommen Sie durch die WM-Nächte</title>
-      <link>https://www.srf.ch/news/gesellschaft/fiese-anstosszeiten-fussball-vs-schlaf-so-kommen-sie-durch-die-wm-naechte</link>
-      <guid isPermaLink="false">urn:srf:article:019f17a2-6628-6204-05a5-3b2622d0ff42</guid>
-      <description><![CDATA[Nicht nur die Nati spielt zur Unzeit. Vorschlafen, nachschlafen, durchbeissen? Der Survival-Guide für Fussballfans.]]></description>
-      <pubDate>Tue, 30 Jun 2026 17:21:22 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Schweiz] EU senkt Stahleinfuhrquoten – Stahlhart – die Schweizer Industrie ist empört</title>
       <link>https://www.srf.ch/news/schweiz/eu-senkt-stahleinfuhrquoten-stahlhart-die-schweizer-industrie-ist-empoert</link>
       <guid isPermaLink="false">urn:srf:article:019f1942-cb98-7016-9e08-7cc697e1cffa</guid>
       <description><![CDATA[Die Schweiz kann weniger Stahl als bis anhin zollfrei in die EU exportieren. Das sorgt für Unverständnis in der Branche.]]></description>
       <pubDate>Tue, 30 Jun 2026 17:20:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] «Das ist mein bisher bestes Ergebnis»</title>
-      <link>https://journaldemorges.ch/sports/omnisports/cest-ma-plus-belle-medaille-jusquici2/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/sports/omnisports/cest-ma-plus-belle-medaille-jusquici2/</guid>
-      <description><![CDATA[Timéo Cori vom Judo Club Morges hat bei den U18-Europameisterschaften Bronze gewonnen und schliesst damit eine aussergewöhnliche Saison ab.]]></description>
-      <pubDate>Tue, 30 Jun 2026 16:47:00 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Staat will mit der Sanierung von 300 Gebäuden mit gutem Beispiel vorangehen</title>
@@ -120,7 +190,7 @@
       <pubDate>Tue, 30 Jun 2026 15:57:24 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Forscher entwickeln Rezept – KI designt dir deinen Lieblingsburger</title>
+      <title>[SRF Wissen] Forscher entwickeln Rezept – KI designt dir deinen Lieblingsburger</title>
       <link>https://www.srf.ch/news/international/forscher-entwickeln-rezept-ki-designt-dir-deinen-lieblingsburger</link>
       <guid isPermaLink="false">urn:srf:article:019f189f-77c0-d051-e88c-3d1bbdfb42f4</guid>
       <description><![CDATA[In einem Restaurant mussten sich die Tech-Produkte dann mit den Klassikern messen – und bestanden den Test.]]></description>
@@ -146,6 +216,13 @@
       <guid isPermaLink="false">urn:srf:article:019f179a-4f1a-6fee-7588-5a73eea5a364</guid>
       <description><![CDATA[Wenn Staatschefs Geschenke austauschen, wird es bisweilen bizarr. Eine Auswahl von zehn Kuriositäten.]]></description>
       <pubDate>Tue, 30 Jun 2026 13:44:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Morges führt diesen Sommer Einschränkungen beim Trinkwasser ein</title>
+      <link>https://journaldemorges.ch/actualite/societe/morges-impose-des-restrictions-sur-leau-potable-cet-ete/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/morges-impose-des-restrictions-sur-leau-potable-cet-ete/</guid>
+      <description><![CDATA[Aufgrund eines raschen Rückgangs der Trinkwasserreserven im Grundwasserspiegel von Morand trifft die Stadtverwaltung von Morges Maßnahmen für den gesamten Sommer. Auch andere Gemeinden der Region sind betroffen.]]></description>
+      <pubDate>Tue, 30 Jun 2026 13:40:41 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Bern genehmigt Bahntunnel zwischen Morges und Perroy</title>
@@ -202,153 +279,6 @@
       <guid isPermaLink="false">https://www.20min.ch/fr/story/cyclisme-le-cern-de-geneve-veut-accueillir-le-tour-de-france-en-2029-103593656</guid>
       <description><![CDATA[Die Europäische Organisation für Kernforschung möchte in drei Jahren ein Einzelzeitfahren der Grande Boucle veranstalten.]]></description>
       <pubDate>Tue, 30 Jun 2026 12:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Explosion in Monaco – Paketbombe: Ukrainischer Oligarch mit Familie schwer verletzt</title>
-      <link>https://www.srf.ch/news/international/explosion-in-monaco-paketbombe-ukrainischer-oligarch-mit-familie-schwer-verletzt</link>
-      <guid isPermaLink="false">urn:srf:article:019f1584-7791-8af3-f6e2-def7270eb864</guid>
-      <description><![CDATA[In Monaco sind bei einer Explosion drei Menschen teils schwer verletzt worden. Der mutmassliche Täter ist flüchtig.]]></description>
-      <pubDate>Tue, 30 Jun 2026 10:45:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Erdbeben in Venezuela – Unicef: «Sofortiges Spielen ist die beste Therapie für Kinder»</title>
-      <link>https://www.srf.ch/news/international/erdbeben-in-venezuela-unicef-sofortiges-spielen-ist-die-beste-therapie-fuer-kinder</link>
-      <guid isPermaLink="false">urn:srf:article:019f176a-cfc5-31f1-b2d2-bf05a10c9ef3</guid>
-      <description><![CDATA[Die Katastrophe in Venezuela trifft viele Kinder. Sie brauchen Schutz, sagt der Unicef-Vertreter.]]></description>
-      <pubDate>Tue, 30 Jun 2026 10:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] «Wir sprechen von verwüsteten Gebieten: Es ist zum Weinen...»</title>
-      <link>https://www.20min.ch/fr/story/geneve-on-parle-de-zones-devastees-c-est-a-pleurer-103593483</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-on-parle-de-zones-devastees-c-est-a-pleurer-103593483</guid>
-      <description><![CDATA[Ein heftiges Gewitter zog am Montagabend insbesondere über den Süden des Kantons hinweg. Die Schäden sind beträchtlich, vor allem an den Kulturen. Es gab keine Verletzten.]]></description>
-      <pubDate>Tue, 30 Jun 2026 10:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Hitzewelle: Notaufnahme-Aktivität um 60 % gestiegen</title>
-      <link>https://www.20min.ch/fr/story/geneve-canicule-l-activite-des-urgences-a-bondi-de-60-103593533</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-canicule-l-activite-des-urgences-a-bondi-de-60-103593533</guid>
-      <description><![CDATA[Die medizinischen Notfalldienste wurden am Ende der Woche überrannt. Hingegen wurde kein Anstieg der Sterblichkeit festgestellt.]]></description>
-      <pubDate>Tue, 30 Jun 2026 10:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Unfallstatistik – Zahl der Freizeitunfälle steigt in der Schweiz weiter an</title>
-      <link>https://www.srf.ch/news/schweiz/unfallstatistik-zahl-der-freizeitunfaelle-steigt-in-der-schweiz-weiter-an</link>
-      <guid isPermaLink="false">urn:srf:article:019f17ce-22b6-03ba-4381-a4c033ee43bf</guid>
-      <description><![CDATA[Unfallversicherer verzeichneten 2025 fast 940'000 Unfälle – 2.4 Prozent mehr als im Jahr davor.]]></description>
-      <pubDate>Tue, 30 Jun 2026 09:57:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Sein Mandat in Kiew endet – Botschafter: «Nach drei Jahren Ukraine bin ich müde»</title>
-      <link>https://www.srf.ch/news/international/sein-mandat-in-kiew-endet-botschafter-nach-drei-jahren-ukraine-bin-ich-muede</link>
-      <guid isPermaLink="false">urn:srf:article:019f1399-206a-dabc-fd5b-76e4d0fe3df8</guid>
-      <description><![CDATA[Der Schweizer Félix Baumann ist Botschafter in der Ukraine. Mitte Juli, nach drei Jahren, tritt er ab.]]></description>
-      <pubDate>Tue, 30 Jun 2026 09:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Plädoyer für die künftige Metro Jura-Salève über Cornavin</title>
-      <link>https://www.20min.ch/fr/story/geneve-plaidoyer-pour-que-le-futur-metro-jura-saleve-passe-par-cornavin-103593507</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-plaidoyer-pour-que-le-futur-metro-jura-saleve-passe-par-cornavin-103593507</guid>
-      <description><![CDATA[Der vom Staat eingesetzte Beirat wünscht eine leichte Änderung der Linienführung der künftigen Stadtbahn, die Genf plant.]]></description>
-      <pubDate>Tue, 30 Jun 2026 09:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Sturzfluten an der Nordwand des Matterhorns</title>
-      <link>https://www.20min.ch/fr/story/valais-des-torrents-d-eau-sur-la-face-nord-du-cervin-103593472</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/valais-des-torrents-d-eau-sur-la-face-nord-du-cervin-103593472</guid>
-      <description><![CDATA[Ein am 25. Juni von einem ehemaligen Bergführer aufgenommenes Foto illustriert die Auswirkungen des Klimawandels an einem Ort, der normalerweise das Reich des Eises ist.]]></description>
-      <pubDate>Tue, 30 Jun 2026 08:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Faszination Ungeziefer – «Am Anfang dachte ich noch: Uh, das würde ich nie machen»</title>
-      <link>https://www.srf.ch/news/schweiz/faszination-ungeziefer-am-anfang-dachte-ich-noch-uh-das-wuerde-ich-nie-machen</link>
-      <guid isPermaLink="false">urn:srf:article:019f127b-9ab1-efd4-86de-62b275de3f41</guid>
-      <description><![CDATA[Fast 30 Jahre lang hat die Zürcher Schädlingsexpertin Ratten, Tigermücken und Bettwanzen bekämpft.]]></description>
-      <pubDate>Tue, 30 Jun 2026 08:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] WM-Aus für Deutschland – Das elende Ende einer grossen Elf</title>
-      <link>https://www.srf.ch/news/international/wm-aus-fuer-deutschland-das-elende-ende-einer-grossen-elf</link>
-      <guid isPermaLink="false">urn:srf:article:019f1731-80f5-4d13-c5eb-60cb021df184</guid>
-      <description><![CDATA[Deutschland verliert gegen Paraguay, ist raus. Der Kanzler ist trotzdem zufrieden mit der Leistung. Was ist da los?]]></description>
-      <pubDate>Tue, 30 Jun 2026 08:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Genf von Hagel und starken Böen heimgesucht</title>
-      <link>https://www.20min.ch/fr/video/meteo-geneve-balayee-par-la-grele-et-de-fortes-rafales-103593471</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/video/meteo-geneve-balayee-par-la-grele-et-de-fortes-rafales-103593471</guid>
-      <description><![CDATA[Starke Regenfälle, Hagel und heftige Böen trafen am Montag Genf, insbesondere Plan-les-Ouates. Für diesen Dienstagabend werden neue Gewitter erwartet.]]></description>
-      <pubDate>Tue, 30 Jun 2026 08:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Häusliche Gewalt: Die Polizei rückte 2025 insgesamt 966 Mal aus</title>
-      <link>https://www.20min.ch/fr/story/geneve-violence-domestique-la-police-est-intervenue-966-fois-en-2025-103593454</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-violence-domestique-la-police-est-intervenue-966-fois-en-2025-103593454</guid>
-      <description><![CDATA[Eine bessere Erkennung von Fällen häuslicher Gewalt hat zu einem sprunghaften Anstieg der Wegweisungen geführt und den Druck auf Notunterkünfte erhöht.]]></description>
-      <pubDate>Tue, 30 Jun 2026 07:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges Actualitiés] Einschränkungen beim Trinkwasser</title>
-      <link>https://www.morges.ch/actualites/restrictions-sur-l-eau-potable-213339</link>
-      <guid isPermaLink="false">https://www.morges.ch/actualites/restrictions-sur-l-eau-potable-213339</guid>
-      <description />
-      <pubDate>Tue, 30 Jun 2026 07:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Energieversorger Groupe E streicht zwischen 22 und 31 Stellen</title>
-      <link>https://www.20min.ch/fr/story/fribourg-l-energeticien-groupe-e-va-biffer-entre-22-et-31-postes-103593421</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/fribourg-l-energeticien-groupe-e-va-biffer-entre-22-et-31-postes-103593421</guid>
-      <description><![CDATA[Das in Freiburg, Neuenburg und der Waadtländer Broye tätige Unternehmen hatte bereits 2025 168 Stellen abgebaut. Es handelt sich um die letzte Etappe seiner Umstrukturierung.]]></description>
-      <pubDate>Tue, 30 Jun 2026 06:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Effiziente Hilfe aus der Luft – Was die neuen Rettungshelikopter der Rega taugen</title>
-      <link>https://www.srf.ch/radio-srf-1/effiziente-hilfe-aus-der-luft-was-die-neuen-rettungshelikopter-der-rega-taugen</link>
-      <guid isPermaLink="false">urn:srf:article:019f1254-ef92-f51d-2f91-1912c698206b</guid>
-      <description><![CDATA[Die Rega modernisiert ihre Flotte: Die neuen Helikopter versprechen einige technische Vorteile und einheitliche Abläufe.]]></description>
-      <pubDate>Tue, 30 Jun 2026 06:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Die Schweizer Solar-Bahnstrecke ist international gefragt</title>
-      <link>https://www.20min.ch/fr/story/buttes-ne-la-voie-ferree-solaire-suisse-a-la-cote-a-l-international-103592945</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/buttes-ne-la-voie-ferree-solaire-suisse-a-la-cote-a-l-international-103592945</guid>
-      <description><![CDATA[Seit einem Jahr produzieren auf einer Bahnstrecke in Buttes (NE) installierte Solarpaneele nachhaltigen Strom und wecken das Interesse der Nachbarländer.]]></description>
-      <pubDate>Tue, 30 Jun 2026 05:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Fussball-WM in den USA – Die WM läuft, der Präsident fehlt – bis jetzt</title>
-      <link>https://www.srf.ch/news/international/fussball-wm-in-den-usa-die-wm-laeuft-der-praesident-fehlt-bis-jetzt</link>
-      <guid isPermaLink="false">urn:srf:article:019f1237-72ec-41da-85b8-5a5f697884e7</guid>
-      <description><![CDATA[Die erwartete Trump-Show ist bei der WM bisher ausgeblieben. Interessiert sich der US-Präsident doch nicht für Fussball?]]></description>
-      <pubDate>Tue, 30 Jun 2026 05:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Prüfung durch Finanzkontrolle – IT-Projekt des VBS: «Wir wechseln das Rad am fahrenden Auto»</title>
-      <link>https://www.srf.ch/news/schweiz/pruefung-durch-finanzkontrolle-it-projekt-des-vbs-wir-wechseln-das-rad-am-fahrenden-auto</link>
-      <guid isPermaLink="false">urn:srf:article:019f13c3-e830-29d2-4d1b-b8ff388fe930</guid>
-      <description><![CDATA[Das Projekt iTask hat Risiken, wie die Eidgenössische Finanzkontrolle feststellt. Das VBS sieht sich auf Kurs.]]></description>
-      <pubDate>Tue, 30 Jun 2026 05:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[RTS Vaud] Untersuchungshaft: Eine „Ewigkeit“, die im Kanton Waadt immer länger wird</title>
-      <link>https://www.rts.ch/info/suisse/2026/article/la-detention-provisoire-s-allonge-dans-le-canton-de-vaud-29285086.html?rts_source=rss_t</link>
-      <guid isPermaLink="false">29285086</guid>
-      <description><![CDATA[Neunundneunzig Tage warten Häftlinge im Kanton Waadt im Durchschnitt auf ihr Urteil. Dieser Wert liegt über dem nationalen Durchschnitt. Eine Untersuchung von RTS zeigt, dass die Dauer seit fast zehn Jahren stetig zunimmt.]]></description>
-      <pubDate>Tue, 30 Jun 2026 05:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Zollstreit mit den USA – Parmelin: «Es gibt keine Sicherheiten mehr in dieser Welt»</title>
-      <link>https://www.srf.ch/news/schweiz/zollstreit-mit-den-usa-parmelin-es-gibt-keine-sicherheiten-mehr-in-dieser-welt</link>
-      <guid isPermaLink="false">urn:srf:article:019f161a-afd7-78bf-a5cc-4070052e99ae</guid>
-      <description><![CDATA[Kein Durchbruch in den USA: Parmelin erklärt, weshalb er stattdessen im Zollstreit die Absichtserklärung bekräftigt hat.]]></description>
-      <pubDate>Tue, 30 Jun 2026 04:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] WHO gibt Entwarnung – Hantavirus-Ausbruch auf der «Hondius» geht dem Ende zu</title>
-      <link>https://www.srf.ch/wissen/gesundheit/who-gibt-entwarnung-hantavirus-ausbruch-auf-der-hondius-geht-dem-ende-zu</link>
-      <guid isPermaLink="false">urn:srf:article:019f1282-63ba-990b-dc45-3991140fe840</guid>
-      <description><![CDATA[Die WHO meldet: Das Hantavirusausbruch, der Anfang Mai auf einem Kreuzfahrtschiff begann, ist unter Kontrolle.]]></description>
-      <pubDate>Tue, 30 Jun 2026 04:43:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
