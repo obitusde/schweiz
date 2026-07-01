@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 30.6.2026, 06:59:31
-Letzter Lauf: 29.6.2026, 10:13:57
+Start: 1.7.2026, 06:59:31
+Letzter Lauf: 30.6.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,30 +20,34 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 19 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Duplikat des Themas 'Schüsse in Stade', Artikel 0 enthält bereits die relevanten Informationen.): [Gesellschaft] 'Stade: Was über die Schüsse in einer Jugendeinrichtung in Stade bekannt ist'
-- GelÃ¶scht (Grund: Duplikat des Themas 'Schüsse in Stade', Artikel 0 gilt als der informativste Bericht.): [Gesellschaft] 'Niedersachsen: Fünf Tote nach Schüssen in Jugendeinrichtung in Stade'
-- GelÃ¶scht (Grund: Fällt unter die Kategorie 'Unfälle ohne längerfristige Relevanz'.): [Gesellschaft] 'Badetote in Deutschland: 26 Männer und Jungen bei Badeunfällen am Wochenende gestorben'
-- GelÃ¶scht (Grund: Duplikat zum Erdbeben in Venezuela, Artikel 3 behandelt das Hauptthema prägnanter.): [Gesellschaft] 'Erdbeben in Venezuela: Schulen in Venezuela bleiben nach Erdbebenkatastrophe geschlossen'
-- GelÃ¶scht (Grund: Fällt unter die Kategorie 'Deutsche Kommunalpolitik & Städte'.): [Gesellschaft] 'Kölner Dom: Kölner Dom kostet ab Mittwoch Eintritt – bisher kein erhöhter Andrang'
+KI-Filter (Gemini) - 28 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Behandelt dasselbe Thema wie ID 16, ID 16 bietet informativere Daten zur Preisentwicklung.): [Mobilität] 'Ende des Tankrabatts: Tanke für nichts'
+- GelÃ¶scht (Grund: Duplikat zu Artikel ID 12; ID 12 fasst die Fakten zum Betrugsfall präziser zusammen.): [Gesellschaft] 'Abrechnungsbetrug im Gesundheitswesen: Die Phantompatienten des Dr. O.'
+- GelÃ¶scht (Grund: Thematisches Duplikat zu ID 0 und ID 24; ID 24 bietet den aktuellsten Sachstand.): [Gesellschaft] 'Naturkatastrophe: Zahl der Toten nach Erdbeben in Venezuela steigt auf über 1.900'
+- GelÃ¶scht (Grund: Thematisches Duplikat zu ID 20, welcher detailliertere Hintergründe liefert.): [Gesellschaft] 'Stade: Amtsgericht erlässt nach Schüssen in Stade Haftbefehl wegen Mordes'
+- GelÃ¶scht (Grund: Fällt unter die Kategorie regionale Kommunalthemen (Schweiz/Grosshöchstetten).): [Schweiz] 'Kabarettduo »schön und gut«: Postleitzahl: 3506'
 
 Finale Liste (live im XML-Feed):
-- [Gesellschaft] Schüsse in Stade: »Was die gesehen haben, hinterlässt Spuren«
-- [Gesellschaft] Grenze zu Frankreich: Drei Verletzte bei mutmaßlichem Sprengstoffanschlag in Monaco
-- [Wirtschaft] MediaMarktSaturn: Ministerium erlaubt Übernahme von MediaMarkt durch Konzern aus China
-- [Gesellschaft] Erdbeben in Venezuela: Zahl der Toten in Venezuela steigt auf 1.700
-- [Mobilität] Tarifverhandlungen bei Ryanair: Vereinigung Cockpit wirft Ryanair unfaire Verhandlungsmethoden vor
-- [Arbeit] Agentur für Arbeit: Jobcenter können künftig Alkohol beim Bewerbungsgespräch ahnden
-- [Wirtschaft] Pläne gegen Altersarmut: Abschreckende Hürden, 22 Formularseiten und hohe Dunkelziffer
-- [Mobilität] Stellenabbau bei Volkswagen: VW-Spitze schweigt laut Arbeitnehmerseite zu Umfang des Stellenabbaus
-- [Gesellschaft] Tirol: Rund 200 Menschen nach Schlammlawinen aus Kaunertal ausgeflogen
-- [Digital] Frauen in der IT: Die verdrängten Wurzeln der digitalen Welt
-- [Gesellschaft] Hitzewelle: 130 Millionen Europäer erleben heute Temperaturen von 35 Grad Celsius
-- [Mobilität] Tankrabatt: Spritpreise sollen erst am Mittwoch nach 12 Uhr wieder steigen
-- [Entdecken] Meyer Werft: Nach dem Brunch mit dem Pfleger zum Jacuzzi
-- [Wirtschaft] Ehegattensplitting: Ehegattensplitting abschaffen? So tut es den wenigsten weh
-- [Wirtschaft] Statistisches Bundesamt: Staatsinvestitionen so hoch wie seit 26 Jahren nicht mehr
-- [Wirtschaft] Umweltschutz: Greenpeace kritisiert Bundesregierung für klimaschädliche Subventionen
-- [Wirtschaft] KI in der Steuerberatung: Gehört der KI-Steuerberater wirklich verboten?
-- [Arbeit] Gehirngerechtes Arbeiten: Was Hirnforscher tun, um produktiver zu sein
-- [Wirtschaft] Ifo Institut: Tankrabatt wurde bei Diesel wohl zu wenig weitergegeben
+- [Gesellschaft] Erdbeben in Venezuela: WHO warnt vor Überlastung von Venezuelas Gesundheitssystem
+- [Digital] Künstliche Intelligenz: USA heben Blockade von Anthropics KI-Modellen auf
+- [Wirtschaft] Zollabkommen mit den USA: EU setzt Zollversprechen an Donald Trump um
+- [Gesellschaft] Hitzewelle: Misstrauensantrag gegen Frankreichs Regierung wegen Hitzeschutz
+- [Gesellschaft] Rabea Rogge: Was lernt man im All über den Menschen, Rabea Rogge?
+- [Wirtschaft] Reformpaket: Und was, wenn die Wirtschaft einfach nicht wächst?
+- [Gesellschaft] Asha Hedayati: »Sie fühlen sich durch die Trennung um ihre Anspruchshaltung betrogen«
+- [Gesellschaft] Betrug im Gesundheitssystem: Arzt erschleicht 1,6 Millionen von Krankenkassen
+- [Wirtschaft] Argentinien: Mileis Erfolgsbilanz? Fragen Sie mal Marco Meloni
+- [Gesellschaft] Linksextremismus: Lina E. soll wegen Aussageverweigerung erneut in Haft
+- [Mobilität] E-Mobilität in Delhi: Delhi setzt im Kampf gegen Smog auf Förderung von Elektrofahrzeugen
+- [Wirtschaft] Tankrabatt: Spritpreise steigen kurz vor Ende des Tankrabatts deutlich
+- [Gesellschaft] Bundesjugendspiele: Wie ich lernte, die Bundesjugendspiele zu lieben
+- [Wirtschaft] Inflation in Deutschland: Inflationsrate sinkt im Juni auf 2,3 Prozent
+- [Mobilität] Bundesnetzagentur: Bahn muss Fernverkehrtrassen stärker für Konkurrenz öffnen
+- [Gesellschaft] Schüsse in Stade: Mutmaßlicher Täter aus Stade soll Tochter geschüttelt haben
+- [Arbeit] Wirtschaftliche Entwicklungen: Warum nicht mal Jobwechsel auf Probe?
+- [Gesellschaft] UBS Global Wealth Report: Weltweites Privatvermögen wächst 2025 um fast elf Prozent
+- [Digital] »Star Fox«: Hier wird nicht erzählt, sondern geballert
+- [Gesellschaft] Erdbeben in Venezuela: Retter in Venezuela finden noch immer Überlebende
+- [Arbeit] Arbeitsmarkt in Deutschland: Zahl der Arbeitslosen sinkt im Juni nur leicht
+- [Wirtschaft] ifo-Umfrage: Weniger Unternehmen planen Preiserhöhungen
+- [Arbeit] Horst Mager: Wie entspannt Sie die Arbeit im Garten, Horst Mager?
