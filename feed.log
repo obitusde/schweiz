@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 1.7.2026, 06:30:35
-Letzter Lauf: 30.6.2026, 12:58:38
+Start: 1.7.2026, 12:58:39
+Letzter Lauf: 1.7.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,20 +17,33 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 36 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Tödlicher Verkehrsunfall in Les Crosets (Wallis) außerhalb des Kantons Waadt.): 'Après une sortie de route, un homme de 34 ans perd la vie'
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung über eine Naturgefahr und Strassensperrung im Wallis außerhalb des Kantons Waadt.): 'Une lave torrentielle coupe la route de la Grande-Dixence'
-- Weiterhin entfernt (Cache, Grund: Mathematisches Duplikat zu ID 23; beide Artikel behandeln den Zollstreit mit den USA, ID 23 ist info): 'Zollverhandlungen mit USA – Schweiz darf sich keine Illusionen machen'
-- Gelöscht (Grund: Blaulicht-Meldung/Unfallereignis außerhalb von Vaud (Uri/Zürich)): 'Unwetter über der Schweiz – Strassen überflutet ++ Flüge umgeleitet ++ Konzert unterbrochen'
-- Gelöscht (Grund: Brandmeldung außerhalb von Vaud (Freiburg)): 'Un incendie à la salle de gym des Avoines'
-- Gelöscht (Grund: Duplikat zu ID 12; SRF-Artikel wird bevorzugt): 'Bars, fanzones: où voir le match de la Suisse à 5h du matin?'
-- Gelöscht (Grund: Kriminalität/Gerichtsprozess außerhalb von Vaud (Solothurn)): 'Solothurner Gerichtsprozess – Täter von Bellach wegen Mordes verurteilt'
-- Gelöscht (Grund: Blaulicht-Meldung/Fehlalarm außerhalb von Vaud (Luzern)): 'Brandalarm auf Kapellbrücke – Spinnen halten in Luzern die Feuerwehr auf Trab'
-- Gelöscht (Grund: Verkehrsunfall außerhalb von Vaud (Freiburg)): 'Un cycliste perd la vie après une collision avec un camion'
-- Gelöscht (Grund: Duplikat zu ID 13; SRF-Artikel wird bevorzugt): 'Schutzmassnahmen im Handel – EU reduziert zollfreie Importmenge von Schweizer Stahl'
-- Gelöscht (Grund: Verkehrsunfall außerhalb von Vaud (Jura)): 'Une voiture se renverse après une collision sur un giratoire'
+KI-Filter (Gemini) - 19 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Brandmeldung außerhalb von Vaud (Freiburg)): 'Un incendie ravage la halle de gym des Avoines'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 12; SRF-Artikel wird bevorzugt): 'Bars, fanzones: où voir le match de la Suisse à 5h du matin?'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Fehlalarm außerhalb von Vaud (Luzern)): 'Brandalarm auf Kapellbrücke – Spinnen halten in Luzern die Feuerwehr auf Trab'
+- Weiterhin entfernt (Cache, Grund: Verkehrsunfall außerhalb von Vaud (Freiburg)): 'Un cycliste perd la vie après une collision avec un camion'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 13; SRF-Artikel wird bevorzugt): 'Schutzmassnahmen im Handel – EU reduziert zollfreie Importmenge von Schweizer Stahl'
+- Weiterhin entfernt (Cache, Grund: Verkehrsunfall außerhalb von Vaud (Jura)): 'Une voiture se renverse après une collision sur un giratoire'
+- Gelöscht (Grund: Unwetter und Unfälle in der Schweiz außerhalb der Waadt.): 'Gewitter über der Schweiz – Flugausfälle und Umleitungen in Zürich – Unwetter in Bern'
+- Gelöscht (Grund: Abstimmungsthema (Referendum) außerhalb von Waadt und Genf.): 'Attaque sur les salaires minimums: Neuchâtel riposte'
+- Gelöscht (Grund: Naturereignis und Unfallmeldung außerhalb der Waadt (Kanton Wallis).): 'Une coulée de boue ferme une route très fréquentée'
+- Gelöscht (Grund: Reine Blaulicht-Meldung außerhalb der Waadt (Kanton Neuenburg).): 'La police utilise un drone pour communiquer avec les habitants'
+- Gelöscht (Grund: Kriminalitätsmeldung außerhalb der Waadt.): 'Antisemitischer Messerangriff – Angeklagter Jugendlicher bleibt vor Gericht stumm'
+- Gelöscht (Grund: Kriminalitätsmeldung außerhalb der Waadt.): 'Solothurner Gerichtsprozess – Täter von Bellach wegen Mordes verurteilt'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Umstrittene Einbürgerung – Thurgauer Parlament bürgert Syrer nach acht Jahren ein
+- [SRF Schweiz] Neue Regeln ab 1. Juli – Autorennen, Kinderschutz, Handybetrug: Das gilt ab jetzt
+- [SRF Ausland] Nach fünf Jahren – Merkel inszeniert sich mit «Spuren der Macht»
+- [SRF Ausland] 80 Jahre Atomtests – Bikini-Atoll: Das verlorene Paradies
+- [20 Min Romandie] Lausanne führt geschlechtsneutrale WCs ein, um Wartezeiten für Frauen zu verkürzen
+- [SRF Wissen] Höchstwerte übertroffen – Meere so warm wie noch nie um diese Jahreszeit
+- [SRF Wissen] Zubehör von Angriffsdrohnen – Vögel in der Ukraine bauen offenbar Nester aus Glasfaserkabeln
+- [20 Min Romandie] Vergangenheit von Betreuern in Ferienfreizeiten wird nicht gründlich geprüft
+- [SRF Schweiz] Verbot aufgehoben – Gibt es bald wieder Formel-1-Rennen in der Schweiz?
+- [SRF Wissen] Fliegen wie ein Falke – Fliegen wie ein Falke: Vorbild für die Drohnen von morgen
+- [SRF Wissen] Wachbleiben wegen der WM – Nati-Spiel um 5 Uhr: So vermeiden Sie den Knockout
+- [SRF Gesellschaft] Gegen Smartphone-Tunnelblick – Die verlorene Intensität: Wie wir wieder mehr fühlen
 - [20 Min Romandie] Mietpreise steigen am Genfersee weiter an
 - [SRF Schweiz] Streit mit Italien – Das Tessin provoziert eine Krise mit Rom um Grenzgänger
 - [SRF Schweiz] Stromnetz der Zukunft – In der Schweiz beginnt das Zeitalter der Grossbatterien
@@ -41,16 +54,15 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Nach Jahrhunderterdbeben – Zahl der Todesopfer in Venezuela steigt auf über 1900
 - [SRF Schweiz] Bericht des Datenschützers – Datenschützer sieht Öffentlichkeitsgesetz gefährdet
 - [SRF Wirtschaft] Schweizer Landesversorgung – So hält die Schweiz ihre Versorgung krisensicher
-- [SRF Wissen] Fiese Anstosszeiten – Fussball vs. Schlaf: So kommen Sie durch die WM-Nächte
 - [SRF Schweiz] EU senkt Stahleinfuhrquoten – Stahlhart – die Schweizer Industrie ist empört
-- [Journal de Morges] «Das ist mein bisher bestes Ergebnis»
 - [20 Min Romandie] Staat will mit der Sanierung von 300 Gebäuden mit gutem Beispiel vorangehen
 - [SRF Schweiz] Bundesgericht zu Arztgeheimnis – Wider den gesunden Menschenverstand
 - [20 Min Romandie] Klimaanlagen sollten am nächsten Tag geliefert werden, nun dauert es eine Woche
-- [SRF Ausland] Forscher entwickeln Rezept – KI designt dir deinen Lieblingsburger
+- [SRF Wissen] Forscher entwickeln Rezept – KI designt dir deinen Lieblingsburger
 - [SRF Ausland] Fehlentscheid an der WM – Warum der Fussball den fehlbaren Schiedsrichter braucht
 - [SRF Schweiz] E-ID ab 2027 – Die Einführung der E-ID verzögert sich
 - [SRF Ausland] Skurrile Staatsgeschenke – Diplomatische Kuriositäten: Vom Sachbuch bis zum Kamel
+- [Journal de Morges] Morges führt diesen Sommer Einschränkungen beim Trinkwasser ein
 - [20 Min Romandie] Bern genehmigt Bahntunnel zwischen Morges und Perroy
 - [20 Min Romandie] Drei kleine Konzerte und dann... die Rückkehr
 - [SRF Schweiz] Nach Beschluss des Parlaments – Breites Bündnis lanciert Referendum gegen den Bau neuer AKW
@@ -59,24 +71,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Wirtschaft] Studie zur Vermögensverteilung – Die Reichen sind nochmals viel reicher geworden
 - [SRF Wirtschaft] Von Kokos bis Himbeere – Glacetrends: Warum nicht jede Sorte den Sommer erlebt
 - [20 Min Romandie] Das CERN in Genf möchte die Tour de France 2029 ausrichten
-- [SRF Ausland] Explosion in Monaco – Paketbombe: Ukrainischer Oligarch mit Familie schwer verletzt
-- [SRF Ausland] Erdbeben in Venezuela – Unicef: «Sofortiges Spielen ist die beste Therapie für Kinder»
-- [20 Min Romandie] «Wir sprechen von verwüsteten Gebieten: Es ist zum Weinen...»
-- [20 Min Romandie] Hitzewelle: Notaufnahme-Aktivität um 60 % gestiegen
-- [SRF Schweiz] Unfallstatistik – Zahl der Freizeitunfälle steigt in der Schweiz weiter an
-- [SRF Ausland] Sein Mandat in Kiew endet – Botschafter: «Nach drei Jahren Ukraine bin ich müde»
-- [20 Min Romandie] Plädoyer für die künftige Metro Jura-Salève über Cornavin
-- [20 Min Romandie] Sturzfluten an der Nordwand des Matterhorns
-- [SRF Schweiz] Faszination Ungeziefer – «Am Anfang dachte ich noch: Uh, das würde ich nie machen»
-- [SRF Ausland] WM-Aus für Deutschland – Das elende Ende einer grossen Elf
-- [20 Min Romandie] Genf von Hagel und starken Böen heimgesucht
-- [20 Min Romandie] Häusliche Gewalt: Die Polizei rückte 2025 insgesamt 966 Mal aus
-- [Morges Actualitiés] Einschränkungen beim Trinkwasser
-- [20 Min Romandie] Energieversorger Groupe E streicht zwischen 22 und 31 Stellen
-- [SRF Schweiz] Effiziente Hilfe aus der Luft – Was die neuen Rettungshelikopter der Rega taugen
-- [20 Min Romandie] Die Schweizer Solar-Bahnstrecke ist international gefragt
-- [SRF Ausland] Fussball-WM in den USA – Die WM läuft, der Präsident fehlt – bis jetzt
-- [SRF Schweiz] Prüfung durch Finanzkontrolle – IT-Projekt des VBS: «Wir wechseln das Rad am fahrenden Auto»
-- [RTS Vaud] Untersuchungshaft: Eine „Ewigkeit“, die im Kanton Waadt immer länger wird
-- [SRF Schweiz] Zollstreit mit den USA – Parmelin: «Es gibt keine Sicherheiten mehr in dieser Welt»
-- [SRF Wissen] WHO gibt Entwarnung – Hantavirus-Ausbruch auf der «Hondius» geht dem Ende zu
