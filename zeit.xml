@@ -5,140 +5,168 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Tue, 30 Jun 2026 04:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:59:31 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Gesellschaft] Schüsse in Stade: »Was die gesehen haben, hinterlässt Spuren«</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/schuesse-stade-tatort-jugendeinrichtung-polizei</link>
-      <guid isPermaLink="false">{urn:uuid:3d9404d2-2d48-48e2-8eec-178e51ee3125}</guid>
-      <description><![CDATA[Auslöser für die Bluttat von Stade, bei der ein Mann mutmaßlich sechs Menschen erschoss, war ein Sorgerechtsstreit. Die Polizei sichert Spuren einer unbegreiflichen Tat.]]></description>
-      <pubDate>Tue, 30 Jun 2026 03:34:31 GMT</pubDate>
+      <title>[Gesellschaft] Erdbeben in Venezuela: WHO warnt vor Überlastung von Venezuelas Gesundheitssystem</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/erdbeben-venezuela-gesundheitssystem-us-militaer</link>
+      <guid isPermaLink="false">{urn:uuid:02f665e5-34ba-4342-8a05-6f8d972eb045}</guid>
+      <description><![CDATA[Venezuelas Gesundheitswesen ist nach zwei Erdbeben laut WHO »unter extremem Druck«. Vertriebene seien  anfällig für Masern und Malaria.]]></description>
+      <pubDate>Wed, 01 Jul 2026 04:49:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Grenze zu Frankreich: Drei Verletzte bei mutmaßlichem Sprengstoffanschlag in Monaco</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/monaco-frankreich-mutmasslicher-sprengstoffanschlag-verletzte</link>
-      <guid isPermaLink="false">{urn:uuid:53a0d907-69b1-481e-b496-b97878502a89}</guid>
-      <description><![CDATA[In einem Wohnhaus in Monaco hat sich eine Explosion ereignet. Medienberichten zufolge wurde ein ukrainischer Geschäftsmann verletzt. Ein Verdächtiger ist auf der Flucht.]]></description>
-      <pubDate>Mon, 29 Jun 2026 22:01:23 GMT</pubDate>
+      <title>[Digital] Künstliche Intelligenz: USA heben Blockade von Anthropics KI-Modellen auf</title>
+      <link>https://www.zeit.de/digital/2026-07/anthropic-exportsperre-ki-modelle-mythos-5-fable-5</link>
+      <guid isPermaLink="false">{urn:uuid:2dc18c7e-239c-4d9c-aa5b-acc57a14ea8f}</guid>
+      <description><![CDATA[Wochenlang hatte die US-Regierung den Export von Anthropics neuen KI-Modellen verhindert. Nun können auch Nichtamerikaner wieder auf Fable 5 und Mythos 5 zugreifen.]]></description>
+      <pubDate>Wed, 01 Jul 2026 01:56:56 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] MediaMarktSaturn: Ministerium erlaubt Übernahme von MediaMarkt durch Konzern aus China</title>
-      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-06/mediamarktsaturn-jd-com-uebernahme-ceconomy-bundesregierung</link>
-      <guid isPermaLink="false">{urn:uuid:67224824-555d-499a-a85d-dddad0760b24}</guid>
-      <description><![CDATA[Das chinesische Unternehmen JD.com darf Europas größten Elektronikhändler MediaMarktSaturn übernehmen. Die Bundesregierung behält sich spezielle Kontrollrechte vor.]]></description>
-      <pubDate>Mon, 29 Jun 2026 20:02:05 GMT</pubDate>
+      <title>[Wirtschaft] Zollabkommen mit den USA: EU setzt Zollversprechen an Donald Trump um</title>
+      <link>https://www.zeit.de/wirtschaft/2026-06/zollabkommen-usa-eu-zoelle-handelskrieg-donald-trump</link>
+      <guid isPermaLink="false">{urn:uuid:b490eef7-1ecd-45ca-bdd0-015d2a350598}</guid>
+      <description><![CDATA[Ab sofort gelten für US-Industriegüter in der EU Zollbefreiungen. Damit erfüllt die EU Zusagen an den US-Präsidenten. Zeitgleich enden Zollbefreiungen für Billigimporte.]]></description>
+      <pubDate>Wed, 01 Jul 2026 00:11:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Erdbeben in Venezuela: Zahl der Toten in Venezuela steigt auf 1.700</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/erdbeben-venezuela-caraballeda-la-guaira-rettung</link>
-      <guid isPermaLink="false">{urn:uuid:ccfeea51-b727-4f16-acbe-8d1665e8fcd3}</guid>
-      <description><![CDATA[In Venezuela hat ein Nachbeben der Stärke 4,6 unter anderem die schwer geschädigte Hafenstadt La Guaira getroffen. Die Zahl der Toten ist auf 1.700 gestiegen.]]></description>
-      <pubDate>Mon, 29 Jun 2026 19:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Mobilität] Tarifverhandlungen bei Ryanair: Vereinigung Cockpit wirft Ryanair unfaire Verhandlungsmethoden vor</title>
-      <link>https://www.zeit.de/mobilitaet/2026-06/ryanair-tarifverhandlungen-vereinigung-cockpit-piloten-gewerkschaft</link>
-      <guid isPermaLink="false">{urn:uuid:9acab532-d31e-481a-83d8-18e299f287b2}</guid>
-      <description><![CDATA[Die Pilotengewerkschaft Vereinigung Cockpit wirft Ryanair Einschüchterungsversuche vor. Mitglieder der Tarifkommission seien bei Verhandlungen unter Druck gesetzt worden.]]></description>
-      <pubDate>Mon, 29 Jun 2026 17:22:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Arbeit] Agentur für Arbeit: Jobcenter können künftig Alkohol beim Bewerbungsgespräch ahnden</title>
-      <link>https://www.zeit.de/arbeit/2026-06/jobcenter-sanktionen-grundsicherung-buergergeld-reform</link>
-      <guid isPermaLink="false">{urn:uuid:8e5a3b64-a4bf-4c34-a905-edef5e743d7e}</guid>
-      <description><![CDATA[Leistungsempfänger, die beim Bewerbungsgespräch ungepflegt oder alkoholisiert sind, bekommen künftig Probleme. Die Arbeitsagentur stuft das als Pflichtverletzung ein.]]></description>
-      <pubDate>Mon, 29 Jun 2026 15:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Pläne gegen Altersarmut: Abschreckende Hürden, 22 Formularseiten und hohe Dunkelziffer</title>
-      <link>https://www.zeit.de/wirtschaft/2026-06/plaene-altersarmut-rentenkommission-arbeitszeit-renteneintritt</link>
-      <guid isPermaLink="false">{urn:uuid:d0419a20-9c2a-4027-879a-ef0494fbd772}</guid>
-      <description><![CDATA[Wer im Alter arm ist, muss aufwendig Hilfe beantragen. Viele schaffen das nicht. Unser Autor war Rentenkommissionsmitglied. Hier erklärt er, wie das künftig besser geht.]]></description>
-      <pubDate>Mon, 29 Jun 2026 14:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Mobilität] Stellenabbau bei Volkswagen: VW-Spitze schweigt laut Arbeitnehmerseite zu Umfang des Stellenabbaus</title>
-      <link>https://www.zeit.de/mobilitaet/2026-06/vw-stellenabbau-arbeitsplaetze-werksschliessung-betriebsrat</link>
-      <guid isPermaLink="false">{urn:uuid:dca0e2ab-b04e-49c6-9f73-d6f4e67eb0a3}</guid>
-      <description><![CDATA[Bis zu 100.000 Stellen sollen Medienberichten zufolge bei VW wegfallen. Der Betriebsrat hat dazu noch keine Details von der Konzernspitze erhalten.]]></description>
-      <pubDate>Mon, 29 Jun 2026 13:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Tirol: Rund 200 Menschen nach Schlammlawinen aus Kaunertal ausgeflogen</title>
-      <link>https://www.zeit.de/gesellschaft/2026-06/muren-kaunertal-tirol-gletscherstrasse-bundesheer</link>
-      <guid isPermaLink="false">{urn:uuid:ddaf5cd8-da8a-454a-b2c7-88fd1f1afa4a}</guid>
-      <description><![CDATA[Nach starken Regenfällen haben Schlammlawinen die Kaunertaler Gletscherstraße blockiert. Rund 200 eingeschlossene Menschen wurden per Hubschrauber in Sicherheit gebracht.]]></description>
-      <pubDate>Mon, 29 Jun 2026 12:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digital] Frauen in der IT: Die verdrängten Wurzeln der digitalen Welt</title>
-      <link>https://www.zeit.de/digital/internet/2026-06/frauen-it-geschichte-ursprung-erfindungen-klischee</link>
-      <guid isPermaLink="false">{urn:uuid:67bf52cd-aeff-4729-841d-8962c5bed943}</guid>
-      <description><![CDATA[Die Geschichte der IT beginnt nicht mit einem Nerd in einer Garage im Silicon Valley. Sondern mit Frauen. Was wir gerade heute von ihnen lernen können – und sollten.]]></description>
-      <pubDate>Mon, 29 Jun 2026 11:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Hitzewelle: 130 Millionen Europäer erleben heute Temperaturen von 35 Grad Celsius</title>
+      <title>[Gesellschaft] Hitzewelle: Misstrauensantrag gegen Frankreichs Regierung wegen Hitzeschutz</title>
       <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/hitzewelle-sommer-temperaturen-rekord-gefahr</link>
       <guid isPermaLink="false">{urn:uuid:a08c42fb-f161-4307-8fd1-59f69bb40903}</guid>
-      <description><![CDATA[In Deutschland hat es sich abgekühlt, aber weite Teile Europas leiden noch unter der großen Hitze. Klimaforscher Rahmstorf wirft Politikern Ignoranz vor. Das Liveblog]]></description>
-      <pubDate>Mon, 29 Jun 2026 11:47:33 GMT</pubDate>
+      <description><![CDATA[Die französischen Grünen stellen einen Misstrauensantrag gegen die Regierung wegen des Umgangs mit der Hitzewelle. Die WHO warnt vor häufigeren Hitzesommern. Das Liveblog]]></description>
+      <pubDate>Tue, 30 Jun 2026 17:44:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Mobilität] Tankrabatt: Spritpreise sollen erst am Mittwoch nach 12 Uhr wieder steigen</title>
-      <link>https://www.zeit.de/mobilitaet/2026-06/tankrabatt-12-uhr-regel-spritpreise-bft</link>
-      <guid isPermaLink="false">{urn:uuid:9e029b38-29ee-4f66-8d03-6f7fa07302ec}</guid>
-      <description><![CDATA[Mitte der Woche läuft der staatliche 17-Cent-Rabatt auf Benzin und Diesel aus. Die Preise sollen aber nicht direkt steigen, kündigt der Tankstellenverband an.]]></description>
-      <pubDate>Mon, 29 Jun 2026 11:30:23 GMT</pubDate>
+      <title>[Gesellschaft] Rabea Rogge: Was lernt man im All über den Menschen, Rabea Rogge?</title>
+      <link>https://www.zeit.de/gesellschaft/2026-06/rabea-rogge-all-astronautin-deutschland-podcast</link>
+      <guid isPermaLink="false">{urn:uuid:6ab0bbc0-22d6-42d3-9890-cabec29d92b5}</guid>
+      <description><![CDATA[Die 30-Jährige war die erste Deutsche im All. Im Videopodcast »Wie machst du das bloß?« spricht sie über ihr Faible für extreme Umgebungen und gutes Teamwork.]]></description>
+      <pubDate>Tue, 30 Jun 2026 16:34:31 GMT</pubDate>
     </item>
     <item>
-      <title>[Entdecken] Meyer Werft: Nach dem Brunch mit dem Pfleger zum Jacuzzi</title>
-      <link>https://www.zeit.de/2026/28/meyer-werft-serenity-kreuzfahrtschiff-senioren-betreutes-wohnen</link>
-      <guid isPermaLink="false">{urn:uuid:1c20d672-0c88-4260-a5e9-156403debd2b}</guid>
-      <description><![CDATA[Wer über 80 ist, hört oft auf zu reisen. Bei der Meyer Werft denkt man darüber nach, wie ein Kreuzfahrtschiff für alte Menschen aussehen muss – mit Enkel-Kabinen.]]></description>
-      <pubDate>Mon, 29 Jun 2026 09:40:44 GMT</pubDate>
+      <title>[Wirtschaft] Reformpaket: Und was, wenn die Wirtschaft einfach nicht wächst?</title>
+      <link>https://www.zeit.de/wirtschaft/2026-06/reformpaket-rente-steuer-pflege-wirtschaft-bundesregierung-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:ac57da45-e631-4dc8-8424-a135c1ca1c93}</guid>
+      <description><![CDATA[Das Reformpaket der Regierung nimmt langsam Formen an. Aber keiner weiß, wann der Aufschwung kommt. Mal nachgefragt: Ginge es eigentlich auch ohne Wirtschaftswachstum?]]></description>
+      <pubDate>Tue, 30 Jun 2026 16:15:30 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Ehegattensplitting: Ehegattensplitting abschaffen? So tut es den wenigsten weh</title>
-      <link>https://www.zeit.de/geld/2026-06/ehegattensplitting-abschaffung-familie-berechnung-belastung</link>
-      <guid isPermaLink="false">{urn:uuid:1697e868-c38e-441c-97d9-4f2351ec4c4b}</guid>
-      <description><![CDATA[Nach dem Splitting-Aus könnten viele Familien mehr Geld haben als zuvor, zeigt eine neue Studie. Schaden würde es nur den Reichsten. Wie die Reform gelingen könnte.]]></description>
-      <pubDate>Mon, 29 Jun 2026 08:12:41 GMT</pubDate>
+      <title>[Gesellschaft] Asha Hedayati: »Sie fühlen sich durch die Trennung um ihre Anspruchshaltung betrogen«</title>
+      <link>https://www.zeit.de/familie/2026-06/asha-hedayati-jugendamt-bedrohungen-sorgerecht-mitarbeiter</link>
+      <guid isPermaLink="false">{urn:uuid:808f9788-dc5c-4c2e-8e45-ec6864139769}</guid>
+      <description><![CDATA[In Stade tötete ein Vater mutmaßlich sechs Menschen wegen eines Sorgerechtsstreits. Dass solche Verfahren eskalieren, sei keine Seltenheit, sagt Anwältin Asha Hedayati.]]></description>
+      <pubDate>Tue, 30 Jun 2026 15:52:11 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Statistisches Bundesamt: Staatsinvestitionen so hoch wie seit 26 Jahren nicht mehr</title>
-      <link>https://www.zeit.de/wirtschaft/2026-06/staatsinvestitionen-bruttoinvestitionen-ausgaben-bundeswehr-2025-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:fc5f2d5e-d205-48e2-b569-5dae856e02bc}</guid>
-      <description><![CDATA[Die deutschen Investitionen sind so stark gestiegen wie seit dem Jahr 2000 nicht mehr. Der Staat gab vor allem deutlich mehr für Rüstungsgüter aus.]]></description>
-      <pubDate>Mon, 29 Jun 2026 07:40:50 GMT</pubDate>
+      <title>[Gesellschaft] Betrug im Gesundheitssystem: Arzt erschleicht 1,6 Millionen von Krankenkassen</title>
+      <link>https://www.zeit.de/gesellschaft/2026-06/betrug-gesundheitssystem-kassenaerztlicher-bereitschaftsdienst-verbrechen-videopodcast</link>
+      <guid isPermaLink="false">{urn:uuid:8e48a911-26ba-465a-bd38-df8963920b2d}</guid>
+      <description><![CDATA[Tausende Hausbesuche und Hunderte Telefonberatungen, die nie stattgefunden haben: Ein Arzt rechnet massenhaft Leistungen ab – und erschleicht sich so über 1,6 Millionen.]]></description>
+      <pubDate>Tue, 30 Jun 2026 15:09:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Umweltschutz: Greenpeace kritisiert Bundesregierung für klimaschädliche Subventionen</title>
-      <link>https://www.zeit.de/wirtschaft/2026-06/umweltschaedliche-subventionen-bundesregierung-greenpeace-foes-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:c4832a03-df3e-48eb-a960-661935818f04}</guid>
-      <description><![CDATA[Tankrabatt, Agrardiesel, Ticketsteuer beim Fliegen: Die in diesem Jahr eingeführten umweltschädlichen Subventionen belaufen sich laut Greenpeace auf elf Milliarden Euro.]]></description>
-      <pubDate>Mon, 29 Jun 2026 06:43:18 GMT</pubDate>
+      <title>[Wirtschaft] Argentinien: Mileis Erfolgsbilanz? Fragen Sie mal Marco Meloni</title>
+      <link>https://www.zeit.de/2026/28/javier-milei-argentinien-wirtschaftspolitik-arbeitsmarkt-landwirtschaft</link>
+      <guid isPermaLink="false">{urn:uuid:021ee7b3-3788-4b39-a78c-07e6f8ce0eed}</guid>
+      <description><![CDATA[Es scheint zu laufen beim argentinischen Präsidenten. Die Wirtschaft wächst, Agrarbosse feiern. Nur: Wer andere Unternehmer trifft, sieht eine Katastrophe aufziehen.]]></description>
+      <pubDate>Tue, 30 Jun 2026 14:49:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] KI in der Steuerberatung: Gehört der KI-Steuerberater wirklich verboten?</title>
-      <link>https://www.zeit.de/2026/28/ki-steuerberatung-accountable-steuerberaterkammer-justiz</link>
-      <guid isPermaLink="false">{urn:uuid:13583c75-884b-4257-82a8-d3487688ee24}</guid>
-      <description><![CDATA[Ein Start-up bietet einen »KI-Steuerberater« an. Obwohl sie die Technik nutzen, wollen echte Steuerberater die Konkurrenz verbieten lassen. Nicht nur wegen der Haftung.]]></description>
-      <pubDate>Mon, 29 Jun 2026 06:42:50 GMT</pubDate>
+      <title>[Gesellschaft] Linksextremismus: Lina E. soll wegen Aussageverweigerung erneut in Haft</title>
+      <link>https://www.zeit.de/gesellschaft/2026-06/lina-e-beugehaft-linksextremismus-oberlandesgericht-dresden</link>
+      <guid isPermaLink="false">{urn:uuid:2d808d78-92df-476f-a963-e7e8d4b291a6}</guid>
+      <description><![CDATA[In Dresden verweigerte Lina E. die Aussage gegen den Angeklagten Johann G., ihren Ex-Partner. Nun soll die wegen linksextremistischer Taten Verurteilte in Beugehaft.]]></description>
+      <pubDate>Tue, 30 Jun 2026 14:41:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Arbeit] Gehirngerechtes Arbeiten: Was Hirnforscher tun, um produktiver zu sein</title>
-      <link>https://www.zeit.de/arbeit/2026-06/gehirngerechtes-arbeiten-neurologie-methoden-experten-tipps</link>
-      <guid isPermaLink="false">{urn:uuid:1b68ec02-b156-4a0a-83f1-a7baed3c967c}</guid>
-      <description><![CDATA[Sie kennen das Gehirn, operieren, erforschen es – und setzen das Wissen im Job um. Wir haben acht Hirnforscher gefragt, wie sie ihr Gehirn zu Höchstleistungen bringen.]]></description>
-      <pubDate>Mon, 29 Jun 2026 06:34:13 GMT</pubDate>
+      <title>[Mobilität] E-Mobilität in Delhi: Delhi setzt im Kampf gegen Smog auf Förderung von Elektrofahrzeugen</title>
+      <link>https://www.zeit.de/mobilitaet/2026-06/e-mobilitaet-delhi-zweiraeder-rikschas-luftverschmutzung-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:2a3b9dcf-0711-47a2-847b-eb8be1f0c80c}</guid>
+      <description><![CDATA[Indiens Hauptstadtregion Delhi will den Umstieg auf E-Fahrzeuge mit Zuschüssen und Verboten meistern. Bis 2030 verschärft die Verwaltung dafür schrittweise die Regeln.]]></description>
+      <pubDate>Tue, 30 Jun 2026 14:08:48 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Ifo Institut: Tankrabatt wurde bei Diesel wohl zu wenig weitergegeben</title>
-      <link>https://www.zeit.de/wirtschaft/2026-06/tankrabatt-ifo-diesel-superbenzin-steuersenkung-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:34d1dc68-ea78-4d5b-9d97-9489e74ae52d}</guid>
-      <description><![CDATA[Anfang Juli läuft der Tankrabatt aus. Eine Analyse des Münchner ifo Instituts zeigt: Nur ein Teil der Autofahrer profitierte vollständig von der Maßnahme.]]></description>
-      <pubDate>Mon, 29 Jun 2026 05:55:11 GMT</pubDate>
+      <title>[Wirtschaft] Tankrabatt: Spritpreise steigen kurz vor Ende des Tankrabatts deutlich</title>
+      <link>https://www.zeit.de/wirtschaft/2026-06/tankrabatt-ende-preise-benzin-diesel-adac-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:71ab952f-91d0-41fc-b61a-94ae87c3fa7d}</guid>
+      <description><![CDATA[Der Tankrabatt endet am Mittwoch. Doch schon zuvor sind die Preise an den Zapfsäulen deutlich gestiegen – anders als der Rohölpreis.]]></description>
+      <pubDate>Tue, 30 Jun 2026 14:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Bundesjugendspiele: Wie ich lernte, die Bundesjugendspiele zu lieben</title>
+      <link>https://www.zeit.de/familie/2026-06/bundesjugendspiele-schulsport-wettkampf-eltern</link>
+      <guid isPermaLink="false">{urn:uuid:1be830df-0728-4542-801b-e30b0b351de9}</guid>
+      <description><![CDATA[Die Bundesjugendspiele sollen wieder Wettkampfcharakter bekommen. Unser Autor hat sie als Kind immer gehasst. Bis er nun als Vater selbst dort aushalf.]]></description>
+      <pubDate>Tue, 30 Jun 2026 13:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Inflation in Deutschland: Inflationsrate sinkt im Juni auf 2,3 Prozent</title>
+      <link>https://www.zeit.de/wirtschaft/2026-06/inflation-deutschland-statistisches-bundesamt-tankrabatt-oelpreise-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:24aaeb36-cd1b-404a-a6ba-c160d0bac140}</guid>
+      <description><![CDATA[Der Anstieg der Verbraucherpreise hat sich im Juni weiter abgeschwächt: Die Inflationsrate beträgt nur noch 2,3 Prozent. Lebensmittel könnten trotzdem teurer werden.]]></description>
+      <pubDate>Tue, 30 Jun 2026 12:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mobilität] Bundesnetzagentur: Bahn muss Fernverkehrtrassen stärker für Konkurrenz öffnen</title>
+      <link>https://www.zeit.de/mobilitaet/2026-06/bundesnetzagentur-bahn-fernverkehr-wettbewerb-italo-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:52558f72-05da-4c14-9dcf-a6ae76e57862}</guid>
+      <description><![CDATA[Die Bundesnetzagentur weist der Bahn-Konkurrenz ab 2028 mehr Zugstrecken zu. Dem italienischen Anbieter Italo wird so der Einstieg in den deutschen Markt erleichtert.]]></description>
+      <pubDate>Tue, 30 Jun 2026 12:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Schüsse in Stade: Mutmaßlicher Täter aus Stade soll Tochter geschüttelt haben</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/schuesse-stade-taeter-baby-jugendeinrichtung-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:625b4e1f-f7a9-479b-8887-9ee3909a781a}</guid>
+      <description><![CDATA[Der mutmaßliche Schütze von Stade soll seiner drei Monate alte Tochter gegenüber gewalttätig gewesen sein. Kind und Mutter waren zur Tatzeit in der Hilfseinrichtung.]]></description>
+      <pubDate>Tue, 30 Jun 2026 12:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Arbeit] Wirtschaftliche Entwicklungen: Warum nicht mal Jobwechsel auf Probe?</title>
+      <link>https://www.zeit.de/arbeit/2026-06/wirtschaftliche-entwicklung-investition-arbeitsmarkt-innovation</link>
+      <guid isPermaLink="false">{urn:uuid:ba26ab86-1f80-422d-bc77-59036ea62519}</guid>
+      <description><![CDATA[Es braucht Kündigungsschutz – aber man muss sich ständig weiterentwickeln. So könnte Deutschland aus der Krise kommen, schreibt Wirtschaftswissenschaftler Enzo Weber.]]></description>
+      <pubDate>Tue, 30 Jun 2026 12:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] UBS Global Wealth Report: Weltweites Privatvermögen wächst 2025 um fast elf Prozent</title>
+      <link>https://www.zeit.de/gesellschaft/2026-06/ubs-global-wealth-report-privatvermoegen-millionaere-usa-china</link>
+      <guid isPermaLink="false">{urn:uuid:5204fde2-3ec3-47f5-a8b0-e5dd105b8a95}</guid>
+      <description><![CDATA[Das weltweite Privatvermögen hat sich im Jahr 2025 deutlich vergrößert. In Deutschland ist die Zahl der Dollar-Millionäre auf rund 2,6 Millionen Menschen gestiegen.]]></description>
+      <pubDate>Tue, 30 Jun 2026 11:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digital] »Star Fox«: Hier wird nicht erzählt, sondern geballert</title>
+      <link>https://www.zeit.de/digital/games/2026-06/star-fox-nintendo-switch-raumschiff-videospiel</link>
+      <guid isPermaLink="false">{urn:uuid:de137be0-1856-4d60-b29d-b9b06bd74381}</guid>
+      <description><![CDATA[»Star Wars« mit Fuchs: Nintendo belebt seinen Raumschiffhelden Fox McCloud für die Switch 2 wieder. Das Remake fühlt sich nach 1997 an. Gerade das macht es so reizvoll.]]></description>
+      <pubDate>Tue, 30 Jun 2026 09:57:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Erdbeben in Venezuela: Retter in Venezuela finden noch immer Überlebende</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/erdbeben-venezuela-maiquetia-nachbeben-tote-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:1a26e527-4b92-43aa-91c9-904256dd9998}</guid>
+      <description><![CDATA[Mehrere Tage nach den starken Erdstößen in Venezuela finden die Rettungskräfte noch Überlebende unter den Trümmern. Die Zahl der Toten ist auf mehr als 1.700 gestiegen.]]></description>
+      <pubDate>Tue, 30 Jun 2026 09:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Arbeit] Arbeitsmarkt in Deutschland: Zahl der Arbeitslosen sinkt im Juni nur leicht</title>
+      <link>https://www.zeit.de/arbeit/2026-06/arbeitsmarkt-deutschland-juni-2024-arbeitslosigkeit-buergergeld-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:5c0aa58f-a4ab-4eb1-adc6-c469fe6972bd}</guid>
+      <description><![CDATA[Die Zahl der Arbeitslosen in Deutschland ist im Juni nur um 15.000 auf 2,936 Millionen gesunken. Die Arbeitslosenquote liegt aktuell bei 6,2 Prozent.]]></description>
+      <pubDate>Tue, 30 Jun 2026 08:58:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] ifo-Umfrage: Weniger Unternehmen planen Preiserhöhungen</title>
+      <link>https://www.zeit.de/wirtschaft/2026-06/ifo-preiserwartungen-unternehmen-energiepreise-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:659f7c6c-2572-459f-895a-a8feaf213dc1}</guid>
+      <description><![CDATA[Viele Firmen senken ihre Preiserwartungen einer ifo-Umfrage zufolge. Die derzeit sinkenden Energiepreise machen sich vor allem in energieintensiven Branchen bemerkbar.]]></description>
+      <pubDate>Tue, 30 Jun 2026 08:18:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Arbeit] Horst Mager: Wie entspannt Sie die Arbeit im Garten, Horst Mager?</title>
+      <link>https://www.zeit.de/arbeit/2026-06/horst-mager-landschaftsgaertner-arbeit-podcast</link>
+      <guid isPermaLink="false">{urn:uuid:805547c6-b9c1-4e9f-a841-75083d9345d1}</guid>
+      <description><![CDATA[Horst Mager ist Landschaftsgärtner, Biologe und Influencer. Aus dem Schrebergarten sendet er Tipps für Gärtner. Im Podcast sagt er, warum Pflanzen selbstbewusst machen.]]></description>
+      <pubDate>Tue, 30 Jun 2026 07:27:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
