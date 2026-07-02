@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 1.7.2026, 12:58:39
-Letzter Lauf: 1.7.2026, 06:30:35
+Start: 2.7.2026, 06:30:36
+Letzter Lauf: 1.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -15,59 +15,60 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/QYUORaarYc2r.xml
 
 Statischer Filter (Keywords):
-- Keine Artikel durch statische Keywords gefiltert.
+- Gelöscht wegen Keyword 'wolf': '«Biofencing» – So könnte Wolfsurin beim Herdenschutz helfen'
+- Gelöscht wegen Keyword 'wolf': '«Biofencing» – So könnte Wolfsurin beim Herdenschutz helfen'
 
-KI-Filter (Gemini) - 19 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Brandmeldung außerhalb von Vaud (Freiburg)): 'Un incendie ravage la halle de gym des Avoines'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 12; SRF-Artikel wird bevorzugt): 'Bars, fanzones: où voir le match de la Suisse à 5h du matin?'
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Fehlalarm außerhalb von Vaud (Luzern)): 'Brandalarm auf Kapellbrücke – Spinnen halten in Luzern die Feuerwehr auf Trab'
-- Weiterhin entfernt (Cache, Grund: Verkehrsunfall außerhalb von Vaud (Freiburg)): 'Un cycliste perd la vie après une collision avec un camion'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 13; SRF-Artikel wird bevorzugt): 'Schutzmassnahmen im Handel – EU reduziert zollfreie Importmenge von Schweizer Stahl'
-- Weiterhin entfernt (Cache, Grund: Verkehrsunfall außerhalb von Vaud (Jura)): 'Une voiture se renverse après une collision sur un giratoire'
-- Gelöscht (Grund: Unwetter und Unfälle in der Schweiz außerhalb der Waadt.): 'Gewitter über der Schweiz – Flugausfälle und Umleitungen in Zürich – Unwetter in Bern'
-- Gelöscht (Grund: Abstimmungsthema (Referendum) außerhalb von Waadt und Genf.): 'Attaque sur les salaires minimums: Neuchâtel riposte'
-- Gelöscht (Grund: Naturereignis und Unfallmeldung außerhalb der Waadt (Kanton Wallis).): 'Une coulée de boue ferme une route très fréquentée'
-- Gelöscht (Grund: Reine Blaulicht-Meldung außerhalb der Waadt (Kanton Neuenburg).): 'La police utilise un drone pour communiquer avec les habitants'
-- Gelöscht (Grund: Kriminalitätsmeldung außerhalb der Waadt.): 'Antisemitischer Messerangriff – Angeklagter Jugendlicher bleibt vor Gericht stumm'
-- Gelöscht (Grund: Kriminalitätsmeldung außerhalb der Waadt.): 'Solothurner Gerichtsprozess – Täter von Bellach wegen Mordes verurteilt'
+KI-Filter (Gemini) - 36 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Abstimmungsthema (Referendum) außerhalb von Waadt und Genf.): 'Attaque sur les salaires minimums: Neuchâtel riposte'
+- Weiterhin entfernt (Cache, Grund: Naturereignis und Unfallmeldung außerhalb der Waadt (Kanton Wallis).): 'Une coulée de boue ferme une route très fréquentée'
+- Weiterhin entfernt (Cache, Grund: Reine Blaulicht-Meldung außerhalb der Waadt (Kanton Neuenburg).): 'La police utilise un drone pour communiquer avec les habitants'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung außerhalb der Waadt.): 'Solothurner Gerichtsprozess – Täter von Bellach wegen Mordes verurteilt'
+- Gelöscht (Grund: Unfall außerhalb der Waadt (Buix, Kanton Jura).): 'Une voiture se fracasse contre le mur d'une propriété à Buix'
+- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Vorfall im Kanton Neuenburg).): 'Le décapiteur de chèvres aurait aussi agressé un voisin'
+- Gelöscht (Grund: Duplikat zu Artikel 5 (SRF bevorzugt).): 'Nach den Erdbeben – «Die venezolanische Regierung koordiniert nichts»'
+- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Vorfall in Zürich).): 'Antisemitischer Messerangriff – Jude niedergestochen – angeklagter Jugendlicher schweigt zur Tat'
+- Gelöscht (Grund: Blaulicht-Meldung/Polizeieinsatz außerhalb der Waadt (Basel).): 'Einsatz in den Morgenstunden – Besetztes Chemie-Areal in Basel geräumt – Debatte geht weiter'
+- Gelöscht (Grund: Abstimmung/Wahl außerhalb von Waadt und Genf (Grenchen, Kanton Solothurn).): 'Stadtpräsidentin verlor Amt – Ungültige Wahl in Grenchen: Das Dilemma mit den Briefkästen'
+- Gelöscht (Grund: Unfall/Blaulicht-Meldung außerhalb der Waadt (Wallis und Bern).): 'Gewitter über der Schweiz – Schlammlawine im Wallis – Trams in Bern zeitweise lahmgelegt'
+- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung außerhalb der Waadt (Chur).): 'Offene Drogenszene – Chur: Konsumraum entlastet Strassen – aber nicht den Park'
+- Gelöscht (Grund: Duplikat zu Artikel 27 (SRF bevorzugt).): 'La Fraternité traditionaliste Saint-Pie X consacre quatre évêques'
 
 Finale Liste (live im XML-Feed):
+- [SRF Ausland] Parlamentswahl – Algerien: Wahl ohne Vertrauen
+- [SRF Schweiz] Ausbau der Luftverteidigung – Fünf Milliarden allein für das zusätzliche Abwehrsystem
+- [SRF Wirtschaft] Sportartikel – Nike mit schwachen Geschäftszahlen – Branchenführer aus dem Tritt
+- [SRF Ausland] Nach Jahrhunderterdbeben – Zahl der Todesopfer in Venezuela steigt auf über 2295
+- [SRF Schweiz] Untersuchung Finanzkontrolle – Wenn im Abstimmungsbüchlein falsche Zahlen stehen
+- [SRF Ausland] Wird EU-Geldhahn zugedreht? – EU-Parlament stimmt über Verfahren gegen AfD-Europapartei ab
+- [SRF Ausland] New York – Zwei Personen klettern auf Spitze des Empire State Buildings
+- [SRF Schweiz] Zwei Jahre nach dem Unwetter – Das Maggiatal zwischen offenen und verheilten Wunden
+- [SRF Ausland] Bürgerkrieg im Sudan – Amnesty-Bericht zeigt Ausmass der Gräueltaten von El Fascher
+- [20 Min Romandie] Hitzerekorde in den Seen werden weiter fallen
+- [SRF Schweiz] Verkehrsminister – Röstis Sommerspaziergang in Luzern war kein Spaziergang
+- [Morges Actualitiés] Ausschreibung für den Kunstförderpreis 2026
+- [SRF Schweiz] Armeechef alarmiert – Mehrere unbekannte Drohnen über Militäranlage aufgetaucht
+- [20 Min Romandie] Die verrückte Geschichte dieses Waadtländers, Idol seines Viertels in New York
+- [RTS Vaud] 12%-Initiative: Waadtländer Linke und Gewerkschaften prangern „Schwindel“ an
+- [SRF Wirtschaft] Einnahmen offengelegt – Trump verdient am meisten Geld mit Krypto
+- [20 Min Romandie] Nur 5 % der Restaurants und Bars unterliegen einer Personenobergrenze
+- [SRF Ausland] Sicherheitsmassnahme – Deutsche Bahn stellt Zugpersonal Bodycams zur Verfügung
+- [SRF Ausland] Genaue Opferzahl unbekannt – Mehrere Tote bei Brand in Mehrfamilienhaus in Antwerpen
+- [SRF Gesellschaft] Nach Bischofsweihe in Ecône VS – Piusbrüdern droht der Ausschluss aus der katholischen Kirche
+- [SRF Ausland] Comeback mit Ausnahmen – Läden in Schweden müssen wieder Bargeld annehmen
+- [SRF Wissen] Seltenes Naturphänomen – Wie es zu Wasserfällen am Matterhorn kommt
+- [SRF Wissen] Zubehör von Angriffsdrohnen – Vögel in der Ukraine bauen offenbar Nester aus Glasfaserkabeln
+- [RTS Vaud] Nach dem Drama von Crans-Montana stellt Waadt 15 Millionen für den Brandschutz bereit
+- [20 Min Romandie] Einkesselung bei der NoG7-Demo: Die Polizei erklärt sich (ein wenig)
+- [SRF Ausland] Tibeter unter Druck – Neues Gesetz: China will mehr Einheit statt Vielfalt
+- [SRF Schweiz] Mord an Entwicklungshelfer – «Die Frage nach dem Warum ist das Quälendste»
 - [SRF Schweiz] Umstrittene Einbürgerung – Thurgauer Parlament bürgert Syrer nach acht Jahren ein
 - [SRF Schweiz] Neue Regeln ab 1. Juli – Autorennen, Kinderschutz, Handybetrug: Das gilt ab jetzt
 - [SRF Ausland] Nach fünf Jahren – Merkel inszeniert sich mit «Spuren der Macht»
 - [SRF Ausland] 80 Jahre Atomtests – Bikini-Atoll: Das verlorene Paradies
 - [20 Min Romandie] Lausanne führt geschlechtsneutrale WCs ein, um Wartezeiten für Frauen zu verkürzen
 - [SRF Wissen] Höchstwerte übertroffen – Meere so warm wie noch nie um diese Jahreszeit
-- [SRF Wissen] Zubehör von Angriffsdrohnen – Vögel in der Ukraine bauen offenbar Nester aus Glasfaserkabeln
 - [20 Min Romandie] Vergangenheit von Betreuern in Ferienfreizeiten wird nicht gründlich geprüft
 - [SRF Schweiz] Verbot aufgehoben – Gibt es bald wieder Formel-1-Rennen in der Schweiz?
-- [SRF Wissen] Fliegen wie ein Falke – Fliegen wie ein Falke: Vorbild für die Drohnen von morgen
+- [SRF Wissen] Drohnenforschung – Falkenflug inspiriert neue Technologien
 - [SRF Wissen] Wachbleiben wegen der WM – Nati-Spiel um 5 Uhr: So vermeiden Sie den Knockout
 - [SRF Gesellschaft] Gegen Smartphone-Tunnelblick – Die verlorene Intensität: Wie wir wieder mehr fühlen
-- [20 Min Romandie] Mietpreise steigen am Genfersee weiter an
-- [SRF Schweiz] Streit mit Italien – Das Tessin provoziert eine Krise mit Rom um Grenzgänger
-- [SRF Schweiz] Stromnetz der Zukunft – In der Schweiz beginnt das Zeitalter der Grossbatterien
-- [SRF Wirtschaft] Börsenbilanz Halbjahr 2026 – Top und Flop an der Börse – die Zwischenbilanz zum Halbjahr
-- [SRF Ausland] Niederlage für Trump – Supreme Court hält an US-Staatsbürgerschaft bei Geburt fest
-- [SRF Wirtschaft] Studie von PWC – Studie: Spitalfinanzen besser, aber noch nicht gut genug
-- [SRF Ausland] Übergriffe gegen Ausländer – Tausende protestieren gegen Migranten in Südafrika
-- [SRF Ausland] Nach Jahrhunderterdbeben – Zahl der Todesopfer in Venezuela steigt auf über 1900
-- [SRF Schweiz] Bericht des Datenschützers – Datenschützer sieht Öffentlichkeitsgesetz gefährdet
-- [SRF Wirtschaft] Schweizer Landesversorgung – So hält die Schweiz ihre Versorgung krisensicher
-- [SRF Schweiz] EU senkt Stahleinfuhrquoten – Stahlhart – die Schweizer Industrie ist empört
-- [20 Min Romandie] Staat will mit der Sanierung von 300 Gebäuden mit gutem Beispiel vorangehen
-- [SRF Schweiz] Bundesgericht zu Arztgeheimnis – Wider den gesunden Menschenverstand
-- [20 Min Romandie] Klimaanlagen sollten am nächsten Tag geliefert werden, nun dauert es eine Woche
-- [SRF Wissen] Forscher entwickeln Rezept – KI designt dir deinen Lieblingsburger
-- [SRF Ausland] Fehlentscheid an der WM – Warum der Fussball den fehlbaren Schiedsrichter braucht
-- [SRF Schweiz] E-ID ab 2027 – Die Einführung der E-ID verzögert sich
-- [SRF Ausland] Skurrile Staatsgeschenke – Diplomatische Kuriositäten: Vom Sachbuch bis zum Kamel
-- [Journal de Morges] Morges führt diesen Sommer Einschränkungen beim Trinkwasser ein
-- [20 Min Romandie] Bern genehmigt Bahntunnel zwischen Morges und Perroy
-- [20 Min Romandie] Drei kleine Konzerte und dann... die Rückkehr
-- [SRF Schweiz] Nach Beschluss des Parlaments – Breites Bündnis lanciert Referendum gegen den Bau neuer AKW
-- [20 Min Romandie] Sonnencrèmes verschmutzen Bergseen
-- [20 Min Romandie] Philippe Revaz wird das «19h30» nicht mehr moderieren
-- [SRF Wirtschaft] Studie zur Vermögensverteilung – Die Reichen sind nochmals viel reicher geworden
-- [SRF Wirtschaft] Von Kokos bis Himbeere – Glacetrends: Warum nicht jede Sorte den Sommer erlebt
-- [20 Min Romandie] Das CERN in Genf möchte die Tour de France 2029 ausrichten
