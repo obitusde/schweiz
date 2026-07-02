@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 2.7.2026, 06:30:36
-Letzter Lauf: 1.7.2026, 12:58:39
+Start: 2.7.2026, 12:58:38
+Letzter Lauf: 2.7.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -18,25 +18,40 @@ Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'wolf': '«Biofencing» – So könnte Wolfsurin beim Herdenschutz helfen'
 - Gelöscht wegen Keyword 'wolf': '«Biofencing» – So könnte Wolfsurin beim Herdenschutz helfen'
 
-KI-Filter (Gemini) - 36 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Abstimmungsthema (Referendum) außerhalb von Waadt und Genf.): 'Attaque sur les salaires minimums: Neuchâtel riposte'
-- Weiterhin entfernt (Cache, Grund: Naturereignis und Unfallmeldung außerhalb der Waadt (Kanton Wallis).): 'Une coulée de boue ferme une route très fréquentée'
-- Weiterhin entfernt (Cache, Grund: Reine Blaulicht-Meldung außerhalb der Waadt (Kanton Neuenburg).): 'La police utilise un drone pour communiquer avec les habitants'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung außerhalb der Waadt.): 'Solothurner Gerichtsprozess – Täter von Bellach wegen Mordes verurteilt'
-- Gelöscht (Grund: Unfall außerhalb der Waadt (Buix, Kanton Jura).): 'Une voiture se fracasse contre le mur d'une propriété à Buix'
-- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Vorfall im Kanton Neuenburg).): 'Le décapiteur de chèvres aurait aussi agressé un voisin'
-- Gelöscht (Grund: Duplikat zu Artikel 5 (SRF bevorzugt).): 'Nach den Erdbeben – «Die venezolanische Regierung koordiniert nichts»'
-- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Vorfall in Zürich).): 'Antisemitischer Messerangriff – Jude niedergestochen – angeklagter Jugendlicher schweigt zur Tat'
-- Gelöscht (Grund: Blaulicht-Meldung/Polizeieinsatz außerhalb der Waadt (Basel).): 'Einsatz in den Morgenstunden – Besetztes Chemie-Areal in Basel geräumt – Debatte geht weiter'
-- Gelöscht (Grund: Abstimmung/Wahl außerhalb von Waadt und Genf (Grenchen, Kanton Solothurn).): 'Stadtpräsidentin verlor Amt – Ungültige Wahl in Grenchen: Das Dilemma mit den Briefkästen'
-- Gelöscht (Grund: Unfall/Blaulicht-Meldung außerhalb der Waadt (Wallis und Bern).): 'Gewitter über der Schweiz – Schlammlawine im Wallis – Trams in Bern zeitweise lahmgelegt'
-- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung außerhalb der Waadt (Chur).): 'Offene Drogenszene – Chur: Konsumraum entlastet Strassen – aber nicht den Park'
-- Gelöscht (Grund: Duplikat zu Artikel 27 (SRF bevorzugt).): 'La Fraternité traditionaliste Saint-Pie X consacre quatre évêques'
+KI-Filter (Gemini) - 21 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Unfall außerhalb der Waadt (Buix, Kanton Jura).): 'Une voiture se fracasse contre le mur d'une propriété à Buix'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Vorfall im Kanton Neuenburg).): 'Le décapiteur de chèvres aurait aussi agressé un voisin'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 5 (SRF bevorzugt).): 'Nach den Erdbeben – «Die venezolanische Regierung koordiniert nichts»'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Vorfall in Zürich).): 'Antisemitischer Messerangriff – Jude niedergestochen – angeklagter Jugendlicher schweigt zur Tat'
+- Weiterhin entfernt (Cache, Grund: Abstimmung/Wahl außerhalb von Waadt und Genf (Grenchen, Kanton Solothurn).): 'Stadtpräsidentin verlor Amt – Ungültige Wahl in Grenchen: Das Dilemma mit den Briefkästen'
+- Weiterhin entfernt (Cache, Grund: Unfall/Blaulicht-Meldung außerhalb der Waadt (Wallis und Bern).): 'Gewitter über der Schweiz – Schlammlawine im Wallis – Trams in Bern zeitweise lahmgelegt'
+- Weiterhin entfernt (Cache, Grund: Kriminalität/Blaulicht-Meldung außerhalb der Waadt (Chur).): 'Offene Drogenszene – Chur: Konsumraum entlastet Strassen – aber nicht den Park'
+- Gelöscht (Grund: Blaulicht-Meldung und Ausschreitungen in der Schweiz außerhalb von Waadt.): 'Ausschreitungen in Basel – Nach Räumung von Chemie-Areal eskaliert die Demonstration dagegen'
+- Gelöscht (Grund: Kriminalität in der Schweiz außerhalb von Waadt (Genf).): 'Un Brésilien suspecté d'avoir violé une adolescente vers l'Arve'
+- Gelöscht (Grund: Brände in der Schweiz außerhalb von Waadt (Romont/Freiburg).): 'Avant l'incendie de la halle de gym, three autres feux suspects'
+- Gelöscht (Grund: Kriminalität in der Schweiz außerhalb von Waadt (Genf).): 'Soupçons de meurtre après le décès d'un octogénaire à Puplinge'
+- Gelöscht (Grund: Blaulicht-Meldung/Polizeieinsatz in der Schweiz außerhalb von Waadt.): 'Einsatz in den Morgenstunden – Besetztes Chemie-Areal in Basel geräumt – Debatte geht weiter'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] Parlamentswahl – Algerien: Wahl ohne Vertrauen
+- [SRF Wirtschaft] Rekordstrafe – EU-Gericht bestätigt Milliardenbusse gegen Google
+- [SRF Schweiz] Als erster Kanton – In Zug bekommt die Bevölkerung in guten Jahren Steuergeld zurück
+- [SRF Schweiz] Solothurner Spitäler – Eine halbe Million Franken zu viel für Ex-Spitalchef
+- [SRF Wissen] Klimawandel und Landwirtschaft – Die Sahara erreicht Südeuropa – mit Folgen für die Schweiz
+- [20 Min Romandie] Neuenburger Start-up greift den Weltmarkt für Computerchips an
+- [SRF Schweiz] Geschützter Drogenkonsum – Warum Konsumräume bis heute wichtig sind
+- [RTS Vaud] Die drei scheidenden FDP-Staatsräte bewerben sich für eine neue Amtszeit in der Waadtländer Regierung
+- [20 Min Romandie] Galaxus warnt: Fast keine Klimaanlagen mehr für den gesamten Sommer verfügbar
+- [SRF Ausland] Nach unerlaubter Bischofsweihe – Piusbruderschaft: Vatikan schliesst erzkonservative Bischöfe aus
+- [SRF Wissen] Von Sparte bis Athen – Dark Greece – Die Wahrheit über das antike Griechenland
+- [20 Min Romandie] In Nyon verschwinden alle 56 Gemälde einer Ausstellung
+- [SRF Schweiz] Selbstfahrende Autos – Mehr Stau, weil weniger Menschen hinter dem Steuer sitzen?
+- [20 Min Romandie] Dorfbeizen durch Brandschutzvorschriften geleert
+- [SRF Ausland] 10’000 Pfund von Asylsuchenden – Grossbritannien verschärft Asylpolitik
+- [SRF Wirtschaft] Temu & Co. – Vom neuen EU-Päcklizoll sind auch Schweizer Exporteure betroffen
+- [SRF Ausland] Brief an die AfD – Sahra Wagenknecht umwirbt Alice Weidel und stösst auf Ablehnung
+- [SRF Ausland] Parlamentswahl – Algerien wählt neues Parlament: Mehr als 10'000 Kandidierende
 - [SRF Schweiz] Ausbau der Luftverteidigung – Fünf Milliarden allein für das zusätzliche Abwehrsystem
-- [SRF Wirtschaft] Sportartikel – Nike mit schwachen Geschäftszahlen – Branchenführer aus dem Tritt
+- [SRF Wirtschaft] Sportartikel – Weltmarktführer Nike ist aus dem Tritt geraten und strauchelt
 - [SRF Ausland] Nach Jahrhunderterdbeben – Zahl der Todesopfer in Venezuela steigt auf über 2295
 - [SRF Schweiz] Untersuchung Finanzkontrolle – Wenn im Abstimmungsbüchlein falsche Zahlen stehen
 - [SRF Ausland] Wird EU-Geldhahn zugedreht? – EU-Parlament stimmt über Verfahren gegen AfD-Europapartei ab
@@ -61,14 +76,3 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Einkesselung bei der NoG7-Demo: Die Polizei erklärt sich (ein wenig)
 - [SRF Ausland] Tibeter unter Druck – Neues Gesetz: China will mehr Einheit statt Vielfalt
 - [SRF Schweiz] Mord an Entwicklungshelfer – «Die Frage nach dem Warum ist das Quälendste»
-- [SRF Schweiz] Umstrittene Einbürgerung – Thurgauer Parlament bürgert Syrer nach acht Jahren ein
-- [SRF Schweiz] Neue Regeln ab 1. Juli – Autorennen, Kinderschutz, Handybetrug: Das gilt ab jetzt
-- [SRF Ausland] Nach fünf Jahren – Merkel inszeniert sich mit «Spuren der Macht»
-- [SRF Ausland] 80 Jahre Atomtests – Bikini-Atoll: Das verlorene Paradies
-- [20 Min Romandie] Lausanne führt geschlechtsneutrale WCs ein, um Wartezeiten für Frauen zu verkürzen
-- [SRF Wissen] Höchstwerte übertroffen – Meere so warm wie noch nie um diese Jahreszeit
-- [20 Min Romandie] Vergangenheit von Betreuern in Ferienfreizeiten wird nicht gründlich geprüft
-- [SRF Schweiz] Verbot aufgehoben – Gibt es bald wieder Formel-1-Rennen in der Schweiz?
-- [SRF Wissen] Drohnenforschung – Falkenflug inspiriert neue Technologien
-- [SRF Wissen] Wachbleiben wegen der WM – Nati-Spiel um 5 Uhr: So vermeiden Sie den Knockout
-- [SRF Gesellschaft] Gegen Smartphone-Tunnelblick – Die verlorene Intensität: Wie wir wieder mehr fühlen
