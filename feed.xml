@@ -5,11 +5,123 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Jul 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:58:38 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Ausland] Parlamentswahl – Algerien: Wahl ohne Vertrauen</title>
-      <link>https://www.srf.ch/news/international/parlamentswahl-algerien-wahl-ohne-vertrauen</link>
+      <title>[SRF Wirtschaft] Rekordstrafe – EU-Gericht bestätigt Milliardenbusse gegen Google</title>
+      <link>https://www.srf.ch/news/international/rekordstrafe-eu-gericht-bestaetigt-milliardenbusse-gegen-google</link>
+      <guid isPermaLink="false">urn:srf:article:019f21aa-3952-2b60-85a5-808546a4a88d</guid>
+      <description><![CDATA[Im jahrelangen Rechtsstreit hat Google vor dem Europäischen Gerichtshof eine Niederlage erlitten.]]></description>
+      <pubDate>Thu, 02 Jul 2026 10:50:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Als erster Kanton – In Zug bekommt die Bevölkerung in guten Jahren Steuergeld zurück</title>
+      <link>https://www.srf.ch/news/schweiz/als-erster-kanton-in-zug-bekommt-die-bevoelkerung-in-guten-jahren-steuergeld-zurueck</link>
+      <guid isPermaLink="false">urn:srf:article:019e4980-2218-8e7e-d113-a7551ef3fd69</guid>
+      <description><![CDATA[Künftig erhält die Zuger Bevölkerung einen Steuerrabatt, wenn die Finanzlage des Kantons besonders gut ist.]]></description>
+      <pubDate>Thu, 02 Jul 2026 10:37:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Solothurner Spitäler – Eine halbe Million Franken zu viel für Ex-Spitalchef</title>
+      <link>https://www.srf.ch/news/schweiz/solothurner-spitaeler-eine-halbe-million-franken-zu-viel-fuer-ex-spitalchef</link>
+      <guid isPermaLink="false">urn:srf:article:019f21c1-afb3-16cb-2f36-6c9460934213</guid>
+      <description><![CDATA[Die Solothurner Spitäler AG hat gegen das Personalrecht des Kantons verstossen, wie mehrere Gutachten zeigen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 10:27:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Klimawandel und Landwirtschaft – Die Sahara erreicht Südeuropa – mit Folgen für die Schweiz</title>
+      <link>https://www.srf.ch/wissen/klimawandel/klimawandel-und-landwirtschaft-die-sahara-erreicht-suedeuropa-mit-folgen-fuer-die-schweiz</link>
+      <guid isPermaLink="false">urn:srf:article:019eefe7-19f9-4f9a-2501-5bf6df8ac331</guid>
+      <description><![CDATA[Die Bauern auf Sizilien mussten Tiere schlachten und Zitrusbäume ausreissen. Wie geht es weiter mit der Landwirtschaft?]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Neuenburger Start-up greift den Weltmarkt für Computerchips an</title>
+      <link>https://www.20min.ch/fr/story/economie-une-start-up-neuchateloise-a-l-assaut-du-marche-mondial-des-puces-103595019</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/economie-une-start-up-neuchateloise-a-l-assaut-du-marche-mondial-des-puces-103595019</guid>
+      <description><![CDATA[CCRAFT wird eine Fabrik zur Produktion photonischer integrierter Schaltkreise eröffnen, bei denen Elektrizität durch Licht ersetzt wird. Das Unternehmen strebt bis 2030 150 Mitarbeitende an.]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Geschützter Drogenkonsum – Warum Konsumräume bis heute wichtig sind</title>
+      <link>https://www.srf.ch/news/schweiz/geschuetzter-drogenkonsum-warum-konsumraeume-bis-heute-wichtig-sind</link>
+      <guid isPermaLink="false">urn:srf:article:019f1d02-b91e-609e-48fd-cf13ceae61c8</guid>
+      <description><![CDATA[Vor 40 Jahren begann es mit den Fixerstübli. Heute heissen sie Konsumräume – eine wichtige Säule der Drogenpolitik.]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:42:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Die drei scheidenden FDP-Staatsräte bewerben sich für eine neue Amtszeit in der Waadtländer Regierung</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/elections-vaudoises-2027-les-trois-ministres-plr-se-representent-29292534.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29292534</guid>
+      <description><![CDATA[Die drei FDP-Minister der Waadtländer Regierung werden im Februar 2027 erneut kandidieren und streben jeweils eine zweite volle Amtszeit an. Christelle Luisier (Finanzen), Frédéric Borloz (Bildung) und Isabelle Moret (Wirtschaft) haben dies in den Medien angekündigt.]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Galaxus warnt: Fast keine Klimaanlagen mehr für den gesamten Sommer verfügbar</title>
+      <link>https://www.20min.ch/fr/story/canicule-galaxus-previent-quasi-plus-de-clim-disponibles-de-tout-l-ete-103594993</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/canicule-galaxus-previent-quasi-plus-de-clim-disponibles-de-tout-l-ete-103594993</guid>
+      <description><![CDATA[Mit den jüngsten Hitzewellen in der Schweiz sind die Bestellungen für Klimaanlagen und Ventilatoren sprunghaft angestiegen. Dies führt dazu, dass die Lagerbestände nicht mehr ausreichen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Nach unerlaubter Bischofsweihe – Piusbruderschaft: Vatikan schliesst erzkonservative Bischöfe aus</title>
+      <link>https://www.srf.ch/news/international/nach-unerlaubter-bischofsweihe-piusbruderschaft-vatikan-schliesst-erzkonservative-bischoefe-aus</link>
+      <guid isPermaLink="false">urn:srf:article:019f21e3-57da-0e5a-7a4d-f0d2f67dde12</guid>
+      <description><![CDATA[Die Geistlichen werden beschuldigt, die Spaltung der katholischen Kirche zu bezwecken.]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:37:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Von Sparte bis Athen – Dark Greece – Die Wahrheit über das antike Griechenland</title>
+      <link>https://www.srf.ch/sendungen/school/geschichte-geografie/von-sparte-bis-athen-dark-greece-die-wahrheit-ueber-das-antike-griechenland</link>
+      <guid isPermaLink="false">urn:srf:article:019eda10-730a-5e4a-7dc8-00c42cb32de7</guid>
+      <description><![CDATA[Gewalt, Machtkämpfe und Fortschritt: Was trieb das antike Griechenland an?]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:27:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] In Nyon verschwinden alle 56 Gemälde einer Ausstellung</title>
+      <link>https://www.20min.ch/fr/story/vaud-a-nyon-les-56-peintures-d-une-exposition-disparaissent-103594967</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-a-nyon-les-56-peintures-d-une-exposition-disparaissent-103594967</guid>
+      <description><![CDATA[In der Nacht vom 22. auf den 23. Juni wurden alle an den Wänden der Migros-Klubschule aufgehängten Gemälde gestohlen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Selbstfahrende Autos – Mehr Stau, weil weniger Menschen hinter dem Steuer sitzen?</title>
+      <link>https://www.srf.ch/news/schweiz/selbstfahrende-autos-mehr-stau-weil-weniger-menschen-hinter-dem-steuer-sitzen</link>
+      <guid isPermaLink="false">urn:srf:article:019f1247-4d31-c843-897c-95b4da1f7fbd</guid>
+      <description><![CDATA[Autonomes Fahren: Der Kanton Aargau stellt sich auf Mehrverkehr ein und plant voraus.]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Dorfbeizen durch Brandschutzvorschriften geleert</title>
+      <link>https://www.20min.ch/fr/story/vaud-des-bistrots-de-village-vides-par-les-normes-anti-incendie-103594921</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-des-bistrots-de-village-vides-par-les-normes-anti-incendie-103594921</guid>
+      <description><![CDATA[Mehrere gewählte Vertreter aus dem Waadtländer Umland sind besorgt über die Starrheit der Vorschriften, die seit dem Brand im Constellation am 1. Januar in Crans-Montana angewendet werden.]]></description>
+      <pubDate>Thu, 02 Jul 2026 07:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] 10’000 Pfund von Asylsuchenden – Grossbritannien verschärft Asylpolitik</title>
+      <link>https://www.srf.ch/news/international/10-000-pfund-von-asylsuchenden-grossbritannien-verschaerft-asylpolitik</link>
+      <guid isPermaLink="false">urn:srf:article:019f1d4f-64f6-042c-c22a-119a309c80b3</guid>
+      <description><![CDATA[Grossbritannien verschärft die Asylpolitik. Anerkannte Flüchtlinge sollen für Unterkunft und Essen 10’000 Pfund zahlen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 06:40:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Temu &amp; Co. – Vom neuen EU-Päcklizoll sind auch Schweizer Exporteure betroffen</title>
+      <link>https://www.srf.ch/news/wirtschaft/temu-co-vom-neuen-eu-paecklizoll-sind-auch-schweizer-exporteure-betroffen</link>
+      <guid isPermaLink="false">urn:srf:article:019f1dd1-5cac-7b2b-59f9-34b3a09e9fb2</guid>
+      <description><![CDATA[Die EU will die Paketflut aus Asien eindämmen – und erhebt einen Zoll von drei Euro pro Artikelkategorie im Paket.]]></description>
+      <pubDate>Thu, 02 Jul 2026 05:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Brief an die AfD – Sahra Wagenknecht umwirbt Alice Weidel und stösst auf Ablehnung</title>
+      <link>https://www.srf.ch/news/international/brief-an-die-afd-sahra-wagenknecht-umwirbt-alice-weidel-und-stoesst-auf-ablehnung</link>
+      <guid isPermaLink="false">urn:srf:article:019f1fc1-5468-5b7c-8b63-ba5f7f128ede</guid>
+      <description><![CDATA[Die deutsche Politikerin Sahra Wagenknecht umwirbt mit ihrer Partei «Bündnis Sahra Wagenknecht» die Co-Chefin der AfD.]]></description>
+      <pubDate>Thu, 02 Jul 2026 05:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Parlamentswahl – Algerien wählt neues Parlament: Mehr als 10'000 Kandidierende</title>
+      <link>https://www.srf.ch/news/international/parlamentswahl-algerien-waehlt-neues-parlament-mehr-als-10-000-kandidierende</link>
       <guid isPermaLink="false">urn:srf:article:019f1c81-d7d9-5d24-d627-4c61015ec2a9</guid>
       <description><![CDATA[Überraschungen wird es bei der Wahl in Algerien kaum geben. Doch wichtiger ist etwas anderes.]]></description>
       <pubDate>Thu, 02 Jul 2026 04:26:34 GMT</pubDate>
@@ -18,12 +130,12 @@
       <title>[SRF Schweiz] Ausbau der Luftverteidigung – Fünf Milliarden allein für das zusätzliche Abwehrsystem</title>
       <link>https://www.srf.ch/news/schweiz/ausbau-der-luftverteidigung-fuenf-milliarden-allein-fuer-das-zusaetzliche-abwehrsystem</link>
       <guid isPermaLink="false">urn:srf:article:019f1df5-f241-ca79-368a-8d12d1827623</guid>
-      <description><![CDATA[Hinzu kommen Mehrkosten bei Patriot: Der Preis könnten sich im schlimmsten Fall verdreifachen.]]></description>
+      <description><![CDATA[Hinzu kommen Mehrkosten bei Patriot: Der Preis könnte sich im schlimmsten Fall verdreifachen.]]></description>
       <pubDate>Thu, 02 Jul 2026 03:48:41 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wirtschaft] Sportartikel – Nike mit schwachen Geschäftszahlen – Branchenführer aus dem Tritt</title>
-      <link>https://www.srf.ch/news/wirtschaft/sportartikel-nike-mit-schwachen-geschaeftszahlen-branchenfuehrer-aus-dem-tritt</link>
+      <title>[SRF Wirtschaft] Sportartikel – Weltmarktführer Nike ist aus dem Tritt geraten und strauchelt</title>
+      <link>https://www.srf.ch/news/wirtschaft/sportartikel-weltmarktfuehrer-nike-ist-aus-dem-tritt-geraten-und-strauchelt</link>
       <guid isPermaLink="false">urn:srf:article:019f1e0f-73b6-abd1-4b18-d17cbea91d47</guid>
       <description><![CDATA[Nike präsentiert durchzogene Zahlen, die Nachfrage sei schwach. In der Schweiz aber macht die Branche hohe Umsätze.]]></description>
       <pubDate>Thu, 02 Jul 2026 03:43:43 GMT</pubDate>
@@ -195,83 +307,6 @@
       <guid isPermaLink="false">urn:srf:article:019f1362-a86d-48d8-6ba0-4984ea8eab66</guid>
       <description><![CDATA[Die Familie des Mordopfers Walter Arnold findet durch die Verjährung keinen Frieden. Sie möchte das Motiv erfahren.]]></description>
       <pubDate>Wed, 01 Jul 2026 11:59:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Umstrittene Einbürgerung – Thurgauer Parlament bürgert Syrer nach acht Jahren ein</title>
-      <link>https://www.srf.ch/news/schweiz/umstrittene-einbuergerung-thurgauer-parlament-buergert-syrer-nach-acht-jahren-ein</link>
-      <guid isPermaLink="false">urn:srf:article:019f178d-815a-3d9f-9e8e-28110cd4ad5c</guid>
-      <description><![CDATA[Ein Einbürgerungsgesuch, mehrere Gerichtsurteile und politische Debatten: Nun ist der Fall abgeschlossen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Neue Regeln ab 1. Juli – Autorennen, Kinderschutz, Handybetrug: Das gilt ab jetzt</title>
-      <link>https://www.srf.ch/news/schweiz/neue-regeln-ab-1-juli-autorennen-kinderschutz-handybetrug-das-gilt-ab-jetzt</link>
-      <guid isPermaLink="false">urn:srf:article:019f1cc9-215e-e428-a20c-69ed00178b1c</guid>
-      <description><![CDATA[Vom Strassenverkehr über Gesundheits-Apps bis zu Spoofing: Ab heute treten diverse Neuerungen in Kraft. Eine Übersicht.]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:43:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Nach fünf Jahren – Merkel inszeniert sich mit «Spuren der Macht»</title>
-      <link>https://www.srf.ch/news/international/nach-fuenf-jahren-merkel-inszeniert-sich-mit-spuren-der-macht</link>
-      <guid isPermaLink="false">urn:srf:article:019f1cd2-c71d-ff4e-6d1b-40e93d1cb73b</guid>
-      <description><![CDATA[Aussergewöhnlich lange liess sich Angela Merkel Zeit mit dem offiziellen Porträt. Nun wurde es in Berlin enthüllt.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] 80 Jahre Atomtests – Bikini-Atoll: Das verlorene Paradies</title>
-      <link>https://www.srf.ch/news/international/80-jahre-atomtests-bikini-atoll-das-verlorene-paradies</link>
-      <guid isPermaLink="false">urn:srf:article:019f1738-ba93-4157-81a4-b6f26583a941</guid>
-      <description><![CDATA[1946 verliessen 167 Menschen das Bikini-Atoll für Atombombentests der USA. Bis heute können sie nicht zurück.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Lausanne führt geschlechtsneutrale WCs ein, um Wartezeiten für Frauen zu verkürzen</title>
-      <link>https://www.20min.ch/fr/story/vaud-lausanne-aura-des-wc-non-genres-pour-eviter-aux-femmes-d-attendre-103594149</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-lausanne-aura-des-wc-non-genres-pour-eviter-aux-femmes-d-attendre-103594149</guid>
-      <description><![CDATA[Die Stadt will, dass die selbstreinigenden Einzelkabinen von beiden Geschlechtern genutzt werden können, um den Komfort für Frauen zu verbessern.]]></description>
-      <pubDate>Wed, 01 Jul 2026 08:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Höchstwerte übertroffen – Meere so warm wie noch nie um diese Jahreszeit</title>
-      <link>https://www.srf.ch/news/hoechstwerte-uebertroffen-meere-so-warm-wie-noch-nie-um-diese-jahreszeit</link>
-      <guid isPermaLink="false">urn:srf:article:019f1c7e-73d3-c610-1d35-f32248d7a84e</guid>
-      <description><![CDATA[Die globale Durchschnittstemperatur der Wasseroberflächen lag zum Sommeranfang am 21. Juni bei knapp 21 Grad.]]></description>
-      <pubDate>Wed, 01 Jul 2026 08:16:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Vergangenheit von Betreuern in Ferienfreizeiten wird nicht gründlich geprüft</title>
-      <link>https://www.20min.ch/fr/story/vaud-le-passe-des-animateurs-de-centres-aeres-n-est-pas-scanne-a-fond-103594119</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-le-passe-des-animateurs-de-centres-aeres-n-est-pas-scanne-a-fond-103594119</guid>
-      <description><![CDATA[Yverdon verlangt keinen Sonderprivatauszug aus dem Strafregister von Erwachsenen, die Kinder bei Tagesaktivitäten betreuen. In der Schweiz besteht eine Gesetzeslücke.]]></description>
-      <pubDate>Wed, 01 Jul 2026 07:23:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Verbot aufgehoben – Gibt es bald wieder Formel-1-Rennen in der Schweiz?</title>
-      <link>https://www.srf.ch/news/schweiz/verbot-aufgehoben-gibt-es-bald-wieder-formel-1-rennen-in-der-schweiz</link>
-      <guid isPermaLink="false">urn:srf:article:019f179d-ef15-14ab-c954-dc433d7860d3</guid>
-      <description><![CDATA[Ab dem 1. Juli sind Rundstreckenrennen in der Schweiz wieder erlaubt. Formel-1-Rennen bleiben trotzdem unrealistisch.]]></description>
-      <pubDate>Wed, 01 Jul 2026 07:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Drohnenforschung – Falkenflug inspiriert neue Technologien</title>
-      <link>https://www.srf.ch/wissen/technik/drohnenforschung-falkenflug-inspiriert-neue-technologien</link>
-      <guid isPermaLink="false">urn:srf:article:019f137a-dca1-6c25-2a4e-1b4885b37f24</guid>
-      <description><![CDATA[Ingenieure schauen sich Strategien beim Falken ab, um Drohnen künftig auch bei Turbulenzen flugtauglicher zu machen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 06:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Wachbleiben wegen der WM – Nati-Spiel um 5 Uhr: So vermeiden Sie den Knockout</title>
-      <link>https://www.srf.ch/news/gesellschaft/wachbleiben-wegen-der-wm-nati-spiel-um-5-uhr-so-vermeiden-sie-den-knockout</link>
-      <guid isPermaLink="false">urn:srf:article:019f17a2-6628-6204-05a5-3b2622d0ff42</guid>
-      <description><![CDATA[Nicht nur die Nati spielt zur Unzeit. Vorschlafen, nachschlafen, durchbeissen? Der Survival-Guide für Fussballfans.]]></description>
-      <pubDate>Wed, 01 Jul 2026 06:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Gegen Smartphone-Tunnelblick – Die verlorene Intensität: Wie wir wieder mehr fühlen</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/gegen-smartphone-tunnelblick-die-verlorene-intensitaet-wie-wir-wieder-mehr-fuehlen</link>
-      <guid isPermaLink="false">urn:srf:article:019f129b-a260-298b-b5b6-ceb7feb877f4</guid>
-      <description><![CDATA[Verkümmert im digitalen Zeitalter unsere Fähigkeit zur Sinneswahrnehmung – und wie können wir gegensteuern?]]></description>
-      <pubDate>Wed, 01 Jul 2026 06:02:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
