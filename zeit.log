@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 1.7.2026, 06:59:31
-Letzter Lauf: 30.6.2026, 06:59:31
+Start: 2.7.2026, 06:59:30
+Letzter Lauf: 1.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,34 +20,44 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 28 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Behandelt dasselbe Thema wie ID 16, ID 16 bietet informativere Daten zur Preisentwicklung.): [Mobilität] 'Ende des Tankrabatts: Tanke für nichts'
-- GelÃ¶scht (Grund: Duplikat zu Artikel ID 12; ID 12 fasst die Fakten zum Betrugsfall präziser zusammen.): [Gesellschaft] 'Abrechnungsbetrug im Gesundheitswesen: Die Phantompatienten des Dr. O.'
-- GelÃ¶scht (Grund: Thematisches Duplikat zu ID 0 und ID 24; ID 24 bietet den aktuellsten Sachstand.): [Gesellschaft] 'Naturkatastrophe: Zahl der Toten nach Erdbeben in Venezuela steigt auf über 1.900'
-- GelÃ¶scht (Grund: Thematisches Duplikat zu ID 20, welcher detailliertere Hintergründe liefert.): [Gesellschaft] 'Stade: Amtsgericht erlässt nach Schüssen in Stade Haftbefehl wegen Mordes'
-- GelÃ¶scht (Grund: Fällt unter die Kategorie regionale Kommunalthemen (Schweiz/Grosshöchstetten).): [Schweiz] 'Kabarettduo »schön und gut«: Postleitzahl: 3506'
+KI-Filter (Gemini) - 38 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Behandelt ein regionales deutsches Gerichts- und Politikthema (lokale Wahlkampfhelfer/Delmenhorst).): [Gesellschaft] 'Rechtsextreme Angriffe: Eine Gefahr für die demokratische Willensbildung'
+- GelÃ¶scht (Grund: Doppelung: Das Thema wird bereits durch Artikel 9 abgedeckt (Sorgerechtsstreit/Schusswaffenangriff in Stade).): [Gesellschaft] 'Schusswaffenangriff in Stade: Staatsanwaltschaft bestätigt Ermittlungen gegen Schützen von Stade'
+- GelÃ¶scht (Grund: Doppelung: Berichtet über dasselbe Erdbeben-Ereignis wie Artikel 4.): [Gesellschaft] 'Erdbeben in Venezuela: WHO warnt vor Überlastung von Venezuelas Gesundheitssystem'
+- GelÃ¶scht (Grund: Behandelt eine rein lokale, deutsche Rechtsentscheidung ohne überregionale politische oder gesellschaftliche Relevanz.): [Gesellschaft] 'Magdeburg: Angreifer vom Magdeburger Weihnachtsmarkt geht in Revision'
 
 Finale Liste (live im XML-Feed):
-- [Gesellschaft] Erdbeben in Venezuela: WHO warnt vor Überlastung von Venezuelas Gesundheitssystem
-- [Digital] Künstliche Intelligenz: USA heben Blockade von Anthropics KI-Modellen auf
-- [Wirtschaft] Zollabkommen mit den USA: EU setzt Zollversprechen an Donald Trump um
-- [Gesellschaft] Hitzewelle: Misstrauensantrag gegen Frankreichs Regierung wegen Hitzeschutz
-- [Gesellschaft] Rabea Rogge: Was lernt man im All über den Menschen, Rabea Rogge?
-- [Wirtschaft] Reformpaket: Und was, wenn die Wirtschaft einfach nicht wächst?
-- [Gesellschaft] Asha Hedayati: »Sie fühlen sich durch die Trennung um ihre Anspruchshaltung betrogen«
-- [Gesellschaft] Betrug im Gesundheitssystem: Arzt erschleicht 1,6 Millionen von Krankenkassen
-- [Wirtschaft] Argentinien: Mileis Erfolgsbilanz? Fragen Sie mal Marco Meloni
-- [Gesellschaft] Linksextremismus: Lina E. soll wegen Aussageverweigerung erneut in Haft
-- [Mobilität] E-Mobilität in Delhi: Delhi setzt im Kampf gegen Smog auf Förderung von Elektrofahrzeugen
-- [Wirtschaft] Tankrabatt: Spritpreise steigen kurz vor Ende des Tankrabatts deutlich
-- [Gesellschaft] Bundesjugendspiele: Wie ich lernte, die Bundesjugendspiele zu lieben
-- [Wirtschaft] Inflation in Deutschland: Inflationsrate sinkt im Juni auf 2,3 Prozent
-- [Mobilität] Bundesnetzagentur: Bahn muss Fernverkehrtrassen stärker für Konkurrenz öffnen
-- [Gesellschaft] Schüsse in Stade: Mutmaßlicher Täter aus Stade soll Tochter geschüttelt haben
-- [Arbeit] Wirtschaftliche Entwicklungen: Warum nicht mal Jobwechsel auf Probe?
-- [Gesellschaft] UBS Global Wealth Report: Weltweites Privatvermögen wächst 2025 um fast elf Prozent
-- [Digital] »Star Fox«: Hier wird nicht erzählt, sondern geballert
-- [Gesellschaft] Erdbeben in Venezuela: Retter in Venezuela finden noch immer Überlebende
-- [Arbeit] Arbeitsmarkt in Deutschland: Zahl der Arbeitslosen sinkt im Juni nur leicht
-- [Wirtschaft] ifo-Umfrage: Weniger Unternehmen planen Preiserhöhungen
-- [Arbeit] Horst Mager: Wie entspannt Sie die Arbeit im Garten, Horst Mager?
+- [Wirtschaft] KI-Boom an den Weltbörsen: Acht Gründe, warum der KI-Crash nahe ist – und fünf für Zuversicht
+- [Mobilität] Elektroautos: Zu wenig Reichweite, Geld zurück?
+- [Gesellschaft] Waldbrände: Hunderte Feuerwehrleute bekämpfen Waldbrand in Südfrankreich
+- [Wirtschaft] Börsengang von KNDS: Deutsch-französischer Rüstungskonzern KNDS verschiebt Börsengang
+- [Gesellschaft] Venezuela: Zahl der Toten nach Erdbeben in Venezuela steigt auf 2.295
+- [Gesellschaft] Thessaloniki: Mutter einer Politikerin bei Brandanschlag in Griechenland getötet
+- [Mobilität] Lkw-Verkehr am Simplonpass: Halt die Gläser fest, die Laster kommen
+- [Wirtschaft] Klimatisierungsplan: Marine Le Pen entdeckt die Klimakrise
+- [Gesellschaft] Katholizismus: Piusbruderschaft weiht neue Bischöfe gegen den Willen des Papstes
+- [Gesellschaft] Sorgerechtsstreitigkeiten: »Auf eine Tat wie in Stade wären wir nicht vorbereitet«
+- [Wirtschaft] Änderungen im Juli 2026: Bürgergeld wird Grundsicherung, Renten steigen, Flugticketsteuer sinkt
+- [Wirtschaft] Kryptowährung: Bitcoin fällt auf tiefsten Stand seit 21 Monaten
+- [Schweiz] Hüttenwandern: Kommen Sie gut rauf!
+- [Schweiz] Hüttenküche: »Ohne Würstel, aber herzhaft gewürzt«
+- [Schweiz] Alpenhütte aus der Kindheit: Der Junge in Lederhosen kehrt zurück
+- [Schweiz] Tim Effenberger: Da will ich rauf!
+- [Entdecken] Schöne Momente: »Ein Stück weit zurück in meine Kindheit«
+- [Entdecken] »Hast du jetzt Angst vor mir?«
+- [Schweiz] Berghütten: »Warme Duschen braucht es nicht«
+- [Entdecken] Angst beim Radfahren: Alle zehn Meter ein Unfall
+- [Entdecken] Stürzen: Von Fall zu Fall
+- [Wirtschaft] Kapitalgedeckte Rente: Rettet die Börse unsere Rente?
+- [Gesellschaft] Sicherheit von Bahn-Mitarbeitern: Deutsche Bahn stattet 2.000 Beschäftigte mit Bodycams aus
+- [Gesellschaft] Hütten-Idyll: Graf Furz in der Berghütte
+- [Wirtschaft] Institut der deutschen Wirtschaft: Deutsche geben jeden vierten Euro fürs Wohnen aus
+- [Gesellschaft] Völkermord in Ruanda: Polizei nimmt Mann wegen mutmaßlichen Völkermords in Ruanda fest
+- [Gesellschaft] Hitzewelle: Deutschland kühlt ab, Hitze zieht Richtung Osten ab
+- [Wirtschaft] Fernwärmeversorgung: Ja, muss es wirklich eine Wärmepumpe sein
+- [Wirtschaft] Erneuerbare Energien: Erneuerbare decken erstmalig 58 Prozent des deutschen Stromverbrauchs
+- [Wirtschaft] Tankrabatt: Spritpreise steigen nach Tankrabatt-Ende stark an
+- [Gesellschaft] Statistisches Bundesamt: Jeder dritte 25-Jährige wohnt noch bei den Eltern
+- [Gesellschaft] Hitzewelle in Europa: Mehr als tausend Hitzetote in Spanien im Juni
+- [Wirtschaft] EU-Zoll auf Päckchen: In der EU gilt ab Juli ein neuer Zoll auf Päckchen bis 150 Euro
+- [Arbeit] Highperformer: »Am schlimmsten ist, wenn ich meine Arbeitszeit eintragen soll«
