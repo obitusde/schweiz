@@ -5,21 +5,182 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Jul 2026 04:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:28:18 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Heise] Claude Fable 5: KI-Modell hilft bereitwillig, Cyberverbrechen zu planen</title>
+      <link>https://www.heise.de/news/Claude-Fable-5-KI-Modell-hilft-bereitwillig-Cyberverbrechen-zu-planen-11351585.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351585</guid>
+      <description><![CDATA[Anthropic hat Fable 5  zurückgebracht, jedoch lassen sich laut einem Entwickler die Sicherheitsrichtlinien ziemlich einfach aushebeln, um Verbrechen zu planen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 10:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Autonomes Fahren: VWs Vollbremsung bei Level 3</title>
+      <link>https://www.golem.de/news/autonomes-fahren-vws-vollbremsung-bei-level-3-2607-210416.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/autonomes-fahren-vws-vollbremsung-bei-level-3-2607-210416.html</guid>
+      <description><![CDATA[VW hat die Kooperation mit Bosch beim autonomen Fahren beendet. Cariad testet schon neue KI-Modelle, doch es gibt keine offiziellen Zeitpläne. Ein Bericht von Friedhelm Greis (<a href="https://www.golem.de/specials/cariad/">Cariad</a>, <a href="https://www.golem.de/specials/auto/">Auto</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 10:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Apple Hide My Email seit einem Jahr von Schwachstelle betroffen</title>
+      <link>https://www.digitec.ch/de/page/apple-hide-my-email-seit-einem-jahr-von-schwachstelle-betroffen-43155?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/apple-hide-my-email-seit-einem-jahr-von-schwachstelle-betroffen-43155</guid>
+      <description><![CDATA[Laut einem Sicherheitsforscher lassen sich aus vermeintlich anonymen Alias-Adressen von Apples iCloud-Dienst die echten ableiten.]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] IPCEI AST: Deutschland meldet EU erste Projekte für Halbleiterförderung</title>
+      <link>https://www.golem.de/news/ipcei-ast-deutschland-meldet-eu-erste-projekte-fuer-halbleiterfoerderung-2607-210427.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ipcei-ast-deutschland-meldet-eu-erste-projekte-fuer-halbleiterfoerderung-2607-210427.html</guid>
+      <description><![CDATA[Die ersten 14 Projekte zur Entwicklung neuer Halbleitertechnologien wurden an die EU-Kommission übermittelt. Starten sollen einige noch 2026. (<a href="https://www.golem.de/specials/ipcei/">IPCEI</a>, <a href="https://www.golem.de/specials/wissenschaft/">Wissenschaft</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Atommüll: In 100 Jahren bekommt Deutschland ein Endlager</title>
+      <link>https://www.golem.de/news/atommuell-in-100-jahre-bekommt-deutschland-ein-endlager-2607-210426.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/atommuell-in-100-jahre-bekommt-deutschland-ein-endlager-2607-210426.html</guid>
+      <description><![CDATA[Die Suche nach einem geeigneten Standort zur endgültigen Einlagerung atomarer Abfälle soll beschleunigt werden. Ziel ist das nächste Jahrhundert. (<a href="https://www.golem.de/specials/atomkraft/">Atomkraft</a>, <a href="https://www.golem.de/specials/strom/">Strom</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] 81 Millionen Anmeldeversuche: Massenangriff auf Microsoft-Konten</title>
+      <link>https://www.golem.de/news/81-millionen-anmeldeversuche-massenangriff-auf-microsoft-konten-2607-210424.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/81-millionen-anmeldeversuche-massenangriff-auf-microsoft-konten-2607-210424.html</guid>
+      <description><![CDATA[Forscher warnen vor einer neuen Angriffswelle auf Microsoft-365-Konten. Die Angreifer testen massenhaft Zugangsdaten durch, teilweise mit Erfolg. (<a href="https://www.golem.de/specials/cybercrime/">Cybercrime</a>, <a href="https://www.golem.de/specials/microsoft/">Microsoft</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:19:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Playstation: Wenn die Disc geht, muss Digital besser werden</title>
+      <link>https://www.golem.de/news/playstation-wenn-die-disc-geht-muss-digital-besser-werden-2607-210420.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/playstation-wenn-die-disc-geht-muss-digital-besser-werden-2607-210420.html</guid>
+      <description><![CDATA[Die Playstation-Disc verschwindet - doch Verleihen, Verschenken und Weiterverkaufen dürfen nicht einfach mit ihr verschwinden. Ein IMHO von Peter Steinlechner (<a href="https://www.golem.de/specials/imho/">IMHO</a>, <a href="https://www.golem.de/specials/sony/">Sony</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:05:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Patentstreit um halbe Milliarde: Apple bringt Urteil vor den Supreme Court</title>
+      <link>https://www.heise.de/news/Patentstreit-um-halbe-Milliarde-Apple-bringt-Urteil-vor-den-Supreme-Court-11351051.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351051</guid>
+      <description><![CDATA[Ein langjähriger Rechtsstreit mit einem Patentauswerter soll nun an höchster Stelle geklärt werden. Apple wird von Intel und Hollywood-Firmen unterstützt.]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Google: Einzelne App-Daten lassen sich bei Android-Backup ausschließen</title>
+      <link>https://www.golem.de/news/google-einzelne-app-daten-lassen-sich-bei-android-backup-ausschliessen-2607-210423.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/google-einzelne-app-daten-lassen-sich-bei-android-backup-ausschliessen-2607-210423.html</guid>
+      <description><![CDATA[Google führt eine genauere Steuerung bei der Speicherverwaltung des Android-Backups ein - einzelne Apps lassen sich ausschließen. (<a href="https://www.golem.de/specials/android/">Android</a>, <a href="https://www.golem.de/specials/google/">Google</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] EuGH bestätigt Rekordstrafe gegen Google wegen Android-Praktiken</title>
+      <link>https://www.heise.de/news/EuGH-bestaetigt-Rekordstrafe-gegen-Google-wegen-Android-Praktiken-11351395.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351395</guid>
+      <description><![CDATA[Der EuGH hat das Urteil gegen Google wegen Missbrauchs seiner Marktmacht bei Android bestätigt. Die Milliardenstrafe der EU ist damit rechtskräftig.]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Infineon eröffnet 5-Milliarden-Euro-Chipfabrik in Dresden</title>
+      <link>https://www.heise.de/news/Infineon-eroeffnet-5-Milliarden-Euro-Chipfabrik-in-Dresden-11342948.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11342948</guid>
+      <description><![CDATA[Die „Smart Power Fab“ ist eines der weltgrößten Fertigungswerke für Leistungshalbleiter, die in Netzteilen, E-Autos, Wechselrichtern und Servern stecken.]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] OpenAI schlägt angeblich 5-Prozent-Beteiligung des US-Staats vor</title>
+      <link>https://www.heise.de/news/OpenAI-schlaegt-angeblich-5-Prozent-Beteiligung-des-US-Staats-vor-11351321.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351321</guid>
+      <description><![CDATA[OpenAI will den US-Staat laut einem Bericht am KI-Boom beteiligen und schlägt dafür ein Fondsmodell vor, das auch andere große KI-Anbieter einbeziehen soll.]]></description>
+      <pubDate>Thu, 02 Jul 2026 07:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Kryptowährungen: Media Markt Saturn verkauft jetzt Cryptonow Gutscheinkarten</title>
+      <link>https://www.golem.de/news/kryptowaehrungen-media-markt-saturn-verkauft-jetzt-cryptonow-gutscheinkarten-2607-210418.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/kryptowaehrungen-media-markt-saturn-verkauft-jetzt-cryptonow-gutscheinkarten-2607-210418.html</guid>
+      <description><![CDATA[Media Markt Saturn nimmt Krypto-Gutscheine in sein Sortiment auf. Kunden können diese online sowie in den Märkten erwerben. (<a href="https://www.golem.de/specials/media-markt/">Media Markt</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 07:46:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Supreme Court: US-Urteil setzt transatlantischen Datentransfer unter Druck</title>
+      <link>https://www.golem.de/news/supreme-court-us-urteil-setzt-transatlantischen-datentransfer-unter-druck-2607-210417.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/supreme-court-us-urteil-setzt-transatlantischen-datentransfer-unter-druck-2607-210417.html</guid>
+      <description><![CDATA[Ein Urteil des Supreme Court schwächt die US-Handelsaufsicht FTC. Das könnte Folgen für den Datenverkehr mit den USA haben. (<a href="https://www.golem.de/specials/europaeische-union/">EU</a>, <a href="https://www.golem.de/specials/datenschutz/">Datenschutz</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 07:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] US-Luftfahrtbehörde will Verbot ziviler Überschallflüge über Land aufheben</title>
+      <link>https://www.heise.de/news/US-Luftfahrtbehoerde-will-Verbot-ziviler-Ueberschallfluege-ueber-Land-aufheben-11351253.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351253</guid>
+      <description><![CDATA[Überschallflüge über Land sollen in den USA bald möglich sein, um Flugzeiten zu verkürzen. Die FAA schafft dazu die regulatorischen Grundlagen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 07:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] KI-Training: Das offene Web macht dicht</title>
+      <link>https://www.golem.de/news/ki-training-das-offene-web-macht-dicht-2607-210349.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ki-training-das-offene-web-macht-dicht-2607-210349.html</guid>
+      <description><![CDATA[Hochwertige Trainingsdaten werden knapp, teuer und exklusiv. Das bedroht KI-Modelle nicht sofort mit dem Kollaps, verschiebt aber die Macht im Markt. Eine Analyse von Nils Matthiesen (<a href="https://www.golem.de/specials/llm/">LLM</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 07:12:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Marktmissbrauch bei Preissuchmaschinen: Google muss Milliardenstrafe an Klarna-Tochter zahlen</title>
+      <link>https://www.golem.de/news/marktmissbrauch-bei-preissuchmaschinen-google-muss-milliardenstrafe-an-klarna-tochter-zahlen-2607-210413.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/marktmissbrauch-bei-preissuchmaschinen-google-muss-milliardenstrafe-an-klarna-tochter-zahlen-2607-210413.html</guid>
+      <description><![CDATA[Ein schwedisches Gericht hat Google zu einer Milliardenstrafe verurteilt. Das Unternehmen habe Konkurrenten benachteiligt und seine Marktdominanz missbraucht. (<a href="https://www.golem.de/specials/google/">Google</a>, <a href="https://www.golem.de/specials/rechtsstreitigkeiten/">Rechtsstreitigkeiten</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 06:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Weil sie denken, sie wären in einem Spiel: KI-Browser geben Passwörter heraus</title>
+      <link>https://www.heise.de/news/Weil-sie-denken-sie-waeren-in-einem-Spiel-KI-Browser-geben-Passwoerter-heraus-11351213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351213</guid>
+      <description><![CDATA[Ein Trick hat KI-Browser dazu gebracht, sensible Daten wie Passwörter zu offenbaren. Man musste ihnen nur vorgaukeln, dass sie sich in einem Spiel befinden.]]></description>
+      <pubDate>Thu, 02 Jul 2026 06:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Tödlicher Auffahrunfall: Elektrolastwagen Tesla Semi in Unfall verwickelt</title>
+      <link>https://www.golem.de/news/toedlicher-auffahrunfall-elektrolastwagen-tesla-semi-in-unfall-verwickelt-2607-210414.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/toedlicher-auffahrunfall-elektrolastwagen-tesla-semi-in-unfall-verwickelt-2607-210414.html</guid>
+      <description><![CDATA[Weil der Fahrer offenbar eingeschlafen ist, ist ein Tesla Semi in Nevada auf stehende Fahrzeuge aufgefahren. Zwei Menschen starben. (<a href="https://www.golem.de/specials/tesla/">Tesla</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 06:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] In alten Handys schlummert eine Tonne Gold</title>
+      <link>https://www.heise.de/news/In-alten-Handys-schlummert-eine-Tonne-Gold-11351201.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351201</guid>
+      <description><![CDATA[In deutschen Schubladen lagern Millionen alte Handys – inklusive einer Tonne Gold und weiteren wertvollen Metallen. Doch kaum ein Gerät wird recycelt.]]></description>
+      <pubDate>Thu, 02 Jul 2026 06:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Schweden rüstet Ukraine auf: Gripen-E-Kampfjet kommt</title>
+      <link>https://www.golem.de/news/schweden-ruestet-ukraine-auf-gripen-e-kampfjet-kommt-2607-210410.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/schweden-ruestet-ukraine-auf-gripen-e-kampfjet-kommt-2607-210410.html</guid>
+      <description><![CDATA[Saab liefert der Ukraine 16 Gripen-E-Kampfjets, zusätzlich zu den bereits zugesagten älteren Gripen-C/D-Maschinen. (<a href="https://www.golem.de/specials/militaer/">Militär</a>, <a href="https://www.golem.de/specials/general-electric/">General Electric</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 05:45:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Ankaufplattform Cleverbuy: Ex-Geschäftsführer zu Haftstrafe wegen Betrugs verurteilt</title>
+      <link>https://www.golem.de/news/ankaufplattform-cleverbuy-ex-geschaeftsfuehrer-zu-haftstrafe-wegen-betrugs-verurteilt-2607-210412.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/ankaufplattform-cleverbuy-ex-geschaeftsfuehrer-zu-haftstrafe-wegen-betrugs-verurteilt-2607-210412.html</guid>
+      <description><![CDATA[Neben dem Ex-Geschäftsführer von Cleverbuy ist auch eine frühere Mitarbeiterin wegen Betrugs vom Gericht verurteilt worden. (<a href="https://www.golem.de/specials/onlinehandel/">Onlinehandel</a>, <a href="https://www.golem.de/specials/rechtsstreitigkeiten/">Rechtsstreitigkeiten</a>)]]></description>
+      <pubDate>Thu, 02 Jul 2026 05:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Kim Dotcom: Weitere juristische Niederlage im Auslieferungsstreit</title>
+      <link>https://www.heise.de/news/Kim-Dotcom-scheitert-erneut-mit-Einspruch-gegen-Auslieferung-11351181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351181</guid>
+      <description><![CDATA[Der einstige deutsche Internetstar Kim Dotcom will mit allen Mitteln eine Auslieferung an die USA verhindern. Nun gibt es eine weitere Niederlage.]]></description>
+      <pubDate>Thu, 02 Jul 2026 05:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Microsoft plant nächsten großen KI-Serverstandort in NRW</title>
+      <link>https://www.heise.de/news/Microsoft-plant-naechsten-grossen-KI-Serverstandort-in-NRW-11351175.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351175</guid>
+      <description><![CDATA[Die Tage des Kohle-Abbaus im Rheinischen Revier sind gezählt. Hohe Investitionen in neue Serverstandorte für KI-Anwendungen stimmen hoffnungsvoll.]]></description>
+      <pubDate>Thu, 02 Jul 2026 04:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Heise] Microsofts nächste Kündigungswelle hat offenbar geringeres Ausmaß</title>
       <link>https://www.heise.de/news/Microsofts-naechste-Kuendigungswelle-hat-offenbar-geringeres-Ausmass-11351143.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11351143</guid>
       <description><![CDATA[Die nächsten Stellenstreichungen bei Microsoft sollen erneut tausende Mitarbeiter betreffen. Mit 2,5 Prozent der Angestellten sind es aber weniger als zuvor.]]></description>
       <pubDate>Thu, 02 Jul 2026 03:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] «The One Piece» nimmt mir endlich die Angst vor «One Piece»</title>
-      <link>https://www.digitec.ch/de/page/the-one-piece-nimmt-mir-endlich-die-angst-vor-one-piece-43135?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/the-one-piece-nimmt-mir-endlich-die-angst-vor-one-piece-43135</guid>
-      <description><![CDATA[Über 1160 Folgen? Nein danke. «One Piece» war für mich immer zu gross, zu lang und zu einschüchternd. Bis jetzt. Denn dieses Remake könnte genau der Einstieg sein, auf den ich seit Jahren gewartet habe.]]></description>
-      <pubDate>Wed, 01 Jul 2026 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>[Digitec] Nächste Hitzewelle rollt an, doch jetzt fehlen Ventilatoren und Klimaanlagen</title>
@@ -33,6 +194,13 @@
       <link>https://www.digitec.ch/de/page/mit-top-handschrifterkennung-remarkable-paper-pure-im-test-43136?utm_source=rss-feed&amp;utm_medium=rss</link>
       <guid isPermaLink="false">https://www.digitec.ch/de/page/mit-top-handschrifterkennung-remarkable-paper-pure-im-test-43136</guid>
       <description><![CDATA[Das Paper Pure ist ein digitaler Notizblock, der aufs Wesentliche reduziert wurde: keine Farben, keine Hintergrundbeleuchtung und ein Schreibgefühl wie auf Papier. Nur der Abo-Zwang nervt.]]></description>
+      <pubDate>Wed, 01 Jul 2026 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] «The One Piece» nimmt mir endlich die Angst vor «One Piece»</title>
+      <link>https://www.digitec.ch/de/page/the-one-piece-nimmt-mir-endlich-die-angst-vor-one-piece-43135?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/the-one-piece-nimmt-mir-endlich-die-angst-vor-one-piece-43135</guid>
+      <description><![CDATA[Über 1160 Folgen? Nein danke. «One Piece» war für mich immer zu gross, zu lang und zu einschüchternd. Bis jetzt. Denn dieses Remake könnte genau der Einstieg sein, auf den ich seit Jahren gewartet habe.]]></description>
       <pubDate>Wed, 01 Jul 2026 22:00:00 GMT</pubDate>
     </item>
     <item>
@@ -419,7 +587,7 @@
       <title>[Golem] Conquest: Netflix, ein gescheitertes Sci-Fi-Projekt und die Justiz</title>
       <link>https://www.golem.de/news/conquest-netflix-ein-gescheitertes-sci-fi-projekt-und-die-justiz-2607-203470.html</link>
       <guid isPermaLink="false">https://www.golem.de/news/conquest-netflix-ein-gescheitertes-sci-fi-projekt-und-die-justiz-2607-203470.html</guid>
-      <description><![CDATA[Netflix hat 55 Millionen US-Dollar für eine Sci-Fi-Serie ausgegeben, die nie abgeschlossen wurde - und wurde Opfer eines Betrugs. Nun wurde das Strafmaß für den Betrüger verkündet. Ein Bericht von Peter Osteried (<a href="https://www.golem.de/specials/netflix/">Netflix</a>, <a href="https://www.golem.de/specials/disney/">Disney</a>)]]></description>
+      <description><![CDATA[Netflix hat 55 Millionen US-Dollar für eine nie fertiggestellte Sci-Fi-Serie ausgegeben - und wurde Opfer eines Betrugs. Nun wurde das Strafmaß für den Betrüger verkündet. Ein Bericht von Peter Osteried (<a href="https://www.golem.de/specials/netflix/">Netflix</a>, <a href="https://www.golem.de/specials/disney/">Disney</a>)]]></description>
       <pubDate>Wed, 01 Jul 2026 13:00:01 GMT</pubDate>
     </item>
     <item>
@@ -486,193 +654,11 @@
       <pubDate>Wed, 01 Jul 2026 11:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Exploitarium: Anonymer Forscher leakt massenweise Zero-Day-Exploits</title>
-      <link>https://www.golem.de/news/exploitarium-anonymer-forscher-leakt-massenweise-zero-day-exploits-2607-210388.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/exploitarium-anonymer-forscher-leakt-massenweise-zero-day-exploits-2607-210388.html</guid>
-      <description><![CDATA[Ein öffentliches Github-Repository enthält 26 Exploits für Zero-Day-Lücken in mehreren populären Softwaretools. Und es werden immer mehr. (<a href="https://www.golem.de/specials/sicherheitsluecke/">Sicherheitslücke</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 11:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Hohe Nachfrage: Microsoft baut neues Rechenzentrum in Nordrhein-Westfalen</title>
-      <link>https://www.golem.de/news/hohe-nachfrage-microsoft-baut-neues-rechenzentrum-in-nordrhein-westfalen-2607-210389.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/hohe-nachfrage-microsoft-baut-neues-rechenzentrum-in-nordrhein-westfalen-2607-210389.html</guid>
-      <description><![CDATA[Microsoft erweitert seine Milliarden-Investitionen in KI-Rechenzentren in NRW und baut eine vierte Anlage im Rheinischen Revier in Grevenbroich. (<a href="https://www.golem.de/specials/microsoft/">Microsoft</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 11:03:11 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Discord ist ab sofort auf Meta Quest verfügbar</title>
       <link>https://www.heise.de/news/Discord-ist-ab-sofort-auf-Meta-Quest-verfuegbar-11350481.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11350481</guid>
       <description><![CDATA[Meta bringt die beliebte Kommunikations-App Discord mit allen wichtigen Funktionen auf Quest-Headsets. Noch läuft aber nicht alles rund.]]></description>
       <pubDate>Wed, 01 Jul 2026 11:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Virtuelle Kraftwerke: USA planen mit 160 Gigawatt virtueller Leistung</title>
-      <link>https://www.golem.de/news/virtuelle-kraftwerke-usa-planen-mit-160-gigawatt-virtueller-leistung-2607-210386.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/virtuelle-kraftwerke-usa-planen-mit-160-gigawatt-virtueller-leistung-2607-210386.html</guid>
-      <description><![CDATA[Milliarden US-Dollar will das Land einsparen, weil smarte Geräte gemeinsam verhindern, dass Reservekraftwerke anspringen oder der Strom ausfällt. (<a href="https://www.golem.de/specials/strom/">Strom</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Battle Royale: Battlefield 6 lockt Einsteiger mit Casual-Modus</title>
-      <link>https://www.golem.de/news/battle-royale-battlefield-6-lockt-einsteiger-mit-casual-modus-2607-210382.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/battle-royale-battlefield-6-lockt-einsteiger-mit-casual-modus-2607-210382.html</guid>
-      <description><![CDATA[Druckwelle mit Drecksarbeit (kein Scherz!): Das Update für Season 3 für Battlefield 6 bringt unter anderem einen Casual-Modus für Battle Royale. (<a href="https://www.golem.de/specials/battlefield/">Battlefield</a>, <a href="https://www.golem.de/specials/electronic-arts/">Electronic Arts</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Android 17: Google erschwert das Knacken der Bildschirmsperre</title>
-      <link>https://www.heise.de/news/Android-17-Google-erschwert-das-Knacken-der-Bildschirmsperre-11350381.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350381</guid>
-      <description><![CDATA[Mit Android 17 führt Google strengere Limits für PIN-Eingaben am Sperrbildschirm ein. Damit soll das Erraten von PIN oder Passwörtern deutlich erschwert werden.]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Steganographie: Claude Code fügt kaum sichtbare Marker in Prompts ein</title>
-      <link>https://www.golem.de/news/steganographie-claude-code-fuegt-kaum-sichtbare-marker-in-prompts-ein-2607-210381.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/steganographie-claude-code-fuegt-kaum-sichtbare-marker-in-prompts-ein-2607-210381.html</guid>
-      <description><![CDATA[Ein Entwickler hat praktisch unsichtbare Markierungen in Claude Code entdeckt. Sie könnten Anthropic helfen, unerlaubtes Verhalten zu erkennen. (<a href="https://www.golem.de/specials/anthropic/">Anthropic</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] E-Auto Hyundai Ioniq 3 im Fahrbericht: Außen klein, innen groß</title>
-      <link>https://www.heise.de/tests/E-Auto-Hyundai-Ioniq-3-im-Fahrbericht-Aussen-klein-innen-gross-11349609.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11349609</guid>
-      <description><![CDATA[Der kompakte Hyundai Ioniq 3 überzeugt mit Komfort, Effizienz, guter Bedienung und erstaunlich viel Langstreckenpotenzial für ein Auto dieser Größe.]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Tokenmaxxing: Der Traum vom 1-Milliarden-Dollar-Unternehmen ohne menschliche Arbeitskraft</title>
-      <link>https://www.golem.de/news/tokenmaxxing-der-traum-vom-1-milliarden-dollar-unternehmen-ohne-menschliche-arbeitskraft-2607-210305.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/tokenmaxxing-der-traum-vom-1-milliarden-dollar-unternehmen-ohne-menschliche-arbeitskraft-2607-210305.html</guid>
-      <description><![CDATA[Tech-Start-ups geben immer mehr Geld für KI-Token aus. Dadurch wächst der Glaube an Firmen mit Milliardenumsätzen - ohne Personal. Ein Bericht von Lars Lubienetzki (<a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 10:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Erster Klimaturm der Welt in Bremen eingeweiht</title>
-      <link>https://www.heise.de/news/Erster-Klimaturm-der-Welt-in-Bremen-eingeweiht-11350315.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350315</guid>
-      <description><![CDATA[Das Bremer Unternehmen Towergy hat den ersten Klimaturm der Welt in Betrieb genommen. Die Großwärmepumpe soll einen Campus in Bremen heizen und kühlen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Northvolt-Nachfolge: Lyten übernimmt Kosten für Baustelle in Schleswig-Holstein</title>
-      <link>https://www.heise.de/news/Lyten-bekennt-sich-zur-Uebernahme-der-Northvolt-Baustelle-11350252.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350252</guid>
-      <description><![CDATA[US-Unternehmen Lyten will bei deutscher Northvolt-Tochter einsteigen. Die Pläne fallen aber deutlich kleiner aus.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] E.ON und Tank &amp; Rast bauen Megawatt-Ladenetz für E-Lkw an Autobahnen</title>
-      <link>https://www.heise.de/news/E-ON-und-Tank-Rast-bauen-Megawatt-Ladenetz-fuer-E-Lkw-an-Autobahnen-11350132.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350132</guid>
-      <description><![CDATA[195 Ladepunkte an 24 Autobahnstandorten, darunter 101 Megawatt-Ladepunkte für schwere E-Lkw, wollen E.ON und Tank & Rast errichten.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Für Datenklau und mehr: Forscher tricksen KI-Browser mit einem Spiel aus</title>
-      <link>https://www.golem.de/news/fuer-datenklau-und-mehr-forscher-tricksen-ki-browser-mit-einem-spiel-aus-2607-210378.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/fuer-datenklau-und-mehr-forscher-tricksen-ki-browser-mit-einem-spiel-aus-2607-210378.html</guid>
-      <description><![CDATA[Regulär führen KI-Browser keine bösartigen Anweisungen auf besuchten Webseiten aus. Mit Bioshocking lässt sich das umgehen, etwa für Datenklau. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/browser/">Browser</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:43:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Google kappt Tenor-Zugang: Apps müssen GIF-Suche ersetzen</title>
-      <link>https://www.heise.de/news/Google-kappt-Tenor-Zugang-Apps-muessen-GIF-Suche-ersetzen-11350258.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350258</guid>
-      <description><![CDATA[Google hat die Tenor-API abgeschaltet. Die GIF-Suche bleibt Google-Produkten erhalten, andere Plattformen müssen sich einen neuen Anbieter suchen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] H2-Produktion: Kombimodul verdoppelt Wasserstoffproduktion im Freien</title>
-      <link>https://www.golem.de/news/h2-produktion-kombimodul-verdoppelt-wasserstoffproduktion-im-freien-2607-210377.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/h2-produktion-kombimodul-verdoppelt-wasserstoffproduktion-im-freien-2607-210377.html</guid>
-      <description><![CDATA[Fast ein Drittel der einstrahlenden Sonnenenergie setzt der kleine Kasten in Wasserstoff um. Das gelingt dank neuartiger Solarzellanordnung. (<a href="https://www.golem.de/specials/wasserstoff/">Wasserstoff</a>, <a href="https://www.golem.de/specials/solarenergie/">Solarenergie</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Microsoft: Xbox-Umbau bringt zwei große Spiele ins Wanken</title>
-      <link>https://www.golem.de/news/microsoft-xbox-umbau-bringt-zwei-grosse-spiele-ins-wanken-2607-210376.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/microsoft-xbox-umbau-bringt-zwei-grosse-spiele-ins-wanken-2607-210376.html</guid>
-      <description><![CDATA[Der Umbau der Xbox-Sparte hat offenbar direkte Konsequenzen für vielversprechende Spieleprojekte. (<a href="https://www.golem.de/specials/xbox/">Xbox</a>, <a href="https://www.golem.de/specials/microsoft/">Microsoft</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Bundesregierung will Taskforce: Deutschland soll „KI-Nation“ werden</title>
-      <link>https://www.heise.de/news/Bundesregierung-will-Taskforce-Deutschland-soll-KI-Nation-werden-11350190.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350190</guid>
-      <description><![CDATA[Künstliche Intelligenz wird zunehmend zum Thema für die Politik. Die Bundesregierung will dazu jetzt eine Taskforce etablieren.]]></description>
-      <pubDate>Wed, 01 Jul 2026 08:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Skillsoft-CIO über KI: "Brauchen wir jetzt weniger Juniors? Schwierig"</title>
-      <link>https://www.golem.de/news/skillsoft-cio-ueber-ki-brauchen-wir-jetzt-weniger-juniors-schwierig-2607-210328.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/skillsoft-cio-ueber-ki-brauchen-wir-jetzt-weniger-juniors-schwierig-2607-210328.html</guid>
-      <description><![CDATA[Orla Daly ist eine gefragte Stimme zu Skills-Lücken, KI-Readiness und digitaler Transformation. Wir haben die Skillsoft-CIO gefragt, wo KI Arbeit verändert. (<a href="https://www.golem.de/specials/chefsvondevs/">Chefs von Devs</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 08:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Drei Stunden gratis, dann zahlen: Meta schränkt lokales KI-Brillen-Feature ein</title>
-      <link>https://www.heise.de/news/Drei-Stunden-gratis-dann-zahlen-Meta-schraenkt-lokales-KI-Brillen-Feature-ein-11350092.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350092</guid>
-      <description><![CDATA[Meta kassiert jetzt für eine Funktion, die lokal auf KI-Brillen läuft. Wer sie weiter uneingeschränkt nutzen will, ist dennoch an ein zeitliches Limit gebunden.]]></description>
-      <pubDate>Wed, 01 Jul 2026 08:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Vermögensbericht 2025: Donald Trump meldet hohe Krypto-Einnahmen</title>
-      <link>https://www.golem.de/news/vermoegensbericht-2025-donald-trump-meldet-hohe-krypto-einnahmen-2607-210373.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/vermoegensbericht-2025-donald-trump-meldet-hohe-krypto-einnahmen-2607-210373.html</guid>
-      <description><![CDATA[Ein neuer Finanzbericht zeigt, dass US-Präsident Donald Trump im Jahr 2025 den Großteil seiner Einnahmen mit digitalen Assets erzielt hat. (<a href="https://www.golem.de/specials/donaldtrump/">Donald Trump</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
-      <pubDate>Wed, 01 Jul 2026 08:17:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Exploitarium: Anonymer Sicherheitsforscher veröffentlicht zwei Dutzend Zero-Days</title>
-      <link>https://www.heise.de/news/Exploitarium-Anonymer-Sicherheitsforscher-veroeffentlicht-zwei-Dutzend-Zero-Days-11350036.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350036</guid>
-      <description><![CDATA[Von PHP bis RustDesk: Der Unbekannte hat mit KI-Unterstützung Sicherheitslücken in allerlei quelloffener Software entdeckt und publik gemacht – als Geschenk.]]></description>
-      <pubDate>Wed, 01 Jul 2026 07:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Google Chrome: Großes Update schließt erneut Hunderte Sicherheitslücken</title>
-      <link>https://www.heise.de/news/Google-Chrome-Grosses-Update-schliesst-erneut-Hunderte-Sicherheitsluecken-11350040.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350040</guid>
-      <description><![CDATA[Die Flut an identifizierten Sicherheitslücken reißt nicht ab, im Chrome werden jetzt erneut fast 400 geschlossen. Ob die Zahl wieder sinken wird, ist unklar.]]></description>
-      <pubDate>Wed, 01 Jul 2026 07:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Fahrrad-Assistent unterscheidet zwischen Kurvenfahrten und möglichem Umkippen</title>
-      <link>https://www.heise.de/news/Steer-by-Wire-Fahrrad-unterscheidet-Kurvenfahrten-von-moeglichem-Umkippen-11350014.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11350014</guid>
-      <description><![CDATA[Ein Steer-by-Wire-Fahrrad ermöglicht die zuverlässige Unterscheidung zwischen Kurvenfahrten und instabilen Fahrzuständen, was die Fahrsicherheit erhöht.]]></description>
-      <pubDate>Wed, 01 Jul 2026 07:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] WHO: Hitzewelle war nur die „Generalprobe“, die nächsten Sommer werden „härter“</title>
-      <link>https://www.heise.de/news/WHO-Juengste-Hitzewelle-war-nur-die-Generalprobe-die-Sommer-werden-haerter-11349933.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11349933</guid>
-      <description><![CDATA[Die große Hitzewelle ist vorbei, aber sie war nur ein Vorgeschmack. Davor warnt der WHO-Regionaldirektor für Europa und verweist auf nötige Gegenmaßnahmen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 05:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] BW ESS baut 1-Gigawatt-Speicher für den Stromhandel</title>
-      <link>https://www.heise.de/news/BW-ESS-baut-1-Gigawatt-Speicher-fuer-den-Stromhandel-11349923.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11349923</guid>
-      <description><![CDATA[BW ESS baut den größten Stromspeicher in Sachsen-Anhalt. Die Anlage mit einem Gigawatt Leistung soll 2028 in Betrieb gehen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 05:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Microsofts EU-Steuerzahlungen: Irland kassiert den Löwenanteil</title>
-      <link>https://www.heise.de/news/Microsofts-EU-Steuerzahlungen-Irland-kassiert-den-Loewenanteil-11349733.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11349733</guid>
-      <description><![CDATA[Microsoft legt offen, was der Konzern in der Europäischen Union an Körperschaftsteuern gezahlt hat. Deutschland bekommt vergleichsweise wenig ab.]]></description>
-      <pubDate>Wed, 01 Jul 2026 05:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Anthropic gibt Sonnet 5 frei, Fable 5 und Mythos 5 sollen wieder nutzbar werden</title>
-      <link>https://www.heise.de/news/Anthropic-gibt-Sonnet-5-frei-Fable-5-und-Mythos-5-sollen-wieder-nutzbar-werden-11349913.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11349913</guid>
-      <description><![CDATA[Anthropic hat mit einem Rundschlag nicht nur ein besseres Sonnet-Modell veröffentlicht, sondern auch angekündigt, dass Fable und Mythos wiederkommen sollen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 05:10:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
