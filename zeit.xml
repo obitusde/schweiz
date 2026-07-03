@@ -5,245 +5,224 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Jul 2026 04:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 04:59:30 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Wirtschaft] KI-Boom an den Weltbörsen: Acht Gründe, warum der KI-Crash nahe ist – und fünf für Zuversicht</title>
-      <link>https://www.zeit.de/geld/2026-07/ki-boom-veraendert-weltboersen-krise-anleger-kurs</link>
-      <guid isPermaLink="false">{urn:uuid:3061376c-02de-48b4-86fe-d45891037ca3}</guid>
-      <description><![CDATA[Der Hype um KI treibt die Weltbörsen immer höher, obwohl sich die Krisenzeichen mehren. Sollten Anleger jetzt alles verkaufen? Oder erst recht auf steigende Kurse wetten?]]></description>
-      <pubDate>Thu, 02 Jul 2026 03:22:48 GMT</pubDate>
+      <title>[Wirtschaft] Werksschließungen bei Volkswagen: Im VW-Aufsichtsrat stoßen mögliche Werksschließungen auf Widerstand</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/volkswagen-werksschliessungen-aufsichtsrat-niedersachsen-julia-willie-hamburg</link>
+      <guid isPermaLink="false">{urn:uuid:a5ca65d3-00df-415a-930d-3d6b1cfe8012}</guid>
+      <description><![CDATA[Werksschließungen seien keine Zukunftsstrategie, sagt Aufsichtsrätin und Vizeregierungschefin Julia Willie Hamburg. VW dürfe die industrielle Substanz nicht schwächen.]]></description>
+      <pubDate>Fri, 03 Jul 2026 04:31:11 GMT</pubDate>
     </item>
     <item>
-      <title>[Mobilität] Elektroautos: Zu wenig Reichweite, Geld zurück?</title>
-      <link>https://www.zeit.de/mobilitaet/2026-07/elektroautos-reichweite-hersteller-angabe-klage-verbraucherschutz</link>
-      <guid isPermaLink="false">{urn:uuid:12cfae8a-d8d4-4342-a50d-0ff641568dba}</guid>
-      <description><![CDATA[E-Autos kommen oft deutlich weniger weit, als der Hersteller angibt. Verbraucherschützer Gregor Kolbe sagt: Manchmal können Besitzer sich wehren.]]></description>
-      <pubDate>Thu, 02 Jul 2026 03:17:15 GMT</pubDate>
+      <title>[Gesellschaft] Alexej Nawalny: Einer gegen Putin</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/alexej-nawalny-wladimir-putin-russland-bibelpodcast</link>
+      <guid isPermaLink="false">{urn:uuid:95c75b66-a95e-4a97-97a7-d1994bd57401}</guid>
+      <description><![CDATA[So lang er konnte, kämpfte der russische Aktivist Alexej Nawalny gegen den Präsidenten Wladimir Putin, der das Land zugrunde richtet. Deshalb musste er sterben.]]></description>
+      <pubDate>Fri, 03 Jul 2026 04:05:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Waldbrände: Hunderte Feuerwehrleute bekämpfen Waldbrand in Südfrankreich</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/waldbrand-frankreich-narbonne-feuerwehr-hitze-griechenland</link>
-      <guid isPermaLink="false">{urn:uuid:eac4828a-b794-43ec-8a7a-0ae9bd5e028d}</guid>
-      <description><![CDATA[Wegen eines sich ausbreitenden Feuers müssen 200 Franzosen ihre Wohnungen im Süden des Landes verlassen. In Griechenland sterben zwei Menschen nach einem Buschbrand.]]></description>
-      <pubDate>Thu, 02 Jul 2026 02:18:29 GMT</pubDate>
+      <title>[Arbeit] Narzissmus: »Elterliche Überbehütung kann Narzissmus fördern«</title>
+      <link>https://www.zeit.de/arbeit/2026-06/narzissmus-eigenschaften-arbeitsmarkt-alltag-psychologie-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:766aa990-32c5-4b39-828a-bb2266193c7f}</guid>
+      <description><![CDATA[Narzissten sind im Job oft erfolgreich, aber anstrengend. Ein Psychologe erklärt, wie man sie erkennt, mit ihnen umgeht und welche Rolle die Herkunft spielt.]]></description>
+      <pubDate>Fri, 03 Jul 2026 03:37:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Börsengang von KNDS: Deutsch-französischer Rüstungskonzern KNDS verschiebt Börsengang</title>
-      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/knds-boersengang-ipo-paris-frankfurt-ruestungsaktien</link>
-      <guid isPermaLink="false">{urn:uuid:c36b5cc5-4a63-4dc6-96ae-d20ae134a923}</guid>
-      <description><![CDATA[Der Börsengang von KNDS sollte den Einstieg der Bundesregierung bei dem Rüstungskonzern ermöglichen. Aber das Unternehmen will auf »günstigere Marktbedingungen« warten.]]></description>
-      <pubDate>Wed, 01 Jul 2026 22:36:20 GMT</pubDate>
+      <title>[Gesellschaft] Waldbrände in Südfrankreich: Tausende müssen Häuser in Südfrankreich wegen Bränden verlassen</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/waldbraende-suedfrankreich-feuer-evakuierung-campingplatz</link>
+      <guid isPermaLink="false">{urn:uuid:a6fa3b30-6d24-4f8a-a4b6-a634127407d5}</guid>
+      <description><![CDATA[Seit dem Sommerbeginn sind in Frankreich nach Regierungsangaben fast 7.000 Brände ausgebrochen. Bei Narbonne wurde ein Campingplatz geräumt, auch bei Marseille brennt es.]]></description>
+      <pubDate>Fri, 03 Jul 2026 01:34:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Venezuela: Zahl der Toten nach Erdbeben in Venezuela steigt auf 2.295</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/erdbeben-venezuela-tote-rettung-nachbeben</link>
-      <guid isPermaLink="false">{urn:uuid:55a72627-89be-4049-bcc8-d744bacf6285}</guid>
-      <description><![CDATA[Eine Woche nach den schweren Erdbeben in Venezuela steigt die Zahl der Toten weiter, Zehntausende werden vermisst. Das US-Militär weitet seinen Hilfseinsatz aus.]]></description>
-      <pubDate>Wed, 01 Jul 2026 20:17:03 GMT</pubDate>
+      <title>[Gesellschaft] Hitzewelle in den USA: Mehr als 100 Millionen Menschen von extremer Hitze in USA betroffen</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/hitzewelle-usa-ostkueste-new-york-klimaanlage</link>
+      <guid isPermaLink="false">{urn:uuid:768e06b0-5e73-47c8-b4cd-ff5cb6b7dfd1}</guid>
+      <description><![CDATA[Kurz vor den Feiern zum 250-jährigen Bestehen der USA erreichen die Temperaturen im Zentrum und Osten bis zu 40 Grad. New York öffnet öffentliche Gebäude als Kühlzentren.]]></description>
+      <pubDate>Fri, 03 Jul 2026 00:44:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Thessaloniki: Mutter einer Politikerin bei Brandanschlag in Griechenland getötet</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/anschlag-thessaloniki-griechenland-nea-dimokratia-afroditi-nestora</link>
-      <guid isPermaLink="false">{urn:uuid:15798dd1-6ce9-4ae7-be36-3bb0674b7068}</guid>
-      <description><![CDATA[Brandanschläge auf Häuser griechischer Politiker töten eine Frau und verletzen vier Menschen. Der Ministerpräsident spricht von einem »terroristischen Anschlag«.]]></description>
-      <pubDate>Wed, 01 Jul 2026 19:07:38 GMT</pubDate>
+      <title>[Gesellschaft] Daphne Caruana Galizia: Nächster Prozess wegen Mordes an maltesischer Journalistin beginnt</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/malta-daphne-caruana-galizia-yorgen-fenech-mord-prozess</link>
+      <guid isPermaLink="false">{urn:uuid:b57e9ebe-584a-4571-891a-189f3913f279}</guid>
+      <description><![CDATA[In Malta hat das Verfahren gegen den mutmaßlichen Drahtzieher hinter dem Tod von Daphne Caruana Galizia begonnen. Ihm wird vorgeworfen, 150.000 Euro gezahlt zu haben.]]></description>
+      <pubDate>Thu, 02 Jul 2026 20:57:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Mobilität] Lkw-Verkehr am Simplonpass: Halt die Gläser fest, die Laster kommen</title>
-      <link>https://www.zeit.de/2026/28/lkw-verkehr-simplonpass-gondo-schweiz-italien</link>
-      <guid isPermaLink="false">{urn:uuid:a597a13a-748c-4c65-af7b-92ca2fdf613f}</guid>
-      <description><![CDATA[400 Lastwagen donnern täglich durch das Schweizer Dorf Gondo am Simplonpass. Die Bevölkerung leidet unter dem zunehmenden Verkehr. Und Deutschland macht alles schlimmer.]]></description>
-      <pubDate>Wed, 01 Jul 2026 18:51:00 GMT</pubDate>
+      <title>[Gesellschaft] Venezuela: Rettungskräfte bergen Verschütteten acht Tage nach Erdbeben</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/venezuela-erdbeben-rettung-acht-tage</link>
+      <guid isPermaLink="false">{urn:uuid:db85d00d-1e0c-4b5a-90df-2429eaf2fb17}</guid>
+      <description><![CDATA[Ein 43-jähriger Nachtwächter konnte acht Tage nach den Erdbeben in Venezuela lebend aus den Trümmern geborgen werden. Noch immer werden Tausende Menschen vermisst.]]></description>
+      <pubDate>Thu, 02 Jul 2026 19:58:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Klimatisierungsplan: Marine Le Pen entdeckt die Klimakrise</title>
-      <link>https://www.zeit.de/wirtschaft/2026-06/klimatisierungsplan-marine-le-pen-rassemblement-national-frankreich-hitzewelle</link>
-      <guid isPermaLink="false">{urn:uuid:34a4c27d-2ebf-415f-8f9e-3bde64b65039}</guid>
-      <description><![CDATA[Jahrelang leugnete die französische Rechtspopulistin den Klimawandel. Nun fordert sie plötzlich Klimaanlagen für alle Franzosen. Was steckt dahinter?]]></description>
-      <pubDate>Wed, 01 Jul 2026 18:05:09 GMT</pubDate>
+      <title>[Wirtschaft] Reformpaket der Bundesregierung: Rettet das Reformpaket die deutsche Wirtschaft?</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/reformpaket-bundesregierung-wirtschaft-buerokratieabbau-steuern</link>
+      <guid isPermaLink="false">{urn:uuid:e31c59c6-10bc-4053-bdf3-99aaade2628c}</guid>
+      <description><![CDATA[34 Punkte auf zwölf Seiten: Bringen sie die große Entlastung? Wir haben die Maßnahmen analysiert, Manager und Verbandschefs befragt und uns Zahlen berechnen lassen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 19:26:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Katholizismus: Piusbruderschaft weiht neue Bischöfe gegen den Willen des Papstes</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/piusbruderschaft-bischofsweihe-econe-papst-leo-xiv</link>
-      <guid isPermaLink="false">{urn:uuid:bbad9a77-49eb-436c-be30-217d9c177388}</guid>
-      <description><![CDATA[Die erzkonservative Piusbruderschaft hat vier neue Bischöfe ernannt. Die Vereinigung will so ihr »Überleben« sichern. Der Vatikan erkennt die Weihen nicht an.]]></description>
-      <pubDate>Wed, 01 Jul 2026 17:29:42 GMT</pubDate>
+      <title>[Arbeit] Neue Beschlüsse für Arbeitsverträge: Wer einen Job will, muss jetzt maximal flexibel sein</title>
+      <link>https://www.zeit.de/arbeit/2026-07/neue-beschluesse-arbeitsvertraege-arbeitgeber-entlassung-jobsuche</link>
+      <guid isPermaLink="false">{urn:uuid:9ea45e34-2d45-4a33-8682-1d19c5b302f6}</guid>
+      <description><![CDATA[Die Regierung hat Maßnahmen verkündet, mit denen Arbeitgeber schneller Mitarbeitende loswerden können. Das kann aber für Jobsuchende auch Vorteile haben.]]></description>
+      <pubDate>Thu, 02 Jul 2026 18:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Sorgerechtsstreitigkeiten: »Auf eine Tat wie in Stade wären wir nicht vorbereitet«</title>
-      <link>https://www.zeit.de/arbeit/2026-07/sorgerechtsstreit-familie-trennung-jugendamt-schuesse-stade</link>
-      <guid isPermaLink="false">{urn:uuid:265e21c5-d9e3-4222-88ab-b509efd2e58e}</guid>
-      <description><![CDATA[Eltern, die sie bedrohen. Stühle, die durch die Luft fliegen. Ein Drohbrief im Büro. Vier Sozialarbeiter erzählen, wie sie immer öfter in brenzlige Situationen geraten.]]></description>
-      <pubDate>Wed, 01 Jul 2026 17:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Änderungen im Juli 2026: Bürgergeld wird Grundsicherung, Renten steigen, Flugticketsteuer sinkt</title>
-      <link>https://www.zeit.de/geld/2026-07/aenderungen-juli-grundsicherung-tankrabatt-flugtickets-bestellungen</link>
-      <guid isPermaLink="false">{urn:uuid:4814da59-c9cc-4679-a39b-f827aa2ae781}</guid>
-      <description><![CDATA[Mit der Umbenennung des Bürgergelds gelten ab sofort auch strengere Sanktionsregeln. Außerdem: mehr Rente, kein Tankrabatt mehr und neue Zölle. Das ändert sich im Juli.]]></description>
-      <pubDate>Wed, 01 Jul 2026 16:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Kryptowährung: Bitcoin fällt auf tiefsten Stand seit 21 Monaten</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/bitcoin-kurs-absturz-dollar-inflation</link>
-      <guid isPermaLink="false">{urn:uuid:265135ee-6132-46e1-b4d1-cbab9c146af6}</guid>
-      <description><![CDATA[Nach Wochen der Stabilität sinkt der Bitcoin auf ein 21-Monats-Tief. Gründe könnten die steigenden Energiepreise und Sorgen vor höheren Leitzinsen sein.]]></description>
-      <pubDate>Wed, 01 Jul 2026 15:36:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] Hüttenwandern: Kommen Sie gut rauf!</title>
-      <link>https://www.zeit.de/2026/29/huettenwandern-alpen-berghuette-ausruestung-unterkunft</link>
-      <guid isPermaLink="false">{urn:uuid:91edc570-66da-4839-bf1e-878a2a12c168}</guid>
-      <description><![CDATA[Trotzdem wollten Sie schon immer mal auf eine Hütte? Hier geben Berg-Experten Tipps, um die Freude möglichst groß und die Qualen möglichst klein zu halten]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] Hüttenküche: »Ohne Würstel, aber herzhaft gewürzt«</title>
-      <link>https://www.zeit.de/2026/29/franz-fischer-huette-lungau-fleischlose-kueche-bergsteigen-evelyn-matejka</link>
-      <guid isPermaLink="false">{urn:uuid:9da65e2c-6de8-453f-b763-f48da2f1f9a6}</guid>
-      <description><![CDATA[Was folgt, wenn man auf der Alpenhütte kein Fleisch mehr anbietet? Shitstorm und frohe Bergführer! Wirtin Evelyn Matejka weiß jetzt, wie Vegetarisches deftig gelingt.]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:50:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] Alpenhütte aus der Kindheit: Der Junge in Lederhosen kehrt zurück</title>
-      <link>https://www.zeit.de/2026/29/alpenhuette-kindheit-anna-schutzhaus-ederplan-osttirol-johanna-ortner</link>
-      <guid isPermaLink="false">{urn:uuid:94d57dff-6a08-4e81-977f-a96b33967240}</guid>
-      <description><![CDATA[Als Kind verbrachte unser Autor seine Ferien auf einer Berghütte. Die Mutter arbeitete, er fühlte sich frei wie nie. Nun schaut er, was von dieser Welt noch übrig ist.]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:50:24 GMT</pubDate>
+      <title>[Gesellschaft] Piusbruderschaft: Vatikan ermöglicht Piusbrüdern Rückkehr in die katholische Kirche</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/piusbruderschaft-bischofsweihe-vatikan-exkommunikation</link>
+      <guid isPermaLink="false">{urn:uuid:e7ccb1ca-c9d5-48c8-95a7-6c910988560f}</guid>
+      <description><![CDATA[Der Vatikan bietet reuigen Piusbrüdern eine Wiederaufnahme in die Kirche an. Nach einer unerlaubten Bischofsweihe waren zuvor sechs Piusbrüder exkommuniziert worden.]]></description>
+      <pubDate>Thu, 02 Jul 2026 17:05:08 GMT</pubDate>
     </item>
     <item>
       <title>[Schweiz] Tim Effenberger: Da will ich rauf!</title>
       <link>https://www.zeit.de/2026/29/tim-effenberger-schweizer-alpenclub-sac-huetten-rekord</link>
       <guid isPermaLink="false">{urn:uuid:aeeb731d-489f-4e29-a22e-8b5fe13eba81}</guid>
       <description><![CDATA[Tim Effenberger hat in 62 Tagen alle 151 Hütten des Schweizer Alpen-Clubs besucht – und dabei sieben Paar Schuhe durchgelaufen. Unterwegs mit einem Extremen]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:50:21 GMT</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:38:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Entdecken] Schöne Momente: »Ein Stück weit zurück in meine Kindheit«</title>
-      <link>https://www.zeit.de/2026/29/schoene-momente-alltag-natur-zwischenmenschlichkeit</link>
-      <guid isPermaLink="false">{urn:uuid:5f5f78a0-5e1d-41e3-ae44-a3491b167936}</guid>
-      <description><![CDATA[Dinge, die ein Leben lebenswert machen, sind mal klein, mal allumfassend. Jede Woche präsentieren wir eine Auswahl stimmungsaufhellender Einsendungen unserer Leserschaft.]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:50:19 GMT</pubDate>
+      <title>[Digital] OpenAI-Anteile für die US-Regierung: Sam Altman will Donald Trump fünf Prozent an OpenAI schenken</title>
+      <link>https://www.zeit.de/digital/internet/2026-07/openai-anteile-us-regierung-sam-altman-newsletter-kuenstliche-intelligenz</link>
+      <guid isPermaLink="false">{urn:uuid:1ecab583-c48b-489b-9fef-70376b2a96bc}</guid>
+      <description><![CDATA[Der ChatGPT-Macher biedert sich unter einem Vorwand an die US-Regierung an. Fable 5 ist zurück. Und: Wie Sie sich vor peinlichen Datenleaks schützen. Der KI-Newsletter]]></description>
+      <pubDate>Thu, 02 Jul 2026 16:36:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Entdecken] »Hast du jetzt Angst vor mir?«</title>
-      <link>https://www.zeit.de/2026/29/leben-gefaengnis-haftentlassung-sozialtherapie-drogenkonsum</link>
-      <guid isPermaLink="false">{urn:uuid:8f2e729b-a78a-4768-8568-4d01cb6271f6}</guid>
-      <description><![CDATA[Er war im Gefängnis, weil er seine Frau fast erstochen hat. Draußen will er ein anderer Mann werden, vielleicht sogar mit einer Beziehung. Wem erzählt er von früher?]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:50:08 GMT</pubDate>
+      <title>[Wirtschaft] US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/tesla-auslieferungen-auto-quartal-analysten</link>
+      <guid isPermaLink="false">{urn:uuid:4eda11ed-60c7-4961-8fe1-b77cf93c4b4b}</guid>
+      <description><![CDATA[Das Unternehmen konnte im Vorjahresvergleich überraschend rund ein Viertel mehr Autos ausliefern. Tesla selbst und Analysten hatten mit weniger Absatz gerechnet.]]></description>
+      <pubDate>Thu, 02 Jul 2026 15:37:31 GMT</pubDate>
     </item>
     <item>
-      <title>[Schweiz] Berghütten: »Warme Duschen braucht es nicht«</title>
-      <link>https://www.zeit.de/2026/29/berghuetten-schweizer-alpen-bau-architektur</link>
-      <guid isPermaLink="false">{urn:uuid:a6690527-924c-4ea0-bd40-ffcda86af685}</guid>
-      <description><![CDATA[Erst Stein, dann Holz, dann Hightech – und jetzt? Der Architekt Hanspeter Bürgi über das schwierige Bauen am Berg und die Frage, was das Flachland davon lernen kann.]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:49:37 GMT</pubDate>
+      <title>[Wirtschaft] Krankschreibung: Die Attestpflicht ab dem ersten Tag ist Wahnsinn</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/krankschreibung-arbeitsunfaehigkeitserklaerung-koalitionsausschuss-beschluss-arbeitgeber-hausarzt</link>
+      <guid isPermaLink="false">{urn:uuid:0b941ec1-8e51-4b0b-9659-87597ed5c2b8}</guid>
+      <description><![CDATA[Wer krank ist, soll sich künftig sofort ein Attest besorgen müssen. Was die Koalition als Antwort auf hohe Fehlzeiten verkauft, schadet der Wirtschaft.]]></description>
+      <pubDate>Thu, 02 Jul 2026 14:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Entdecken] Angst beim Radfahren: Alle zehn Meter ein Unfall</title>
-      <link>https://www.zeit.de/2026/29/angst-radfahren-strassenverkehr-autofahren-gedanken</link>
-      <guid isPermaLink="false">{urn:uuid:8ae6742b-b470-4bce-8879-67cd8ce3159b}</guid>
-      <description><![CDATA[Auf dem Fahrrad denkt unsere Autorin darüber nach, wie sie durch die Luft fliegt oder ihr Rad von einem Auto zerquetscht wird.]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:49:33 GMT</pubDate>
+      <title>[Wirtschaft] Börse: Dax steigt auf Rekordwert</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/dax-rekord-boerse-eurostoxx-50</link>
+      <guid isPermaLink="false">{urn:uuid:b3a40dcb-6f6b-4704-9d02-891fe2b90508}</guid>
+      <description><![CDATA[Schwache Arbeitsmarktdaten aus den USA könnten zur Verschiebung einer Zinserhöhung dort führen. Das treibt den Dax auf ein neues Allzeithoch.]]></description>
+      <pubDate>Thu, 02 Jul 2026 14:45:41 GMT</pubDate>
     </item>
     <item>
-      <title>[Entdecken] Stürzen: Von Fall zu Fall</title>
-      <link>https://www.zeit.de/2026/29/stuerzen-verletzung-stolpern-gang</link>
-      <guid isPermaLink="false">{urn:uuid:58dc21cb-69d9-4be7-a456-4b52c9f56e19}</guid>
-      <description><![CDATA[Wie kompliziert Gehen ist, merkt man erst, wenn man fällt. Unsere Autorin merkt es oft, sie fällt ständig. Auch mal mit Kartoffelsuppe in der Bahn. Aber warum?]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:49:31 GMT</pubDate>
+      <title>[Arbeit] Tarifverhandlungen: Ver.di ruft erneut zu bundesweitem Warnstreik im Handel auf</title>
+      <link>https://www.zeit.de/arbeit/2026-07/verdi-warnstreiks-handel-tarifverhandlungen-beschaeftigte</link>
+      <guid isPermaLink="false">{urn:uuid:f41d4dd9-23c0-41b0-8d60-d89a39aa24c9}</guid>
+      <description><![CDATA[Tausende Beschäftigte sollen am Freitag ihre Arbeit niederlegen, um den Druck auf Handelsunternehmen zu erhöhen. Ver.di fordert im Tarifstreit sieben Prozent mehr Lohn.]]></description>
+      <pubDate>Thu, 02 Jul 2026 14:43:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Kapitalgedeckte Rente: Rettet die Börse unsere Rente?</title>
-      <link>https://www.zeit.de/2026/29/kapitalgedeckte-rente-reform-sebastian-dullien-florian-dorn</link>
-      <guid isPermaLink="false">{urn:uuid:d4da733f-85f0-4753-a29c-a95c974883ec}</guid>
-      <description><![CDATA[Die Vorschläge der Alterssicherungskommission kosten Wachstum, sagt der Ökonom Sebastian Dullien. Der CSU-Politiker Florian Dorn entgegnet: Sie stützen die Wirtschaft.]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:49:22 GMT</pubDate>
+      <title>[Gesellschaft] Grenzkontrollen an der Grenze zu Österreich: Verwaltungsgericht München erklärt Grenzkontrollen für rechtswidrig</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/grenzkontrollen-bayern-oesterreich-vg-muenchen-rechtswidrig</link>
+      <guid isPermaLink="false">{urn:uuid:75054023-8077-48c1-8a85-470f1e982d60}</guid>
+      <description><![CDATA[Drei Kläger haben vor dem Verwaltungsgericht München gegen Grenzkontrollen an der Grenze zu Österreich recht bekommen. Das Gericht sieht Verstöße gegen EU-Recht.]]></description>
+      <pubDate>Thu, 02 Jul 2026 14:24:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Sicherheit von Bahn-Mitarbeitern: Deutsche Bahn stattet 2.000 Beschäftigte mit Bodycams aus</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/bodycams-deutsche-bahn-fernbahnen-sicherheit-angriffe</link>
-      <guid isPermaLink="false">{urn:uuid:40336e0e-9d8d-40f4-956e-f90cd352fd84}</guid>
-      <description><![CDATA[Nach dem tödlichen Angriff auf einen Zugbegleiter im Februar sollen Kameras die Sicherheit von Bahnmitarbeitenden erhöhen. Die Bahnchefin hatte ihren Einsatz versprochen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:24:11 GMT</pubDate>
+      <title>[Gesellschaft] Deutschland: Hitze und hohe Kosten belasten laut Bauernpräsident die Getreideernte</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/weizenernte-deutschland-bauern-hitze-joachim-rukwied</link>
+      <guid isPermaLink="false">{urn:uuid:baf37176-ef4d-46c6-b21e-88f49bf1fb8e}</guid>
+      <description><![CDATA[Zum Auftakt der Getreideernte beklagt der Bauernpräsident den heißen Juni, der zu Einbußen führe. Wegen der hohen Preise fordert er eine Verlängerung des Tankrabatts.]]></description>
+      <pubDate>Thu, 02 Jul 2026 13:50:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Hütten-Idyll: Graf Furz in der Berghütte</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/huetten-idyll-eu-ukraine-alpenpodcast</link>
-      <guid isPermaLink="false">{urn:uuid:eb5214ad-a477-4f5d-9d9e-3dc28c4666b4}</guid>
-      <description><![CDATA[Die Hütten in den Alpen boomen, was ist der Charme der Matratzenlager? Außerdem: Ukrainische Wehrpflichtige sollen in der EU keinen Schutz mehr bekommen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 14:17:09 GMT</pubDate>
+      <title>[Gesellschaft] Landgericht Berlin: Staatsanwaltschaft fordert Höchststrafe in Prozess gegen Palliativarzt</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/mordprozess-palliativarzt-berlin-staatsanwaltschaft-philipp-meyhoefer-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:ba294ddb-3a5b-4c62-be32-87b827194c90}</guid>
+      <description><![CDATA[Im Prozess gegen einen Palliativarzt wegen 15-fachen Mordes fordert der Staatsanwalt lebenslange Haft. Der Mediziner habe sich als »Herr über Leben und Tod« geriert.]]></description>
+      <pubDate>Thu, 02 Jul 2026 12:55:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Institut der deutschen Wirtschaft: Deutsche geben jeden vierten Euro fürs Wohnen aus</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/wohnen-kosten-immobilienpreise-anstieg-institut-der-deutschen-wirtschaft-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:70b22137-7b21-4e7e-8af9-1123f06ffb2d}</guid>
-      <description><![CDATA[Knapp ein Viertel ihres Haushaltsbudgets geben die Bundesbürger im Schnitt fürs Wohnen aus. Die Immobilienpreise dürften im Laufe des Jahres weiter steigen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 13:25:58 GMT</pubDate>
+      <title>[Digital] US-Sperre für KI-Modelle: Braucht Europa ein eigenes ChatGPT?</title>
+      <link>https://www.zeit.de/digital/internet/2026-06/us-sperre-ki-modelle-eu-digitalpodcast</link>
+      <guid isPermaLink="false">{urn:uuid:afa9983b-eee4-4638-8bc7-da5a93ae4ffb}</guid>
+      <description><![CDATA[Die USA halten neue KI-Modelle oft erst mal zurück – in der EU kann man sie nicht nutzen. Welche Ideen es gibt, sich aus dieser Misere zu befreien: der Digitalpodcast.]]></description>
+      <pubDate>Thu, 02 Jul 2026 12:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Völkermord in Ruanda: Polizei nimmt Mann wegen mutmaßlichen Völkermords in Ruanda fest</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/voelkermord-ruanda-1994-hessen-festnahme-tutsi-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:6378618c-5cec-4188-94aa-f4d4529ee0c0}</guid>
-      <description><![CDATA[Ein Mann soll sich 1994 als Mittäter am Völkermord in Ruanda beteiligt und die Ermordung von 25 Tutsi angeordnet haben. Nun wurde er in Deutschland gefasst.]]></description>
-      <pubDate>Wed, 01 Jul 2026 13:19:00 GMT</pubDate>
+      <title>[Wirtschaft] Reformpaket für Wohnungsbau: Mit diesen Maßnahmen könnten die Mieten wirklich sinken</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/reformpaket-wohnungsbau-berlin-cdu-spd-koalitionsausschuss</link>
+      <guid isPermaLink="false">{urn:uuid:a5fa97de-6737-4a2f-8faf-1245d00736f2}</guid>
+      <description><![CDATA[Die Koalition will den bezahlbaren Wohnungsbau fördern und die Enteignung von Wohnungskonzernen verbieten. Das ist klug, aber sie muss sich beeilen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 12:06:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Hitzewelle: Deutschland kühlt ab, Hitze zieht Richtung Osten ab</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-06/hitzewelle-sommer-temperaturen-rekord-gefahr</link>
-      <guid isPermaLink="false">{urn:uuid:a08c42fb-f161-4307-8fd1-59f69bb40903}</guid>
-      <description><![CDATA[Während die Temperaturen in Deutschland sinken, werden im Mittelmeer Höchstwerte gemessen. Die WHO warnt vor häufigeren Hitzesommern. Das Liveblog zum Nachlesen]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:34:59 GMT</pubDate>
+      <title>[Wirtschaft] Infineon in Dresden: Neues Halbleiterwerk von Infineon in Dresden schafft 1.000 Stellen</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/infineon-dresden-chipfabrik-smart-power-fab-eu-foerderung-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:4528c1ea-f826-41eb-a375-b8296a38b3c4}</guid>
+      <description><![CDATA[Infineon hat in Dresden eine neue Fabrik für Computerchips in Betrieb genommen. Das Smart Power Fab eröffnet drei Monate vor Zeitplan.]]></description>
+      <pubDate>Thu, 02 Jul 2026 11:14:57 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Fernwärmeversorgung: Ja, muss es wirklich eine Wärmepumpe sein</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/fernwaerme-versorgung-grossstaedte-kommunale-waermeplanung</link>
-      <guid isPermaLink="false">{urn:uuid:4941e2e7-c1d8-4d13-9f1b-67c73573cade}</guid>
-      <description><![CDATA[Dutzende Städte haben Pläne vorgelegt, wo sie Fernwärmenetze bauen wollen. So wollen sie Bürgern die Entscheidung über die nächste Heizung erleichtern. Geht die Idee auf?]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:26:06 GMT</pubDate>
+      <title>[Wirtschaft] Österreich: Oberstes Gericht bestätigt Schuldspruch gegen Signa-Gründer Benko</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/rene-benko-ogh-urteil-betruegerische-insolvenz-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:dac56995-cea6-4073-a2f4-eef250a79de2}</guid>
+      <description><![CDATA[Eine Verurteilung gegen René Benko wegen betrügerischer Insolvenz ist rechtskräftig. Einen Teilfreispruch hob der Oberste Gerichtshof auf, er muss neu verhandelt werden.]]></description>
+      <pubDate>Thu, 02 Jul 2026 11:07:56 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Erneuerbare Energien: Erneuerbare decken erstmalig 58 Prozent des deutschen Stromverbrauchs</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/erneuerbare-energien-stromverbrauch-anteil-deutschland-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:7924a032-3a10-4489-b07f-b33eb632645b}</guid>
-      <description><![CDATA[Energie aus Wind, Sonne und Wasser haben im ersten Halbjahr 2026 einen Rekordanteil des Stromverbrauchs ausgemacht. Besonders der Anteil der Energie durch Wind stieg an.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:16:37 GMT</pubDate>
+      <title>[Gesellschaft] OLG Stuttgart: Gericht verurteilt Mann wegen Tätigkeit für den IS zu einer Haftstrafe</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/olg-stuttgart-is-mitgliedschaft-syrien-ruestungsindustrie-urteil-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:c61566ed-353e-432f-825d-9de2e86a8bd2}</guid>
+      <description><![CDATA[Ein 40-jähriger Syrer soll Mitglied des Islamischen Staates gewesen sein und für diesen gearbeitet haben. Ein Gericht verurteilte den Mann zu drei Jahren Haft.]]></description>
+      <pubDate>Thu, 02 Jul 2026 10:35:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Tankrabatt: Spritpreise steigen nach Tankrabatt-Ende stark an</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/tankrabatt-ende-spritpreise-adac-12-uhr-regel-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:3cbf1cc1-6e2a-4e9e-96e7-e1bee308b2d0}</guid>
-      <description><![CDATA[Nach dem Ende des Tankrabatts hat ein Liter Diesel über 15 Cent mehr als am Vortag gekostet. Umwelt- und Sozialverbände begrüßten das Auslaufen und fordern Alternativen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:10:27 GMT</pubDate>
+      <title>[Digital] Werbeunterbrechungen auf Instagram: Eine Werbeunterbrechung? Endlich!</title>
+      <link>https://www.zeit.de/digital/internet/2026-07/werbeunterbrechungen-instagram-digital-markets-act-meta-facebook</link>
+      <guid isPermaLink="false">{urn:uuid:c94b4a8a-802a-4683-9713-845785eea6f0}</guid>
+      <description><![CDATA[Wer auf Instagram weniger personalisierte Werbung sehen will, den bestraft die Plattform mit einer Werbeunterbrechung. Nur finden manche Nutzer die gar nicht so blöd.]]></description>
+      <pubDate>Thu, 02 Jul 2026 10:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Statistisches Bundesamt: Jeder dritte 25-Jährige wohnt noch bei den Eltern</title>
-      <link>https://www.zeit.de/politik/ausland/2026-07/junge-erwachsene-elternhaus-auszugsalter-deutschland-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:6c7fc259-5644-4aaa-a6bc-111a961d5364}</guid>
-      <description><![CDATA[Eine eigene Wohnung ist für viele junge Menschen keine Option. Besonders junge Männer wohnen länger bei den Eltern als Frauen. In Finnland und Kroatien ist das anders.]]></description>
-      <pubDate>Wed, 01 Jul 2026 09:02:51 GMT</pubDate>
+      <title>[Wirtschaft] Sperrung der Straße von Hormus: Was Urlauber über die aktuelle Kerosin-Lage wissen müssen</title>
+      <link>https://www.zeit.de/wirtschaft/2026-06/kerosin-mangel-nahostkrieg-oeilreserven-airlines-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:2a266eca-959e-4d2f-bcf9-532fadeac419}</guid>
+      <description><![CDATA[In mehreren Bundesländern beginnen jetzt die Sommerferien. Warnungen vor Kerosinmangel haben zuletzt Urlauber verunsichert. Wie ist die aktuelle Lage? Der Überblick]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Hitzewelle in Europa: Mehr als tausend Hitzetote in Spanien im Juni</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/hitzewelle-europa-spanien-frankreich-tote-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:55775c6b-28fe-4974-9094-20d7fbf89ea8}</guid>
-      <description><![CDATA[Nach dem extrem heißen Juni meldet Spanien mehr als tausend Hitzetote, auch in anderen EU-Ländern schießen die Zahlen in die Höhe. Die Grünen kritisieren die Regierung.]]></description>
-      <pubDate>Wed, 01 Jul 2026 08:28:57 GMT</pubDate>
+      <title>[Gesellschaft] Sexueller Missbrauch: Ermittler gehen europaweit gegen Netzwerk von Sexualstraftätern vor</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/projekt-medusa-europol-bka-lka-hamburg-online-netzwerke-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:94b74d6a-cc8b-4b8d-929c-136a373b4465}</guid>
+      <description><![CDATA[In neun Ländern sind Ermittler gegen Netzwerke vorgegangen, deren Mitglieder Frauen betäubt und sexuell missbraucht haben sollen. Das »Projekt Medusa« läuft weiter.]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:02:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] EU-Zoll auf Päckchen: In der EU gilt ab Juli ein neuer Zoll auf Päckchen bis 150 Euro</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/zoll-eu-paeckchen-onlinehandel-shein-temu-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:d1dc5b10-bb1f-4a59-8830-bf88960afc09}</guid>
-      <description><![CDATA[Günstige Waren von außerhalb der EU konnten bisher ohne Zollgebühren bestellt werden. Ab Juli ist damit Schluss. Lieferungen von Temu und Shein dürften teurer werden.]]></description>
-      <pubDate>Wed, 01 Jul 2026 06:05:31 GMT</pubDate>
+      <title>[Gesellschaft] Karlsruhe: Höchstes Gericht bestätigt Verbot von Sexpuppen mit kindlichem Antlitz</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/sexpuppe-verbot-bundesverfassungsgericht-kindliches-erscheinungsbild-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:f9cb6482-c39b-430e-af72-d3f1d0555de0}</guid>
+      <description><![CDATA[Herstellen, Verkaufen, Kaufen und Besitzen von Sexpuppen, die aussehen wie Kinder, wurde 2021 verboten. Das Bundesverfassungsgericht hat zwei Beschwerden zurückgewiesen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:51:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Arbeit] Highperformer: »Am schlimmsten ist, wenn ich meine Arbeitszeit eintragen soll«</title>
-      <link>https://www.zeit.de/arbeit/2026-06/highperformer-arbeit-karriere-arbeitszeit-arbeitnehmerschutz-regelungen</link>
-      <guid isPermaLink="false">{urn:uuid:dbfdff6f-2e75-4fbf-94ed-cefe98351731}</guid>
-      <description><![CDATA[Sie arbeiten immer mehr, als sie müssten. Managen Job, Promotion, Kinder. Und gleichen Überstunden nicht aus. Highperformer erzählen, wie sie ihr Pensum locker schaffen.]]></description>
-      <pubDate>Wed, 01 Jul 2026 05:42:06 GMT</pubDate>
+      <title>[Wirtschaft] Google: Europäischer Gerichtshof bestätigt Milliardenstrafe gegen Google</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/google-eu-wettbewerbsstrafe-gerichtshof-android-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:3ccf5134-5846-4f3a-81e1-bc18faf225aa}</guid>
+      <description><![CDATA[Die EU-Kommission hatte Google wegen wettbewerbswidriger Praktiken mit einer Milliardensumme gestraft. Der Europäische Gerichtshof gab der Kommission nun recht.]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:36:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Bertelsmann-Studie: Studie belegt ungenutztes Fachkräftepotenzial von Zuwanderern</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/arbeitsmarkt-integration-migranten-fachkraeftemangel-bertelsmann-studie-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:87bb49d4-22f4-4b8f-b775-086b500d542b}</guid>
+      <description><![CDATA[Bei der Integration ausländischer Fachkräfte in den Arbeitsmarkt hakt es. Trotz anerkannter Abschlüsse arbeiten sie häufig in niedriger qualifizierten Positionen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 07:58:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Robert Koch-Institut: RKI meldet mehr als 800 Hitzetote in Deutschland</title>
+      <link>https://www.zeit.de/wissenschaft/2026-07/robert-koch-institut-sterbefaelle-hitze-deutschland</link>
+      <guid isPermaLink="false">{urn:uuid:4f28e1ce-63fd-4d22-b79f-e03914d518e7}</guid>
+      <description><![CDATA[Bereits in den Wochen vor der großen Hitzewelle hat es in Deutschland Hunderte hitzebedingte Todesfälle gegeben. Die meisten waren mehr als 75 Jahre alt und Frauen.]]></description>
+      <pubDate>Thu, 02 Jul 2026 07:35:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
