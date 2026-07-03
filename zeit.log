@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 2.7.2026, 06:59:30
-Letzter Lauf: 1.7.2026, 06:59:31
+Start: 3.7.2026, 06:59:30
+Letzter Lauf: 2.7.2026, 06:59:30
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,44 +20,41 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 38 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Behandelt ein regionales deutsches Gerichts- und Politikthema (lokale Wahlkampfhelfer/Delmenhorst).): [Gesellschaft] 'Rechtsextreme Angriffe: Eine Gefahr für die demokratische Willensbildung'
-- GelÃ¶scht (Grund: Doppelung: Das Thema wird bereits durch Artikel 9 abgedeckt (Sorgerechtsstreit/Schusswaffenangriff in Stade).): [Gesellschaft] 'Schusswaffenangriff in Stade: Staatsanwaltschaft bestätigt Ermittlungen gegen Schützen von Stade'
-- GelÃ¶scht (Grund: Doppelung: Berichtet über dasselbe Erdbeben-Ereignis wie Artikel 4.): [Gesellschaft] 'Erdbeben in Venezuela: WHO warnt vor Überlastung von Venezuelas Gesundheitssystem'
-- GelÃ¶scht (Grund: Behandelt eine rein lokale, deutsche Rechtsentscheidung ohne überregionale politische oder gesellschaftliche Relevanz.): [Gesellschaft] 'Magdeburg: Angreifer vom Magdeburger Weihnachtsmarkt geht in Revision'
+KI-Filter (Gemini) - 35 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Gehört unter die Kategorie Lifestyle/Rezepte ohne Ernährungstipps.): [Entdecken] '»Und was machst du am Wochenende?« / Volker Weidermann: »Ich bin auf dem Fahrrad auf die Welt gekommen«'
+- GelÃ¶scht (Grund: Duplikat zum Thema Mietregulierung/Wohnungsbau, Artikel ID 22 ist informativer.): [Wirtschaft] 'Mieten in deutschen Großstädten: Mieten sind in den größten deutschen Städten stark gestiegen'
+- GelÃ¶scht (Grund: Duplikat zum Thema Mietregulierung, Artikel ID 22 ist informativer.): [Wirtschaft] 'Mietenkataster für Berlin: So einfach findet ihr die Abzocker nicht'
+- GelÃ¶scht (Grund: Duplikat zum Thema Piusbruderschaft, Artikel ID 11 bietet den aktuelleren, vollständigeren Kontext.): [Gesellschaft] 'Piusbruderschaft: Vatikan bestätigt Exkommunikation aller Kleriker der Piusbruderschaft'
 
 Finale Liste (live im XML-Feed):
-- [Wirtschaft] KI-Boom an den Weltbörsen: Acht Gründe, warum der KI-Crash nahe ist – und fünf für Zuversicht
-- [Mobilität] Elektroautos: Zu wenig Reichweite, Geld zurück?
-- [Gesellschaft] Waldbrände: Hunderte Feuerwehrleute bekämpfen Waldbrand in Südfrankreich
-- [Wirtschaft] Börsengang von KNDS: Deutsch-französischer Rüstungskonzern KNDS verschiebt Börsengang
-- [Gesellschaft] Venezuela: Zahl der Toten nach Erdbeben in Venezuela steigt auf 2.295
-- [Gesellschaft] Thessaloniki: Mutter einer Politikerin bei Brandanschlag in Griechenland getötet
-- [Mobilität] Lkw-Verkehr am Simplonpass: Halt die Gläser fest, die Laster kommen
-- [Wirtschaft] Klimatisierungsplan: Marine Le Pen entdeckt die Klimakrise
-- [Gesellschaft] Katholizismus: Piusbruderschaft weiht neue Bischöfe gegen den Willen des Papstes
-- [Gesellschaft] Sorgerechtsstreitigkeiten: »Auf eine Tat wie in Stade wären wir nicht vorbereitet«
-- [Wirtschaft] Änderungen im Juli 2026: Bürgergeld wird Grundsicherung, Renten steigen, Flugticketsteuer sinkt
-- [Wirtschaft] Kryptowährung: Bitcoin fällt auf tiefsten Stand seit 21 Monaten
-- [Schweiz] Hüttenwandern: Kommen Sie gut rauf!
-- [Schweiz] Hüttenküche: »Ohne Würstel, aber herzhaft gewürzt«
-- [Schweiz] Alpenhütte aus der Kindheit: Der Junge in Lederhosen kehrt zurück
+- [Wirtschaft] Werksschließungen bei Volkswagen: Im VW-Aufsichtsrat stoßen mögliche Werksschließungen auf Widerstand
+- [Gesellschaft] Alexej Nawalny: Einer gegen Putin
+- [Arbeit] Narzissmus: »Elterliche Überbehütung kann Narzissmus fördern«
+- [Gesellschaft] Waldbrände in Südfrankreich: Tausende müssen Häuser in Südfrankreich wegen Bränden verlassen
+- [Gesellschaft] Hitzewelle in den USA: Mehr als 100 Millionen Menschen von extremer Hitze in USA betroffen
+- [Gesellschaft] Daphne Caruana Galizia: Nächster Prozess wegen Mordes an maltesischer Journalistin beginnt
+- [Gesellschaft] Venezuela: Rettungskräfte bergen Verschütteten acht Tage nach Erdbeben
+- [Wirtschaft] Reformpaket der Bundesregierung: Rettet das Reformpaket die deutsche Wirtschaft?
+- [Arbeit] Neue Beschlüsse für Arbeitsverträge: Wer einen Job will, muss jetzt maximal flexibel sein
+- [Gesellschaft] Piusbruderschaft: Vatikan ermöglicht Piusbrüdern Rückkehr in die katholische Kirche
 - [Schweiz] Tim Effenberger: Da will ich rauf!
-- [Entdecken] Schöne Momente: »Ein Stück weit zurück in meine Kindheit«
-- [Entdecken] »Hast du jetzt Angst vor mir?«
-- [Schweiz] Berghütten: »Warme Duschen braucht es nicht«
-- [Entdecken] Angst beim Radfahren: Alle zehn Meter ein Unfall
-- [Entdecken] Stürzen: Von Fall zu Fall
-- [Wirtschaft] Kapitalgedeckte Rente: Rettet die Börse unsere Rente?
-- [Gesellschaft] Sicherheit von Bahn-Mitarbeitern: Deutsche Bahn stattet 2.000 Beschäftigte mit Bodycams aus
-- [Gesellschaft] Hütten-Idyll: Graf Furz in der Berghütte
-- [Wirtschaft] Institut der deutschen Wirtschaft: Deutsche geben jeden vierten Euro fürs Wohnen aus
-- [Gesellschaft] Völkermord in Ruanda: Polizei nimmt Mann wegen mutmaßlichen Völkermords in Ruanda fest
-- [Gesellschaft] Hitzewelle: Deutschland kühlt ab, Hitze zieht Richtung Osten ab
-- [Wirtschaft] Fernwärmeversorgung: Ja, muss es wirklich eine Wärmepumpe sein
-- [Wirtschaft] Erneuerbare Energien: Erneuerbare decken erstmalig 58 Prozent des deutschen Stromverbrauchs
-- [Wirtschaft] Tankrabatt: Spritpreise steigen nach Tankrabatt-Ende stark an
-- [Gesellschaft] Statistisches Bundesamt: Jeder dritte 25-Jährige wohnt noch bei den Eltern
-- [Gesellschaft] Hitzewelle in Europa: Mehr als tausend Hitzetote in Spanien im Juni
-- [Wirtschaft] EU-Zoll auf Päckchen: In der EU gilt ab Juli ein neuer Zoll auf Päckchen bis 150 Euro
-- [Arbeit] Highperformer: »Am schlimmsten ist, wenn ich meine Arbeitszeit eintragen soll«
+- [Digital] OpenAI-Anteile für die US-Regierung: Sam Altman will Donald Trump fünf Prozent an OpenAI schenken
+- [Wirtschaft] US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus
+- [Wirtschaft] Krankschreibung: Die Attestpflicht ab dem ersten Tag ist Wahnsinn
+- [Wirtschaft] Börse: Dax steigt auf Rekordwert
+- [Arbeit] Tarifverhandlungen: Ver.di ruft erneut zu bundesweitem Warnstreik im Handel auf
+- [Gesellschaft] Grenzkontrollen an der Grenze zu Österreich: Verwaltungsgericht München erklärt Grenzkontrollen für rechtswidrig
+- [Gesellschaft] Deutschland: Hitze und hohe Kosten belasten laut Bauernpräsident die Getreideernte
+- [Gesellschaft] Landgericht Berlin: Staatsanwaltschaft fordert Höchststrafe in Prozess gegen Palliativarzt
+- [Digital] US-Sperre für KI-Modelle: Braucht Europa ein eigenes ChatGPT?
+- [Wirtschaft] Reformpaket für Wohnungsbau: Mit diesen Maßnahmen könnten die Mieten wirklich sinken
+- [Wirtschaft] Infineon in Dresden: Neues Halbleiterwerk von Infineon in Dresden schafft 1.000 Stellen
+- [Wirtschaft] Österreich: Oberstes Gericht bestätigt Schuldspruch gegen Signa-Gründer Benko
+- [Gesellschaft] OLG Stuttgart: Gericht verurteilt Mann wegen Tätigkeit für den IS zu einer Haftstrafe
+- [Digital] Werbeunterbrechungen auf Instagram: Eine Werbeunterbrechung? Endlich!
+- [Wirtschaft] Sperrung der Straße von Hormus: Was Urlauber über die aktuelle Kerosin-Lage wissen müssen
+- [Gesellschaft] Sexueller Missbrauch: Ermittler gehen europaweit gegen Netzwerk von Sexualstraftätern vor
+- [Gesellschaft] Karlsruhe: Höchstes Gericht bestätigt Verbot von Sexpuppen mit kindlichem Antlitz
+- [Wirtschaft] Google: Europäischer Gerichtshof bestätigt Milliardenstrafe gegen Google
+- [Wirtschaft] Bertelsmann-Studie: Studie belegt ungenutztes Fachkräftepotenzial von Zuwanderern
+- [Gesellschaft] Robert Koch-Institut: RKI meldet mehr als 800 Hitzetote in Deutschland
