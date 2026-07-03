@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 2.7.2026, 12:58:38
-Letzter Lauf: 2.7.2026, 06:30:36
+Start: 3.7.2026, 06:30:35
+Letzter Lauf: 2.7.2026, 12:58:38
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -15,64 +15,65 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/QYUORaarYc2r.xml
 
 Statischer Filter (Keywords):
-- Gelöscht wegen Keyword 'wolf': '«Biofencing» – So könnte Wolfsurin beim Herdenschutz helfen'
-- Gelöscht wegen Keyword 'wolf': '«Biofencing» – So könnte Wolfsurin beim Herdenschutz helfen'
+- Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 21 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfall außerhalb der Waadt (Buix, Kanton Jura).): 'Une voiture se fracasse contre le mur d'une propriété à Buix'
-- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Vorfall im Kanton Neuenburg).): 'Le décapiteur de chèvres aurait aussi agressé un voisin'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 5 (SRF bevorzugt).): 'Nach den Erdbeben – «Die venezolanische Regierung koordiniert nichts»'
-- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Vorfall in Zürich).): 'Antisemitischer Messerangriff – Jude niedergestochen – angeklagter Jugendlicher schweigt zur Tat'
-- Weiterhin entfernt (Cache, Grund: Abstimmung/Wahl außerhalb von Waadt und Genf (Grenchen, Kanton Solothurn).): 'Stadtpräsidentin verlor Amt – Ungültige Wahl in Grenchen: Das Dilemma mit den Briefkästen'
-- Weiterhin entfernt (Cache, Grund: Unfall/Blaulicht-Meldung außerhalb der Waadt (Wallis und Bern).): 'Gewitter über der Schweiz – Schlammlawine im Wallis – Trams in Bern zeitweise lahmgelegt'
-- Weiterhin entfernt (Cache, Grund: Kriminalität/Blaulicht-Meldung außerhalb der Waadt (Chur).): 'Offene Drogenszene – Chur: Konsumraum entlastet Strassen – aber nicht den Park'
-- Gelöscht (Grund: Blaulicht-Meldung und Ausschreitungen in der Schweiz außerhalb von Waadt.): 'Ausschreitungen in Basel – Nach Räumung von Chemie-Areal eskaliert die Demonstration dagegen'
-- Gelöscht (Grund: Kriminalität in der Schweiz außerhalb von Waadt (Genf).): 'Un Brésilien suspecté d'avoir violé une adolescente vers l'Arve'
-- Gelöscht (Grund: Brände in der Schweiz außerhalb von Waadt (Romont/Freiburg).): 'Avant l'incendie de la halle de gym, three autres feux suspects'
-- Gelöscht (Grund: Kriminalität in der Schweiz außerhalb von Waadt (Genf).): 'Soupçons de meurtre après le décès d'un octogénaire à Puplinge'
-- Gelöscht (Grund: Blaulicht-Meldung/Polizeieinsatz in der Schweiz außerhalb von Waadt.): 'Einsatz in den Morgenstunden – Besetztes Chemie-Areal in Basel geräumt – Debatte geht weiter'
+KI-Filter (Gemini) - 38 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalität in der Schweiz außerhalb von Waadt (Genf).): 'Un Brésilien suspecté d'avoir violé une adolescente vers l'Arve'
+- Weiterhin entfernt (Cache, Grund: Brände in der Schweiz außerhalb von Waadt (Romont/Freiburg).): 'Avant l'incendie de la halle de gym, trois autres feux suspects'
+- Weiterhin entfernt (Cache, Grund: Kriminalität in der Schweiz außerhalb von Waadt (Genf).): 'Soupçons de meurtre après le décès d'un octogénaire à Puplinge'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Polizeieinsatz in der Schweiz außerhalb von Waadt.): 'Einsatz in den Morgenstunden – Besetztes Chemie-Areal in Basel geräumt – Debatte geht weiter'
+- Gelöscht (Grund: Duplikat zum Thema WM-Public-Viewing (SRF-Artikel bevorzugt)): 'Le match de la Suisse en direct des fan zones du district'
+- Gelöscht (Grund: Blaulicht-Meldung/Brand außerhalb der Waadt (Wallis)): 'Brandkatastrophe – Verein will Gedenkort für Opfer von Crans-Montana VS schaffen'
+- Gelöscht (Grund: Kriminalität/Ausschreitungen außerhalb der Waadt (Basel)): 'Ausschreitungen in Basel – Nach Räumung von Chemie-Areal eskaliert die Demonstration dagegen'
+- Gelöscht (Grund: Brand außerhalb der Waadt (Wallis)): 'Police et pompiers mobilisés pour une menuiserie en feu'
+- Gelöscht (Grund: Duplikat zum Thema WM-Public-Viewing (ID 1 bereits vorhanden)): 'Schweizer WM-Sechzehntelfinal – Public Viewing im Morgengrauen: Wo gemeinsam mitgefiebert wird'
 
 Finale Liste (live im XML-Feed):
+- [Journal de Morges] Nuria Gorrite kündigt ihren Rücktritt an, aber nicht ihren Ruhestand!
+- [SRF Schweiz] Der Tag beginnt mit der Nati – So verfolgen Schweizer Fans den Match Schweiz gegen Algerien
+- [20 Min Romandie] Gefiederte Klimaflüchtlinge finden ein gemütliches Zuhause
+- [SRF Wirtschaft] Fahrrad- und Trotti-Vermieter – Mit dem Trottinett an die Börse – kann das gut gehen?
+- [SRF Schweiz] Stillstand auf der Autobahn – Staustunden ohne Ende – so steht es um den Schweizer Verkehr
+- [SRF Schweiz] Mangel entschärft – Lehrkräfte: Kantone und Gemeinden liefern sich Lohnwettbewerb
+- [SRF Schweiz] Rund um die Uhr geöffnet – Migros startet Pilotprojekt mit einer Filiale in Herisau
+- [Journal de Morges] Ein Beamter mit zweifelhafter Vergangenheit landet bei der Police Région Morges
+- [20 Min Romandie] Neun Hektar frisch geernteter Weizen stehen in Flammen
+- [20 Min Romandie] Wie beim Skifahren: Mountainbiking erhält ein System mit Farbcodes
+- [SRF Ausland] «Heat Dome» an der US-Ostküste – Rekordhitze belastet WM-Spiele und US-Feiertage
+- [SRF Wirtschaft] Teurer Stellenwechsel – Wie mit neuem Job Tausende Franken bei der Rente verloren gehen
+- [SRF Ausland] US-Sanktionen gegen den Iran – Expertin: «Politisch ist der Iran ein grosser Sieger»
+- [SRF Wirtschaft] Aussenstelle in Heilbronn – ETH-Campus in Deutschland eröffnet – mit Geld des Lidl-Gründers
+- [SRF Schweiz] Nach dem Erdbeben – Schweizer Rettungskräfte haben Einsatz in Venezuela beendet
+- [20 Min Romandie] Die Morettis wollen wiedereröffnen, 'um den Opfern zu helfen'
+- [SRF Ausland] US-Bundesstaat Ohio – Behörden finden 16 verwahrloste Kinder in Elternhaus
+- [Journal de Morges] In Morges hat Jeanne Dorthe ihre 100 Jahre kaum bemerkt
+- [SRF Schweiz] Deutscher Bundespräsident – Frank-Walter Steinmeier besucht die Schweiz – mit dem Velo
+- [SRF Ausland] «Projekt Medusa» – Europol zerschlägt brutale Missbrauchsnetzwerke im Internet
+- [SRF Schweiz] Keine Zölle mehr auf Fisch – Efta und Vietnam unterzeichnen Freihandelsabkommen
+- [20 Min Romandie] Stiftung Beloved bereit, den Opfern von Crans zu helfen
+- [20 Min Romandie] Ein Mann sticht am hellichten Tag vor dem Bahnhof auf einen anderen ein
+- [SRF Wissen] Ökosystem Mensch – Mikrobiom bedroht – leben wir zu hygienisch?
+- [SRF Schweiz] Bahnausbau im Kanton Zürich – Baustart für SBB-Milliardenprojekt zwischen Zürich und Winterthur
+- [SRF Schweiz] Nahrungsmittel-Versorgung – Ernährungsinitiative verlangt nationale Wasserstrategie
+- [SRF Schweiz] Umweltminister zur Hitzewelle – Rösti: «Man darf es auch nicht übertreiben»
+- [SRF Schweiz] Solothurner Spitäler – Ex-Spitalchef muss eine halbe Million Franken zurückzahlen
+- [SRF Ausland] Reformen in Deutschland – Deutscher Kanzler will «Deutschland wieder flott kriegen»
+- [Journal de Morges] In Morges begeistert das Panini-Fieber die Jüngsten
+- [Journal de Morges] Isabelle Moret will mit dem FDP-Trio erneut kandidieren
+- [SRF Schweiz] Sozialversicherungen – IV steuert auf Defizit von 800 Millionen Franken zu
+- [Journal de Morges] Die 'Tradition de Morges' kehrt dieses Wochenende zurück
 - [SRF Wirtschaft] Rekordstrafe – EU-Gericht bestätigt Milliardenbusse gegen Google
 - [SRF Schweiz] Als erster Kanton – In Zug bekommt die Bevölkerung in guten Jahren Steuergeld zurück
-- [SRF Schweiz] Solothurner Spitäler – Eine halbe Million Franken zu viel für Ex-Spitalchef
 - [SRF Wissen] Klimawandel und Landwirtschaft – Die Sahara erreicht Südeuropa – mit Folgen für die Schweiz
 - [20 Min Romandie] Neuenburger Start-up greift den Weltmarkt für Computerchips an
 - [SRF Schweiz] Geschützter Drogenkonsum – Warum Konsumräume bis heute wichtig sind
 - [RTS Vaud] Die drei scheidenden FDP-Staatsräte bewerben sich für eine neue Amtszeit in der Waadtländer Regierung
 - [20 Min Romandie] Galaxus warnt: Fast keine Klimaanlagen mehr für den gesamten Sommer verfügbar
 - [SRF Ausland] Nach unerlaubter Bischofsweihe – Piusbruderschaft: Vatikan schliesst erzkonservative Bischöfe aus
-- [SRF Wissen] Von Sparte bis Athen – Dark Greece – Die Wahrheit über das antike Griechenland
+- [SRF Wissen] Von Sparta bis Athen – Dark Greece – Die Wahrheit über das antike Griechenland
 - [20 Min Romandie] In Nyon verschwinden alle 56 Gemälde einer Ausstellung
 - [SRF Schweiz] Selbstfahrende Autos – Mehr Stau, weil weniger Menschen hinter dem Steuer sitzen?
 - [20 Min Romandie] Dorfbeizen durch Brandschutzvorschriften geleert
 - [SRF Ausland] 10’000 Pfund von Asylsuchenden – Grossbritannien verschärft Asylpolitik
 - [SRF Wirtschaft] Temu & Co. – Vom neuen EU-Päcklizoll sind auch Schweizer Exporteure betroffen
 - [SRF Ausland] Brief an die AfD – Sahra Wagenknecht umwirbt Alice Weidel und stösst auf Ablehnung
-- [SRF Ausland] Parlamentswahl – Algerien wählt neues Parlament: Mehr als 10'000 Kandidierende
-- [SRF Schweiz] Ausbau der Luftverteidigung – Fünf Milliarden allein für das zusätzliche Abwehrsystem
-- [SRF Wirtschaft] Sportartikel – Weltmarktführer Nike ist aus dem Tritt geraten und strauchelt
-- [SRF Ausland] Nach Jahrhunderterdbeben – Zahl der Todesopfer in Venezuela steigt auf über 2295
-- [SRF Schweiz] Untersuchung Finanzkontrolle – Wenn im Abstimmungsbüchlein falsche Zahlen stehen
-- [SRF Ausland] Wird EU-Geldhahn zugedreht? – EU-Parlament stimmt über Verfahren gegen AfD-Europapartei ab
-- [SRF Ausland] New York – Zwei Personen klettern auf Spitze des Empire State Buildings
-- [SRF Schweiz] Zwei Jahre nach dem Unwetter – Das Maggiatal zwischen offenen und verheilten Wunden
-- [SRF Ausland] Bürgerkrieg im Sudan – Amnesty-Bericht zeigt Ausmass der Gräueltaten von El Fascher
-- [20 Min Romandie] Hitzerekorde in den Seen werden weiter fallen
-- [SRF Schweiz] Verkehrsminister – Röstis Sommerspaziergang in Luzern war kein Spaziergang
-- [Morges Actualitiés] Ausschreibung für den Kunstförderpreis 2026
-- [SRF Schweiz] Armeechef alarmiert – Mehrere unbekannte Drohnen über Militäranlage aufgetaucht
-- [20 Min Romandie] Die verrückte Geschichte dieses Waadtländers, Idol seines Viertels in New York
-- [RTS Vaud] 12%-Initiative: Waadtländer Linke und Gewerkschaften prangern „Schwindel“ an
-- [SRF Wirtschaft] Einnahmen offengelegt – Trump verdient am meisten Geld mit Krypto
-- [20 Min Romandie] Nur 5 % der Restaurants und Bars unterliegen einer Personenobergrenze
-- [SRF Ausland] Sicherheitsmassnahme – Deutsche Bahn stellt Zugpersonal Bodycams zur Verfügung
-- [SRF Ausland] Genaue Opferzahl unbekannt – Mehrere Tote bei Brand in Mehrfamilienhaus in Antwerpen
-- [SRF Gesellschaft] Nach Bischofsweihe in Ecône VS – Piusbrüdern droht der Ausschluss aus der katholischen Kirche
-- [SRF Ausland] Comeback mit Ausnahmen – Läden in Schweden müssen wieder Bargeld annehmen
-- [SRF Wissen] Seltenes Naturphänomen – Wie es zu Wasserfällen am Matterhorn kommt
-- [SRF Wissen] Zubehör von Angriffsdrohnen – Vögel in der Ukraine bauen offenbar Nester aus Glasfaserkabeln
-- [RTS Vaud] Nach dem Drama von Crans-Montana stellt Waadt 15 Millionen für den Brandschutz bereit
-- [20 Min Romandie] Einkesselung bei der NoG7-Demo: Die Polizei erklärt sich (ein wenig)
-- [SRF Ausland] Tibeter unter Druck – Neues Gesetz: China will mehr Einheit statt Vielfalt
-- [SRF Schweiz] Mord an Entwicklungshelfer – «Die Frage nach dem Warum ist das Quälendste»
