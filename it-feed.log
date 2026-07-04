@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 4.7.2026, 06:10:25
-Letzter Lauf: 3.7.2026, 12:28:17
+Start: 4.7.2026, 12:28:17
+Letzter Lauf: 4.7.2026, 06:10:25
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,14 +10,13 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Wasserkühlung für die Wohnung: Das bringen Verdunstungskühler'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Fußball-WM im Stream: Liefert Magenta die bessere Bildqualität als ARD und ZDF?'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Claude Code in der Praxis – effizienter entwickeln mit KI-Agenten'
 - Gelöscht wegen Keyword 'tgiqf': '#TGIQF: Das Quiz rund um Grafikkarten'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Digitale Souveränität in der Praxis: Strategien, Fallstudien, Know-how'
-- Gelöscht wegen Keyword 'podcast': 'Freitag: Vorbereitung für Disc-lose Xbox, Amazon Leo mit ausreichend Satelliten'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Steam Machine vorgestellt - sind Golem-PCs die bessere Wahl?'
+- Gelöscht wegen Keyword '(g+)': '(g+) Software ohne feste Codebasis: Wie Software künftig dynamisch entsteht'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Einhell-Plus-Akku bei Amazon günstiger als im Schnitt der vergangenen Wochen'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Amazon-Angebot im Check | Sabrent-Festplatten-Dock für 24,99 Euro'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 15,6 Zoll großer Portable Monitor von Acer günstig wie nie'
@@ -27,34 +26,32 @@ Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Google- oder Xiaomi-Smartphone plus geschenkter Fernseher bei Vodafone'
 - Gelöscht wegen Keyword '(g+)': '(g+) Auswandern nach Australien: Down Under sucht IT-Spezialisten, nimmt aber nicht jeden'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Beliebte Eismaschine von Ninja erfrischend günstig bei Back Market'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ottocast Mini Nova Wireless Adapter zum Amazon Tiefstpreis'
 
-KI-Filter (Gemini) - 44 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Inhaltlicher Bezug zu visionOS / Apple Vision Pro.): 'Reality Composer Pro 3: Indizien für Spieleprojekt darin versteckt'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Datenbank-Internals).): 'LMDB 1.0: Datenbank ohne Server und ohne Write-Ahead-Log'
-- Weiterhin entfernt (Cache, Grund: Thematisiert Deep OS-Internals (Linux/Container) und Enterprise-Infrastruktur.): 'Podman 6 baut Docker-Kompatibilität aus'
-- Weiterhin entfernt (Cache, Grund: Harter Ausschluss: Apple-Thema iOS.): 'iOS 27: Apple erleichtert Kopieren und Einfügen'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Enterprise-IT & Netzwerk-Infrastruktur (UniFi-Ökosystem).): 'Jetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur.): 'MongoDB integriert Vektorsuche direkt in die Datenbank'
-- Weiterhin entfernt (Cache, Grund: Kombination aus belanglosem Apple-Rauschen (Design Award) und Code-Theorie (SwiftUI).): '„Play“-App für SwiftUI-Developer: Entwickler gehen zu Apple'
-- Weiterhin entfernt (Cache, Grund: Harter Ausschluss: Apple-Thema iPhone.): 'Leak: Apple nutzt beim iPhone 18 Pro verschiedene Modems'
-- Weiterhin entfernt (Cache, Grund: Betrifft Enterprise-IT (Server-Infrastruktur).): 'Behörde warnt: Microsoft-Sharepoint-Server werden attackiert'
-- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe Ereignis wie Artikel 26.): 'Streit um iPad-Nachbeschaffung: Samsung klagt gegen Stadt Datteln'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Code-Theorie (Verteilte Systeme).): 'Won’t fix! – Teil 3: Warum verteilter Konsens schwer bis unmöglich ist'
-- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Code-Theorie und Entwickler-Themen.): 'Neu in .NET 10.0 [30]: Algorithmen für die Post-Quanten-Kryptografie'
-- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe Ereignis wie Artikel 15.): 'Mecklenburg-Vorpommern verabschiedet sich von Microsoft'
-- Gelöscht (Grund: Basteleien an Linux (Setup von Drittanbieter-Launchern).): 'So laufen Nicht-Steam-Spiele unter Linux | c't 3003'
-- Gelöscht (Grund: Deep OS-Internals (Konzeptuelle Änderungen an der Windows-Bedienoberfläche).): 'Projekt Aion: Video-Leak zeigt Konzept, wie Microsoft Windows auf KI trimmt'
-- Gelöscht (Grund: Enterprise-IT & Web-Infrastruktur (Schwachstellenbewertung in Apache Tomcat).): 'Kommentar: CISA-Übereifer macht CVSS-Scores wertlos'
-- Gelöscht (Grund: Nur interne PC-Komponenten (Preisanpassung bei Desktop-CPUs).): 'Intel verteuert seinen beliebtesten Desktop-Prozessor'
-- Gelöscht (Grund: Code-Theorie und Web-Infrastruktur (Technische Optimierung der GPU-Auslastung).): 'DSpark: Deepseek verbessert mit Token-Raten die GPU-Auslastung'
-- Gelöscht (Grund: Duplikat (Behandelt dasselbe Ereignis wie Artikel ID 14).): 'KI-Integration als Dienstleistung: Microsoft entsendet 6.000 KI-Berater'
-- Gelöscht (Grund: Apple Thema (iOS/iPhone-Spezifische Funktion Car Key).): 'Apple Car Key im VW: Software bestätigt, Apple bereitet vor'
-- Gelöscht (Grund: Code-Theorie und Deep OS-Internals (Sicherheitslücke in Embedded-Dateisystem-Treiber).): 'Angriff per USB-Stick: KI findet gefährliche Lücke in populärem FatFs-Treiber'
-- Gelöscht (Grund: Duplikat (Behandelt dasselbe Ereignis wie Artikel ID 27).): 'NASA-Weltraumteleskop Swift: Rettungsmission nach Rekordvorbereitung gestartet'
-- Gelöscht (Grund: Apple Thema (iPhone).): 'iPhone Ultra: Apple erhöht offenbar Foldable-Bestellungen'
+KI-Filter (Gemini) - 12 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Basteleien an Linux (Setup von Drittanbieter-Launchern).): 'So laufen Nicht-Steam-Spiele unter Linux | c't 3003'
+- Weiterhin entfernt (Cache, Grund: Deep OS-Internals (Konzeptuelle Änderungen an der Windows-Bedienoberfläche).): 'Projekt Aion: Video-Leak zeigt Konzept, wie Microsoft Windows auf KI trimmt'
+- Weiterhin entfernt (Cache, Grund: Enterprise-IT & Web-Infrastruktur (Schwachstellenbewertung in Apache Tomcat).): 'Kommentar: CISA-Übereifer macht CVSS-Scores wertlos'
+- Weiterhin entfernt (Cache, Grund: Nur interne PC-Komponenten (Preisanpassung bei Desktop-CPUs).): 'Intel verteuert seinen beliebtesten Desktop-Prozessor'
+- Weiterhin entfernt (Cache, Grund: Code-Theorie und Web-Infrastruktur (Technische Optimierung der GPU-Auslastung).): 'DSpark: Deepseek verbessert mit Token-Raten die GPU-Auslastung'
+- Weiterhin entfernt (Cache, Grund: Duplikat (Behandelt dasselbe Ereignis wie Artikel ID 14).): 'KI-Integration als Dienstleistung: Microsoft entsendet 6.000 KI-Berater'
+- Weiterhin entfernt (Cache, Grund: Apple Thema (iOS/iPhone-Spezifische Funktion Car Key).): 'Apple Car Key im VW: Software bestätigt, Apple bereitet vor'
+- Weiterhin entfernt (Cache, Grund: Code-Theorie und Deep OS-Internals (Sicherheitslücke in Embedded-Dateisystem-Treiber).): 'Angriff per USB-Stick: KI findet gefährliche Lücke in populärem FatFs-Treiber'
+- Weiterhin entfernt (Cache, Grund: Duplikat (Behandelt dasselbe Ereignis wie Artikel ID 27).): 'NASA-Weltraumteleskop Swift: Rettungsmission nach Rekordvorbereitung gestartet'
+- Weiterhin entfernt (Cache, Grund: Apple Thema (iPhone).): 'iPhone Ultra: Apple erhöht offenbar Foldable-Bestellungen'
+- Gelöscht (Grund: Der Artikel befasst sich mit Themen aus den Bereichen Code-Theorie, Web-Infrastruktur und Entwickler-Tools (z. B. Kotlin, Spring AI, CMake, VS Code, W3C), die laut Ausschlusskriterien nicht zulässig sind.): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Warum die geplante IFG-Reform ein massiver Einschnitt in die Pressefreiheit wäre
+- [Golem] Ausbau von Rechenkapazität: Amazons Emissionen 2025 um 16 Prozent gestiegen
+- [Golem] Sony Digital Audio Disc Corporation: Sony baut Disc-Werk in Österreich bereits um
+- [Golem] Rechenschaftspflicht: US-Verbraucherschützer warnen vor Ende der X-Überwachung
+- [Heise] Sparpläne: Beschäftigte von Mercedes und VW demonstrieren
+- [Golem] Halbleiterfertigung: Imec gibt Ausblick auf Halbleitertechnik bis 2041
+- [Heise] Getty-Shutterstock-Fusion gescheitert – die Fotonews der Woche 27/2026
+- [Digitec] Logitech G512 X 98 im Test: Das Hybrid-Konzept überzeugt nicht zum Premiumpreis
+- [Heise] 30 Fakten zu 30 Jahren „Independence Day“
+- [Heise] Wald, Wasser, Weitblick: Die Bilder der Woche 27
+- [Golem] 250 Jahre USA: Was die amerikanischen Gründerväter mit dem Silicon Valley zu tun haben
 - [Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche
 - [Heise] Wasserzerstäuber für Terrasse und Garten im Praxistest
 - [Heise] UN-Bericht zu KI-Risiken: „Die Welt kann nicht regieren, was sie nicht versteht“
@@ -78,8 +75,8 @@ Finale Liste (live im XML-Feed):
 - [Digitec] Cyborg-Kakerlaken im Tauchanzug: Insekten sollen Leben retten
 - [Heise] IT-Ausfall bei der Justiz – Was war da los?
 - [Golem] Raumfahrt: Nasa startet Rettung des Swift-Satelliten
-- [Heise] Nach fast 30 Jahren: „Worms“-Schöpfer kündigt Erweiterung für Amiga-Klassiker an
 - [Heise] Kommentar zur Fußball-WM: Keine Fernseh-Millionen für Krümelfußball
+- [Heise] Nach fast 30 Jahren: „Worms“-Schöpfer kündigt Erweiterung für Amiga-Klassiker an
 - [Heise] Microsoft stellt offenbar Surface Laptop Go und Surface Go ein
 - [Golem] Creative Assembly: Alien Isolation 2 ist schon in der Pre-Alpha echter Horror
 - [Heise] Sony macht Schluss: PlayStation Store auf PS3 und PS Vita schließt bis Juli 2027
@@ -89,30 +86,3 @@ Finale Liste (live im XML-Feed):
 - [Golem] Elektromobilität: Eon und Tank & Rast sollen E-Lkw-Ladenetz aufbauen
 - [Golem] Fußball: BVB startet Bolzplatz-Liebe in Fortnite
 - [Heise] Post zum Freitag: KI-Überwachung in der Straßenbahn
-- [Golem] Final Stand: Company of Heroes wird zum Roguelite mit 36 Bossgegnern
-- [Heise] Astronomie: Zwei Spiralarme der Milchstraße merklich weiter entfernt als gedacht
-- [Golem] Schwarze Löcher: Erzeugung von Hawking-Strahlung erstmals nachgebildet
-- [Golem] Netzwerk zerschlagen: Millionen Streaminggeräte per Malware als Proxy missbraucht
-- [Golem] Abomodell: Meta führt Nutzungslimit und Paywall für Smart Glasses ein
-- [Digitec] Vier Milliarden Euro Busse für Google
-- [Heise] Arne Semsrott zu IFG-Plänen: „Dann wird FragDenStaat eben zum neuen WikiLeaks“
-- [Golem] Valar Atomics: Teuerster Kernreaktor aller Zeiten hat Strom produziert
-- [Digitec] Digitalisierung in der Küche: Ohne Mealie würde ich verhungern
-- [Golem] Nextcloud statt Sharepoint: Mecklenburg-Vorpommern verabschiedet sich von Microsoft
-- [Golem] Sony und Rockstar trollen: Microsoft brennt Github-Code auf CD und versendet ihn
-- [Heise] Meta testet Social-App für KI-generierte Minispiele
-- [Heise] Arbeitsplatzsicherheit: Spherephones transferieren Roboterbewegung in Melodien
-- [Heise] Straßenverkehr verbraucht 22 Prozent der Energie bei nur 2,5 Prozent Stromanteil
-- [Golem] Citizen Science fürs Weltall: Ein Quasar, der deinen Namen trägt
-- [Heise] Nvidia & Co: USA dominieren Börsen – Deutschland fällt ab
-- [Heise] KI-Kollege „Alex“ : Forscherin warnt vor Folgen durch falsche Bezeichnung
-- [Golem] Satellitennetz: Amazon Leo rückt dem Start näher
-- [Heise] iPads für Schulen: Samsung zieht gegen Stadt Datteln vor Gericht
-- [Golem] Interne Kritik bei Meta: Zuckerberg enttäuscht von KI-Entwicklung
-- [Heise] Arbeitsmarkt für IT-Berufe wird enger
-- [Heise] Mitglied im Spyware-Sonderausschuss: EU-Abgeordneter mit Pegasus attackiert
-- [Golem] Mitarbeiter und KI: SAP setzt auf Umschulung statt Kündigung
-- [Golem] Politik: Kanzleramt gründet KI-Taskforce
-- [Heise] Schnelle Reparatur: U.S. Navy repariert Kampfflugzeuge mit 3D-gedruckten Flicken
-- [Heise] Verdächtige Onlinewetten: Spotify ändert nachträglich Song-Rangliste in den USA
-- [Heise] Probefahrt mit dem Lynk & Co 02: Der Preis bleibt Argument Nummer 1
