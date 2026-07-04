@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 3.7.2026, 12:58:38
-Letzter Lauf: 3.7.2026, 06:30:35
+Start: 4.7.2026, 06:30:36
+Letzter Lauf: 3.7.2026, 12:58:38
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -15,24 +15,52 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/QYUORaarYc2r.xml
 
 Statischer Filter (Keywords):
-- Keine Artikel durch statische Keywords gefiltert.
+- [FEED FEHLER] https://politepaul.com/fd/QYUORaarYc2r.xml: Exception: Request failed for https://politepaul.com returned code 502. Truncated server response: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 26 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Brand außerhalb der Waadt (Wallis)): 'Brandkatastrophe – Verein will Gedenkort für Opfer von Crans-Montana VS schaffen'
-- Weiterhin entfernt (Cache, Grund: Kriminalität/Ausschreitungen außerhalb der Waadt (Basel)): 'Ausschreitungen in Basel – Nach Räumung von Chemie-Areal eskaliert die Demonstration dagegen'
-- Weiterhin entfernt (Cache, Grund: Brand außerhalb der Waadt (Wallis)): 'Police et pompiers mobilisés pour une menuiserie en feu'
-- Weiterhin entfernt (Cache, Grund: Duplikat zum Thema WM-Public-Viewing (ID 1 bereits vorhanden)): 'Schweizer WM-Sechzehntelfinal – Public Viewing im Morgengrauen: Wo gemeinsam mitgefiebert wird'
-- Gelöscht (Grund: Blaulicht-Meldung (Tierschutzfall) in der Schweiz außerhalb von Vaud (Solothurn).): 'Untersuchung veröffentlicht – Tierschutzfall Ramiswil SO: Einschläfern aller Hunde war unnötig'
-- Gelöscht (Grund: Kriminalitätsmeldung in der Schweiz außerhalb von Vaud (Wallis).): 'Un fromager condamné pour le vol de 1400 meules'
-- Gelöscht (Grund: Unfallmeldung in der Schweiz außerhalb von Vaud (Jura).): 'Deux automobilistes blessés dans un accident près de Bassecourt'
-- Gelöscht (Grund: Duplikat zu Artikel 3 (SRF-Artikel bevorzugt).): 'Revivez le match de la Suisse seit les fan zones du district'
-- Gelöscht (Grund: Duplikat zu Artikel 25.): 'Nuria Gorrite ne se représentera pas au Conseil d'État'
-- Gelöscht (Grund: Kriminalitätsmeldung in der Schweiz außerhalb von Vaud.): 'Antisemitischer Messerangriff – Jude niedergestochen – angeklagter Jugendlicher schweigt zur Tat'
-- Gelöscht (Grund: Duplikat zu Artikel 25.): 'La socialiste Nuria Gorrite quittera le Conseil d'Etat vaudois en 2027'
+KI-Filter (Gemini) - 31 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung in der Schweiz außerhalb von Vaud (Wallis).): 'Un fromager condamné pour le vol de 1400 meules'
+- Weiterhin entfernt (Cache, Grund: Unfallmeldung in der Schweiz außerhalb von Vaud (Jura).): 'Deux automobilistes blessés dans un accident près de Bassecourt'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 3 (SRF-Artikel bevorzugt).): 'Revivez le match de la Suisse depuis les fan zones du district'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 25.): 'Nuria Gorrite ne se représentera pas au Conseil d'État'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung in der Schweiz außerhalb von Vaud.): 'Antisemitischer Messerangriff – Jude niedergestochen – angeklagter Jugendlicher schweigt zur Tat'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 25.): 'La socialiste Nuria Gorrite quittera le Conseil d'Etat vaudois en 2027'
+- Gelöscht (Grund: Unfallmeldung außerhalb des Kantons Waadt (Luzern).): 'Eich LU – Jubla Horw sagt nach Tod von 19-Jähriger Sommerlager ab'
+- Gelöscht (Grund: Blaulicht-Meldung/Kriminalitätsfall außerhalb von Waadt (Solothurn).): 'Tierschutzfall Ramiswil – Warum die Herdenschutzhunde schwer vermittelbar gewesen wären'
+- Gelöscht (Grund: Duplikat zu ID 8 und Blaulicht-Meldung außerhalb von Waadt (Solothurn).): 'Untersuchung veröffentlicht – Tierschutzfall Ramiswil SO: Einschläfern aller Hunde war unnötig'
+- Gelöscht (Grund: Duplikat zu ID 2 (Präferenz für SRF-Artikel/Inhalt).): 'Nato-Gipfel in Ankara – Die Türkei – ein mühsamer Bündnispartner, aber unverzichtbar'
+- Gelöscht (Grund: Kriminalität/Unfallmeldung außerhalb von Waadt (Genf).): 'Le chauffard qui avait tué un cycliste à Perly condamné'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Nach über 150 Jahren – Basler Traditionshaus Schiesser vor dem Aus
+- [20 Min Romandie] «Sie stiegen unter Buhrufen und Schreien den Mittelgang hinauf»
+- [SRF Ausland] Nato-Gipfel in Ankara – «Nervosität und Unruhe liegen in der Luft»
+- [SRF Schweiz] Kantonales Schwingfest Bern – Neuer Wankdorf-Rasen: Premiere mit Sägemehl statt Fussball
+- [SRF Ausland] 250 Jahre USA – Eine Ausstellung in Washington zwischen Geschichte und Politik
+- [SRF Wirtschaft] Shopping rund um die Uhr – 24-Stunden-Läden: Migros-Konkurrenz machte schlechte Erfahrungen
+- [SRF Ausland] Missbrauchsnetzwerke – Kriminelle Online-Gruppen: Machen Personen aus der Schweiz mit?
+- [SRF Schweiz] Studie zeigt Lücken auf – Stillen in der Schweiz: Warum Mütter und Babys zu kurz kommen
+- [SRF Ausland] Rahmenabkommen Iran-USA – Exil-Iranerin: «Es ist ein Schlag ins Gesicht für alle Iraner»
+- [SRF Schweiz] Wahlen 2027 – Nuria Gorrite verlässt Waadtländer Regierung nach 15 Jahren
+- [SRF Schweiz] Weder Freund noch Helferin – 5000 Opfer in der Westschweiz – falsche Polizisten im Fokus
+- [20 Min Romandie] Wegen eines halben Punktes gescheitert: Grenzfälle an der Schule werfen Fragen auf
+- [SRF Schweiz] Wollte zuerst Goalie werden – Manzambis Traumreise: Die Stationen des neuen Nati-Stars
+- [20 Min Romandie] Baustellen: Hilfe für Geschäftsleute in der Rue de Carouge verlängert
+- [Journal de Morges] Zwischen 800-Jahr-Feier und Abbaye: Festlichkeiten auf dem Höhepunkt in Préverenges
+- [Journal de Morges] Ein verrücktes Projekt für ein Palliativpflege-Zentrum
+- [SRF Schweiz] Bundesrat im WM-Fieber – Guy Parmelin sorgt mit roter Kappe für Aufsehen
+- [Journal de Morges] Das Bezirksfest von Saint-Livres macht einen Ausflug in die Steinzeit
+- [20 Min Romandie] Terrassen für das Achtelfinale der Nati bis 2 Uhr geöffnet
+- [SRF Wissen] Das Ende des Hypes? – Tokenomics statt Tokenmaxxing: KI kostet immer mehr
+- [20 Min Romandie] Eine Person stirbt bei Hausbrand in Aigle
+- [SRF Gesellschaft] Kulturquiz – Welche Challenge schaffte Prinzessin Kate? Testen Sie Ihr Wissen!
+- [20 Min Romandie] Cannabis-Megadeal: Mutmaßlicher Drahtzieher bestreitet Entführungen
+- [SRF Ausland] Explosion mit drei Verletzten – Nach Bombenanschlag in Monaco: Spur führt nach Deutschland
+- [SRF Ausland] Erdbeben in Venezuela – Wie lange kann ein Mensch unter Trümmern überleben?
 - [Morges Actualitiés] SPARK bestätigt seinen Erfolg
-- [Journal de Morges] Eluards Gedichte bringen ihm den Preis für die beste Dissertation ein
 - [SRF Schweiz] Der Tag beginnt mit der Nati – So verfolgten Schweizer Fans den Match Schweiz gegen Algerien
 - [20 Min Romandie] Man teilte ihm sein Scheitern beim EFZ mit, es war ein Fehler
 - [SRF Wissen] Davos Tech Summit – Robot City: In Davos gehen die Roboter um
@@ -43,37 +71,9 @@ Finale Liste (live im XML-Feed):
 - [SRF Wirtschaft] Finanzstabilität – Bankensektor ist gesund und robust – trotzdem warnt die SNB
 - [20 Min Romandie] Der G7-Gipfel soll den Cafés im Durchschnitt 18'615 Franken Verlust beschert haben
 - [SRF Schweiz] Deutscher Bundespräsident – Frank-Walter Steinmeier besucht die Schweiz – mit dem Velo
-- [SRF Schweiz] Bundesrat im WM-Fieber – Guy Parmelin sorgt mit roter Kappe für Aufsehen
 - [SRF Ausland] Bodenroboter – Wie ukrainische Start-ups den Krieg automatisieren
 - [SRF Schweiz] Stillstand auf der Autobahn – Staustunden ohne Ende – so steht es um den Schweizer Verkehr
 - [20 Min Romandie] Ein Kran stürzt auf einer Baustelle ein, ohne Verletzte zu fordern
 - [SRF Schweiz] Psychisch kranke Junge – Der Weg aus der IV zurück ins Berufsleben
 - [SRF Wirtschaft] Teurer Stellenwechsel – Wie mit neuem Job Tausende Franken bei der Rente verloren gehen
 - [Journal de Morges] Nuria Gorrite kündigt ihren Rücktritt an, aber nicht ihren Ruhestand!
-- [20 Min Romandie] Gefiederte Klimaflüchtlinge finden ein gemütliches Zuhause
-- [SRF Wirtschaft] Fahrrad- und Trotti-Vermieter – Mit dem Trottinett an die Börse – kann das gut gehen?
-- [SRF Schweiz] Mangel entschärft – Lehrkräfte: Kantone und Gemeinden liefern sich Lohnwettbewerb
-- [SRF Schweiz] Rund um die Uhr geöffnet – Migros startet Pilotprojekt mit einer Filiale in Herisau
-- [Journal de Morges] Ein Beamter mit zweifelhafter Vergangenheit landet bei der Police Région Morges
-- [20 Min Romandie] Neun Hektar frisch geernteter Weizen stehen in Flammen
-- [20 Min Romandie] Wie beim Skifahren: Mountainbiking erhält ein System mit Farbcodes
-- [SRF Ausland] «Heat Dome» an der US-Ostküste – Rekordhitze belastet WM-Spiele und US-Feiertage
-- [SRF Ausland] US-Sanktionen gegen den Iran – Expertin: «Politisch ist der Iran ein grosser Sieger»
-- [SRF Wirtschaft] Aussenstelle in Heilbronn – ETH-Campus in Deutschland eröffnet – mit Geld des Lidl-Gründers
-- [SRF Schweiz] Nach dem Erdbeben – Schweizer Rettungskräfte haben Einsatz in Venezuela beendet
-- [20 Min Romandie] Die Morettis wollen wiedereröffnen, 'um den Opfern zu helfen'
-- [SRF Ausland] US-Bundesstaat Ohio – Behörden finden 16 verwahrloste Kinder in Elternhaus
-- [Journal de Morges] In Morges hat Jeanne Dorthe ihre 100 Jahre kaum bemerkt
-- [SRF Ausland] «Projekt Medusa» – Europol zerschlägt brutale Missbrauchsnetzwerke im Internet
-- [SRF Schweiz] Keine Zölle mehr auf Fisch – Efta und Vietnam unterzeichnen Freihandelsabkommen
-- [20 Min Romandie] Stiftung Beloved bereit, den Opfern von Crans zu helfen
-- [20 Min Romandie] Ein Mann sticht am hellichten Tag vor dem Bahnhof auf einen anderen ein
-- [SRF Wissen] Ökosystem Mensch – Mikrobiom bedroht – leben wir zu hygienisch?
-- [SRF Schweiz] Bahnausbau im Kanton Zürich – Baustart für SBB-Milliardenprojekt zwischen Zürich und Winterthur
-- [SRF Schweiz] Nahrungsmittel-Versorgung – Ernährungsinitiative verlangt nationale Wasserstrategie
-- [SRF Schweiz] Umweltminister zur Hitzewelle – Rösti: «Man darf es auch nicht übertreiben»
-- [SRF Schweiz] Solothurner Spitäler – Ex-Spitalchef muss eine halbe Million Franken zurückzahlen
-- [SRF Ausland] Reformen in Deutschland – Deutscher Kanzler will «Deutschland wieder flott kriegen»
-- [Journal de Morges] Isabelle Moret will mit dem FDP-Trio erneut kandidieren
-- [SRF Schweiz] Sozialversicherungen – IV steuert auf Defizit von 800 Millionen Franken zu
-- [Journal de Morges] Die 'Tradition de Morges' kehrt dieses Wochenende zurück
