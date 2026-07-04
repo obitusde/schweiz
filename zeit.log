@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 3.7.2026, 06:59:30
-Letzter Lauf: 2.7.2026, 06:59:30
+Start: 4.7.2026, 06:59:31
+Letzter Lauf: 3.7.2026, 06:59:30
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,41 +20,28 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 35 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Gehört unter die Kategorie Lifestyle/Rezepte ohne Ernährungstipps.): [Entdecken] '»Und was machst du am Wochenende?« / Volker Weidermann: »Ich bin auf dem Fahrrad auf die Welt gekommen«'
-- GelÃ¶scht (Grund: Duplikat zum Thema Mietregulierung/Wohnungsbau, Artikel ID 22 ist informativer.): [Wirtschaft] 'Mieten in deutschen Großstädten: Mieten sind in den größten deutschen Städten stark gestiegen'
-- GelÃ¶scht (Grund: Duplikat zum Thema Mietregulierung, Artikel ID 22 ist informativer.): [Wirtschaft] 'Mietenkataster für Berlin: So einfach findet ihr die Abzocker nicht'
-- GelÃ¶scht (Grund: Duplikat zum Thema Piusbruderschaft, Artikel ID 11 bietet den aktuelleren, vollständigeren Kontext.): [Gesellschaft] 'Piusbruderschaft: Vatikan bestätigt Exkommunikation aller Kleriker der Piusbruderschaft'
+KI-Filter (Gemini) - 22 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Filter: Promis & Adel (Celebrities).): [Gesellschaft] 'New York: Taylor Swift und Travis Kelce haben geheiratet'
+- GelÃ¶scht (Grund: Filter: Parteipolitik / Regionale deutsche Politik.): [Arbeit] 'Krankschreibung: Misstrauen ist gut, Vertrauen ist besser'
+- GelÃ¶scht (Grund: Filter: Erziehung (implizit bei Kleinkindern/Jugendlichen).): [Gesellschaft] 'Pubertät: 20 Ideen, um einen Teenager zu beeindrucken'
+- GelÃ¶scht (Grund: Filter: Parteipolitik / Deutsche Politik.): [Wirtschaft] 'Reformen der Bundesregierung: Das reicht noch nicht!'
+- GelÃ¶scht (Grund: Filter: Parteipolitik.): [Gesellschaft] 'Gökay Akbulut: Geldstrafe für Linken-Abgeordnete Gökay Akbulut nach Streit in Zug'
 
 Finale Liste (live im XML-Feed):
-- [Wirtschaft] Werksschließungen bei Volkswagen: Im VW-Aufsichtsrat stoßen mögliche Werksschließungen auf Widerstand
+- [Wirtschaft] Hitzewelle in den USA: Größter Stromnetzbetreiber der USA ruft zum Energiesparen auf
+- [Gesellschaft] Papst Leo XIV.: Piusbruderschaft nennt Exkommunikationen »ungerecht und ungültig«
+- [Gesellschaft] Franka Potente: Wie man als Deutsche 25 Jahre in Hollywood überlebt
+- [Gesellschaft] Waldbrand in Katalonien: Mehr als 45.000 Spanier sollen wegen Waldbrand zu Hause bleiben
+- [Digital] Informationsfreiheitsgesetz: Sieht so aus, als hätte da jemand was zu verbergen
+- [Arbeit] Zweifel am Beruf: Hadern Sie mit Ihrem Job?
+- [Digital] KI-Modelle in Europa: Es muss nicht immer das Beste sein
+- [Wirtschaft] Fußballstatistiken: Ein Spiel mit Zahlen
+- [Gesellschaft] Migration: Zahl der Asylanträge sinkt deutlich
+- [Entdecken] Hüttentour in den Dolomiten: Hohe Kunst
+- [Digital] Manipulierte KI-Suchergebnisse: Wie man international renommierter Experte wird, ohne Experte zu sein
 - [Gesellschaft] Alexej Nawalny: Einer gegen Putin
-- [Arbeit] Narzissmus: »Elterliche Überbehütung kann Narzissmus fördern«
-- [Gesellschaft] Waldbrände in Südfrankreich: Tausende müssen Häuser in Südfrankreich wegen Bränden verlassen
-- [Gesellschaft] Hitzewelle in den USA: Mehr als 100 Millionen Menschen von extremer Hitze in USA betroffen
-- [Gesellschaft] Daphne Caruana Galizia: Nächster Prozess wegen Mordes an maltesischer Journalistin beginnt
-- [Gesellschaft] Venezuela: Rettungskräfte bergen Verschütteten acht Tage nach Erdbeben
-- [Wirtschaft] Reformpaket der Bundesregierung: Rettet das Reformpaket die deutsche Wirtschaft?
-- [Arbeit] Neue Beschlüsse für Arbeitsverträge: Wer einen Job will, muss jetzt maximal flexibel sein
-- [Gesellschaft] Piusbruderschaft: Vatikan ermöglicht Piusbrüdern Rückkehr in die katholische Kirche
-- [Schweiz] Tim Effenberger: Da will ich rauf!
-- [Digital] OpenAI-Anteile für die US-Regierung: Sam Altman will Donald Trump fünf Prozent an OpenAI schenken
-- [Wirtschaft] US-Elektroautobauer: Tesla liefert im zweiten Quartal deutlich mehr Autos aus
-- [Wirtschaft] Krankschreibung: Die Attestpflicht ab dem ersten Tag ist Wahnsinn
-- [Wirtschaft] Börse: Dax steigt auf Rekordwert
-- [Arbeit] Tarifverhandlungen: Ver.di ruft erneut zu bundesweitem Warnstreik im Handel auf
-- [Gesellschaft] Grenzkontrollen an der Grenze zu Österreich: Verwaltungsgericht München erklärt Grenzkontrollen für rechtswidrig
-- [Gesellschaft] Deutschland: Hitze und hohe Kosten belasten laut Bauernpräsident die Getreideernte
-- [Gesellschaft] Landgericht Berlin: Staatsanwaltschaft fordert Höchststrafe in Prozess gegen Palliativarzt
-- [Digital] US-Sperre für KI-Modelle: Braucht Europa ein eigenes ChatGPT?
-- [Wirtschaft] Reformpaket für Wohnungsbau: Mit diesen Maßnahmen könnten die Mieten wirklich sinken
-- [Wirtschaft] Infineon in Dresden: Neues Halbleiterwerk von Infineon in Dresden schafft 1.000 Stellen
-- [Wirtschaft] Österreich: Oberstes Gericht bestätigt Schuldspruch gegen Signa-Gründer Benko
-- [Gesellschaft] OLG Stuttgart: Gericht verurteilt Mann wegen Tätigkeit für den IS zu einer Haftstrafe
-- [Digital] Werbeunterbrechungen auf Instagram: Eine Werbeunterbrechung? Endlich!
-- [Wirtschaft] Sperrung der Straße von Hormus: Was Urlauber über die aktuelle Kerosin-Lage wissen müssen
-- [Gesellschaft] Sexueller Missbrauch: Ermittler gehen europaweit gegen Netzwerk von Sexualstraftätern vor
-- [Gesellschaft] Karlsruhe: Höchstes Gericht bestätigt Verbot von Sexpuppen mit kindlichem Antlitz
-- [Wirtschaft] Google: Europäischer Gerichtshof bestätigt Milliardenstrafe gegen Google
-- [Wirtschaft] Bertelsmann-Studie: Studie belegt ungenutztes Fachkräftepotenzial von Zuwanderern
-- [Gesellschaft] Robert Koch-Institut: RKI meldet mehr als 800 Hitzetote in Deutschland
+- [Gesellschaft] Monaco: Interpol fahndet nach einer Ukrainerin wegen Explosion in Monaco
+- [Wirtschaft] Wirtschaft in den USA: Das getarnte Freiheitsversprechen der Tech-Milliardäre
+- [Gesellschaft] Adoptionen in Deutschland: Zahl der Adoptionen sinkt auf Tiefststand seit Wiedervereinigung
+- [Entdecken] Angst beim Radfahren: Alle zehn Meter ein Unfall
+- [Entdecken] »Und was machst du am Wochenende?« / Volker Weidermann: »Ich bin auf dem Fahrrad auf die Welt gekommen«
