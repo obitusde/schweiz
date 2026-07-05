@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 4.7.2026, 06:59:31
-Letzter Lauf: 3.7.2026, 06:59:30
+Start: 5.7.2026, 06:59:30
+Letzter Lauf: 4.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,28 +20,17 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 22 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Filter: Promis & Adel (Celebrities).): [Gesellschaft] 'New York: Taylor Swift und Travis Kelce haben geheiratet'
-- GelÃ¶scht (Grund: Filter: Parteipolitik / Regionale deutsche Politik.): [Arbeit] 'Krankschreibung: Misstrauen ist gut, Vertrauen ist besser'
-- GelÃ¶scht (Grund: Filter: Erziehung (implizit bei Kleinkindern/Jugendlichen).): [Gesellschaft] 'Pubertät: 20 Ideen, um einen Teenager zu beeindrucken'
-- GelÃ¶scht (Grund: Filter: Parteipolitik / Deutsche Politik.): [Wirtschaft] 'Reformen der Bundesregierung: Das reicht noch nicht!'
-- GelÃ¶scht (Grund: Filter: Parteipolitik.): [Gesellschaft] 'Gökay Akbulut: Geldstrafe für Linken-Abgeordnete Gökay Akbulut nach Streit in Zug'
+KI-Filter (Gemini) - 11 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Behandelt spezifische deutsche Bundespolitik und Reformpläne.): [Wirtschaft] 'Reformpaket: »Frauen drohen in die Schwarzarbeit abzurutschen«'
+- GelÃ¶scht (Grund: Thema Promis/Adel (Kaiserin Sisi) ohne übergeordnete gesellschaftliche Relevanz.): [Entdecken] '30 Jahre: Mit 30 Jahren'
 
 Finale Liste (live im XML-Feed):
-- [Wirtschaft] Hitzewelle in den USA: Größter Stromnetzbetreiber der USA ruft zum Energiesparen auf
-- [Gesellschaft] Papst Leo XIV.: Piusbruderschaft nennt Exkommunikationen »ungerecht und ungültig«
-- [Gesellschaft] Franka Potente: Wie man als Deutsche 25 Jahre in Hollywood überlebt
-- [Gesellschaft] Waldbrand in Katalonien: Mehr als 45.000 Spanier sollen wegen Waldbrand zu Hause bleiben
-- [Digital] Informationsfreiheitsgesetz: Sieht so aus, als hätte da jemand was zu verbergen
-- [Arbeit] Zweifel am Beruf: Hadern Sie mit Ihrem Job?
-- [Digital] KI-Modelle in Europa: Es muss nicht immer das Beste sein
-- [Wirtschaft] Fußballstatistiken: Ein Spiel mit Zahlen
-- [Gesellschaft] Migration: Zahl der Asylanträge sinkt deutlich
-- [Entdecken] Hüttentour in den Dolomiten: Hohe Kunst
+- [Wirtschaft] DGB-Index Gute Arbeit: 40 Prozent bezweifeln Durchhalten bis zur Rente
+- [Arbeit] Bibliothekar: »Als Beamter würde ich 1.000 Euro mehr verdienen«
+- [Gesellschaft] Musikfestivals: Bereit für den Festivalsommer?
+- [Gesellschaft] Erdbeben in Venezuela: Regierung in Venezuela meldet fast 3.000 Tote nach Erdbeben
+- [Gesellschaft] Waldbrand in Katalonien: Waldbrand nahe Costa Brava ist weitgehend unter Kontrolle
+- [Gesellschaft] Sturm auf das Kapitol: »Verräter werden erschossen«, sagt der Vater. Zu seinem Sohn.
 - [Digital] Manipulierte KI-Suchergebnisse: Wie man international renommierter Experte wird, ohne Experte zu sein
-- [Gesellschaft] Alexej Nawalny: Einer gegen Putin
-- [Gesellschaft] Monaco: Interpol fahndet nach einer Ukrainerin wegen Explosion in Monaco
-- [Wirtschaft] Wirtschaft in den USA: Das getarnte Freiheitsversprechen der Tech-Milliardäre
-- [Gesellschaft] Adoptionen in Deutschland: Zahl der Adoptionen sinkt auf Tiefststand seit Wiedervereinigung
-- [Entdecken] Angst beim Radfahren: Alle zehn Meter ein Unfall
-- [Entdecken] »Und was machst du am Wochenende?« / Volker Weidermann: »Ich bin auf dem Fahrrad auf die Welt gekommen«
+- [Gesellschaft] Migration in Mittelmeer: Papst Leo gedenkt ertrunkener Flüchtlinge in Lampedusa
+- [Schweiz] Hüttenwandern: Kommen Sie gut rauf!
