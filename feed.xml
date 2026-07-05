@@ -5,14 +5,112 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sun, 05 Jul 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 10:58:40 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Ausland] 250 Jahre USA – Paraden und Feiern im ganzen Land</title>
-      <link>https://www.srf.ch/news/international/250-jahre-usa-paraden-und-feiern-im-ganzen-land</link>
+      <title>[Journal de Morges] Start-up aus Aubonne als Plattform für Pflegekräfte</title>
+      <link>https://journaldemorges.ch/actualite/societe/une-start-up-imaginee-a-aubonne-en-plateforme-des-soignants/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/une-start-up-imaginee-a-aubonne-en-plateforme-des-soignants/</guid>
+      <description><![CDATA[Unter dem Impuls ihres Gründers Josselin Meylan ist das Unternehmen Carewell eine Antwort auf den Personalmangel in Gesundheitseinrichtungen.]]></description>
+      <pubDate>Sun, 05 Jul 2026 10:32:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Antiquariat in Johannesburg – Der Mann zwischen zwei Millionen Büchern</title>
+      <link>https://www.srf.ch/news/international/antiquariat-in-johannesburg-der-mann-zwischen-zwei-millionen-buechern</link>
+      <guid isPermaLink="false">urn:srf:article:019ecc42-a792-6ff9-194d-5774874ff5f0</guid>
+      <description><![CDATA[Südafrikas grösste Stadt ist voller Gegensätze – und Überraschungen: Besuch im grössten Antiquariat der Südhalbkugel.]]></description>
+      <pubDate>Sun, 05 Jul 2026 10:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Klimawandel und Hitze – Klimaforscher: «Manchmal frage ich mich, was ich hier mache»</title>
+      <link>https://www.srf.ch/news/wirtschaft/klimawandel-und-hitze-klimaforscher-manchmal-frage-ich-mich-was-ich-hier-mache</link>
+      <guid isPermaLink="false">urn:srf:article:019f17c7-85d2-8930-eb15-b6106b35b5fe</guid>
+      <description><![CDATA[Trotz der Wetterextreme: ETH-Professor Reto Knutti rechnet kaum mit Umdenken in der Gesellschaft. Er fordert Lösungen.]]></description>
+      <pubDate>Sun, 05 Jul 2026 10:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Historischer Hotelumbau – Wenn aus einer Idee ein eigenes Hotel wird</title>
+      <link>https://www.srf.ch/news/schweiz/historischer-hotelumbau-wenn-aus-einer-idee-ein-eigenes-hotel-wird</link>
+      <guid isPermaLink="false">urn:srf:article:019e4f89-26b2-1ac1-2d82-d3e0708cf082</guid>
+      <description><![CDATA[Ein unerfahrenes Ehepaar kauft im Berner Oberland ein altes Hotel. Nun ist dort neues Leben eingekehrt.]]></description>
+      <pubDate>Sun, 05 Jul 2026 09:28:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Gesellschaft] 80 Jahre Bikini – Von Brigitte Bardot bis Ikkimel: Ein Zweiteiler mit Sprengkraft</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/80-jahre-bikini-von-brigitte-bardot-bis-ikkimel-ein-zweiteiler-mit-sprengkraft</link>
+      <guid isPermaLink="false">urn:srf:article:019f21ea-fba9-db3d-e775-db30afe9f409</guid>
+      <description><![CDATA[Einst verboten, heute Alltagsmode: Der Bikini steht für die Befreiung der Frau – und konfrontiert sie mit neuen Zwängen.]]></description>
+      <pubDate>Sun, 05 Jul 2026 09:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Mutmassliche Brandstiftung – Gasexplosion in Wien – 93-Jähriger festgenommen</title>
+      <link>https://www.srf.ch/news/international/mutmassliche-brandstiftung-gasexplosion-in-wien-93-jaehriger-festgenommen</link>
+      <guid isPermaLink="false">urn:srf:article:019f316e-bd79-a7a4-80c8-d403d9ced32a</guid>
+      <description><![CDATA[Ein 93-jähriger Bewohner steht unter Verdacht, ein Einfamilienhaus absichtlich zerstört zu haben.]]></description>
+      <pubDate>Sun, 05 Jul 2026 08:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Kernkraft in Österreich – Was ein nie genutztes AKW über Österreichs Energiepolitik aussagt</title>
+      <link>https://www.srf.ch/news/wirtschaft/kernkraft-in-oesterreich-was-ein-nie-genutztes-akw-ueber-oesterreichs-energiepolitik-aussagt</link>
+      <guid isPermaLink="false">urn:srf:article:019f13d5-a759-3096-1b7d-b324d48b6b92</guid>
+      <description><![CDATA[Österreich hat sich 1978 gegen Atomkraft entschieden. Ein stillgelegtes AKW zeigt, wie das Land energiepolitisch tickt.]]></description>
+      <pubDate>Sun, 05 Jul 2026 08:25:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wahlen Stadtpräsidium – Wer wird Thuns erste Stadtpräsidentin?</title>
+      <link>https://www.srf.ch/news/schweiz/wahlen-stadtpraesidium-wer-wird-thuns-erste-stadtpraesidentin</link>
+      <guid isPermaLink="false">urn:srf:article:019f27ce-0aa3-e215-69df-58d5a5aaab79</guid>
+      <description><![CDATA[Eveline Salzmann (SVP) und Andrea de Meuron (Grüne) treten zur Stichwahl an.]]></description>
+      <pubDate>Sun, 05 Jul 2026 07:51:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Knatsch in Lungern OW – Hickhack um Fischerparadies am Lungernsee</title>
+      <link>https://www.srf.ch/news/schweiz/knatsch-in-lungern-ow-hickhack-um-fischerparadies-am-lungernsee</link>
+      <guid isPermaLink="false">urn:srf:article:019f1c8c-872e-ef51-a3f6-12f0a9f4d49a</guid>
+      <description><![CDATA[Wo Hobbyfischer Forellen aus dem See ziehen, tolerieren die Behörden seit 15 Jahren rechtswidrige Bauten.]]></description>
+      <pubDate>Sun, 05 Jul 2026 07:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] In Morges: Ein schwieriges Puzzle bei der ausserschulischen Betreuung</title>
+      <link>https://journaldemorges.ch/actualite/societe/a-morges-un-douloureux-puzzle-parascolaire/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/a-morges-un-douloureux-puzzle-parascolaire/</guid>
+      <description><![CDATA[Getrennte Geschwister und längere Wege: Die Organisation der ausserschulischen Betreuung ändert sich zum Schulanfang und mit ihr der Alltag dutzender Familien.]]></description>
+      <pubDate>Sun, 05 Jul 2026 07:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Gesellschaft] 100 Jahre Kübler-Ross – Die Sterbeforscherin, die selbst nicht sterben wollte</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/100-jahre-kuebler-ross-die-sterbeforscherin-die-selbst-nicht-sterben-wollte</link>
+      <guid isPermaLink="false">urn:srf:article:019f1e23-ee8f-115f-2c46-a8d207f6d736</guid>
+      <description><![CDATA[Elisabeth Kübler-Ross gab Sterbenden eine Stimme – und stellte die Medizin infrage. Ein Porträt zum 100. Geburtstag.]]></description>
+      <pubDate>Sun, 05 Jul 2026 07:13:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Laufstudie zu Geschlechtern – Warum Männer beim Marathon häufiger an Tempo verlieren als Frauen</title>
+      <link>https://www.srf.ch/wissen/mensch/laufstudie-zu-geschlechtern-warum-maenner-beim-marathon-haeufiger-an-tempo-verlieren-als-frauen</link>
+      <guid isPermaLink="false">urn:srf:article:019f1d90-168a-0e2f-c357-d69171b195a1</guid>
+      <description><![CDATA[Männer erleben auf der Langdistanz häufiger einen Leistungseinbruch als Frauen. Das liegt oft an ihrem Startverhalten.]]></description>
+      <pubDate>Sun, 05 Jul 2026 06:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Israels Wirtschaft boomt – «Run auf israelische Waffensysteme ist extrem gross»</title>
+      <link>https://www.srf.ch/news/international/nahost/israels-wirtschaft-boomt-run-auf-israelische-waffensysteme-ist-extrem-gross</link>
+      <guid isPermaLink="false">urn:srf:article:019f2d0b-4e79-9677-4c4b-641a32b80596</guid>
+      <description><![CDATA[Die israelische Wirtschaft wächst deutlich – trotz Krieg. Nahostkenner Richard C. Schneider erklärt die Hintergründe.]]></description>
+      <pubDate>Sun, 05 Jul 2026 05:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Armee äussert Spionageverdacht – Hier flogen die mysteriösen Drohnen über Militäranlagen</title>
+      <link>https://www.srf.ch/news/schweiz/armee-aeussert-spionageverdacht-hier-flogen-die-mysterioesen-drohnen-ueber-militaeranlagen</link>
+      <guid isPermaLink="false">urn:srf:article:019f30bf-dd0b-0785-b560-3037c748b110</guid>
+      <description><![CDATA[Drohnen über Militärbasen: Betroffen sind die Kasernen Jassbach und Meiringen. Der Armeechef erstattet keine Anzeige.]]></description>
+      <pubDate>Sun, 05 Jul 2026 05:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] 250 Jahre USA – Paraden und Feiern im ganzen Land – Trump-Rede als Schlusspunkt</title>
+      <link>https://www.srf.ch/news/international/250-jahre-usa-paraden-und-feiern-im-ganzen-land-trump-rede-als-schlusspunkt</link>
       <guid isPermaLink="false">urn:srf:article:019f2da8-55a1-43cd-e6d9-afc972b7f88e</guid>
-      <description><![CDATA[Die Vereinigten Staaten von Amerika feiern Geburtstag: Die Jubiläums-Feierlichkeiten sind zahlreich.]]></description>
-      <pubDate>Sun, 05 Jul 2026 03:57:05 GMT</pubDate>
+      <description><![CDATA[Die Vereinigten Staaten von Amerika haben Geburtstag gefeiert: Die Jubiläumsfeierlichkeiten waren zahlreich.]]></description>
+      <pubDate>Sun, 05 Jul 2026 05:00:15 GMT</pubDate>
     </item>
     <item>
       <title>[Journal de Morges] Nein, die Gewalt in Morges nimmt nicht zu</title>
@@ -20,6 +118,13 @@
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/non-la-violence-ne-flambe-pas-a-morges/</guid>
       <description><![CDATA[Als Antwort auf eine Interpellation des SVP-Abgeordneten Cédric Weissert erklärt der Staatsrat, dass es in der Region keine allgemeine Zunahme von Gewalt und Drogenhandel gibt.]]></description>
       <pubDate>Sat, 04 Jul 2026 22:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Gesellschaft] Sammelband «Die Damentoilette» – Kleine Pause vom Patriarchat? So politisch ist das Frauen-WC</title>
+      <link>https://www.srf.ch/kultur/literatur/sammelband-die-damentoilette-kleine-pause-vom-patriarchat-so-politisch-ist-das-frauen-wc</link>
+      <guid isPermaLink="false">urn:srf:article:019f18e3-12d9-4cc2-8baf-e8ab13546e35</guid>
+      <description><![CDATA[Zwischen Safe Space und Klatschkabine: 22 Autorinnen erzählen von der Bedeutung der Damentoilette.]]></description>
+      <pubDate>Sat, 04 Jul 2026 20:02:59 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Wirtschaft] Nachrichtenagenturen – AP, Reuters, SDA: Diese Nachrichtenagenturen informieren die Welt</title>
@@ -104,83 +209,6 @@
       <guid isPermaLink="false">urn:srf:article:019f2204-c715-7735-a362-14a2a7ce76ee</guid>
       <description><![CDATA[Immer mehr Menschen lassen sich beim Einkaufen von KI beraten. Die Empfehlungen gilt es aber kritisch zu hinterfragen.]]></description>
       <pubDate>Sat, 04 Jul 2026 10:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Die etwas anderen News – Serena Williams spritzt sich zurück ins Spitzentennis</title>
-      <link>https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-serena-williams-spritzt-sich-zurueck-ins-spitzentennis</link>
-      <guid isPermaLink="false">urn:srf:article:019f21ed-2b32-ebbc-1474-6a4151ad0ac7</guid>
-      <description><![CDATA[Dank der Abnehmspritze schaffte es die Tennislegende und Mutter zurück nach Wimbledon. Fans sind empört – zurecht?]]></description>
-      <pubDate>Sat, 04 Jul 2026 10:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Hybride Bedrohungen – Markus Mäder: «Die anderen akzeptieren unsere Neutralität»</title>
-      <link>https://www.srf.ch/news/schweiz/hybride-bedrohungen-markus-maeder-die-anderen-akzeptieren-unsere-neutralitaet</link>
-      <guid isPermaLink="false">urn:srf:article:019f2849-8c9e-650b-f36f-97bf8ddf2935</guid>
-      <description><![CDATA[Staatssekretär Mäder erklärt, dass internationale Zusammenarbeit wichtig, aber wegen der Neutralität eingeschränkt sei.]]></description>
-      <pubDate>Sat, 04 Jul 2026 10:20:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[RTS Vaud] Die Hälfte der in Frankreich mit Weideverbot belegten Rinder hat einen Plan B für den Sommer gefunden</title>
-      <link>https://www.rts.ch/info/regions/vaud/2026/article/bovins-interdits-d-estivage-en-france-un-plan-b-pour-la-moitie-d-entre-eux-29294261.html?rts_source=rss_t</link>
-      <guid isPermaLink="false">29294261</guid>
-      <description><![CDATA[Die Hälfte der rund 4000 Waadtländer Rinder, denen die Sömmerung in Frankreich untersagt wurde, um die Einschleppung der knotigen Hautkrankheit (DNC) in die Schweiz zu verhindern, konnte Plätze auf anderen Weiden finden. Die andere Hälfte der Kühe]]></description>
-      <pubDate>Sat, 04 Jul 2026 09:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Nach Bergsturz von Blatten – Aufatmen im hinteren Lötschental: Der ÖV ist zurück</title>
-      <link>https://www.srf.ch/news/schweiz/nach-bergsturz-von-blatten-aufatmen-im-hinteren-loetschental-der-oev-ist-zurueck</link>
-      <guid isPermaLink="false">urn:srf:article:019f21b0-9238-f40b-f6b2-ef8f2e2cef46</guid>
-      <description><![CDATA[Nach einem Jahr Zwangspause fährt wieder ein Postauto auf die beliebte Fafleralp. Doch dazu braucht es ein Ampelsystem.]]></description>
-      <pubDate>Sat, 04 Jul 2026 09:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Gefahr unter dem Dach – Warum junge Mauersegler bei grosser Hitze aus dem Nest springen</title>
-      <link>https://www.srf.ch/news/dialog/gefahr-unter-dem-dach-warum-junge-mauersegler-bei-grosser-hitze-aus-dem-nest-springen</link>
-      <guid isPermaLink="false">urn:srf:article:019f1d8f-e523-2d51-6189-bdb738a510be</guid>
-      <description><![CDATA[Unter Dächern können Temperaturen von bis zu 60 Grad entstehen. Für junge Mauersegler wird das zur Gefahr.]]></description>
-      <pubDate>Sat, 04 Jul 2026 09:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Schweizer Gewässer und Hitze – So warm sind die Schweizer Seen aktuell</title>
-      <link>https://www.srf.ch/news/schweiz/schweizer-gewaesser-und-hitze-so-warm-sind-die-schweizer-seen-aktuell</link>
-      <guid isPermaLink="false">urn:srf:article:019f2723-83ad-45c4-ae87-43050cac0b01</guid>
-      <description><![CDATA[Nach der Hitzewelle mit Rekordtemperaturen im Juni sind die Seetemperaturen sehr hoch. Die Übersicht.]]></description>
-      <pubDate>Sat, 04 Jul 2026 07:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Einsiedler Schwingertalent – Im Sägemehl ist Martin Schönbächler der Publikumsliebling</title>
-      <link>https://www.srf.ch/news/schweiz/einsiedler-schwingertalent-im-saegemehl-ist-martin-schoenbaechler-der-publikumsliebling</link>
-      <guid isPermaLink="false">urn:srf:article:019f269e-1e23-5b6b-c216-eedb65b3832a</guid>
-      <description><![CDATA[Vor zwei Wochen hat der 18-Jährige seinen ersten Bergkranz gewonnen. Das Talent hat er von seinen Eltern.]]></description>
-      <pubDate>Sat, 04 Jul 2026 06:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Um seinen Führerschein zu retten, greift Bernard Nicod das Radar an</title>
-      <link>https://www.20min.ch/fr/story/justice-vaudoise-pour-sauver-son-permis-bernard-nicod-s-en-prend-au-radar-103596481</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/justice-vaudoise-pour-sauver-son-permis-bernard-nicod-s-en-prend-au-radar-103596481</guid>
-      <description><![CDATA[Der Waadtländer Immobilienmagnat gibt zu, zu schnell gefahren zu sein, bestreitet jedoch die gemessene Geschwindigkeit. Er stellt die Zuverlässigkeit der von der Polizei verwendeten Radarpistole infrage.]]></description>
-      <pubDate>Sat, 04 Jul 2026 06:28:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Im Schiesskeller – Ausflug in eine missverstandene Welt</title>
-      <link>https://www.srf.ch/news/dialog/im-schiesskeller-ausflug-in-eine-missverstandene-welt</link>
-      <guid isPermaLink="false">urn:srf:article:019f12dc-200d-cae0-3993-a18d66f0c5bc</guid>
-      <description><![CDATA[Wie einfach ist es, legal an eine Waffe zu kommen? Und wer sind die Waffenfans in der Schweiz?]]></description>
-      <pubDate>Sat, 04 Jul 2026 06:20:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] 250 Jahre USA – «America 250»: Der Streit um die Deutung der US-Geschichte</title>
-      <link>https://www.srf.ch/news/international/250-jahre-usa-america-250-der-streit-um-die-deutung-der-us-geschichte</link>
-      <guid isPermaLink="false">urn:srf:article:019f2aca-978e-c021-9000-e1fa80bd266e</guid>
-      <description><![CDATA[Zum Jubiläum der US-Unabhängigkeit prallen unterschiedliche Sichtweisen auf Geschichte und Erinnerung aufeinander.]]></description>
-      <pubDate>Sat, 04 Jul 2026 05:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Arbeitsmarkt Schweiz – 300'000 neue Stellen – Jobwunder nach Corona verblasst langsam</title>
-      <link>https://www.srf.ch/news/wirtschaft/arbeitsmarkt-schweiz-300-000-neue-stellen-jobwunder-nach-corona-verblasst-langsam</link>
-      <guid isPermaLink="false">urn:srf:article:019f27e0-e325-2078-ee0f-24d557f1d94f</guid>
-      <description><![CDATA[Nach dem Schock der Pandemie hat sich die Schweizer Wirtschaft rasch erholt. Allerdings verliert das Jobwunder an Glanz.]]></description>
-      <pubDate>Sat, 04 Jul 2026 04:46:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
