@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 4.7.2026, 12:28:17
-Letzter Lauf: 4.7.2026, 06:10:25
+Start: 5.7.2026, 06:10:25
+Letzter Lauf: 4.7.2026, 12:28:17
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,37 +10,27 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Haustierfotos wie vom Profi – ganz ohne Garten: c't Fotografie 4/2026'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Wasserkühlung für die Wohnung: Das bringen Verdunstungskühler'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Fußball-WM im Stream: Liefert Magenta die bessere Bildqualität als ARD und ZDF?'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Claude Code in der Praxis – effizienter entwickeln mit KI-Agenten'
-- Gelöscht wegen Keyword 'tgiqf': '#TGIQF: Das Quiz rund um Grafikkarten'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Steam Machine vorgestellt - sind Golem-PCs die bessere Wahl?'
 - Gelöscht wegen Keyword '(g+)': '(g+) Software ohne feste Codebasis: Wie Software künftig dynamisch entsteht'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Einhell-Plus-Akku bei Amazon günstiger als im Schnitt der vergangenen Wochen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Amazon-Angebot im Check | Sabrent-Festplatten-Dock für 24,99 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 15,6 Zoll großer Portable Monitor von Acer günstig wie nie'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kompressor-Kühlbox bei Amazon günstig mitnehmen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Elgato Stream Deck Neo zum Sparpreis bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Smarter Beamer mit Netflix zum Aktionspreis bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Google- oder Xiaomi-Smartphone plus geschenkter Fernseher bei Vodafone'
-- Gelöscht wegen Keyword '(g+)': '(g+) Auswandern nach Australien: Down Under sucht IT-Spezialisten, nimmt aber nicht jeden'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Beliebte Eismaschine von Ninja erfrischend günstig bei Back Market'
 
 KI-Filter (Gemini) - 12 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Basteleien an Linux (Setup von Drittanbieter-Launchern).): 'So laufen Nicht-Steam-Spiele unter Linux | c't 3003'
-- Weiterhin entfernt (Cache, Grund: Deep OS-Internals (Konzeptuelle Änderungen an der Windows-Bedienoberfläche).): 'Projekt Aion: Video-Leak zeigt Konzept, wie Microsoft Windows auf KI trimmt'
-- Weiterhin entfernt (Cache, Grund: Enterprise-IT & Web-Infrastruktur (Schwachstellenbewertung in Apache Tomcat).): 'Kommentar: CISA-Übereifer macht CVSS-Scores wertlos'
-- Weiterhin entfernt (Cache, Grund: Nur interne PC-Komponenten (Preisanpassung bei Desktop-CPUs).): 'Intel verteuert seinen beliebtesten Desktop-Prozessor'
-- Weiterhin entfernt (Cache, Grund: Code-Theorie und Web-Infrastruktur (Technische Optimierung der GPU-Auslastung).): 'DSpark: Deepseek verbessert mit Token-Raten die GPU-Auslastung'
-- Weiterhin entfernt (Cache, Grund: Duplikat (Behandelt dasselbe Ereignis wie Artikel ID 14).): 'KI-Integration als Dienstleistung: Microsoft entsendet 6.000 KI-Berater'
-- Weiterhin entfernt (Cache, Grund: Apple Thema (iOS/iPhone-Spezifische Funktion Car Key).): 'Apple Car Key im VW: Software bestätigt, Apple bereitet vor'
-- Weiterhin entfernt (Cache, Grund: Code-Theorie und Deep OS-Internals (Sicherheitslücke in Embedded-Dateisystem-Treiber).): 'Angriff per USB-Stick: KI findet gefährliche Lücke in populärem FatFs-Treiber'
-- Weiterhin entfernt (Cache, Grund: Duplikat (Behandelt dasselbe Ereignis wie Artikel ID 27).): 'NASA-Weltraumteleskop Swift: Rettungsmission nach Rekordvorbereitung gestartet'
-- Weiterhin entfernt (Cache, Grund: Apple Thema (iPhone).): 'iPhone Ultra: Apple erhöht offenbar Foldable-Bestellungen'
-- Gelöscht (Grund: Der Artikel befasst sich mit Themen aus den Bereichen Code-Theorie, Web-Infrastruktur und Entwickler-Tools (z. B. Kotlin, Spring AI, CMake, VS Code, W3C), die laut Ausschlusskriterien nicht zulässig sind.): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
+- Weiterhin entfernt (Cache, Grund: Der Artikel befasst sich mit Themen aus den Bereichen Code-Theorie, Web-Infrastruktur und Entwickler): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
+- Gelöscht (Grund: Fällt unter das Negativ-Thema Rasenmäher.): 'Akku-Rasenmäher Stihl RMA 235.1 im Test: kompakt, wendig und gut'
+- Gelöscht (Grund: Fällt unter die Negativ-Themen iPhone sowie belangloses Apple-Rauschen (Spekulationen).): 'iPhones, Uhren, iPads, Macs: Apple soll 16 neue Geräte für 2026 planen'
 
 Finale Liste (live im XML-Feed):
+- [Digitec] 10 Jahre «Pokémon Go»: Der Sommer, in dem wir alle draussen waren
+- [Heise] Top 10: Das beste günstige Smartphone bis 300 Euro
+- [Heise] Projekt Medusa: Dutzende Festnahmen wegen sexueller Übergriffe nach Sedierung
+- [Heise] Nach Diebstahlsvorwürfen: Alibaba bannt Claude-KI
+- [Heise] Digitale Schiene: Bund zieht positive Bilanz bei neuen Stellwerken
+- [Heise] Instagram-Werbung mit Bildern von Kindesmissbrauch
+- [Golem] U.S. Navy: Kampfflugzeuge-Reparatur aus dem Drucker
+- [Golem] Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen
+- [Golem] Video Game History Foundation: Disc-Aus hat kaum Auswirkungen auf Spielearchivare
+- [Heise] IFG: Ehemalige Bundesbeauftragte halten Koalitionsbeschlüsse für „verheerend“
 - [Heise] Warum die geplante IFG-Reform ein massiver Einschnitt in die Pressefreiheit wäre
 - [Golem] Ausbau von Rechenkapazität: Amazons Emissionen 2025 um 16 Prozent gestiegen
 - [Golem] Sony Digital Audio Disc Corporation: Sony baut Disc-Werk in Österreich bereits um
@@ -52,37 +42,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] 30 Fakten zu 30 Jahren „Independence Day“
 - [Heise] Wald, Wasser, Weitblick: Die Bilder der Woche 27
 - [Golem] 250 Jahre USA: Was die amerikanischen Gründerväter mit dem Silicon Valley zu tun haben
-- [Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche
-- [Heise] Wasserzerstäuber für Terrasse und Garten im Praxistest
-- [Heise] UN-Bericht zu KI-Risiken: „Die Welt kann nicht regieren, was sie nicht versteht“
-- [Golem] China GaN-Konkurrent: Infineon setzt Verbot von Innoscience in Deutschland durch
-- [Heise] Brandenburg prüft Stromzone mit Polen für günstigere Preise
-- [Golem] Persistent: Deutscher Software-Dienstleister Nagarro vor Übernahme aus Indien
-- [Digitec] Game Over für die Disc: Sonys Digital-Zwang betrifft uns alle
-- [Heise] Chatkontrolle: EU-Rat trickst Parlament vor Pause aus
-- [Heise] SAP will mit Sparmaßnahmen KI-Ausbau finanzieren
-- [Golem] Raumfahrt: China arbeitet an Weltraumkatapult auf dem Dach der Welt
-- [Heise] Microsofts neue KI-Einheit soll 6.000 Experten direkt bei Kunden einbetten
-- [Golem] Mangelnde Governance bei KI-Nutzung: Schatten-KI bedroht Sicherheit in Unternehmen
-- [Golem] Äußeres Sonnensystem: Uranus und Neptun könnten Magmaozeane besitzen
-- [Golem] Blinder Gamer: Der Sound verrät ihm, wo sich sein Gegner befindet
-- [Heise] Kompressor-Kühlbox Mobicool MCF32 im Test: Kühlt stationär und mobil bis -10 °C
-- [Golem] Untersuchung zu Beschäftigungseffekten: KI-Investitionen korrelieren mit Personalwachstum
-- [Golem] Archiv: Game over für die weltweit größte Computerspielesammlung
-- [Heise] Cloud wird zur Achillesferse der deutschen Wirtschaft
-- [Heise] KI-Update: Deutschland-App, OpenAI bietet Beteiligung, KI als Chef, Git-KI-Tool
-- [Heise] Bericht: Meta will überschüssige Kapazität aus KI-Rechenzentren vermieten
-- [Digitec] Cyborg-Kakerlaken im Tauchanzug: Insekten sollen Leben retten
-- [Heise] IT-Ausfall bei der Justiz – Was war da los?
-- [Golem] Raumfahrt: Nasa startet Rettung des Swift-Satelliten
-- [Heise] Kommentar zur Fußball-WM: Keine Fernseh-Millionen für Krümelfußball
-- [Heise] Nach fast 30 Jahren: „Worms“-Schöpfer kündigt Erweiterung für Amiga-Klassiker an
-- [Heise] Microsoft stellt offenbar Surface Laptop Go und Surface Go ein
-- [Golem] Creative Assembly: Alien Isolation 2 ist schon in der Pre-Alpha echter Horror
-- [Heise] Sony macht Schluss: PlayStation Store auf PS3 und PS Vita schließt bis Juli 2027
-- [Golem] Randstad: Deutlich höhere Gehälter für Beschäftigte mit KI-Skills
-- [Heise] Neuzulassungen im Juni: E-Autos boomen, Verbrenner verlieren weiter
-- [Heise] Test von KI im Auto: Gemini soll Umgebung und Verkehrsschilder erklären
-- [Golem] Elektromobilität: Eon und Tank & Rast sollen E-Lkw-Ladenetz aufbauen
-- [Golem] Fußball: BVB startet Bolzplatz-Liebe in Fortnite
-- [Heise] Post zum Freitag: KI-Überwachung in der Straßenbahn
