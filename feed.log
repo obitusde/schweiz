@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 4.7.2026, 12:58:38
-Letzter Lauf: 4.7.2026, 06:30:36
+Start: 5.7.2026, 06:30:36
+Letzter Lauf: 4.7.2026, 12:58:38
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,53 +17,36 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 16 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb des Kantons Waadt (Luzern).): 'Eich LU – Jubla Horw sagt nach Tod von 19-Jähriger Sommerlager ab'
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Kriminalitätsfall außerhalb von Waadt (Solothurn).): 'Tierschutzfall Ramiswil – Warum die Herdenschutzhunde schwer vermittelbar gewesen wären'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 8 und Blaulicht-Meldung außerhalb von Waadt (Solothurn).): 'Untersuchung veröffentlicht – Tierschutzfall Ramiswil SO: Einschläfern aller Hunde war unnötig'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 2 (Präferenz für SRF-Artikel/Inhalt).): 'Nato-Gipfel in Ankara – Die Türkei – ein mühsamer Bündnispartner, aber unverzichtbar'
-- Weiterhin entfernt (Cache, Grund: Kriminalität/Unfallmeldung außerhalb von Waadt (Genf).): 'Le chauffard qui avait tué un cycliste à Perly condamné'
-- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Kanton Wallis).): 'Grossfahndung im Wallis – Einbruch in Sittener Waffengeschäft: Mutmassliche Täter gefasst'
-- Gelöscht (Grund: Unfall außerhalb der Waadt (Kanton Jura).): 'Une voiture se retourne avec six personnes à bord'
-- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Kanton Wallis).): 'Armurerie cambriolée à Sion: sept personnes interpellées'
+KI-Filter (Gemini) - 17 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Unfall außerhalb der Waadt (Kanton Jura).): 'Une voiture se retourne avec six personnes à bord'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Kanton Wallis).): 'Armurerie cambriolée: 7 Français âgés de 16 à 31 ans interpellés'
+- Gelöscht (Grund: Brandmeldung in Monthey (Kanton Wallis) liegt außerhalb des Kantons Waadt.): 'Feu suivi d’explosions: la population appelée à la prudence'
+- Gelöscht (Grund: Duplikat zu Artikel 0 (Thema 250 Jahre USA); Artikel 0 bevorzugt.): '250 Jahre Vereinigte Staaten – Historiker: «Die Gründerväter wären besorgt»'
+- Gelöscht (Grund: Kriminalitätsmeldung in Sitten (Kanton Wallis) liegt außerhalb des Kantons Waadt.): 'Grossfahndung im Wallis – Einbruch in Sittener Waffengeschäft: Mutmassliche Täter gefasst'
 
 Finale Liste (live im XML-Feed):
+- [SRF Ausland] 250 Jahre USA – Paraden und Feiern im ganzen Land
+- [Journal de Morges] Nein, die Gewalt in Morges nimmt nicht zu
+- [SRF Wirtschaft] Nachrichtenagenturen – AP, Reuters, SDA: Diese Nachrichtenagenturen informieren die Welt
+- [SRF Ausland] Erfurt DE – Trotz Protesten und Blockaden: AfD hält den Parteitag ab
+- [SRF Schweiz] Gesunder Fisch – Beliebte Sardinen: Steigende Nachfrage mit Folgen für Ökosystem
+- [Journal de Morges] Live | Feuerwehr wegen brennender Felder im Einsatz
+- [Journal de Morges] Zwei Jahrhunderte zwischen Vergangenheit und Gegenwart
+- [SRF Ausland] Türkisches Verkehrsprojekt – Von Europa bis zum Persischen Golf mit der Eisenbahn?
+- [20 Min Romandie] Gedenken an Nzoy: Die Stadt erzwingt einen «zu dezentralen» Ort
+- [SRF Schweiz] Schaukelstuhl bis Fernsehtisch – So hat die Schweiz im letzten Jahrhundert gewohnt
+- [SRF Ausland] Auf den Spuren von Franziskus – Papst Leo besucht Lampedusa und setzt ein Zeichen
+- [SRF Ausland] Matcha «Made in Germany» – Deutscher Grüntee gegen den Matcha-Engpass
+- [RTS Vaud] Wenig wertgeschätzt: Waadtländer Tagesmütter geben den Beruf auf
+- [SRF Wissen] Künstliche Intelligenz – Wie vertrauenswürdig sind KI-Empfehlungen beim Einkauf?
 - [SRF Schweiz] Die etwas anderen News – Serena Williams spritzt sich zurück ins Spitzentennis
 - [SRF Schweiz] Hybride Bedrohungen – Markus Mäder: «Die anderen akzeptieren unsere Neutralität»
 - [RTS Vaud] Die Hälfte der in Frankreich mit Weideverbot belegten Rinder hat einen Plan B für den Sommer gefunden
 - [SRF Schweiz] Nach Bergsturz von Blatten – Aufatmen im hinteren Lötschental: Der ÖV ist zurück
 - [SRF Wissen] Gefahr unter dem Dach – Warum junge Mauersegler bei grosser Hitze aus dem Nest springen
-- [SRF Ausland] Erfurt DE – Trotz Protesten und Blockaden: AfD hält den Parteitag ab
 - [SRF Schweiz] Schweizer Gewässer und Hitze – So warm sind die Schweizer Seen aktuell
 - [SRF Schweiz] Einsiedler Schwingertalent – Im Sägemehl ist Martin Schönbächler der Publikumsliebling
 - [20 Min Romandie] Um seinen Führerschein zu retten, greift Bernard Nicod das Radar an
 - [SRF Schweiz] Im Schiesskeller – Ausflug in eine missverstandene Welt
 - [SRF Ausland] 250 Jahre USA – «America 250»: Der Streit um die Deutung der US-Geschichte
 - [SRF Wirtschaft] Arbeitsmarkt Schweiz – 300'000 neue Stellen – Jobwunder nach Corona verblasst langsam
-- [SRF Schweiz] Nach über 150 Jahren – Basler Traditionshaus Schiesser vor dem Aus
-- [20 Min Romandie] «Sie stiegen unter Buhrufen und Schreien den Mittelgang hinauf»
-- [SRF Ausland] Nato-Gipfel in Ankara – «Nervosität und Unruhe liegen in der Luft»
-- [SRF Schweiz] Kantonales Schwingfest Bern – Neuer Wankdorf-Rasen: Premiere mit Sägemehl statt Fussball
-- [SRF Ausland] 250 Jahre USA – Eine Ausstellung in Washington zwischen Geschichte und Politik
-- [SRF Wirtschaft] Shopping rund um die Uhr – 24-Stunden-Läden: Migros-Konkurrenz machte schlechte Erfahrungen
-- [SRF Ausland] Missbrauchsnetzwerke – Kriminelle Online-Gruppen: Machen Personen aus der Schweiz mit?
-- [Journal de Morges] Sport und Solidarität bei der Trophée Ago
-- [SRF Schweiz] Studie zeigt Lücken auf – Stillen in der Schweiz: Warum Mütter und Babys zu kurz kommen
-- [SRF Ausland] Rahmenabkommen Iran-USA – Exil-Iranerin: «Es ist ein Schlag ins Gesicht für alle Iraner»
-- [SRF Schweiz] Wahlen 2027 – Nuria Gorrite verlässt Waadtländer Regierung nach 15 Jahren
-- [SRF Schweiz] Weder Freund noch Helferin – 5000 Opfer in der Westschweiz – falsche Polizisten im Fokus
-- [20 Min Romandie] Wegen eines halben Punktes gescheitert: Grenzfälle an der Schule werfen Fragen auf
-- [SRF Schweiz] Wollte zuerst Goalie werden – Manzambis Traumreise: Die Stationen des neuen Nati-Stars
-- [20 Min Romandie] Baustellen: Hilfe für Geschäftsleute in der Rue de Carouge verlängert
-- [Journal de Morges] Zwischen 800-Jahr-Feier und Abbaye: Festlichkeiten auf dem Höhepunkt in Préverenges
-- [SRF Schweiz] Bundesrat im WM-Fieber – Guy Parmelin sorgt mit roter Kappe für Aufsehen
-- [Journal de Morges] Das Bezirksfest von Saint-Livres macht einen Ausflug in die Steinzeit
-- [20 Min Romandie] Terrassen für das Achtelfinale der Nati bis 2 Uhr geöffnet
-- [SRF Wissen] Das Ende des Hypes? – Tokenomics statt Tokenmaxxing: KI kostet immer mehr
-- [20 Min Romandie] Eine Person stirbt bei Hausbrand in Aigle
-- [SRF Gesellschaft] Kulturquiz – Welche Challenge schaffte Prinzessin Kate? Testen Sie Ihr Wissen!
-- [20 Min Romandie] Cannabis-Megadeal: Mutmaßlicher Drahtzieher bestreitet Entführungen
-- [SRF Ausland] Explosion mit drei Verletzten – Nach Bombenanschlag in Monaco: Spur führt nach Deutschland
-- [SRF Ausland] Erdbeben in Venezuela – Wie lange kann ein Mensch unter Trümmern überleben?
-- [Morges Actualitiés] SPARK bestätigt seinen Erfolg
-- [Journal de Morges] Eluards Gedichte bringen ihm den Preis für die beste Dissertation ein
