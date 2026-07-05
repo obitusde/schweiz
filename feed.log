@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 5.7.2026, 06:30:36
-Letzter Lauf: 4.7.2026, 12:58:38
+Start: 5.7.2026, 12:58:40
+Letzter Lauf: 5.7.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,16 +17,31 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 17 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfall außerhalb der Waadt (Kanton Jura).): 'Une voiture se retourne avec six personnes à bord'
-- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Kanton Wallis).): 'Armurerie cambriolée: 7 Français âgés de 16 à 31 ans interpellés'
-- Gelöscht (Grund: Brandmeldung in Monthey (Kanton Wallis) liegt außerhalb des Kantons Waadt.): 'Feu suivi d’explosions: la population appelée à la prudence'
-- Gelöscht (Grund: Duplikat zu Artikel 0 (Thema 250 Jahre USA); Artikel 0 bevorzugt.): '250 Jahre Vereinigte Staaten – Historiker: «Die Gründerväter wären besorgt»'
-- Gelöscht (Grund: Kriminalitätsmeldung in Sitten (Kanton Wallis) liegt außerhalb des Kantons Waadt.): 'Grossfahndung im Wallis – Einbruch in Sittener Waffengeschäft: Mutmassliche Täter gefasst'
+KI-Filter (Gemini) - 18 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Brandmeldung in Monthey (Kanton Wallis) liegt außerhalb des Kantons Waadt.): 'Feu suivi d’explosions: la population appelée à la prudence'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 0 (Thema 250 Jahre USA); Artikel 0 bevorzugt.): '250 Jahre Vereinigte Staaten – Historiker: «Die Gründerväter wären besorgt»'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung in Sitten (Kanton Wallis) liegt außerhalb des Kantons Waadt.): 'Grossfahndung im Wallis – Einbruch in Sittener Waffengeschäft: Mutmassliche Täter gefasst'
+- Gelöscht (Grund: Unfallmeldung in der Schweiz außerhalb von Waadt (Kanton Freiburg).): 'Un jeune homme de 22 ans chute d’une tour sur l’Île d’Ogoz'
+- Gelöscht (Grund: Brandmeldung in der Schweiz außerhalb von Waadt (Kanton Wallis).): 'Incendie à Monthey: plus de 80 secouristes mobilisés'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] 250 Jahre USA – Paraden und Feiern im ganzen Land
+- [Journal de Morges] Start-up aus Aubonne als Plattform für Pflegekräfte
+- [SRF Ausland] Antiquariat in Johannesburg – Der Mann zwischen zwei Millionen Büchern
+- [SRF Wissen] Klimawandel und Hitze – Klimaforscher: «Manchmal frage ich mich, was ich hier mache»
+- [SRF Schweiz] Historischer Hotelumbau – Wenn aus einer Idee ein eigenes Hotel wird
+- [SRF Gesellschaft] 80 Jahre Bikini – Von Brigitte Bardot bis Ikkimel: Ein Zweiteiler mit Sprengkraft
+- [SRF Ausland] Mutmassliche Brandstiftung – Gasexplosion in Wien – 93-Jähriger festgenommen
+- [SRF Wirtschaft] Kernkraft in Österreich – Was ein nie genutztes AKW über Österreichs Energiepolitik aussagt
+- [SRF Schweiz] Wahlen Stadtpräsidium – Wer wird Thuns erste Stadtpräsidentin?
+- [SRF Schweiz] Knatsch in Lungern OW – Hickhack um Fischerparadies am Lungernsee
+- [Journal de Morges] In Morges: Ein schwieriges Puzzle bei der ausserschulischen Betreuung
+- [SRF Gesellschaft] 100 Jahre Kübler-Ross – Die Sterbeforscherin, die selbst nicht sterben wollte
+- [SRF Wissen] Laufstudie zu Geschlechtern – Warum Männer beim Marathon häufiger an Tempo verlieren als Frauen
+- [SRF Wirtschaft] Israels Wirtschaft boomt – «Run auf israelische Waffensysteme ist extrem gross»
+- [SRF Schweiz] Armee äussert Spionageverdacht – Hier flogen die mysteriösen Drohnen über Militäranlagen
+- [SRF Ausland] 250 Jahre USA – Paraden und Feiern im ganzen Land – Trump-Rede als Schlusspunkt
 - [Journal de Morges] Nein, die Gewalt in Morges nimmt nicht zu
+- [SRF Gesellschaft] Sammelband «Die Damentoilette» – Kleine Pause vom Patriarchat? So politisch ist das Frauen-WC
 - [SRF Wirtschaft] Nachrichtenagenturen – AP, Reuters, SDA: Diese Nachrichtenagenturen informieren die Welt
 - [SRF Ausland] Erfurt DE – Trotz Protesten und Blockaden: AfD hält den Parteitag ab
 - [SRF Schweiz] Gesunder Fisch – Beliebte Sardinen: Steigende Nachfrage mit Folgen für Ökosystem
@@ -39,14 +54,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Matcha «Made in Germany» – Deutscher Grüntee gegen den Matcha-Engpass
 - [RTS Vaud] Wenig wertgeschätzt: Waadtländer Tagesmütter geben den Beruf auf
 - [SRF Wissen] Künstliche Intelligenz – Wie vertrauenswürdig sind KI-Empfehlungen beim Einkauf?
-- [SRF Schweiz] Die etwas anderen News – Serena Williams spritzt sich zurück ins Spitzentennis
-- [SRF Schweiz] Hybride Bedrohungen – Markus Mäder: «Die anderen akzeptieren unsere Neutralität»
-- [RTS Vaud] Die Hälfte der in Frankreich mit Weideverbot belegten Rinder hat einen Plan B für den Sommer gefunden
-- [SRF Schweiz] Nach Bergsturz von Blatten – Aufatmen im hinteren Lötschental: Der ÖV ist zurück
-- [SRF Wissen] Gefahr unter dem Dach – Warum junge Mauersegler bei grosser Hitze aus dem Nest springen
-- [SRF Schweiz] Schweizer Gewässer und Hitze – So warm sind die Schweizer Seen aktuell
-- [SRF Schweiz] Einsiedler Schwingertalent – Im Sägemehl ist Martin Schönbächler der Publikumsliebling
-- [20 Min Romandie] Um seinen Führerschein zu retten, greift Bernard Nicod das Radar an
-- [SRF Schweiz] Im Schiesskeller – Ausflug in eine missverstandene Welt
-- [SRF Ausland] 250 Jahre USA – «America 250»: Der Streit um die Deutung der US-Geschichte
-- [SRF Wirtschaft] Arbeitsmarkt Schweiz – 300'000 neue Stellen – Jobwunder nach Corona verblasst langsam
