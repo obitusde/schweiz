@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 5.7.2026, 06:10:25
-Letzter Lauf: 4.7.2026, 12:28:17
+Start: 5.7.2026, 12:28:18
+Letzter Lauf: 5.7.2026, 06:10:25
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,17 +10,26 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Haustierfotos wie vom Profi – ganz ohne Garten: c't Fotografie 4/2026'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Steam Machine vorgestellt - sind Golem-PCs die bessere Wahl?'
-- Gelöscht wegen Keyword '(g+)': '(g+) Software ohne feste Codebasis: Wie Software künftig dynamisch entsteht'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 4K-Mini-Überwachungskamera mit Wi-Fi und Akku zum Tiefstpreis'
+- Gelöscht wegen Keyword '(g+)': '(g+) Datenbanken: Mit Atlas komplexe Datenbankprojekte migrieren'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Administration, Infrastruktur und Entwicklung'
 
-KI-Filter (Gemini) - 12 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Der Artikel befasst sich mit Themen aus den Bereichen Code-Theorie, Web-Infrastruktur und Entwickler): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
-- Gelöscht (Grund: Fällt unter das Negativ-Thema Rasenmäher.): 'Akku-Rasenmäher Stihl RMA 235.1 im Test: kompakt, wendig und gut'
-- Gelöscht (Grund: Fällt unter die Negativ-Themen iPhone sowie belangloses Apple-Rauschen (Spekulationen).): 'iPhones, Uhren, iPads, Macs: Apple soll 16 neue Geräte für 2026 planen'
+KI-Filter (Gemini) - 9 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Fällt unter das Negativ-Thema Rasenmäher.): 'Akku-Rasenmäher Stihl RMA 235.1 im Test: kompakt, wendig und gut'
+- Weiterhin entfernt (Cache, Grund: Fällt unter die Negativ-Themen iPhone sowie belangloses Apple-Rauschen (Spekulationen).): 'iPhones, Uhren, iPads, Macs: Apple soll 16 neue Geräte für 2026 planen'
+- Gelöscht (Grund: Der Artikel behandelt mit dem iPhone und dem iPad (iOS) explizit genannte Negativ-Themen.): 'Command and Conquer: Fan portiert C&C Generals nativ auf Mac, iPad und iPhone'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Schulen in Rheinland-Pfalz: Strenge Regeln für Handys in Planung
+- [Golem] Produkte eingestellt: Es wird kein günstiges Microsoft Surface Go mehr geben
+- [Heise] PV-Direktvermarktung: Wie kleine Dachanlagen ohne Verluste in den Markt wechseln
+- [Golem] Alternative zu Notepad: Winziger Texteditor für Windows benötigt etwa 2,5 Kilobyte
+- [Heise] Video: Das passiert mit Social-Media-Accounts nach dem Tod
+- [Heise] Frequenzen: Das große Habenwollen
+- [Heise] Missing Link: Wie die Japaner einen Bahnhof im laufenden Betrieb umbauen
+- [Golem] 35 Jahre Space Quest 4: Urkomisches Weltraumabenteuer mit dauersterbendem Helden
 - [Digitec] 10 Jahre «Pokémon Go»: Der Sommer, in dem wir alle draussen waren
 - [Heise] Top 10: Das beste günstige Smartphone bis 300 Euro
 - [Heise] Projekt Medusa: Dutzende Festnahmen wegen sexueller Übergriffe nach Sedierung
@@ -31,14 +40,3 @@ Finale Liste (live im XML-Feed):
 - [Golem] Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen
 - [Golem] Video Game History Foundation: Disc-Aus hat kaum Auswirkungen auf Spielearchivare
 - [Heise] IFG: Ehemalige Bundesbeauftragte halten Koalitionsbeschlüsse für „verheerend“
-- [Heise] Warum die geplante IFG-Reform ein massiver Einschnitt in die Pressefreiheit wäre
-- [Golem] Ausbau von Rechenkapazität: Amazons Emissionen 2025 um 16 Prozent gestiegen
-- [Golem] Sony Digital Audio Disc Corporation: Sony baut Disc-Werk in Österreich bereits um
-- [Golem] Rechenschaftspflicht: US-Verbraucherschützer warnen vor Ende der X-Überwachung
-- [Heise] Sparpläne: Beschäftigte von Mercedes und VW demonstrieren
-- [Golem] Halbleiterfertigung: Imec gibt Ausblick auf Halbleitertechnik bis 2041
-- [Heise] Getty-Shutterstock-Fusion gescheitert – die Fotonews der Woche 27/2026
-- [Digitec] Logitech G512 X 98 im Test: Das Hybrid-Konzept überzeugt nicht zum Premiumpreis
-- [Heise] 30 Fakten zu 30 Jahren „Independence Day“
-- [Heise] Wald, Wasser, Weitblick: Die Bilder der Woche 27
-- [Golem] 250 Jahre USA: Was die amerikanischen Gründerväter mit dem Silicon Valley zu tun haben
