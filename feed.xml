@@ -5,25 +5,144 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Jul 2026 04:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Wirtschaft] Tourismus – Ferienland Schweiz: Rekorde dank Sommergästen</title>
-      <link>https://www.srf.ch/news/wirtschaft/tourismus-ferienland-schweiz-rekorde-dank-sommergaesten</link>
+      <title>[Morges Actualitiés] Eine neue Legislaturperiode beginnt</title>
+      <link>https://www.morges.ch/actualites/une-nouvelle-legislature-debute-213380</link>
+      <guid isPermaLink="false">https://www.morges.ch/actualites/une-nouvelle-legislature-debute-213380</guid>
+      <description />
+      <pubDate>Mon, 06 Jul 2026 10:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] KI Copilot hält zum Schulstart auch in Freiburg Einzug</title>
+      <link>https://www.20min.ch/fr/story/pour-les-co-l-ia-copilot-fera-aussi-sa-rentree-des-classes-a-fribourg-103597565</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/pour-les-co-l-ia-copilot-fera-aussi-sa-rentree-des-classes-a-fribourg-103597565</guid>
+      <description><![CDATA[Die Direktion für Bildung und kulturelle Angelegenheiten von Freiburg hat den Einsatz der US-KI Copilot in den Orientierungsschulen ab dem Schulanfang angekündigt.]]></description>
+      <pubDate>Mon, 06 Jul 2026 10:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Ein Winterfonds zur Verkürzung der Baustellen im Sommer</title>
+      <link>https://www.20min.ch/fr/story/neuchatel-un-fond-d-hiver-pour-raccourcir-les-chantiers-l-ete-103597531</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/neuchatel-un-fond-d-hiver-pour-raccourcir-les-chantiers-l-ete-103597531</guid>
+      <description><![CDATA[Fast 800 Freistellungsstunden wurden während der Hitzewelle auf den Baustellen gewährt. Ein für den Winter vorgesehenes Hilfssystem wurde erstmals im Sommer aktiviert.]]></description>
+      <pubDate>Mon, 06 Jul 2026 10:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Scharia in Indonesien – Drakonische Strafe für eine öffentliche Liebesbezeugung</title>
+      <link>https://www.srf.ch/news/international/scharia-in-indonesien-drakonische-strafe-fuer-eine-oeffentliche-liebesbezeugung</link>
+      <guid isPermaLink="false">urn:srf:article:019f35d0-74f8-65f5-cde1-98be781438ce</guid>
+      <description><![CDATA[Kuss auf Tiktok mit schmerzhaften Folgen: Ein unverheiratetes Paar wurde deswegen in Aceh mit Stockschlägen bestraft.]]></description>
+      <pubDate>Mon, 06 Jul 2026 10:15:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Wallis ruft die Bevölkerung auf, den Japankäfer aufzuspüren</title>
+      <link>https://www.20min.ch/fr/story/valais-le-valais-appelle-la-population-a-traquer-le-scarabee-japonais-103597560</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/valais-le-valais-appelle-la-population-a-traquer-le-scarabee-japonais-103597560</guid>
+      <description><![CDATA[Das Insekt verwüstet Kulturen. Anfang Juni wurden Exemplare bei Visp gefangen. Reisende aus Risikogebieten werden gebeten, ihr Gepäck zu kontrollieren.]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:46:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Raubüberfall bei Alain Prost in Nyon: fünf Verdächtige angeklagt</title>
+      <link>https://www.20min.ch/fr/story/paris-brigandage-chez-alain-prost-a-nyon-cinq-suspects-inculpes-103597578</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/paris-brigandage-chez-alain-prost-a-nyon-cinq-suspects-inculpes-103597578</guid>
+      <description><![CDATA[Die Verdächtigen des gewaltsamen Einbruchs im vergangenen Mai beim ehemaligen F1-Piloten wurden am 1. Juli im Grossraum Paris festgenommen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:45:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Freiwilligeneinsatz beim Caribana führt zu Verlust von Arbeitslosengeld</title>
+      <link>https://www.20min.ch/fr/story/eysins-vd-il-fait-benevole-a-caribana-et-perd-des-indemnites-chomage-103597533</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/eysins-vd-il-fait-benevole-a-caribana-et-perd-des-indemnites-chomage-103597533</guid>
+      <description><![CDATA[Der Aufbau eines Festivals gilt im Sinne der Arbeitslosenversicherung nicht als ehrenamtliche Tätigkeit. Ein Waadtländer musste dies am eigenen Leib erfahren.]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:38:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Brandherde in Europa – 10'000 Menschen fliehen vor Flammen in Südfrankreich</title>
+      <link>https://www.srf.ch/news/international/brandherde-in-europa-10-000-menschen-fliehen-vor-flammen-in-suedfrankreich</link>
+      <guid isPermaLink="false">urn:srf:article:019f31e1-9120-a27c-7a25-2f2a3a8093cd</guid>
+      <description><![CDATA[Die EU plant für diesen Sommer ihren bisher grössten Einsatz gegen Waldbrände. Ein Überblick der aktuellen Brände.]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:37:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Nächtliche Sperrung der A1 zwischen Payerne und Estavayer</title>
+      <link>https://www.20min.ch/fr/story/vaudfribourg-fermeture-nocturne-de-l-a1-entre-payerne-et-estavayer-103597574</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaudfribourg-fermeture-nocturne-de-l-a1-entre-payerne-et-estavayer-103597574</guid>
+      <description><![CDATA[Die Autobahn wird in der Nacht vom 8. auf den 9. Juli zwischen Payerne und Estavayer-le-Lac in beide Richtungen gesperrt. Umleitungen sind vorgesehen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:35:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Abschiedszeremonie – Trauerzug für Ajatollah Ali Chamenei zieht durch Teheran</title>
+      <link>https://www.srf.ch/news/international/nahost/abschiedszeremonie-trauerzug-fuer-ajatollah-ali-chamenei-zieht-durch-teheran</link>
+      <guid isPermaLink="false">urn:srf:article:019f3698-99a8-dfc2-117e-a224cdb21057</guid>
+      <description><![CDATA[In der iranischen Hauptstadt findet die mehrtägige Trauerfeier für den getöteten obersten Führer des Iran statt.]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Rohstoffabbau in Skandinavien – Energiewende kollidiert auch in Europa mit Indigenen-Rechten</title>
+      <link>https://www.srf.ch/news/wirtschaft/rohstoffabbau-in-skandinavien-energiewende-kollidiert-auch-in-europa-mit-indigenen-rechten</link>
+      <guid isPermaLink="false">urn:srf:article:019f17ac-22bf-a357-32fb-6ed11684689d</guid>
+      <description><![CDATA[Die EU möchte eigene Rohstoffe: Das führt zu einem Rohstoffboom in Skandinavien, verletzt aber wohl die Rechte der Sami.]]></description>
+      <pubDate>Mon, 06 Jul 2026 08:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Feuerwehr am Wochenende wegen brennender Felder im Einsatz</title>
+      <link>https://journaldemorges.ch/actualite/societe/les-pompiers-sur-la-breche-pour-un-champ-en-feu/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/les-pompiers-sur-la-breche-pour-un-champ-en-feu/</guid>
+      <description><![CDATA[Wenige Tage nach einem Brand in Yens wütete das Feuer am Samstag erneut in Denens und L’Isle/Cuarnens. Mehrere Hektar Land sind den Flammen zum Opfer gefallen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 08:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Erneute Schüsse erschüttern Drogenumschlagplatz nahe Genf</title>
+      <link>https://www.20min.ch/fr/story/france-voisine-de-nouveaux-tirs-secouent-un-point-de-deal-pres-de-geneve-103597500</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/france-voisine-de-nouveaux-tirs-secouent-un-point-de-deal-pres-de-geneve-103597500</guid>
+      <description><![CDATA[In Gaillard streiten zwei rivalisierende Banden um die Kontrolle über einen Drogenverkaufsort, der nur wenige hundert Meter von der Schweizer Grenze entfernt liegt.]]></description>
+      <pubDate>Mon, 06 Jul 2026 08:20:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Von der Mikrobe zur Pasta – Wie aus Luft Essen entsteht</title>
+      <link>https://www.srf.ch/news/international/von-der-mikrobe-zur-pasta-wie-aus-luft-essen-entsteht</link>
+      <guid isPermaLink="false">urn:srf:article:019f280b-6a39-6b72-d18d-3a4d7104e956</guid>
+      <description><![CDATA[Ein Protein aus Finnland soll Menschen mit minimen Ressourcen wertvolle Nährstoffe bringen. Doch der Markt ist umkämpft.]]></description>
+      <pubDate>Mon, 06 Jul 2026 08:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Schweizer Gewässer und Hitze – So warm sind die Schweizer Seen aktuell</title>
+      <link>https://www.srf.ch/news/schweiz/schweizer-gewaesser-und-hitze-so-warm-sind-die-schweizer-seen-aktuell</link>
+      <guid isPermaLink="false">urn:srf:article:019f2723-83ad-45c4-ae87-43050cac0b01</guid>
+      <description><![CDATA[Nach der Hitzewelle mit Rekordtemperaturen im Juni sind die Seetemperaturen sehr hoch. Die Übersicht.]]></description>
+      <pubDate>Mon, 06 Jul 2026 07:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Schlägereien an Schulen landen immer häufiger vor Gericht</title>
+      <link>https://www.20min.ch/fr/story/vaud-les-bagarres-a-l-ecole-finissent-de-plus-en-plus-devant-les-juges-103597479</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-les-bagarres-a-l-ecole-finissent-de-plus-en-plus-devant-les-juges-103597479</guid>
+      <description><![CDATA[Beleidigungen, Schläge oder Haareziehen: Konflikte zwischen Schülern führen im Kanton Waadt vermehrt zu Strafanzeigen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 07:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Rassismus nach Fussballspiel – Wenn es nicht gut läuft, häufen sich die Hasskommentare</title>
+      <link>https://www.srf.ch/news/schweiz/rassismus-nach-fussballspiel-wenn-es-nicht-gut-laeuft-haeufen-sich-die-hasskommentare</link>
+      <guid isPermaLink="false">urn:srf:article:019f348c-86a1-3eb6-b438-7183241e476a</guid>
+      <description><![CDATA[Diskriminierende Bemerkungen gegen Nati-Spieler nehmen zu. Der SFV schützt Betroffene und schliesst Kommentarspalten.]]></description>
+      <pubDate>Mon, 06 Jul 2026 06:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Rote Karte aufgehoben – WM-Achtelfinal: Wirbel um möglichen Trump-Anruf bei Infantino</title>
+      <link>https://www.srf.ch/news/international/rote-karte-aufgehoben-wm-achtelfinal-wirbel-um-moeglichen-trump-anruf-bei-infantino</link>
+      <guid isPermaLink="false">urn:srf:article:019f354e-37ef-6f2d-3642-cab0144638c9</guid>
+      <description><![CDATA[US-Spieler Balogun darf trotz Roter Karte spielen. Medien berichten, Trump habe sich bei der Fifa für ihn eingesetzt.]]></description>
+      <pubDate>Mon, 06 Jul 2026 05:28:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Flucht vor Hitze – Schweiz boomt als Sommerdestination</title>
+      <link>https://www.srf.ch/news/wirtschaft/flucht-vor-hitze-schweiz-boomt-als-sommerdestination</link>
       <guid isPermaLink="false">urn:srf:article:019f268c-afa2-ee9e-cde9-e38704539549</guid>
       <description><![CDATA[An Hitzetagen fliehen viele in die Berge. Der Sommertourismus könnte für mittelhohe Lagen zur Chance werden.]]></description>
       <pubDate>Mon, 06 Jul 2026 04:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Fall Balogun an der WM – Wirbel um Trump-Anruf bei Infantino</title>
-      <link>https://www.srf.ch/news/international/fall-balogun-an-der-wm-wirbel-um-trump-anruf-bei-infantino</link>
-      <guid isPermaLink="false">urn:srf:article:019f354e-37ef-6f2d-3642-cab0144638c9</guid>
-      <description><![CDATA[Balogun darf trotz Roter Karte spielen. Medien berichten, Trump habe sich bei der Fifa für ihn eingesetzt.]]></description>
-      <pubDate>Mon, 06 Jul 2026 03:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Steuerbefreiter Zustupf? – Neue Regel für Trinkgeld: Auch Banker könnten profitieren</title>
-      <link>https://www.srf.ch/news/schweiz/steuerbefreiter-zustupf-neue-regel-fuer-trinkgeld-auch-banker-koennten-profitieren</link>
+      <title>[SRF Schweiz] Steuerbefreiter Zustupf? – Rechtsprofessoren warnen: Auch Banker könnten Trinkgeld wollen</title>
+      <link>https://www.srf.ch/news/schweiz/steuerbefreiter-zustupf-rechtsprofessoren-warnen-auch-banker-koennten-trinkgeld-wollen</link>
       <guid isPermaLink="false">urn:srf:article:019f2a1f-3ad2-c654-5402-13972dfa84c6</guid>
       <description><![CDATA[Auf Trinkgeld muss nur Steuern bezahlt werden, wenn es ein wesentlicher Teil vom Lohn ist. Das könnte sich ändern.]]></description>
       <pubDate>Mon, 06 Jul 2026 03:43:27 GMT</pubDate>
@@ -62,13 +181,6 @@
       <guid isPermaLink="false">urn:srf:article:019f337c-7cfc-b177-6d89-7fce633a05c6</guid>
       <description><![CDATA[Die Billigfluglinie hat dem Werben des US-Investors nun doch nachgegeben.]]></description>
       <pubDate>Sun, 05 Jul 2026 18:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Hohe Waldbrandgefahr – Das sind die Brandherde in Europas Wäldern</title>
-      <link>https://www.srf.ch/news/international/hohe-waldbrandgefahr-das-sind-die-brandherde-in-europas-waeldern</link>
-      <guid isPermaLink="false">urn:srf:article:019f31e1-9120-a27c-7a25-2f2a3a8093cd</guid>
-      <description><![CDATA[Die EU plant für diesen Sommer ihren bisher grössten Einsatz gegen Waldbrände. Ein Überblick der aktuellen Brände.]]></description>
-      <pubDate>Sun, 05 Jul 2026 17:36:39 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Hitzestress im Wald – Sonnenbrand bei Bäumen – wann braucht es die Notfällung?</title>
@@ -139,97 +251,6 @@
       <guid isPermaLink="false">urn:srf:article:019f1c78-2e77-b1a7-7acf-7c861bfd4b9a</guid>
       <description><![CDATA[Auffallend viel häufiger als früher wird in diesem Sommer gefächert. Fächer sind Accessoires mit viel Aussage.]]></description>
       <pubDate>Sun, 05 Jul 2026 11:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Start-up aus Aubonne als Plattform für Pflegekräfte</title>
-      <link>https://journaldemorges.ch/actualite/societe/une-start-up-imaginee-a-aubonne-en-plateforme-des-soignants/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/une-start-up-imaginee-a-aubonne-en-plateforme-des-soignants/</guid>
-      <description><![CDATA[Unter dem Impuls ihres Gründers Josselin Meylan ist das Unternehmen Carewell eine Antwort auf den Personalmangel in Gesundheitseinrichtungen.]]></description>
-      <pubDate>Sun, 05 Jul 2026 10:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Antiquariat in Johannesburg – Der Mann zwischen zwei Millionen Büchern</title>
-      <link>https://www.srf.ch/news/international/antiquariat-in-johannesburg-der-mann-zwischen-zwei-millionen-buechern</link>
-      <guid isPermaLink="false">urn:srf:article:019ecc42-a792-6ff9-194d-5774874ff5f0</guid>
-      <description><![CDATA[Südafrikas grösste Stadt ist voller Gegensätze – und Überraschungen: Besuch im grössten Antiquariat der Südhalbkugel.]]></description>
-      <pubDate>Sun, 05 Jul 2026 10:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Klimawandel und Hitze – Klimaforscher: «Manchmal frage ich mich, was ich hier mache»</title>
-      <link>https://www.srf.ch/news/wirtschaft/klimawandel-und-hitze-klimaforscher-manchmal-frage-ich-mich-was-ich-hier-mache</link>
-      <guid isPermaLink="false">urn:srf:article:019f17c7-85d2-8930-eb15-b6106b35b5fe</guid>
-      <description><![CDATA[Trotz der Wetterextreme: ETH-Professor Reto Knutti rechnet kaum mit Umdenken in der Gesellschaft. Er fordert Lösungen.]]></description>
-      <pubDate>Sun, 05 Jul 2026 10:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Historischer Hotelumbau – Wenn aus einer Idee ein eigenes Hotel wird</title>
-      <link>https://www.srf.ch/news/schweiz/historischer-hotelumbau-wenn-aus-einer-idee-ein-eigenes-hotel-wird</link>
-      <guid isPermaLink="false">urn:srf:article:019e4f89-26b2-1ac1-2d82-d3e0708cf082</guid>
-      <description><![CDATA[Ein unerfahrenes Ehepaar kauft im Berner Oberland ein altes Hotel. Nun ist dort neues Leben eingekehrt.]]></description>
-      <pubDate>Sun, 05 Jul 2026 09:28:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] 80 Jahre Bikini – Von Brigitte Bardot bis Ikkimel: Ein Zweiteiler mit Sprengkraft</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/80-jahre-bikini-von-brigitte-bardot-bis-ikkimel-ein-zweiteiler-mit-sprengkraft</link>
-      <guid isPermaLink="false">urn:srf:article:019f21ea-fba9-db3d-e775-db30afe9f409</guid>
-      <description><![CDATA[Einst verboten, heute Alltagsmode: Der Bikini steht für die Befreiung der Frau – und konfrontiert sie mit neuen Zwängen.]]></description>
-      <pubDate>Sun, 05 Jul 2026 09:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Mutmassliche Brandstiftung – Gasexplosion in Wien – 93-Jähriger festgenommen</title>
-      <link>https://www.srf.ch/news/international/mutmassliche-brandstiftung-gasexplosion-in-wien-93-jaehriger-festgenommen</link>
-      <guid isPermaLink="false">urn:srf:article:019f316e-bd79-a7a4-80c8-d403d9ced32a</guid>
-      <description><![CDATA[Ein 93-jähriger Bewohner steht unter Verdacht, ein Einfamilienhaus absichtlich zerstört zu haben.]]></description>
-      <pubDate>Sun, 05 Jul 2026 08:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Kernkraft in Österreich – Was ein nie genutztes AKW über Österreichs Energiepolitik aussagt</title>
-      <link>https://www.srf.ch/news/wirtschaft/kernkraft-in-oesterreich-was-ein-nie-genutztes-akw-ueber-oesterreichs-energiepolitik-aussagt</link>
-      <guid isPermaLink="false">urn:srf:article:019f13d5-a759-3096-1b7d-b324d48b6b92</guid>
-      <description><![CDATA[Österreich hat sich 1978 gegen Atomkraft entschieden. Ein stillgelegtes AKW zeigt, wie das Land energiepolitisch tickt.]]></description>
-      <pubDate>Sun, 05 Jul 2026 08:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Knatsch in Lungern OW – Hickhack um Fischerparadies am Lungernsee</title>
-      <link>https://www.srf.ch/news/schweiz/knatsch-in-lungern-ow-hickhack-um-fischerparadies-am-lungernsee</link>
-      <guid isPermaLink="false">urn:srf:article:019f1c8c-872e-ef51-a3f6-12f0a9f4d49a</guid>
-      <description><![CDATA[Wo Hobbyfischer Forellen aus dem See ziehen, tolerieren die Behörden seit 15 Jahren rechtswidrige Bauten.]]></description>
-      <pubDate>Sun, 05 Jul 2026 07:30:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] 100 Jahre Kübler-Ross – Die Sterbeforscherin, die selbst nicht sterben wollte</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/100-jahre-kuebler-ross-die-sterbeforscherin-die-selbst-nicht-sterben-wollte</link>
-      <guid isPermaLink="false">urn:srf:article:019f1e23-ee8f-115f-2c46-a8d207f6d736</guid>
-      <description><![CDATA[Elisabeth Kübler-Ross gab Sterbenden eine Stimme – und stellte die Medizin infrage. Ein Porträt zum 100. Geburtstag.]]></description>
-      <pubDate>Sun, 05 Jul 2026 07:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Laufstudie zu Geschlechtern – Warum Männer beim Marathon häufiger an Tempo verlieren als Frauen</title>
-      <link>https://www.srf.ch/wissen/mensch/laufstudie-zu-geschlechtern-warum-maenner-beim-marathon-haeufiger-an-tempo-verlieren-als-frauen</link>
-      <guid isPermaLink="false">urn:srf:article:019f1d90-168a-0e2f-c357-d69171b195a1</guid>
-      <description><![CDATA[Männer erleben auf der Langdistanz häufiger einen Leistungseinbruch als Frauen. Das liegt oft an ihrem Startverhalten.]]></description>
-      <pubDate>Sun, 05 Jul 2026 06:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Israels Wirtschaft boomt – «Run auf israelische Waffensysteme ist extrem gross»</title>
-      <link>https://www.srf.ch/news/international/nahost/israels-wirtschaft-boomt-run-auf-israelische-waffensysteme-ist-extrem-gross</link>
-      <guid isPermaLink="false">urn:srf:article:019f2d0b-4e79-9677-4c4b-641a32b80596</guid>
-      <description><![CDATA[Die israelische Wirtschaft wächst deutlich – trotz Krieg. Nahostkenner Richard C. Schneider erklärt die Hintergründe.]]></description>
-      <pubDate>Sun, 05 Jul 2026 05:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Armee äussert Spionageverdacht – Hier flogen die mysteriösen Drohnen über Militäranlagen</title>
-      <link>https://www.srf.ch/news/schweiz/armee-aeussert-spionageverdacht-hier-flogen-die-mysterioesen-drohnen-ueber-militaeranlagen</link>
-      <guid isPermaLink="false">urn:srf:article:019f30bf-dd0b-0785-b560-3037c748b110</guid>
-      <description><![CDATA[Drohnen über Militärbasen: Betroffen sind die Kasernen Jassbach und Meiringen. Der Armeechef erstattet keine Anzeige.]]></description>
-      <pubDate>Sun, 05 Jul 2026 05:38:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] 250 Jahre USA – Paraden und Feiern im ganzen Land – Trump-Rede als Schlusspunkt</title>
-      <link>https://www.srf.ch/news/international/250-jahre-usa-paraden-und-feiern-im-ganzen-land-trump-rede-als-schlusspunkt</link>
-      <guid isPermaLink="false">urn:srf:article:019f2da8-55a1-43cd-e6d9-afc972b7f88e</guid>
-      <description><![CDATA[Die Vereinigten Staaten von Amerika haben Geburtstag gefeiert: Die Jubiläumsfeierlichkeiten waren zahlreich.]]></description>
-      <pubDate>Sun, 05 Jul 2026 05:00:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
