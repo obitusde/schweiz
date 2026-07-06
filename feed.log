@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 6.7.2026, 06:30:35
-Letzter Lauf: 5.7.2026, 12:58:40
+Start: 6.7.2026, 12:58:39
+Letzter Lauf: 6.7.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,21 +17,35 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Gelöscht wegen Keyword 'wolf': 'Umstrittenes Metall-Geschäft – Warum Kasachstan auf einen Wolfram-Deal mit den USA setzt'
 
-KI-Filter (Gemini) - 20 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfallmeldung in der Schweiz außerhalb von Waadt (Kanton Freiburg).): 'Un jeune homme de 22 ans chute d’une tour sur l’Île d’Ogoz'
-- Weiterhin entfernt (Cache, Grund: Brandmeldung in der Schweiz außerhalb von Waadt (Kanton Wallis).): 'Incendie à Monthey: plus de 80 secouristes mobilisés'
-- Gelöscht (Grund: Kriminalität in der Schweiz außerhalb von Waadt (Fall im Wallis).): 'Un éducateur aurait créé un faux «nude» d'une élève avec de l'IA'
+KI-Filter (Gemini) - 18 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalität in der Schweiz außerhalb von Waadt (Fall im Wallis).): 'Un éducateur aurait créé un faux «nude» d'une élève avec de l'IA'
 
 Finale Liste (live im XML-Feed):
-- [SRF Wirtschaft] Tourismus – Ferienland Schweiz: Rekorde dank Sommergästen
-- [SRF Ausland] Fall Balogun an der WM – Wirbel um Trump-Anruf bei Infantino
-- [SRF Schweiz] Steuerbefreiter Zustupf? – Neue Regel für Trinkgeld: Auch Banker könnten profitieren
+- [Morges Actualitiés] Eine neue Legislaturperiode beginnt
+- [20 Min Romandie] KI Copilot hält zum Schulstart auch in Freiburg Einzug
+- [20 Min Romandie] Ein Winterfonds zur Verkürzung der Baustellen im Sommer
+- [SRF Ausland] Scharia in Indonesien – Drakonische Strafe für eine öffentliche Liebesbezeugung
+- [20 Min Romandie] Wallis ruft die Bevölkerung auf, den Japankäfer aufzuspüren
+- [20 Min Romandie] Raubüberfall bei Alain Prost in Nyon: fünf Verdächtige angeklagt
+- [20 Min Romandie] Freiwilligeneinsatz beim Caribana führt zu Verlust von Arbeitslosengeld
+- [SRF Ausland] Brandherde in Europa – 10'000 Menschen fliehen vor Flammen in Südfrankreich
+- [20 Min Romandie] Nächtliche Sperrung der A1 zwischen Payerne und Estavayer
+- [SRF Ausland] Abschiedszeremonie – Trauerzug für Ajatollah Ali Chamenei zieht durch Teheran
+- [SRF Wirtschaft] Rohstoffabbau in Skandinavien – Energiewende kollidiert auch in Europa mit Indigenen-Rechten
+- [Journal de Morges] Feuerwehr am Wochenende wegen brennender Felder im Einsatz
+- [20 Min Romandie] Erneute Schüsse erschüttern Drogenumschlagplatz nahe Genf
+- [SRF Wissen] Von der Mikrobe zur Pasta – Wie aus Luft Essen entsteht
+- [SRF Schweiz] Schweizer Gewässer und Hitze – So warm sind die Schweizer Seen aktuell
+- [20 Min Romandie] Schlägereien an Schulen landen immer häufiger vor Gericht
+- [SRF Schweiz] Rassismus nach Fussballspiel – Wenn es nicht gut läuft, häufen sich die Hasskommentare
+- [SRF Ausland] Rote Karte aufgehoben – WM-Achtelfinal: Wirbel um möglichen Trump-Anruf bei Infantino
+- [SRF Wirtschaft] Flucht vor Hitze – Schweiz boomt als Sommerdestination
+- [SRF Schweiz] Steuerbefreiter Zustupf? – Rechtsprofessoren warnen: Auch Banker könnten Trinkgeld wollen
 - [SRF Ausland] Mögliches Kriegsverbrechen – Greift Israel im Libanon gezielt Rettungssanitäter an?
 - [SRF Wirtschaft] Einkaufstourismus – Neue deutsche App soll Grenzshopping erleichtern
 - [Journal de Morges] Au Bomelet: Fünfzig Jahre Leben am Teich
 - [SRF Schweiz] Folgen des Heimatverlusts – Angst, Wut und schlaflose Nächte – Mitholz kämpft mit Umsiedlung
 - [SRF Wirtschaft] Beim fünften Angebot – Easyjet schlägt bei Angebot von Castlelake ein
-- [SRF Ausland] Hohe Waldbrandgefahr – Das sind die Brandherde in Europas Wäldern
 - [SRF Schweiz] Hitzestress im Wald – Sonnenbrand bei Bäumen – wann braucht es die Notfällung?
 - [SRF Wissen] Langzeitstudie der Uni Basel – Der Grasfrosch gerät in den tiefen Lagen unter Druck
 - [SRF Wirtschaft] Margen im Regal – Mehrwert oder Aufpreis? Die Bio-Debatte
@@ -42,16 +56,3 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Pilot bei Notlandung leicht verletzt
 - [SRF Ausland] Resilienz in Krisenzeiten – Darum feiert Bargeld ein Comeback in Schweden
 - [SRF Schweiz] Neuer Modetrend – Wo Hitze ist, ist häufig auch ein Fächer
-- [Journal de Morges] Start-up aus Aubonne als Plattform für Pflegekräfte
-- [SRF Ausland] Antiquariat in Johannesburg – Der Mann zwischen zwei Millionen Büchern
-- [SRF Wissen] Klimawandel und Hitze – Klimaforscher: «Manchmal frage ich mich, was ich hier mache»
-- [SRF Schweiz] Historischer Hotelumbau – Wenn aus einer Idee ein eigenes Hotel wird
-- [SRF Gesellschaft] 80 Jahre Bikini – Von Brigitte Bardot bis Ikkimel: Ein Zweiteiler mit Sprengkraft
-- [SRF Ausland] Mutmassliche Brandstiftung – Gasexplosion in Wien – 93-Jähriger festgenommen
-- [SRF Wirtschaft] Kernkraft in Österreich – Was ein nie genutztes AKW über Österreichs Energiepolitik aussagt
-- [SRF Schweiz] Knatsch in Lungern OW – Hickhack um Fischerparadies am Lungernsee
-- [SRF Gesellschaft] 100 Jahre Kübler-Ross – Die Sterbeforscherin, die selbst nicht sterben wollte
-- [SRF Wissen] Laufstudie zu Geschlechtern – Warum Männer beim Marathon häufiger an Tempo verlieren als Frauen
-- [SRF Wirtschaft] Israels Wirtschaft boomt – «Run auf israelische Waffensysteme ist extrem gross»
-- [SRF Schweiz] Armee äussert Spionageverdacht – Hier flogen die mysteriösen Drohnen über Militäranlagen
-- [SRF Ausland] 250 Jahre USA – Paraden und Feiern im ganzen Land – Trump-Rede als Schlusspunkt
