@@ -5,70 +5,126 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Sun, 05 Jul 2026 04:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 04:59:30 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Wirtschaft] DGB-Index Gute Arbeit: 40 Prozent bezweifeln Durchhalten bis zur Rente</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/dgb-index-gute-arbeit-beschaeftigte-rentenalter-arbeitsbedingungen</link>
-      <guid isPermaLink="false">{urn:uuid:5106248d-357d-4265-9d30-c71eaf0a92c1}</guid>
-      <description><![CDATA[In belastenden Berufen rechnet nur jede Zweite damit, bis zum Renteneintritt zu arbeiten. DGB-Chefin Fahimi hält eine Auswertung des DGB-Index Gute Arbeit für bitter.]]></description>
-      <pubDate>Sun, 05 Jul 2026 04:11:47 GMT</pubDate>
+      <title>[Gesellschaft] Kinder orten: »Wer sein Kind trackt, wird unaufmerksam«</title>
+      <link>https://www.zeit.de/familie/2026-07/kinder-orten-handy-tracking-sicherheit-familienrat</link>
+      <guid isPermaLink="false">{urn:uuid:8e780775-484f-41ed-8d4c-5ab6d84e1f63}</guid>
+      <description><![CDATA[Eltern folgen per Smartphone ihren Kindern und hoffen auf mehr Sicherheit. Dabei laufen sie Gefahr, die Regulierung ihrer Gefühle an ihre Kinder auszulagern.]]></description>
+      <pubDate>Mon, 06 Jul 2026 03:40:16 GMT</pubDate>
     </item>
     <item>
-      <title>[Arbeit] Bibliothekar: »Als Beamter würde ich 1.000 Euro mehr verdienen«</title>
-      <link>https://www.zeit.de/arbeit/2026-06/bibliothekar-gehalt-verbeamtung-universitaetsverlag-kontoauszug</link>
-      <guid isPermaLink="false">{urn:uuid:c59300b9-1b09-40e1-8732-13667d3d98ac}</guid>
-      <description><![CDATA[Philip, 29, leitet einen Universitätsverlag und verdient 5.370 Euro brutto. Um nicht umziehen zu müssen, pendelt er drei Stunden täglich. Der Kontoauszug]]></description>
-      <pubDate>Sun, 05 Jul 2026 04:05:27 GMT</pubDate>
+      <title>[Wirtschaft] Sonntagsöffnung im Einzelhandel: Handelsverbände fordern Sonntagsöffnung für alle Geschäfte</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/sonntagsoeffnung-einzelhandel-verbote-hde-innenstaedte</link>
+      <guid isPermaLink="false">{urn:uuid:840b2f51-c251-4ea7-bdb2-b0a6a74c92ff}</guid>
+      <description><![CDATA[Bäcker und Konditoren können bald sonntags länger arbeiten. Der Einzelhandel wünscht sich dieses Recht für alle Läden. Das derzeitige Gesetz sei »von vorgestern«.]]></description>
+      <pubDate>Mon, 06 Jul 2026 01:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Fluggesellschaft: EasyJet stimmt Übernahmeangebot von US-Investor grundsätzlich zu</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/easyjet-castlelake-uebernahme-airline-peter-bellew</link>
+      <guid isPermaLink="false">{urn:uuid:c02d9b4b-6013-420e-929c-ab53dbb949a4}</guid>
+      <description><![CDATA[Lange wehrte sich easyJet gegen eine Übernahme, doch der US-Investor Castlelake besserte nach. Der Billigflieger wird nun mit gut sechs Milliarden Euro bewertet.]]></description>
+      <pubDate>Sun, 05 Jul 2026 23:35:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Waldbrände in Europa: Tour-de-France-Etappe muss wegen Waldbrand ohne Publikum stattfinden</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/waldbrand-pyrenees-orientales-tour-de-france-etappe</link>
+      <guid isPermaLink="false">{urn:uuid:e5313c47-ede2-407b-8a8d-44a9e42c7b4e}</guid>
+      <description><![CDATA[In Frankreich, Portugal und Griechenland brennen Wälder. Die dritte Etappe der Tour de France wird deswegen verändert und ohne Publikum stattfinden müssen.]]></description>
+      <pubDate>Sun, 05 Jul 2026 17:44:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digital] Rekrutierung von Gamern: Gamer, die echte Drohnen fliegen? Ja, bitte!</title>
+      <link>https://www.zeit.de/digital/2026-07/rekrutierung-gamer-ukraine-reflexe-konzentration-videospiele</link>
+      <guid isPermaLink="false">{urn:uuid:2d60a6a6-3008-4104-87d2-840f3017dd4b}</guid>
+      <description><![CDATA[Vier Jahre lang machte der ukrainische Gamer Apollon im Videospiel »DayZ« Jagd auf Russen. Nun bekommt der digitale Guerillakrieg eine Fortsetzung in der Realität.]]></description>
+      <pubDate>Sun, 05 Jul 2026 17:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Entdecken] Leben nach dem Gefängnis: »Hast du jetzt Angst vor mir?«</title>
+      <link>https://www.zeit.de/2026/29/leben-gefaengnis-haftentlassung-sozialtherapie-drogenkonsum</link>
+      <guid isPermaLink="false">{urn:uuid:8f2e729b-a78a-4768-8568-4d01cb6271f6}</guid>
+      <description><![CDATA[Jens war im Gefängnis, weil er versucht hat, seine Frau zu erstechen. Jetzt ist er wieder frei und will ein anderer Mann werden. Dafür muss er auch Frauen neu begegnen.]]></description>
+      <pubDate>Sun, 05 Jul 2026 16:41:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Betrug im Gesundheitssystem: Arzt erschleicht 1,6 Millionen von Krankenkassen</title>
+      <link>https://www.zeit.de/gesellschaft/2026-06/betrug-gesundheitssystem-kassenaerztlicher-bereitschaftsdienst-verbrechen-videopodcast</link>
+      <guid isPermaLink="false">{urn:uuid:8e48a911-26ba-465a-bd38-df8963920b2d}</guid>
+      <description><![CDATA[Tausende Hausbesuche und Hunderte Telefonberatungen, die nie stattgefunden haben: Ein Arzt rechnet massenhaft Leistungen ab – und erschleicht sich so über 1,6 Millionen.]]></description>
+      <pubDate>Sun, 05 Jul 2026 15:51:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Schweiz] Alpenhütte aus der Kindheit: Der Junge in Lederhosen kehrt zurück</title>
+      <link>https://www.zeit.de/2026/29/alpenhuette-kindheit-anna-schutzhaus-ederplan-osttirol-johanna-ortner</link>
+      <guid isPermaLink="false">{urn:uuid:94d57dff-6a08-4e81-977f-a96b33967240}</guid>
+      <description><![CDATA[Als Kind verbrachte unser Autor seine Ferien auf einer Berghütte. Die Mutter arbeitete, er fühlte sich frei wie nie. Nun schaut er, was von dieser Welt noch übrig ist.]]></description>
+      <pubDate>Sun, 05 Jul 2026 15:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Entdecken] Stürzen: Von Fall zu Fall</title>
+      <link>https://www.zeit.de/2026/29/stuerzen-verletzung-stolpern-gang</link>
+      <guid isPermaLink="false">{urn:uuid:58dc21cb-69d9-4be7-a456-4b52c9f56e19}</guid>
+      <description><![CDATA[Wie kompliziert Gehen ist, merkt man erst, wenn man hinfällt. Unsere Autorin fällt oft. Sehr oft. So oft, dass sie die Ursache für dieses seltsame Handicap sucht.]]></description>
+      <pubDate>Sun, 05 Jul 2026 14:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Opec+: Opec+ beschließt höhere Ölproduktion für August</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/opec-oelproduktion-foerderung-markt-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:8be64314-1437-4561-97a2-2e32a030b4ea}</guid>
+      <description><![CDATA[Die Opec+ erhöht ihre Ölproduktion im August erneut. Zugleich halten sich die Ölförderländer offen, die Produktion je nach Marktlage weiter anzupassen.]]></description>
+      <pubDate>Sun, 05 Jul 2026 14:21:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mobilität] Freilaufgeräusch: Müssen Rennräder so laut surren?</title>
+      <link>https://www.zeit.de/mobilitaet/2026-06/freilauf-geraeusch-rennrad-laerm</link>
+      <guid isPermaLink="false">{urn:uuid:121cbf2f-a373-41d2-ada3-e71684e5e1fc}</guid>
+      <description><![CDATA[Krrrrrrrr: Für manche Rennradfahrer kann der Freilauf nicht laut genug rattern. Andere sind längst genervt von der Angeberei, zeigt eine Deichrunde in Hamburg.]]></description>
+      <pubDate>Sun, 05 Jul 2026 13:30:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Bäckerei: Die Tochter backt politisch</title>
+      <link>https://www.zeit.de/zeit-wissen/2026/04/baeckerei-genossenschaft-unternehmen-recht</link>
+      <guid isPermaLink="false">{urn:uuid:1f3bc679-10e8-42bb-b364-c23de70a3803}</guid>
+      <description><![CDATA[Ihre Eltern hatten eine erfolgreiche Stadtbäckerei. Jana Klausberger wollte sie nicht übernehmen – und fand eine Lösung, die alle überrascht hat.]]></description>
+      <pubDate>Sun, 05 Jul 2026 11:58:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Geschwisterliebe: »Das hier wird vielleicht eine merkwürdige Nachricht«</title>
+      <link>https://www.zeit.de/familie/2026-07/geschwisterliebe-schwester-familie-freundschaft</link>
+      <guid isPermaLink="false">{urn:uuid:4b468757-aec7-42d3-9fce-505ced42d8cb}</guid>
+      <description><![CDATA[Zwei Mütter lässt er sitzen. Thalia und Giselle wachsen ohne Vater auf. Sie sind Halbschwestern, ganz nah, aber kennen sich nicht. Bis sich eine auf die Suche begibt.]]></description>
+      <pubDate>Sun, 05 Jul 2026 11:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Evangelische Kirche: Die trauen sich!</title>
+      <link>https://www.zeit.de/2026/29/evangelische-kirche-einfach-heiraten-trauung-ekd</link>
+      <guid isPermaLink="false">{urn:uuid:fef2d58b-dbde-4584-888a-1409b9090e2a}</guid>
+      <description><![CDATA[Tausende Paare ließen sich bei einem Experiment der evangelischen Kirche segnen – an ungewöhnlichen Orten, auch auf Bergen und an Badestegen. Warum das funktioniert hat.]]></description>
+      <pubDate>Sun, 05 Jul 2026 10:22:05 GMT</pubDate>
     </item>
     <item>
       <title>[Gesellschaft] Musikfestivals: Bereit für den Festivalsommer?</title>
       <link>https://www.zeit.de/gesellschaft/2026-07/musikfestivals-uk-usa-irland-englisch-podcast</link>
       <guid isPermaLink="false">{urn:uuid:da08563e-ff3e-40c6-b86e-48207acf5a1b}</guid>
       <description><![CDATA[Das Spotlight-Team ist bereit für die Freiluftsaison und nimmt Sie mit nach Wimbledon, zum Lollapalooza in Chicago, zum Bloomsday in Dublin und zum Hay Festival in Wales.]]></description>
-      <pubDate>Sun, 05 Jul 2026 04:00:09 GMT</pubDate>
+      <pubDate>Sun, 05 Jul 2026 09:59:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Erdbeben in Venezuela: Regierung in Venezuela meldet fast 3.000 Tote nach Erdbeben</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/erdbeben-venezuela-la-guaira-tote-nachbeben</link>
-      <guid isPermaLink="false">{urn:uuid:febb0e80-18af-4f1b-b01d-ea455cb89f80}</guid>
-      <description><![CDATA[Venezuelas Interimspräsidentin Delcy Rodríguez hat die offizielle Zahl der Toten nach den Beben erneut korrigiert. Der IWF will Gelder für den Wiederaufbau freigeben.]]></description>
-      <pubDate>Sun, 05 Jul 2026 01:06:56 GMT</pubDate>
+      <title>[Wirtschaft] Deutscher Aktienindex: Dax gibt's doch gar nicht</title>
+      <link>https://www.zeit.de/geld/2026-07/deutscher-aktienindex-dax-rekord-boerse</link>
+      <guid isPermaLink="false">{urn:uuid:835836e7-4cc7-4f58-a54e-f6abc68dd22d}</guid>
+      <description><![CDATA[Monatelang mühte sich der deutsche Aktienindex ab, nun steigt er auf einen neuen Rekord. Doch die Euphorie täuscht – gleich dreifach.]]></description>
+      <pubDate>Sun, 05 Jul 2026 08:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Waldbrand in Katalonien: Waldbrand nahe Costa Brava ist weitgehend unter Kontrolle</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/waldbrand-katalonien-costa-brava-feuerwehr</link>
-      <guid isPermaLink="false">{urn:uuid:535a2a74-209f-4dce-a12b-aa51da1133bd}</guid>
-      <description><![CDATA[Einsatzkräfte haben die Feuer in der Nähe der Costa Brava weitgehend eingedämmt. Das Feuer hat bisher 2.200 Hektar Vegetation zerstört. Auch in Portugal brennt es.]]></description>
-      <pubDate>Sat, 04 Jul 2026 21:50:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Sturm auf das Kapitol: »Verräter werden erschossen«, sagt der Vater. Zu seinem Sohn.</title>
-      <link>https://www.zeit.de/2026/28/sturm-kapitol-guy-jackson-reffitt-familie-rechtsextremismus-fbi</link>
-      <guid isPermaLink="false">{urn:uuid:4fa3a0a5-2dc0-4e91-ad20-4e6f6db23b74}</guid>
-      <description><![CDATA[Der rechtsextreme Vater stürmt das Kapitol. Der linksextreme Sohn bringt ihn ins Gefängnis. Nach der Freilassung versucht die Mutter das Unvorstellbare: beide versöhnen.]]></description>
-      <pubDate>Sat, 04 Jul 2026 18:40:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digital] Manipulierte KI-Suchergebnisse: Wie man international renommierter Experte wird, ohne Experte zu sein</title>
-      <link>https://www.zeit.de/digital/internet/2026-07/ki-suchergebnisse-manipulation-google-data-poisoning-reddit</link>
-      <guid isPermaLink="false">{urn:uuid:9253b938-b17a-4235-99bc-8771ac17155e}</guid>
-      <description><![CDATA[Nutzer platzieren in sozialen Medien werbliche Inhalte, weil die ach so schlaue KI die dann in ihre Antworten einbaut. Ganz schön clever. Aber wir können uns wehren!]]></description>
-      <pubDate>Sat, 04 Jul 2026 15:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Migration in Mittelmeer: Papst Leo gedenkt ertrunkener Flüchtlinge in Lampedusa</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/papst-leo-fluchtopfer-mittelmeer-lamepdusa-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:e1a7982a-e3e3-4025-92d8-79f164770689}</guid>
-      <description><![CDATA[Auf Lampedusa trifft Papst Leo XIV. Bootsflüchtlinge und gedenkt der Opfer der Flucht. Die Mittelmeerinsel hat einen Migrantenpier nach seinem Vorgänger benannt.]]></description>
-      <pubDate>Sat, 04 Jul 2026 09:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] Hüttenwandern: Kommen Sie gut rauf!</title>
-      <link>https://www.zeit.de/2026/29/huettenwandern-alpen-berghuette-ausruestung-unterkunft</link>
-      <guid isPermaLink="false">{urn:uuid:91edc570-66da-4839-bf1e-878a2a12c168}</guid>
-      <description><![CDATA[Trotzdem wollten Sie schon immer mal auf eine Hütte? Hier geben Bergexperten Tipps, um die Freude beim Wandern möglichst groß und die Qualen möglichst klein zu halten.]]></description>
-      <pubDate>Sat, 04 Jul 2026 07:03:47 GMT</pubDate>
+      <title>[Mobilität] Wallbox-Förderung: Das Grauen in meiner Tiefgarage</title>
+      <link>https://www.zeit.de/2026/29/wallbox-foerderung-elektromobilitaet-mehrfamilienhaus-eigentuemer</link>
+      <guid isPermaLink="false">{urn:uuid:2b1fc017-de7c-488b-84fc-5f2549071634}</guid>
+      <description><![CDATA[Eine Ladestation für E-Autos im Mehrfamilienhaus, seit Neuestem gefördert? Klingt toll. Mehrere Elektriker und einen Eigentümerstreit später weiß ich: Es ist die Hölle!]]></description>
+      <pubDate>Sun, 05 Jul 2026 06:42:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
