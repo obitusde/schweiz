@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 5.7.2026, 12:28:18
-Letzter Lauf: 5.7.2026, 06:10:25
+Start: 6.7.2026, 06:10:27
+Letzter Lauf: 5.7.2026, 12:28:18
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,18 +10,28 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | c’t-Story: Der emotional nicht unterstützte Staubsaugerbesitzer'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Haustierfotos wie vom Profi – ganz ohne Garten: c't Fotografie 4/2026'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 4K-Mini-Überwachungskamera mit Wi-Fi und Akku zum Tiefstpreis'
 - Gelöscht wegen Keyword '(g+)': '(g+) Datenbanken: Mit Atlas komplexe Datenbankprojekte migrieren'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Administration, Infrastruktur und Entwicklung'
 
-KI-Filter (Gemini) - 9 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Fällt unter das Negativ-Thema Rasenmäher.): 'Akku-Rasenmäher Stihl RMA 235.1 im Test: kompakt, wendig und gut'
-- Weiterhin entfernt (Cache, Grund: Fällt unter die Negativ-Themen iPhone sowie belangloses Apple-Rauschen (Spekulationen).): 'iPhones, Uhren, iPads, Macs: Apple soll 16 neue Geräte für 2026 planen'
-- Gelöscht (Grund: Der Artikel behandelt mit dem iPhone und dem iPad (iOS) explizit genannte Negativ-Themen.): 'Command and Conquer: Fan portiert C&C Generals nativ auf Mac, iPad und iPhone'
+KI-Filter (Gemini) - 12 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Der Artikel behandelt mit dem iPhone und dem iPad (iOS) explizit genannte Negativ-Themen.): 'Command and Conquer: Fan portiert C&C Generals nativ auf Mac, iPad und iPhone'
+- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe aktuelle Ereignis (Spiele-Ranking von Digitec Galaxus) wie Artikel ID 2.): '«World of Warcraft» ist das beste Game aller Zeiten'
+- Gelöscht (Grund: Inhaltliches Ausschlusskriterium: Rasenmäher sind explizit von der Liste zu entfernen.): 'Mova 1000 im Test: LiDAR-Mähroboter für unter 700 Euro mit präzisem Schnitt'
+- Gelöscht (Grund: Inhaltliches Ausschlusskriterium: Behandelt Netzwerk-Infrastruktur (spezifische Mobilfunkstandards für den Bahnbetrieb).): 'FRMCS oder LTE-R: Wurde die GSM-R-Nachfolge verschlafen?'
 
 Finale Liste (live im XML-Feed):
+- [Heise] WhatsApp-Benutzernamen wecken Befürchtungen an möglichem Identitätsdiebstahl
+- [Digitec] Jury entscheidet: «World of Warcraft», «The Legend of Zelda» und «Minecraft» sind die besten Spiele aller Zeiten
+- [Heise] Top 10: Die beste elektrische Fliegenklatsche im Test – mit Akku oder Batterien
+- [Heise] Repräsentative Umfrage: Viele Eltern regeln Digitalkonsum von Kindern nicht
+- [Heise] Stargate UK: 20-Milliarden-Pfund-Investment war nicht mehr als ein PR-Stunt
+- [Heise] Für 8,2 Milliarden Euro: Micron baut japanische Chipfabrik aus
+- [Heise] Behörde kann der Post nicht auf die Finger gucken, weil Marktforscher klagen
+- [Heise] Sky-ECC-Zufallsfunde vor Gericht: Wann Krypto-Chats verwertbar sind
+- [Golem] Nvidia-CEO: Jensen Huangs signierte Lederjacke wird versteigert
 - [Heise] Schulen in Rheinland-Pfalz: Strenge Regeln für Handys in Planung
 - [Golem] Produkte eingestellt: Es wird kein günstiges Microsoft Surface Go mehr geben
 - [Heise] PV-Direktvermarktung: Wie kleine Dachanlagen ohne Verluste in den Markt wechseln
@@ -30,13 +40,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] Frequenzen: Das große Habenwollen
 - [Heise] Missing Link: Wie die Japaner einen Bahnhof im laufenden Betrieb umbauen
 - [Golem] 35 Jahre Space Quest 4: Urkomisches Weltraumabenteuer mit dauersterbendem Helden
-- [Digitec] 10 Jahre «Pokémon Go»: Der Sommer, in dem wir alle draussen waren
-- [Heise] Top 10: Das beste günstige Smartphone bis 300 Euro
-- [Heise] Projekt Medusa: Dutzende Festnahmen wegen sexueller Übergriffe nach Sedierung
-- [Heise] Nach Diebstahlsvorwürfen: Alibaba bannt Claude-KI
-- [Heise] Digitale Schiene: Bund zieht positive Bilanz bei neuen Stellwerken
-- [Heise] Instagram-Werbung mit Bildern von Kindesmissbrauch
-- [Golem] U.S. Navy: Kampfflugzeuge-Reparatur aus dem Drucker
-- [Golem] Kraftfahrt-Bundesamt: Auto-Neuzulassungen im Juni deutlich gestiegen
-- [Golem] Video Game History Foundation: Disc-Aus hat kaum Auswirkungen auf Spielearchivare
-- [Heise] IFG: Ehemalige Bundesbeauftragte halten Koalitionsbeschlüsse für „verheerend“
