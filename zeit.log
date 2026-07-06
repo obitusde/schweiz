@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 5.7.2026, 06:59:30
-Letzter Lauf: 4.7.2026, 06:59:31
+Start: 6.7.2026, 06:59:30
+Letzter Lauf: 5.7.2026, 06:59:30
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,17 +20,25 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 11 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Behandelt spezifische deutsche Bundespolitik und Reformpläne.): [Wirtschaft] 'Reformpaket: »Frauen drohen in die Schwarzarbeit abzurutschen«'
-- GelÃ¶scht (Grund: Thema Promis/Adel (Kaiserin Sisi) ohne übergeordnete gesellschaftliche Relevanz.): [Entdecken] '30 Jahre: Mit 30 Jahren'
+KI-Filter (Gemini) - 19 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Dieser Artikel fällt unter die Kategorie deutsche Kommunalpolitik und regionale Ereignisse.): [Gesellschaft] 'CSD in Köln: Rund 1,5 Millionen demonstrieren zum Christopher Street Day in Köln'
+- GelÃ¶scht (Grund: Dieser Artikel fällt unter die Kategorie deutsche Kommunalpolitik und lokale städtische Verwaltung.): [Wirtschaft] 'Jobcenter Bremen: Dieser Kreativraum im Jobcenter hat fast eine Million Euro gekostet'
 
 Finale Liste (live im XML-Feed):
-- [Wirtschaft] DGB-Index Gute Arbeit: 40 Prozent bezweifeln Durchhalten bis zur Rente
-- [Arbeit] Bibliothekar: »Als Beamter würde ich 1.000 Euro mehr verdienen«
+- [Gesellschaft] Kinder orten: »Wer sein Kind trackt, wird unaufmerksam«
+- [Wirtschaft] Sonntagsöffnung im Einzelhandel: Handelsverbände fordern Sonntagsöffnung für alle Geschäfte
+- [Wirtschaft] Fluggesellschaft: EasyJet stimmt Übernahmeangebot von US-Investor grundsätzlich zu
+- [Gesellschaft] Waldbrände in Europa: Tour-de-France-Etappe muss wegen Waldbrand ohne Publikum stattfinden
+- [Digital] Rekrutierung von Gamern: Gamer, die echte Drohnen fliegen? Ja, bitte!
+- [Entdecken] Leben nach dem Gefängnis: »Hast du jetzt Angst vor mir?«
+- [Gesellschaft] Betrug im Gesundheitssystem: Arzt erschleicht 1,6 Millionen von Krankenkassen
+- [Schweiz] Alpenhütte aus der Kindheit: Der Junge in Lederhosen kehrt zurück
+- [Entdecken] Stürzen: Von Fall zu Fall
+- [Wirtschaft] Opec+: Opec+ beschließt höhere Ölproduktion für August
+- [Mobilität] Freilaufgeräusch: Müssen Rennräder so laut surren?
+- [Wirtschaft] Bäckerei: Die Tochter backt politisch
+- [Gesellschaft] Geschwisterliebe: »Das hier wird vielleicht eine merkwürdige Nachricht«
+- [Gesellschaft] Evangelische Kirche: Die trauen sich!
 - [Gesellschaft] Musikfestivals: Bereit für den Festivalsommer?
-- [Gesellschaft] Erdbeben in Venezuela: Regierung in Venezuela meldet fast 3.000 Tote nach Erdbeben
-- [Gesellschaft] Waldbrand in Katalonien: Waldbrand nahe Costa Brava ist weitgehend unter Kontrolle
-- [Gesellschaft] Sturm auf das Kapitol: »Verräter werden erschossen«, sagt der Vater. Zu seinem Sohn.
-- [Digital] Manipulierte KI-Suchergebnisse: Wie man international renommierter Experte wird, ohne Experte zu sein
-- [Gesellschaft] Migration in Mittelmeer: Papst Leo gedenkt ertrunkener Flüchtlinge in Lampedusa
-- [Schweiz] Hüttenwandern: Kommen Sie gut rauf!
+- [Wirtschaft] Deutscher Aktienindex: Dax gibt's doch gar nicht
+- [Mobilität] Wallbox-Förderung: Das Grauen in meiner Tiefgarage
