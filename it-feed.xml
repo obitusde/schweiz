@@ -5,10 +5,178 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Jul 2026 04:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:28:19 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Heise] WhatsApp-Benutzernamen wecken Befürchtungen an möglichem Identitätsdiebstahl</title>
+      <title>[Golem] Vibe Coding: Schüler hackt Streaminganbieter mit ChatGPT-Programm</title>
+      <link>https://www.golem.de/news/vibe-coding-schueler-hackt-streaminganbieter-mit-chatgpt-programm-2607-210541.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/vibe-coding-schueler-hackt-streaminganbieter-mit-chatgpt-programm-2607-210541.html</guid>
+      <description><![CDATA[Ein 15-Jähriger ist in Japan verhaftet worden, da er sich in den Anime-Streamingdienst von Bandai eingehackt hat - mithilfe von ChatGPT. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/namco-bandai/">Bandai Namco</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 10:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Oura Ring 5 im Test: Kann ein Ring heute schon die Sportuhr ersetzen?</title>
+      <link>https://www.golem.de/news/oura-ring-5-im-test-kann-ein-ring-heute-schon-die-sportuhr-ersetzen-2607-210444.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/oura-ring-5-im-test-kann-ein-ring-heute-schon-die-sportuhr-ersetzen-2607-210444.html</guid>
+      <description><![CDATA[Maximal unfair - oder nicht? Wir haben ausprobiert, wie sich ein winziger Smart-Ring gegen eine riesige Outdoor-Sportuhr von Garmin schlägt. Ein Test von Peter Steinlechner (<a href="https://www.golem.de/specials/oura/">Oura</a>, <a href="https://www.golem.de/specials/garmin/">Garmin</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 10:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Punkt MC03: Google-freies Smartphone kommt ohne Abo zum höheren Preis</title>
+      <link>https://www.heise.de/news/Punkt-MC03-Google-freies-Smartphone-kommt-ohne-Abo-zum-hoeheren-Preis-11354754.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354754</guid>
+      <description><![CDATA[Das Schweizer Unternehmen Punkt hat sein Google-freies Smartphone MC03 auf den Markt gebracht. Die ursprünglich geplanten Abo-Gebühren entfallen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 10:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Statt komplexer Touch-Sensorik: Forscher machen Taktilität per Licht sichtbar</title>
+      <link>https://www.heise.de/news/Statt-komplexer-Touch-Sensorik-Forscher-machen-Taktilitaet-per-Licht-sichtbar-11354700.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354700</guid>
+      <description><![CDATA[Roboter „fühlen“ zu lassen, ist mit hohem Aufwand verbunden. Ein Sensor aus mechanochromen Material soll die taktile Erfassung vereinfachen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Verbraucherschutz: Tripadvisor-KI beschönigt negative Hotelbewertungen</title>
+      <link>https://www.golem.de/news/verbraucherschutz-tripadvisor-ki-beschoenigt-negative-hotelbewertungen-2607-210538.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/verbraucherschutz-tripadvisor-ki-beschoenigt-negative-hotelbewertungen-2607-210538.html</guid>
+      <description><![CDATA[Lebensmittelvergiftungen bei Hunderten Gästen und schwere Hygienemängel werden von der KI bei Tripadvisor beschönigt oder ignoriert. (<a href="https://www.golem.de/specials/verbraucherschutz/">Verbraucherschutz</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Meccha Chameleon: 6-Euro-Spiel fordert GTA 6 heraus</title>
+      <link>https://www.golem.de/news/meccha-chameleon-6-euro-spiel-fordert-gta-6-heraus-2607-210537.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/meccha-chameleon-6-euro-spiel-fordert-gta-6-heraus-2607-210537.html</guid>
+      <description><![CDATA[Über 15 Millionen Verkäufe in weniger als einem Monat: Fans vergleichen die Verkaufsdynamik von Meccha Chameleon augenzwinkernd mit GTA 6. (<a href="https://www.golem.de/specials/indiegames/">Indiegames</a>, <a href="https://www.golem.de/specials/games/">Spiele</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Hardware-Umfrage: Mehr als 70 Prozent der Steam-User verwenden Windows 11</title>
+      <link>https://www.golem.de/news/hardware-umfrage-mehr-als-70-prozent-der-steam-user-verwenden-windows-11-2607-210536.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/hardware-umfrage-mehr-als-70-prozent-der-steam-user-verwenden-windows-11-2607-210536.html</guid>
+      <description><![CDATA[Interessant: Laut anderen Statistiken ist Windows generell so unbeliebt wie seit langem nicht mehr, während MacOS Anteile gewinnt. (<a href="https://www.golem.de/specials/windows-11/">Windows 11</a>, <a href="https://www.golem.de/specials/steam/">Steam</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 09:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] David Gaider: Dragon-Age-Miterfinder warnt vor dem Ende neuer Spieleideen</title>
+      <link>https://www.golem.de/news/david-gaider-dragon-age-miterfinder-warnt-vor-dem-ende-neuer-spieleideen-2607-210533.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/david-gaider-dragon-age-miterfinder-warnt-vor-dem-ende-neuer-spieleideen-2607-210533.html</guid>
+      <description><![CDATA[David Gaider warnt: Publisher setzten zunehmend auf bekannte Marken, neue Spieleideen hätten es so schwer wie selten zuvor. (<a href="https://www.golem.de/specials/bioware/">Bioware</a>, <a href="https://www.golem.de/specials/dao/">Dragon Age</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 08:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Uber bremst Uber-Eats-Expansion in Europa</title>
+      <link>https://www.heise.de/news/Uber-bremst-Uber-Eats-Expansion-in-Europa-11354630.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354630</guid>
+      <description><![CDATA[Uber legt seine Europa-Offensive bei Uber Eats auf Eis. Dahinter dürften auch Ubers Übernahmepläne für den deutschen Lieferkonzern Delivery Hero stehen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 08:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Scattered Spider: 19-Jähriger Hacker mittels Windows-ID getrackt</title>
+      <link>https://www.golem.de/news/scattered-spider-19-jaehriger-hacker-mittels-windows-id-getrackt-2607-210530.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/scattered-spider-19-jaehriger-hacker-mittels-windows-id-getrackt-2607-210530.html</guid>
+      <description><![CDATA[Jedes Windows-Gerät hat einen weltweit eindeutigen Identifier. Ermittler konnten damit Aktivitäten eines jungen Hackers verfolgen und ihn festnehmen. (<a href="https://www.golem.de/specials/cybercrime/">Cybercrime</a>, <a href="https://www.golem.de/specials/server/">Server</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 08:41:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Rüstungsstartup Helsing darf Fabrik in Hallbergmoos bauen</title>
+      <link>https://www.heise.de/news/Ruestungsstartup-Helsing-darf-Fabrik-in-Hallbergmoos-bauen-11354600.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354600</guid>
+      <description><![CDATA[Das Startup Helsing wird in Hallbergmoos bei München eine große Fabrik bauen. Die Gemeinde hat sich in einer Abstimmung mit großer Mehrheit dafür ausgesprochen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 08:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Auto: Notbremsassistent verringert Zahl der Schäden</title>
+      <link>https://www.golem.de/news/auto-notbremsassistent-verringert-zahl-der-schaeden-2607-210529.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/auto-notbremsassistent-verringert-zahl-der-schaeden-2607-210529.html</guid>
+      <description><![CDATA[Einige Fahrassistenzsysteme verringern Unfallschäden merklich. Viele Autofahrer schalten sie ab - weil die Systeme zu aggressiv sind. (<a href="https://www.golem.de/specials/auto/">Auto</a>, <a href="https://www.golem.de/specials/security/">Security</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 07:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Tianwen-2: Chinesische Weltraumsonde erreicht Quasisatelliten Kamoʻoalewa</title>
+      <link>https://www.heise.de/news/Tianwen-2-Chinesische-Weltraumsonde-erreicht-Quasisatelliten-Kamo-oalewa-11354464.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354464</guid>
+      <description><![CDATA[Ein Jahr nachdem die chinesische Weltraumsonde Tianwen-2 gestartet wurde, hat sie ihr erstes Forschungsziel erreicht. Auf Kamoʻoalewa soll sie Proben entnehmen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 07:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Community darf helfen: Flipper Zero bekommt nach Kritik wieder Firmware-Updates</title>
+      <link>https://www.golem.de/news/community-darf-helfen-flipper-zero-bekommt-nach-kritik-wieder-firmware-updates-2607-210525.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/community-darf-helfen-flipper-zero-bekommt-nach-kritik-wieder-firmware-updates-2607-210525.html</guid>
+      <description><![CDATA[Im Schatten des Flipper One wurde die Firmware-Entwicklung des Flipper Zero gestoppt. Nach einem Aufschrei der Community geht es nun aber weiter. (<a href="https://www.golem.de/specials/flipper-zero/">Flipper Zero</a>, <a href="https://www.golem.de/specials/firmware/">Firmware</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 07:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Rads to Watts: Darpa erforscht Nuklearbatterien aus Atommüll</title>
+      <link>https://www.golem.de/news/rads-to-watts-darpa-erforscht-nuklearbatterien-aus-atommuell-2607-210526.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/rads-to-watts-darpa-erforscht-nuklearbatterien-aus-atommuell-2607-210526.html</guid>
+      <description><![CDATA[Das US-Militärprojekt Rads to Watts untersucht kompakte Mini-Generatoren aus Strontium-90 für Drohnen und Satelliten. (<a href="https://www.golem.de/specials/energie/">Energie</a>, <a href="https://www.golem.de/specials/darpa/">Darpa</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 06:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Porsche: Stellenabbau in Verwaltung und Entwicklung im Gespräch</title>
+      <link>https://www.heise.de/news/Porsche-Weitere-4000-Stellen-stehen-zur-Disposition-11354346.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354346</guid>
+      <description><![CDATA[Wegen der Absatzkrise fallen bei Porsche bereits Stellen weg. Die Zahl könnte einem Bericht zufolge nochmals deutlich höher ausfallen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 06:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Alternative Schulmodelle in den USA: US Privatschulen setzen auf KI statt Lehrer</title>
+      <link>https://www.golem.de/news/alternative-schulmodelle-in-den-usa-us-privatschulen-setzen-auf-ki-statt-lehrer-2607-210524.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/alternative-schulmodelle-in-den-usa-us-privatschulen-setzen-auf-ki-statt-lehrer-2607-210524.html</guid>
+      <description><![CDATA[Neue Privatschulen in den USA ersetzen traditionellen Unterricht durch KI-Lernsoftware und Projektarbeit. Das zeigt das Beispiel Alpha. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/studium/">Studium</a>)]]></description>
+      <pubDate>Mon, 06 Jul 2026 06:25:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Kommentar zum Aus für Spiele-Discs: Sony, spinnt ihr?</title>
+      <link>https://www.heise.de/meinung/Kommentar-zum-Aus-fuer-Spiele-Discs-Sony-spinnt-ihr-11354258.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354258</guid>
+      <description><![CDATA[Dass Sony ab 2028 keine Spiele mehr auf Blu-rays vertreiben will, ist ein untragbarer Verlust für die Spielekultur meint Nico Ernst. Es gäbe Alternativen.]]></description>
+      <pubDate>Mon, 06 Jul 2026 06:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Metallkugeln am Strand: Wieder Aufregung um Weltraumschrott in Australien</title>
+      <link>https://www.heise.de/news/Seltsame-Metallkugeln-Wieder-Aufregung-um-Weltraumschrott-in-Australien-11354334.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354334</guid>
+      <description><![CDATA[Immer wieder fällt Weltraumschrott auf Australien oder wird dort angespült. Nun sorgen kreisrunde Metallkugeln an einem Strand in Queensland für Aufregung.]]></description>
+      <pubDate>Mon, 06 Jul 2026 06:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Multispektrale Sensortechnik und KI finden Unterwasser-Blindgänger</title>
+      <link>https://www.heise.de/news/Multispektrale-Sensortechnik-und-KI-finden-Unterwasser-Blindgaenger-11354350.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354350</guid>
+      <description><![CDATA[Küstennahe Unterwasser-Blindgänger gefährden Touristen und Schifffahrt. Mit MiDAR und KI sollen sie zuverlässig erkannt werden.]]></description>
+      <pubDate>Mon, 06 Jul 2026 05:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Verkehrsbranche sucht Zehntausende neue Bus- und Bahnfahrer</title>
+      <link>https://www.heise.de/news/Verkehrsbranche-sucht-Zehntausende-neue-Bus-und-Bahnfahrer-11354324.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354324</guid>
+      <description><![CDATA[Zehntausende Bus- und Bahnfahrer gehen in den kommenden Jahren in den Ruhestand. Die Lücken zu füllen, ist für die Verkehrsbranche ein Kraftakt.]]></description>
+      <pubDate>Mon, 06 Jul 2026 05:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Trumps Memecoins: Milliardenverluste für die meisten Konten, Gewinne für wenige</title>
+      <link>https://www.heise.de/news/Trumps-Memecoins-Milliardenverluste-fuer-die-meisten-Konten-Gewinne-fuer-wenige-11354320.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354320</guid>
+      <description><![CDATA[Die Geschäfte mit den Memecoins von Donald Trump laufen so wie bei anderen Memecoins auch. Zu den wenigen, die enorm profitieren, gehört der US-Präsident.]]></description>
+      <pubDate>Mon, 06 Jul 2026 05:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Quatsch auf Knopfdruck: Click Boom Flash #66 „Fotobox-Fotografie"</title>
+      <link>https://www.heise.de/news/Quatsch-auf-Knopfdruck-Click-Boom-Flash-66-Fotobox-Fotografie-11351955.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11351955</guid>
+      <description><![CDATA[„Der macht auch den dunkelsten Partykeller hell", sagt Jan Bornemann über den Studioblitz in seiner Fotobox.]]></description>
+      <pubDate>Mon, 06 Jul 2026 04:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Montag: Britisches Stargate nur Medien-Coup, Identitätsdiebstahl bei WhatsApp</title>
+      <link>https://www.heise.de/news/Montag-Britisches-Stargate-nur-Medien-Coup-Identitaetsdiebstahl-bei-WhatsApp-11354314.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11354314</guid>
+      <description><![CDATA[KI-Milliarden als Inszenierung + Warnung bei WhatsApp-Benutzernamen + Alibaba-Verbot von Anthropic-KI + 30 Jahre „Independence Day“ + Bahnhofsumbau ohne Ausfall]]></description>
+      <pubDate>Mon, 06 Jul 2026 04:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] WhatsApp-Benutzernamen wecken Befürchtungen vor möglichem Identitätsdiebstahl</title>
       <link>https://www.heise.de/news/WhatsApp-Benutzernamen-wecken-Befuerchtungen-an-moeglichem-Identitaetsdiebstahl-11354304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11354304</guid>
       <description><![CDATA[Betrüger könnten WhatsApp-Benutzernamen bekannter Personen zu kriminellen Zwecken missbrauchen, warnen Sicherheitsexperten. Reservierungen sind bereits möglich.]]></description>
@@ -69,62 +237,6 @@
       <guid isPermaLink="false">https://www.golem.de/news/nvidia-ceo-jensen-huangs-signierte-lederjacke-wird-versteigert-2607-210521.html</guid>
       <description><![CDATA[Das Auktionshaus geht davon aus, dass die handsignierte Jacke des Nvidia-CEOs für mehr als 40.000 Euro verkauft wird. (<a href="https://www.golem.de/specials/nvidia/">Nvidia</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
       <pubDate>Sun, 05 Jul 2026 10:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Schulen in Rheinland-Pfalz: Strenge Regeln für Handys in Planung</title>
-      <link>https://www.heise.de/news/Schulen-in-Rheinland-Pfalz-Strenge-Regeln-fuer-Handys-in-Planung-11354108.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11354108</guid>
-      <description><![CDATA[Rheinland-Pfalz will einen Mittelweg aus teilweisem Verbot und Nutzung von Smartphones in der Schule gehen. Die Schülervertretung warnt vor zu strengen Regeln.]]></description>
-      <pubDate>Sun, 05 Jul 2026 10:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Produkte eingestellt: Es wird kein günstiges Microsoft Surface Go mehr geben</title>
-      <link>https://www.golem.de/news/produkte-eingestellt-es-wird-kein-guenstiges-microsoft-surface-go-mehr-geben-2607-210520.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/produkte-eingestellt-es-wird-kein-guenstiges-microsoft-surface-go-mehr-geben-2607-210520.html</guid>
-      <description><![CDATA[Microsoft hat die Surface-Go-Reihe offenbar eingestellt. Die Tablets und Laptops waren vor allem wegen ihres geringen Preises beliebt. (<a href="https://www.golem.de/specials/surface/">Surface</a>, <a href="https://www.golem.de/specials/microsoft/">Microsoft</a>)]]></description>
-      <pubDate>Sun, 05 Jul 2026 09:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] PV-Direktvermarktung: Wie kleine Dachanlagen ohne Verluste in den Markt wechseln</title>
-      <link>https://www.heise.de/news/PV-Direktvermarktung-Wie-kleine-Dachanlagen-ohne-Verluste-in-den-Markt-wechseln-11354088.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11354088</guid>
-      <description><![CDATA[Netzbetreiber als Backup: Warum eine staatliche Rückfalloption und gedeckelte Netzentgelte den Solarausbau sichern können, wenn die Infrastruktur digital wird.]]></description>
-      <pubDate>Sun, 05 Jul 2026 09:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Alternative zu Notepad: Winziger Texteditor für Windows benötigt etwa 2,5 Kilobyte</title>
-      <link>https://www.golem.de/news/alternative-zu-notepad-winziger-texteditor-fuer-windows-benoetigt-etwa-2-5-kilobyte-2607-210519.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/alternative-zu-notepad-winziger-texteditor-fuer-windows-benoetigt-etwa-2-5-kilobyte-2607-210519.html</guid>
-      <description><![CDATA[Einem ehemaligen Microsoft-Entwickler gefällt der Bloat im aktuellen Notepad nicht. Deshalb hat er eine sehr kompakte Alternative entwickelt. (<a href="https://www.golem.de/specials/editor/">Editor</a>, <a href="https://www.golem.de/specials/windows/">Windows</a>)]]></description>
-      <pubDate>Sun, 05 Jul 2026 09:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Video: Das passiert mit Social-Media-Accounts nach dem Tod</title>
-      <link>https://www.heise.de/news/Video-Das-passiert-mit-Social-Media-Accounts-nach-dem-Tod-11351617.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11351617</guid>
-      <description><![CDATA[Wer möchte, dass die eigenen Accounts nach dem Tod verschwinden, muss selbst aktiv werden. Wie man richtig vorsorgt, erklären wir im Video.]]></description>
-      <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Frequenzen: Das große Habenwollen</title>
-      <link>https://www.heise.de/hintergrund/Frequenzen-Das-grosse-Habenwollen-11353264.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11353264</guid>
-      <description><![CDATA[Die drei großen Mobilfunker strecken ihre Fühler nach Frequenzen mit besonderen Eigenschaften aus. Damit könnten Anbieter Milliarden sparen – zulasten anderer.]]></description>
-      <pubDate>Sun, 05 Jul 2026 07:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Missing Link: Wie die Japaner einen Bahnhof im laufenden Betrieb umbauen</title>
-      <link>https://www.heise.de/hintergrund/Missing-Link-Wie-die-Japaner-einen-Bahnhof-im-laufenden-Betrieb-umbauen-11346181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11346181</guid>
-      <description><![CDATA[Bahnhofsumbauten sind oft mit massiven Ausfällen verbunden. Japaner schaffen das jedoch fast ohne. Heise Online hat sich die Baustelle in Shinagawa angesehen.]]></description>
-      <pubDate>Sun, 05 Jul 2026 06:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] 35 Jahre Space Quest 4: Urkomisches Weltraumabenteuer mit dauersterbendem Helden</title>
-      <link>https://www.golem.de/news/35-jahre-space-quest-4-urkomisches-weltraumabenteuer-mit-dauersterbendem-helden-2607-210407.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/35-jahre-space-quest-4-urkomisches-weltraumabenteuer-mit-dauersterbendem-helden-2607-210407.html</guid>
-      <description><![CDATA[Space Quest 4 war kurz, gefährlich und verdammt witzig. Macht die Zeitreise von Roger Wilco durch Spieluniversen auch heute noch Spaß? Von Sönke Siemens und Benedikt Plass-Fleßenkämper (<a href="https://www.golem.de/specials/space-quest/">Space Quest</a>, <a href="https://www.golem.de/specials/adventure/">Adventure</a>)]]></description>
-      <pubDate>Sun, 05 Jul 2026 05:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
