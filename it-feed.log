@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 6.7.2026, 06:10:27
-Letzter Lauf: 5.7.2026, 12:28:18
+Start: 6.7.2026, 12:28:19
+Letzter Lauf: 6.7.2026, 06:10:27
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,20 +10,60 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Wero nutzen: Wie weit Europas neue Bezahlart wirklich ist'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: M365 für Admins – Sichere Konfiguration & effiziente Verwaltung lernen'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Die Klimaanlage für unterwegs: Kühlende Kleidung im Test'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Spiele-Engines: Warum erfolgreiche Game-Studios die Unreal Engine bevorzugen'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Identitäten als Grundlage der IT-Sicherheit: Beiträge für neue Konferenz gesucht'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | LibreOffice-Umstieg: Wörterbücher und Textbausteine aus MS Office mitnehmen'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern '
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Gehälter 2026: Das verdienen IT-Chefs in Deutschland'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Wasserkühlung für die Wohnung: Das bringen Verdunstungskühler'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | c’t-Story: Der emotional nicht unterstützte Staubsaugerbesitzer'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 4K-Mini-Überwachungskamera mit Wi-Fi und Akku zum Tiefstpreis'
-- Gelöscht wegen Keyword '(g+)': '(g+) Datenbanken: Mit Atlas komplexe Datenbankprojekte migrieren'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Administration, Infrastruktur und Entwicklung'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fahrradträger auch für E-Bikes zum neuen Tiefstpreis im Angebot'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: AT-AT der Reihe Lego Star Wars bei Amazon nie günstiger'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Apple iPad Air 11'' (M3) stark reduziert bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fanttik-Akkuschrauber-Set jetzt wieder für unter 49 Euro bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos'
 
-KI-Filter (Gemini) - 12 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Der Artikel behandelt mit dem iPhone und dem iPad (iOS) explizit genannte Negativ-Themen.): 'Command and Conquer: Fan portiert C&C Generals nativ auf Mac, iPad und iPhone'
-- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe aktuelle Ereignis (Spiele-Ranking von Digitec Galaxus) wie Artikel ID 2.): '«World of Warcraft» ist das beste Game aller Zeiten'
-- Gelöscht (Grund: Inhaltliches Ausschlusskriterium: Rasenmäher sind explizit von der Liste zu entfernen.): 'Mova 1000 im Test: LiDAR-Mähroboter für unter 700 Euro mit präzisem Schnitt'
-- Gelöscht (Grund: Inhaltliches Ausschlusskriterium: Behandelt Netzwerk-Infrastruktur (spezifische Mobilfunkstandards für den Bahnbetrieb).): 'FRMCS oder LTE-R: Wurde die GSM-R-Nachfolge verschlafen?'
+KI-Filter (Gemini) - 31 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe aktuelle Ereignis (Spiele-Ranking von Digitec Galaxus) wie Artike): '«World of Warcraft» ist das beste Game aller Zeiten'
+- Weiterhin entfernt (Cache, Grund: Inhaltliches Ausschlusskriterium: Rasenmäher sind explizit von der Liste zu entfernen.): 'Mova 1000 im Test: LiDAR-Mähroboter für unter 700 Euro mit präzisem Schnitt'
+- Weiterhin entfernt (Cache, Grund: Inhaltliches Ausschlusskriterium: Behandelt Netzwerk-Infrastruktur (spezifische Mobilfunkstandards f): 'FRMCS oder LTE-R: Wurde die GSM-R-Nachfolge verschlafen?'
+- Gelöscht (Grund: Betrifft Web-Infrastruktur (Self-Hosting-Plattform/PaaS).): 'Coolify: Kritische Lücken können Remote-Angriffe ermöglichen'
+- Gelöscht (Grund: Fällt unter Apple-Themen (iOS/iPadOS-Ökosystem) sowie belangloses App-Update-Rauschen.): 'WhatsApp nimmt demnächst auch iPads als Hauptgerät'
+- Gelöscht (Grund: Inhaltlicher Fokus auf Code-Entwicklung, Web-Infrastruktur und interne Dev-Themen.): '9 Bilder und Zahlen zum Hackfest 2026'
+- Gelöscht (Grund: Belangloses Apple-Rauschen (reine Spekulationen über zukünftige Hardware).): 'Apple Watch Series 12: Armbänder erstmals mit Sensoren?'
+- Gelöscht (Grund: Thematisiert Enterprise-IT (Kubernetes) und Code-Theorie/Softwareentwicklung.): 'Entwickler in der Rüstungsindustrie: Kubernetes für den Krieg'
+- Gelöscht (Grund: Fällt unter Deep OS-Internals und Basteleien (Custom-ROM auf Android/Linux-Basis).): 'Comeback nach der Zwangspause: CalyxOS 7.2.2.0 ist da'
+- Gelöscht (Grund: Duplikat zu Artikel ID 1 (behandelt dasselbe aktuelle Ereignis/Produktrelease).): 'Jetzt erhältlich: Oura Ring 5'
 
 Finale Liste (live im XML-Feed):
-- [Heise] WhatsApp-Benutzernamen wecken Befürchtungen an möglichem Identitätsdiebstahl
+- [Golem] Vibe Coding: Schüler hackt Streaminganbieter mit ChatGPT-Programm
+- [Golem] Oura Ring 5 im Test: Kann ein Ring heute schon die Sportuhr ersetzen?
+- [Heise] Punkt MC03: Google-freies Smartphone kommt ohne Abo zum höheren Preis
+- [Heise] Statt komplexer Touch-Sensorik: Forscher machen Taktilität per Licht sichtbar
+- [Golem] Verbraucherschutz: Tripadvisor-KI beschönigt negative Hotelbewertungen
+- [Golem] Meccha Chameleon: 6-Euro-Spiel fordert GTA 6 heraus
+- [Golem] Hardware-Umfrage: Mehr als 70 Prozent der Steam-User verwenden Windows 11
+- [Golem] David Gaider: Dragon-Age-Miterfinder warnt vor dem Ende neuer Spieleideen
+- [Heise] Uber bremst Uber-Eats-Expansion in Europa
+- [Golem] Scattered Spider: 19-Jähriger Hacker mittels Windows-ID getrackt
+- [Heise] Rüstungsstartup Helsing darf Fabrik in Hallbergmoos bauen
+- [Golem] Auto: Notbremsassistent verringert Zahl der Schäden
+- [Heise] Tianwen-2: Chinesische Weltraumsonde erreicht Quasisatelliten Kamoʻoalewa
+- [Golem] Community darf helfen: Flipper Zero bekommt nach Kritik wieder Firmware-Updates
+- [Golem] Rads to Watts: Darpa erforscht Nuklearbatterien aus Atommüll
+- [Heise] Porsche: Stellenabbau in Verwaltung und Entwicklung im Gespräch
+- [Golem] Alternative Schulmodelle in den USA: US Privatschulen setzen auf KI statt Lehrer
+- [Heise] Kommentar zum Aus für Spiele-Discs: Sony, spinnt ihr?
+- [Heise] Metallkugeln am Strand: Wieder Aufregung um Weltraumschrott in Australien
+- [Heise] Multispektrale Sensortechnik und KI finden Unterwasser-Blindgänger
+- [Heise] Verkehrsbranche sucht Zehntausende neue Bus- und Bahnfahrer
+- [Heise] Trumps Memecoins: Milliardenverluste für die meisten Konten, Gewinne für wenige
+- [Heise] Quatsch auf Knopfdruck: Click Boom Flash #66 „Fotobox-Fotografie"
+- [Heise] Montag: Britisches Stargate nur Medien-Coup, Identitätsdiebstahl bei WhatsApp
+- [Heise] WhatsApp-Benutzernamen wecken Befürchtungen vor möglichem Identitätsdiebstahl
 - [Digitec] Jury entscheidet: «World of Warcraft», «The Legend of Zelda» und «Minecraft» sind die besten Spiele aller Zeiten
 - [Heise] Top 10: Die beste elektrische Fliegenklatsche im Test – mit Akku oder Batterien
 - [Heise] Repräsentative Umfrage: Viele Eltern regeln Digitalkonsum von Kindern nicht
@@ -32,11 +72,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] Behörde kann der Post nicht auf die Finger gucken, weil Marktforscher klagen
 - [Heise] Sky-ECC-Zufallsfunde vor Gericht: Wann Krypto-Chats verwertbar sind
 - [Golem] Nvidia-CEO: Jensen Huangs signierte Lederjacke wird versteigert
-- [Heise] Schulen in Rheinland-Pfalz: Strenge Regeln für Handys in Planung
-- [Golem] Produkte eingestellt: Es wird kein günstiges Microsoft Surface Go mehr geben
-- [Heise] PV-Direktvermarktung: Wie kleine Dachanlagen ohne Verluste in den Markt wechseln
-- [Golem] Alternative zu Notepad: Winziger Texteditor für Windows benötigt etwa 2,5 Kilobyte
-- [Heise] Video: Das passiert mit Social-Media-Accounts nach dem Tod
-- [Heise] Frequenzen: Das große Habenwollen
-- [Heise] Missing Link: Wie die Japaner einen Bahnhof im laufenden Betrieb umbauen
-- [Golem] 35 Jahre Space Quest 4: Urkomisches Weltraumabenteuer mit dauersterbendem Helden
