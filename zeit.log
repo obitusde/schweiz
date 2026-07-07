@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 6.7.2026, 06:59:30
-Letzter Lauf: 5.7.2026, 06:59:30
+Start: 7.7.2026, 06:59:30
+Letzter Lauf: 6.7.2026, 06:59:30
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,25 +20,32 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 19 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Dieser Artikel fällt unter die Kategorie deutsche Kommunalpolitik und regionale Ereignisse.): [Gesellschaft] 'CSD in Köln: Rund 1,5 Millionen demonstrieren zum Christopher Street Day in Köln'
-- GelÃ¶scht (Grund: Dieser Artikel fällt unter die Kategorie deutsche Kommunalpolitik und lokale städtische Verwaltung.): [Wirtschaft] 'Jobcenter Bremen: Dieser Kreativraum im Jobcenter hat fast eine Million Euro gekostet'
+KI-Filter (Gemini) - 26 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Thema fällt unter deutsche Kommunalpolitik und parteipolitische Forderungen.): [Wirtschaft] 'Ladenöffnung am Sonntag: Ausschussvorsitzender für Lockerung von Verkaufsverbot an Sonntagen'
+- GelÃ¶scht (Grund: Thema fällt unter deutsche Kommunalpolitik und regionale deutsche Politik.): [Gesellschaft] 'Stromausfall in Berlin: Experten empfehlen zentrales Krisenzentrum'
+- GelÃ¶scht (Grund: Thema behandelt parteipolitische Interna und Parteipolitik.): [Wirtschaft] 'Wirtschaftspodcast: Wird die SPD jetzt wirtschaftsfreundlich?'
+- GelÃ¶scht (Grund: Thema ist stark parteipolitisch geprägt (Diskission zwischen CSU-Politiker und Ökonom).): [Wirtschaft] 'Kapitalgedeckte Rente: Rettet die Börse unsere Rente?'
+- GelÃ¶scht (Grund: Thema ist von lokaler Bedeutung (deutsche Kommunalebene).): [Gesellschaft] 'Seelenhorst in Brandenburg: Der letzte Kaiser'
 
 Finale Liste (live im XML-Feed):
-- [Gesellschaft] Kinder orten: »Wer sein Kind trackt, wird unaufmerksam«
-- [Wirtschaft] Sonntagsöffnung im Einzelhandel: Handelsverbände fordern Sonntagsöffnung für alle Geschäfte
-- [Wirtschaft] Fluggesellschaft: EasyJet stimmt Übernahmeangebot von US-Investor grundsätzlich zu
-- [Gesellschaft] Waldbrände in Europa: Tour-de-France-Etappe muss wegen Waldbrand ohne Publikum stattfinden
-- [Digital] Rekrutierung von Gamern: Gamer, die echte Drohnen fliegen? Ja, bitte!
-- [Entdecken] Leben nach dem Gefängnis: »Hast du jetzt Angst vor mir?«
-- [Gesellschaft] Betrug im Gesundheitssystem: Arzt erschleicht 1,6 Millionen von Krankenkassen
-- [Schweiz] Alpenhütte aus der Kindheit: Der Junge in Lederhosen kehrt zurück
-- [Entdecken] Stürzen: Von Fall zu Fall
-- [Wirtschaft] Opec+: Opec+ beschließt höhere Ölproduktion für August
-- [Mobilität] Freilaufgeräusch: Müssen Rennräder so laut surren?
-- [Wirtschaft] Bäckerei: Die Tochter backt politisch
-- [Gesellschaft] Geschwisterliebe: »Das hier wird vielleicht eine merkwürdige Nachricht«
-- [Gesellschaft] Evangelische Kirche: Die trauen sich!
-- [Gesellschaft] Musikfestivals: Bereit für den Festivalsommer?
-- [Wirtschaft] Deutscher Aktienindex: Dax gibt's doch gar nicht
-- [Mobilität] Wallbox-Förderung: Das Grauen in meiner Tiefgarage
+- [Arbeit] Krankenstand: Immer mehr Arbeitnehmer fallen wegen Krankheit länger aus
+- [Wirtschaft] Spirituosensteuer: Spirituosenfirmen zweifeln an Mehreinnahmen durch höhere Alkoholsteuer
+- [Wirtschaft] Private Vermieter: »Nie wieder würde ich in Immobilien investieren«
+- [Gesellschaft] Erdbeben in Venezuela: Zahl der Toten in Venezuela steigt auf mehr als 3.500
+- [Wirtschaft] Rüstungsindustrie: Kanada bestellt U-Boote bei deutschem Hersteller TKMS
+- [Gesellschaft] Österreich: Wiener Gericht verurteilt syrische Ex-Offiziere wegen Misshandlung
+- [Gesellschaft] Interpol: Polizei aus 59 Ländern nimmt viele mutmaßliche Menschenhändler fest
+- [Digital] Videospiele: Wenn Games aus dem Regal verschwinden
+- [Wirtschaft] Xbox und LinkedIn: Microsoft baut mehrere Tausend Stellen ab
+- [Wirtschaft] Wohnungsbau: Verband fürchtet Einbruch von Neubau-Investitionen wegen hoher Kosten
+- [Gesellschaft] Waldbrände in Südfrankreich: Großwaldbrand in den Pyrenäen breitet sich weiter aus
+- [Wirtschaft] KI-Trading: Matcha Latte für die Frauen, Sportwagen für die Männer
+- [Wirtschaft] Gastronomie: Sie wollen ein Café gründen? Denken Sie noch mal drüber nach
+- [Wirtschaft] Glyphosat Rechtsstreit: Der Vernichter (Bonusfolge): Jetzt spricht der Kläger
+- [Schweiz] Berghütten: »Warme Duschen braucht es nicht«
+- [Wirtschaft] Industrieaufträge: Deutsche Industrie erhält mehr Aufträge als erwartet
+- [Wirtschaft] Stellenabbau bei Porsche: Porsche will weitere Stellen streichen
+- [Arbeit] Care-Arbeit: »Ich konnte nicht akzeptieren, dass mein Mann nicht funktioniert«
+- [Gesellschaft] Umfrage zu Demokratie in Unternehmen: Polarisierung belastet Betriebsklima in deutschen Unternehmen
+- [Arbeit] Mangel an Busfahrern: Verkehrsbranche droht Mangel an Busfahrern
+- [Schweiz] Bodensee: Grenzenlos
