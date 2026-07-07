@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 7.7.2026, 06:10:26
-Letzter Lauf: 6.7.2026, 12:28:19
+Start: 7.7.2026, 12:28:18
+Letzter Lauf: 7.7.2026, 06:10:26
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,56 +10,90 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Hörhilfe mit vollem Sound: Kleiner Lautsprecher kommt direkt aufs Trommelfell'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: MedConf 2026: Mit Ihrem Vortrag die Medizintechnik mitgestalten'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Test: KI- und Workstationgrafikkarte Asrock Arc Pro B70 Creator mit Intel-GPU'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich? '
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Git für Maker erklärt, Teil 4: Wie man in GitHub Actions Workflows anlegt'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Aufgaben eines Informationssicherheitsbeauftragten'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Investieren in die Rüstungsbranche:  Aktien, ETFs & Fonds im Check'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | 10-Gigabit-Netzwerk für zu Hause: Voraussetzungen und Verkabelung'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | ChatGPT als Layoutwerkzeug: OpenAI-Produktleiterin Adele Li im Interview'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Profiler-Pionier Christoph Kemper über Amp-Profiling, KI und Gitarrenverstärker'
 - Gelöscht wegen Keyword 'c’t uplink': 'Thread und Matter: Die Zukunft des Smart Home? | c’t uplink'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Incident Leadership – Kommunizieren und Entscheiden im Krisenfall'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: M365 für Admins – Sichere Konfiguration & effiziente Verwaltung lernen'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Identitäten als Grundlage der IT-Sicherheit: Beiträge für neue Konferenz gesucht'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern '
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Profiler-Pionier Christoph Kemper über Amp-Profiling, KI und Gitarrenverstärker'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Xiaomi-E-Scooter bei Amazon zum aktuellen Bestpreis'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Monitor mit 4K-QD-OLED zum Tiefstpreis bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Solakon Bestseller-Balkonkraftwerk mit 1.000 Watt kurz wieder unter 270 Euro bei Amazon'
+- Gelöscht wegen Keyword 'podcast': 'Podcast Besser Wissen: Surfen mit Lynx im Gopherspace'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Penetration Testing: Schwachstellen in Webanwendungen erkennen'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Beliebtes SSD-Gehäuse für USB-C und -A zum Prime-Day-Preis'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Acht aufladbare AAA-Batterien mit 800 mAh zum Jahresbestpreis'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Saugroboter mit Wischfunktion zum Aktionspreis bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Carpuride Display bei Amazon über 50 Euro günstiger'
 - Gelöscht wegen Keyword '(g+)': '(g+) Opinion: The AI boom is quietly choking people in East Asia'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Smarte Innenraumkamera von TP-Link im 2er-Pack jetzt wieder weniger als 20 Euro pro Stück'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Cosori TurboBlaze Heißluftfritteuse zum Bestpreis 30 Euro günstiger'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 4-in-1-Ladegerät mit 140 Watt und Display zum Tiefstpreis rund 70 Euro bei Amazon'
-- Gelöscht wegen Keyword '(g+)': '(g+) Hype um neue Entwicklerrolle: Braucht jetzt jede Firma einen Forward Deployed Engineer?'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Eingabestift als Apple-Pencil-Alternative für nur 14,48 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fahrradträger auch für E-Bikes zum neuen Tiefstpreis im Angebot'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: AT-AT der Reihe Lego Star Wars bei Amazon nie günstiger'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Apple iPad Air 11'' (M3) stark reduziert bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fanttik-Akkuschrauber-Set jetzt wieder für unter 49 Euro bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos'
 
-KI-Filter (Gemini) - 40 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Betrifft Web-Infrastruktur (Self-Hosting-Plattform/PaaS).): 'Coolify: Kritische Lücken können Remote-Angriffe ermöglichen'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Apple-Themen (iOS/iPadOS-Ökosystem) sowie belangloses App-Update-Rauschen.): 'WhatsApp nimmt demnächst auch iPads als Hauptgerät'
-- Weiterhin entfernt (Cache, Grund: Inhaltlicher Fokus auf Code-Entwicklung, Web-Infrastruktur und interne Dev-Themen.): '9 Bilder und Zahlen zum Hackfest 2026'
-- Weiterhin entfernt (Cache, Grund: Belangloses Apple-Rauschen (reine Spekulationen über zukünftige Hardware).): 'Apple Watch Series 12: Armbänder erstmals mit Sensoren?'
-- Weiterhin entfernt (Cache, Grund: Thematisiert Enterprise-IT (Kubernetes) und Code-Theorie/Softwareentwicklung.): 'Entwickler in der Rüstungsindustrie: Kubernetes für den Krieg'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Deep OS-Internals und Basteleien (Custom-ROM auf Android/Linux-Basis).): 'Comeback nach der Zwangspause: CalyxOS 7.2.2.0 ist da'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel ID 1 (behandelt dasselbe aktuelle Ereignis/Produktrelease).): 'Jetzt erhältlich: Oura Ring 5'
-- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Bitkom Cloud Report 2026: Cloud-Ausfall würde jedes zweite Unternehmen lahmlegen'
-- Gelöscht (Grund: Apple-Themen (iOS)): 'Apple: KI-Framework „Trust Insights“ soll vor Social Engineering schützen'
-- Gelöscht (Grund: Code-Theorie): 'Leanstral 1.5: Formale Beweise für 4 Dollar statt 300 Dollar pro Aufgabe'
-- Gelöscht (Grund: Duplikat (Xbox-Umstrukturierung)): 'Microsoft bestätigt Entlassungen und Studio-Verkauf bei Xbox'
-- Gelöscht (Grund: Duplikat (Xbox-Umstrukturierung)): 'Microsoft: Xbox bestätigt Radikalumbau mit 3.200 Stellenstreichungen'
-- Gelöscht (Grund: Code-Theorie & Web-Infrastruktur): 'Node.js kämpft mit Flut an automatisierten Sicherheitsreports'
-- Gelöscht (Grund: Netzwerk-Infrastruktur): 'OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken'
-- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Schottisches Rechenzentrum: Zweifel an versprochener Versorgung mit Erneuerbaren'
-- Gelöscht (Grund: Deep OS-Internals und Linux): 'Ubuntu macht ARM64 zur Plattform erster Klasse'
-- Gelöscht (Grund: Duplikat (Verfahren gegen eBay)): 'Deutscher DSA-Koordinator geht gegen eBay vor'
-- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab'
-- Gelöscht (Grund: Apple-Themen (iPhone)): '„iPhone Ultra“: Nutzt Apple einen Verkaufsansatz wie beim iPhone X?'
+KI-Filter (Gemini) - 41 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Bitkom Cloud Report 2026: Cloud-Ausfall würde jedes zweite Unternehmen lahmlegen'
+- Weiterhin entfernt (Cache, Grund: Apple-Themen (iOS)): 'Apple: KI-Framework „Trust Insights“ soll vor Social Engineering schützen'
+- Weiterhin entfernt (Cache, Grund: Code-Theorie): 'Leanstral 1.5: Formale Beweise für 4 Dollar statt 300 Dollar pro Aufgabe'
+- Weiterhin entfernt (Cache, Grund: Duplikat (Xbox-Umstrukturierung)): 'Microsoft bestätigt Entlassungen und Studio-Verkauf bei Xbox'
+- Weiterhin entfernt (Cache, Grund: Duplikat (Xbox-Umstrukturierung)): 'Microsoft: Xbox bestätigt Radikalumbau mit 3.200 Stellenstreichungen'
+- Weiterhin entfernt (Cache, Grund: Code-Theorie & Web-Infrastruktur): 'Node.js kämpft mit Flut an automatisierten Sicherheitsreports'
+- Weiterhin entfernt (Cache, Grund: Netzwerk-Infrastruktur): 'OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken'
+- Weiterhin entfernt (Cache, Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Schottisches Rechenzentrum: Zweifel an versprochener Versorgung mit Erneuerbaren'
+- Weiterhin entfernt (Cache, Grund: Deep OS-Internals und Linux): 'Ubuntu macht ARM64 zur Plattform erster Klasse'
+- Weiterhin entfernt (Cache, Grund: Duplikat (Verfahren gegen eBay)): 'Deutscher DSA-Koordinator geht gegen eBay vor'
+- Weiterhin entfernt (Cache, Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab'
+- Weiterhin entfernt (Cache, Grund: Apple-Themen (iPhone)): '„iPhone Ultra“: Nutzt Apple einen Verkaufsansatz wie beim iPhone X?'
+- Gelöscht (Grund: Thema iOS (Ausschlusskriterium).): 'Neue Kamera-KI-Funktionen für HomeKit: Das wird teuer'
+- Gelöscht (Grund: Thema iPhone (Ausschlusskriterium).): 'Dank Apple: Foldables werden laut Marktforscher bald teurer'
+- Gelöscht (Grund: Deep OS-Internals / Linux-Kernel (Ausschlusskriterium).): 'Linux-Kernel: 16 Jahre alte KVM-Lücke ermöglicht VM-Ausbruch'
+- Gelöscht (Grund: Deep OS-Internals / Linux-Kernel (Ausschlusskriterium).): 'Auch Android betroffen: Exploit für gefährliche Root-Lücke im Linux-Kernel geleakt'
+- Gelöscht (Grund: Code-Theorie (Ausschlusskriterium).): 'Software Testing: Architekturdokumentation, die wirklich Wirkung entfaltet'
+- Gelöscht (Grund: Duplikat zu Artikel 12 (Samsung Gewinnsteigerung).): 'Samsung verneunzehnfacht den Betriebsgewinn, Aktien sacken trotzdem ab'
+- Gelöscht (Grund: Duplikat zu Artikel 32 (Verkaufsstopp der Nintendo Switch).): 'Hybridkonsole: Nintendo nimmt die erste Switch 2027 in Europa vom Markt'
+- Gelöscht (Grund: Duplikat zu Artikel 14 (Xbox-Entlassungen).): 'Dienstag: Angriff auf Informationsfreiheit, Microsoft baut Spiele-Sparte Xbox um'
 
 Finale Liste (live im XML-Feed):
+- [Golem] CoreWeave-Rechenzentrum in Schottland: Großbritannien hat keine Energie für KI
+- [Golem] Nothing Ear (3a) im Test: Bei diesem Preis kann man nichts falsch machen
+- [Golem] Studie: Kontrollverlust beim Gaming könnte das Problem sein
+- [Heise] Förderung von Wärmepumpen & Co.: Bundesregierung will Milliarden sparen
+- [Heise] Agentic AI fürs Smart Home: openHAB 5.2 bringt Chat-Interface und MCP-Server
+- [Golem] "Ich sollte dort gestorben haben": Miserable KI-Synchronisation zwingt Amazon zum Handeln
+- [Golem] Deutsche Autoindustrie: Der Verbrennungsmotor hilft uns nicht mehr
+- [Golem] League Classic: Riot bringt League of Legends von vor 15 Jahren zurück
+- [Heise] BSI veröffentlicht Prüfkatalogsentwurf zur Vertrauenswürdigkeit von KI-Systemen
+- [Golem] Rekordergebnis: Samsungs 19-fache Gewinnsteigerung überzeugt Anleger nicht
+- [Heise] Google: Android-Backups werden nun auf den Cloud-Speicher angerechnet
+- [Golem] Microsoft: Xbox soll bei ID Software sogar die meisten Programmierer entlassen
+- [Heise] Bremer Roboter-Team B-Human ist Weltmeister der Middle Division des RoboCup 2026
+- [Golem] KI-Strukturen: Anthropic identifiziert J-Space in Claude
+- [Golem] Unternehmen spricht von Einzelfällen: 1&1-Kunden können Cloud-App seit Monaten nicht nutzen
+- [Heise] Deutschland: Mehr als die Hälfte der Rathäuser setzt auf Künstliche Intelligenz
+- [Heise] Wie KI ihre eigenen Deepfakes entlarvt
+- [Heise] KI-generierte Kataloge von Mondkratern viel schlechter als solche von Menschen
+- [Golem] Datennutzung für KI-Modelle: Google nutzt Suchmedien für KI-Training
+- [Golem] Chinas Raumfahrt: Tianwen-2 erreicht Asteroid Kamo'oalewa
+- [Heise] 3D-gedruckte, autonome VTOL-Drohne bekämpft Drohnen-Schwärme mit bis zu 560 km/h
+- [Heise] Mobile Games: Umsatz in Deutschland steigt 2025 auf 2,7 Milliarden Euro
+- [Golem] In eigener Sache: Mehr Übersicht auf Golem
+- [Golem] Kanada rüstet mit deutscher Technik auf: Zwölf U-Boote aus Kiel für die Royal Canadian Navy
+- [Heise] Tanken an der Autobahn: Mit diesem Aufpreis müssen sie rechnen
+- [Golem] U-Boot: China feuert Rakete in den Pazifik ab
+- [Heise] Nach fast zehn Jahren: Nintendo stellt Verkauf der Switch ein
+- [Golem] Imtest Funke Mediengruppe: Telekom schneidet wieder besser als 1&1 ab
+- [Golem] Luxushersteller: Bentley nennt sein erstes Elektroauto Torcal
+- [Golem] Finanzminister: Bitcoin steht vor Steueränderung
+- [Heise] KI-Firma von Elon Musk: Aus xAI wird SpaceXAI
+- [Heise] „Passt für mich nicht zusammen“: Ist Debatte um Telefon-AU nur Ablenkung?
+- [Heise] Start-up-Gründungen nehmen aufgrund von KI in Deutschland zu
 - [Heise] Angriff auf Infofreiheit: Transparenzbeauftragte wehren sich gegen IFG-Reform
 - [Heise] Geheimdienstbericht in Kanada: Cyberoperationen im Ausland
 - [Heise] Deal über fünf Jahre: Broadcom liefert weiter Chips an Apple
-- [Heise] Auto-Gadgets für den Sommerurlaub: Babykameras, Kühlboxen, Carplay & Co.
+- [Heise] Auto-Gadgets: Babykameras, Kühlboxen, Carplay & Co.
 - [Heise] Elektrische Schulbusse in den USA werden als Netzspeicher eingesetzt
 - [Heise] Fluggastdaten: Deutsche Behörden scannten 2025 über 627 Millionen Datensätze
 - [Heise] China verschärft KI-Regeln: ByteDance und Alibaba entfernen menschenähnliche KI
@@ -73,38 +107,13 @@ Finale Liste (live im XML-Feed):
 - [Golem] Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien
 - [Heise] Bang & Olufsen Beoplay H100 im Test: genial guter Klang, Top-ANC, perfekter Halt
 - [Digitec] Hasselblad und Capture One begraben das Kriegsbeil
-- [Golem] Kryptowährung: $Trump-Coin Käufer verloren 3,8 Milliarden US-Dollar
-- [Golem] Playstation: Bereits erhältiche Spiele bleiben wohl länger auf Disc erhältlich
+- [Golem] Kryptowährung: $Trump-Coin-Käufer haben 3,8 Milliarden US-Dollar verloren
+- [Golem] Playstation: Bereits erhältliche Spiele bleiben wohl länger auf Disc erhältlich
 - [Heise] Nvidia verkauft KI-Beschleuniger jetzt gegen Umsatzbeteiligung
 - [Heise] KI-Update: UN-Bericht zu KI, Plädoyer für Open Source, Vorsicht vor KI-Kollegen
 - [Digitec] Mini-Spielhalle für die Feuerwache: Feuerwehrmann baut zwei Arcade-Cabinets
 - [Heise] Tech-Startups wollen die EU Inc.
 - [Heise] Temu, Shein und Co. steigern Marktanteil auf Rekordwert
 - [Heise] ESA-Weltraumteleskop Euclid: Erfolge bei Suche nach den frühesten Quasaren
-- [Golem] Open Source: Neues Firefox-Add-on umgeht Alterskontrollen
 - [Digitec] «Moonlight Peaks»: Ein Vampir mit Spitzhacke und Himbeertörtchen saugt kein Blut
 - [Digitec] Godox C100: die Kamera, die aussieht wie ein iPod
-- [Golem] Vibe Coding: Schüler hackt Streaminganbieter mit ChatGPT-Programm
-- [Golem] Oura Ring 5 im Test: Kann ein Ring heute schon die Sportuhr ersetzen?
-- [Heise] Punkt MC03: Google-freies Smartphone kommt ohne Abo zum höheren Preis
-- [Heise] Statt komplexer Touch-Sensorik: Forscher machen Taktilität per Licht sichtbar
-- [Golem] Verbraucherschutz: Tripadvisor-KI beschönigt negative Hotelbewertungen
-- [Golem] Meccha Chameleon: 6-Euro-Spiel fordert GTA 6 heraus
-- [Golem] Hardware-Umfrage: Mehr als 70 Prozent der Steam-User verwenden Windows 11
-- [Golem] David Gaider: Dragon-Age-Miterfinder warnt vor dem Ende neuer Spieleideen
-- [Heise] Uber bremst Uber-Eats-Expansion in Europa
-- [Golem] Scattered Spider: 19-Jähriger Hacker mittels Windows-ID getrackt
-- [Heise] Rüstungsstartup Helsing darf Fabrik in Hallbergmoos bauen
-- [Golem] Auto: Notbremsassistent verringert Zahl der Schäden
-- [Heise] Tianwen-2: Chinesische Weltraumsonde erreicht Quasisatelliten Kamoʻoalewa
-- [Golem] Community darf helfen: Flipper Zero bekommt nach Kritik wieder Firmware-Updates
-- [Golem] Rads to Watts: Darpa erforscht Nuklearbatterien aus Atommüll
-- [Heise] Porsche: Stellenabbau in Verwaltung und Entwicklung im Gespräch
-- [Golem] Alternative Schulmodelle in den USA: US Privatschulen setzen auf KI statt Lehrer
-- [Heise] Kommentar zum Aus für Spiele-Discs: Sony, spinnt ihr?
-- [Heise] Metallkugeln am Strand: Wieder Aufregung um Weltraumschrott in Australien
-- [Heise] Multispektrale Sensortechnik und KI finden Unterwasser-Blindgänger
-- [Heise] Verkehrsbranche sucht Zehntausende neue Bus- und Bahnfahrer
-- [Heise] Trumps Memecoins: Milliardenverluste für die meisten Konten, Gewinne für wenige
-- [Heise] Quatsch auf Knopfdruck: Click Boom Flash #66 „Fotobox-Fotografie"
-- [Heise] Montag: Britisches Stargate nur Medien-Coup, Identitätsdiebstahl bei WhatsApp
