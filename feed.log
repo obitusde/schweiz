@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 6.7.2026, 12:58:39
-Letzter Lauf: 6.7.2026, 06:30:35
+Start: 7.7.2026, 06:30:35
+Letzter Lauf: 6.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -15,12 +15,37 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/QYUORaarYc2r.xml
 
 Statischer Filter (Keywords):
-- Gelöscht wegen Keyword 'wolf': 'Umstrittenes Metall-Geschäft – Warum Kasachstan auf einen Wolfram-Deal mit den USA setzt'
+- Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 18 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Kriminalität in der Schweiz außerhalb von Waadt (Fall im Wallis).): 'Un éducateur aurait créé un faux «nude» d'une élève avec de l'IA'
+KI-Filter (Gemini) - 26 neue Artikel geprüft:
+- Gelöscht (Grund: Duplikat zu Artikel 15 (bevorzugter SRF-Artikel).): 'Fall Balogun – Sportjournalist: «Das Ganze könnte noch sehr kompliziert werden»'
+- Gelöscht (Grund: Kriminalität in der Schweiz außerhalb von Vaud (Genf).): 'Genève enquête sur l'épouse de l'ex-président gabonais'
+- Gelöscht (Grund: Abstimmung in der Schweiz außerhalb von Waadt und Genf (Wallis).): 'Eishalle im Saastal VS – Abstimmungs-Nein: Wird geplante neue Eishalle nun zur Bauruine?'
+- Gelöscht (Grund: Brand in der Schweiz außerhalb von Vaud (Uvrier, Wallis).): 'L'incendie dans une déchèterie ist désormais «contenu»'
+- Gelöscht (Grund: Duplikat zu Artikel 15 (behandelt dasselbe Thema).): 'Balogun, Wembley, Hand Gottes – Die grössten Kontroversen der WM-Geschichte'
+- Gelöscht (Grund: Unfall in der Schweiz außerhalb von Vaud (Delémont, Jura).): 'Un piéton renversé par une voiture à Delémont'
+- Gelöscht (Grund: Duplikat zu Artikel 15 (behandelt dasselbe Thema).): 'Von Entsetzen bis Verständnis – «Das ist unser Spiel, nicht ihres»: Reaktionen zum «Fall Balogun»'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Einbrüche in Waffengeschäfte – So funktionieren die «Verbrechen auf Bestellung»
+- [SRF Schweiz] Kontaminierte Flächen – Schiessen: Eine Tradition hat ihre Spuren im Boden hinterlassen
+- [SRF Ausland] Gipfel mit Trump und Erdoğan – Schicksalhaftes Nato-Treffen: Neuerfindung – oder Zerfall?
+- [SRF Schweiz] Günstiger dank Kooperation – Schweiz und Österreich wollen Rüstungsgüter gemeinsam einkaufen
+- [SRF Ausland] Stiftungen werden aktiv – Appell an den Bundesrat in Sachen Entwicklungszusammenarbeit
+- [SRF Ausland] Folter und Misshandlungen – Zwei Folterer des Assad-Regimes in Wien verurteilt
+- [SRF Schweiz] Projekt Verkehr 45 – Wer steckt hinter der Grimseltunnel-Baulobby?
+- [20 Min Romandie] Biber machen dem Kanton einen Strich durch die Rechnung
+- [20 Min Romandie] Brandausbruch nach dem Spiel Marokko–Kanada
+- [20 Min Romandie] Feuer nahe einer Schule in Écublens unter Kontrolle
+- [SRF Wirtschaft] Shopping rund um die Uhr – 24-Stunden-Läden: Migros-Konkurrenz machte schlechte Erfahrungen
+- [SRF Ausland] Der «Fall Balogun» – Trump bat Fifa-Chef um Überprüfung – Infantino negiert Einfluss
+- [20 Min Romandie] Das Auerhuhn ist als echtes Wahrzeichen fast aus dem Kanton verschwunden
+- [SRF Schweiz] Gewalt gegen Kinder – Zahl der Kindesmisshandlungen steigt auf neuen Höchststand
+- [20 Min Romandie] Nach einer Woche Atempause werden die Hitzepläne wieder aktiviert
+- [SRF Gesellschaft] Promi-Hochzeit im Verborgenen – «Damit stellt Taylor Swift ihre Macht zur Schau»
+- [20 Min Romandie] Doppelunfall beim Triathlon: Radfahrer von Autos angefahren
+- [SRF Gesellschaft] Vor 10 Jahren veröffentlicht – Pokémon Go: Wo steht der Sommerhype von 2016 heute?
+- [SRF Schweiz] Ungewöhnliche Mitbewohnerinnen – Wie zwei Schweinchen in einem Altersheim Senioren beglücken
 - [Morges Actualitiés] Eine neue Legislaturperiode beginnt
 - [20 Min Romandie] KI Copilot hält zum Schulstart auch in Freiburg Einzug
 - [20 Min Romandie] Ein Winterfonds zur Verkürzung der Baustellen im Sommer
@@ -28,7 +53,7 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Wallis ruft die Bevölkerung auf, den Japankäfer aufzuspüren
 - [20 Min Romandie] Raubüberfall bei Alain Prost in Nyon: fünf Verdächtige angeklagt
 - [20 Min Romandie] Freiwilligeneinsatz beim Caribana führt zu Verlust von Arbeitslosengeld
-- [SRF Ausland] Brandherde in Europa – 10'000 Menschen fliehen vor Flammen in Südfrankreich
+- [SRF Ausland] Brandherde in Europa – 10'000 in Frankreich evakuiert +++ Zwei Tote in Griechenland
 - [20 Min Romandie] Nächtliche Sperrung der A1 zwischen Payerne und Estavayer
 - [SRF Ausland] Abschiedszeremonie – Trauerzug für Ajatollah Ali Chamenei zieht durch Teheran
 - [SRF Wirtschaft] Rohstoffabbau in Skandinavien – Energiewende kollidiert auch in Europa mit Indigenen-Rechten
@@ -38,21 +63,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Schweizer Gewässer und Hitze – So warm sind die Schweizer Seen aktuell
 - [20 Min Romandie] Schlägereien an Schulen landen immer häufiger vor Gericht
 - [SRF Schweiz] Rassismus nach Fussballspiel – Wenn es nicht gut läuft, häufen sich die Hasskommentare
-- [SRF Ausland] Rote Karte aufgehoben – WM-Achtelfinal: Wirbel um möglichen Trump-Anruf bei Infantino
-- [SRF Wirtschaft] Flucht vor Hitze – Schweiz boomt als Sommerdestination
-- [SRF Schweiz] Steuerbefreiter Zustupf? – Rechtsprofessoren warnen: Auch Banker könnten Trinkgeld wollen
-- [SRF Ausland] Mögliches Kriegsverbrechen – Greift Israel im Libanon gezielt Rettungssanitäter an?
-- [SRF Wirtschaft] Einkaufstourismus – Neue deutsche App soll Grenzshopping erleichtern
-- [Journal de Morges] Au Bomelet: Fünfzig Jahre Leben am Teich
-- [SRF Schweiz] Folgen des Heimatverlusts – Angst, Wut und schlaflose Nächte – Mitholz kämpft mit Umsiedlung
-- [SRF Wirtschaft] Beim fünften Angebot – Easyjet schlägt bei Angebot von Castlelake ein
-- [SRF Schweiz] Hitzestress im Wald – Sonnenbrand bei Bäumen – wann braucht es die Notfällung?
-- [SRF Wissen] Langzeitstudie der Uni Basel – Der Grasfrosch gerät in den tiefen Lagen unter Druck
-- [SRF Wirtschaft] Margen im Regal – Mehrwert oder Aufpreis? Die Bio-Debatte
-- [SRF Schweiz] Neuer Kinderschutz im ZGB – Gewaltfreie Erziehung: «Eine Ohrfeige kann nie gesund sein»
-- [20 Min Romandie] Mann von «Neonazis» wegen «Antifa»-T-Shirt verprügelt
-- [SRF Wissen] Oberster Datenschützer über KI – «Die Gefahr besteht, dass sich jeder öffentlich beobachtet fühlt»
-- [SRF Schweiz] Wahlen Stadtpräsidium – Eveline Salzmann ist Thuns erste Stadtpräsidentin
-- [20 Min Romandie] Pilot bei Notlandung leicht verletzt
-- [SRF Ausland] Resilienz in Krisenzeiten – Darum feiert Bargeld ein Comeback in Schweden
-- [SRF Schweiz] Neuer Modetrend – Wo Hitze ist, ist häufig auch ein Fächer
