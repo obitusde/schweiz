@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 6.7.2026, 12:28:19
-Letzter Lauf: 6.7.2026, 06:10:27
+Start: 7.7.2026, 06:10:26
+Letzter Lauf: 6.7.2026, 12:28:19
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,35 +10,80 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Wero nutzen: Wie weit Europas neue Bezahlart wirklich ist'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | 10-Gigabit-Netzwerk für zu Hause: Voraussetzungen und Verkabelung'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | ChatGPT als Layoutwerkzeug: OpenAI-Produktleiterin Adele Li im Interview'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Profiler-Pionier Christoph Kemper über Amp-Profiling, KI und Gitarrenverstärker'
+- Gelöscht wegen Keyword 'c’t uplink': 'Thread und Matter: Die Zukunft des Smart Home? | c’t uplink'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Incident Leadership – Kommunizieren und Entscheiden im Krisenfall'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: M365 für Admins – Sichere Konfiguration & effiziente Verwaltung lernen'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Die Klimaanlage für unterwegs: Kühlende Kleidung im Test'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Spiele-Engines: Warum erfolgreiche Game-Studios die Unreal Engine bevorzugen'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Identitäten als Grundlage der IT-Sicherheit: Beiträge für neue Konferenz gesucht'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | LibreOffice-Umstieg: Wörterbücher und Textbausteine aus MS Office mitnehmen'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern '
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Gehälter 2026: Das verdienen IT-Chefs in Deutschland'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Wasserkühlung für die Wohnung: Das bringen Verdunstungskühler'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | c’t-Story: Der emotional nicht unterstützte Staubsaugerbesitzer'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Beliebtes SSD-Gehäuse für USB-C und -A zum Prime-Day-Preis'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Acht aufladbare AAA-Batterien mit 800 mAh zum Jahresbestpreis'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Saugroboter mit Wischfunktion zum Aktionspreis bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Carpuride Display bei Amazon über 50 Euro günstiger'
+- Gelöscht wegen Keyword '(g+)': '(g+) Opinion: The AI boom is quietly choking people in East Asia'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Smarte Innenraumkamera von TP-Link im 2er-Pack jetzt wieder weniger als 20 Euro pro Stück'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Cosori TurboBlaze Heißluftfritteuse zum Bestpreis 30 Euro günstiger'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 4-in-1-Ladegerät mit 140 Watt und Display zum Tiefstpreis rund 70 Euro bei Amazon'
+- Gelöscht wegen Keyword '(g+)': '(g+) Hype um neue Entwicklerrolle: Braucht jetzt jede Firma einen Forward Deployed Engineer?'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Eingabestift als Apple-Pencil-Alternative für nur 14,48 Euro'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fahrradträger auch für E-Bikes zum neuen Tiefstpreis im Angebot'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: AT-AT der Reihe Lego Star Wars bei Amazon nie günstiger'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Apple iPad Air 11'' (M3) stark reduziert bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Fanttik-Akkuschrauber-Set jetzt wieder für unter 49 Euro bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos'
 
-KI-Filter (Gemini) - 31 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe aktuelle Ereignis (Spiele-Ranking von Digitec Galaxus) wie Artike): '«World of Warcraft» ist das beste Game aller Zeiten'
-- Weiterhin entfernt (Cache, Grund: Inhaltliches Ausschlusskriterium: Rasenmäher sind explizit von der Liste zu entfernen.): 'Mova 1000 im Test: LiDAR-Mähroboter für unter 700 Euro mit präzisem Schnitt'
-- Weiterhin entfernt (Cache, Grund: Inhaltliches Ausschlusskriterium: Behandelt Netzwerk-Infrastruktur (spezifische Mobilfunkstandards f): 'FRMCS oder LTE-R: Wurde die GSM-R-Nachfolge verschlafen?'
-- Gelöscht (Grund: Betrifft Web-Infrastruktur (Self-Hosting-Plattform/PaaS).): 'Coolify: Kritische Lücken können Remote-Angriffe ermöglichen'
-- Gelöscht (Grund: Fällt unter Apple-Themen (iOS/iPadOS-Ökosystem) sowie belangloses App-Update-Rauschen.): 'WhatsApp nimmt demnächst auch iPads als Hauptgerät'
-- Gelöscht (Grund: Inhaltlicher Fokus auf Code-Entwicklung, Web-Infrastruktur und interne Dev-Themen.): '9 Bilder und Zahlen zum Hackfest 2026'
-- Gelöscht (Grund: Belangloses Apple-Rauschen (reine Spekulationen über zukünftige Hardware).): 'Apple Watch Series 12: Armbänder erstmals mit Sensoren?'
-- Gelöscht (Grund: Thematisiert Enterprise-IT (Kubernetes) und Code-Theorie/Softwareentwicklung.): 'Entwickler in der Rüstungsindustrie: Kubernetes für den Krieg'
-- Gelöscht (Grund: Fällt unter Deep OS-Internals und Basteleien (Custom-ROM auf Android/Linux-Basis).): 'Comeback nach der Zwangspause: CalyxOS 7.2.2.0 ist da'
-- Gelöscht (Grund: Duplikat zu Artikel ID 1 (behandelt dasselbe aktuelle Ereignis/Produktrelease).): 'Jetzt erhältlich: Oura Ring 5'
+KI-Filter (Gemini) - 40 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Betrifft Web-Infrastruktur (Self-Hosting-Plattform/PaaS).): 'Coolify: Kritische Lücken können Remote-Angriffe ermöglichen'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Apple-Themen (iOS/iPadOS-Ökosystem) sowie belangloses App-Update-Rauschen.): 'WhatsApp nimmt demnächst auch iPads als Hauptgerät'
+- Weiterhin entfernt (Cache, Grund: Inhaltlicher Fokus auf Code-Entwicklung, Web-Infrastruktur und interne Dev-Themen.): '9 Bilder und Zahlen zum Hackfest 2026'
+- Weiterhin entfernt (Cache, Grund: Belangloses Apple-Rauschen (reine Spekulationen über zukünftige Hardware).): 'Apple Watch Series 12: Armbänder erstmals mit Sensoren?'
+- Weiterhin entfernt (Cache, Grund: Thematisiert Enterprise-IT (Kubernetes) und Code-Theorie/Softwareentwicklung.): 'Entwickler in der Rüstungsindustrie: Kubernetes für den Krieg'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Deep OS-Internals und Basteleien (Custom-ROM auf Android/Linux-Basis).): 'Comeback nach der Zwangspause: CalyxOS 7.2.2.0 ist da'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel ID 1 (behandelt dasselbe aktuelle Ereignis/Produktrelease).): 'Jetzt erhältlich: Oura Ring 5'
+- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Bitkom Cloud Report 2026: Cloud-Ausfall würde jedes zweite Unternehmen lahmlegen'
+- Gelöscht (Grund: Apple-Themen (iOS)): 'Apple: KI-Framework „Trust Insights“ soll vor Social Engineering schützen'
+- Gelöscht (Grund: Code-Theorie): 'Leanstral 1.5: Formale Beweise für 4 Dollar statt 300 Dollar pro Aufgabe'
+- Gelöscht (Grund: Duplikat (Xbox-Umstrukturierung)): 'Microsoft bestätigt Entlassungen und Studio-Verkauf bei Xbox'
+- Gelöscht (Grund: Duplikat (Xbox-Umstrukturierung)): 'Microsoft: Xbox bestätigt Radikalumbau mit 3.200 Stellenstreichungen'
+- Gelöscht (Grund: Code-Theorie & Web-Infrastruktur): 'Node.js kämpft mit Flut an automatisierten Sicherheitsreports'
+- Gelöscht (Grund: Netzwerk-Infrastruktur): 'OPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken'
+- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Schottisches Rechenzentrum: Zweifel an versprochener Versorgung mit Erneuerbaren'
+- Gelöscht (Grund: Deep OS-Internals und Linux): 'Ubuntu macht ARM64 zur Plattform erster Klasse'
+- Gelöscht (Grund: Duplikat (Verfahren gegen eBay)): 'Deutscher DSA-Koordinator geht gegen eBay vor'
+- Gelöscht (Grund: Enterprise-IT & Netzwerk-Infrastruktur): 'Dell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab'
+- Gelöscht (Grund: Apple-Themen (iPhone)): '„iPhone Ultra“: Nutzt Apple einen Verkaufsansatz wie beim iPhone X?'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Angriff auf Infofreiheit: Transparenzbeauftragte wehren sich gegen IFG-Reform
+- [Heise] Geheimdienstbericht in Kanada: Cyberoperationen im Ausland
+- [Heise] Deal über fünf Jahre: Broadcom liefert weiter Chips an Apple
+- [Heise] Auto-Gadgets für den Sommerurlaub: Babykameras, Kühlboxen, Carplay & Co.
+- [Heise] Elektrische Schulbusse in den USA werden als Netzspeicher eingesetzt
+- [Heise] Fluggastdaten: Deutsche Behörden scannten 2025 über 627 Millionen Datensätze
+- [Heise] China verschärft KI-Regeln: ByteDance und Alibaba entfernen menschenähnliche KI
+- [Heise] Für digitale Souveränität: RISC-V-Sicherheitschip aus Deutschland
+- [Golem] Bundesnetzagentur: Verfahren gegen Ebay wegen willkürlicher Sperrungen und Rückerstattungen
+- [Digitec] «Die bedeutendste Umstrukturierung in der Geschichte von Xbox»: Microsoft verkauft Studios und entlässt Tausende Mitarbeitende
+- [Golem] Klima: Bundestagsbeschluss zum Heizungsgesetz könnte verschoben werden
+- [Digitec] Smartphone-Lieblinge der Redaktion – Stand Juli 2026
+- [Digitec] Internationale Computerspielesammlung ist vorerst gescheitert
+- [Heise] Vom LHC zum HiLumi LHC: Cern-Teilchenbeschleuniger wird aufgerüstet
+- [Golem] Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien
+- [Heise] Bang & Olufsen Beoplay H100 im Test: genial guter Klang, Top-ANC, perfekter Halt
+- [Digitec] Hasselblad und Capture One begraben das Kriegsbeil
+- [Golem] Kryptowährung: $Trump-Coin Käufer verloren 3,8 Milliarden US-Dollar
+- [Golem] Playstation: Bereits erhältiche Spiele bleiben wohl länger auf Disc erhältlich
+- [Heise] Nvidia verkauft KI-Beschleuniger jetzt gegen Umsatzbeteiligung
+- [Heise] KI-Update: UN-Bericht zu KI, Plädoyer für Open Source, Vorsicht vor KI-Kollegen
+- [Digitec] Mini-Spielhalle für die Feuerwache: Feuerwehrmann baut zwei Arcade-Cabinets
+- [Heise] Tech-Startups wollen die EU Inc.
+- [Heise] Temu, Shein und Co. steigern Marktanteil auf Rekordwert
+- [Heise] ESA-Weltraumteleskop Euclid: Erfolge bei Suche nach den frühesten Quasaren
+- [Golem] Open Source: Neues Firefox-Add-on umgeht Alterskontrollen
+- [Digitec] «Moonlight Peaks»: Ein Vampir mit Spitzhacke und Himbeertörtchen saugt kein Blut
+- [Digitec] Godox C100: die Kamera, die aussieht wie ein iPod
 - [Golem] Vibe Coding: Schüler hackt Streaminganbieter mit ChatGPT-Programm
 - [Golem] Oura Ring 5 im Test: Kann ein Ring heute schon die Sportuhr ersetzen?
 - [Heise] Punkt MC03: Google-freies Smartphone kommt ohne Abo zum höheren Preis
@@ -63,12 +108,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] Trumps Memecoins: Milliardenverluste für die meisten Konten, Gewinne für wenige
 - [Heise] Quatsch auf Knopfdruck: Click Boom Flash #66 „Fotobox-Fotografie"
 - [Heise] Montag: Britisches Stargate nur Medien-Coup, Identitätsdiebstahl bei WhatsApp
-- [Heise] WhatsApp-Benutzernamen wecken Befürchtungen vor möglichem Identitätsdiebstahl
-- [Digitec] Jury entscheidet: «World of Warcraft», «The Legend of Zelda» und «Minecraft» sind die besten Spiele aller Zeiten
-- [Heise] Top 10: Die beste elektrische Fliegenklatsche im Test – mit Akku oder Batterien
-- [Heise] Repräsentative Umfrage: Viele Eltern regeln Digitalkonsum von Kindern nicht
-- [Heise] Stargate UK: 20-Milliarden-Pfund-Investment war nicht mehr als ein PR-Stunt
-- [Heise] Für 8,2 Milliarden Euro: Micron baut japanische Chipfabrik aus
-- [Heise] Behörde kann der Post nicht auf die Finger gucken, weil Marktforscher klagen
-- [Heise] Sky-ECC-Zufallsfunde vor Gericht: Wann Krypto-Chats verwertbar sind
-- [Golem] Nvidia-CEO: Jensen Huangs signierte Lederjacke wird versteigert
