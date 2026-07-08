@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 7.7.2026, 12:58:39
-Letzter Lauf: 7.7.2026, 06:30:35
+Start: 8.7.2026, 06:30:36
+Letzter Lauf: 7.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,23 +17,46 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 16 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 15 (bevorzugter SRF-Artikel).): 'Fall Balogun – Sportjournalist: «Das Ganze könnte noch sehr kompliziert werden»'
-- Weiterhin entfernt (Cache, Grund: Kriminalität in der Schweiz außerhalb von Vaud (Genf).): 'Genève enquête sur l'épouse de l'ex-président gabonais'
-- Weiterhin entfernt (Cache, Grund: Abstimmung in der Schweiz außerhalb von Waadt und Genf (Wallis).): 'Eishalle im Saastal VS – Abstimmungs-Nein: Wird geplante neue Eishalle nun zur Bauruine?'
-- Weiterhin entfernt (Cache, Grund: Brand in der Schweiz außerhalb von Vaud (Uvrier, Wallis).): 'L'incendie dans une déchèterie est désormais «contenu»'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 15 (behandelt dasselbe Thema).): 'Balogun, Wembley, Hand Gottes – Die grössten Kontroversen der WM-Geschichte'
-- Weiterhin entfernt (Cache, Grund: Unfall in der Schweiz außerhalb von Vaud (Delémont, Jura).): 'Un piéton renversé par une voiture à Delémont'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 15 (behandelt dasselbe Thema).): 'Von Entsetzen bis Verständnis – «Das ist unser Spiel, nicht ihres»: Reaktionen zum «Fall Balogun»'
-- Gelöscht (Grund: Kriminalität/Blaulicht-Meldung (Strafuntersuchung wegen Spionage) in der Schweiz außerhalb der Waadt.): 'Un mystérieux dispositif d'écoute chez Klaus Schwab à Genève'
+KI-Filter (Gemini) - 30 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalität/Blaulicht-Meldung (Strafuntersuchung wegen Spionage) in der Schweiz außerhalb der Waadt): 'Un mystérieux dispositif d'écoute chez Klaus Schwab à Genève'
+- Gelöscht (Grund: Brandmeldung aus Soyhières (JU) außerhalb des Kantons Waadt.): 'Pompiers et agriculteurs ont uni leurs efforts face au feu'
+- Gelöscht (Grund: Kriminalitätsmeldung aus Zürich außerhalb des Kantons Waadt.): 'Antisemitischer Messerangriff – Höchstmögliche Strafe für jugendlichen Messerstecher in Zürich'
+- Gelöscht (Grund: Polizeimeldung über Raser in Neuenburg außerhalb des Kantons Waadt.): 'Chauffards lancés à toute allure interceptés par la police'
+- Gelöscht (Grund: Brandmeldung aus Meyrin (GE) außerhalb des Kantons Waadt.): 'Un incendie se declare sur le toit du Conforama'
+- Gelöscht (Grund: Duplikat zu ID 16; ID 16 bietet eine detailliertere Beschreibung.): 'Groupes WhatsApp racistes: le renvoi de deux policiers annulé'
+- Gelöscht (Grund: Duplikat zu ID 9; der SRF-Artikel wird bevorzugt.): 'Surmortalité de 15% chez les aînés durant la canicule'
+- Gelöscht (Grund: Duplikat zu ID 20; ID 20 enthält die aktuellere juristische Einordnung.): 'Trotz Berufungsurteils – Marine Le Pen will bei Präsidentschaftswahlen 2027 antreten'
+- Gelöscht (Grund: Duplikat zu ID 20; ID 20 ist der informativere Nachrichtenartikel.): 'Frankreich – Marine Le Pen: Von der Partei-Erbin zur Verurteilten'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Umstrittene Neophyten – Nicht jede eingeschleppte Pflanze ist schädlich
+- [SRF Ausland] Bürogebäude im Umbau – Hochhaus mitten in Manhattan wegen Einsturzgefahr geräumt
+- [SRF Schweiz] Neues Sandsport-Zentrum – Wie 600 Tonnen Sand aufs Dach kommen
+- [SRF Ausland] Sorgen im Kreml – So funktioniert Korruption in der russischen Armee
+- [SRF Schweiz] Nutztiere – Hitze im Stall: Wie Bauern ihre Tiere schützen
+- [20 Min Romandie] Ehepaar droht Gefängnis wegen missbräuchlicher Untervermietung
+- [SRF Wirtschaft] Streit um AKW-Kosten – Subventionen für AKW vergleichbar mit Beiträgen für Erneuerbare
+- [SRF Schweiz] Hochzeitssaison – Geschenke und Dresscode – Hochzeitsetikette für Gäste
+- [SRF Schweiz] Zahlen zur Sterblichkeit – Hitzewelle forderte in der Schweiz rund 200 zusätzliche Tote
+- [SRF Ausland] Sicherheit und Tourismus – Nach WM-Aus: Mexiko zieht durchzogene Bilanz
+- [SRF Ausland] Brexit-Vorkämpfer – Nigel Farage legt Mandat nieder
+- [SRF Ausland] US-Justiz im Würgegriff – Trumps Vergeltung: Wie er die Justiz zur Waffe macht
+- [SRF Schweiz] Grössere Unterschiede – Lohnschere: Topverdienende heben ab – darunter stagniert es
+- [RTS Vaud] Entlassung zweier in WhatsApp-Gruppen involvierter Lausanner Polizisten aufgehoben
+- [SRF Schweiz] Umweltsünden – Wie sich der Umweltschutz im Aargau verändert hat
+- [SRF Ausland] Berufungsgericht zu Le Pen – Das Volk soll entscheiden dürfen, ob Le Pen Präsidentin wird
+- [20 Min Romandie] Neuenburg startet Aktion zur Regularisierung von Sans-Papiers
+- [SRF Schweiz] Wanderung des Monats Juli – Vom Zugerberg ins Lorzentobel: eine Wanderung mit Tiefgang
+- [SRF Schweiz] F-35-Kampfjets – Armasuisse präzisiert Kompensationsgeschäfte mit Lockheed Martin
+- [SRF Schweiz] Neuer Höchststand – «Gewalt an Kindern hat seit Corona jedes Jahr zugenommen»
+- [SRF Ausland] Angriff auf Oligarchen – Monaco-Anschlag: Hauptverdächtige tot in Ukraine gefunden
+- [SRF Gesellschaft] Glosse zu WM-Tippspielen – Als ich einmal (ein bisschen) für Deutschland war
 - [20 Min Romandie] Er ruft dazu auf, mit «scharfer Munition» auf No-G7-Demonstranten zu schiessen
 - [20 Min Romandie] Finanzierung von Tagesmüttern: Die Gemeinde dreht den Geldhahn zu
 - [SRF Gesellschaft] Urlaub und Romantik – Warum Ferien für Paare oft zum Stresstest werden
 - [SRF Ausland] Gaza-Friedensplan – Experte: «Die Entwaffnung der Hamas ist nicht vorangekommen»
 - [SRF Wissen] Unterschätzte Insekten – Sind Hummeln intelligenter als gedacht?
-- [SRF Wirtschaft] Attraktivität – Hitze verändert den Wert von Immobilien
+- [SRF Schweiz] Attraktivität – Hitze verändert den Wert von Immobilien
 - [SRF Ausland] Paraguayische Senatorin – Rassismus-Eklat: Frankreich geht für Mbappé vor Gericht
 - [SRF Ausland] Pamplona – Enge Gassen, schwere Bullen: Fünf Verletzte beim Stier-Rennen
 - [Morges Actualitiés] Waadtländer Hitzeplan reaktiviert
@@ -43,22 +66,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] EDK gegen Sportlehrer – Wird Schulsport zum Wahlfach? Lehrer und Fachleute laufen Sturm
 - [SRF Schweiz] Verseuchter Nationalpark-Fluss – Mit Baggern im Nationalpark: Wie der Spöl vom Gift befreit wird
 - [SRF Ausland] Brandherde in Europa – 10'000 in Frankreich evakuiert +++ Zwei Tote in Griechenland
-- [SRF Schweiz] Einbrüche in Waffengeschäfte – So funktionieren die «Verbrechen auf Bestellung»
-- [SRF Schweiz] Kontaminierte Flächen – Schiessen: Eine Tradition hat ihre Spuren im Boden hinterlassen
-- [SRF Ausland] Gipfel mit Trump und Erdoğan – Schicksalhaftes Nato-Treffen: Neuerfindung – oder Zerfall?
-- [SRF Schweiz] Günstiger dank Kooperation – Schweiz und Österreich wollen Rüstungsgüter gemeinsam einkaufen
-- [SRF Ausland] Stiftungen werden aktiv – Appell an den Bundesrat in Sachen Entwicklungszusammenarbeit
-- [SRF Ausland] Folter und Misshandlungen – Zwei Folterer des Assad-Regimes in Wien verurteilt
-- [SRF Schweiz] Projekt Verkehr 45 – Wer steckt hinter der Grimseltunnel-Baulobby?
-- [20 Min Romandie] Biber machen dem Kanton einen Strich durch die Rechnung
-- [20 Min Romandie] Brandausbruch nach dem Spiel Marokko–Kanada
-- [20 Min Romandie] Feuer nahe einer Schule in Écublens unter Kontrolle
-- [SRF Wirtschaft] Shopping rund um die Uhr – 24-Stunden-Läden: Migros-Konkurrenz machte schlechte Erfahrungen
-- [SRF Ausland] Der «Fall Balogun» – Trump bat Fifa-Chef um Überprüfung – Infantino negiert Einfluss
-- [20 Min Romandie] Das Auerhuhn ist als echtes Wahrzeichen fast aus dem Kanton verschwunden
-- [SRF Schweiz] Gewalt gegen Kinder – Zahl der Kindesmisshandlungen steigt auf neuen Höchststand
-- [20 Min Romandie] Nach einer Woche Atempause werden die Hitzepläne wieder aktiviert
-- [SRF Gesellschaft] Promi-Hochzeit im Verborgenen – «Damit stellt Taylor Swift ihre Macht zur Schau»
-- [20 Min Romandie] Doppelunfall beim Triathlon: Radfahrer von Autos angefahren
-- [SRF Gesellschaft] Vor 10 Jahren veröffentlicht – Pokémon Go: Wo steht der Sommerhype von 2016 heute?
-- [SRF Schweiz] Ungewöhnliche Mitbewohnerinnen – Wie zwei Schweinchen in einem Altersheim Senioren beglücken
