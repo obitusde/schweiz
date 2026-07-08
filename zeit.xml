@@ -5,154 +5,133 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Tue, 07 Jul 2026 04:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 04:59:31 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Arbeit] Krankenstand: Immer mehr Arbeitnehmer fallen wegen Krankheit länger aus</title>
-      <link>https://www.zeit.de/arbeit/2026-07/krankengeld-krankenstand-bkk-langzeitausfaelle-psychische-erkrankungen</link>
-      <guid isPermaLink="false">{urn:uuid:b32388fb-bad7-4cc2-8527-b06494d9ca22}</guid>
-      <description><![CDATA[Wegen langer Ausfälle müssen die Krankenkassen mehr Geld für das Krankengeld aufwenden. Psychische Erkrankungen gehören zu den häufigsten Ursachen.]]></description>
-      <pubDate>Tue, 07 Jul 2026 04:46:24 GMT</pubDate>
+      <title>[Gesellschaft] Deutsche Bahn: Bahn-Beschäftigte und Bundespolizisten melden fast täglich Gewalt</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/gewalt-bahn-mitarbeiter-bundespolizei-statistik</link>
+      <guid isPermaLink="false">{urn:uuid:fe52db4d-571b-48b6-aeb5-277973f170e0}</guid>
+      <description><![CDATA[Mehr Beschäftigte der Bahn und der Bundespolizei werden bedroht oder angegriffen. Allein in den ersten fünf Monaten des Jahres wurden mehr als 6.000 Fälle registriert.]]></description>
+      <pubDate>Wed, 08 Jul 2026 04:52:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Spirituosensteuer: Spirituosenfirmen zweifeln an Mehreinnahmen durch höhere Alkoholsteuer</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/spirituosensteuer-erhoehung-alkohol-finanzminister-bsi</link>
-      <guid isPermaLink="false">{urn:uuid:8f47ae66-2f9b-4e44-8f8d-568187a08d9b}</guid>
-      <description><![CDATA[Die Koalition will die Steuern auf Spirituosen anheben. Der Bund rechnet mit fast einer halben Milliarde Euro an Mehreinnahmen im Jahr. Die Alkoholindustrie widerspricht.]]></description>
-      <pubDate>Tue, 07 Jul 2026 03:53:30 GMT</pubDate>
+      <title>[Wirtschaft] Einzelhandel: Mehr Bäckereien in Deutschland melden Insolvenz an</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/baeckerei-insolvenzen-pleiten-creditreform-backwaren</link>
+      <guid isPermaLink="false">{urn:uuid:c0428c48-4da3-4030-b036-4e3a2b8484c6}</guid>
+      <description><![CDATA[In Deutschland steigt die Zahl der Insolvenzen von Bäckereien und Konditoreien. Das klassische Bäckerhandwerk gerät unter anderem wegen Discountern zunehmend unter Druck.]]></description>
+      <pubDate>Wed, 08 Jul 2026 03:31:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Private Vermieter: »Nie wieder würde ich in Immobilien investieren«</title>
-      <link>https://www.zeit.de/geld/2026-06/private-vermieter-mietwohnungsmarkt-lobby-haus-und-grund</link>
-      <guid isPermaLink="false">{urn:uuid:877b3486-c560-42ee-8e18-dc7984733edf}</guid>
-      <description><![CDATA[Zu viel Bürokratie, zu wenig Rendite: Mehr als 60 Prozent aller privaten Vermieter wollen hinschmeißen. Was an den Klagen dran ist – und was ihr Rückzug bedeuten würde.]]></description>
-      <pubDate>Tue, 07 Jul 2026 03:29:59 GMT</pubDate>
+      <title>[Gesellschaft] Boeing 737: Pakistan meldet Verschwinden von Frachtflugzeug über Arabischem Meer</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/pakistan-frachtflugzeug-boeing-737-karachi-k2-airways</link>
+      <guid isPermaLink="false">{urn:uuid:ffdb5e97-14f9-437a-a8e9-024caeb0e6e0}</guid>
+      <description><![CDATA[Vor der Küste der pakistanischen Hafenstadt Karatschi wird eine Boeing 737 vermisst. Die Besatzung hatte vor dem Kontaktabbruch ein Navigationsproblem gemeldet.]]></description>
+      <pubDate>Wed, 08 Jul 2026 02:50:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Erdbeben in Venezuela: Zahl der Toten in Venezuela steigt auf mehr als 3.500</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/erdbeben-venezuela-todesopfer-nachbeben-la-guaira</link>
-      <guid isPermaLink="false">{urn:uuid:56414eaa-1867-42ce-8eb5-caebd5b8dead}</guid>
-      <description><![CDATA[Fast zwei Wochen nach den schweren Erdstößen steigt die Zahl der Toten in Venezuela weiter. Die Schätzungen zur Zahl der Vermissten gehen weit auseinander.]]></description>
-      <pubDate>Tue, 07 Jul 2026 01:58:11 GMT</pubDate>
+      <title>[Wirtschaft] SpaceX-Aktie: Jetzt sind wir alle ein bisschen Elon</title>
+      <link>https://www.zeit.de/geld/2026-07/spacex-aktie-nasdaq-100-etfs-finanzmarkt-elon-musk</link>
+      <guid isPermaLink="false">{urn:uuid:08dce66c-dcd5-4eb0-abf6-47afda48f800}</guid>
+      <description><![CDATA[Elon Musks Firma SpaceX kommt in den Aktienindex Nasdaq-100. Die Indexmacher haben eigens für ihn die Regeln verbogen. Das muss alle ETF-Anleger schrecken.]]></description>
+      <pubDate>Tue, 07 Jul 2026 16:46:23 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Rüstungsindustrie: Kanada bestellt U-Boote bei deutschem Hersteller TKMS</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/kanada-bestellt-u-boote-bei-deutschem-hersteller-tkms</link>
-      <guid isPermaLink="false">{urn:uuid:b79646b5-bea5-4737-be59-65a59a7fd0c4}</guid>
-      <description><![CDATA[Die deutsche Rüstungsfirma TKMS soll für Kanada U-Boote im Wert von mehreren Milliarden bauen. Kanzler Merz sieht darin »ein starkes Zeichen« der Zusammenarbeit.]]></description>
-      <pubDate>Mon, 06 Jul 2026 23:56:02 GMT</pubDate>
+      <title>[Wirtschaft] Betrugsmaschen auf Booking.com: Jetzt soll er auch noch 78.441 Euro zahlen</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/betrugsmaschen-booking-reise-platform-abzocke-gefahr</link>
+      <guid isPermaLink="false">{urn:uuid:05edd7f7-683a-441d-a39f-b046795b425b}</guid>
+      <description><![CDATA[Ein Fake-Inserat führt Paris-Reisende in die Irre. Ihr Frust trifft einen Mann, der das Portal Booking früh informiert hat. Statt brauchbarer Hilfe erhält er Rechnungen.]]></description>
+      <pubDate>Tue, 07 Jul 2026 16:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Österreich: Wiener Gericht verurteilt syrische Ex-Offiziere wegen Misshandlung</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/syrien-offiziere-wien-folter-urteil</link>
-      <guid isPermaLink="false">{urn:uuid:46b76dc6-3429-43fd-b816-10564897314a}</guid>
-      <description><![CDATA[Fußtritte ins Gesicht, Elektroschocks im Genitalbereich: Zwei Offiziere des Assad-Regimes sollen so Kritiker gequält haben. Nun sollen beide für je acht Jahre in Haft.]]></description>
-      <pubDate>Mon, 06 Jul 2026 18:31:43 GMT</pubDate>
+      <title>[Gesellschaft] Paketbomben in Monaco: Wegen Anschlags gesuchte Ukrainerin laut Polizei tot gefunden</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/anastasija-beresowska-paketbombe-monaco-ukraine-hur</link>
+      <guid isPermaLink="false">{urn:uuid:05056e5d-db4d-47a9-9bf5-9998dd6d3fa7}</guid>
+      <description><![CDATA[Die wegen eines Anschlags in Monaco gesuchte Ukrainerin Anastasija Beresowska ist in der Ukraine tot aufgefunden worden. Die Polizei nahm zwei Verdächtige fest.]]></description>
+      <pubDate>Tue, 07 Jul 2026 13:30:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Interpol: Polizei aus 59 Ländern nimmt viele mutmaßliche Menschenhändler fest</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/menschenhandel-interpol-global-chain-organisierte-kriminalitaet</link>
-      <guid isPermaLink="false">{urn:uuid:ba7b3d72-e58e-4a6a-8c01-1bcc1683dc79}</guid>
-      <description><![CDATA[Interpol ist mit einer internationalen Aktion gegen Menschenhandel vorgegangen. Es gab mehr als tausend Festnahmen auf vier Kontinenten.]]></description>
-      <pubDate>Mon, 06 Jul 2026 16:25:54 GMT</pubDate>
+      <title>[Wirtschaft] LNG-Importe: Wie Katherina Reiche die Energiewende torpediert</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/lng-importe-abkommen-kanada-energiewende-katherina-reiche</link>
+      <guid isPermaLink="false">{urn:uuid:b2761c80-b4a1-4218-89d8-c60200e51099}</guid>
+      <description><![CDATA[Mit Unterstützung des Wirtschaftsministeriums handelt ein Konzern neue Gasverträge aus. Sie gelten sogar über 2050 hinaus, wenn Deutschland längst klimaneutral sein will.]]></description>
+      <pubDate>Tue, 07 Jul 2026 11:53:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Digital] Videospiele: Wenn Games aus dem Regal verschwinden</title>
-      <link>https://www.zeit.de/digital/games/2026-07/videospiele-datentraeger-verkauf-sony-kulturgut</link>
-      <guid isPermaLink="false">{urn:uuid:934b3ca2-76d6-4ad0-8102-2aabf0cf7081}</guid>
-      <description><![CDATA[Sony will ab 2028 keine Spiele mehr auf Datenträgern anbieten. Wirtschaftlich ist das nachvollziehbar. Doch es hat einen Preis für das Kulturgut Videospiel.]]></description>
-      <pubDate>Mon, 06 Jul 2026 16:21:45 GMT</pubDate>
+      <title>[Digital] Soziale Medien: Social-Media-Verbot in Australien scheitert bereits an Altersabfrage</title>
+      <link>https://www.zeit.de/politik/ausland/2026-07/australien-social-media-verbot-instagram-snapchat-altersnachweis</link>
+      <guid isPermaLink="false">{urn:uuid:aa192973-72be-45bb-9d47-46e439b76fac}</guid>
+      <description><![CDATA[Das weltweit erste Social-Media-Verbot für Kinder in Australien zeigt offenbar wenig Wirkung. Eine neue Studie weckt nun weitere Zweifel an der Effektivität der Maßnahme.]]></description>
+      <pubDate>Tue, 07 Jul 2026 11:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Xbox und LinkedIn: Microsoft baut mehrere Tausend Stellen ab</title>
-      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/microsoft-entlassungen-stellenabbau-ki-kosten</link>
-      <guid isPermaLink="false">{urn:uuid:a01f13cb-b27a-4374-82e5-c1bf31ef4935}</guid>
-      <description><![CDATA[4.800 Jobs fallen bei Microsoft weg, der Großteil in der Gamingsparte Xbox. Auch das Karrierenetzwerk LinkedIn ist von dem Stellenabbau betroffen.]]></description>
-      <pubDate>Mon, 06 Jul 2026 15:38:44 GMT</pubDate>
+      <title>[Gesellschaft] Fluggastrechte in der EU: Europaparlament stimmt für neue Fluggastrechte</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/fluggastrechte-eu-parlament-reform-fluege</link>
+      <guid isPermaLink="false">{urn:uuid:eb14bf59-0c06-4854-8fd2-dea2fa4e6f3c}</guid>
+      <description><![CDATA[Das EU-Parlament beschließt neue Rechte für Flugreisende. Eltern können kostenlos Sitze neben ihren Kindern reservieren, Ticketpreise müssen klar angezeigt werden.]]></description>
+      <pubDate>Tue, 07 Jul 2026 11:25:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Wohnungsbau: Verband fürchtet Einbruch von Neubau-Investitionen wegen hoher Kosten</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/wohnungsbau-gdw-investitionen-gebaeudetyp-e-baukosten</link>
-      <guid isPermaLink="false">{urn:uuid:ff028846-ba10-45cf-9568-fa7ad828a4d8}</guid>
-      <description><![CDATA[Die hohen Baukosten drohen Investitionen in Neubauten einbrechen zu lassen, warnt ein Immobilienverband. Die Funktionäre sehen die Politik in der Pflicht.]]></description>
-      <pubDate>Mon, 06 Jul 2026 15:16:47 GMT</pubDate>
+      <title>[Gesellschaft] Marla Svenja Liebich: Tschechien darf Neonazi Liebich an Deutschland ausliefern</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/marla-svenja-liebich-auslieferung-tschechien-rechtsextremismus</link>
+      <guid isPermaLink="false">{urn:uuid:4768e8fa-f2d8-4318-8e16-e087bd2a5257}</guid>
+      <description><![CDATA[Ein Gericht in Prag hat die Beschwerde von Neonazi Marla Svenja Liebich zurückgewiesen. Tschechien darf Liebich damit nach Deutschland ausliefern.]]></description>
+      <pubDate>Tue, 07 Jul 2026 09:55:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Waldbrände in Südfrankreich: Großwaldbrand in den Pyrenäen breitet sich weiter aus</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/waldbrand-frankreich-pyrenees-orientales-hitzewelle-evakuierung</link>
-      <guid isPermaLink="false">{urn:uuid:cb5826a0-a78d-40e3-8ecb-e92ba3d1a6a2}</guid>
-      <description><![CDATA[Ein Feuer in den Pyrenäen nahe der spanischen Grenze hat 10.000 Menschen zur Flucht gezwungen. 26 Ortschaften mussten wegen des Waldbrands evakuiert werden.]]></description>
-      <pubDate>Mon, 06 Jul 2026 14:23:41 GMT</pubDate>
+      <title>[Wirtschaft] Samsung Electronics: Samsung erzielt erneut Rekordgewinn</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/samsung-electronics-rekordgewinn-aktienkurs-quartal-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:9f54b514-5c2a-46be-9c23-438d859f9aa1}</guid>
+      <description><![CDATA[Mit einem Ergebnis von rund 51 Milliarden Euro erzielt Samsung seinen dritten Rekord-Quartalsgewinn in Folge. Dennoch fiel der Aktienkurs zeitweise um fast zehn Prozent.]]></description>
+      <pubDate>Tue, 07 Jul 2026 09:37:42 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] KI-Trading: Matcha Latte für die Frauen, Sportwagen für die Männer</title>
-      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/sagemaster-unternehmen-warnung-kuenstliche-intelligenz-finanzen</link>
-      <guid isPermaLink="false">{urn:uuid:8d449996-d0b2-401b-b250-eaa5002f1e26}</guid>
-      <description><![CDATA[Es gibt eine KI, die dir das Geldverdienen abnimmt: Das suggerieren Hunderte Influencer auf Instagram. Aber Aufsichtsbehörden warnen nicht grundlos vor SageMaster.]]></description>
-      <pubDate>Mon, 06 Jul 2026 13:57:37 GMT</pubDate>
+      <title>[Wirtschaft] IG Metall: IG Metall ruft zu Aktionstag gegen neue Sparpläne bei VW auf</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/ig-metall-aktionstag-vw-sparplaene-daniela-cavallo-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:46da0951-abc7-43f6-bc88-82a9653ff078}</guid>
+      <description><![CDATA[Am Donnerstag kommt der Aufsichtsrat von VW zusammen, um über verschärfte Sparpläne zu beraten. Die IG Metall kündigte bundesweit Aktionen gegen die Pläne an.]]></description>
+      <pubDate>Tue, 07 Jul 2026 09:27:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Gastronomie: Sie wollen ein Café gründen? Denken Sie noch mal drüber nach</title>
-      <link>https://www.zeit.de/geld/2026-07/gastronomie-selbststaendigkeit-cafebesitzerin-finanzielles-risiko</link>
-      <guid isPermaLink="false">{urn:uuid:8e239df0-3e05-49e3-9e87-8551e7e2b794}</guid>
-      <description><![CDATA[Die Tische sind voll, ein Cappuccino kostet 5,10 Euro. Und doch bleibt für Gründer oft wenig übrig. Was der Traum vom eigenen Café wirklich kostet – und wie er platzt.]]></description>
-      <pubDate>Mon, 06 Jul 2026 12:32:18 GMT</pubDate>
+      <title>[Wirtschaft] Produktion in Deutschland: Produzierendes Gewerbe wächst stärker als erwartet</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/industrieproduktion-deutschland-mai-2024-autoindustrie-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:0b4bba4a-23bc-4b88-bec3-412f8a279102}</guid>
+      <description><![CDATA[Die Zuwächse in der Automobilindustrie haben für eine positive Entwicklung gesorgt. Im produzierenden Gewerbe stieg die Produktion im Mai stärker als erwartet.]]></description>
+      <pubDate>Tue, 07 Jul 2026 08:34:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Glyphosat Rechtsstreit: Der Vernichter (Bonusfolge): Jetzt spricht der Kläger</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/glyphosat-rechtsstreit-usa-supreme-court-klaeger</link>
-      <guid isPermaLink="false">{urn:uuid:e701dfdc-e839-4b8b-b056-26a6305f44c5}</guid>
-      <description><![CDATA[Bayer hat den Streit um Glyphosat gewonnen. Nun kommt der Mann zu Wort, der Bayer vor dem Supreme Court gegenüberstand. Ein Rentner aus Missouri, der wieder klagen will.]]></description>
-      <pubDate>Mon, 06 Jul 2026 10:58:33 GMT</pubDate>
+      <title>[Wirtschaft] Alkoholfreies Bier: Deutsche Brauer steigern Produktion von alkoholfreiem Bier deutlich</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/alkoholfreies-bier-brauer-brauereien-absatz-deutschland</link>
+      <guid isPermaLink="false">{urn:uuid:d5dcf36d-45fb-4b85-9ae4-fad88dbc4dd9}</guid>
+      <description><![CDATA[Die deutschen Brauereien setzen stärker auf alkoholfreie Sorten. Noch verkaufen sie aber zehnmal so viel Bier mit Alkohol. Die Produktion von Radler oder Cola-Bier sinkt.]]></description>
+      <pubDate>Tue, 07 Jul 2026 08:30:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Schweiz] Berghütten: »Warme Duschen braucht es nicht«</title>
-      <link>https://www.zeit.de/2026/29/berghuetten-schweizer-alpen-bau-architektur</link>
-      <guid isPermaLink="false">{urn:uuid:a6690527-924c-4ea0-bd40-ffcda86af685}</guid>
-      <description><![CDATA[Erst Stein, dann Holz, dann Hightech – und jetzt? Der Architekt Hanspeter Bürgi über das schwierige Bauen am Berg und die Frage, was das Flachland davon lernen kann]]></description>
-      <pubDate>Mon, 06 Jul 2026 10:14:05 GMT</pubDate>
+      <title>[Digital] Künstliche Intelligenz: KI-generierte Figur wird erstmals in Spielfilm eingesetzt</title>
+      <link>https://www.zeit.de/feuilleton/film/2026-07/tilly-norwood-ki-film-misaligned-particle-6-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:879bcedc-7107-4a85-b418-b86b4eaef864}</guid>
+      <description><![CDATA[In dem Comedy-Drama »Misaligned« spielt die KI-generierte Figur Tilly Norwood die Hauptrolle. In der Filmbranche wird die Figur seit ihrer Entwicklung kritisiert.]]></description>
+      <pubDate>Tue, 07 Jul 2026 08:18:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Industrieaufträge: Deutsche Industrie erhält mehr Aufträge als erwartet</title>
-      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/industrieauftraege-deutschland-auftraege-fahrzeugbau-maschinenbau-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:a80b79f1-6050-44cf-a3b7-a7d9a47bad41}</guid>
-      <description><![CDATA[Die Auftragslage der deutschen Industrie hat sich im Mai verbessert. Erholungssignale gibt es etwa im Maschinenbau, die Autoindustrie meldet weniger Aufträge.]]></description>
-      <pubDate>Mon, 06 Jul 2026 10:02:18 GMT</pubDate>
+      <title>[Wirtschaft] Materialmangel in der deutschen Wirtschaft: Immer mehr Industrieunternehmen melden Materialengpässe</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/materialengpaesse-industrie-unternehmen-deutschland-ifo-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:beb479f6-685f-472c-93b2-330df35fe2b9}</guid>
+      <description><![CDATA[In der Industrie haben Firmen zunehmend Probleme, an Materialien für die Produktion zu gelangen. Infolge des Irankriegs hakt es immer noch bei den Lieferketten.]]></description>
+      <pubDate>Tue, 07 Jul 2026 07:30:35 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Stellenabbau bei Porsche: Porsche will weitere Stellen streichen</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/porsche-stellenabbau-management-verwaltung-weissach-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:246f6a58-6bda-4fe9-9921-ee6765a78af5}</guid>
-      <description><![CDATA[Wegen massiver Absatzrückgänge will der Sportwagenhersteller weitere Stellen abbauen. Der Fokus liege im Management. Ende Juli soll ein Zukunftspaket vorgestellt werden.]]></description>
-      <pubDate>Mon, 06 Jul 2026 09:23:40 GMT</pubDate>
+      <title>[Wirtschaft] Rüstungsdeal mit Kanada: Ein Signal an Donald Trump</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/ruestungsdeal-u-boot-kanada-mark-carney-tkms-nato</link>
+      <guid isPermaLink="false">{urn:uuid:5f4fdf19-c2e1-4725-a09d-64c5fa94e88a}</guid>
+      <description><![CDATA[Kanada bestellt zwölf U-Boote bei einer ThyssenKrupp-Tochter, es ist der größte Auftrag in der Unternehmensgeschichte. Die Bedeutung des Deals geht weit darüber hinaus.]]></description>
+      <pubDate>Tue, 07 Jul 2026 06:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Arbeit] Care-Arbeit: »Ich konnte nicht akzeptieren, dass mein Mann nicht funktioniert«</title>
-      <link>https://www.zeit.de/arbeit/2026-07/care-arbeit-eltern-krankheit-muetter-familie</link>
-      <guid isPermaLink="false">{urn:uuid:1e4103f2-1872-4f11-9af9-5d8fbc20bd9f}</guid>
-      <description><![CDATA[Wenn ein Elternteil erkrankt, hängt alles plötzlich am anderen. Drei Betroffene erzählen davon, wie sie es geschafft haben, Kinder, Haushalt und Job allein zu stemmen.]]></description>
-      <pubDate>Mon, 06 Jul 2026 07:54:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Umfrage zu Demokratie in Unternehmen: Polarisierung belastet Betriebsklima in deutschen Unternehmen</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/demokratie-unternehmen-umfrage-standortfaktor-politisierung-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:7da4d281-75a6-4b64-b289-38023bfa1c1b}</guid>
-      <description><![CDATA[Firmen sehen die Demokratie als Grundlage wirtschaftlichen Erfolgs. Laut einer Umfrage bewerten rund 30 Prozent die gesellschaftliche Polarisierung jedoch als Bürde.]]></description>
-      <pubDate>Mon, 06 Jul 2026 06:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Arbeit] Mangel an Busfahrern: Verkehrsbranche droht Mangel an Busfahrern</title>
-      <link>https://www.zeit.de/arbeit/2026-07/mangel-busfahrer-oepnv-verkehr-deutschland-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:f7de003b-20c9-4abe-8862-1a265eac53cd}</guid>
-      <description><![CDATA[Fast jeder zweite Bus- und Straßenbahnfahrer ist älter als 55. Wenn Zehntausende von ihnen demnächst in Rente gehen, könnten Verkehrslinien ausgedünnt werden.]]></description>
-      <pubDate>Mon, 06 Jul 2026 05:44:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] Bodensee: Grenzenlos</title>
-      <link>https://www.zeit.de/2026/28/bodensee-grenze-schweiz-deutschland-oesterreich-harald-hetzenauer</link>
-      <guid isPermaLink="false">{urn:uuid:4c6f66b1-faf2-4821-be78-1af215cedb92}</guid>
-      <description><![CDATA[Am Bodensee kommen die Schweiz, Deutschland und Österreich zusammen. Doch niemand weiß, wem der See gehört. Wie ist das möglich?]]></description>
-      <pubDate>Mon, 06 Jul 2026 05:27:28 GMT</pubDate>
+      <title>[Digital] Balkonkraftwerke: Hier steckt die Schwachstelle der Energiewende</title>
+      <link>https://www.zeit.de/digital/2026-07/balkonkraftwerk-hoymiles-hacker</link>
+      <guid isPermaLink="false">{urn:uuid:8a3ab335-52e1-4669-b8ae-9505a7a3f5cf}</guid>
+      <description><![CDATA[Mit Balkonkraftwerken kann jeder Sonnenstrom nutzen. Leider nehmen Hersteller wie Hoymiles die Sicherheit nicht ernst genug. Die Anlagen lassen sich problemlos hacken.]]></description>
+      <pubDate>Tue, 07 Jul 2026 06:05:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
