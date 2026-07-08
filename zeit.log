@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 7.7.2026, 06:59:30
-Letzter Lauf: 6.7.2026, 06:59:30
+Start: 8.7.2026, 06:59:31
+Letzter Lauf: 7.7.2026, 06:59:30
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,32 +20,35 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 26 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Thema fällt unter deutsche Kommunalpolitik und parteipolitische Forderungen.): [Wirtschaft] 'Ladenöffnung am Sonntag: Ausschussvorsitzender für Lockerung von Verkaufsverbot an Sonntagen'
-- GelÃ¶scht (Grund: Thema fällt unter deutsche Kommunalpolitik und regionale deutsche Politik.): [Gesellschaft] 'Stromausfall in Berlin: Experten empfehlen zentrales Krisenzentrum'
-- GelÃ¶scht (Grund: Thema behandelt parteipolitische Interna und Parteipolitik.): [Wirtschaft] 'Wirtschaftspodcast: Wird die SPD jetzt wirtschaftsfreundlich?'
-- GelÃ¶scht (Grund: Thema ist stark parteipolitisch geprägt (Diskission zwischen CSU-Politiker und Ökonom).): [Wirtschaft] 'Kapitalgedeckte Rente: Rettet die Börse unsere Rente?'
-- GelÃ¶scht (Grund: Thema ist von lokaler Bedeutung (deutsche Kommunalebene).): [Gesellschaft] 'Seelenhorst in Brandenburg: Der letzte Kaiser'
+KI-Filter (Gemini) - 29 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Relevanz zur deutschen Kommunalpolitik/lokaler Infrastruktur.): [Mobilität] 'Flughafen BER: Dit is unser Fluchhafen'
+- GelÃ¶scht (Grund: Ausschlussgrund: Promis & Adel (Celebrities).): [Gesellschaft] 'Großbritannien: Prinz Harry und andere Prominente verlieren Prozess gegen »Daily Mail«'
+- GelÃ¶scht (Grund: Relevanz zur deutschen Kommunalpolitik/lokaler Vorfall.): [Gesellschaft] 'Gelsenkirchen: Sparkasse startet nach Einbruch Ausgleichszahlungen an Betroffene'
+- GelÃ¶scht (Grund: Ausschlussgrund: Rezepte & Kochen.): [Schweiz] 'Hüttenküche: »Ohne Würstel, aber herzhaft gewürzt«'
+- GelÃ¶scht (Grund: Ausschlussgrund: Parteipolitik & deutsche Sozialpolitik.): [Gesellschaft] 'Elterngeld: So erledigt sich das Thema Familie von selbst'
+- GelÃ¶scht (Grund: Ausschlussgrund: Lifestyle/Lifestyle-Promis.): [Gesellschaft] 'Isabelle Vivianne: Diese Tischlerin renoviert ein 200 Jahre altes Haus'
+- GelÃ¶scht (Grund: Ausschlussgrund: Parteipolitik (Deutschland).): [Wirtschaft] 'GKV-Reform: Koalition lehnt Sonderanhörung zum Krankenkassen-Spargesetz ab'
+- GelÃ¶scht (Grund: Duplikat zu Artikel 0; Artikel 0 deckt das Thema der täglichen Gewalt gegen Bahnpersonal informativer ab.): [Gesellschaft] 'Gewalt im Verkehr: Anklage fordert langjährige Haft in Prozess um getöteten Zugbegleiter'
+- GelÃ¶scht (Grund: Ausschlussgrund: Unfälle ohne längerfristige Relevanz (statistische Unfallberichterstattung).): [Gesellschaft] 'Verkehrsunfälle in Deutschland: Jeden Tag sterben acht Menschen auf Deutschlands Straßen'
+- GelÃ¶scht (Grund: Ausschlussgrund: Lifestyle/persönliche Meinung.): [Arbeit] 'Selbstständigkeit bei Frauen: »Zum Glück verdient dein Mann ja genug Geld«'
+- GelÃ¶scht (Grund: Duplikat zu Artikel 26; Artikel 26 ist informativer und ordnet die geopolitische Relevanz besser ein.): [Wirtschaft] 'Rüstungsindustrie: Kanada bestellt U-Boote bei deutschem Hersteller TKMS'
 
 Finale Liste (live im XML-Feed):
-- [Arbeit] Krankenstand: Immer mehr Arbeitnehmer fallen wegen Krankheit länger aus
-- [Wirtschaft] Spirituosensteuer: Spirituosenfirmen zweifeln an Mehreinnahmen durch höhere Alkoholsteuer
-- [Wirtschaft] Private Vermieter: »Nie wieder würde ich in Immobilien investieren«
-- [Gesellschaft] Erdbeben in Venezuela: Zahl der Toten in Venezuela steigt auf mehr als 3.500
-- [Wirtschaft] Rüstungsindustrie: Kanada bestellt U-Boote bei deutschem Hersteller TKMS
-- [Gesellschaft] Österreich: Wiener Gericht verurteilt syrische Ex-Offiziere wegen Misshandlung
-- [Gesellschaft] Interpol: Polizei aus 59 Ländern nimmt viele mutmaßliche Menschenhändler fest
-- [Digital] Videospiele: Wenn Games aus dem Regal verschwinden
-- [Wirtschaft] Xbox und LinkedIn: Microsoft baut mehrere Tausend Stellen ab
-- [Wirtschaft] Wohnungsbau: Verband fürchtet Einbruch von Neubau-Investitionen wegen hoher Kosten
-- [Gesellschaft] Waldbrände in Südfrankreich: Großwaldbrand in den Pyrenäen breitet sich weiter aus
-- [Wirtschaft] KI-Trading: Matcha Latte für die Frauen, Sportwagen für die Männer
-- [Wirtschaft] Gastronomie: Sie wollen ein Café gründen? Denken Sie noch mal drüber nach
-- [Wirtschaft] Glyphosat Rechtsstreit: Der Vernichter (Bonusfolge): Jetzt spricht der Kläger
-- [Schweiz] Berghütten: »Warme Duschen braucht es nicht«
-- [Wirtschaft] Industrieaufträge: Deutsche Industrie erhält mehr Aufträge als erwartet
-- [Wirtschaft] Stellenabbau bei Porsche: Porsche will weitere Stellen streichen
-- [Arbeit] Care-Arbeit: »Ich konnte nicht akzeptieren, dass mein Mann nicht funktioniert«
-- [Gesellschaft] Umfrage zu Demokratie in Unternehmen: Polarisierung belastet Betriebsklima in deutschen Unternehmen
-- [Arbeit] Mangel an Busfahrern: Verkehrsbranche droht Mangel an Busfahrern
-- [Schweiz] Bodensee: Grenzenlos
+- [Gesellschaft] Deutsche Bahn: Bahn-Beschäftigte und Bundespolizisten melden fast täglich Gewalt
+- [Wirtschaft] Einzelhandel: Mehr Bäckereien in Deutschland melden Insolvenz an
+- [Gesellschaft] Boeing 737: Pakistan meldet Verschwinden von Frachtflugzeug über Arabischem Meer
+- [Wirtschaft] SpaceX-Aktie: Jetzt sind wir alle ein bisschen Elon
+- [Wirtschaft] Betrugsmaschen auf Booking.com: Jetzt soll er auch noch 78.441 Euro zahlen
+- [Gesellschaft] Paketbomben in Monaco: Wegen Anschlags gesuchte Ukrainerin laut Polizei tot gefunden
+- [Wirtschaft] LNG-Importe: Wie Katherina Reiche die Energiewende torpediert
+- [Digital] Soziale Medien: Social-Media-Verbot in Australien scheitert bereits an Altersabfrage
+- [Gesellschaft] Fluggastrechte in der EU: Europaparlament stimmt für neue Fluggastrechte
+- [Gesellschaft] Marla Svenja Liebich: Tschechien darf Neonazi Liebich an Deutschland ausliefern
+- [Wirtschaft] Samsung Electronics: Samsung erzielt erneut Rekordgewinn
+- [Wirtschaft] IG Metall: IG Metall ruft zu Aktionstag gegen neue Sparpläne bei VW auf
+- [Wirtschaft] Produktion in Deutschland: Produzierendes Gewerbe wächst stärker als erwartet
+- [Wirtschaft] Alkoholfreies Bier: Deutsche Brauer steigern Produktion von alkoholfreiem Bier deutlich
+- [Digital] Künstliche Intelligenz: KI-generierte Figur wird erstmals in Spielfilm eingesetzt
+- [Wirtschaft] Materialmangel in der deutschen Wirtschaft: Immer mehr Industrieunternehmen melden Materialengpässe
+- [Wirtschaft] Rüstungsdeal mit Kanada: Ein Signal an Donald Trump
+- [Digital] Balkonkraftwerke: Hier steckt die Schwachstelle der Energiewende
