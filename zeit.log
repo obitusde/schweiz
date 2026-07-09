@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 8.7.2026, 06:59:31
-Letzter Lauf: 7.7.2026, 06:59:30
+Start: 9.7.2026, 06:59:31
+Letzter Lauf: 8.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,35 +20,42 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 29 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Relevanz zur deutschen Kommunalpolitik/lokaler Infrastruktur.): [Mobilität] 'Flughafen BER: Dit is unser Fluchhafen'
-- GelÃ¶scht (Grund: Ausschlussgrund: Promis & Adel (Celebrities).): [Gesellschaft] 'Großbritannien: Prinz Harry und andere Prominente verlieren Prozess gegen »Daily Mail«'
-- GelÃ¶scht (Grund: Relevanz zur deutschen Kommunalpolitik/lokaler Vorfall.): [Gesellschaft] 'Gelsenkirchen: Sparkasse startet nach Einbruch Ausgleichszahlungen an Betroffene'
-- GelÃ¶scht (Grund: Ausschlussgrund: Rezepte & Kochen.): [Schweiz] 'Hüttenküche: »Ohne Würstel, aber herzhaft gewürzt«'
-- GelÃ¶scht (Grund: Ausschlussgrund: Parteipolitik & deutsche Sozialpolitik.): [Gesellschaft] 'Elterngeld: So erledigt sich das Thema Familie von selbst'
-- GelÃ¶scht (Grund: Ausschlussgrund: Lifestyle/Lifestyle-Promis.): [Gesellschaft] 'Isabelle Vivianne: Diese Tischlerin renoviert ein 200 Jahre altes Haus'
-- GelÃ¶scht (Grund: Ausschlussgrund: Parteipolitik (Deutschland).): [Wirtschaft] 'GKV-Reform: Koalition lehnt Sonderanhörung zum Krankenkassen-Spargesetz ab'
-- GelÃ¶scht (Grund: Duplikat zu Artikel 0; Artikel 0 deckt das Thema der täglichen Gewalt gegen Bahnpersonal informativer ab.): [Gesellschaft] 'Gewalt im Verkehr: Anklage fordert langjährige Haft in Prozess um getöteten Zugbegleiter'
-- GelÃ¶scht (Grund: Ausschlussgrund: Unfälle ohne längerfristige Relevanz (statistische Unfallberichterstattung).): [Gesellschaft] 'Verkehrsunfälle in Deutschland: Jeden Tag sterben acht Menschen auf Deutschlands Straßen'
-- GelÃ¶scht (Grund: Ausschlussgrund: Lifestyle/persönliche Meinung.): [Arbeit] 'Selbstständigkeit bei Frauen: »Zum Glück verdient dein Mann ja genug Geld«'
-- GelÃ¶scht (Grund: Duplikat zu Artikel 26; Artikel 26 ist informativer und ordnet die geopolitische Relevanz besser ein.): [Wirtschaft] 'Rüstungsindustrie: Kanada bestellt U-Boote bei deutschem Hersteller TKMS'
+KI-Filter (Gemini) - 36 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Duplikat zum Thema Amoklauf Schongau; informativster Artikel behalten (ID 4).): [Gesellschaft] 'Gymnasium in Bayern: »Ich habe einen Knall gehört«'
+- GelÃ¶scht (Grund: Duplikat zum Thema Amoklauf Schongau; informativster Artikel behalten (ID 4).): [Gesellschaft] 'Oberbayern: 16-Jähriger verletzt zwei Mädchen bei Amoklauf im bayerischen Schongau'
+- GelÃ¶scht (Grund: Thematisiert deutsche Politik und allgemeine Verwaltungsstrukturen (Regionale Politik/Innenpolitik).): [Gesellschaft] 'Reformen der Alpenländer: Huch, eine Reform!'
+- GelÃ¶scht (Grund: Kein Nachrichtenwert, Lifestyle-Thema ohne gesellschaftliche Relevanz.): [Entdecken] 'Jubiläumspodcast: Wie Sie die perfekte Party planen'
+- GelÃ¶scht (Grund: Fällt unter Erziehungsthemen/Elternratgeber.): [Arbeit] 'Entwicklungspsychologie: »Eltern sollten zumindest wissen, mit wem ihre Kinder Zeit verbringen«'
+- GelÃ¶scht (Grund: Fällt unter deutsche Parteipolitik und politische Kritik an Regierungsmaßnahmen.): [Wirtschaft] 'Deutsche Energiepolitik: Sie macht zu viel Klein-Klein'
+- GelÃ¶scht (Grund: Regionale Verkehrsmeldung/Bauarbeiten ohne überregionale Relevanz.): [Wirtschaft] 'Deutsche Bahn: Bauarbeiten betreffen ICE-Strecken und Verbindung Nürnberg–Regensburg'
+- GelÃ¶scht (Grund: Lokales, städtisches Thema (Kommunalpolitik/Lokales).): [Schweiz] 'Freibad Ygruben in Glarus: Postleitzahl: 8750'
+- GelÃ¶scht (Grund: Parteipolitik und parteipolitische Interna.): [Entdecken] 'Rasha Nasr: »Ich bin wahrscheinlich mehr Patriotin als alle Abgeordneten der AfD«'
+- GelÃ¶scht (Grund: Verbraucherthema, das politisch motiviert war; kein inhaltlicher Mehrwert zu allgemeinen Spritpreismeldungen.): [Mobilität] 'Tankrabatt: Spritpreise steigen nach Ende des Tankrabatts kräftig'
+- GelÃ¶scht (Grund: Parteipolitik und parlamentarische Prozesse.): [Wirtschaft] 'Krankenkassen: Grünenabgeordneter reicht Eilantrag gegen Krankenkassen-Gesetz ein'
 
 Finale Liste (live im XML-Feed):
-- [Gesellschaft] Deutsche Bahn: Bahn-Beschäftigte und Bundespolizisten melden fast täglich Gewalt
-- [Wirtschaft] Einzelhandel: Mehr Bäckereien in Deutschland melden Insolvenz an
-- [Gesellschaft] Boeing 737: Pakistan meldet Verschwinden von Frachtflugzeug über Arabischem Meer
-- [Wirtschaft] SpaceX-Aktie: Jetzt sind wir alle ein bisschen Elon
-- [Wirtschaft] Betrugsmaschen auf Booking.com: Jetzt soll er auch noch 78.441 Euro zahlen
-- [Gesellschaft] Paketbomben in Monaco: Wegen Anschlags gesuchte Ukrainerin laut Polizei tot gefunden
-- [Wirtschaft] LNG-Importe: Wie Katherina Reiche die Energiewende torpediert
-- [Digital] Soziale Medien: Social-Media-Verbot in Australien scheitert bereits an Altersabfrage
-- [Gesellschaft] Fluggastrechte in der EU: Europaparlament stimmt für neue Fluggastrechte
-- [Gesellschaft] Marla Svenja Liebich: Tschechien darf Neonazi Liebich an Deutschland ausliefern
-- [Wirtschaft] Samsung Electronics: Samsung erzielt erneut Rekordgewinn
-- [Wirtschaft] IG Metall: IG Metall ruft zu Aktionstag gegen neue Sparpläne bei VW auf
-- [Wirtschaft] Produktion in Deutschland: Produzierendes Gewerbe wächst stärker als erwartet
-- [Wirtschaft] Alkoholfreies Bier: Deutsche Brauer steigern Produktion von alkoholfreiem Bier deutlich
-- [Digital] Künstliche Intelligenz: KI-generierte Figur wird erstmals in Spielfilm eingesetzt
-- [Wirtschaft] Materialmangel in der deutschen Wirtschaft: Immer mehr Industrieunternehmen melden Materialengpässe
-- [Wirtschaft] Rüstungsdeal mit Kanada: Ein Signal an Donald Trump
-- [Digital] Balkonkraftwerke: Hier steckt die Schwachstelle der Energiewende
+- [Gesellschaft] Bundespolizei: Bundespolizei hat mehr Gewaltdelikte registriert
+- [Wirtschaft] Meta: Meta will erstes KI-Rechenzentrum in Kanada bauen
+- [Gesellschaft] Religiöser Wahn in der Familie: Die Schwester
+- [Gesellschaft] Polizeieinsatz in Bayern: Was über die Amoktat von Schongau bekannt ist
+- [Gesellschaft] Prozess in Berlin: Palliativarzt wegen 15-fachen Mordes zu lebenslanger Haft verurteilt
+- [Gesellschaft] »Das Leben festhalten« von Robert Mueller-Stahl: Glücksmomente
+- [Wirtschaft] Wohnungsbau: Wir müssen endlich wieder einfacher bauen!
+- [Wirtschaft] Tiefseebergbau: Was ließe sich da alles rausholen
+- [Schweiz] Schweine-Überproduktion in der Schweiz: Grunz!
+- [Entdecken] Schutz vor Hitze: Drinnen ist besser, selbst im Sommer. Kapiert ihr jetzt auch, oder?
+- [Schweiz] Rechenzentren in der Schweiz: Die Maschinenstürmer von Beringen
+- [Entdecken] Schöne Momente: »Und dann stimmt sie tatsächlich ein Lied für mich an!«
+- [Schweiz] Ausstellung »Heimatflimmern«: Ganz ohne Berge geht es nicht
+- [Wirtschaft] Internationaler Währungsfonds: IWF senkt Wachstumsprognose für Deutschland
+- [Mobilität] Faltrad: Mein Brompton ist so wunderbar lächerlich
+- [Gesellschaft] Todesfälle von Migranten: Deutlich mehr Migranten verunglücken auf dem Weg nach Europa
+- [Gesellschaft] Schulen: Jede dritte Lehrkraft ist mindestens 50 Jahre alt
+- [Wirtschaft] Automobilindustrie: Mercedes-Benz verzeichnet starken Rückgang bei Verkauf in China
+- [Wirtschaft] Übernahmeangebot: UniCredit nähert sich Mehrheit bei Commerzbank
+- [Digital] Digital Markets Act: Apple scheitert vor EU-Gericht mit Klage gegen strengere Regeln
+- [Digital] Deutsche Bahn: Bahn will Millionen in KI für Kundenkommunikation investieren
+- [Wirtschaft] Institut für deutsche Wirtschaft Köln: Elterngeld hat fast ein Drittel an Kaufkraft eingebüßt
+- [Wirtschaft] Erbschaft: Für das Finanzamt kann dieses Haus ein Palast sein
+- [Gesellschaft] Auslandssemester in Ecuador: »Komm mich doch mal besuchen!«
+- [Digital] Informationsfreiheitsgesetz: Diese Skandale wären wohl nie ans Licht gekommen
