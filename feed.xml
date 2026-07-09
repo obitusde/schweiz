@@ -5,8 +5,85 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Jul 2026 04:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Journal de Morges] Der König der Holstein (wieder) in seinem Reich gekrönt!</title>
+      <link>https://journaldemorges.ch/actualite/societe/le-roi-de-la-holstein-recouronne-en-son-royaume/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/le-roi-de-la-holstein-recouronne-en-son-royaume/</guid>
+      <description><![CDATA[Die Familie von Nicolas Jotterand, der zudem Präsident der nationalen Organisation ist, empfing die Welt der Holstein-Zucht zu einer beeindruckenden nationalen Zeremonie.]]></description>
+      <pubDate>Thu, 09 Jul 2026 10:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Solothurner Spitäler AG – Abgesägt: Solothurner Polit-Urgestein Kurt Fluri muss gehen</title>
+      <link>https://www.srf.ch/news/schweiz/solothurner-spitaeler-ag-abgesaegt-solothurner-polit-urgestein-kurt-fluri-muss-gehen</link>
+      <guid isPermaLink="false">urn:srf:article:019f45ed-f913-46f6-a4b9-860cf4e19070</guid>
+      <description><![CDATA[Als Folge der Lohnexzesse bei der Solothurner Spitäler AG tritt Verwaltungsratspräsident Kurt Fluri per sofort zurück.]]></description>
+      <pubDate>Thu, 09 Jul 2026 10:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Schweiz im Viertelfinal – Diese Städte erlauben am Samstag die WM-Freinacht</title>
+      <link>https://www.srf.ch/news/schweiz/schweiz-im-viertelfinal-diese-staedte-erlauben-am-samstag-die-wm-freinacht</link>
+      <guid isPermaLink="false">urn:srf:article:019f42a0-09e7-6f5e-8e71-83d19003c1d4</guid>
+      <description><![CDATA[Viele Kantone und Städte haben für Sonntagmorgen Sonderbewilligungen für Public Viewings, Bars und Restaurants erteilt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 10:19:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Gastgeber USA – Krieg führen und die WM austragen: Wie geht das zusammen?</title>
+      <link>https://www.srf.ch/news/international/gastgeber-usa-krieg-fuehren-und-die-wm-austragen-wie-geht-das-zusammen</link>
+      <guid isPermaLink="false">urn:srf:article:019f41a8-94ca-cac2-acd0-faaf6c2069d4</guid>
+      <description><![CDATA[In den USA rollt der Ball, am Golf fallen Bomben: Eine schwierige Lage für die Fifa, sagt ein Sporthistoriker.]]></description>
+      <pubDate>Thu, 09 Jul 2026 10:10:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] „Neonazi“-Angriff: Ein „antifaschistisches“ Picknick wird organisiert</title>
+      <link>https://www.20min.ch/fr/story/lausanne-vd-agression-neonazie-un-pique-nique-antifasciste-sera-organise-103599763</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-vd-agression-neonazie-un-pique-nique-antifasciste-sera-organise-103599763</guid>
+      <description><![CDATA[Nach dem Angriff auf einen Mittdreissiger in der Nähe des Théâtre de Vidy rufen Ensemble à Gauche und Solidarité Vaud dazu auf, den Ort „gegen den Faschismus“ zu besetzen.]]></description>
+      <pubDate>Thu, 09 Jul 2026 09:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wichtige Informatikprojekte – Schlüsselprojekte im Fokus: EFK rüffelt Bundesverwaltung</title>
+      <link>https://www.srf.ch/news/schweiz/wichtige-informatikprojekte-schluesselprojekte-im-fokus-efk-rueffelt-bundesverwaltung</link>
+      <guid isPermaLink="false">urn:srf:article:019f459f-8c17-a6fb-7e50-7ffc762273ec</guid>
+      <description><![CDATA[Der Bund mache den gleichen Fehler wie vor 10 Jahren, schreibt die Eidgenössische Finanzkontrolle in einem Bericht.]]></description>
+      <pubDate>Thu, 09 Jul 2026 09:47:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Überleben nach Krebs – Leben nach dem Krebs: Das unsichtbare Leiden der Cancer Survivors</title>
+      <link>https://www.srf.ch/wissen/gesundheit/ueberleben-nach-krebs-leben-nach-dem-krebs-das-unsichtbare-leiden-der-cancer-survivors</link>
+      <guid isPermaLink="false">urn:srf:article:019f3777-ebff-9cc4-59f2-6eb21ac6039f</guid>
+      <description><![CDATA[Nach einer Krebserkrankung kämpfen viele mit Fatigue, körperlichen Veränderungen und einer angeschlagenen Psyche.]]></description>
+      <pubDate>Thu, 09 Jul 2026 09:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Yverdon überwacht seine Temperaturen, um Hitzeinseln besser zu bekämpfen</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/yverdon-installe-des-capteurs-contre-les-ilots-de-chaleur-29298125.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29298125</guid>
+      <description><![CDATA[Laut MétéoSuisse wird es am Donnerstag auf dem Plateau bis zu 35 Grad warm. Doch das ist nicht die Temperatur im Stadtzentrum. Um zu erfahren, was die Bewohner tatsächlich erleben, hat Yverdon-les-Bains (VD) Sensoren installiert. Ziel: Die Hitzeinseln abzugrenzen.]]></description>
+      <pubDate>Thu, 09 Jul 2026 09:15:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Das umstrittene Plakat wurde offiziell als sexistisch deklariert</title>
+      <link>https://www.20min.ch/fr/story/vaudvalais-l-affiche-polemique-est-officiellement-declaree-sexiste-103599685</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaudvalais-l-affiche-polemique-est-officiellement-declaree-sexiste-103599685</guid>
+      <description><![CDATA[Im vergangenen April wurden in der Waadt und im Wallis Plakate für einen Erotikclub gesichtet, denen vorgeworfen wurde, zu Vergewaltigung aufzustacheln. Die Schweizerische Lauterkeitskommission hat nun entschieden.]]></description>
+      <pubDate>Thu, 09 Jul 2026 07:51:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Mangel an ausserschulischen Betreuungsplätzen: Waadtländer Eltern in der Sackgasse</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/accueil-parascolaire-des-parents-vaudois-dans-l-impasse-29295605.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29295605</guid>
+      <description><![CDATA[Obwohl die Schulferien gerade erst begonnen haben, sorgen sich einige Waadtländer Eltern bereits um den Schulanfang. Mangels Betreuungsplätzen im Vorschul- und ausserschulischen Bereich kann die Suche nach Lösungen für Familien zu einem echten Kopfzerbrechen werden.]]></description>
+      <pubDate>Thu, 09 Jul 2026 07:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Jede 6. Person trainiert – Hohe Motivation, hohe Preise: 5 Fakten zu Fitness in der Schweiz</title>
+      <link>https://www.srf.ch/news/wirtschaft/jede-6-person-trainiert-hohe-motivation-hohe-preise-5-fakten-zu-fitness-in-der-schweiz</link>
+      <guid isPermaLink="false">urn:srf:article:019f40ea-9423-952b-c2bf-f70e1ab9728e</guid>
+      <description><![CDATA[Fitnesscenter sind in der Schweiz beliebter als in Deutschland oder Österreich. Das liegt auch an den Krankenkassen.]]></description>
+      <pubDate>Thu, 09 Jul 2026 06:54:20 GMT</pubDate>
+    </item>
     <item>
       <title>[20 Min Romandie] Wie bezahlen «ruinierte» Beschuldigte die Elite der Anwälte?</title>
       <link>https://www.20min.ch/fr/story/justice-comment-les-prevenus-ruines-se-paient-ils-la-creme-des-avocats-103577394</link>
@@ -15,8 +92,8 @@
       <pubDate>Thu, 09 Jul 2026 04:04:59 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Landwirtschaft und Klimawandel – Die Trockenheit bremst die Bauern aus</title>
-      <link>https://www.srf.ch/news/schweiz/landwirtschaft-und-klimawandel-die-trockenheit-bremst-die-bauern-aus</link>
+      <title>[SRF Wissen] Landwirtschaft und Klimawandel – Bauern leiden unter der Trockenheit</title>
+      <link>https://www.srf.ch/news/schweiz/landwirtschaft-und-klimawandel-bauern-leiden-unter-der-trockenheit</link>
       <guid isPermaLink="false">urn:srf:article:019f440b-feac-408c-7a87-a954f16a9e7f</guid>
       <description><![CDATA[Die Hitze und Trockenheit setzen Schweizer Bauern zu. Auch SVP-Politiker fordern Massnahmen gegen Wetterextreme.]]></description>
       <pubDate>Thu, 09 Jul 2026 03:58:43 GMT</pubDate>
@@ -32,7 +109,7 @@
       <title>[SRF Schweiz] Karriere im Eiltempo – Kaum eingebürgert, schon Lokalpolitiker</title>
       <link>https://www.srf.ch/news/schweiz/karriere-im-eiltempo-kaum-eingebuergert-schon-lokalpolitiker</link>
       <guid isPermaLink="false">urn:srf:article:019f3d12-a25f-a35c-336e-59e895abe55f</guid>
-      <description><![CDATA[Noch vor Kurzem hatte Stephan Kandelhardt keinen Schweizer Pass. Nun ist er schon Gemeinderat von Oberweningen (ZH).]]></description>
+      <description><![CDATA[Noch vor Kurzem hatte Stephan Kandelhardt keinen Schweizer Pass. Nun ist er schon Gemeinderat von Oberweningen ZH.]]></description>
       <pubDate>Thu, 09 Jul 2026 03:47:11 GMT</pubDate>
     </item>
     <item>
@@ -44,7 +121,7 @@
     </item>
     <item>
       <title>[SRF Schweiz] Historischer Nati-Erfolg – Als die Schweiz letztmals im WM-Viertelfinal stand</title>
-      <link>https://www.srf.ch/news/schweiz/historischer-nati-erfolg-als-die-schweiz-letztmals-im-wm-viertelfinal-stand</link>
+      <link>https://www.srf.ch/news/schweiz/historischer-nati-erfolg-als-die-schweiz-letztmals-im-wm-viertelfinal-stand-1</link>
       <guid isPermaLink="false">urn:srf:article:019f4076-5804-e067-d5ed-fec588b57bd5</guid>
       <description><![CDATA[Letztmals qualifizierte sich die Nati 1954 für einen WM-Viertelfinal. Die (Fussball-)Welt war damals eine ganz andere.]]></description>
       <pubDate>Thu, 09 Jul 2026 03:44:41 GMT</pubDate>
@@ -69,13 +146,6 @@
       <guid isPermaLink="false">urn:srf:article:019ef98a-72dd-e671-eb16-dd2dec6b08a1</guid>
       <description><![CDATA[Es fehlt weltweit an neuen Antibiotika. Neue Bezahlmodelle für Pharmafirmen sollen das ändern – auch in der Schweiz.]]></description>
       <pubDate>Wed, 08 Jul 2026 18:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Schweiz im Viertelfinal – Die Schweiz bereitet sich auf eine Freinacht vor</title>
-      <link>https://www.srf.ch/news/schweiz/schweiz-im-viertelfinal-die-schweiz-bereitet-sich-auf-eine-freinacht-vor</link>
-      <guid isPermaLink="false">urn:srf:article:019f42a0-09e7-6f5e-8e71-83d19003c1d4</guid>
-      <description><![CDATA[Viele Kantone und Städte haben für Sonntagmorgen Sonderbewilligungen für Public Viewings, Bars und Restaurants erteilt.]]></description>
-      <pubDate>Wed, 08 Jul 2026 17:46:07 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Mountainbiker terrorisieren Kühe und lösen Empörung aus</title>
@@ -160,125 +230,6 @@
       <guid isPermaLink="false">urn:srf:article:019f4180-9ce3-cd8c-e67b-6944909691cc</guid>
       <description><![CDATA[Weder Schmeicheleien noch Beschwichtigungsversuche zeigen Wirkung. Trump geht am Nato-Gipfel auf Konfrontationskurs.]]></description>
       <pubDate>Wed, 08 Jul 2026 11:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Gewalt gegen Kinder – Zahl der Kindesmisshandlungen steigt auf neuen Höchststand</title>
-      <link>https://www.srf.ch/news/schweiz/gewalt-gegen-kinder-zahl-der-kindesmisshandlungen-steigt-auf-neuen-hoechststand</link>
-      <guid isPermaLink="false">urn:srf:article:019f3771-49cb-5537-3bdf-892c33193ac4</guid>
-      <description><![CDATA[14.2 Prozent mehr Fälle gegenüber dem Vorjahr: Körperliche Misshandlung dominiert, doch psychische Gewalt nimmt zu.]]></description>
-      <pubDate>Wed, 08 Jul 2026 10:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Gewerkschaften unzufrieden – Das Vertragspaket mit der EU gerät in Schieflage</title>
-      <link>https://www.srf.ch/news/schweiz/gewerkschaften-unzufrieden-das-vertragspaket-mit-der-eu-geraet-in-schieflage</link>
-      <guid isPermaLink="false">urn:srf:article:019f4115-bec4-03c4-457e-cfa7ca971b17</guid>
-      <description><![CDATA[Nach einem Kommissionsentscheid droht der Kompromiss der Sozialpartner zum Thema Lohnschutz auseinanderzufallen.]]></description>
-      <pubDate>Wed, 08 Jul 2026 10:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Der G7-Gipfel kostete Genf 19 Millionen, Frankreich weigert sich zu zahlen</title>
-      <link>https://www.20min.ch/fr/story/geneve-le-g7-a-coute-19-millions-a-geneve-la-france-refuse-de-payer-103599272</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-le-g7-a-coute-19-millions-a-geneve-la-france-refuse-de-payer-103599272</guid>
-      <description><![CDATA[Die Gesamtrechnung des Gipfels beläuft sich auf 31,6 Millionen. Carole-Anne Kast bedauert, dass Bern die Nutzung des Flughafens nicht als Druckmittel eingesetzt hat, um Paris zur Beteiligung zu bewegen.]]></description>
-      <pubDate>Wed, 08 Jul 2026 10:19:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Umstrittener IOC-Entscheid – Experte: «Der Entscheid zu Russland gerade jetzt ist kein Zufall»</title>
-      <link>https://www.srf.ch/news/international/umstrittener-ioc-entscheid-experte-der-entscheid-zu-russland-gerade-jetzt-ist-kein-zufall</link>
-      <guid isPermaLink="false">urn:srf:article:019f40b2-0876-4fb0-b0c3-df0a42a3706d</guid>
-      <description><![CDATA[Das IOC hebt die Russland-Sanktionen auf. Experte Johannes Aumüller sieht eine schrittweise Rückkehr Russlands.]]></description>
-      <pubDate>Wed, 08 Jul 2026 10:01:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Der Eisvogel, ein «fliegendes Juwel», im Sommer gut sichtbar</title>
-      <link>https://www.20min.ch/fr/story/suisse-romande-le-martin-pecheur-un-joyau-volant-bien-visible-en-ete-103599202</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/suisse-romande-le-martin-pecheur-un-joyau-volant-bien-visible-en-ete-103599202</guid>
-      <description><![CDATA[Er ist diskret, schnell und prächtig: Dieser kleine Vogel mit den leuchtenden Farben lässt sich derzeit in einem Naturzentrum am Neuenburgersee bewundern.]]></description>
-      <pubDate>Wed, 08 Jul 2026 09:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges Actualitiés] Ausstellungen auf dem Kulturplatz an der Rue Centrale</title>
-      <link>https://www.morges.ch/actualites/expositions-sur-la-place-culturelle-de-la-rue-centrale-213398</link>
-      <guid isPermaLink="false">https://www.morges.ch/actualites/expositions-sur-la-place-culturelle-de-la-rue-centrale-213398</guid>
-      <description />
-      <pubDate>Wed, 08 Jul 2026 09:36:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Nach Angriffen auf Tanker – US-Militär beschiesst über 80 Ziele im Iran</title>
-      <link>https://www.srf.ch/news/international/nahost/nach-angriffen-auf-tanker-us-militaer-beschiesst-ueber-80-ziele-im-iran</link>
-      <guid isPermaLink="false">urn:srf:article:019f408e-042f-4e04-9814-2db0847e6045</guid>
-      <description><![CDATA[Die Waffenruhe zwischen den USA und Iran wird erneut auf eine harte Probe gestellt. Laut Trump ist sie sogar hinfällig.]]></description>
-      <pubDate>Wed, 08 Jul 2026 09:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Nach dem RAV – Langzeitarbeitslos: «Braucht es mich denn nicht?»</title>
-      <link>https://www.srf.ch/news/wirtschaft/nach-dem-rav-langzeitarbeitslos-braucht-es-mich-denn-nicht</link>
-      <guid isPermaLink="false">urn:srf:article:019f3bb8-dc23-29b7-ca93-9c3dc7a2b27e</guid>
-      <description><![CDATA[Jeden Monat verlieren bis zu 3000 Personen ihren Anspruch auf Arbeitslosengeld. René Lang steht kurz davor.]]></description>
-      <pubDate>Wed, 08 Jul 2026 08:55:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Games für die Ferien – Die heissesten Spiele für einen coolen Sommer</title>
-      <link>https://www.srf.ch/kultur/games/games-fuer-die-ferien-die-heissesten-spiele-fuer-einen-coolen-sommer-1</link>
-      <guid isPermaLink="false">urn:srf:article:019f0344-6a5b-6b0a-a5fa-81a11549eaa9</guid>
-      <description><![CDATA[Möchten Sie spielerisch nach Japan reisen oder sich wie James Bond fühlen? 13 Gaming-Tipps aus der Digitalredaktion.]]></description>
-      <pubDate>Wed, 08 Jul 2026 07:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Reaktionen zum Match – Parmelin zum Sieg der Schweiz: «Das ist historisch»</title>
-      <link>https://www.srf.ch/news/schweiz/reaktionen-zum-match-parmelin-zum-sieg-der-schweiz-das-ist-historisch</link>
-      <guid isPermaLink="false">urn:srf:article:019f3fe2-1e1c-5542-0c2b-c62bb68fc47f</guid>
-      <description><![CDATA[Bundespräsident Guy Parmelin hat schon Pläne, falls die Schweiz im WM-Final spielt.]]></description>
-      <pubDate>Wed, 08 Jul 2026 07:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wanderung des Monats Juli – Vom Zugerberg ins Lorzentobel: eine Wanderung mit Tiefgang</title>
-      <link>https://www.srf.ch/radio-srf-1/outdoor-reporter/wanderung-des-monats-juli-vom-zugerberg-ins-lorzentobel-eine-wanderung-mit-tiefgang</link>
-      <guid isPermaLink="false">urn:srf:article:019dce61-493c-3d31-ca0e-af6a0c404d08</guid>
-      <description><![CDATA[Eine Route, die alles vereint: weite Ausblicke, stille Wälder und ein Adrenalinkick zum Finale.]]></description>
-      <pubDate>Wed, 08 Jul 2026 07:14:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Tipps einer Tierärztin – Haustiere und Hitze: So schützen wir unsere Vierbeiner</title>
-      <link>https://www.srf.ch/wissen/natur-tiere/tipps-einer-tieraerztin-haustiere-und-hitze-so-schuetzen-wir-unsere-vierbeiner</link>
-      <guid isPermaLink="false">urn:srf:article:20197409</guid>
-      <description><![CDATA[Die hohen Temperaturen machen auch unseren Haustieren zu schaffen. So kommen Hund und Katze gut durch den Sommer.]]></description>
-      <pubDate>Wed, 08 Jul 2026 06:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] EDK gegen Sportlehrer – Wird Schulsport zum Wahlfach? Lehrer und Fachleute laufen Sturm</title>
-      <link>https://www.srf.ch/news/schweiz/edk-gegen-sportlehrer-wird-schulsport-zum-wahlfach-lehrer-und-fachleute-laufen-sturm</link>
-      <guid isPermaLink="false">urn:srf:article:019f368b-b815-4d96-9c96-f895c63f5cd5</guid>
-      <description><![CDATA[Kippt das Schulsport-Obligatorium? Die EDK positioniert sich gegenüber SRF dafür – Lehrer und Sportverbände wehren sich.]]></description>
-      <pubDate>Wed, 08 Jul 2026 06:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Erster WM-Viertelfinal-Einzug – Schweizer Fans feiern die Nati – die Bilder</title>
-      <link>https://www.srf.ch/news/schweiz/erster-wm-viertelfinal-einzug-schweizer-fans-feiern-die-nati-die-bilder</link>
-      <guid isPermaLink="false">urn:srf:article:019f404d-9254-6af0-942c-076ea430e056</guid>
-      <description><![CDATA[Die Feierenden machen nach dem Sieg der Schweizer Nati gegen Kolumbien die Nacht zum Tag.]]></description>
-      <pubDate>Wed, 08 Jul 2026 06:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Brexit-Vorkämpfer – Nigel Farage legt Mandat nieder – und tritt wieder an</title>
-      <link>https://www.srf.ch/news/international/brexit-vorkaempfer-nigel-farage-legt-mandat-nieder-und-tritt-wieder-an</link>
-      <guid isPermaLink="false">urn:srf:article:019f3d92-b077-8ad8-1664-7bc2e84bd551</guid>
-      <description><![CDATA[Der britische Rechtspopulist geriet zuvor wegen umstrittener Spenden und Zuwendungen in die Schlagzeilen.]]></description>
-      <pubDate>Wed, 08 Jul 2026 06:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Elektrosmog – Neue App misst 5G-Strahlung</title>
-      <link>https://www.srf.ch/wissen/forschung/elektrosmog-neue-app-misst-5g-strahlung</link>
-      <guid isPermaLink="false">urn:srf:article:019f36b0-13d0-059c-525b-7cacb639c798</guid>
-      <description><![CDATA[Welcher Strahlenbelastung bin ich gerade ausgesetzt? Eine neue App liefert überraschende Erkenntnisse.]]></description>
-      <pubDate>Wed, 08 Jul 2026 05:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Trotz Berufungsurteils – Marine Le Pen will bei Präsidentschaftswahlen 2027 antreten</title>
-      <link>https://www.srf.ch/news/international/trotz-berufungsurteils-marine-le-pen-will-bei-praesidentschaftswahlen-2027-antreten</link>
-      <guid isPermaLink="false">urn:srf:article:019f3c52-a926-4efb-ddc0-7a148a012a6c</guid>
-      <description><![CDATA[Zuvor war die Fraktionsvorsitzende des Rassemblement National zu einem Jahr Haft mit Fussfessel verurteilt worden.]]></description>
-      <pubDate>Wed, 08 Jul 2026 05:03:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
