@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 8.7.2026, 12:58:39
-Letzter Lauf: 8.7.2026, 06:30:36
+Start: 9.7.2026, 06:30:35
+Letzter Lauf: 8.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,20 +17,37 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 21 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Brandmeldung aus Soyhières (JU) außerhalb des Kantons Waadt.): 'Pompiers et agriculteurs ont uni leurs efforts face au feu'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 16; ID 16 bietet eine detailliertere Beschreibung.): 'Groupes WhatsApp racistes: le renvoi de deux policiers annulé'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung aus Zürich außerhalb des Kantons Waadt.): 'Antisemitischer Messerangriff – Höchstmögliche Strafe für jugendlichen Messerstecher in Zürich'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 9; der SRF-Artikel wird bevorzugt.): 'Surmortalité de 15% chez les aînés durant la canicule'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu ID 20; ID 20 ist der informativere Nachrichtenartikel.): 'Frankreich – Marine Le Pen: Von der Partei-Erbin zur Verurteilten'
-- Weiterhin entfernt (Cache, Grund: Polizeimeldung über Raser in Neuenburg außerhalb des Kantons Waadt.): 'Chauffards lancés à toute allure interceptés par la police'
-- Weiterhin entfernt (Cache, Grund: Brandmeldung aus Meyrin (GE) außerhalb des Kantons Waadt.): 'Un incendie se déclare sur le toit du Conforama'
-- Gelöscht (Grund: Kriminalität außerhalb des Kantons Waadt (Vaud).): 'Une famille accuse eine école d’avoir minimisé des attouchements'
-- Gelöscht (Grund: Kriminalität außerhalb des Kantons Waadt (Vaud).): 'Massnahmenzentrum Uitikon – Attacke hinter Gittern: Sicherheitschef invalid'
-- Gelöscht (Grund: Unfall/Blaulicht-Meldung außerhalb des Kantons Waadt (Vaud).): 'Une fillette oubliée dans le train lors du trajet vers l’école'
-- Gelöscht (Grund: Kriminalität außerhalb des Kantons Waadt (Vaud).): 'Il a poignardé sa compagne mais dit ne pas s'en souvenir'
+KI-Filter (Gemini) - 24 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb des Kantons Waadt (Vaud).): 'Une famille accuse une école d’avoir minimisé des attouchements'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb des Kantons Waadt (Vaud).): 'Massnahmenzentrum Uitikon – Attacke hinter Gittern: Sicherheitschef invalid'
+- Weiterhin entfernt (Cache, Grund: Unfall/Blaulicht-Meldung außerhalb des Kantons Waadt (Vaud).): 'Une fillette oubliée dans le train lors du trajet vers l’école'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb des Kantons Waadt (Vaud).): 'Il a poignardé sa compagne mais dit ne pas s'en souvenir'
+- Gelöscht (Grund: Thematisches Duplikat zum Nato-Gipfel; Artikel 23 wird aufgrund des höheren Informationsgehalts bevorzugt.): 'Bilanz Nato-Gipfel – Der «Geist von Ankara» ist noch nebulös'
+- Gelöscht (Grund: Thematisches Duplikat zur Freinacht für das Nati-Spiel; der SRF-Artikel 9 wird gemäß Priorisierungsregel bevorzugt.): 'Bars ouverts toute la nuit en attendant Argentine-Suisse'
 
 Finale Liste (live im XML-Feed):
+- [20 Min Romandie] Wie bezahlen «ruinierte» Beschuldigte die Elite der Anwälte?
+- [SRF Schweiz] Landwirtschaft und Klimawandel – Die Trockenheit bremst die Bauern aus
+- [SRF Schweiz] Arbeitslosigkeit – Wer sich freiwillig engagiert, kann Arbeitslosengeld verlieren
+- [SRF Schweiz] Karriere im Eiltempo – Kaum eingebürgert, schon Lokalpolitiker
+- [SRF Schweiz] Aufruhr bei Ärzteschaft – «Effizienz wird bestraft»: Ärzte kritisieren neue Obergrenze
+- [SRF Schweiz] Historischer Nati-Erfolg – Als die Schweiz letztmals im WM-Viertelfinal stand
+- [SRF Ausland] Dunkle Zeiten für Kuba – Wie ist die Lage in Kuba nach dem letzten Stromausfall?
+- [SRF Wissen] Davos Tech Summit – Warum Roboter auch in 20 Jahren nicht für uns einkaufen gehen
+- [SRF Schweiz] Neue Mittel gegen Infektionen – Wie die Schweiz aus der Antibiotika-Krise kommen will
+- [SRF Schweiz] Schweiz im Viertelfinal – Die Schweiz bereitet sich auf eine Freinacht vor
+- [20 Min Romandie] Mountainbiker terrorisieren Kühe und lösen Empörung aus
+- [SRF Schweiz] Neue Tarifstruktur für Physio – Zwei konkurrierende Physiotherapie-Berufsverbände – warum?
+- [20 Min Romandie] Missbräuchliche Untervermietung: Ehepaar muss ins Gefängnis
+- [SRF Ausland] Prozess in Berlin – Deutscher Arzt wegen 15-fachen Mordes verurteilt
+- [SRF Schweiz] Psychospiel Penalty – Sportpsychologe: «Der Kopf entscheidet, ob der Fuss funktioniert»
+- [SRF Ausland] Deutschland – Vorfall an Bayern-Schule: Verletzte Mädchen ausser Lebensgefahr
+- [20 Min Romandie] Sie krempeln die Ärmel hoch, um ihr Viertel abzukühlen
+- [SRF Schweiz] Toooor für das Internet – So feiern Community und das Netz die Nati im Viertelfinal
+- [20 Min Romandie] Wahlergebnisse von Vernier definitiv bestätigt
+- [SRF Wissen] Archäologie trifft KI – Verkohlte Schriftrolle erstmals entziffert – ohne sie zu öffnen
+- [SRF Wissen] Weit entfernte Galaxienkerne – Blick ins frühe All: Euclid findet 31 Quasare
+- [SRF Ausland] Nato-Gipfel in Ankara – Trump teilt gegen die Nato und den Iran aus
 - [SRF Schweiz] Gewalt gegen Kinder – Zahl der Kindesmisshandlungen steigt auf neuen Höchststand
 - [SRF Schweiz] Gewerkschaften unzufrieden – Das Vertragspaket mit der EU gerät in Schieflage
 - [20 Min Romandie] Der G7-Gipfel kostete Genf 19 Millionen, Frankreich weigert sich zu zahlen
@@ -48,23 +65,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Brexit-Vorkämpfer – Nigel Farage legt Mandat nieder – und tritt wieder an
 - [SRF Wissen] Elektrosmog – Neue App misst 5G-Strahlung
 - [SRF Ausland] Trotz Berufungsurteils – Marine Le Pen will bei Präsidentschaftswahlen 2027 antreten
-- [SRF Wissen] Umstrittene Neophyten – Nicht jede eingeschleppte Pflanze ist schädlich
-- [SRF Ausland] Bürogebäude im Umbau – Hochhaus mitten in Manhattan wegen Einsturzgefahr geräumt
-- [SRF Schweiz] Neues Sandsport-Zentrum – Wie 600 Tonnen Sand aufs Dach kommen
-- [SRF Ausland] Sorgen im Kreml – So funktioniert Korruption in der russischen Armee
-- [SRF Schweiz] Nutztiere – Zu heiss für Kühe, Schweine und Hühner: Die Suche nach Abkühlung
-- [20 Min Romandie] Ehepaar droht Gefängnis wegen missbräuchlicher Untervermietung
-- [SRF Wirtschaft] Streit um AKW-Kosten – Subventionen für AKW vergleichbar mit Beiträgen für Erneuerbare
-- [SRF Schweiz] Hochzeitssaison – Geschenke und Dresscode – Hochzeitsetikette für Gäste
-- [SRF Wissen] Neue Zahlen zur Sterblichkeit – Hitzewelle verstärkt bestehende Erkrankungen
-- [SRF Ausland] Sicherheit und Tourismus – Nach WM-Aus: Mexiko zieht durchzogene Bilanz
-- [SRF Ausland] US-Justiz im Würgegriff – Trumps Vergeltung: Wie er die Justiz zur Waffe macht
-- [SRF Schweiz] Grössere Unterschiede – Lohnschere: Topverdienende heben ab – darunter stagniert es
-- [RTS Vaud] Entlassung zweier in WhatsApp-Gruppen involvierter Lausanner Polizisten aufgehoben
-- [SRF Schweiz] Umweltsünden – Wie sich der Umweltschutz im Aargau verändert hat
-- [SRF Ausland] Berufungsgericht zu Le Pen – Das Volk soll entscheiden dürfen, ob Le Pen Präsidentin wird
-- [20 Min Romandie] Neuenburg startet Aktion zur Regularisierung von Sans-Papiers
-- [SRF Schweiz] F-35-Kampfjets – Armasuisse präzisiert Kompensationsgeschäfte mit Lockheed Martin
-- [SRF Schweiz] Neuer Höchststand – «Gewalt an Kindern hat seit Corona jedes Jahr zugenommen»
-- [SRF Ausland] Angriff auf Oligarchen – Monaco-Anschlag: Hauptverdächtige tot in Ukraine gefunden
-- [SRF Gesellschaft] Glosse zu WM-Tippspielen – Als ich einmal (ein bisschen) für Deutschland war
