@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 10.7.2026, 20:46:05
-Letzter Lauf: 10.7.2026, 06:59:47
+Start: 10.7.2026, 20:55:16
+Letzter Lauf: 10.7.2026, 20:46:05
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,30 +20,31 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 21 neue Artikel geprueft:
+KI-Filter (Gemini) - 1 neue Artikel geprueft:
+- Weiterhin entfernt (Cache, Grund: Behandelt allgemeine deutsche Parteipolitik und Reformkritik.): [Wirtschaft] 'Reformpolitik: Wer bezahlt die Reformen – und wer profitiert von ihnen?'
+- Weiterhin entfernt (Cache, Grund: Fällt unter lokale Berichterstattung über ein städtisches Ereignis (Schongau).): [Gesellschaft] 'Welfen-Gymnasium: Ermittler prüfen mögliches Schreiben des Verdächtigen von Schongau'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 11 (beide behandeln Absatzrückgänge deutscher Autobauer in China).): [Wirtschaft] 'BMW: BMW-Absatz sinkt um fast fünf Prozent'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 14 (beide behandeln die ökonomischen Folgen des Tankrabatts).): [Wirtschaft] 'Statistisches Bundesamt: Tankrabatt ließ Inflationsrate im Juni sinken'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 7 (beide behandeln die GKV-Reform der Bundesregierung).): [Wirtschaft] 'GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform'
 - Weiterhin entfernt (Cache, Grund: Duplikat des Themas VW-Sparplan; Artikel 15 ist aktueller und informativer.): [Wirtschaft] 'VW-Konzern: Sitzung des VW-Aufsichtsrats endet ohne Klarheit zu Sparplänen'
-- Geloescht (Grund: Behandelt allgemeine deutsche Parteipolitik und Reformkritik.): [Wirtschaft] 'Reformpolitik: Wer bezahlt die Reformen – und wer profitiert von ihnen?'
-- Geloescht (Grund: Fällt unter lokale Berichterstattung über ein städtisches Ereignis (Schongau).): [Gesellschaft] 'Welfen-Gymnasium: Ermittler prüfen mögliches Schreiben des Verdächtigen von Schongau'
-- Geloescht (Grund: Duplikat zu Artikel 11 (beide behandeln Absatzrückgänge deutscher Autobauer in China).): [Wirtschaft] 'BMW: BMW-Absatz sinkt um fast fünf Prozent'
-- Geloescht (Grund: Duplikat zu Artikel 14 (beide behandeln die ökonomischen Folgen des Tankrabatts).): [Wirtschaft] 'Statistisches Bundesamt: Tankrabatt ließ Inflationsrate im Juni sinken'
-- Geloescht (Grund: Duplikat zu Artikel 7 (beide behandeln die GKV-Reform der Bundesregierung).): [Wirtschaft] 'GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform'
 
 Finale Liste (live im XML-Feed):
-- [Wirtschaft] Altbauten in New York: Und im 21. Stock bröselt der Beton
-- [Entdecken] Gefälschte Fußballtrikots: 100 Euro für ein Trikot? Dann doch lieber den Superfake aus China
-- [Mobilität] Taxiunternehmen: Taxi Tekath ist ihr Leben
-- [Digital] Chatkontrolle in der EU: Jetzt sollen wieder Chats kontrolliert werden
-- [Gesellschaft] Witze: Mit diesen 111 Dad-Jokes kommen Sie durch den Sommer
-- [Mobilität] Ryanair: Passagier auf Ryanair-Flug fast durch Fenster hinausgezogen
-- [Wirtschaft] GKV-Reform: Viele kleine Pflaster, aber kein Heilmittel
-- [Digital] Backrooms: Das Internet ist noch gruseliger, als Sie dachten
-- [Digital] Verfahren gegen Meta: EU fordert wegen Suchtgefahr Änderungen bei Instagram und Facebook
-- [Mobilität] Volkswagen: VW-Absatz sinkt im zweiten Quartal um 8,6 Prozent
-- [Entdecken] Fußball-WM: Mitleid mit Infantino
-- [Wirtschaft] Bundeskartellamt: Rund 80 Prozent des Tankrabatts bei Autofahrern angekommen
-- [Wirtschaft] VW-Konzern: Oliver Blume kündigt größte Neuausrichtung in VW-Geschichte an
-- [Wirtschaft] »Trump Accounts«: Würdet ihr diesem Mann euer Taschengeld anvertrauen?
-- [Wirtschaft] Baupreise in Deutschland: Preise im Wohnungsbau steigen weiter stark
-- [Gesellschaft] Cihan Çakmak: »Ich komme und trete die Tür ein«
-- [Arbeit] Kündigung für Mitarbeiter: »Am Ende spuckt die Excel-Liste aus, wer gehen muss«
-- [Wirtschaft] Industrieemissionen: Bundestag beschließt strengere Schadstoffregeln für Industrie
+[_] Reflecting Pool am Lincoln Memorial: Wasserbecken am Lincoln Memorial wird ausgepumpt
+[_] Altbauten in New York: Und im 21. Stock bröselt der Beton
+[_] Gefälschte Fußballtrikots: 100 Euro für ein Trikot? Dann doch lieber den Superfake aus China
+[_] Taxiunternehmen: Taxi Tekath ist ihr Leben
+[_] Chatkontrolle in der EU: Jetzt sollen wieder Chats kontrolliert werden
+[_] Witze: Mit diesen 111 Dad-Jokes kommen Sie durch den Sommer
+[_] Ryanair: Passagier auf Ryanair-Flug fast durch Fenster hinausgezogen
+[_] GKV-Reform: Viele kleine Pflaster, aber kein Heilmittel
+[_] Backrooms: Das Internet ist noch gruseliger, als Sie dachten
+[_] Verfahren gegen Meta: EU fordert wegen Suchtgefahr Änderungen bei Instagram und Facebook
+[_] Volkswagen: VW-Absatz sinkt im zweiten Quartal um 8,6 Prozent
+[_] Fußball-WM: Mitleid mit Infantino
+[_] Bundeskartellamt: Rund 80 Prozent des Tankrabatts bei Autofahrern angekommen
+[_] VW-Konzern: Oliver Blume kündigt größte Neuausrichtung in VW-Geschichte an
+[_] »Trump Accounts«: Würdet ihr diesem Mann euer Taschengeld anvertrauen?
+[_] Baupreise in Deutschland: Preise im Wohnungsbau steigen weiter stark
+[_] Cihan Çakmak: »Ich komme und trete die Tür ein«
+[_] Kündigung für Mitarbeiter: »Am Ende spuckt die Excel-Liste aus, wer gehen muss«
+[_] Industrieemissionen: Bundestag beschließt strengere Schadstoffregeln für Industrie
