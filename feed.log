@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 10.7.2026, 06:30:36
-Letzter Lauf: 9.7.2026, 12:58:39
+Start: 10.7.2026, 12:58:39
+Letzter Lauf: 10.7.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,35 +17,45 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 41 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb der Waadt (Plainpalais gehört zum Kanton Genf).): 'Ouvrier blessé sur un chantier après avoir traversé le plancher'
-- Weiterhin entfernt (Cache, Grund: Reine Brandmeldung ohne spezifischen Ortsbezug zur Waadt.): 'Une voiture en réparation prend feu dans une carrosserie'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung/Gerichtsbericht ohne spezifischen Ortsbezug zur Waadt.): 'Vingt ans requis pour l'homme qui a poignardé sa compagne'
-- Gelöscht (Grund: Blaulicht-Meldung/Vorfall außerhalb der Waadt (Bern).): 'Femme trans exclue à Berne: ce qu'on en pense en Romandie'
-- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Saint-Imier, BE).): 'Une dispute dégénère à Saint-Imier: un homme de 34 ans blessé'
-- Gelöscht (Grund: Duplikat zu Artikel 3 (SRF bevorzugt).): 'Treibstoffkrise – In Russland wird das Benzin knapp'
-- Gelöscht (Grund: Brand außerhalb der Waadt (Bellevue, GE).): 'La toiture d'un hôtel-restaurant flambant neuf prend feu'
-- Gelöscht (Grund: Duplikat zu Artikel 21.): 'Un incendie dans un bâtiment industriel visible loin à la ronde'
-- Gelöscht (Grund: Vorfall außerhalb der Waadt (Val de Bagnes, VS).): '«Ce n'est pas mon comportement habituel, ni celui des vététistes»'
-- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Bulle, FR).): 'Une élève giflée par une accompagnante lors d’une course d’école'
-- Gelöscht (Grund: Blaulicht-Meldung außerhalb der Waadt (Gotthard, UR).): '21 Überholmanöver – Mann rast in sechs Minuten durch den Gotthard'
-- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Uitikon, ZH).): 'Massnahmenzentrum Uitikon – Attacke hinter Gittern: Sicherheitschef invalid'
-- Gelöscht (Grund: Duplikat zu Artikel 29 (SRF bevorzugt).): 'Oui à la diffusion du match à 3h, mas pas toujours en terrasse'
+KI-Filter (Gemini) - 16 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Vorfall außerhalb der Waadt (Bern).): 'Femme trans exclue à Berne: ce qu'on en pense en Romandie'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Saint-Imier, BE).): 'Une dispute dégénère à Saint-Imier: un homme de 34 ans blessé'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 3 (SRF bevorzugt).): 'Treibstoffkrise – In Russland wird das Benzin knapp'
+- Weiterhin entfernt (Cache, Grund: Brand außerhalb der Waadt (Bellevue, GE).): 'La toiture d'un hôtel-restaurant flambant neuf prend feu'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 21.): 'Un incendie dans un bâtiment industriel visible loin à la ronde'
+- Weiterhin entfernt (Cache, Grund: Vorfall außerhalb der Waadt (Val de Bagnes, VS).): '«Ce n'est pas mon comportement habituel, ni celui des vététistes»'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Bulle, FR).): 'Une élève giflée par une accompagnante lors d’une course d’école'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung außerhalb der Waadt (Gotthard, UR).): '21 Überholmanöver – Mann rast in sechs Minuten durch den Gotthard'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb der Waadt (Uitikon, ZH).): 'Massnahmenzentrum Uitikon – Attacke hinter Gittern: Sicherheitschef invalid'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 29 (SRF bevorzugt).): 'Oui à la diffusion du match à 3h, mais pas toujours en terrasse'
+- Gelöscht (Grund: Bericht über einen Brand bzw. dessen Untersuchung in der Schweiz außerhalb der Waadt (Vaud).): 'Brand von Crans-Montana – Eine von drei Staatsanwältinnen verlässt das Ermittlerteam'
+- Gelöscht (Grund: Duplikat zu Artikel 4; der SRF-Artikel wird gemäß Priorisierungsregel behalten.): 'La sécheresse s’aggrave mais des orages se profilent'
 
 Finale Liste (live im XML-Feed):
-- [SRF Ausland] «Beispiellose Tragödie» – Zwölf Tote bei Waldbrand in Andalusien
-- [SRF Schweiz] Nach dem G7-Gipfel in Évian – Streit um G7-Sicherheitskosten: Frankreich will nicht zahlen
+- [SRF Ausland] «Beispiellose Tragödie» – Elf Tote bei Waldbrand in Andalusien
+- [SRF Schweiz] Massnahmenzentrum Uitikon MZU – Rambo-Bilder und fragwürdige Beförderung im MZU
+- [SRF Wirtschaft] Plötzlich reich – Tech-Börsengänge lösen Luxusboom aus
+- [SRF Wissen] Herbst im Juli – Trocken und welk: Der Schweizer Wald leidet
+- [SRF Gesellschaft] Horror einer Flucht – Ein ehemaliger Taliban-Sklave findet in Bern sein Glück
+- [Morges Actualitiés] Regionales Netz für Verleih-Fahrräder wird in Betrieb genommen
+- [20 Min Romandie] Lebenswerteste Städte: Zürich und Genf fallen zurück
+- [SRF Ausland] Belagerte Stadt im Sudan – Was haben die Rebellen mit El Obeid vor?
+- [20 Min Romandie] Hitzewelle und Drogen: Ein gefährlicher Cocktail für Abhängige
+- [SRF Schweiz] Internetkriminalität – Vorsicht vor fiesen Swiss-Nova-Mahnungen
+- [Journal de Morges] Nati-Fans wollen das Vergnügen verlängern
+- [SRF Schweiz] KI im Laden – Swisscom nimmt Kundengespräch auf – das müssen Sie wissen
+- [SRF Schweiz] Drohnensichtungen – Drohnenexpertin: «Mich beunruhigen die zunehmenden Sichtungen»
+- [SRF Schweiz] Nach Gipfel in Évian – Streit um G7-Sicherheitskosten: Frankreich will nicht zahlen
 - [SRF Ausland] Benzin-Knappheit in Russland – Der Ukraine-Krieg ist bei der russischen Bevölkerung angekommen
-- [SRF Schweiz] Grossbaustelle in Basel – Basel operiert am Herzen der Stadt: Innenstadt ohne Trams
-- [SRF Schweiz] Lärmmessungen im Aargau – Lärm von E-Autos wird wissenschaftlich untersucht
+- [SRF Schweiz] Grossbaustelle in Basel – Stillstand oder Chance? Basel probt den Verkehr von Morgen
+- [SRF Schweiz] Lärmmessungen im Aargau – Wie laut sind Elektrofahrzeuge auf unseren Strassen?
 - [SRF Wirtschaft] Nach Börsengang von SpaceX – Investieren in ETFs – das müssen Sie wissen
+- [Journal de Morges] Landwirte auf der Feuerprobe
 - [Journal de Morges] Die Brotherstellung von morgen
 - [SRF Ausland] US-Migrationsbehörde ICE – Nach Tod von Migranten in den USA: Mexiko kündigt Klagen an
 - [SRF Schweiz] Neue Umfrage – Sparen statt Steuern erhöhen für die Armee
-- [SRF Schweiz] Drohnensichtungen – Drohnenexpertin: «Mich beunruhigen die zunehmenden Sichtungen»
 - [SRF Schweiz] Wichtige Informatikprojekte – Schlüsselprojekte im Fokus: EFK rüffelt Bundesverwaltung
 - [20 Min Romandie] Verurteilter Polizist findet neue Stelle bei der Polizei von Morges
-- [Journal de Morges] Urlaubsstimmung im Parc de Vertou
 - [Journal de Morges] Die Rugby-Spieler aus Morges hatten viel Spass in Österreich
 - [SRF Ausland] Nato-Gipfel in Ankara – Erdogan verschenkt Revolver an Merz, Starmer und Co.
 - [SRF Wirtschaft] Vor grosser Umstrukturierung – VW und der schwere Gang der Veränderung
@@ -64,11 +74,4 @@ Finale Liste (live im XML-Feed):
 - [SRF Wirtschaft] Game Over für die Disc – Warum Sonys radikaler Kurswechsel alle Gamer trifft
 - [SRF Schweiz] Wirtschaftliche Unsicherheiten – Schweizer KMU bleiben trotz Unsicherheiten zuversichtlich
 - [20 Min Romandie] Vorsicht vor Geldbussen für zu laute Fans
-- [SRF Schweiz] Solothurner Spitäler AG – Abgesägt: Solothurner Polit-Urgestein Kurt Fluri muss gehen
-- [SRF Ausland] Gastgeber USA – Krieg führen und die WM austragen: Wie geht das zusammen?
-- [20 Min Romandie] „Neonazi“-Angriff: Ein „antifaschistisches“ Picknick wird organisiert
-- [SRF Wissen] Überleben nach Krebs – Leben nach dem Krebs: Das unsichtbare Leiden der Cancer Survivors
-- [RTS Vaud] Yverdon überwacht seine Temperaturen, um Hitzeinseln besser zu bekämpfen
-- [20 Min Romandie] Das umstrittene Plakat wurde offiziell als sexistisch deklariert
-- [RTS Vaud] Mangel an ausserschulischen Betreuungsplätzen: Waadtländer Eltern in der Sackgasse
-- [SRF Wirtschaft] Jede 6. Person trainiert – Schweizer Bevölkerung trainiert überdurchschnittlich viel
+- [Journal de Morges] Der König der Holstein (wieder) in seinem Reich gekrönt!
