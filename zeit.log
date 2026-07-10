@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 9.7.2026, 06:59:31
-Letzter Lauf: 8.7.2026, 06:59:31
+Start: 10.7.2026, 06:59:47
+Letzter Lauf: 9.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,42 +20,34 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 36 neue Artikel geprÃ¼ft:
-- GelÃ¶scht (Grund: Duplikat zum Thema Amoklauf Schongau; informativster Artikel behalten (ID 4).): [Gesellschaft] 'Gymnasium in Bayern: »Ich habe einen Knall gehört«'
-- GelÃ¶scht (Grund: Duplikat zum Thema Amoklauf Schongau; informativster Artikel behalten (ID 4).): [Gesellschaft] 'Oberbayern: 16-Jähriger verletzt zwei Mädchen bei Amoklauf im bayerischen Schongau'
-- GelÃ¶scht (Grund: Thematisiert deutsche Politik und allgemeine Verwaltungsstrukturen (Regionale Politik/Innenpolitik).): [Gesellschaft] 'Reformen der Alpenländer: Huch, eine Reform!'
-- GelÃ¶scht (Grund: Kein Nachrichtenwert, Lifestyle-Thema ohne gesellschaftliche Relevanz.): [Entdecken] 'Jubiläumspodcast: Wie Sie die perfekte Party planen'
-- GelÃ¶scht (Grund: Fällt unter Erziehungsthemen/Elternratgeber.): [Arbeit] 'Entwicklungspsychologie: »Eltern sollten zumindest wissen, mit wem ihre Kinder Zeit verbringen«'
-- GelÃ¶scht (Grund: Fällt unter deutsche Parteipolitik und politische Kritik an Regierungsmaßnahmen.): [Wirtschaft] 'Deutsche Energiepolitik: Sie macht zu viel Klein-Klein'
-- GelÃ¶scht (Grund: Regionale Verkehrsmeldung/Bauarbeiten ohne überregionale Relevanz.): [Wirtschaft] 'Deutsche Bahn: Bauarbeiten betreffen ICE-Strecken und Verbindung Nürnberg–Regensburg'
-- GelÃ¶scht (Grund: Lokales, städtisches Thema (Kommunalpolitik/Lokales).): [Schweiz] 'Freibad Ygruben in Glarus: Postleitzahl: 8750'
-- GelÃ¶scht (Grund: Parteipolitik und parteipolitische Interna.): [Entdecken] 'Rasha Nasr: »Ich bin wahrscheinlich mehr Patriotin als alle Abgeordneten der AfD«'
-- GelÃ¶scht (Grund: Verbraucherthema, das politisch motiviert war; kein inhaltlicher Mehrwert zu allgemeinen Spritpreismeldungen.): [Mobilität] 'Tankrabatt: Spritpreise steigen nach Ende des Tankrabatts kräftig'
-- GelÃ¶scht (Grund: Parteipolitik und parlamentarische Prozesse.): [Wirtschaft] 'Krankenkassen: Grünenabgeordneter reicht Eilantrag gegen Krankenkassen-Gesetz ein'
+KI-Filter (Gemini) - 28 neue Artikel geprÃ¼ft:
+- GelÃ¶scht (Grund: Duplikat des Themas VW-Sparplan; Artikel 15 ist aktueller und informativer.): [Wirtschaft] 'VW-Konzern: Sitzung des VW-Aufsichtsrats endet ohne Klarheit zu Sparplänen'
+- GelÃ¶scht (Grund: Fokus auf parteipolitische Perspektive (Grünen-Politikerin) zum Thema VW-Sparplan; inhaltliches Duplikat.): [Mobilität] 'Volkswagen: »Es gibt Firmen in der Autoindustrie, die noch Erfolg haben«'
+- GelÃ¶scht (Grund: Thematisches Duplikat zum VW-Sparplan-Kontext; regionale Perspektive (Emden) untergeordnet.): [Mobilität] 'VW-Demo: Sie fragen sich: Warum ausgerechnet wir?'
+- GelÃ¶scht (Grund: Regionale deutsche Politik (Landesebene).): [Gesellschaft] 'Pressearbeit: Polizei in Baden-Württemberg soll Nationalität künftig immer nennen'
+- GelÃ¶scht (Grund: Deutsche Kommunalpolitik / regionale Wirtschaft/Soziales.): [Wirtschaft] 'Thüringen: Millionenschwerer Sozialplan nach Zalando-Aus in Erfurt beschlossen'
+- GelÃ¶scht (Grund: Duplikat zum Thema Psychotherapie-Finanzierung; Artikel 5 ist präsenter durch den Gerichtsbeschluss.): [Wirtschaft] 'Psychotherapie: »Wir werden öfter Menschen in Krisen abweisen müssen«'
+- GelÃ¶scht (Grund: Die Thematik fällt in den Bereich politischer Regulierung, die den Kriterien der Parteipolitik/Regelung nahekommt; zudem inhaltlich redundant zu digitalen Sicherheitsdebatten.): [Digital] 'EU-Chatkontrolle: EU-Parlament billigt Datenschutz-Ausnahme für Chatkontrolle'
+- GelÃ¶scht (Grund: Starke parteipolitische Einbettung (Die Linke) und Fokus auf deutsche Wohnungspolitik.): [Wirtschaft] 'Mietwucher: 10.000 Mieter melden über Linkenapp überhöhte Mieten an Ämter'
+- GelÃ¶scht (Grund: Ratgeber/Tool-Charakter zur staatlichen Familienpolitik, passt zum Ausschlussbereich Erziehung/Familienpolitik.): [Gesellschaft] 'Elterngeld: So viel Elterngeld würden Sie bekommen'
 
 Finale Liste (live im XML-Feed):
-- [Gesellschaft] Bundespolizei: Bundespolizei hat mehr Gewaltdelikte registriert
-- [Wirtschaft] Meta: Meta will erstes KI-Rechenzentrum in Kanada bauen
-- [Gesellschaft] Religiöser Wahn in der Familie: Die Schwester
-- [Gesellschaft] Polizeieinsatz in Bayern: Was über die Amoktat von Schongau bekannt ist
-- [Gesellschaft] Prozess in Berlin: Palliativarzt wegen 15-fachen Mordes zu lebenslanger Haft verurteilt
-- [Gesellschaft] »Das Leben festhalten« von Robert Mueller-Stahl: Glücksmomente
-- [Wirtschaft] Wohnungsbau: Wir müssen endlich wieder einfacher bauen!
-- [Wirtschaft] Tiefseebergbau: Was ließe sich da alles rausholen
-- [Schweiz] Schweine-Überproduktion in der Schweiz: Grunz!
-- [Entdecken] Schutz vor Hitze: Drinnen ist besser, selbst im Sommer. Kapiert ihr jetzt auch, oder?
-- [Schweiz] Rechenzentren in der Schweiz: Die Maschinenstürmer von Beringen
-- [Entdecken] Schöne Momente: »Und dann stimmt sie tatsächlich ein Lied für mich an!«
-- [Schweiz] Ausstellung »Heimatflimmern«: Ganz ohne Berge geht es nicht
-- [Wirtschaft] Internationaler Währungsfonds: IWF senkt Wachstumsprognose für Deutschland
-- [Mobilität] Faltrad: Mein Brompton ist so wunderbar lächerlich
-- [Gesellschaft] Todesfälle von Migranten: Deutlich mehr Migranten verunglücken auf dem Weg nach Europa
-- [Gesellschaft] Schulen: Jede dritte Lehrkraft ist mindestens 50 Jahre alt
-- [Wirtschaft] Automobilindustrie: Mercedes-Benz verzeichnet starken Rückgang bei Verkauf in China
-- [Wirtschaft] Übernahmeangebot: UniCredit nähert sich Mehrheit bei Commerzbank
-- [Digital] Digital Markets Act: Apple scheitert vor EU-Gericht mit Klage gegen strengere Regeln
-- [Digital] Deutsche Bahn: Bahn will Millionen in KI für Kundenkommunikation investieren
-- [Wirtschaft] Institut für deutsche Wirtschaft Köln: Elterngeld hat fast ein Drittel an Kaufkraft eingebüßt
-- [Wirtschaft] Erbschaft: Für das Finanzamt kann dieses Haus ein Palast sein
-- [Gesellschaft] Auslandssemester in Ecuador: »Komm mich doch mal besuchen!«
-- [Digital] Informationsfreiheitsgesetz: Diese Skandale wären wohl nie ans Licht gekommen
+- [Gesellschaft] Cihan Çakmak: »Ich komme und trete die Tür ein«
+- [Arbeit] Kündigung für Mitarbeiter: »Am Ende spuckt die Excel-Liste aus, wer gehen muss«
+- [Wirtschaft] Industrieemissionen: Bundestag beschließt strengere Schadstoffregeln für Industrie
+- [Wirtschaft] Sozialstaat: Ich hatte kein Glück, ich hatte einen Sozialstaat
+- [Arbeit] Psychotherapie: Gericht stoppt Honorarkürzung für Psychotherapeuten vorerst
+- [Gesellschaft] Brand in Schuhfabrik in China: Mindestens 28 Tote bei Brand in Schuhfabrik in China
+- [Gesellschaft] Amoktat in Schongau: Verdächtiger von Schongau war wohl vom Unterricht ausgeschlossen
+- [Digital] KI bei Ermittlungen: Die Polizei könnte bald ihr Profilbild mit KI abgleichen
+- [Digital] »Assassin’s Creed Black Flag Resynced«: Urlaub auf dem Piratenspielplatz
+- [Mobilität] Aktionstag bei VW: Gewerkschaft protestiert vor Aufsichtsratssitzung von Volkswagen
+- [Wirtschaft] Corona-Wirtschaftshilfen: Staatliche Coronahilfen haben Studie zufolge 140.000 Betriebe gerettet
+- [Mobilität] Deutsche Bahn: Strecke: frisch saniert – Pünktlichkeitsquote: 6 Prozent
+- [Gesellschaft] Buchmarkt: Junge Menschen verlieren die Lust aufs Lesen
+- [Wirtschaft] Streamingdienste: Europäischer Gerichtshof stärkt Widerrufsrecht bei Streaming-Abos
+- [Arbeit] Ingenieure in der Autobranche: Nicht mal Werkstudenten werden gesucht
+- [Gesellschaft] Rheinland-Pfalz: Zehn Jahre Haft nach tödlichem Angriff auf Zugbegleiter
+- [Wirtschaft] Außenhandel: Deutsche Exporte steigen vierten Monat in Folge,  US-Geschäft wächst
+- [Gesellschaft] Familienhilfe: Bevor es eskaliert
+- [Gesellschaft] Jahresbilanz der Bundespolizei: Bundespolizei registriert mehr Gewaltdelikte
