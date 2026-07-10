@@ -5,14 +5,224 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 04:30:36 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Journal de Morges] Der König der Holstein (wieder) in seinem Reich gekrönt!</title>
-      <link>https://journaldemorges.ch/actualite/societe/le-roi-de-la-holstein-recouronne-en-son-royaume/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/le-roi-de-la-holstein-recouronne-en-son-royaume/</guid>
-      <description><![CDATA[Die Familie von Nicolas Jotterand, der zudem Präsident der nationalen Organisation ist, empfing die Welt der Holstein-Zucht zu einer beeindruckenden nationalen Zeremonie.]]></description>
-      <pubDate>Thu, 09 Jul 2026 10:59:00 GMT</pubDate>
+      <title>[SRF Ausland] «Beispiellose Tragödie» – Zwölf Tote bei Waldbrand in Andalusien</title>
+      <link>https://www.srf.ch/news/international/beispiellose-tragoedie-zwoelf-tote-bei-waldbrand-in-andalusien</link>
+      <guid isPermaLink="false">urn:srf:article:019f4a26-9f1d-2407-a115-5f979484ed07</guid>
+      <description><![CDATA[Es ist der Waldbrand mit den bislang schwersten Folgen in Andalusien. 150 Feuerwehrleute kämpfen derzeit dagegen an.]]></description>
+      <pubDate>Fri, 10 Jul 2026 04:26:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Nach dem G7-Gipfel in Évian – Streit um G7-Sicherheitskosten: Frankreich will nicht zahlen</title>
+      <link>https://www.srf.ch/news/schweiz/nach-dem-g7-gipfel-in-evian-streit-um-g7-sicherheitskosten-frankreich-will-nicht-zahlen</link>
+      <guid isPermaLink="false">urn:srf:article:019f48b2-94c7-35b0-7c50-15f2d276edb4</guid>
+      <description><![CDATA[Laut EDA konnten sich Frankreich und die Schweiz auf keine Kostenbeteiligung Frankreichs einigen.]]></description>
+      <pubDate>Fri, 10 Jul 2026 03:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Benzin-Knappheit in Russland – Der Ukraine-Krieg ist bei der russischen Bevölkerung angekommen</title>
+      <link>https://www.srf.ch/news/international/benzin-knappheit-in-russland-der-ukraine-krieg-ist-bei-der-russischen-bevoelkerung-angekommen</link>
+      <guid isPermaLink="false">urn:srf:article:019f4794-c5cf-86e2-57af-d114605201b8</guid>
+      <description><![CDATA[Treibstoffmangel, kränkelnde Wirtschaft, Internetzensur: 2026 ist ein schwieriges Jahr für die russische Bevölkerung.]]></description>
+      <pubDate>Fri, 10 Jul 2026 03:53:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Grossbaustelle in Basel – Basel operiert am Herzen der Stadt: Innenstadt ohne Trams</title>
+      <link>https://www.srf.ch/news/schweiz/grossbaustelle-in-basel-basel-operiert-am-herzen-der-stadt-innenstadt-ohne-trams</link>
+      <guid isPermaLink="false">urn:srf:article:019f45f1-dde8-8392-532c-433313e2e3dd</guid>
+      <description><![CDATA[Wegen einer Grossbaustelle fahren in der Basler Innenstadt keine Trams. Dies gilt auch als Test für eine Initiative.]]></description>
+      <pubDate>Fri, 10 Jul 2026 03:52:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Lärmmessungen im Aargau – Lärm von E-Autos wird wissenschaftlich untersucht</title>
+      <link>https://www.srf.ch/news/schweiz/laermmessungen-im-aargau-laerm-von-e-autos-wird-wissenschaftlich-untersucht</link>
+      <guid isPermaLink="false">urn:srf:article:019eef23-e97d-cf94-4755-79f0582f3a51</guid>
+      <description><![CDATA[Forschende der Empa und des TCS haben auf zwei Aargauer Strassen gemessen, wie laut oder leise E-Autos sind.]]></description>
+      <pubDate>Fri, 10 Jul 2026 03:51:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Nach Börsengang von SpaceX – Investieren in ETFs – das müssen Sie wissen</title>
+      <link>https://www.srf.ch/news/wirtschaft/nach-boersengang-von-spacex-investieren-in-etfs-das-muessen-sie-wissen</link>
+      <guid isPermaLink="false">urn:srf:article:019f40df-5aaf-0d8c-549e-3a5432acfe79</guid>
+      <description><![CDATA[Der Börsengang von SpaceX hat Folgen für jene, die in entsprechende ETFs investieren. Darauf müssen Sie achten.]]></description>
+      <pubDate>Fri, 10 Jul 2026 03:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Die Brotherstellung von morgen</title>
+      <link>https://journaldemorges.ch/actualite/terroir/la-fabrique-du-pain-de-demain/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/terroir/la-fabrique-du-pain-de-demain/</guid>
+      <description><![CDATA[Brot wird von fast 80 % der Weltbevölkerung konsumiert und ist ein Grundnahrungsmittel. Doch wie gelangt es auf unsere Teller? Wir erzählen die ganze Geschichte in fünf Episoden.]]></description>
+      <pubDate>Thu, 09 Jul 2026 23:53:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] US-Migrationsbehörde ICE – Nach Tod von Migranten in den USA: Mexiko kündigt Klagen an</title>
+      <link>https://www.srf.ch/news/international/us-migrationsbehoerde-ice-nach-tod-von-migranten-in-den-usa-mexiko-kuendigt-klagen-an</link>
+      <guid isPermaLink="false">urn:srf:article:019f483b-8a99-e4fc-6e54-17980bfe206e</guid>
+      <description><![CDATA[Bisher starben drei mexikanische Migranten bei Abschieberazzien, 14 weitere in Haftzentren, so Mexikos Aussenminister.]]></description>
+      <pubDate>Thu, 09 Jul 2026 19:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Neue Umfrage – Sparen statt Steuern erhöhen für die Armee</title>
+      <link>https://www.srf.ch/news/schweiz/neue-umfrage-sparen-statt-steuern-erhoehen-fuer-die-armee</link>
+      <guid isPermaLink="false">urn:srf:article:019f4721-f09c-46c2-b8c4-d1cd2d2c4084</guid>
+      <description><![CDATA[Eine Erhöhung der MWST für die Armeeaufrüstung wird klar abgelehnt, wie eine repräsentative Umfrage von GFS Bern zeigt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 19:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Drohnensichtungen – Drohnenexpertin: «Mich beunruhigen die zunehmenden Sichtungen»</title>
+      <link>https://www.srf.ch/news/schweiz/drohnensichtungen-drohnenexpertin-mich-beunruhigen-die-zunehmenden-sichtungen</link>
+      <guid isPermaLink="false">urn:srf:article:019f45ea-e7b9-971e-c63f-3b35f4ac7314</guid>
+      <description><![CDATA[Auch in der Schweiz werden zunehmend Drohnen über kritischen Infrastrukturen gesichtet. Wie bedrohlich ist das?]]></description>
+      <pubDate>Thu, 09 Jul 2026 18:56:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wichtige Informatikprojekte – Schlüsselprojekte im Fokus: EFK rüffelt Bundesverwaltung</title>
+      <link>https://www.srf.ch/news/schweiz/wichtige-informatikprojekte-schluesselprojekte-im-fokus-efk-rueffelt-bundesverwaltung</link>
+      <guid isPermaLink="false">urn:srf:article:019f459f-8c17-a6fb-7e50-7ffc762273ec</guid>
+      <description><![CDATA[Der Bund mache den gleichen Fehler wie vor 10 Jahren, schreibt die Eidgenössische Finanzkontrolle in einem Bericht.]]></description>
+      <pubDate>Thu, 09 Jul 2026 18:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Verurteilter Polizist findet neue Stelle bei der Polizei von Morges</title>
+      <link>https://www.20min.ch/fr/story/vaud-un-agent-condamne-retrouve-un-poste-a-la-police-de-morges-103599881</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-un-agent-condamne-retrouve-un-poste-a-la-police-de-morges-103599881</guid>
+      <description><![CDATA[Ein ehemaliger Beamter, der wegen häuslicher Gewalt und Verletzung des Amtsgeheimnisses vor Gericht stand, wurde von der Regionalpolizei Morges für eine administrative Stelle eingestellt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 18:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Urlaubsstimmung im Parc de Vertou</title>
+      <link>https://journaldemorges.ch/actualite/societe/air-de-vacances-au-parc-de-vertou/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/air-de-vacances-au-parc-de-vertou/</guid>
+      <description><![CDATA[Von Allaman bis Préverenges werden die Grünflächen angesichts der hohen Temperaturen gestürmt. Ein Beispiel ist der Parc de Vertou in Morges, der dank seiner Nähe zum See kühl bleibt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 17:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Die Rugby-Spieler aus Morges hatten viel Spass in Österreich</title>
+      <link>https://journaldemorges.ch/sports/le-rugby-morgien-sest-fait-plaisir-en-autriche/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/sports/le-rugby-morgien-sest-fait-plaisir-en-autriche/</guid>
+      <description><![CDATA[Bei den United World Games in Klagenfurt erlebte der AS Rugby Morges eine farbenfrohe Reise.]]></description>
+      <pubDate>Thu, 09 Jul 2026 17:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Nato-Gipfel in Ankara – Erdogan verschenkt Revolver an Merz, Starmer und Co.</title>
+      <link>https://www.srf.ch/news/international/nato-gipfel-in-ankara-erdogan-verschenkt-revolver-an-merz-starmer-und-co</link>
+      <guid isPermaLink="false">urn:srf:article:019f467f-86dc-d750-b72f-6aef73425736</guid>
+      <description><![CDATA[Mit seinem Geschenk dürfte der türkische Präsident vor allem ein Ziel verfolgt haben.]]></description>
+      <pubDate>Thu, 09 Jul 2026 15:48:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Vor grosser Umstrukturierung – VW und der schwere Gang der Veränderung</title>
+      <link>https://www.srf.ch/news/wirtschaft/vor-grosser-umstrukturierung-vw-und-der-schwere-gang-der-veraenderung</link>
+      <guid isPermaLink="false">urn:srf:article:019f4658-6973-c0bd-7f2c-510a91a8d9e1</guid>
+      <description><![CDATA[Volkswagen muss schrumpfen, um bestehen zu können. Es geht um Versäumnisse und komplizierte Strukturen.]]></description>
+      <pubDate>Thu, 09 Jul 2026 15:47:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Industriegebiet in West-Lausanne wegen Grossbrand abgeriegelt</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/ecublens-une-zone-industrielle-bouclee-pour-un-gros-incendie-29298773.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29298773</guid>
+      <description><![CDATA[Am späten Donnerstagnachmittag brach in einem Industriegebiet in der Gemeinde Ecublens im Westen von Lausanne ein Brand aus. Ein Sicherheitsperimeter wurde um das Gebiet herum errichtet. Das Feuer ist unter Kontrolle und es wurden keine Personen verletzt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 15:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] «Neonazi»-Angriff: Die Polizei hat schliesslich doch eine Untersuchung eingeleitet</title>
+      <link>https://www.20min.ch/fr/story/lausanne-vd-agression-neonazie-la-police-a-finalement-ouvert-une-enquete-103599911</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-vd-agression-neonazie-la-police-a-finalement-ouvert-une-enquete-103599911</guid>
+      <description><![CDATA[Entgegen ursprünglichen Angaben sind nun doch Ermittlungen im Gange. Die Lausanner Polizei räumt eine «vorzeitige» Kommunikation ein.]]></description>
+      <pubDate>Thu, 09 Jul 2026 14:53:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Ewigkeitschemikalien – Umweltpanel: Allgemeinheit weiss kaum etwas über PFAS</title>
+      <link>https://www.srf.ch/news/schweiz/ewigkeitschemikalien-umweltpanel-allgemeinheit-weiss-kaum-etwas-ueber-pfas</link>
+      <guid isPermaLink="false">urn:srf:article:019f4681-eda4-e475-69c1-5e1085128796</guid>
+      <description><![CDATA[Eine Befragung des Schweizer Umweltpanels zeigt: Die Bevölkerung wünscht sich strengere Massnahmen gegen PFAS.]]></description>
+      <pubDate>Thu, 09 Jul 2026 14:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bundesverwaltungsgericht – Uber Eats hat neu Pöstlerinnen und Pöstler</title>
+      <link>https://www.srf.ch/news/schweiz/bundesverwaltungsgericht-uber-eats-hat-neu-poestlerinnen-und-poestler</link>
+      <guid isPermaLink="false">urn:srf:article:019f471e-16e5-b48d-2be1-55d2102ee17a</guid>
+      <description><![CDATA[Hauptgrund sei, dass Uber Eats auch Produkte des täglichen Bedarfs wie Haushaltsartikel ausliefere.]]></description>
+      <pubDate>Thu, 09 Jul 2026 14:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Nachwahl in Grossbritannien – Diese Mülltonne vermiest Nigel Farages Plan</title>
+      <link>https://www.srf.ch/news/international/nachwahl-in-grossbritannien-diese-muelltonne-vermiest-nigel-farages-plan</link>
+      <guid isPermaLink="false">urn:srf:article:019f459c-7446-6fc5-2123-b5887679be07</guid>
+      <description><![CDATA[Der Rechtspopulist wollte mit seinem Rücktritt von seinen Problemen ablenken. Doch das ging nach hinten los.]]></description>
+      <pubDate>Thu, 09 Jul 2026 14:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Schweiz im Viertelfinal – Diese Städte erlauben am Samstag die WM-Freinacht</title>
+      <link>https://www.srf.ch/news/schweiz/schweiz-im-viertelfinal-diese-staedte-erlauben-am-samstag-die-wm-freinacht</link>
+      <guid isPermaLink="false">urn:srf:article:019f42a0-09e7-6f5e-8e71-83d19003c1d4</guid>
+      <description><![CDATA[Viele Kantone und Städte haben für Sonntagmorgen Sonderbewilligungen für Public Viewings, Bars und Restaurants erteilt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 13:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Verurteilung eines Waadtländer Turnlehrers bestätigt, der seine 14-jährige Schülerin sexuell missbrauchte</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/vaud-condamnation-confirmee-pour-le-prof-de-gym-abuseur-29298388.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29298388</guid>
+      <description><![CDATA[Ein Waadtländer Turnlehrer hat ein ganzes Semester lang eine 14-jährige Schülerin sexuell missbraucht. Das Bundesgericht bestätigte seine Verurteilung zu zwei Jahren Gefängnis auf Bewährung, hob jedoch aus Verfahrensgründen die Genugtuungssumme von 6000 Franken auf.]]></description>
+      <pubDate>Thu, 09 Jul 2026 13:31:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Patriot-Abwehrsystem – Hält Trump sein Versprechen gegenüber der Ukraine?</title>
+      <link>https://www.srf.ch/news/international/ukraine/patriot-abwehrsystem-haelt-trump-sein-versprechen-gegenueber-der-ukraine</link>
+      <guid isPermaLink="false">urn:srf:article:019f469f-e56a-9ed2-475e-906dc5554468</guid>
+      <description><![CDATA[Eine US-Lizenz zum Nachbauen der Patriot-Systeme: Was davon zu halten ist, sagt SRF-Russland-Korrespondent David Nauer.]]></description>
+      <pubDate>Thu, 09 Jul 2026 13:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Deutsche Bahn – Zehn Jahre Haft nach tödlichem Angriff auf Zugbegleiter</title>
+      <link>https://www.srf.ch/news/international/deutsche-bahn-zehn-jahre-haft-nach-toedlichem-angriff-auf-zugbegleiter</link>
+      <guid isPermaLink="false">urn:srf:article:019f46a7-23bc-0565-0dce-014c347c462b</guid>
+      <description><![CDATA[Der Mann, der einen Zugbegleiter im Februar tödlich verletzt hatte, wurde zu zehn Jahren Freiheitsstrafe verurteilt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 13:19:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] «Schönster Coach ever» – Muri national: So feiert das Internet unseren Nati-Trainer</title>
+      <link>https://www.srf.ch/news/gesellschaft/schoenster-coach-ever-muri-national-so-feiert-das-internet-unseren-nati-trainer</link>
+      <guid isPermaLink="false">urn:srf:article:019f46ae-9028-9d93-053d-f7dd4d96eb62</guid>
+      <description><![CDATA[Nicht nur die Erfolge der Nati sorgen für Schlagzeilen: Im Netz wird Murat Yakin als Stilikone und Sexsymbol gefeiert.]]></description>
+      <pubDate>Thu, 09 Jul 2026 13:18:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Ein ehemaliger EMS-Direktor soll eine halbe Million zu viel erhalten haben</title>
+      <link>https://www.20min.ch/fr/story/vaud-un-ex-directeur-d-ems-aurait-percu-un-demi-million-de-trop-103599707</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-un-ex-directeur-d-ems-aurait-percu-un-demi-million-de-trop-103599707</guid>
+      <description><![CDATA[Der Kanton ist der Ansicht, dass ein ehemaliger Leiter von La Rozavère die Gehaltsobergrenze überschritten hat. Die Justiz hält jedoch den Grossteil der Forderung für verjährt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 12:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Nach Boom – Verkauf von Solaranlagen erstmals rückläufig</title>
+      <link>https://www.srf.ch/news/schweiz/nach-boom-verkauf-von-solaranlagen-erstmals-ruecklaeufig</link>
+      <guid isPermaLink="false">urn:srf:article:019f466a-c9ec-2df3-7293-86b33c22d75d</guid>
+      <description><![CDATA[Der Verkauf von Photovoltaik-Anlagen ist 2025 um fast 30 Prozent zurückgegangen – eine erste Verlangsamung seit 2017.]]></description>
+      <pubDate>Thu, 09 Jul 2026 12:36:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Game Over für die Disc – Warum Sonys radikaler Kurswechsel alle Gamer trifft</title>
+      <link>https://www.srf.ch/news/wirtschaft/game-over-fuer-die-disc-warum-sonys-radikaler-kurswechsel-alle-gamer-trifft</link>
+      <guid isPermaLink="false">urn:srf:article:019f4611-4cb6-9b22-5e94-3da61fd84d47</guid>
+      <description><![CDATA[Ab 2028 gibt es neue Playstation-Spiele nur noch digital. Händler verlieren, Gamer fühlen sich entmachtet.]]></description>
+      <pubDate>Thu, 09 Jul 2026 12:10:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wirtschaftliche Unsicherheiten – Schweizer KMU bleiben trotz Unsicherheiten zuversichtlich</title>
+      <link>https://www.srf.ch/news/schweiz/wirtschaftliche-unsicherheiten-schweizer-kmu-bleiben-trotz-unsicherheiten-zuversichtlich</link>
+      <guid isPermaLink="false">urn:srf:article:019f45ef-654c-080d-5720-2dc07dc12d85</guid>
+      <description><![CDATA[Steigende Kosten und fehlende Arbeitskräfte beschäftigen Schweizer KMU derzeit am stärksten.]]></description>
+      <pubDate>Thu, 09 Jul 2026 11:22:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Vorsicht vor Geldbussen für zu laute Fans</title>
+      <link>https://www.20min.ch/fr/story/vaudgeneve-attention-a-la-buche-pour-les-supporters-trop-bruyants-103599197</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaudgeneve-attention-a-la-buche-pour-les-supporters-trop-bruyants-103599197</guid>
+      <description><![CDATA[Ein Fan, der wegen zu späten Hupens nach einem WM-Spiel gebüsst wurde, kritisiert die Lausanner Polizei. Eine Bestandsaufnahme einer Regel, die teils unterschiedlich ausgelegt wird.]]></description>
+      <pubDate>Thu, 09 Jul 2026 11:10:07 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Solothurner Spitäler AG – Abgesägt: Solothurner Polit-Urgestein Kurt Fluri muss gehen</title>
@@ -20,13 +230,6 @@
       <guid isPermaLink="false">urn:srf:article:019f45ed-f913-46f6-a4b9-860cf4e19070</guid>
       <description><![CDATA[Als Folge der Lohnexzesse bei der Solothurner Spitäler AG tritt Verwaltungsratspräsident Kurt Fluri per sofort zurück.]]></description>
       <pubDate>Thu, 09 Jul 2026 10:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Schweiz im Viertelfinal – Diese Städte erlauben am Samstag die WM-Freinacht</title>
-      <link>https://www.srf.ch/news/schweiz/schweiz-im-viertelfinal-diese-staedte-erlauben-am-samstag-die-wm-freinacht</link>
-      <guid isPermaLink="false">urn:srf:article:019f42a0-09e7-6f5e-8e71-83d19003c1d4</guid>
-      <description><![CDATA[Viele Kantone und Städte haben für Sonntagmorgen Sonderbewilligungen für Public Viewings, Bars und Restaurants erteilt.]]></description>
-      <pubDate>Thu, 09 Jul 2026 10:19:11 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Gastgeber USA – Krieg führen und die WM austragen: Wie geht das zusammen?</title>
@@ -41,13 +244,6 @@
       <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-vd-agression-neonazie-un-pique-nique-antifasciste-sera-organise-103599763</guid>
       <description><![CDATA[Nach dem Angriff auf einen Mittdreissiger in der Nähe des Théâtre de Vidy rufen Ensemble à Gauche und Solidarité Vaud dazu auf, den Ort „gegen den Faschismus“ zu besetzen.]]></description>
       <pubDate>Thu, 09 Jul 2026 09:49:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wichtige Informatikprojekte – Schlüsselprojekte im Fokus: EFK rüffelt Bundesverwaltung</title>
-      <link>https://www.srf.ch/news/schweiz/wichtige-informatikprojekte-schluesselprojekte-im-fokus-efk-rueffelt-bundesverwaltung</link>
-      <guid isPermaLink="false">urn:srf:article:019f459f-8c17-a6fb-7e50-7ffc762273ec</guid>
-      <description><![CDATA[Der Bund mache den gleichen Fehler wie vor 10 Jahren, schreibt die Eidgenössische Finanzkontrolle in einem Bericht.]]></description>
-      <pubDate>Thu, 09 Jul 2026 09:47:24 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Wissen] Überleben nach Krebs – Leben nach dem Krebs: Das unsichtbare Leiden der Cancer Survivors</title>
@@ -78,158 +274,11 @@
       <pubDate>Thu, 09 Jul 2026 07:10:34 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wirtschaft] Jede 6. Person trainiert – Hohe Motivation, hohe Preise: 5 Fakten zu Fitness in der Schweiz</title>
-      <link>https://www.srf.ch/news/wirtschaft/jede-6-person-trainiert-hohe-motivation-hohe-preise-5-fakten-zu-fitness-in-der-schweiz</link>
+      <title>[SRF Wirtschaft] Jede 6. Person trainiert – Schweizer Bevölkerung trainiert überdurchschnittlich viel</title>
+      <link>https://www.srf.ch/news/wirtschaft/jede-6-person-trainiert-schweizer-bevoelkerung-trainiert-ueberdurchschnittlich-viel</link>
       <guid isPermaLink="false">urn:srf:article:019f40ea-9423-952b-c2bf-f70e1ab9728e</guid>
       <description><![CDATA[Fitnesscenter sind in der Schweiz beliebter als in Deutschland oder Österreich. Das liegt auch an den Krankenkassen.]]></description>
       <pubDate>Thu, 09 Jul 2026 06:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Wie bezahlen «ruinierte» Beschuldigte die Elite der Anwälte?</title>
-      <link>https://www.20min.ch/fr/story/justice-comment-les-prevenus-ruines-se-paient-ils-la-creme-des-avocats-103577394</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/justice-comment-les-prevenus-ruines-se-paient-ils-la-creme-des-avocats-103577394</guid>
-      <description><![CDATA[Vom Ehepaar Moretti bis zum Walliser Betrüger S.B. – diese sogenannten «mittellosen» Angeklagten leisten sich manchmal die besten Anwälte des Landes. Oft dank des Staates – und unserer Steuern.]]></description>
-      <pubDate>Thu, 09 Jul 2026 04:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Landwirtschaft und Klimawandel – Bauern leiden unter der Trockenheit</title>
-      <link>https://www.srf.ch/news/schweiz/landwirtschaft-und-klimawandel-bauern-leiden-unter-der-trockenheit</link>
-      <guid isPermaLink="false">urn:srf:article:019f440b-feac-408c-7a87-a954f16a9e7f</guid>
-      <description><![CDATA[Die Hitze und Trockenheit setzen Schweizer Bauern zu. Auch SVP-Politiker fordern Massnahmen gegen Wetterextreme.]]></description>
-      <pubDate>Thu, 09 Jul 2026 03:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Arbeitslosigkeit – Wer sich freiwillig engagiert, kann Arbeitslosengeld verlieren</title>
-      <link>https://www.srf.ch/news/schweiz/arbeitslosigkeit-wer-sich-freiwillig-engagiert-kann-arbeitslosengeld-verlieren</link>
-      <guid isPermaLink="false">urn:srf:article:019f40f7-ffeb-5e07-2279-2d42d6b81be2</guid>
-      <description><![CDATA[Diese Regel ist wenig bekannt: Wer Arbeitslosengeld bekommt, muss sich freiwilliges Engagement bewilligen lassen.]]></description>
-      <pubDate>Thu, 09 Jul 2026 03:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Karriere im Eiltempo – Kaum eingebürgert, schon Lokalpolitiker</title>
-      <link>https://www.srf.ch/news/schweiz/karriere-im-eiltempo-kaum-eingebuergert-schon-lokalpolitiker</link>
-      <guid isPermaLink="false">urn:srf:article:019f3d12-a25f-a35c-336e-59e895abe55f</guid>
-      <description><![CDATA[Noch vor Kurzem hatte Stephan Kandelhardt keinen Schweizer Pass. Nun ist er schon Gemeinderat von Oberweningen ZH.]]></description>
-      <pubDate>Thu, 09 Jul 2026 03:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Aufruhr bei Ärzteschaft – «Effizienz wird bestraft»: Ärzte kritisieren neue Obergrenze</title>
-      <link>https://www.srf.ch/news/schweiz/aufruhr-bei-aerzteschaft-effizienz-wird-bestraft-aerzte-kritisieren-neue-obergrenze</link>
-      <guid isPermaLink="false">urn:srf:article:019f40be-b74a-bf8c-91d2-258730f9d814</guid>
-      <description><![CDATA[Der Bund will, dass Ärzte ab dem nächsten Jahr nicht mehr unbegrenzt abrechnen dürfen. Das löst Kritik aus.]]></description>
-      <pubDate>Thu, 09 Jul 2026 03:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Historischer Nati-Erfolg – Als die Schweiz letztmals im WM-Viertelfinal stand</title>
-      <link>https://www.srf.ch/news/schweiz/historischer-nati-erfolg-als-die-schweiz-letztmals-im-wm-viertelfinal-stand-1</link>
-      <guid isPermaLink="false">urn:srf:article:019f4076-5804-e067-d5ed-fec588b57bd5</guid>
-      <description><![CDATA[Letztmals qualifizierte sich die Nati 1954 für einen WM-Viertelfinal. Die (Fussball-)Welt war damals eine ganz andere.]]></description>
-      <pubDate>Thu, 09 Jul 2026 03:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Dunkle Zeiten für Kuba – Wie ist die Lage in Kuba nach dem letzten Stromausfall?</title>
-      <link>https://www.srf.ch/news/international/dunkle-zeiten-fuer-kuba-wie-ist-die-lage-in-kuba-nach-dem-letzten-stromausfall</link>
-      <guid isPermaLink="false">urn:srf:article:019f4263-2ad1-e074-816e-d67ea95e501a</guid>
-      <description><![CDATA[In Kuba ist zum dritten Mal dieses Jahr der Strom ausgefallen. Die Folgen für die Bevölkerung sind gravierend.]]></description>
-      <pubDate>Wed, 08 Jul 2026 19:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Davos Tech Summit – Warum Roboter auch in 20 Jahren nicht für uns einkaufen gehen</title>
-      <link>https://www.srf.ch/news/davos-tech-summit-warum-roboter-auch-in-20-jahren-nicht-fuer-uns-einkaufen-gehen</link>
-      <guid isPermaLink="false">urn:srf:article:019f376c-9165-2f36-9fee-f2d01863458d</guid>
-      <description><![CDATA[Mit Neuem konfrontiert, stellen sich Roboter oft dumm an. Doch künstliche Intelligenz soll sie alltagstauglich machen.]]></description>
-      <pubDate>Wed, 08 Jul 2026 18:35:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Neue Mittel gegen Infektionen – Wie die Schweiz aus der Antibiotika-Krise kommen will</title>
-      <link>https://www.srf.ch/news/wirtschaft/neue-mittel-gegen-infektionen-wie-die-schweiz-aus-der-antibiotika-krise-kommen-will</link>
-      <guid isPermaLink="false">urn:srf:article:019ef98a-72dd-e671-eb16-dd2dec6b08a1</guid>
-      <description><![CDATA[Es fehlt weltweit an neuen Antibiotika. Neue Bezahlmodelle für Pharmafirmen sollen das ändern – auch in der Schweiz.]]></description>
-      <pubDate>Wed, 08 Jul 2026 18:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Mountainbiker terrorisieren Kühe und lösen Empörung aus</title>
-      <link>https://www.20min.ch/fr/story/valais-des-vetetistes-terrorisent-des-vaches-et-suscitent-un-tolle-103599403</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/valais-des-vetetistes-terrorisent-des-vaches-et-suscitent-un-tolle-103599403</guid>
-      <description><![CDATA[Bei einem Rennen im Val de Bagnes schockierte das Verhalten zweier Teilnehmer die Bevölkerung. Das Tourismusbüro und die Gemeinde bezeichnen den Vorfall als inakzeptabel.]]></description>
-      <pubDate>Wed, 08 Jul 2026 17:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Neue Tarifstruktur für Physio – Zwei konkurrierende Physiotherapie-Berufsverbände – warum?</title>
-      <link>https://www.srf.ch/news/schweiz/neue-tarifstruktur-fuer-physio-zwei-konkurrierende-physiotherapie-berufsverbaende-warum</link>
-      <guid isPermaLink="false">urn:srf:article:019f408c-2cb8-50a5-1a29-82c01c406922</guid>
-      <description><![CDATA[Die neue Tarifstruktur bei den Physiotherapien führt zu einem Zerwürfnis in der Branche. Die Problematik.]]></description>
-      <pubDate>Wed, 08 Jul 2026 15:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Missbräuchliche Untervermietung: Ehepaar muss ins Gefängnis</title>
-      <link>https://www.20min.ch/fr/story/canton-de-vaud-sous-locations-abusives-un-couple-ecope-de-la-prison-ferme-103599340</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-sous-locations-abusives-un-couple-ecope-de-la-prison-ferme-103599340</guid>
-      <description><![CDATA[Ein wegen gewerbsmässigen Betrugs schuldig gesprochenes Ehepaar wurde zu drei und zwei Jahren Gefängnis verurteilt. Die Justiz ordnete zudem die Ausschaffung aus der Schweiz für zehn Jahre an.]]></description>
-      <pubDate>Wed, 08 Jul 2026 15:18:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Prozess in Berlin – Deutscher Arzt wegen 15-fachen Mordes verurteilt</title>
-      <link>https://www.srf.ch/news/international/prozess-in-berlin-deutscher-arzt-wegen-15-fachen-mordes-verurteilt</link>
-      <guid isPermaLink="false">urn:srf:article:019f4219-9c12-d910-f7b0-35143861ad2a</guid>
-      <description><![CDATA[Der Palliativarzt hat von 2021 bis 2024 zwölf Frauen und drei Männern ein tödliches Medikamentengemisch verabreicht.]]></description>
-      <pubDate>Wed, 08 Jul 2026 15:16:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Psychospiel Penalty – Sportpsychologe: «Der Kopf entscheidet, ob der Fuss funktioniert»</title>
-      <link>https://www.srf.ch/news/schweiz/psychospiel-penalty-sportpsychologe-der-kopf-entscheidet-ob-der-fuss-funktioniert</link>
-      <guid isPermaLink="false">urn:srf:article:019f40bc-2dac-f468-0f60-d5b80639140d</guid>
-      <description><![CDATA[Profifussballer können Penalty aus dem Effeff. Doch unter maximalem Druck wird der Elfmeter zum Nervenspiel.]]></description>
-      <pubDate>Wed, 08 Jul 2026 14:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Deutschland – Vorfall an Bayern-Schule: Verletzte Mädchen ausser Lebensgefahr</title>
-      <link>https://www.srf.ch/news/international/deutschland-vorfall-an-bayern-schule-verletzte-maedchen-ausser-lebensgefahr</link>
-      <guid isPermaLink="false">urn:srf:article:019f4198-9ebf-cfe3-04fb-b5b69b324c94</guid>
-      <description><![CDATA[Der mutmassliche Täter ist nach einem Vorfall im bayerischen Schongau festgenommen worden.]]></description>
-      <pubDate>Wed, 08 Jul 2026 14:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Sie krempeln die Ärmel hoch, um ihr Viertel abzukühlen</title>
-      <link>https://www.20min.ch/fr/story/fribourg-ils-se-retroussent-les-manches-pour-rafraichir-leur-quartier-103599316</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/fribourg-ils-se-retroussent-les-manches-pour-rafraichir-leur-quartier-103599316</guid>
-      <description><![CDATA[Im Rahmen eines innovativen, vom Bund finanzierten Projekts haben Anwohner einen Platz umgestaltet, um ihn in Hitzeperioden angenehmer zu machen.]]></description>
-      <pubDate>Wed, 08 Jul 2026 13:59:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Toooor für das Internet – So feiern Community und das Netz die Nati im Viertelfinal</title>
-      <link>https://www.srf.ch/news/schweiz/toooor-fuer-das-internet-so-feiern-community-und-das-netz-die-nati-im-viertelfinal</link>
-      <guid isPermaLink="false">urn:srf:article:019f412b-ca7c-ee2d-7256-e27abf6c14a2</guid>
-      <description><![CDATA[Die Nati schiesst sich in den Viertelfinal. Die SRF-Community schiesst los mit freudigen Kommentaren.]]></description>
-      <pubDate>Wed, 08 Jul 2026 13:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Wahlergebnisse von Vernier definitiv bestätigt</title>
-      <link>https://www.20min.ch/fr/story/geneve-les-resultats-de-l-election-de-vernier-definitivement-valides-103599341</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-les-resultats-de-l-election-de-vernier-definitivement-valides-103599341</guid>
-      <description><![CDATA[Das Bundesgericht hat die letzte Beschwerde gegen den zweiten kommunalen Wahlgang abgewiesen, der im November 2025 stattfand, fünf Monate nach der Annullierung des ersten.]]></description>
-      <pubDate>Wed, 08 Jul 2026 12:28:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Archäologie trifft KI – Verkohlte Schriftrolle erstmals entziffert – ohne sie zu öffnen</title>
-      <link>https://www.srf.ch/wissen/forschung/archaeologie-trifft-ki-verkohlte-schriftrolle-erstmals-entziffert-ohne-sie-zu-oeffnen</link>
-      <guid isPermaLink="false">urn:srf:article:019f37ac-d56e-fb7f-005b-658e5847c270</guid>
-      <description><![CDATA[Forschenden gelingt Erstaunliches: Fast 2000 Jahre alte, verkohlte Papyrusrolle mit Hilfe modernster Technik entziffert.]]></description>
-      <pubDate>Wed, 08 Jul 2026 12:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Weit entfernte Galaxienkerne – Blick ins frühe All: Euclid findet 31 Quasare</title>
-      <link>https://www.srf.ch/news/dialog/weit-entfernte-galaxienkerne-blick-ins-fruehe-all-euclid-findet-31-quasare</link>
-      <guid isPermaLink="false">urn:srf:article:019f40e6-674f-83b0-fa49-15194d1093f6</guid>
-      <description><![CDATA[Das Weltraumteleskop Euclid entdeckt 31 Quasare, die ältesten aus den ersten 670 Millionen Jahren des Universums.]]></description>
-      <pubDate>Wed, 08 Jul 2026 12:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Nato-Gipfel in Ankara – Trump teilt gegen die Nato und den Iran aus</title>
-      <link>https://www.srf.ch/news/international/nato-gipfel-in-ankara-trump-teilt-gegen-die-nato-und-den-iran-aus</link>
-      <guid isPermaLink="false">urn:srf:article:019f4180-9ce3-cd8c-e67b-6944909691cc</guid>
-      <description><![CDATA[Weder Schmeicheleien noch Beschwichtigungsversuche zeigen Wirkung. Trump geht am Nato-Gipfel auf Konfrontationskurs.]]></description>
-      <pubDate>Wed, 08 Jul 2026 11:54:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
