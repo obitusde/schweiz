@@ -5,182 +5,140 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Jul 2026 04:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 04:59:47 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Gesellschaft] Bundespolizei: Bundespolizei hat mehr Gewaltdelikte registriert</title>
-      <link>https://www.zeit.de/politik/deutschland/2026-07/bundespolizei-jahresbericht-gewalt-grenzkontrollen-2025</link>
+      <title>[Gesellschaft] Cihan Çakmak: »Ich komme und trete die Tür ein«</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/cihan-cakmak-pflanzen-lissabon-wochenende-tipps-podcast</link>
+      <guid isPermaLink="false">{urn:uuid:9e51ccef-46d1-4935-94f0-67511a9d95d6}</guid>
+      <description><![CDATA[Im Wochenendpodcast erzählt die Künstlerin Cihan Çakmak, wie sie ihre Bergamottenbäume pflegt. Und schwärmt von ihren Lieblingsorten in Lissabon.]]></description>
+      <pubDate>Fri, 10 Jul 2026 04:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Arbeit] Kündigung für Mitarbeiter: »Am Ende spuckt die Excel-Liste aus, wer gehen muss«</title>
+      <link>https://www.zeit.de/arbeit/2026-07/kuendigung-mitarbeiter-anwaeltin-arbeitgeber-unternehmen/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:2dc3b60c-e790-45e3-be7b-4af672d1efff}</guid>
+      <description><![CDATA[Wenn Firmen Mitarbeiter loswerden wollen, rufen sie Astrid Krüger an. Die Anwältin erklärt die Tricks der Arbeitgeberseite und wie Abfindungen verhandelt werden.]]></description>
+      <pubDate>Fri, 10 Jul 2026 03:16:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Industrieemissionen: Bundestag beschließt strengere Schadstoffregeln für Industrie</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/industrieemissionen-gesetz-eu-richtlinie-emissionsgrenzwerte</link>
+      <guid isPermaLink="false">{urn:uuid:3510ce7b-9663-44c4-aede-3b589d72755d}</guid>
+      <description><![CDATA[Für rund 10.000 Industrieanlagen in Deutschland sollen verschärfte Regeln für Emissionen gelten. Die Bundesregierung will damit eine EU-Richtlinie erfüllen.]]></description>
+      <pubDate>Thu, 09 Jul 2026 19:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Sozialstaat: Ich hatte kein Glück, ich hatte einen Sozialstaat</title>
+      <link>https://www.zeit.de/politik/deutschland/2026-07/sozialstaat-bildung-versuch-gerechtigkeit-sicherheit/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:c0dc7ac9-5215-4a2e-bca0-fce4921a2440}</guid>
+      <description><![CDATA[Hier kürzen, da kürzen, auch bei den Armen wird jetzt gespart. Doch schon 20 Euro weniger bringen manche Menschen in existenzielle Not. Oder sie retten sie, so wie mich.]]></description>
+      <pubDate>Thu, 09 Jul 2026 18:35:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Arbeit] Psychotherapie: Gericht stoppt Honorarkürzung für Psychotherapeuten vorerst</title>
+      <link>https://www.zeit.de/arbeit/2026-07/honorarkuerzung-psychotherapeuten-landessozialgericht-berlin-brandenburg-kbv</link>
+      <guid isPermaLink="false">{urn:uuid:1f4e83f4-6a69-48e9-b964-438cff88b32d}</guid>
+      <description><![CDATA[Durch einen Gerichtsbeschluss sind die Honorarkürzungen für Psychotherapie vorerst ausgesetzt. Ein Branchenverband hatte wegen der umstrittenen Sparmaßnahmen geklagt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 18:13:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Brand in Schuhfabrik in China: Mindestens 28 Tote bei Brand in Schuhfabrik in China</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/brand-schuhfabrik-china-jinjiang-fujian-xi-jinping</link>
+      <guid isPermaLink="false">{urn:uuid:b76a8736-a6cf-4304-861b-35a1cdc43bd3}</guid>
+      <description><![CDATA[Beim Brand einer Schuhfabrik in China sind 28 Menschen gestorben. In dem Land kommt es immer wieder zu Industrieunglücken wegen mangelnder Sicherheitsvorkehrungen.]]></description>
+      <pubDate>Thu, 09 Jul 2026 15:31:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Amoktat in Schongau: Verdächtiger von Schongau war wohl vom Unterricht ausgeschlossen</title>
+      <link>https://www.zeit.de/politik/deutschland/2026-07/amoktat-schongau-gymnasium-16-jaehriger-tatverdaechtiger</link>
+      <guid isPermaLink="false">{urn:uuid:fc715261-780b-40e0-a49a-a5806b0a3e2c}</guid>
+      <description><![CDATA[Nach der mutmaßlichen Amoktat an einer Schule steht Schongau unter Schock, die Aufarbeitung des Geschehens steht im Fokus. Es gibt auch neue Details zum Verdächtigen.]]></description>
+      <pubDate>Thu, 09 Jul 2026 14:59:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digital] KI bei Ermittlungen: Die Polizei könnte bald ihr Profilbild mit KI abgleichen</title>
+      <link>https://www.zeit.de/digital/internet/2026-07/ki-ermittlungen-polizei-newsletter-kuenstliche-intelligenz</link>
+      <guid isPermaLink="false">{urn:uuid:ae393faa-ccd8-4dab-bfac-92fff80d0220}</guid>
+      <description><![CDATA[Der Bundestag streitet über neue Ermittlungsbefugnisse der Polizei. Europa benötigt kein eigenes Hochleistungsmodell. Und Meta veröffentlicht Bild-KI. Der KI-Newsletter]]></description>
+      <pubDate>Thu, 09 Jul 2026 14:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digital] »Assassin’s Creed Black Flag Resynced«: Urlaub auf dem Piratenspielplatz</title>
+      <link>https://www.zeit.de/digital/games/2026-07/assasins-creed-black-flag-resynced-videospiel-gaming/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:2f9a8ddd-a03d-4ae3-b88e-32de52e4032b}</guid>
+      <description><![CDATA[Endlich in gestochen scharfe See stechen! In einer neuen, grunderneuerten Version macht der vielleicht beste Teil der Videospielreihe »Assassin’s Creed« noch mehr Spaß.]]></description>
+      <pubDate>Thu, 09 Jul 2026 11:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mobilität] Aktionstag bei VW: Gewerkschaft protestiert vor Aufsichtsratssitzung von Volkswagen</title>
+      <link>https://www.zeit.de/mobilitaet/2026-07/volkswagen-sparplaene-aufsichtsratssitzung-ig-metall-aktionstag-vw-stellenabbau</link>
+      <guid isPermaLink="false">{urn:uuid:ecba82cb-cecb-4176-a9a5-f0292bcafe95}</guid>
+      <description><![CDATA[Vor der entscheidenden Aufsichtsratssitzung von VW haben die Gewerkschaften zu Protesten mobilisiert. Die Konzernspitze will mitteilen, wie ihr Sparplan konkret aussieht.]]></description>
+      <pubDate>Thu, 09 Jul 2026 11:25:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Corona-Wirtschaftshilfen: Staatliche Coronahilfen haben Studie zufolge 140.000 Betriebe gerettet</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/corona-wirtschaftshilfen-bundes-firmen-arbeitsplaetze-2020-2021</link>
+      <guid isPermaLink="false">{urn:uuid:947fe78d-04b1-466b-aaf3-ff94144bb521}</guid>
+      <description><![CDATA[Wirtschaftsforscher attestieren den Wirtschaftshilfen während der Coronapandemie Wirksamkeit. In künftigen Krisen dürften Hilfen aber nicht den Strukturwandel behindern.]]></description>
+      <pubDate>Thu, 09 Jul 2026 10:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mobilität] Deutsche Bahn: Strecke: frisch saniert – Pünktlichkeitsquote: 6 Prozent</title>
+      <link>https://www.zeit.de/mobilitaet/2026-07/deutsche-bahn-bahnstrecke-hamburg-berlin-sanierung-unzuverlaessigkeit/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:1fee625f-10ba-4762-8b0d-b36558f3df93}</guid>
+      <description><![CDATA[Exklusive Daten zeigen, wie unzuverlässig die Züge zwischen Hamburg und Berlin verkehren. Ist das neue Sanierungskonzept der Bahn doch keine so kluge Idee?]]></description>
+      <pubDate>Thu, 09 Jul 2026 10:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Buchmarkt: Junge Menschen verlieren die Lust aufs Lesen</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/buchmarkt-umsatz-lesekrise-boersenverein-2025-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:92fc985a-8295-4565-a83a-21abda1f90c6}</guid>
+      <description><![CDATA[Weniger Umsatz, weniger Neuerscheinungen, weniger junge Käufer: Der deutsche Buchhandel spürte 2025 die Auswirkungen von Wirtschaftsflaute und sinkender Lesekompetenz.]]></description>
+      <pubDate>Thu, 09 Jul 2026 10:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Streamingdienste: Europäischer Gerichtshof stärkt Widerrufsrecht bei Streaming-Abos</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/eugh-urteil-streaming-abos-widerrufsrecht-sky-oesterreich-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:4466c006-3797-42da-b72e-f3c52f153bfd}</guid>
+      <description><![CDATA[Bei vielen Streamingdiensten geben Kunden bei Abschluss eines Vertragss ihr 14-tägiges Widerspruchsrecht auf. Der EuGH räumt Kunden nun eine angemessene Bedenkzeit ein.]]></description>
+      <pubDate>Thu, 09 Jul 2026 09:37:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Arbeit] Ingenieure in der Autobranche: Nicht mal Werkstudenten werden gesucht</title>
+      <link>https://www.zeit.de/arbeit/2026-07/ingenieure-autobranchen-stellenabbau-entwicklung-krise/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:aca6a1c8-4369-492b-ac56-82e992ee6682}</guid>
+      <description><![CDATA[Elektroautos sind die Zukunft! Die Autobranche wächst! Das hieß es lange. Jetzt finden junge Ingenieure keine Jobs mehr. Welche Auswege sie nun nutzen.]]></description>
+      <pubDate>Thu, 09 Jul 2026 08:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Rheinland-Pfalz: Zehn Jahre Haft nach tödlichem Angriff auf Zugbegleiter</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/zehn-jahre-haft-nach-toedlichem-angriff-auf-zugbegleiter-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:919aa9ab-ca69-44aa-903d-2dcb07d510c5}</guid>
+      <description><![CDATA[Im Februar schlug ein Mann in einer Bahn einen Kontrolleur zusammen – er starb an seinen Verletzungen. Der Täter wurde wegen Körperverletzung mit Todesfolge verurteilt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 08:52:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Außenhandel: Deutsche Exporte steigen vierten Monat in Folge,  US-Geschäft wächst</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/exporte-deutschland-usa-china-iran-krieg-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:eba592f8-c64d-456e-ac3c-f3ff5131bd2c}</guid>
+      <description><![CDATA[Lichtblick für die deutsche Wirtschaft: Die Exporte legen im Mai erneut zu – auch dank des starken US-Geschäfts. Zugleich warnen Ökonomen vor zu viel Euphorie.]]></description>
+      <pubDate>Thu, 09 Jul 2026 08:21:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Familienhilfe: Bevor es eskaliert</title>
+      <link>https://www.zeit.de/familie/2026-07/familien-krisen-erziehung-berlin-staat-unterstuetzung/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:39615bff-c76e-4ced-a99c-940f4cd0338d}</guid>
+      <description><![CDATA[Jonas Becker arbeitet mit Familien, die nicht mehr weiterwissen. Der Erziehungshelfer begleitet Krisen und erlebt, wie sie größer werden, wenn staatliche Hilfe wegfällt.]]></description>
+      <pubDate>Thu, 09 Jul 2026 07:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Jahresbilanz der Bundespolizei: Bundespolizei registriert mehr Gewaltdelikte</title>
+      <link>https://www.zeit.de/politik/deutschland/2026-07/bundespolizei-jahresbericht-gewalt-grenzkontrollen-2025-gxe</link>
       <guid isPermaLink="false">{urn:uuid:9df07d66-2780-4c1e-8ef0-8a660fd2463a}</guid>
       <description><![CDATA[Die Jahresstatistik der Bundespolizei zeigt einen leichten Anstieg von Gewaltdelikten. Weniger Verstöße gab es gegen das Aufenthaltsgesetz.]]></description>
-      <pubDate>Thu, 09 Jul 2026 04:47:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Meta: Meta will erstes KI-Rechenzentrum in Kanada bauen</title>
-      <link>https://www.zeit.de/politik/ausland/2026-07/meta-rechenzentrum-alberta-kanada</link>
-      <guid isPermaLink="false">{urn:uuid:983cb6cf-3462-4639-92aa-cd3ca6a48209}</guid>
-      <description><![CDATA[Der Facebook-Mutterkonzern errichtet für mehr als neun Milliarden US-Dollar sein erstes Rechenzentrum in Kanada. Es soll so viel Strom verbrauchen wie 800.000 Haushalte.]]></description>
-      <pubDate>Wed, 08 Jul 2026 22:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Religiöser Wahn in der Familie: Die Schwester</title>
-      <link>https://www.zeit.de/zeit-verbrechen/2026/39/religioeser-wahn-familie-schizophrenie-mutter-schwester/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:cb532c3c-8b21-416d-adb4-d52db81a0cf5}</guid>
-      <description><![CDATA[Armut und Paranoia prägen die Welt der kleinen Zarina. Doch das wahre Martyrium beginnt, als ihre Schwester stirbt. Jahrelang teilt sie sich mit der Leiche ein Zimmer.]]></description>
-      <pubDate>Wed, 08 Jul 2026 18:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Polizeieinsatz in Bayern: Was über die Amoktat von Schongau bekannt ist</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/schongau-bayern-gymnasium-polizeieinsatz-ermittlung</link>
-      <guid isPermaLink="false">{urn:uuid:7046be60-c42c-41b0-823d-df82fc697e0c}</guid>
-      <description><![CDATA[In einem Gymnasium in Schongau werden zwei Mädchen mit einem Messer lebensgefährlich verletzt. Die Polizei nimmt einen Jugendlichen fest. Ein Überblick]]></description>
-      <pubDate>Wed, 08 Jul 2026 18:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Prozess in Berlin: Palliativarzt wegen 15-fachen Mordes zu lebenslanger Haft verurteilt</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/palliativarzt-berlin-mord-prozess-urteil</link>
-      <guid isPermaLink="false">{urn:uuid:a1deb99d-e1ab-4b6f-8133-e68531fe42db}</guid>
-      <description><![CDATA[Weil er mindestens 15 Patienten getötet hat, muss ein Palliativarzt lebenslang in Haft. Die Opferzahl könnte aber noch weitaus höher sein, es gibt weitere Ermittlungen.]]></description>
-      <pubDate>Wed, 08 Jul 2026 17:43:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] »Das Leben festhalten« von Robert Mueller-Stahl: Glücksmomente</title>
-      <link>https://www.zeit.de/2026/29/das-leben-festhalten-robert-mueller-stahl-privatfotos-juden-1930er</link>
-      <guid isPermaLink="false">{urn:uuid:6e00129c-0bad-4823-b12a-f297e2c95a6c}</guid>
-      <description><![CDATA[Die Flucht klappte nicht, weil sie zusammenbleiben wollten: Das großartige Buch »Das Leben festhalten« zeigt deutsch-jüdische Fotografien der 1930er-Jahre.]]></description>
-      <pubDate>Wed, 08 Jul 2026 17:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Wohnungsbau: Wir müssen endlich wieder einfacher bauen!</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/wohnungsbau-baukosten-standard-preis-bundesregierung</link>
-      <guid isPermaLink="false">{urn:uuid:31ba7d68-49e0-4869-b088-a8bb0ed4132b}</guid>
-      <description><![CDATA[Barrierefreiheit, Energieeffizienz, Schallschutz: Deutschland setzt auf absurd hohe Standards und bremst so den Wohnungsbau. Es ginge deutlich einfacher und günstiger.]]></description>
-      <pubDate>Wed, 08 Jul 2026 17:09:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Tiefseebergbau: Was ließe sich da alles rausholen</title>
-      <link>https://www.zeit.de/2026/30/tiefseebergbau-deutschland-bgr-isa-foerderung/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:5b06b16c-2447-48bc-98a5-e40fcc403da3}</guid>
-      <description><![CDATA[Deutschland ist offiziell gegen die Ausbeutung der Tiefsee. Doch Greenpeace-Recherchen zeigen, wie Ministerien die Technik zur Erschließung Seltener Erden fördern.]]></description>
-      <pubDate>Wed, 08 Jul 2026 15:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] Schweine-Überproduktion in der Schweiz: Grunz!</title>
-      <link>https://www.zeit.de/2026/30/schweine-ueberproduktion-schweiz-preise-tierversand-export/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:01af4db9-1b7f-4477-86bb-adb2ac673749}</guid>
-      <description><![CDATA[In der Schweiz werden viel zu viele Schweine gemästet. Nun werden jede Woche 900 Ferkel nach Deutschland gekarrt und geschlachtet. Was läuft hier schief?]]></description>
-      <pubDate>Wed, 08 Jul 2026 14:46:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Entdecken] Schutz vor Hitze: Drinnen ist besser, selbst im Sommer. Kapiert ihr jetzt auch, oder?</title>
-      <link>https://www.zeit.de/2026/30/schutz-hitze-drinnen-sommer-hitzewelle-gesundheit/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:2eba2788-7a7c-4c00-82d8-9fabd974ed60}</guid>
-      <description><![CDATA[Vielen dämmert langsam, was unser Autor schon immer wusste: Die Deutschen haben die Sonne lang überschätzt. Hört ihn an, liebe Draußen-Junkies. Er weiß, wovon er spricht.]]></description>
-      <pubDate>Wed, 08 Jul 2026 14:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] Rechenzentren in der Schweiz: Die Maschinenstürmer von Beringen</title>
-      <link>https://www.zeit.de/2026/30/rechenzentren-schweiz-datenschutz-stromverbrauch-beringen-stack-infrastructure/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:b3a8ca6c-db5d-4188-945d-ffe380c73c54}</guid>
-      <description><![CDATA[Tech-Konzerne lieben die Schweiz als Land der Rechenzentren. Aber wenn der Strom knapp wird – wem schalten sie ihn ab: den Menschen oder den Servern?]]></description>
-      <pubDate>Wed, 08 Jul 2026 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Entdecken] Schöne Momente: »Und dann stimmt sie tatsächlich ein Lied für mich an!«</title>
-      <link>https://www.zeit.de/2026/30/schoene-momente-alltag-ostsee-kopenhagen</link>
-      <guid isPermaLink="false">{urn:uuid:f5966758-6f29-4ad1-b31d-d953255bf2b0}</guid>
-      <description><![CDATA[Dinge, die ein Leben lebenswert machen, sind mal klein, mal allumfassend. Jede Woche präsentieren wir eine Auswahl stimmungsaufhellender Einsendungen unserer Leserschaft.]]></description>
-      <pubDate>Wed, 08 Jul 2026 14:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Schweiz] Ausstellung »Heimatflimmern«: Ganz ohne Berge geht es nicht</title>
-      <link>https://www.zeit.de/2026/30/ausstellung-heimatflimmern-kunstmuseum-st-gallen-schweizerische-post</link>
-      <guid isPermaLink="false">{urn:uuid:7a1d9eac-e98b-49d4-90aa-da68aa6e4202}</guid>
-      <description><![CDATA[In St. Gallen fragen sich das Kunstmuseum und die Post, was Heimat bedeutet – es ist kompliziert.]]></description>
-      <pubDate>Wed, 08 Jul 2026 14:45:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Internationaler Währungsfonds: IWF senkt Wachstumsprognose für Deutschland</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/iwf-wachstumsprognose-deutschland-bip-energiepreise</link>
-      <guid isPermaLink="false">{urn:uuid:749cd112-3d12-4a62-913f-42fa3163bc78}</guid>
-      <description><![CDATA[Der Internationale Währungsfonds hat seine Prognose zum Wirtschaftswachstum in Deutschland auf 0,7 Prozent nach unten korrigiert. Grund dafür ist der Irankrieg.]]></description>
-      <pubDate>Wed, 08 Jul 2026 14:17:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Mobilität] Faltrad: Mein Brompton ist so wunderbar lächerlich</title>
-      <link>https://www.zeit.de/mobilitaet/2026-07/faltrad-brompton-p-line-neuauflage-klappbar/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:1517bb3a-d1fe-402e-b1d4-ed85fd78a714}</guid>
-      <description><![CDATA[Unser Autor liebt sein Brompton-Faltrad, obwohl es so ulkig ist. Oder gerade deswegen. Allerdings fährt es sich wackelig. Ändert das die neue Version P-Line?]]></description>
-      <pubDate>Wed, 08 Jul 2026 12:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Todesfälle von Migranten: Deutlich mehr Migranten verunglücken auf dem Weg nach Europa</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/migranten-todesfaelle-mittelmeer-migration-europa-iom</link>
-      <guid isPermaLink="false">{urn:uuid:1c15bb4e-2e6f-4c1c-8114-c58e507f477f}</guid>
-      <description><![CDATA[Laut UN-Zahlen sind 2026 bereits 2.676 Menschen auf Migrationsrouten gestorben oder werden vermisst. Auf allen Fluchtrouten im Mittelmeer wurden mehr Tote gezählt.]]></description>
-      <pubDate>Wed, 08 Jul 2026 12:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Schulen: Jede dritte Lehrkraft ist mindestens 50 Jahre alt</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/lehrkraefte-schulen-teilzeitquote-statistik-bundeslaender</link>
-      <guid isPermaLink="false">{urn:uuid:2a6c1b8f-5363-4849-9d69-78da48dbf342}</guid>
-      <description><![CDATA[Nur ein Fünftel der Lehrkräfte in Deutschland ist jünger als 35. Ein großer Teil der Beschäftigten arbeitet zudem in Teilzeit – vor allem Frauen.]]></description>
-      <pubDate>Wed, 08 Jul 2026 11:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Automobilindustrie: Mercedes-Benz verzeichnet starken Rückgang bei Verkauf in China</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/mercedes-benz-absatz-china-automarkt</link>
-      <guid isPermaLink="false">{urn:uuid:695e6b36-21cd-40ba-8ca6-149979e91227}</guid>
-      <description><![CDATA[Mercedes-Benz hat in der ersten Jahreshälfte weniger Autos verkauft als im Vorjahr. Grund ist das China-Geschäft: Dort sank der Absatz um fast 30 Prozent.]]></description>
-      <pubDate>Wed, 08 Jul 2026 10:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Übernahmeangebot: UniCredit nähert sich Mehrheit bei Commerzbank</title>
-      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/unicredit-commerzbank-uebernahme-bundesregierung</link>
-      <guid isPermaLink="false">{urn:uuid:8daa091d-eff3-438f-9dc8-bf4ba576ad10}</guid>
-      <description><![CDATA[Die italienische Großbank UniCredit hat sich 17,6 Prozent weitere Anteile an der Commerzbank gesichert. Die Bundesregierung lehnt eine Übernahme weiterhin vehement ab.]]></description>
-      <pubDate>Wed, 08 Jul 2026 10:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digital] Digital Markets Act: Apple scheitert vor EU-Gericht mit Klage gegen strengere Regeln</title>
-      <link>https://www.zeit.de/digital/2026-07/apple-eu-digital-markets-act-torwaechter-app-store-ios-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:4772c748-42f1-496f-a786-f81bbb1048ac}</guid>
-      <description><![CDATA[Das EU-Gericht hat die Einstufung Apples als digitaler Torwächter bestätigt und eine Klage des Konzerns zurückgewiesen. Apple muss sich somit an strengere Regeln halten.]]></description>
-      <pubDate>Wed, 08 Jul 2026 09:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digital] Deutsche Bahn: Bahn will Millionen in KI für Kundenkommunikation investieren</title>
-      <link>https://www.zeit.de/digital/2026-07/deutsche-bahn-kundenkommunikation-ki-app-evelyn-palla-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:06c5fd6e-b280-414e-90bf-2f5372ce9b0c}</guid>
-      <description><![CDATA[Die Deutsche Bahn plant ein millionenschweres Sofortprogramm zur Verbesserung der Kundenkommunikation. Dabei setzt das Unternehmen vor allem auf künstliche Intelligenz.]]></description>
-      <pubDate>Wed, 08 Jul 2026 09:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Institut für deutsche Wirtschaft Köln: Elterngeld hat fast ein Drittel an Kaufkraft eingebüßt</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/elterngeld-inflation-kaufkraft-verlust-familienministerium-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:66798ea3-3e4c-42cc-8042-cba035538743}</guid>
-      <description><![CDATA[Das IW Köln kritisiert die Anpassungen des Elterngeldes an die Inflation als unzureichend. Die Leistung habe seit ihrer Einführung fast ein Drittel an Kaufkraft verloren.]]></description>
-      <pubDate>Wed, 08 Jul 2026 08:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Erbschaft: Für das Finanzamt kann dieses Haus ein Palast sein</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/erbschaft-steuer-nachlassverwalterin-immobilien-probleme</link>
-      <guid isPermaLink="false">{urn:uuid:5e93c798-2226-4897-8f9a-52712348dac8}</guid>
-      <description><![CDATA[Sie sollen Steuern zahlen, weil Behörden den Wert Ihrer geerbten Immobilie viel zu hoch einschätzen? Eine Nachlassverwalterin erklärt, wie Sie sich wehren.]]></description>
-      <pubDate>Wed, 08 Jul 2026 07:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Auslandssemester in Ecuador: »Komm mich doch mal besuchen!«</title>
-      <link>https://www.zeit.de/zeit-magazin/2026/29/auslandssemester-ecuador-tochter-suedamerika-studium</link>
-      <guid isPermaLink="false">{urn:uuid:d8d33dd2-b300-4fc3-aaf2-71b8accc008a}</guid>
-      <description><![CDATA[Wenn man das Angebot erhält, mit seinen Kindern Zeit zu verbringen, sollte man es tun. Selbst wenn es dafür an Orte mit wilden Tieren geht.]]></description>
-      <pubDate>Wed, 08 Jul 2026 07:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digital] Informationsfreiheitsgesetz: Diese Skandale wären wohl nie ans Licht gekommen</title>
-      <link>https://www.zeit.de/digital/internet/2026-07/informationsfreiheitsgesetz-ifg-skandale-enthuellung-oeffentlichkeit</link>
-      <guid isPermaLink="false">{urn:uuid:064472a1-0415-41e4-988b-a93abc2063d9}</guid>
-      <description><![CDATA[Das Informationsfreiheitsgesetz hat geholfen, etliche Vorgänge öffentlich zu machen, die manche Politiker lieber unter Verschluss gehalten hätten. Zum Beispiel diese.]]></description>
-      <pubDate>Wed, 08 Jul 2026 06:10:19 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:38:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
