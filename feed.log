@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 9.7.2026, 12:58:39
-Letzter Lauf: 9.7.2026, 06:30:35
+Start: 10.7.2026, 06:30:36
+Letzter Lauf: 9.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,43 +17,58 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 14 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Thematisches Duplikat zum Nato-Gipfel; Artikel 23 wird aufgrund des höheren Informationsgehalts bevo): 'Bilanz Nato-Gipfel – Der «Geist von Ankara» ist noch nebulös'
-- Weiterhin entfernt (Cache, Grund: Thematisches Duplikat zur Freinacht für das Nati-Spiel; der SRF-Artikel 9 wird gemäß Priorisierungsr): 'Bars ouverts toute la nuit en attendant Argentine-Suisse'
-- Gelöscht (Grund: Unfallmeldung außerhalb der Waadt (Plainpalais gehört zum Kanton Genf).): 'Ouvrier blessé sur un chantier après avoir traversé le plancher'
-- Gelöscht (Grund: Reine Brandmeldung ohne spezifischen Ortsbezug zur Waadt.): 'Une voiture en réparation prend feu dans une carrosserie'
-- Gelöscht (Grund: Kriminalitätsmeldung/Gerichtsbericht ohne spezifischen Ortsbezug zur Waadt.): 'Vingt ans requis pour l'homme qui a poignardé sa compagne'
+KI-Filter (Gemini) - 41 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb der Waadt (Plainpalais gehört zum Kanton Genf).): 'Ouvrier blessé sur un chantier après avoir traversé le plancher'
+- Weiterhin entfernt (Cache, Grund: Reine Brandmeldung ohne spezifischen Ortsbezug zur Waadt.): 'Une voiture en réparation prend feu dans une carrosserie'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung/Gerichtsbericht ohne spezifischen Ortsbezug zur Waadt.): 'Vingt ans requis pour l'homme qui a poignardé sa compagne'
+- Gelöscht (Grund: Blaulicht-Meldung/Vorfall außerhalb der Waadt (Bern).): 'Femme trans exclue à Berne: ce qu'on en pense en Romandie'
+- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Saint-Imier, BE).): 'Une dispute dégénère à Saint-Imier: un homme de 34 ans blessé'
+- Gelöscht (Grund: Duplikat zu Artikel 3 (SRF bevorzugt).): 'Treibstoffkrise – In Russland wird das Benzin knapp'
+- Gelöscht (Grund: Brand außerhalb der Waadt (Bellevue, GE).): 'La toiture d'un hôtel-restaurant flambant neuf prend feu'
+- Gelöscht (Grund: Duplikat zu Artikel 21.): 'Un incendie dans un bâtiment industriel visible loin à la ronde'
+- Gelöscht (Grund: Vorfall außerhalb der Waadt (Val de Bagnes, VS).): '«Ce n'est pas mon comportement habituel, ni celui des vététistes»'
+- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Bulle, FR).): 'Une élève giflée par une accompagnante lors d’une course d’école'
+- Gelöscht (Grund: Blaulicht-Meldung außerhalb der Waadt (Gotthard, UR).): '21 Überholmanöver – Mann rast in sechs Minuten durch den Gotthard'
+- Gelöscht (Grund: Kriminalität außerhalb der Waadt (Uitikon, ZH).): 'Massnahmenzentrum Uitikon – Attacke hinter Gittern: Sicherheitschef invalid'
+- Gelöscht (Grund: Duplikat zu Artikel 29 (SRF bevorzugt).): 'Oui à la diffusion du match à 3h, mas pas toujours en terrasse'
 
 Finale Liste (live im XML-Feed):
-- [Journal de Morges] Der König der Holstein (wieder) in seinem Reich gekrönt!
-- [SRF Schweiz] Solothurner Spitäler AG – Abgesägt: Solothurner Polit-Urgestein Kurt Fluri muss gehen
+- [SRF Ausland] «Beispiellose Tragödie» – Zwölf Tote bei Waldbrand in Andalusien
+- [SRF Schweiz] Nach dem G7-Gipfel in Évian – Streit um G7-Sicherheitskosten: Frankreich will nicht zahlen
+- [SRF Ausland] Benzin-Knappheit in Russland – Der Ukraine-Krieg ist bei der russischen Bevölkerung angekommen
+- [SRF Schweiz] Grossbaustelle in Basel – Basel operiert am Herzen der Stadt: Innenstadt ohne Trams
+- [SRF Schweiz] Lärmmessungen im Aargau – Lärm von E-Autos wird wissenschaftlich untersucht
+- [SRF Wirtschaft] Nach Börsengang von SpaceX – Investieren in ETFs – das müssen Sie wissen
+- [Journal de Morges] Die Brotherstellung von morgen
+- [SRF Ausland] US-Migrationsbehörde ICE – Nach Tod von Migranten in den USA: Mexiko kündigt Klagen an
+- [SRF Schweiz] Neue Umfrage – Sparen statt Steuern erhöhen für die Armee
+- [SRF Schweiz] Drohnensichtungen – Drohnenexpertin: «Mich beunruhigen die zunehmenden Sichtungen»
+- [SRF Schweiz] Wichtige Informatikprojekte – Schlüsselprojekte im Fokus: EFK rüffelt Bundesverwaltung
+- [20 Min Romandie] Verurteilter Polizist findet neue Stelle bei der Polizei von Morges
+- [Journal de Morges] Urlaubsstimmung im Parc de Vertou
+- [Journal de Morges] Die Rugby-Spieler aus Morges hatten viel Spass in Österreich
+- [SRF Ausland] Nato-Gipfel in Ankara – Erdogan verschenkt Revolver an Merz, Starmer und Co.
+- [SRF Wirtschaft] Vor grosser Umstrukturierung – VW und der schwere Gang der Veränderung
+- [RTS Vaud] Industriegebiet in West-Lausanne wegen Grossbrand abgeriegelt
+- [20 Min Romandie] «Neonazi»-Angriff: Die Polizei hat schliesslich doch eine Untersuchung eingeleitet
+- [SRF Schweiz] Ewigkeitschemikalien – Umweltpanel: Allgemeinheit weiss kaum etwas über PFAS
+- [SRF Schweiz] Bundesverwaltungsgericht – Uber Eats hat neu Pöstlerinnen und Pöstler
+- [SRF Ausland] Nachwahl in Grossbritannien – Diese Mülltonne vermiest Nigel Farages Plan
 - [SRF Schweiz] Schweiz im Viertelfinal – Diese Städte erlauben am Samstag die WM-Freinacht
+- [RTS Vaud] Verurteilung eines Waadtländer Turnlehrers bestätigt, der seine 14-jährige Schülerin sexuell missbrauchte
+- [SRF Ausland] Patriot-Abwehrsystem – Hält Trump sein Versprechen gegenüber der Ukraine?
+- [SRF Ausland] Deutsche Bahn – Zehn Jahre Haft nach tödlichem Angriff auf Zugbegleiter
+- [SRF Schweiz] «Schönster Coach ever» – Muri national: So feiert das Internet unseren Nati-Trainer
+- [20 Min Romandie] Ein ehemaliger EMS-Direktor soll eine halbe Million zu viel erhalten haben
+- [SRF Schweiz] Nach Boom – Verkauf von Solaranlagen erstmals rückläufig
+- [SRF Wirtschaft] Game Over für die Disc – Warum Sonys radikaler Kurswechsel alle Gamer trifft
+- [SRF Schweiz] Wirtschaftliche Unsicherheiten – Schweizer KMU bleiben trotz Unsicherheiten zuversichtlich
+- [20 Min Romandie] Vorsicht vor Geldbussen für zu laute Fans
+- [SRF Schweiz] Solothurner Spitäler AG – Abgesägt: Solothurner Polit-Urgestein Kurt Fluri muss gehen
 - [SRF Ausland] Gastgeber USA – Krieg führen und die WM austragen: Wie geht das zusammen?
 - [20 Min Romandie] „Neonazi“-Angriff: Ein „antifaschistisches“ Picknick wird organisiert
-- [SRF Schweiz] Wichtige Informatikprojekte – Schlüsselprojekte im Fokus: EFK rüffelt Bundesverwaltung
 - [SRF Wissen] Überleben nach Krebs – Leben nach dem Krebs: Das unsichtbare Leiden der Cancer Survivors
 - [RTS Vaud] Yverdon überwacht seine Temperaturen, um Hitzeinseln besser zu bekämpfen
 - [20 Min Romandie] Das umstrittene Plakat wurde offiziell als sexistisch deklariert
 - [RTS Vaud] Mangel an ausserschulischen Betreuungsplätzen: Waadtländer Eltern in der Sackgasse
-- [SRF Wirtschaft] Jede 6. Person trainiert – Hohe Motivation, hohe Preise: 5 Fakten zu Fitness in der Schweiz
-- [20 Min Romandie] Wie bezahlen «ruinierte» Beschuldigte die Elite der Anwälte?
-- [SRF Wissen] Landwirtschaft und Klimawandel – Bauern leiden unter der Trockenheit
-- [SRF Schweiz] Arbeitslosigkeit – Wer sich freiwillig engagiert, kann Arbeitslosengeld verlieren
-- [SRF Schweiz] Karriere im Eiltempo – Kaum eingebürgert, schon Lokalpolitiker
-- [SRF Schweiz] Aufruhr bei Ärzteschaft – «Effizienz wird bestraft»: Ärzte kritisieren neue Obergrenze
-- [SRF Schweiz] Historischer Nati-Erfolg – Als die Schweiz letztmals im WM-Viertelfinal stand
-- [SRF Ausland] Dunkle Zeiten für Kuba – Wie ist die Lage in Kuba nach dem letzten Stromausfall?
-- [SRF Wissen] Davos Tech Summit – Warum Roboter auch in 20 Jahren nicht für uns einkaufen gehen
-- [SRF Schweiz] Neue Mittel gegen Infektionen – Wie die Schweiz aus der Antibiotika-Krise kommen will
-- [20 Min Romandie] Mountainbiker terrorisieren Kühe und lösen Empörung aus
-- [SRF Schweiz] Neue Tarifstruktur für Physio – Zwei konkurrierende Physiotherapie-Berufsverbände – warum?
-- [20 Min Romandie] Missbräuchliche Untervermietung: Ehepaar muss ins Gefängnis
-- [SRF Ausland] Prozess in Berlin – Deutscher Arzt wegen 15-fachen Mordes verurteilt
-- [SRF Schweiz] Psychospiel Penalty – Sportpsychologe: «Der Kopf entscheidet, ob der Fuss funktioniert»
-- [SRF Ausland] Deutschland – Vorfall an Bayern-Schule: Verletzte Mädchen ausser Lebensgefahr
-- [20 Min Romandie] Sie krempeln die Ärmel hoch, um ihr Viertel abzukühlen
-- [SRF Schweiz] Toooor für das Internet – So feiern Community und das Netz die Nati im Viertelfinal
-- [20 Min Romandie] Wahlergebnisse von Vernier definitiv bestätigt
-- [SRF Wissen] Archäologie trifft KI – Verkohlte Schriftrolle erstmals entziffert – ohne sie zu öffnen
-- [SRF Wissen] Weit entfernte Galaxienkerne – Blick ins frühe All: Euclid findet 31 Quasare
-- [SRF Ausland] Nato-Gipfel in Ankara – Trump teilt gegen die Nato und den Iran aus
+- [SRF Wirtschaft] Jede 6. Person trainiert – Schweizer Bevölkerung trainiert überdurchschnittlich viel
