@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 10.7.2026, 20:55:16
-Letzter Lauf: 10.7.2026, 20:46:05
+Start: 11.7.2026, 06:59:30
+Letzter Lauf: 10.7.2026, 20:55:16
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,15 +20,20 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 1 neue Artikel geprueft:
+KI-Filter (Gemini) - 6 neue Artikel geprueft:
 - Weiterhin entfernt (Cache, Grund: Behandelt allgemeine deutsche Parteipolitik und Reformkritik.): [Wirtschaft] 'Reformpolitik: Wer bezahlt die Reformen – und wer profitiert von ihnen?'
 - Weiterhin entfernt (Cache, Grund: Fällt unter lokale Berichterstattung über ein städtisches Ereignis (Schongau).): [Gesellschaft] 'Welfen-Gymnasium: Ermittler prüfen mögliches Schreiben des Verdächtigen von Schongau'
 - Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 11 (beide behandeln Absatzrückgänge deutscher Autobauer in China).): [Wirtschaft] 'BMW: BMW-Absatz sinkt um fast fünf Prozent'
 - Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 14 (beide behandeln die ökonomischen Folgen des Tankrabatts).): [Wirtschaft] 'Statistisches Bundesamt: Tankrabatt ließ Inflationsrate im Juni sinken'
 - Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 7 (beide behandeln die GKV-Reform der Bundesregierung).): [Wirtschaft] 'GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform'
-- Weiterhin entfernt (Cache, Grund: Duplikat des Themas VW-Sparplan; Artikel 15 ist aktueller und informativer.): [Wirtschaft] 'VW-Konzern: Sitzung des VW-Aufsichtsrats endet ohne Klarheit zu Sparplänen'
+- Geloescht (Grund: Regionale deutsche Kommunalpolitik/lokaler Vorfall ohne überregionale Relevanz.): [Gesellschaft] 'Bayern: Waldbrand in Nürnberg ausgebrochen'
 
 Finale Liste (live im XML-Feed):
+[_] Polizeieinsatz in Berlin: Mann nimmt Geisel in Berliner Supermarkt
+[_] Hitzerechte von Mietern: Kann ich wegen Hitze meine Miete mindern?
+[_] Erdbeben in Venezuela: Zahl der Erdbebentoten in Venezuela steigt auf über 4.000
+[_] Klimaziel für Deutschland: Industrie und Gewerkschaft dringen auf neues Klimaziel
+[_] Techkonzerne: Apple verklagt OpenAI wegen Diebstahls von Firmengeheimnissen
 [_] Reflecting Pool am Lincoln Memorial: Wasserbecken am Lincoln Memorial wird ausgepumpt
 [_] Altbauten in New York: Und im 21. Stock bröselt der Beton
 [_] Gefälschte Fußballtrikots: 100 Euro für ein Trikot? Dann doch lieber den Superfake aus China
@@ -46,5 +51,3 @@ Finale Liste (live im XML-Feed):
 [_] »Trump Accounts«: Würdet ihr diesem Mann euer Taschengeld anvertrauen?
 [_] Baupreise in Deutschland: Preise im Wohnungsbau steigen weiter stark
 [_] Cihan Çakmak: »Ich komme und trete die Tür ein«
-[_] Kündigung für Mitarbeiter: »Am Ende spuckt die Excel-Liste aus, wer gehen muss«
-[_] Industrieemissionen: Bundestag beschließt strengere Schadstoffregeln für Industrie
