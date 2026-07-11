@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 11.7.2026, 06:10:26
-Letzter Lauf: 10.7.2026, 12:28:17
+Start: 11.7.2026, 12:28:18
+Letzter Lauf: 11.7.2026, 06:10:26
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,12 +10,13 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Microsoft 365 Copilot für IT-Administratoren'
+- Gelöscht wegen Keyword 'c’t uplink': 'Mit verrückten Gadgets und Klimaanlagen-Tuning gegen die Hitzewelle | c’t uplink'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Bild-KI in WhatsApp und Instagram ausprobiert: Das kann Muse Image'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: PowerShell für effiziente Systemadministration'
 - Gelöscht wegen Keyword 'tgiqf': '#TGIQF: Das Quiz rund um Router'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c’t-Workshop: Microsoft 365 im Team produktiv nutzen'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Active Directory Hardening – Vom Audit zur sicheren Umgebung'
-- Gelöscht wegen Keyword 'podcast': 'Freitag: Urheberschutz auch bei VPN-Einsatz, Recht auf Reparatur für Traktoren'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ryzen-5-Mini-PC mit Windows 11 Pro günstig wie nie für unter 380 Euro'
+- Gelöscht wegen Keyword '(g+)': '(g+) Prozessor-Geschwindigkeit: Warum Zahlen in Textform CPUs ausbremsen können'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 11-in-1-USB-Hub von Anker zum Tiefstpreis bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Beliebtes Anker Nano 45-W-Ladegerät kurzzeitig zum neuen Amazon-Bestpreis für nur rund 28 Euro'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Linux: aus der Nische in den Mainstream?'
@@ -24,31 +25,31 @@ Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword '(g+)': '(g+) Digitale Souveränität: Lokale KI für das GPU-Proletariat'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Xiaomi-Smartphone mit Smartwatch und 40 GB bei Blau für nur 9,99 Euro/Monat'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Sabrent-Festplatten-Dockingstation für 2,5 und 3,5 Zoll Sata jetzt wieder rund 25 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Heißluftfritteuse aus Glas jetzt für keine 100 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Echo Dot (5. Gen.) mit Alexa+ jetzt kurz nur rund 45 Euro bei Amazon'
 
-KI-Filter (Gemini) - 46 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Inhaltliche Zuordnung zu Enterprise-IT & Netzwerk-Infrastruktur (Rechenzentrum/Server-Infrastruktur)): 'Tipps für die nächste Hitzewelle: "Linux läuft meist cooler - ähm kühler"'
-- Weiterhin entfernt (Cache, Grund: Inhaltliche Zuordnung zum explizit ausgeschlossenen Thema iPhone.): 'Erstes iPhone-Foldable: Produktion läuft – Spekulationen um Verfügbarkeit'
-- Weiterhin entfernt (Cache, Grund: Inhaltliche Zuordnung zu Deep OS-Internals.): 'Setup.exe: Wie Windows 95 Installationsdateien erkannte'
-- Weiterhin entfernt (Cache, Grund: Inhaltliche Zuordnung zu Deep OS-Internals und Linux-Themen.): 'Sabotage bei OpenMandriva: Streit unter Linux-Entwicklern eskaliert'
-- Weiterhin entfernt (Cache, Grund: Inhaltliche Zuordnung zum explizit ausgeschlossenen Thema iPhone.): 'Ältere iPhones und iPads: Apple streicht heimlich Restore-Möglichkeit'
-- Weiterhin entfernt (Cache, Grund: Inhaltliche Zuordnung zu den explizit ausgeschlossenen Themen iPhone und Siri.): 'Größtes lokales KI-Modell: PrismML schafft 27 Milliarden Parameter auf iPhones'
-- Weiterhin entfernt (Cache, Grund: Inhaltliche Zuordnung zu Code-Theorie.): 'Won’t fix! – Teil 4: Warum sich Codequalität nicht in eine Zahl pressen lässt'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 35 (gleiches aktuelles Ereignis: Veröffentlichung von GPT-5.6).): 'GPT-5.6 jetzt allgemein verfügbar – samt App-Umbau und Namensverwirrung'
-- Gelöscht (Grund: Thema Rasenmäher (Harte Ausschlusskriterie).): 'Top 10: Mähroboter ohne Begrenzungskabel im Test – der beste navigiert mit LiDAR'
-- Gelöscht (Grund: Duplikat zu Artikel 12 (OpenAI GPT-5.6).): '(Co)work in Progress'
-- Gelöscht (Grund: Thema iPhone (Harte Ausschlusskriterie).): 'iPhone Fold: Erste Details zur angeblichen Akkukapazität des Falt-iPhones'
-- Gelöscht (Grund: Fällt unter Enterprise-IT & Infrastruktur (Patch-Management für IT-Verantwortliche).): 'Lückenflut durch KI-Funde – Software-Hersteller schrauben an Patch-Strategien'
-- Gelöscht (Grund: Fällt unter Code-Theorie & Web-Infrastruktur (Programmiersprachen-Update).): 'TypeScript 7.0: Performance-Sprung durch Go-Unterbau'
-- Gelöscht (Grund: Duplikat zu Artikel 9 (KI-Slop auf LinkedIn).): 'LinkedIn und X sind voller KI-Spam'
-- Gelöscht (Grund: Duplikat zu Artikel 16 (Chinesische Raketenlandung).): 'Wiederverwendbare Rakete: China fängt erstmals Stufe auf'
-- Gelöscht (Grund: Duplikat zu Artikel 27 (Analyse Chatkontrolle).): 'Kommentar: Chatkontrolle – Abstimmen, bis das Ergebnis stimmt'
-- Gelöscht (Grund: Fällt unter Deep OS-Internals (Lücke im Linux-Kernel).): 'Ghostlock: 15 Jahre alte Root-Lücke im Linux-Kernel aufgedeckt'
-- Gelöscht (Grund: Duplikat zu Artikel 10 (Suchtgefahr Meta).): 'EU: Instagram und Facebook bergen zu große Suchtrisiken'
-- Gelöscht (Grund: Thema iPhone (Harte Ausschlusskriterie).): 'Indische Apple-Produktion: Günstiger dank Importerleichterungen'
+KI-Filter (Gemini) - 10 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Thema Rasenmäher (Harte Ausschlusskriterie).): 'Top 10: Mähroboter ohne Begrenzungskabel im Test – der beste navigiert mit LiDAR'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 12 (OpenAI GPT-5.6).): '(Co)work in Progress'
+- Weiterhin entfernt (Cache, Grund: Thema iPhone (Harte Ausschlusskriterie).): 'iPhone Fold: Erste Details zur angeblichen Akkukapazität des Falt-iPhones'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Enterprise-IT & Infrastruktur (Patch-Management für IT-Verantwortliche).): 'Lückenflut durch KI-Funde – Software-Hersteller schrauben an Patch-Strategien'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie & Web-Infrastruktur (Programmiersprachen-Update).): 'TypeScript 7.0: Performance-Sprung durch Go-Unterbau'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 9 (KI-Slop auf LinkedIn).): 'LinkedIn und X sind voller KI-Spam'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 16 (Chinesische Raketenlandung).): 'Wiederverwendbare Rakete: China fängt erstmals Stufe auf'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 27 (Analyse Chatkontrolle).): 'Kommentar: Chatkontrolle – Abstimmen, bis das Ergebnis stimmt'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Deep OS-Internals (Lücke im Linux-Kernel).): 'Ghostlock: 15 Jahre alte Root-Lücke im Linux-Kernel aufgedeckt'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 10 (Suchtgefahr Meta).): 'EU: Instagram und Facebook bergen zu große Suchtrisiken'
+- Weiterhin entfernt (Cache, Grund: Thema iPhone (Harte Ausschlusskriterie).): 'Indische Apple-Produktion: Günstiger dank Importerleichterungen'
+- Gelöscht (Grund: Duplikat: Behandelt dasselbe Ereignis wie Artikel ID 1 (Rechtsstreit Apple gegen OpenAI).): 'Apple klagt gegen OpenAI wegen Abwerbung'
+- Gelöscht (Grund: Inhaltlich der Kategorie Code-Theorie und Web-Infrastruktur zuzuordnen (behandelt u. a. Vite, Frameworks und Entwickler-Tools).): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
 
 Finale Liste (live im XML-Feed):
+- [Golem] Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro
+- [Golem] Apple verklagt OpenAI: Diebstahl von geistigem Eigentum und Geschäftsgeheimnissen
+- [Golem] Spionageaktion: Nato-Transportwege mit gehackten Kameras ausgespäht
+- [Heise] Meta kopiert Instagram-Stile, Sony belebt die Bridgekamera – Fotonews 28/2026
+- [Heise] Kommentar: Das BSI darf nicht zum Zero-Day-Hoflieferanten des BND werden
+- [Heise] Warm versus monochrom: Die Bilder der Woche 28
+- [Golem] Biozelle: Algen können Batterien ersetzen
+- [Golem] Gaming: Retro Achievements bringt Trophäen in alte Spiele
 - [Digitec] Ist TOI-2155 b ein Zwergstern oder ein Brauner Zwerg?
 - [Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche
 - [Heise] Mit Zero-Days: BND und Verfassungsschutz sollen „Super-Geheimdienste“ werden
@@ -84,32 +85,3 @@ Finale Liste (live im XML-Feed):
 - [Digitec] The Other Half: Das Jolla Phone passt sich seiner Rückseite an
 - [Heise] Ausprobiert: Scapade-Zubehör mit „Wo ist?"
 - [Golem] GT-Version: Kia EV4 kommt mit 292 PS und Schaltsimulation
-- [Golem] Sport: Strava zeigt passende Rennen in der App
-- [Heise] Wenn 14 Jahre Support nicht reichen: RHEL bis in alle Ewigkeit
-- [Golem] Kernfusion: Proxima Fusion sammelt 400 Millionen ein
-- [Heise] Google verteilt Play-System-Updates für Android-Geräte
-- [Golem] Netflix, Wow und Co.: Alle Streamingabos müssen Widerrufsrecht zulassen
-- [Golem] id Software: John Carmack trauert um id Software
-- [Heise] Sonnenlicht auf Bestellung: Weltraumspiegel vor erstem Test
-- [Golem] Weltraum: China plant Frühwarnsystem für erdnahe Asteroiden
-- [Heise] Kaum bekannt: Apple Watch trackt Stunden, die man in der Sonne verbringt
-- [Heise] Mercedes-AMG CLA 45 4MATIC+ vorgestellt: Der lässt es brummen
-- [Heise] Humanoide Roboter führen chirurgische OPs an Säugetieren durch
-- [Golem] Grünes Kerosin: 350 Millionen Euro für ein E-Fuels-Projekt mit vielen Fragezeichen
-- [Golem] Icons 11382: Lego bringt großes Hubble-Weltraumteleskop aus 1.252 Steinen
-- [Golem] Schummeln mit ChatGPT: Präsenzprüfung offenbart KI-Betrug an Eliteuniversität
-- [Golem] Heizungsgesetz: Gas- und Ölheizungen werden hinter Bürokratie versteckt
-- [Heise] Google kennzeichnet KI-generierte Werbung
-- [Golem] Autonomes Fahren: Gesetzentwurf untersagt Teslas Robotaxis den Betrieb
-- [Heise] Sparpläne bei Volkswagen: Zunächst wird die Modellpalette halbiert
-- [Heise] OpenAI beendet Entwicklung des KI-Browsers Atlas
-- [Golem] Nachhaltigkeitsbericht: Microsofts Emissionen steigen wegen KI-Boom um 25 Prozent
-- [Heise] Netflix: Lineare Kanäle gegen die Streaming-Müdigkeit
-- [Golem] US-Militär: 227-Kilo-Roboter von Azak bewegt 24,5-Tonnen-Laster
-- [Heise] Forscher entdecken geheime Gedanken von Claude – und wie es lügt und betrügt
-- [Golem] Nutzerbeschwerden: Outlook-Bug macht Schriftarten kaputt
-- [Heise] Muse Spark 1.1: Meta will mit Kampfpreisen OpenAI und Anthropic unterbieten
-- [Golem] Gericht zu Netflix vs. Synchronsprecher: Synchronsprecher-Verband trägt Mitverantwortung für KI-Klausel
-- [Heise] Netzbetreiber O2 Telefónica vor umfassendem Stellenabbau
-- [Heise] „Ist das Projekt noch zu retten?“ Experten zweifeln an Umsetzung der EUDI-Wallet
-- [Heise] Kuka: Wie sich der Roboterhersteller nach chinesischer Übernahme verändert hat
