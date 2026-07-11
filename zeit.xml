@@ -5,13 +5,48 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Jul 2026 18:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 04:59:30 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Gesellschaft] Polizeieinsatz in Berlin: Mann nimmt Geisel in Berliner Supermarkt</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/geiselnahme-supermarkt-berlin-polizei-marienfelde</link>
+      <guid isPermaLink="false">{urn:uuid:d8108965-d397-434b-9949-7963e9344d7d}</guid>
+      <description><![CDATA[Ein Mann hat eine Frau in einem Supermarkt im Berliner Stadtteil Marienfelde in seine Gewalt gebracht. Die Polizei ist mit einem Großaufgebot im Einsatz.]]></description>
+      <pubDate>Sat, 11 Jul 2026 04:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Hitzerechte von Mietern: Kann ich wegen Hitze meine Miete mindern?</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/hitze-rechte-mieter-temperatur-entschaedigung-vermieter/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:664f84c7-0d04-44ad-94eb-b9b41a106f2d}</guid>
+      <description><![CDATA[Bei hohen Temperaturen verwandeln sich Wohnungen schnell in eine Sauna. Manche Mieter können auf Entschädigung hoffen. Welche juristischen Hürden es gibt.]]></description>
+      <pubDate>Sat, 11 Jul 2026 03:10:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Erdbeben in Venezuela: Zahl der Erdbebentoten in Venezuela steigt auf über 4.000</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/venezuela-erdbeben-tote-zahl-anstieg-vermisste-verletzte</link>
+      <guid isPermaLink="false">{urn:uuid:334948cd-3513-4453-b033-d457df5c7757}</guid>
+      <description><![CDATA[Zwei Wochen nach den schweren Erdbeben in Venezuela ist die Zahl der Toten auf 4.118 gestiegen. Fast 17.000 Menschen wurden verletzt. Tausende werden weiter vermisst.]]></description>
+      <pubDate>Sat, 11 Jul 2026 00:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Klimaziel für Deutschland: Industrie und Gewerkschaft dringen auf neues Klimaziel</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/klimaneutralitaet-deutschland-2045-2050-industrie-eu-emissionshandel</link>
+      <guid isPermaLink="false">{urn:uuid:8e28764f-3071-40ad-8e47-ca386733047d}</guid>
+      <description><![CDATA[Vertreter aus Wirtschaft und Gewerkschaften fordern, Deutschlands Ziel für Klimaneutralität um fünf Jahre zu verschieben. Statt 2045 solle 2050 gelten.]]></description>
+      <pubDate>Fri, 10 Jul 2026 23:53:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digital] Techkonzerne: Apple verklagt OpenAI wegen Diebstahls von Firmengeheimnissen</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/apple-openai-klage-geschaeftsgeheimnisse-tang-tan-chang-liu</link>
+      <guid isPermaLink="false">{urn:uuid:2fc9899e-3a3d-43f7-b7a6-263d588ddd68}</guid>
+      <description><![CDATA[Apple wirft ehemaligen Mitarbeitern vor, Geschäftsgeheimnisse an OpenAI weitergegeben zu haben. Der Konzern sieht dahinter eine Strategie des ChatGPT-Entwicklers.]]></description>
+      <pubDate>Fri, 10 Jul 2026 22:43:48 GMT</pubDate>
+    </item>
     <item>
       <title>[Gesellschaft] Reflecting Pool am Lincoln Memorial: Wasserbecken am Lincoln Memorial wird ausgepumpt</title>
       <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/reflecting-pool-lincoln-memorial-renovierung-donald-trump</link>
       <guid isPermaLink="false">{urn:uuid:5da93ece-f26f-4ed3-b093-913c0bfd1fec}</guid>
-      <description><![CDATA[Donald Trump hatte den »Reflecting Pool« für die Unabhängigkeitsfeier renovieren lassen wollen. Seitdem gibt es Probleme. Nach der Feier wagt er einen neuen Versuch.]]></description>
+      <description><![CDATA[Donald Trump hatte den Reflecting Pool für die Unabhängigkeitsfeier renovieren lassen wollen. Seitdem gibt es Probleme. Nach der Feier wagt er einen neuen Versuch.]]></description>
       <pubDate>Fri, 10 Jul 2026 18:42:52 GMT</pubDate>
     </item>
     <item>
@@ -125,20 +160,6 @@
       <guid isPermaLink="false">{urn:uuid:9e51ccef-46d1-4935-94f0-67511a9d95d6}</guid>
       <description><![CDATA[Im Wochenendpodcast erzählt die Künstlerin Cihan Çakmak, wie sie ihre Bergamottenbäume pflegt. Und schwärmt von ihren Lieblingsorten in Lissabon.]]></description>
       <pubDate>Fri, 10 Jul 2026 05:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Arbeit] Kündigung für Mitarbeiter: »Am Ende spuckt die Excel-Liste aus, wer gehen muss«</title>
-      <link>https://www.zeit.de/arbeit/2026-07/kuendigung-mitarbeiter-anwaeltin-arbeitgeber-unternehmen/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:2dc3b60c-e790-45e3-be7b-4af672d1efff}</guid>
-      <description><![CDATA[Wenn Firmen Mitarbeiter loswerden wollen, rufen sie Astrid Krüger an. Die Anwältin erklärt die Tricks der Arbeitgeberseite und wie Abfindungen verhandelt werden.]]></description>
-      <pubDate>Fri, 10 Jul 2026 03:16:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Industrieemissionen: Bundestag beschließt strengere Schadstoffregeln für Industrie</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/industrieemissionen-gesetz-eu-richtlinie-emissionsgrenzwerte</link>
-      <guid isPermaLink="false">{urn:uuid:3510ce7b-9663-44c4-aede-3b589d72755d}</guid>
-      <description><![CDATA[Für rund 10.000 Industrieanlagen in Deutschland sollen verschärfte Regeln für Emissionen gelten. Die Bundesregierung will damit eine EU-Richtlinie erfüllen.]]></description>
-      <pubDate>Thu, 09 Jul 2026 19:24:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
