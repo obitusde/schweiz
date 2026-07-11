@@ -5,17 +5,294 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Jul 2026 10:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 04:10:26 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Digitec] Ist TOI-2155 b ein Zwergstern oder ein Brauner Zwerg?</title>
+      <link>https://www.digitec.ch/de/page/ist-toi-2155-b-ein-zwergstern-oder-ein-brauner-zwerg-43184?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/ist-toi-2155-b-ein-zwergstern-oder-ein-brauner-zwerg-43184</guid>
+      <description><![CDATA[Das Objekt TOI-2155 b stellt die Astronomen vor ein Rätsel: Ist es ein roter Zwergstern oder ein Brauner Zwerg? Die Unterscheidung ist nicht so einfach: Das Objekt liegt genau auf der Massengrenze zwischen einem echten Stern und einem Himmelskörper ohne Fusion.]]></description>
+      <pubDate>Fri, 10 Jul 2026 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche</title>
+      <link>https://www.digitec.ch/de/page/die-wichtigsten-game-trailer-und-ankuendigungen-der-woche-43225?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/die-wichtigsten-game-trailer-und-ankuendigungen-der-woche-43225</guid>
+      <description><![CDATA[Die Redaktion hat für dich die spannendsten Trailer und Neuankündigungen der vergangenen Woche (4. Juli bis 11. Juli) gesammelt.]]></description>
+      <pubDate>Fri, 10 Jul 2026 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Mit Zero-Days: BND und Verfassungsschutz sollen „Super-Geheimdienste“ werden</title>
+      <link>https://www.heise.de/news/Mit-Zero-Days-BND-und-Verfassungsschutz-sollen-Super-Geheimdienste-werden-11361493.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361493</guid>
+      <description><![CDATA[Mit einem radikalen Systemwechsel im Nachrichtendienstrecht betreibt das Innenministerium die Degradierung des BSI zum Zulieferer für staatliche Cyberangriffe.]]></description>
+      <pubDate>Fri, 10 Jul 2026 17:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Wirklich alles lokal: Hermes-Agent und Qwen 3.6</title>
+      <link>https://www.heise.de/news/Wirklich-alles-lokal-Hermes-Agent-und-Qwen-3-6-11361489.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361489</guid>
+      <description><![CDATA[KI-Agenten sind praktisch, aber dafür intime Daten in die Cloud schicken? Mit Hermes-Agent und lokalen Modellen wie Qwen 3.6 klappts auf dem eigenen Rechner.]]></description>
+      <pubDate>Fri, 10 Jul 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Nordischnet und Teranet: GVG Glasfaser geht in neue Gebiete</title>
+      <link>https://www.golem.de/news/nordischnet-und-teranet-gvg-glasfaser-geht-in-neue-gebiete-2607-210768.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/nordischnet-und-teranet-gvg-glasfaser-geht-in-neue-gebiete-2607-210768.html</guid>
+      <description><![CDATA[GVG Glasfaser macht sein Versprechen wahr und baut nach langer Pause wieder in neuen Gebieten Glasfaser aus. UGG und Deutsche Glasfaser schaffen das nicht mehr. (<a href="https://www.golem.de/specials/glasfaser/">Glasfaser</a>, <a href="https://www.golem.de/specials/mobilfunk/">Mobilfunk</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 17:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Elektronikhändler: Verbleibende Saturn-Märkte werden Showrooms</title>
+      <link>https://www.golem.de/news/elektronikhaendler-verbleibende-saturn-maerkte-werden-showrooms-2607-210766.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/elektronikhaendler-verbleibende-saturn-maerkte-werden-showrooms-2607-210766.html</guid>
+      <description><![CDATA[Gaming und neue Elektronik vor Markterscheinen sollen künftig bei Saturn zu sehen sein. Doch es sind nur wenige Saturn-Märkte übrig. (<a href="https://www.golem.de/specials/saturn/">Saturn</a>, <a href="https://www.golem.de/specials/media-markt/">Media Markt</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 16:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Cyber-Spezialisten des Schweizer Militärs verlassen Microsoft-Cloud</title>
+      <link>https://www.heise.de/news/Schweizer-Armee-bricht-mit-Microsoft-Kommando-Cyber-setzt-auf-Open-Source-11361475.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361475</guid>
+      <description><![CDATA[Wegen Cloud-Zwang und geopolitischer Abhängigkeit von den USA migrieren die Cyber-Spezialisten der Schweizer Armee in Rekordzeit zur deutschen Lösung OpenDesk.]]></description>
+      <pubDate>Fri, 10 Jul 2026 16:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Militärische Kooperation: Starlink im Fadenkreuz von Russland und China</title>
+      <link>https://www.golem.de/news/militaerische-kooperation-starlink-im-fadenkreuz-von-russland-und-china-2607-210767.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/militaerische-kooperation-starlink-im-fadenkreuz-von-russland-und-china-2607-210767.html</guid>
+      <description><![CDATA[Russische und chinesische Militärplaner sollen in einer neuen Allianz die Frage klären, wie sehr der Westen ohne Starlink ins Straucheln geraten könnte. (<a href="https://www.golem.de/specials/starlink/">Starlink</a>, <a href="https://www.golem.de/specials/russland/">Russland</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 16:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Warum es ausgerechnet bei LinkedIn so viel KI-Slop gibt</title>
+      <link>https://www.heise.de/news/Warum-es-ausgerechnet-bei-LinkedIn-so-viel-KI-Slop-gibt-11361145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361145</guid>
+      <description><![CDATA[Eine Studie zeigt: LinkedIn ist die Social-Media-Plattform mit dem höchsten Anteil an KI-generierten Texten – besonders bei längeren Beiträgen.]]></description>
+      <pubDate>Fri, 10 Jul 2026 15:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Meta zum Handeln aufgefordert: EU sieht große Suchtgefahr bei Facebook und Instagram</title>
+      <link>https://www.golem.de/news/meta-zum-handeln-aufgefordert-eu-sieht-grosse-suchtgefahr-bei-facebook-und-instagram-2607-210757.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/meta-zum-handeln-aufgefordert-eu-sieht-grosse-suchtgefahr-bei-facebook-und-instagram-2607-210757.html</guid>
+      <description><![CDATA[Meta muss auf die Ergebnisse einer EU-Untersuchung zur Suchtgefahr auf Facebook und Instagram reagieren, um eine Strafzahlung zu vermeiden. (<a href="https://www.golem.de/specials/jugendschutz/">Jugendschutz</a>, <a href="https://www.golem.de/specials/socialnetwork/">Soziales Netz</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 15:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Microsoft] Available today: OpenAI’s GPT-5.6 in Microsoft 365 Copilot</title>
+      <link>https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/available-today-openai-s-gpt-5-6-in-microsoft-365-copilot/ba-p/4533152</link>
+      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/available-today-openai-s-gpt-5-6-in-microsoft-365-copilot/ba-p/4533152</guid>
+      <description><![CDATA[<P>Starting today, OpenAI's GPT-5.6 family of models is available in Microsoft 365 Copilot—in Word, Excel, PowerPoint, Chat and Cowork. OpenAI and Microsoft partnered together to optimize GPT-5.6 for knowledge work across Microsoft 365 apps and make it the preferred model for Microsoft 365 Copilot. In addition to serving the models natively, Microsoft will also access OpenAI models directly through the API to bring GPT-5.6 to Microsoft 365 customers.</P>
+<P>Knowledge work is complex—multistep, ambiguous, and spread across tools and files. With stronger reasoning for agentic, multi-step work, GPT-5.6 helps Copilot take on more of that complexity more efficiently, moving faster from initial ideas to more complete work. Microsoft 365 Copilot is AI built for work, where frontier models like GPT-5.6 are an important part of a broader system designed to deliver business value—bringing together Work IQ, Microsoft 365 apps, and the enterprise-grade security, compliance, and privacy customers expect from Microsoft.</P>
+<DIV style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"></DIV>
+<H2><SPAN data-contrast="none">Higher-quality work across apps you use every day</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></H2>
+<P><SPAN data-contrast="none">GPT-5.6 helps Copilot raise the quality of everyday work in Word, Excel, and PowerPoint, moving from rough intent to stronger drafts, clearer analysis, and richer presentation drafts.</SPAN><SPAN data-contrast="none">&nbsp;</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
+<P><STRONG><SPAN data-contrast="auto">In Word</SPAN></STRONG><SPAN data-contrast="auto">, Copilot can help turn rough ideas into more complete drafts, organize content with stronger structure and flow, and refine writing into a more polished artifact.&nbsp;</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
+<P><STRONG><SPAN data-contrast="auto">In Excel</SPAN></STRONG><SPAN data-contrast="auto">, GPT-5.6 helps Copilot reason through more complex analysis and move from task to outcome with less manual assembly.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
+<P><STRONG><SPAN data-contrast="auto">In PowerPoint</SPAN></STRONG><SPAN data-contrast="auto">, Copilot can create richer presentation drafts with stronger slide content, better visual balance, and more flexibility across presentation styles.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
+<P><SPAN data-contrast="none">Across these apps, GPT-5.6 helps Copilot take on more of the steps between idea and finished work, while keeping knowledge workers in control of the final outcome.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
+<H3>Reason through complex asks in Chat</H3>
+<P><SPAN data-contrast="auto">In Copilot Chat, GPT-5.6 helps Copilot reason through more complex asks—comparing options, structuring plans, troubleshooting problems, and working through ambiguity—to turn open-ended prompts into clearer, more actionable responses.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
+<H3>Get complex work done in Copilot Cowork</H3>
+<P><SPAN data-contrast="none">GPT-5.6 also strengthens agentic work in Copilot Cowork, carrying complex multi-step tasks from instruction to completed results. You describe the outcome, and Cowork plans, reasons across tools and files, and runs the work end-to-end, returning a finished deliverable, not just a draft or recommendation. </SPAN><SPAN data-contrast="auto">With GPT-5.6, Cowork can execute efficiently and produce outputs that are more complete, polished, and usable from the start</SPAN><SPAN data-contrast="none">. Paired with Work IQ, grounded in the systems your business runs on, Cowork brings the right context to each step so the work reflects your files, tools, and business context. You spend less time assembling the work and more time deciding what to do with it.</SPAN>&nbsp;</P>
+<H3>Get started today</H3>
+<P><SPAN data-contrast="none">The shift in how work gets done is real—and choosing the right model for the task at hand matters.&nbsp;</SPAN><SPAN data-ccp-props="{}">&nbsp;</SPAN></P>
+<P><SPAN data-contrast="none">GPT-5.6 is rolling out to Copilot in Word, Excel, PowerPoint, Chat, and Copilot Cowork. Once available, Copilot may automatically use </SPAN><SPAN data-contrast="auto">GPT-5.6 when it's best suited for the task. Where model selection is available, users can also choose GPT-5.6 directly from the model selector.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:300}">&nbsp;</SPAN></P>
+<P>&nbsp;</P>
+<P><SPAN data-contrast="auto">Availability may vary by region and tenant configuration; refer to </SPAN><A href="https://go.microsoft.com/fwlink/p/?LinkId=2369720" target="_blank" rel="noopener"><SPAN data-contrast="none">Microsoft Learn documentation,</SPAN></A><SPAN data-contrast="auto"> the </SPAN><A href="https://www.microsoft.com/en-us/microsoft-365/roadmap?msockid=171b316f673c61533f86259f66e36080" target="_blank" rel="noopener"><SPAN data-contrast="none"><SPAN data-ccp-charstyle="Hyperlink">Microsoft 365 Roadmap</SPAN></SPAN></A><SPAN data-contrast="auto"> and </SPAN><A href="https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes?tabs=all" target="_blank" rel="noopener"><SPAN data-contrast="none"><SPAN data-ccp-charstyle="Hyperlink">Microsoft 365 Copilot release notes</SPAN></SPAN></A><SPAN data-contrast="auto"> for the latest rollout status.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&nbsp;</SPAN></P>
+<P><SPAN data-contrast="auto">For more details on the model, see OpenAI’s GPT-5.6 announcement</SPAN><SPAN data-contrast="auto"> <A class="lia-external-url" href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/" target="_blank" rel="noopener">here</A>.</SPAN></P>]]></description>
+      <pubDate>Fri, 10 Jul 2026 15:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Kundendaten bei Dienstleister abgeflossen: Datenschutzvorfall beim Lidl-Shop</title>
+      <link>https://www.heise.de/news/Kundendaten-bei-Dienstleister-abgeflossen-Datenschutzvorfall-beim-Lidl-Shop-11361337.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361337</guid>
+      <description><![CDATA[Unbekannte konnten auf eine Datei mit Kundendaten zugreifen und stahlen persönliche Kundendaten. Lidl hat reagiert und betroffene Kunden angeschrieben.]]></description>
+      <pubDate>Fri, 10 Jul 2026 14:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Urteil: Mobilfunkanbieter dürfen Verträge nicht einseitig vorzeitig kündigen</title>
+      <link>https://www.heise.de/news/Urteil-Mobilfunkanbieter-duerfen-Vertraege-nicht-einseitig-vorzeitig-kuendigen-11361229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361229</guid>
+      <description><![CDATA[Ein Mobilfunkanbieter kündigte vorzeitig Tarife mit unbegrenztem Datenvolumen. Nun gibt es ein OLG-Urteil.]]></description>
+      <pubDate>Fri, 10 Jul 2026 14:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Raumfahrt: Neue chinesische Rakete landet besser als das SpaceX-Starship</title>
+      <link>https://www.golem.de/news/raumfahrt-neue-chinesische-rakete-landet-besser-als-das-spacex-starship-2607-210762.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/raumfahrt-neue-chinesische-rakete-landet-besser-als-das-spacex-starship-2607-210762.html</guid>
+      <description><![CDATA[Die Langer Marsch 10 landet mit Stahlseilen wie ein Flugzeug auf einem Flugzeugträger. Das Prinzip ist deutlich einfacher als der Landeturm von SpaceX. Von Frank Wunderlich-Pfeiffer (<a href="https://www.golem.de/specials/raumfahrt/">Raumfahrt</a>, <a href="https://www.golem.de/specials/spacex/">SpaceX</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 14:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Die Powerstation war bereit. Der Nachtzug nicht</title>
+      <link>https://www.digitec.ch/de/page/die-powerstation-war-bereit-der-nachtzug-nicht-43160?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/die-powerstation-war-bereit-der-nachtzug-nicht-43160</guid>
+      <description><![CDATA[Ich wollte mein Schlafapnoe-Gerät im Nachtzug mit einer Powerstation gegen Stromausfälle absichern. Stattdessen wurde die Reise wegen eines Kommunikationsfehler zur Odyssee. Zum Praxistest im Zug kam es nie.]]></description>
+      <pubDate>Fri, 10 Jul 2026 14:17:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Elektroschrott: Kompostierbare Leiterplatte vermeidet Abfallberge</title>
+      <link>https://www.golem.de/news/elektroschrott-kompostierbare-leiterplatte-vermeidet-abfallberge-2607-210760.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/elektroschrott-kompostierbare-leiterplatte-vermeidet-abfallberge-2607-210760.html</guid>
+      <description><![CDATA[Leiterplatten sind praktisch unbegrenzt haltbar, finden sich aber in Produkten, die nach wenigen Jahren entsorgt werden. Pilzmyzel kann Abhilfe schaffen. (<a href="https://www.golem.de/specials/innovation-und-forschung/">Innovation & Forschung</a>, <a href="https://www.golem.de/specials/greenit/">GreenIT</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 14:11:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Top 10: Die beste Gaming-Maus im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-gaming-maus-im-test-preis-leistungs-sieger-fuer-30-euro/116hh77?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag#id-0-logitech-g-pro-x-2-superstrike</link>
+      <guid isPermaLink="false">http://heise.de/-11361181</guid>
+      <description><![CDATA[Kabellose Gaming-Mäuse sollen leicht und präzise sein und gleichzeitig viele Zusatztasten bieten. Wir zeigen die besten.]]></description>
+      <pubDate>Fri, 10 Jul 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Xavier Niel übernimmt von E&amp;: Vodafones Hauptaktionär verkauft alle Anteile</title>
+      <link>https://www.golem.de/news/xavier-niel-uebernimmt-von-e-vodafones-hauptaktionaer-verkauft-alle-anteile-2607-210761.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/xavier-niel-uebernimmt-von-e-vodafones-hauptaktionaer-verkauft-alle-anteile-2607-210761.html</guid>
+      <description><![CDATA[Die Vodafone Group steht vor einer ungewissen Zukunft. Der Telco-Milliardär Xavier Niel könnte den Konzern radikal umbauen. (<a href="https://www.golem.de/specials/vodafone/">Vodafone</a>, <a href="https://www.golem.de/specials/kabelnetz/">Kabelnetz</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 13:55:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Schluss mit Wegwerfgeräten: Das neue Recht auf Reparatur kommt</title>
+      <link>https://www.heise.de/news/Bundesrat-beschliesst-Recht-auf-Reparatur-11361205.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361205</guid>
+      <description><![CDATA[Der Bundesrat hat die Umsetzung einer EU-Richtlinie beschlossen. Hersteller müssen Elektrogeräte künftig zu angemessenen Preisen reparierbar machen.]]></description>
+      <pubDate>Fri, 10 Jul 2026 13:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Muse Image: Metas Bildgenerator kann automatisch auf öffentliche Insta-Fotos zugreifen</title>
+      <link>https://www.golem.de/news/muse-image-metas-bildgenerator-kann-automatisch-auf-oeffentliche-insta-fotos-zugreifen-2607-210759.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/muse-image-metas-bildgenerator-kann-automatisch-auf-oeffentliche-insta-fotos-zugreifen-2607-210759.html</guid>
+      <description><![CDATA[Metas Muse Image kann über die Verlinkung eines öffentlichen Instagram-Kontos dessen Fotos für neue Bilder nutzen. Die Funktion muss aktiv abgestellt werden. (<a href="https://www.golem.de/specials/meta/">Meta</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 13:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] EA Sports bringt Pay-to-Win in den Singleplayer</title>
+      <link>https://www.digitec.ch/de/page/ea-sports-bringt-pay-to-win-in-den-singleplayer-43237?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/ea-sports-bringt-pay-to-win-in-den-singleplayer-43237</guid>
+      <description><![CDATA[In «EA Sports College Football 27» verkauft EA erstmals Fortschrittsvorteile in zentralen Einzelspieler-Modi. Besonders brisant: Zuvor entfernte der Publisher Einstellungen, mit denen du das Entwicklungstempo selbst bestimmen konntest. Nun wächst die Sorge, dass EA das Modell auf weitere Sportspiele überträgt.]]></description>
+      <pubDate>Fri, 10 Jul 2026 13:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Kurswechsel: OpenAI zieht bei Atlas den Stecker</title>
+      <link>https://www.golem.de/news/kurswechsel-openai-zieht-bei-atlas-den-stecker-2607-210755.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/kurswechsel-openai-zieht-bei-atlas-den-stecker-2607-210755.html</guid>
+      <description><![CDATA[Der KI-Browser Atlas wird im August eingestellt. OpenAI integriert zentrale Funktionen in ChatGPT und bündelt sie in der neuen Desktop-App. (<a href="https://www.golem.de/specials/openai/">OpenAI</a>, <a href="https://www.golem.de/specials/browser/">Browser</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 13:21:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Speicherausgaben: Micron erhöht auf 250 Milliarden US-Dollar</title>
+      <link>https://www.heise.de/news/Speicherausgaben-Micron-erhoeht-auf-250-Milliarden-US-Dollar-11361141.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361141</guid>
+      <description><![CDATA[Micron will mit Samsung und SK Hynix Schritt halten. Bis 2035 stehen Investitionen von 250 Milliarden US-Dollar an, nach aktueller Planung.]]></description>
+      <pubDate>Fri, 10 Jul 2026 13:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] KI-Update Deep-Dive: KI im Handwerk – Mehr als nur ein Werkzeug</title>
+      <link>https://www.heise.de/news/KI-Update-Deep-Dive-KI-im-Handwerk-Mehr-als-nur-ein-Werkzeug-11341646.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11341646</guid>
+      <description><![CDATA[KI verspricht Handwerksbetrieben mehr Effizienz. Doch entscheidend für den Erfolg sind nicht die Tools, sondern klare Strukturen und Prozesse.]]></description>
+      <pubDate>Fri, 10 Jul 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Chatkontrolle: Welche Messenger (noch) sicher sind und welche nicht</title>
+      <link>https://www.golem.de/news/chatkontrolle-welche-messenger-noch-sicher-sind-und-welche-nicht-2607-210753.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/chatkontrolle-welche-messenger-noch-sicher-sind-und-welche-nicht-2607-210753.html</guid>
+      <description><![CDATA[Golem zeigt auf, welche Messenger von der Chatkontrolle betroffen sind und über welche sich (noch) sicher kommunizieren lässt. Eine Analyse von Mike Faust (<a href="https://www.golem.de/specials/chatkontrolle/">Chatkontrolle</a>, <a href="https://www.golem.de/specials/datenschutz/">Datenschutz</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 12:46:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] E-Scooter-Unfälle: Vermieter haften künftig verstärkt</title>
+      <link>https://www.heise.de/news/Strengere-Haftungsregeln-bei-E-Scooter-Unfaellen-beschlossen-11361077.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361077</guid>
+      <description><![CDATA[Wer durch E-Scooter zu Schaden kommt, soll leichter entschädigt werden. Der Bundestag hat eine verschuldensunabhängige Halterhaftung für Vermieter beschlossen.]]></description>
+      <pubDate>Fri, 10 Jul 2026 12:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Bohr: Erster kommerzieller nuklearbetriebener Satellit ist gestartet</title>
+      <link>https://www.golem.de/news/bohr-erster-kommerzieller-nuklearbetriebener-satellit-ist-gestartet-2607-210728.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/bohr-erster-kommerzieller-nuklearbetriebener-satellit-ist-gestartet-2607-210728.html</guid>
+      <description><![CDATA[Bisher waren nur staatliche Raumfahrzeuge mit atombetriebenen Energiequellen ausgestattet. Mit dem kürzlich gestarteten Satelliten Bohr ändert sich das. (<a href="https://www.golem.de/specials/satelliten/">Satelliten</a>, <a href="https://www.golem.de/specials/raumfahrt/">Raumfahrt</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 12:18:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Post zum Freitag: Wem gehört das digitale Ich?</title>
+      <link>https://www.heise.de/news/Post-zum-Freitag-Wem-gehoert-das-digitale-Ich-11360227.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11360227</guid>
+      <description><![CDATA[Dieses Mal mit Tracking im Onlineshop, Daten in der Cloud, EU-Wallet vor der Tür – wir erklären, wie Sie die Kontrolle über Ihre digitale Identität behalten.]]></description>
+      <pubDate>Fri, 10 Jul 2026 12:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] KI-Urheberrechtsstreit: New York Times beantragt Sanktionen gegen OpenAI</title>
+      <link>https://www.heise.de/news/KI-Urheberrechtsstreit-New-York-Times-beantragt-Sanktionen-gegen-OpenAI-11360533.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11360533</guid>
+      <description><![CDATA[Der Urheberrechtsstreit zwischen der New York Times und OpenAI spitzt sich zu: Die Zeitung wirft dem Unternehmen Täuschung und Beweisvernichtung vor.]]></description>
+      <pubDate>Fri, 10 Jul 2026 11:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Flughafen: Gesichtserkennung beschleunigt Abfertigung</title>
+      <link>https://www.heise.de/news/Digitale-Flugabfertigung-Bundesrat-macht-den-Weg-frei-11361057.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361057</guid>
+      <description><![CDATA[Schneller ans Gate per Gesichtserkennung: An bestimmten Flughäfen ist das künftig möglich. Der Rechtsrahmen dafür ist beschlossen.]]></description>
+      <pubDate>Fri, 10 Jul 2026 11:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Fidji Simo verlässt Vollzeitposten bei OpenAI</title>
+      <link>https://www.heise.de/news/OpenAI-Managerin-Fidji-Simo-tritt-nach-Krankheit-kuerzer-11360807.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11360807</guid>
+      <description><![CDATA[Fidji Simo, eine der wichtigsten Managerinnen bei OpenAI, reduziert ihre Tätigkeit aufgrund einer chronischen Erkrankung und löst damit eine Debatte aus.]]></description>
+      <pubDate>Fri, 10 Jul 2026 11:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Bericht: Disney denkt über kostenlose Inhalte auf Disney+ nach</title>
+      <link>https://www.heise.de/news/Bericht-Disney-denkt-ueber-kostenlose-Inhalte-auf-Disney-nach-11360951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11360951</guid>
+      <description><![CDATA[Disney diskutiert offenbar, Teile von Disney+ kostenlos anzubieten. Hintergrund ist der Boom von Gratis-Angeboten wie YouTube, berichtet Business Insider.]]></description>
+      <pubDate>Fri, 10 Jul 2026 11:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] The Other Half: Das Jolla Phone passt sich seiner Rückseite an</title>
+      <link>https://www.digitec.ch/de/page/the-other-half-das-jolla-phone-passt-sich-seiner-rueckseite-an-43235?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/the-other-half-das-jolla-phone-passt-sich-seiner-rueckseite-an-43235</guid>
+      <description><![CDATA[In Helsinki hat Jolla die ersten Geräte des neuen Jolla Phone an Vorbesteller ausgegeben. 500 Menschen standen in der Schlange. Zugleich kündigte das Unternehmen Wechsel-Rückseiten an, die das Smartphone verändern.]]></description>
+      <pubDate>Fri, 10 Jul 2026 11:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Ausprobiert: Scapade-Zubehör mit „Wo ist?"</title>
+      <link>https://www.heise.de/news/Ausprobiert-Scapade-Zubehoer-mit-Wo-ist-11357007.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11357007</guid>
+      <description><![CDATA[Der Zubehörspezialist Scapade liefert nun Rucksäcke, Passhüllen und TSA-Schlösser aus, die alle zu Apples Trackern kompatibel sind. Wir haben sie uns angesehen.]]></description>
+      <pubDate>Fri, 10 Jul 2026 11:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] GT-Version: Kia EV4 kommt mit 292 PS und Schaltsimulation</title>
+      <link>https://www.golem.de/news/gt-version-kia-ev4-kommt-mit-292-ps-und-schaltsimulation-2607-210749.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/gt-version-kia-ev4-kommt-mit-292-ps-und-schaltsimulation-2607-210749.html</guid>
+      <description><![CDATA[Nach den leistungsfähigeren Allrad-Varianten bringt Kia jetzt noch eine GT-Version des EV4 mit Schaltsimulation und Motorsound. (<a href="https://www.golem.de/specials/kia/">Kia</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 10:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Sport: Strava zeigt passende Rennen in der App</title>
+      <link>https://www.golem.de/news/sport-strava-zeigt-passende-rennen-in-der-app-2607-210748.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/sport-strava-zeigt-passende-rennen-in-der-app-2607-210748.html</guid>
+      <description><![CDATA[Neue Funktionen bündeln Rennen, Gruppenläufe und Clubevents direkt in der Strava-App. (<a href="https://www.golem.de/specials/strava/">Strava</a>, <a href="https://www.golem.de/specials/fitness/">Fitness</a>)]]></description>
+      <pubDate>Fri, 10 Jul 2026 10:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Wenn 14 Jahre Support nicht reichen: RHEL bis in alle Ewigkeit</title>
+      <link>https://www.heise.de/news/Wenn-14-Jahre-Support-nicht-reichen-RHEL-bis-in-alle-Ewigkeit-11360689.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11360689</guid>
+      <description><![CDATA[Red Hat erweitert den Lebenszyklus von RHEL. Mit dem Long-Life Add-On gibt es nun zeitlich unbegrenzten Support für ältere Versionen.]]></description>
+      <pubDate>Fri, 10 Jul 2026 10:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Golem] Kernfusion: Proxima Fusion sammelt 400 Millionen ein</title>
       <link>https://www.golem.de/news/kernfusion-proxima-fusion-sammelt-400-millionen-ein-2607-210747.html</link>
       <guid isPermaLink="false">https://www.golem.de/news/kernfusion-proxima-fusion-sammelt-400-millionen-ein-2607-210747.html</guid>
-      <description><![CDATA[Mit der neuen Finanzierung werden auch Geld aus der Staatskasse fließen, um die erste Demonstrationsanlage für ein Stellarator-Fusionskraftwerk zu bauen. (<a href="https://www.golem.de/specials/kernfusion/">Kernfusion</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
+      <description><![CDATA[Mit der neuen Finanzierung werden auch Gelder aus der Staatskasse fließen, um die erste Demonstrationsanlage für ein Stellarator-Fusionskraftwerk zu bauen. (<a href="https://www.golem.de/specials/kernfusion/">Kernfusion</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
       <pubDate>Fri, 10 Jul 2026 10:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Heise] Google-Play-Dienste: Neue Funktionen für Android-Geräte im Juli</title>
+      <title>[Heise] Google verteilt Play-System-Updates für Android-Geräte</title>
       <link>https://www.heise.de/news/Google-Play-Dienste-Neue-Funktionen-fuer-Android-Geraete-im-Juli-11360753.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11360753</guid>
       <description><![CDATA[Google verteilt neue Funktionen für Android-Geräte über die Play-Dienste. Offenbar liefert der Konzern auch bereits vor Monaten angekündigte Features nach.]]></description>
@@ -151,7 +428,7 @@
       <title>[Heise] Forscher entdecken geheime Gedanken von Claude – und wie es lügt und betrügt</title>
       <link>https://www.heise.de/news/Forscher-entdecken-geheime-Gedanken-von-Claude-und-wie-es-luegt-und-betruegt-11359710.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11359710</guid>
-      <description><![CDATA[Forscher entdecken in Claudes neuronalem Netz eine bewusstseinsähnliche Stelle, an der es heimlich denkt [--] und bewusst Tests manipuliert.]]></description>
+      <description><![CDATA[Forscher entdecken in Claudes neuronalem Netz eine bewusstseinsähnliche Stelle, an der es heimlich denkt – und bewusst Tests manipuliert.]]></description>
       <pubDate>Fri, 10 Jul 2026 07:10:00 GMT</pubDate>
     </item>
     <item>
@@ -176,25 +453,11 @@
       <pubDate>Fri, 10 Jul 2026 06:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Geoengineering: Künstliche Wolken sollen El Niño dämpfen</title>
-      <link>https://www.golem.de/news/geoengineering-kuenstliche-wolken-sollen-el-nino-daempfen-2607-210725.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/geoengineering-kuenstliche-wolken-sollen-el-nino-daempfen-2607-210725.html</guid>
-      <description><![CDATA[US-Forscher wollen mit regionaler Wolkenaufhellung das Klima-Phänomen El Niño gezielt bekämpfen und Risiken minimieren. (<a href="https://www.golem.de/specials/klima-und-umwelt/">Klima & Umwelt</a>, <a href="https://www.golem.de/specials/wissenschaft/">Wissenschaft</a>)]]></description>
-      <pubDate>Fri, 10 Jul 2026 06:40:06 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Netzbetreiber O2 Telefónica vor umfassendem Stellenabbau</title>
       <link>https://www.heise.de/news/O2-Telefonica-plant-Streichung-von-mehr-als-1000-Stellen-11360309.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11360309</guid>
       <description><![CDATA[Die Deutschlandtochter von Telefónica will Kosten senken und plant den Abbau von über 1000 Stellen, um die Wettbewerbsfähigkeit langfristig zu sichern.]]></description>
       <pubDate>Fri, 10 Jul 2026 05:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Drei neue Modelle, ein neuer Bestwert: OpenAI bringt GPT-5.6</title>
-      <link>https://www.golem.de/news/drei-neue-modelle-ein-neuer-bestwert-openai-bringt-gpt-5-6-2607-210720.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/drei-neue-modelle-ein-neuer-bestwert-openai-bringt-gpt-5-6-2607-210720.html</guid>
-      <description><![CDATA[Sol, Terra und Luna heißen die neuen Mitglieder der GPT-5.6-Familie. OpenAI verspricht neue Bestwerte bei Programmierung und Wissensarbeit. (<a href="https://www.golem.de/specials/chatgpt/">ChatGPT</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Fri, 10 Jul 2026 05:24:02 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] „Ist das Projekt noch zu retten?“ Experten zweifeln an Umsetzung der EUDI-Wallet</title>
@@ -209,291 +472,6 @@
       <guid isPermaLink="false">http://heise.de/-11360283</guid>
       <description><![CDATA[2016 wurde der deutsche Roboterhersteller von einem chinesischen Investor übernommen. Wie ist der Stand in dem Robotikunternehmen?]]></description>
       <pubDate>Fri, 10 Jul 2026 05:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Landmaschinenhersteller John Deere verspricht Recht auf Reparatur für 10 Jahre</title>
-      <link>https://www.heise.de/news/Landmaschinenhersteller-John-Deere-verspricht-Recht-auf-Reparatur-fuer-10-Jahre-11360253.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360253</guid>
-      <description><![CDATA[Die US-Handelskommission und der Landmaschinenhersteller haben sich geeinigt. John Deere muss seine Software und Reparaturwerkzeuge allen zur Verfügung stellen.]]></description>
-      <pubDate>Fri, 10 Jul 2026 03:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Microsoft] Available today: OpenAI’s GPT-5.6 in Microsoft 365 Copilot</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/available-today-openai-s-gpt-5-6-in-microsoft-365-copilot/ba-p/4533152</link>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/available-today-openai-s-gpt-5-6-in-microsoft-365-copilot/ba-p/4533152</guid>
-      <description><![CDATA[<P>Starting today, OpenAI's GPT-5.6 family of models is available in Microsoft 365 Copilot—in Word, Excel, PowerPoint, Chat and Cowork. OpenAI and Microsoft partnered together to optimize GPT-5.6 for knowledge work across Microsoft 365 apps and make it the preferred model for Microsoft 365 Copilot. In addition to serving the models natively, Microsoft will also access OpenAI models directly through the API to bring GPT-5.6 to Microsoft 365 customers.</P>
-<P>Knowledge work is complex—multistep, ambiguous, and spread across tools and files. With stronger reasoning for agentic, multi-step work, GPT-5.6 helps Copilot take on more of that complexity more efficiently, moving faster from initial ideas to more complete work. Microsoft 365 Copilot is AI built for work, where frontier models like GPT-5.6 are an important part of a broader system designed to deliver business value—bringing together Work IQ, Microsoft 365 apps, and the enterprise-grade security, compliance, and privacy customers expect from Microsoft.</P>
-<DIV style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"></DIV>
-<H2><SPAN data-contrast="none">Higher-quality work across apps you use every day</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></H2>
-<P><SPAN data-contrast="none">GPT-5.6 helps Copilot raise the quality of everyday work in Word, Excel, and PowerPoint, moving from rough intent to stronger drafts, clearer analysis, and richer presentation drafts.</SPAN><SPAN data-contrast="none">&nbsp;</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
-<P><STRONG><SPAN data-contrast="auto">In Word</SPAN></STRONG><SPAN data-contrast="auto">, Copilot can help turn rough ideas into more complete drafts, organize content with stronger structure and flow, and refine writing into a more polished artifact.&nbsp;</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
-<P><STRONG><SPAN data-contrast="auto">In Excel</SPAN></STRONG><SPAN data-contrast="auto">, GPT-5.6 helps Copilot reason through more complex analysis and move from task to outcome with less manual assembly.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
-<P><STRONG><SPAN data-contrast="auto">In PowerPoint</SPAN></STRONG><SPAN data-contrast="auto">, Copilot can create richer presentation drafts with stronger slide content, better visual balance, and more flexibility across presentation styles.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
-<P><SPAN data-contrast="none">Across these apps, GPT-5.6 helps Copilot take on more of the steps between idea and finished work, while keeping knowledge workers in control of the final outcome.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
-<H3>Reason through complex asks in Chat</H3>
-<P><SPAN data-contrast="auto">In Copilot Chat, GPT-5.6 helps Copilot reason through more complex asks—comparing options, structuring plans, troubleshooting problems, and working through ambiguity—to turn open-ended prompts into clearer, more actionable responses.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:278}">&nbsp;</SPAN></P>
-<H3>Get complex work done in Copilot Cowork</H3>
-<P><SPAN data-contrast="none">GPT-5.6 also strengthens agentic work in Copilot Cowork, carrying complex multi-step tasks from instruction to completed results. You describe the outcome, and Cowork plans, reasons across tools and files, and runs the work end-to-end, returning a finished deliverable, not just a draft or recommendation. </SPAN><SPAN data-contrast="auto">With GPT-5.6, Cowork can execute efficiently and produce outputs that are more complete, polished, and usable from the start</SPAN><SPAN data-contrast="none">. Paired with Work IQ, grounded in the systems your business runs on, Cowork brings the right context to each step so the work reflects your files, tools, and business context. You spend less time assembling the work and more time deciding what to do with it.</SPAN>&nbsp;</P>
-<H3>Get started today</H3>
-<P><SPAN data-contrast="none">The shift in how work gets done is real—and choosing the right model for the task at hand matters.&nbsp;</SPAN><SPAN data-ccp-props="{}">&nbsp;</SPAN></P>
-<P><SPAN data-contrast="none">GPT-5.6 is rolling out to Copilot in Word, Excel, PowerPoint, Chat, and Copilot Cowork. Once available, Copilot may automatically use </SPAN><SPAN data-contrast="auto">GPT-5.6 when it's best suited for the task. Where model selection is available, users can also choose GPT-5.6 directly from the model selector.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:300}">&nbsp;</SPAN></P>
-<P>&nbsp;</P>
-<DIV style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"></DIV>
-<P><SPAN data-contrast="auto">Availability may vary by region and tenant configuration; refer to </SPAN><A href="https://go.microsoft.com/fwlink/p/?LinkId=2369720" target="_blank" rel="noopener"><SPAN data-contrast="none">Microsoft Learn documentation,</SPAN></A><SPAN data-contrast="auto"> the </SPAN><A href="https://www.microsoft.com/en-us/microsoft-365/roadmap?msockid=171b316f673c61533f86259f66e36080" target="_blank" rel="noopener"><SPAN data-contrast="none"><SPAN data-ccp-charstyle="Hyperlink">Microsoft 365 Roadmap</SPAN></SPAN></A><SPAN data-contrast="auto"> and </SPAN><A href="https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes?tabs=all" target="_blank" rel="noopener"><SPAN data-contrast="none"><SPAN data-ccp-charstyle="Hyperlink">Microsoft 365 Copilot release notes</SPAN></SPAN></A><SPAN data-contrast="auto"> for the latest rollout status.</SPAN><SPAN data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&nbsp;</SPAN></P>
-<P><SPAN data-contrast="auto">For more details on the model, see OpenAI’s GPT-5.6 announcement</SPAN><SPAN data-contrast="auto"> <A class="lia-external-url" href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/" target="_blank" rel="noopener">here</A>.</SPAN></P>]]></description>
-      <pubDate>Fri, 10 Jul 2026 01:55:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] «Die Klapperschlange» wird 45: Warum John Carpenters Dystopie niemals altert</title>
-      <link>https://www.digitec.ch/de/page/die-klapperschlange-wird-45-warum-john-carpenters-dystopie-niemals-altert-42975?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/die-klapperschlange-wird-45-warum-john-carpenters-dystopie-niemals-altert-42975</guid>
-      <description><![CDATA[Als «Escape from New York» 1981 erschien, lag seine Zukunft nur 16 Jahre entfernt. Heute ist auch diese Zukunft längst Vergangenheit. Zum 45. Jubiläum zeigt sich: Carpenters Film war nie eine Prognose, sondern eine Verdichtung politischer und urbaner Ängste, die erstaunlich wenig verschwunden sind.]]></description>
-      <pubDate>Thu, 09 Jul 2026 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Netflix hat ein Problem mit zweiten Staffeln</title>
-      <link>https://www.digitec.ch/de/page/netflix-hat-ein-problem-mit-zweiten-staffeln-43226?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/netflix-hat-ein-problem-mit-zweiten-staffeln-43226</guid>
-      <description><![CDATA[Netflix macht gerade eine beunruhigende Entdeckung: Ausgerechnet seine grössten Serien verlieren nach Staffel eins massenhaft Publikum. Warum, weiss selbst der Streamingriese nicht genau.]]></description>
-      <pubDate>Thu, 09 Jul 2026 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Future Operating Model: Telefónica Deutschland will massiven Stellenabbau</title>
-      <link>https://www.golem.de/news/future-operating-model-telefonica-deutschland-will-massiven-stellenabbau-2607-210719.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/future-operating-model-telefonica-deutschland-will-massiven-stellenabbau-2607-210719.html</guid>
-      <description><![CDATA[Der Mobilfunkbetreiber Telefónica Deutschland setzt die Beschäftigten mit einem Abbauplan massiv unter Druck. Es geht um Stellenabbau und 100 Millionen Euro. (<a href="https://www.golem.de/specials/telefonica/">Telefónica</a>, <a href="https://www.golem.de/specials/mobilfunk/">Mobilfunk</a>)]]></description>
-      <pubDate>Thu, 09 Jul 2026 21:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Deutsche Telekom: 5G-Campus-Netz für Containerhafen in Hamburg fertiggestellt</title>
-      <link>https://www.golem.de/news/deutsche-telekom-5g-campus-netz-fuer-containerhafen-in-hamburg-fertiggestellt-2607-210717.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/deutsche-telekom-5g-campus-netz-fuer-containerhafen-in-hamburg-fertiggestellt-2607-210717.html</guid>
-      <description><![CDATA[Die HHLA hat am Hamburger Container Terminal Altenwerder mit der Telekom ein privates 5G-Campus-Netz in Betrieb genommen. Gefördert mit Millionen vom Bund. (<a href="https://www.golem.de/specials/mobilfunk/">Mobilfunk</a>, <a href="https://www.golem.de/specials/telekom/">Telekom</a>)]]></description>
-      <pubDate>Thu, 09 Jul 2026 20:25:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Operation „First Light 2026“: 5.800 Verdächtige weltweit festgenommen</title>
-      <link>https://www.heise.de/news/Operation-First-Light-2026-5-800-Verdaechtige-bei-weltweit-festgenommen-11360175.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360175</guid>
-      <description><![CDATA[In einer weltweiten Aktion gegen Social-Engineering-Betrug wurden Tausende Verdächtige inhaftiert und Beträge in Millionenhöhe sichergestellt.]]></description>
-      <pubDate>Thu, 09 Jul 2026 19:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] EuGH-Urteil: Geoblocking schützt Urheberrecht auch bei VPN-Umgehung</title>
-      <link>https://www.heise.de/news/EuGH-Urteil-Geoblocking-schuetzt-Urheberrecht-auch-bei-VPN-Umgehung-11360094.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360094</guid>
-      <description><![CDATA[Ein Werk, das in einem EU-Land gemeinfrei, in anderen aber geschützt ist, darf online stehen. Voraussetzung: Sperren nach dem Stand der Technik müssen greifen.]]></description>
-      <pubDate>Thu, 09 Jul 2026 18:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Top 10: Der beste höhenverstellbare Schreibtisch</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hoehenverstellbare-schreibtisch-flexispot-ist-testsieger/187xypf?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360060</guid>
-      <description><![CDATA[Ein elektrisch höhenverstellbarer Schreibtisch soll Gesundheit und Konzentration fördern. Wir zeigen die besten Modelle.]]></description>
-      <pubDate>Thu, 09 Jul 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Geoengineering: El Niño ließe sich mit gezieltem Eingriff abschwächen</title>
-      <link>https://www.heise.de/news/Geoengineering-El-Nino-liesse-sich-mit-gezieltem-Eingriff-abschwaechen-11360054.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360054</guid>
-      <description><![CDATA[Aktuell bildet sich ein starker El Niño. Solch einen könnte man gezielt abschwächen, hat eine Forschungsgruppe nach einem natürlichen Experiment herausgefunden.]]></description>
-      <pubDate>Thu, 09 Jul 2026 17:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Erfolgreiche Finanzierung: Proxima Fusion schafft Voraussetzung für Demonstrator</title>
-      <link>https://www.heise.de/news/Erfolgreiche-Finanzierung-Proxima-Fusion-schafft-Voraussetzung-fuer-Demonstrator-11360078.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360078</guid>
-      <description><![CDATA[Das Fusionsstartup Proxima Fusion hat erfolgreich eine Finanzierungsrunde abgeschlossen. Damit schafft es die Voraussetzung für den Bau einer Demonstatoranlage.]]></description>
-      <pubDate>Thu, 09 Jul 2026 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Geplante IFG-Reform: SPD-Fraktion meutert gegen Transparenz-Einschränkungen</title>
-      <link>https://www.heise.de/news/Geplante-IFG-Reform-SPD-Fraktion-meutert-gegen-Transparenz-Einschraenkungen-11360018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360018</guid>
-      <description><![CDATA[Der Koalitionsplan zur Entkernung des Informationsfreiheitsgesetzes stößt auf heftige Kritik. Nun rebelliert auch die SPD-Fraktion gegen das Vorhaben.]]></description>
-      <pubDate>Thu, 09 Jul 2026 16:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Solar- und Windenergie in luftigen Höhen: das Cozy-Survival-Game Solarpunk</title>
-      <link>https://www.heise.de/tests/Solar-und-Windenergie-in-luftigen-Hoehen-das-Cozy-Survival-Game-Solarpunk-11359348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359348</guid>
-      <description><![CDATA[Bauen, forschen & fliegen: Im Cozy-Survival-Game Solarpunk richten wir uns auf einer schwebenden Insel ein und nutzen Sonne und Wind für die Automatisierung.]]></description>
-      <pubDate>Thu, 09 Jul 2026 16:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Sony stellt Superzoom-Bridgekamera RX10 V vor</title>
-      <link>https://www.heise.de/news/Sony-stellt-Superzoom-Bridgekamera-RX10-V-vor-11359722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359722</guid>
-      <description><![CDATA[Sieben Jahre nach der RX10 IV schickt Sony den Nachfolger seiner Superzoom-Bridgekamera ins Rennen.]]></description>
-      <pubDate>Thu, 09 Jul 2026 15:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] PC-Markt bricht ein: Nur Apple wächst dank MacBook Neo</title>
-      <link>https://www.heise.de/news/Apple-trotzt-dem-PC-Markteinbruch-11359938.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359938</guid>
-      <description><![CDATA[Die drei weltweit größten PC- und Notebook-Hersteller lassen Federn. Nur Apple wächst dank des MacBook Neo erheblich.]]></description>
-      <pubDate>Thu, 09 Jul 2026 15:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Open-Source-Strategie: Mecklenburg-Vorpommern will auch Microsoft Office ablösen</title>
-      <link>https://www.heise.de/news/Open-Source-Strategie-Mecklenburg-Vorpommern-will-auch-Microsoft-Office-abloesen-11359864.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359864</guid>
-      <description><![CDATA[Unter den Bundesländern hat sich bislang nur Schleswig-Holstein im großen Stil von MS Office verabschiedet. Mecklenburg-Vorpommern will mittelfristig folgen.]]></description>
-      <pubDate>Thu, 09 Jul 2026 15:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] KI-Synchronisation: Gericht weist Eilantrag des Bundesverbands Schauspiel ab</title>
-      <link>https://www.heise.de/news/KI-Synchronisation-Gericht-weist-Eilantrag-des-Bundesverbands-Schauspiel-ab-11359914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359914</guid>
-      <description><![CDATA[Im Kern ging es um die Frage, ob der VDS öffentlich die Auffassung vertreten darf, der BFFS trage Mitverantwortung für die umstrittene Netflix-KI-Vereinbarung.]]></description>
-      <pubDate>Thu, 09 Jul 2026 15:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Digitaler Euro: Trilog startet, viele technische Fragen bleiben</title>
-      <link>https://www.heise.de/news/Digitaler-Euro-Trilog-startet-viele-technische-Fragen-bleiben-11359824.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359824</guid>
-      <description><![CDATA[Das Europaparlament hat der Einführung des digitalen Euro zugestimmt. Wissenschaftler sehen aber Schwächen im geplanten Konzept.]]></description>
-      <pubDate>Thu, 09 Jul 2026 15:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] BKW-Speicher SunEnergyXT 500 Pro im Test: Funktioniert auch ohne Cloud</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/bkw-speicher-sunenergyxt-500-pro-im-test-funktioniert-auch-ohne-cloud/kkq2h7e?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359942</guid>
-      <description><![CDATA[Der SunEnergyXT 500 Pro mit 5 kWh bietet eine maximale Einspeiseleistung von 2400 Watt und lässt sich lokal steuern. Was er sonst noch kann, zeigt der Test.]]></description>
-      <pubDate>Thu, 09 Jul 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Open-Source-Tipp: VLC – der Player, der praktisch alles abspielt</title>
-      <link>https://www.digitec.ch/de/page/open-source-tipp-vlc-der-player-der-praktisch-alles-abspielt-43212?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/open-source-tipp-vlc-der-player-der-praktisch-alles-abspielt-43212</guid>
-      <description><![CDATA[VLC ist der Media Player, der gefühlt auf fast jedem Rechner zu finden ist – und dennoch oft unterschätzt wird. Was die Open-Source-Software auszeichnet und warum sie seit Jahrzehnten ungeschlagen ist.]]></description>
-      <pubDate>Thu, 09 Jul 2026 14:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Blue Origin will in erster Finanzierungsrunde 10 Milliarden US-Dollar einnehmen</title>
-      <link>https://www.heise.de/news/Blue-Origin-will-in-erster-Finanzierungsrunde-10-Milliarden-US-Dollar-einnehmen-11359772.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359772</guid>
-      <description><![CDATA[Das US-Raumfahrtunternehmen Blue Origin hat die erste Finanzierungsrunde in seiner Geschichte initiiert. Zu den Investoren gehört auch der Gründer.]]></description>
-      <pubDate>Thu, 09 Jul 2026 14:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Deepfakes: So lassen sich KI-Gesichter besser erkennen</title>
-      <link>https://www.golem.de/news/deepfakes-so-lassen-sich-ki-gesichter-besser-erkennen-2607-210707.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/deepfakes-so-lassen-sich-ki-gesichter-besser-erkennen-2607-210707.html</guid>
-      <description><![CDATA[Forscher haben herausgefunden, dass Menschen mit einem kurzen Training deutlich besser darin werden, künstlich erzeugte Gesichter zu entlarven. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/studie/">Studien</a>)]]></description>
-      <pubDate>Thu, 09 Jul 2026 14:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Künstliche Intelligenz prägt zunehmend nicht-technische Jobtitel</title>
-      <link>https://www.heise.de/news/HR-AI-Automation-Manager-gesucht-KI-schafft-neue-Berufsbilder-11359776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359776</guid>
-      <description><![CDATA[KI hält nicht nur als Tool Einzug in die Arbeitswelt, sondern auch immer mehr in Berufsbilder und Jobtitel – sogar bei klassischen Jobs wie Sachbearbeitung.]]></description>
-      <pubDate>Thu, 09 Jul 2026 14:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Ohne Weltraumschrott: Blendwaffe macht Satelliten temporär unbrauchbar</title>
-      <link>https://www.golem.de/news/ohne-weltraumschrott-blendwaffe-macht-satelliten-temporaer-unbrauchbar-2607-210700.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/ohne-weltraumschrott-blendwaffe-macht-satelliten-temporaer-unbrauchbar-2607-210700.html</guid>
-      <description><![CDATA[Das System kann gezielt Spionage- und Kommunikationssatelliten unbrauchbar machen, ohne sie zu zerstören. Es ist jetzt einsatzbereit. (<a href="https://www.golem.de/specials/spionage/">Spionage</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
-      <pubDate>Thu, 09 Jul 2026 14:12:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Software-Support auch extern – SAP wendet EU-Strafe ab</title>
-      <link>https://www.heise.de/news/Software-Support-auch-extern-SAP-wendet-EU-Strafe-ab-11359784.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359784</guid>
-      <description><![CDATA[Der Softwarekonzern SAP hat mit Zusagen eine drohende EU-Strafe abgewendet. Kunden sollen künftig mehr Flexibilität bei Wartung und Support erhalten.]]></description>
-      <pubDate>Thu, 09 Jul 2026 13:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Coupé und Spider: BYDs neuer Denza-Supersportwagen hat 1.604 PS</title>
-      <link>https://www.golem.de/news/coupe-und-spider-byds-neuer-denza-supersportwagen-hat-1-604-ps-2607-210706.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/coupe-und-spider-byds-neuer-denza-supersportwagen-hat-1-604-ps-2607-210706.html</guid>
-      <description><![CDATA[Den Denza Z von BYD wird es in drei regulären Optionen geben - mit brachialer Leistung, schneller Beschleunigung und ansehnlichem Design. (<a href="https://www.golem.de/specials/byd/">BYD</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
-      <pubDate>Thu, 09 Jul 2026 13:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Meteotime: Über DCF77 versorgte Wetterstationen seit Tagen ohne Prognosedaten</title>
-      <link>https://www.heise.de/news/Meteotime-Ueber-DCF77-versorgte-Wetterstationen-seit-Tagen-ohne-Prognosedaten-11359522.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359522</guid>
-      <description><![CDATA[Über das offizielle deutsche Zeitsignal DCF77 werden auch Wetterstationen mit Prognosedaten versorgt. Das klappt aber seit Anfang des Monats nicht mehr.]]></description>
-      <pubDate>Thu, 09 Jul 2026 13:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] AGB: Telefónica darf Flatrate-Kunden nicht willkürlich kündigen</title>
-      <link>https://www.golem.de/news/agb-telefonica-darf-flatrate-kunden-nicht-willkuerlich-kuendigen-2607-210705.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/agb-telefonica-darf-flatrate-kunden-nicht-willkuerlich-kuendigen-2607-210705.html</guid>
-      <description><![CDATA[Telefónica behielt sich vor, Kunden bei starker Nutzung einer mobilen Flatrate jederzeit den Zugang zu entziehen. Das Oberlandesgericht Bamberg hat dies jetzt beendet. (<a href="https://www.golem.de/specials/flatrate/">Flatrate</a>, <a href="https://www.golem.de/specials/verbraucherschutz/">Verbraucherschutz</a>)]]></description>
-      <pubDate>Thu, 09 Jul 2026 13:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Robostral Navigate: Mistral veröffentlicht Einzelkamera-KI für die Roboter</title>
-      <link>https://www.heise.de/news/Robostral-Navigate-Mistral-veroeffentlicht-Einzelkamera-KI-fuer-die-Roboter-11355527.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11355527</guid>
-      <description><![CDATA[Mistral AI stellt Robostral Navigate vor – ein 8B-Modell, das Roboter allein per RGB-Kamera und Sprachanweisung navigiert.]]></description>
-      <pubDate>Thu, 09 Jul 2026 13:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] EU-Gerichtshof stärkt Widerrufsrecht bei Streaming-Abos</title>
-      <link>https://www.heise.de/news/EU-Gerichtshof-staerkt-Widerrufsrecht-bei-Streaming-Abos-11359594.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359594</guid>
-      <description><![CDATA[Wer ein Streaming-Abo abschließt und direkt Serien schauen möchte, muss teils auf Widerrufsrecht verzichten. EuGH-Urteil mischt Karten neu.]]></description>
-      <pubDate>Thu, 09 Jul 2026 13:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Urban Games: Transport Fever 3 soll einen der größten Community-Wünsche erfüllen</title>
-      <link>https://www.golem.de/news/urban-games-transport-fever-3-soll-einen-der-groessten-community-wuensche-erfuellen-2607-210699.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/urban-games-transport-fever-3-soll-einen-der-groessten-community-wuensche-erfuellen-2607-210699.html</guid>
-      <description><![CDATA[Dynamische Industrien, zeitkritische Lieferungen und Mods zum Start: Urban Games baut den Nachfolger an vielen Stellen deutlich aus. (<a href="https://www.golem.de/specials/aufbauspiel/">Aufbauspiel</a>, <a href="https://www.golem.de/specials/games/">Spiele</a>)]]></description>
-      <pubDate>Thu, 09 Jul 2026 13:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Glosse: Der Wille des Volkes</title>
-      <link>https://www.heise.de/meinung/Glosse-Der-Wille-des-Volkes-11359437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359437</guid>
-      <description><![CDATA[Die Bundesregierung schafft die telefonische Krankschreibung ab. Endlich kehren klare Regeln und zeitgemäße Technik zurück. Eine Glosse.]]></description>
-      <pubDate>Thu, 09 Jul 2026 12:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Screenshots für die Ohren: Nothing Ear (3a) im Test</title>
-      <link>https://www.digitec.ch/de/page/screenshots-fuer-die-ohren-nothing-ear-3a-im-test-43210?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/screenshots-fuer-die-ohren-nothing-ear-3a-im-test-43210</guid>
-      <description><![CDATA[Nothings günstige Kopfhörer sind beim Klang und bei der Geräuschunterdrückung fast so gut wie ihr teureres Schwestermodell. Trotz günstigem Preis gibt es mit «Audio-Screenshots» ein neues Zusatz-Feature.]]></description>
-      <pubDate>Thu, 09 Jul 2026 12:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Chrome-Browser &amp; ChromeOS LTS : Updates schließen teils kritische Lücken</title>
-      <link>https://www.heise.de/news/Chrome-Browser-ChromeOS-LTS-Updates-schliessen-teils-kritische-Luecken-11359376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359376</guid>
-      <description><![CDATA[Fur Windows, macOS, Linux und die Android-Version des Chrome-Browsers sind Sicherheitsupdates verfügbar.  Auch die LTS-Fassung von ChromeOS wurde abgedichtet.]]></description>
-      <pubDate>Thu, 09 Jul 2026 12:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Medizinische Fachangestellte: „E-Patientenakte könnte uns viel Arbeit ersparen“</title>
-      <link>https://www.heise.de/meinung/Medizinische-Fachangestellte-E-Patientenakte-koennte-uns-viel-Arbeit-ersparen-11359063.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359063</guid>
-      <description><![CDATA[Eine Medizinische Fachangestellte erklärt, warum die ePA ihr Zeit und Nerven im Praxisalltag sparen könnte.]]></description>
-      <pubDate>Thu, 09 Jul 2026 11:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] SpaceXAI stellt KI-Modell Grok 4.5 vor – EU-Nutzer müssen warten</title>
-      <link>https://www.heise.de/news/SpaceXAI-stellt-KI-Modell-Grok-4-5-vor-EU-Nutzer-muessen-warten-11359262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359262</guid>
-      <description><![CDATA[SpaceXAI hat mit Grok 4.5 ein neues KI-Flaggschiff vorgestellt, das besonders bei Coding-Aufgaben überzeugt. EU-Nutzer müssen sich jedoch bis Juli gedulden.]]></description>
-      <pubDate>Thu, 09 Jul 2026 11:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] City Labs bringt atombetriebenen Satellit ins All</title>
-      <link>https://www.heise.de/news/City-Labs-bringt-atombetriebenen-Satellit-ins-All-11359332.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359332</guid>
-      <description><![CDATA[Das US-Unternehmen City Labs hat einen Satelliten ins All gebracht, der durch den radioaktiven Zerfall von Tritium mit Strom versorgt wird.]]></description>
-      <pubDate>Thu, 09 Jul 2026 10:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] US-Forscher schlägt Methode zum Nachweis von Atomwaffen auf Satelliten vor</title>
-      <link>https://www.heise.de/news/US-Forscher-schlaegt-Methode-zum-Nachweis-von-Atomwaffen-auf-Satelliten-vor-11359134.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11359134</guid>
-      <description><![CDATA[Die Stationierung von Atomwaffen im Weltraum ist untersagt, kontrollieren lässt sich das aber nicht. Nun gibt es einen Vorschlag, wie das geändert werden kann.]]></description>
-      <pubDate>Thu, 09 Jul 2026 10:37:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
