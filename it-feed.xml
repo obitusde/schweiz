@@ -5,8 +5,50 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Sun, 12 Jul 2026 04:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 10:28:19 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Heise] Gesetzesentwurf: Bundesrat will Datenschutz für Firmen und NGOs vereinfachen</title>
+      <link>https://www.heise.de/news/BDSG-Reform-Bundesrat-will-Ende-des-Datenschutz-Flickenteppichs-11361882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361882</guid>
+      <description><![CDATA[Mit einer gestärkten Datenschutzkonferenz und dem Einer-für-Alle-Prinzip soll die Aufsicht für die Wirtschaft laut einem Vorstoß der Länder effizienter werden.]]></description>
+      <pubDate>Sun, 12 Jul 2026 09:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] VW-Chef: „Intelligentere Lösungen“ als Werksschließungen</title>
+      <link>https://www.heise.de/news/VW-Chef-Intelligentere-Loesungen-als-Werksschliessungen-11361870.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11361870</guid>
+      <description><![CDATA[VW plant Großumbau: Über 100.000 Stellen und Standorte in Gefahr. Konzernchef Blume sieht „intelligentere Lösungen“ statt Werksschließungen.]]></description>
+      <pubDate>Sun, 12 Jul 2026 09:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Vorschlag aus China: Asteroidenabwehr mit Atombomben</title>
+      <link>https://www.golem.de/news/vorschlag-aus-china-asteroidenabwehr-mit-atombomben-2607-210733.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/vorschlag-aus-china-asteroidenabwehr-mit-atombomben-2607-210733.html</guid>
+      <description><![CDATA[Chinesische Forscher schlagen den Einsatz von Nuklearsprengkörpern zur Abwehr von großen Asteroiden vor. (<a href="https://www.golem.de/specials/china/">China</a>, <a href="https://www.golem.de/specials/raumfahrt/">Raumfahrt</a>)]]></description>
+      <pubDate>Sun, 12 Jul 2026 08:57:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Indie-Dev fordert Steam zur Anpassung der Rückerstattungspolitik auf</title>
+      <link>https://www.digitec.ch/de/page/indie-dev-fordert-steam-zur-anpassung-der-rueckerstattungspolitik-auf-43238?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/indie-dev-fordert-steam-zur-anpassung-der-rueckerstattungspolitik-auf-43238</guid>
+      <description><![CDATA[Wer auf Steam ein Spiel weniger als zwei Stunden zockt, bekommt sein Geld problemlos zurück. Für kurze Games wird diese Kulanz schnell zur Bedrohung.]]></description>
+      <pubDate>Sun, 12 Jul 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Wie Metas Kurswechsel die VR-Spielebranche verändert hat</title>
+      <link>https://www.heise.de/hintergrund/Wie-Metas-Kurswechsel-die-VR-Spielebranche-veraendert-hat-11359238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11359238</guid>
+      <description><![CDATA[Der wichtigste Geldgeber für VR-Spiele hat sich zurückgezogen und die Branche grundlegend verändert. Doch inmitten der Krise formieren sich neue Kräfte.]]></description>
+      <pubDate>Sun, 12 Jul 2026 05:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Maschinenträume 3: KI = Künstliche Ignoranz?</title>
+      <link>https://www.golem.de/news/maschinentraeume-3-ki-kuenstliche-ignoranz-2607-210677.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/maschinentraeume-3-ki-kuenstliche-ignoranz-2607-210677.html</guid>
+      <description><![CDATA[Skalierung wird alle Probleme lösen, sagen KI-Fans. Aber: Theoretische Grenzen haben praktische Konsequenzen. Und praktische Grenzen haben reale Konsequenzen. Und am Ende hat die Realität sowieso immer Recht. Ein Deep Dive von P. R. Rhesia (<a href="https://www.golem.de/specials/maschinentraeume/">Maschinenträume</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Sun, 12 Jul 2026 05:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>[Heise] Laser-Engraver &amp; Cutter ab 99 € okay, ab 650 € top</title>
       <link>https://www.heise.de/bestenlisten/testsieger/testsieger-die-beste-laser-graviermaschine-im-test-ab-99-euro-okay-ab-650-euro-top/130e7ry?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -69,62 +111,6 @@
       <guid isPermaLink="false">https://www.golem.de/news/starlink-spacex-will-weitere-100-000-satelliten-starten-2607-210772.html</guid>
       <description><![CDATA[SpaceX plant bis zu 100.000 weitere Starlink-Satelliten. Das Vorhaben verspricht mehr Leistung, wirft aber neue Fragen auf. (<a href="https://www.golem.de/specials/starlink/">Starlink</a>, <a href="https://www.golem.de/specials/fcc/">FCC</a>)]]></description>
       <pubDate>Sat, 11 Jul 2026 11:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro</title>
-      <link>https://www.golem.de/news/elektroauto-vw-id-polo-trend-startet-ab-24-995-euro-2607-210771.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/elektroauto-vw-id-polo-trend-startet-ab-24-995-euro-2607-210771.html</guid>
-      <description><![CDATA[Volkswagen öffnet den Konfigurator für die günstigste Ausstattungslinie des ID. Polo ab Mitte Juli. (<a href="https://www.golem.de/specials/volkswagen-id/">Volkswagen ID.</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
-      <pubDate>Sat, 11 Jul 2026 10:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Apple verklagt OpenAI: Diebstahl von geistigem Eigentum und Geschäftsgeheimnissen</title>
-      <link>https://www.golem.de/news/apple-verklagt-openai-diebstahl-von-geistigem-eigentum-und-geschaeftsgeheimnissen-2607-210770.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/apple-verklagt-openai-diebstahl-von-geistigem-eigentum-und-geschaeftsgeheimnissen-2607-210770.html</guid>
-      <description><![CDATA[In der Klageschrift unterstellt Apple OpenAI ein methodisches Vorgehen, das auf allen Ebenen geplant worden sei. (<a href="https://www.golem.de/specials/apple/">Apple</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
-      <pubDate>Sat, 11 Jul 2026 09:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Spionageaktion: Nato-Transportwege mit gehackten Kameras ausgespäht</title>
-      <link>https://www.golem.de/news/spionageaktion-nato-transportwege-mit-gehackten-kameras-ausgespaeht-2607-210769.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/spionageaktion-nato-transportwege-mit-gehackten-kameras-ausgespaeht-2607-210769.html</guid>
-      <description><![CDATA[In einer gezielten Operation soll Russland IP-Kameras von Privatpersonen gehackt haben, um militärische Transportrouten auszuspähen. (<a href="https://www.golem.de/specials/russland/">Russland</a>, <a href="https://www.golem.de/specials/digitalkamera/">Kameras</a>)]]></description>
-      <pubDate>Sat, 11 Jul 2026 08:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Meta kopiert Instagram-Stile, Sony belebt die Bridgekamera – Fotonews 28/2026</title>
-      <link>https://www.heise.de/news/Meta-kopiert-Instagram-Stile-Sony-belebt-die-Bridgekamera-Fotonews-28-2026-11360703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360703</guid>
-      <description><![CDATA[Meta startet „Muse Image“: Eine KI durchforstet öffentliche Instagram-Profile und Sony bringt die Bridgekamera zurück.]]></description>
-      <pubDate>Sat, 11 Jul 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Kommentar: Das BSI darf nicht zum Zero-Day-Hoflieferanten des BND werden</title>
-      <link>https://www.heise.de/meinung/Kommentar-Das-BSI-darf-nicht-zum-Zero-Day-Hoflieferanten-des-BND-werden-11361331.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11361331</guid>
-      <description><![CDATA[Der Entwurf zur Nachrichtendienstrecht-Reform würde das BSI verpflichten, Zero-Days an den BND zu leiten. Das darf nicht passieren, findet Dennis-Kenji Kipker.]]></description>
-      <pubDate>Sat, 11 Jul 2026 06:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Warm versus monochrom: Die Bilder der Woche 28</title>
-      <link>https://www.heise.de/news/Warm-versus-monochrom-Die-Bilder-der-Woche-28-11360473.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11360473</guid>
-      <description><![CDATA[Diese Woche schafften es Bilder voller Wärme und Dynamik in unsere Auswahl. Die Farbe Grün spielt ausnahmsweise kaum eine Rolle.]]></description>
-      <pubDate>Sat, 11 Jul 2026 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Biozelle: Algen können Batterien ersetzen</title>
-      <link>https://www.golem.de/news/biozelle-algen-koennen-batterien-ersetzen-2607-210742.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/biozelle-algen-koennen-batterien-ersetzen-2607-210742.html</guid>
-      <description><![CDATA[Bei der Photosynthese von Cyanobakterien lässt sich Strom abzweigen. Eine solche Biozelle soll demnächst vermarktet werden können. (<a href="https://www.golem.de/specials/innovation-und-forschung/">Innovation & Forschung</a>, <a href="https://www.golem.de/specials/akku/">Akku</a>)]]></description>
-      <pubDate>Sat, 11 Jul 2026 05:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Gaming: Retro Achievements bringt Trophäen in alte Spiele</title>
-      <link>https://www.golem.de/news/gaming-retro-achievements-bringt-trophaeen-in-alte-spiele-2607-209984.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/gaming-retro-achievements-bringt-trophaeen-in-alte-spiele-2607-209984.html</guid>
-      <description><![CDATA[Fast 1,8 Millionen Spieler sammeln inzwischen Erfolge in Retrogames. Hinter dem Projekt steckt die Idee eines ehemaligen Spieleentwicklers. Von Sönke Siemens und Benedikt Plass-Fleßenkämper (<a href="https://www.golem.de/specials/retrogaming/">Retrogaming</a>, <a href="https://www.golem.de/specials/xbox360/">Xbox 360</a>)]]></description>
-      <pubDate>Sat, 11 Jul 2026 05:30:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
