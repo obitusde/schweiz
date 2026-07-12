@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 12.7.2026, 06:10:26
-Letzter Lauf: 11.7.2026, 12:28:18
+Start: 12.7.2026, 12:28:19
+Letzter Lauf: 12.7.2026, 06:10:26
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,19 +10,27 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Microsoft 365 Copilot für IT-Administratoren'
-- Gelöscht wegen Keyword 'c’t uplink': 'Mit verrückten Gadgets und Klimaanlagen-Tuning gegen die Hitzewelle | c’t uplink'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ryzen-5-Mini-PC mit Windows 11 Pro günstig wie nie für unter 380 Euro'
-- Gelöscht wegen Keyword '(g+)': '(g+) Prozessor-Geschwindigkeit: Warum Zahlen in Textform CPUs ausbremsen können'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: betterCode() Agentic AI: Zusätzlicher Workshop zu Legacy-Modernisierung'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Consul für macOS im Test: Der Formatwandler'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Balkonkraftwerk mit Anker-Speicher bei Kleines Kraftwerk für nur 977 Euro'
+- Gelöscht wegen Keyword '(g+)': '(g+) Technische Dokumentation als Beruf: Gewünschte Kenntnisse? Alles'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Architektur, Engineering und Cloud'
 
-KI-Filter (Gemini) - 12 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Duplikat: Behandelt dasselbe Ereignis wie Artikel ID 1 (Rechtsstreit Apple gegen OpenAI).): 'Apple klagt gegen OpenAI wegen Abwerbung'
-- Weiterhin entfernt (Cache, Grund: Inhaltlich der Kategorie Code-Theorie und Web-Infrastruktur zuzuordnen (behandelt u. a. Vite, Framew): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
-- Gelöscht (Grund: Dieser Artikel behandelt ein Werkzeug speziell für die Softwareentwicklung (Claude Code) und fällt damit unter die Kategorie Code-Theorie und Entwickler-Tools.): 'Künstliche Intelligenz: Anthropic spendiert Claude Code einen eingebauten Browser'
-- Gelöscht (Grund: Das iPhone ist ein explizit genanntes hartes Ausschlusskriterium. Zudem thematisiert der Artikel interne PC-Komponenten (Chips/Speicher).): 'Apple: Speicherpreise treiben Preis für iPhone 18 Pro Max'
-- Gelöscht (Grund: Dieser Artikel befasst sich mit Enterprise-IT und der strategischen Software-Infrastruktur einer großen Organisation.): 'Digitale Souveränität: Schweizer Armee verlässt Microsoft'
+KI-Filter (Gemini) - 8 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Dieser Artikel behandelt ein Werkzeug speziell für die Softwareentwicklung (Claude Code) und fällt d): 'Künstliche Intelligenz: Anthropic spendiert Claude Code einen eingebauten Browser'
+- Weiterhin entfernt (Cache, Grund: Das iPhone ist ein explizit genanntes hartes Ausschlusskriterium. Zudem thematisiert der Artikel int): 'Apple: Speicherpreise treiben Preis für iPhone 18 Pro Max'
+- Weiterhin entfernt (Cache, Grund: Dieser Artikel befasst sich mit Enterprise-IT und der strategischen Software-Infrastruktur einer gro): 'Digitale Souveränität: Schweizer Armee verlässt Microsoft'
+- Gelöscht (Grund: Behandelt interne PC-Komponenten (Speicherchips/RAM).): 'Nasdaq: Hynix-CEO erwartet schwersten Engpass bei Speicherchips'
+- Gelöscht (Grund: Behandelt Netzwerk-Infrastruktur (VPN/WireGuard-Tunnel).): 'Video: VPN im Urlaub – Abo kaufen oder kostenlos selbst bauen?'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Gesetzesentwurf: Bundesrat will Datenschutz für Firmen und NGOs vereinfachen
+- [Heise] VW-Chef: „Intelligentere Lösungen“ als Werksschließungen
+- [Golem] Vorschlag aus China: Asteroidenabwehr mit Atombomben
+- [Digitec] Indie-Dev fordert Steam zur Anpassung der Rückerstattungspolitik auf
+- [Heise] Wie Metas Kurswechsel die VR-Spielebranche verändert hat
+- [Golem] Maschinenträume 3: KI = Künstliche Ignoranz?
 - [Heise] Laser-Engraver & Cutter ab 99 € okay, ab 650 € top
 - [Heise] Flugtaxis: Erste Testflüge für US-Zertifizierung
 - [Heise] Meta schaltet KI-Generierung aus Instagram-Stilen ab
@@ -32,11 +40,3 @@ Finale Liste (live im XML-Feed):
 - [Golem] Sonnenlichtspiegel im Weltall: FCC gibt Erlaubnis für Demonstrationssatelliten
 - [Heise] Bundesnetzagentur liefert erste Ergebnisse der Mobilfunkmesswoche
 - [Golem] Starlink: SpaceX will weitere 100.000 Satelliten starten
-- [Golem] Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro
-- [Golem] Apple verklagt OpenAI: Diebstahl von geistigem Eigentum und Geschäftsgeheimnissen
-- [Golem] Spionageaktion: Nato-Transportwege mit gehackten Kameras ausgespäht
-- [Heise] Meta kopiert Instagram-Stile, Sony belebt die Bridgekamera – Fotonews 28/2026
-- [Heise] Kommentar: Das BSI darf nicht zum Zero-Day-Hoflieferanten des BND werden
-- [Heise] Warm versus monochrom: Die Bilder der Woche 28
-- [Golem] Biozelle: Algen können Batterien ersetzen
-- [Golem] Gaming: Retro Achievements bringt Trophäen in alte Spiele
