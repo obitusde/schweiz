@@ -5,161 +5,126 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Sat, 11 Jul 2026 04:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 04:59:31 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Gesellschaft] Polizeieinsatz in Berlin: Mann nimmt Geisel in Berliner Supermarkt</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/geiselnahme-supermarkt-berlin-polizei-marienfelde</link>
-      <guid isPermaLink="false">{urn:uuid:d8108965-d397-434b-9949-7963e9344d7d}</guid>
-      <description><![CDATA[Ein Mann hat eine Frau in einem Supermarkt im Berliner Stadtteil Marienfelde in seine Gewalt gebracht. Die Polizei ist mit einem Großaufgebot im Einsatz.]]></description>
-      <pubDate>Sat, 11 Jul 2026 04:52:32 GMT</pubDate>
+      <title>[Gesellschaft] Ertrinken bei Hitzewellen: Rettungsschwimmer melden rund 100 Badetote im Juni</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/ertrinken-hitzewelle-juni-dlrg-maenner</link>
+      <guid isPermaLink="false">{urn:uuid:fdc10989-4f47-429d-ae4c-88dce2123c76}</guid>
+      <description><![CDATA[Im vergangenen Monat sind bundesweit so viele Menschen ertrunken wie seit 2003 nicht mehr in einem Juni. Fast alle waren Männer, ein Großteil unter 30 Jahre alt.]]></description>
+      <pubDate>Sun, 12 Jul 2026 04:10:51 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Hitzerechte von Mietern: Kann ich wegen Hitze meine Miete mindern?</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/hitze-rechte-mieter-temperatur-entschaedigung-vermieter/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:664f84c7-0d04-44ad-94eb-b9b41a106f2d}</guid>
-      <description><![CDATA[Bei hohen Temperaturen verwandeln sich Wohnungen schnell in eine Sauna. Manche Mieter können auf Entschädigung hoffen. Welche juristischen Hürden es gibt.]]></description>
-      <pubDate>Sat, 11 Jul 2026 03:10:31 GMT</pubDate>
+      <title>[Digital] KI für die Steuerberatung: Mein Steuerberater? Ist jetzt die KI</title>
+      <link>https://www.zeit.de/digital/2026-07/kuenstliche-intelligenz-steuerberatung-chatbots-steuererklaerung/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:dd1ec487-7ed0-4933-9bb4-3c2e892c9ef1}</guid>
+      <description><![CDATA[KI soll auch bei der Steuererklärung helfen können. Wirklich? Ein Chatbot hat unseren Autor beraten – und Dinge zum Absetzen gefunden, an die er selbst nie gedacht hätte.]]></description>
+      <pubDate>Sun, 12 Jul 2026 03:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Erdbeben in Venezuela: Zahl der Erdbebentoten in Venezuela steigt auf über 4.000</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/venezuela-erdbeben-tote-zahl-anstieg-vermisste-verletzte</link>
-      <guid isPermaLink="false">{urn:uuid:334948cd-3513-4453-b033-d457df5c7757}</guid>
-      <description><![CDATA[Zwei Wochen nach den schweren Erdbeben in Venezuela ist die Zahl der Toten auf 4.118 gestiegen. Fast 17.000 Menschen wurden verletzt. Tausende werden weiter vermisst.]]></description>
-      <pubDate>Sat, 11 Jul 2026 00:22:31 GMT</pubDate>
+      <title>[Arbeit] Lehrer: »Es ist alles moderner und wir haben kleinere Klassen«</title>
+      <link>https://www.zeit.de/arbeit/2026-07/lehrer-oberstufenleiter-schule-einkommen-kontoauszug/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:654a7ec9-1d68-449e-941d-cbe3716e0ec2}</guid>
+      <description><![CDATA[Moderner und kleinere Klassen: Rufus, 51, ist als Lehrer von einer staatlichen auf eine Privatschule gewechselt. Seinen Beamtenstatus konnte er behalten. Der Kontoauszug]]></description>
+      <pubDate>Sun, 12 Jul 2026 03:21:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Klimaziel für Deutschland: Industrie und Gewerkschaft dringen auf neues Klimaziel</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/klimaneutralitaet-deutschland-2045-2050-industrie-eu-emissionshandel</link>
-      <guid isPermaLink="false">{urn:uuid:8e28764f-3071-40ad-8e47-ca386733047d}</guid>
-      <description><![CDATA[Vertreter aus Wirtschaft und Gewerkschaften fordern, Deutschlands Ziel für Klimaneutralität um fünf Jahre zu verschieben. Statt 2045 solle 2050 gelten.]]></description>
-      <pubDate>Fri, 10 Jul 2026 23:53:07 GMT</pubDate>
+      <title>[Mobilität] Bahnstrecke Düsseldorf–Köln: Bahnstrecke zwischen Düsseldorf und Köln wieder freigegeben</title>
+      <link>https://www.zeit.de/mobilitaet/2026-07/bahnstrecke-duesseldorf-koeln-brandanschlag-gesperrt</link>
+      <guid isPermaLink="false">{urn:uuid:7544e5b2-67a7-4d9e-a867-c16763f45ceb}</guid>
+      <description><![CDATA[Nach dem mutmaßlichen Brandanschlag läuft der Zugverkehr wieder ohne Einschränkungen. Ermittler gehen davon aus, dass das Feuer vorsätzlich gelegt worden war.]]></description>
+      <pubDate>Sat, 11 Jul 2026 20:03:15 GMT</pubDate>
     </item>
     <item>
-      <title>[Digital] Techkonzerne: Apple verklagt OpenAI wegen Diebstahls von Firmengeheimnissen</title>
-      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/apple-openai-klage-geschaeftsgeheimnisse-tang-tan-chang-liu</link>
-      <guid isPermaLink="false">{urn:uuid:2fc9899e-3a3d-43f7-b7a6-263d588ddd68}</guid>
-      <description><![CDATA[Apple wirft ehemaligen Mitarbeitern vor, Geschäftsgeheimnisse an OpenAI weitergegeben zu haben. Der Konzern sieht dahinter eine Strategie des ChatGPT-Entwicklers.]]></description>
-      <pubDate>Fri, 10 Jul 2026 22:43:48 GMT</pubDate>
+      <title>[Gesellschaft] Geiselnahme in Berlin: »Was soll die Frau denn jetzt aus ihrem Leben machen?«</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/geiselnahme-berlin-marienfelde-supermarkt-rewe-sek</link>
+      <guid isPermaLink="false">{urn:uuid:336fef15-23a3-4d73-b5d9-ba7c594c35ed}</guid>
+      <description><![CDATA[Mehr als elf Stunden war eine Kassiererin in der Gewalt eines Geiselnehmers, bis das SEK sie befreite. So hat eine Berliner Familie die Tatnacht vom Balkon aus miterlebt.]]></description>
+      <pubDate>Sat, 11 Jul 2026 19:55:10 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Reflecting Pool am Lincoln Memorial: Wasserbecken am Lincoln Memorial wird ausgepumpt</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/reflecting-pool-lincoln-memorial-renovierung-donald-trump</link>
-      <guid isPermaLink="false">{urn:uuid:5da93ece-f26f-4ed3-b093-913c0bfd1fec}</guid>
-      <description><![CDATA[Donald Trump hatte den Reflecting Pool für die Unabhängigkeitsfeier renovieren lassen wollen. Seitdem gibt es Probleme. Nach der Feier wagt er einen neuen Versuch.]]></description>
-      <pubDate>Fri, 10 Jul 2026 18:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] Altbauten in New York: Und im 21. Stock bröselt der Beton</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/altbauten-new-york-gebaeude-wolkenkratzer-manhattan-usa/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:54f26e32-8383-4bf0-9d0f-c5489975e627}</guid>
-      <description><![CDATA[Ein Wolkenkratzer in Manhattan drohte einzustürzen. Für Bürgermeister Zohran Mamdani ist das nicht nur ein Sicherheitsproblem. Er hatte mit dem Gebäude große Pläne.]]></description>
-      <pubDate>Fri, 10 Jul 2026 17:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Entdecken] Gefälschte Fußballtrikots: 100 Euro für ein Trikot? Dann doch lieber den Superfake aus China</title>
-      <link>https://www.zeit.de/2026/30/gefaelschte-fussballtrikots-fake-sportartikel-zoll/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:a557b591-6898-4348-a191-62cab3449c37}</guid>
-      <description><![CDATA[Während der Fußball-WM boomt das Geschäft mit gefälschten Trikots im Internet. Wir wollten wissen: Wie gut sind die gemacht? Und lohnt sich das lange Warten?]]></description>
-      <pubDate>Fri, 10 Jul 2026 16:57:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Mobilität] Taxiunternehmen: Taxi Tekath ist ihr Leben</title>
-      <link>https://www.zeit.de/zeit-fuer-unternehmer/2026/02/taxiunternehmen-busfahrten-oeffentlicher-nahverkehr-spritpreise/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:2243a6b3-dcde-4f97-a539-2e7652fe98a1}</guid>
-      <description><![CDATA[Wie hält man ein Taxiunternehmen am Laufen, wenn die Spritpreise explodieren und Uber die Preise drückt? Ein Tag mit Nele Tekath zeigt es.]]></description>
-      <pubDate>Fri, 10 Jul 2026 16:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digital] Chatkontrolle in der EU: Jetzt sollen wieder Chats kontrolliert werden</title>
-      <link>https://www.zeit.de/digital/datenschutz/2026-07/chatkontrolle-eu-messenger-kindesmissbrauch-faq</link>
-      <guid isPermaLink="false">{urn:uuid:6929cb76-9e3b-4983-accb-df0f2c2daf0f}</guid>
-      <description><![CDATA[Die EU will Techkonzernen erlauben, digitale Nachrichten zu scannen. Hilft das gegen Kindesmissbrauch? Betrifft die Kontrolle auch verschlüsselte Chats? Ein Überblick]]></description>
-      <pubDate>Fri, 10 Jul 2026 15:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Gesellschaft] Witze: Mit diesen 111 Dad-Jokes kommen Sie durch den Sommer</title>
-      <link>https://www.zeit.de/familie/2026-07/witze-dad-jokes-vaeter-kinder-humor</link>
-      <guid isPermaLink="false">{urn:uuid:c0cf5852-92fc-4b16-be21-ae9216b0be79}</guid>
-      <description><![CDATA[Warum braucht man Seeräuber, um einen Kreisumfang zu berechnen? Weil sie Pi raten. Sie haben noch nicht genug? Dann sind Sie vermutlich reif für unsere 111 Flachwitze.]]></description>
-      <pubDate>Fri, 10 Jul 2026 13:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Mobilität] Ryanair: Passagier auf Ryanair-Flug fast durch Fenster hinausgezogen</title>
-      <link>https://www.zeit.de/mobilitaet/2026-07/ryanair-flug-fenster-bruch-thessaloniki-muenchen-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:aa61fddd-1203-4fb2-a98b-10d56ecfbe4d}</guid>
-      <description><![CDATA[Auf einem Flug von Griechenland nach Deutschland zerbirst ein Kabinenfenster, ein Passagier wird fast aus der Maschine gesogen. Reisende schildern dramatische Szenen.]]></description>
-      <pubDate>Fri, 10 Jul 2026 13:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Wirtschaft] GKV-Reform: Viele kleine Pflaster, aber kein Heilmittel</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/gkv-reform-bundesregierung-sparpaket-gesundheitssystem</link>
-      <guid isPermaLink="false">{urn:uuid:27ed925c-be0a-4553-8550-2d0f0e967727}</guid>
-      <description><![CDATA[Mit dem Sparpaket für die Krankenkassen erkauft sich die Politik Zeit. Den Preis dafür zahlen die Patienten. Umso wichtiger ist es jetzt, ihre Versorgung zu verbessern.]]></description>
-      <pubDate>Fri, 10 Jul 2026 12:59:58 GMT</pubDate>
+      <title>[Gesellschaft] Versuchter Femizid: Wie weiterleben, nachdem der eigene Partner einen töten wollte?</title>
+      <link>https://www.zeit.de/familie/2026-07/femizid-partnerschaft-toetung-weiterleben/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:9066d8ef-20df-42f2-aad5-a9b29709c029}</guid>
+      <description><![CDATA[Zehn Jahre waren sie ein Paar, dann versuchte er sie zu töten. Seitdem ist Wendy querschnittsgelähmt – und alleinerziehend.]]></description>
+      <pubDate>Sat, 11 Jul 2026 17:53:21 GMT</pubDate>
     </item>
     <item>
       <title>[Digital] Backrooms: Das Internet ist noch gruseliger, als Sie dachten</title>
       <link>https://www.zeit.de/digital/internet/2026-07/backrooms-horror-internet-kino-indie-internetkolumne</link>
       <guid isPermaLink="false">{urn:uuid:ff0fddfc-8d6f-4a16-acfa-61a74d198a14}</guid>
-      <description><![CDATA[Kino-Erfolge wie »Backrooms« haben ihren Ursprung in einer Indie-Horror-Szene, wie sie nur im Internet entstehen konnte. Besuch in einem schaurigen Paralleluniversum.]]></description>
-      <pubDate>Fri, 10 Jul 2026 12:25:15 GMT</pubDate>
+      <description><![CDATA[Kino-Erfolge wie »Backrooms« haben ihren Ursprung in einer Indie-Horror-Szene, wie sie nur im Internet entstehen konnte. Besuch in einem schaurigen Paralleluniversum]]></description>
+      <pubDate>Sat, 11 Jul 2026 17:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Digital] Verfahren gegen Meta: EU fordert wegen Suchtgefahr Änderungen bei Instagram und Facebook</title>
-      <link>https://www.zeit.de/digital/2026-07/meta-eu-kommission-instagram-facebook-suchtgefahr-kinder</link>
-      <guid isPermaLink="false">{urn:uuid:1f66c034-0c31-4e65-bc20-c124eb87dc14}</guid>
-      <description><![CDATA[Weil Nutzern endlos neuer Content angezeigt wird, wirft die EU Instagram und Facebook vor, den Schutz vor Sucht zu vernachlässigen. Dem Konzern droht eine Geldstrafe.]]></description>
-      <pubDate>Fri, 10 Jul 2026 12:17:55 GMT</pubDate>
+      <title>[Digital] Apple verklagt OpenAI: Es geht um das Wettrennen zweier Giganten</title>
+      <link>https://www.zeit.de/digital/2026-07/apple-klage-openai-chatgpt-geschaeftsgeheimnisse-diebstahl</link>
+      <guid isPermaLink="false">{urn:uuid:946ea91a-a543-40cd-8f15-9e1d55e3abe9}</guid>
+      <description><![CDATA[Apple verklagt OpenAI. Der Vorwurf: die ChatGPT-Firma klaue Geheimisse. Die Klage könnte weitreichende Folgen haben. Auch für den geplanten Börsengang.]]></description>
+      <pubDate>Sat, 11 Jul 2026 16:56:12 GMT</pubDate>
     </item>
     <item>
-      <title>[Mobilität] Volkswagen: VW-Absatz sinkt im zweiten Quartal um 8,6 Prozent</title>
-      <link>https://www.zeit.de/mobilitaet/2026-07/volkswagen-absatz-rueckgang-china-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:c1c8c4aa-3967-4a45-b4ae-1365f0759f79}</guid>
-      <description><![CDATA[Volkswagen hat im zweiten Quartal deutlich weniger Autos verkauft als im Vorjahreszeitraum. Besonders in China ist der Absatz eingebrochen.]]></description>
-      <pubDate>Fri, 10 Jul 2026 10:21:02 GMT</pubDate>
+      <title>[Digital] Geräte für den Sommer: 13 Gadgets, die Ihren Sommer besser machen</title>
+      <link>https://www.zeit.de/digital/mobil/2026-07/geraete-sommer-gadgets-grill-kamera-ventilator</link>
+      <guid isPermaLink="false">{urn:uuid:70460bd1-98ef-418a-928b-2bbc43065863}</guid>
+      <description><![CDATA[Ein schlauer Grill, eine superkleine Kamera, ein Ventilator mit kühlem Nebel. Wir haben Geräte getestet, die durch heiße Tage helfen und im Urlaub Spaß bringen.]]></description>
+      <pubDate>Sat, 11 Jul 2026 15:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>[Entdecken] Fußball-WM: Mitleid mit Infantino</title>
-      <link>https://www.zeit.de/2026/30/fussball-wm-alltag-zeitverschiebung-berichterstattung</link>
-      <guid isPermaLink="false">{urn:uuid:e8510ca0-b4ef-41f7-8ad6-1ec80391da65}</guid>
-      <description><![CDATA[Die Folgen des allnächtlichen Fußballguckens: Beim Kaffeemachen denkt man an »Hydration Break« und bei Spültabs an die »Boxbesetzung« – unser Autor hat einen WM-Koller.]]></description>
-      <pubDate>Fri, 10 Jul 2026 08:43:34 GMT</pubDate>
+      <title>[Gesellschaft] Waldbrand in Andalusien: Andalusische Regierung vermutet viele Touristen unter Waldbrandopfern</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/waldbrand-andalusien-almeria-tote-evakuierung-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:3e2b5b54-3f14-4188-85d7-c6fd115fbde2}</guid>
+      <description><![CDATA[Der Waldbrand in Andalusien hat bisher 6.600 Hektar zerstört und mindestens zwölf Menschen getötet. Die Suche nach Vermissten läuft. Kanzler Merz zeigt sich erschüttert.]]></description>
+      <pubDate>Sat, 11 Jul 2026 13:38:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Bundeskartellamt: Rund 80 Prozent des Tankrabatts bei Autofahrern angekommen</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/tankrabatt-bundeskartellamt-benzinpreise-diesel-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:40a1253e-e294-464f-a655-8a2157d82539}</guid>
-      <description><![CDATA[Der größte Teil des Tankrabatts ist an die Verbraucher weitergegeben worden. Das Bundeskartellamt spricht von einer Preislücke von knapp vier Cent.]]></description>
-      <pubDate>Fri, 10 Jul 2026 08:39:20 GMT</pubDate>
+      <title>[Mobilität] VW-Krise: Volkswagen-Betriebsrat sieht Vertrauensverlust bei Belegschaft</title>
+      <link>https://www.zeit.de/mobilitaet/2026-07/vw-krise-oliver-blume-betriebsrat-stellenabbau-werke</link>
+      <guid isPermaLink="false">{urn:uuid:1647fdb3-67e5-4bc8-91ed-586abc7d8021}</guid>
+      <description><![CDATA[Die Stimmung in der Volkswagen-Belegschaft ist schlecht. VW-Chef Oliver Blume macht dem Betriebsrat Vorwürfe wegen fehlender Kommunikation. Es gab erste Proteste.]]></description>
+      <pubDate>Sat, 11 Jul 2026 12:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] VW-Konzern: Oliver Blume kündigt größte Neuausrichtung in VW-Geschichte an</title>
-      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/vw-konzern-oliver-blume-neuausrichtung-kostensenkung-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:c23c3610-0e57-4a82-8bc7-0d08d925f370}</guid>
-      <description><![CDATA[Die geplanten Sparmaßnahmen bei VW sorgen für heftige Kritik. Konzernchef Oliver Blume verteidigt die Pläne, äußert sich aber weiter nicht konkret zum Stellenabbau.]]></description>
-      <pubDate>Fri, 10 Jul 2026 08:01:32 GMT</pubDate>
+      <title>[Wirtschaft] Drogenhandel: German Wunderkind, Drogenedition</title>
+      <link>https://www.zeit.de/2026/30/drogenhandel-bonn-max-g-marvin-g-marihuana-kokain/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:f5e9e500-e1cd-401e-97f8-410780fdbde7}</guid>
+      <description><![CDATA[Zwei Jungunternehmer mit Abi und vorbildlicher Buchhaltung machen mit ihrem Start-up Millionen. Problem 1: Leider im Drogengeschäft. Problem 2: Schaffen sie den Absprung?]]></description>
+      <pubDate>Sat, 11 Jul 2026 10:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] »Trump Accounts«: Würdet ihr diesem Mann euer Taschengeld anvertrauen?</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/trump-accounts-aktien-sparplaene-kinder-boersenmarkt/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:d2cc27ee-dcd6-4926-bbd3-c5a2d4037bdc}</guid>
-      <description><![CDATA[Donald Trump präsentiert geförderte Sparpläne für Kinder. Sie sollen ihnen bessere Startbedingungen verschaffen, dürften jedoch eher die Ungleichheit im Land vergrößern.]]></description>
-      <pubDate>Fri, 10 Jul 2026 07:54:55 GMT</pubDate>
+      <title>[Entdecken] 54 Jahre: Mit 54 kehrt die Zufriedenheit zurück</title>
+      <link>https://www.zeit.de/2026/30/54-jahre-fruehrente-arbeitsmarkt-metallindustrie</link>
+      <guid isPermaLink="false">{urn:uuid:290a0052-1f2b-41ec-a70b-792db212edd5}</guid>
+      <description><![CDATA[In unserer Kolumne nehmen wir uns jede Woche Fakten eines Lebensjahres vor. In diesem überlebte ein Italiener 20 Stunden unter einer Lawine.]]></description>
+      <pubDate>Sat, 11 Jul 2026 09:06:37 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Baupreise in Deutschland: Preise im Wohnungsbau steigen weiter stark</title>
-      <link>https://www.zeit.de/wirtschaft/2026-07/baupreise-neubau-wohngebaeude-statistisches-bundesamt-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:a0b2053c-5a42-4891-97f7-471c884fa88c}</guid>
-      <description><![CDATA[Dachdecker, Betonarbeiten, Heizungen: Wer ein Haus baut, muss mit deutlich höheren Kosten rechnen. Preisanstiege gab es laut Statistischem Bundesamt in allen Bereichen.]]></description>
-      <pubDate>Fri, 10 Jul 2026 07:54:47 GMT</pubDate>
+      <title>[Gesellschaft] Deutsche Post: Zehntausende Beschwerden wegen Brief- und Paketsendungen eingegangen</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/maengelmelder-bundesnetzagentur-beschwerden-post-dhl-dpd</link>
+      <guid isPermaLink="false">{urn:uuid:835c055c-469f-474a-a1d8-edc9a98ecf24}</guid>
+      <description><![CDATA[Die Zahl der bei der Bundesnetzagentur eingegangenen Beschwerden zu Brief- und Paketzustellungen ist stark angestiegen. Die Deutsche Post kritisiert die Zählweise.]]></description>
+      <pubDate>Sat, 11 Jul 2026 08:02:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Cihan Çakmak: »Ich komme und trete die Tür ein«</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/cihan-cakmak-pflanzen-lissabon-wochenende-tipps-podcast</link>
-      <guid isPermaLink="false">{urn:uuid:9e51ccef-46d1-4935-94f0-67511a9d95d6}</guid>
-      <description><![CDATA[Im Wochenendpodcast erzählt die Künstlerin Cihan Çakmak, wie sie ihre Bergamottenbäume pflegt. Und schwärmt von ihren Lieblingsorten in Lissabon.]]></description>
-      <pubDate>Fri, 10 Jul 2026 05:39:38 GMT</pubDate>
+      <title>[Mobilität] Ryanair: »Meine Empfehlung: immer anschnallen«</title>
+      <link>https://www.zeit.de/mobilitaet/2026-07/ryanair-flugzeug-fenster-defekt-triebwerk/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:626bc56b-eb2a-4294-8dd7-5257205cc27e}</guid>
+      <description><![CDATA[Bei einem Ryanair-Flug ist ein Passagier fast aus einem zerborstenen Fenster gesogen worden. Flugzeug-Experte Andreas Bardenhagen erklärt, wie so etwas passieren kann.]]></description>
+      <pubDate>Sat, 11 Jul 2026 07:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Rudolstadt-Festival: Tankstelle der Ermutigung</title>
+      <link>https://www.zeit.de/2026/30/rudolstadt-festival-folk-musik-thueringen-oesterreich/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:dc31ac13-3704-440d-894c-45cf11107d8f}</guid>
+      <description><![CDATA[Beim Rudolstädter Weltmusik-Festival kommen einmal im Jahr Menschen aus aller Welt zusammen. Nie schien ein Besuch so kostbar wie heute.]]></description>
+      <pubDate>Sat, 11 Jul 2026 07:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Sommerferien ohne Urlaub: Die Kinder lieben unseren Nicht-Urlaub</title>
+      <link>https://www.zeit.de/familie/2026-07/sommerferien-urlaub-reise-finanzielle-schwierigkeiten-familie/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:230a1313-6da9-4be6-89a3-23aaf199a4e9}</guid>
+      <description><![CDATA[Jeder Fünfte in Deutschland hat kein Geld, um mit den Kindern in die Ferien zu fahren. So wie unser Autor. Dafür weiß er, wie man unvergesslichen Urlaub zu Hause macht.]]></description>
+      <pubDate>Sat, 11 Jul 2026 07:18:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
