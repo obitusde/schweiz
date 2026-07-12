@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 11.7.2026, 06:59:30
-Letzter Lauf: 10.7.2026, 20:55:16
+Start: 12.7.2026, 06:59:31
+Letzter Lauf: 11.7.2026, 06:59:30
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,34 +20,28 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 6 neue Artikel geprueft:
-- Weiterhin entfernt (Cache, Grund: Behandelt allgemeine deutsche Parteipolitik und Reformkritik.): [Wirtschaft] 'Reformpolitik: Wer bezahlt die Reformen – und wer profitiert von ihnen?'
-- Weiterhin entfernt (Cache, Grund: Fällt unter lokale Berichterstattung über ein städtisches Ereignis (Schongau).): [Gesellschaft] 'Welfen-Gymnasium: Ermittler prüfen mögliches Schreiben des Verdächtigen von Schongau'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 11 (beide behandeln Absatzrückgänge deutscher Autobauer in China).): [Wirtschaft] 'BMW: BMW-Absatz sinkt um fast fünf Prozent'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 14 (beide behandeln die ökonomischen Folgen des Tankrabatts).): [Wirtschaft] 'Statistisches Bundesamt: Tankrabatt ließ Inflationsrate im Juni sinken'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 7 (beide behandeln die GKV-Reform der Bundesregierung).): [Wirtschaft] 'GKV-Spargesetz: Das sind die fünf größten Streitpunkte der Krankenkassenreform'
-- Geloescht (Grund: Regionale deutsche Kommunalpolitik/lokaler Vorfall ohne überregionale Relevanz.): [Gesellschaft] 'Bayern: Waldbrand in Nürnberg ausgebrochen'
+KI-Filter (Gemini) - 22 neue Artikel geprueft:
+- Geloescht (Grund: Dieser Artikel fällt unter die Kategorie deutsche Kommunalpolitik & Städte.): [Wirtschaft] 'Hallenschwimmbad in Stuttgart: Das hier ist Stuttgarts schnellste Baustelle'
+- Geloescht (Grund: Duplikat des Themas Bahnstrecke zwischen Düsseldorf und Köln; Artikel 3 ist informativer.): [Mobilität] 'Böschungsbrand an Bahnstrecke: Bekennerschreiben nach Brand zwischen Düsseldorf und Köln aufgetaucht'
+- Geloescht (Grund: Dieser Artikel fällt unter die Kategorie Parteipolitik.): [Wirtschaft] 'AfD und der öffentlich-rechtliche Rundfunk: Erst der MDR, dann ARD und ZDF?'
+- Geloescht (Grund: Duplikat der Geiselnahme in Berlin; Artikel 4 enthält die tiefergehende Perspektive des Vorfalls.): [Gesellschaft] 'Berlin: Geiselnahme in Berliner Supermarkt beendet'
+- Geloescht (Grund: Duplikat der Geiselnahme in Berlin; Artikel 4 ist informativer in der Nachbetrachtung.): [Gesellschaft] 'Polizeieinsatz in Berlin: Mann nimmt Geisel in Berliner Supermarkt'
 
 Finale Liste (live im XML-Feed):
-[_] Polizeieinsatz in Berlin: Mann nimmt Geisel in Berliner Supermarkt
-[_] Hitzerechte von Mietern: Kann ich wegen Hitze meine Miete mindern?
-[_] Erdbeben in Venezuela: Zahl der Erdbebentoten in Venezuela steigt auf über 4.000
-[_] Klimaziel für Deutschland: Industrie und Gewerkschaft dringen auf neues Klimaziel
-[_] Techkonzerne: Apple verklagt OpenAI wegen Diebstahls von Firmengeheimnissen
-[_] Reflecting Pool am Lincoln Memorial: Wasserbecken am Lincoln Memorial wird ausgepumpt
-[_] Altbauten in New York: Und im 21. Stock bröselt der Beton
-[_] Gefälschte Fußballtrikots: 100 Euro für ein Trikot? Dann doch lieber den Superfake aus China
-[_] Taxiunternehmen: Taxi Tekath ist ihr Leben
-[_] Chatkontrolle in der EU: Jetzt sollen wieder Chats kontrolliert werden
-[_] Witze: Mit diesen 111 Dad-Jokes kommen Sie durch den Sommer
-[_] Ryanair: Passagier auf Ryanair-Flug fast durch Fenster hinausgezogen
-[_] GKV-Reform: Viele kleine Pflaster, aber kein Heilmittel
+[_] Ertrinken bei Hitzewellen: Rettungsschwimmer melden rund 100 Badetote im Juni
+[_] KI für die Steuerberatung: Mein Steuerberater? Ist jetzt die KI
+[_] Lehrer: »Es ist alles moderner und wir haben kleinere Klassen«
+[_] Bahnstrecke Düsseldorf–Köln: Bahnstrecke zwischen Düsseldorf und Köln wieder freigegeben
+[_] Geiselnahme in Berlin: »Was soll die Frau denn jetzt aus ihrem Leben machen?«
+[_] Versuchter Femizid: Wie weiterleben, nachdem der eigene Partner einen töten wollte?
 [_] Backrooms: Das Internet ist noch gruseliger, als Sie dachten
-[_] Verfahren gegen Meta: EU fordert wegen Suchtgefahr Änderungen bei Instagram und Facebook
-[_] Volkswagen: VW-Absatz sinkt im zweiten Quartal um 8,6 Prozent
-[_] Fußball-WM: Mitleid mit Infantino
-[_] Bundeskartellamt: Rund 80 Prozent des Tankrabatts bei Autofahrern angekommen
-[_] VW-Konzern: Oliver Blume kündigt größte Neuausrichtung in VW-Geschichte an
-[_] »Trump Accounts«: Würdet ihr diesem Mann euer Taschengeld anvertrauen?
-[_] Baupreise in Deutschland: Preise im Wohnungsbau steigen weiter stark
-[_] Cihan Çakmak: »Ich komme und trete die Tür ein«
+[_] Apple verklagt OpenAI: Es geht um das Wettrennen zweier Giganten
+[_] Geräte für den Sommer: 13 Gadgets, die Ihren Sommer besser machen
+[_] Waldbrand in Andalusien: Andalusische Regierung vermutet viele Touristen unter Waldbrandopfern
+[_] VW-Krise: Volkswagen-Betriebsrat sieht Vertrauensverlust bei Belegschaft
+[_] Drogenhandel: German Wunderkind, Drogenedition
+[_] 54 Jahre: Mit 54 kehrt die Zufriedenheit zurück
+[_] Deutsche Post: Zehntausende Beschwerden wegen Brief- und Paketsendungen eingegangen
+[_] Ryanair: »Meine Empfehlung: immer anschnallen«
+[_] Rudolstadt-Festival: Tankstelle der Ermutigung
+[_] Sommerferien ohne Urlaub: Die Kinder lieben unseren Nicht-Urlaub
