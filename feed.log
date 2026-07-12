@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 11.7.2026, 12:58:39
-Letzter Lauf: 11.7.2026, 06:30:37
+Start: 12.7.2026, 06:30:35
+Letzter Lauf: 11.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -18,13 +18,33 @@ Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
 KI-Filter (Gemini) - 21 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Kriminalitäts-Meldung aus der Schweiz außerhalb des Kantons Waadt.): 'Fall um Jolanda Spiess-Hegglin – Bundesgericht: Tweet von Michèle Binswanger war verleumderisch'
-- Gelöscht (Grund: Unfallmeldung außerhalb des Kantons Waadt (Tentlingen, FR).): 'Un motard grièvement blessed après un choc avec un convoi agricole'
-- Gelöscht (Grund: Kriminalität außerhalb des Kantons Waadt (Genf).): 'Condamné pour son fétichisme de pieds d'enfants'
-- Gelöscht (Grund: Blaulicht-Meldung/Explosion außerhalb des Kantons Waadt (Tessin).): 'Einsatz am Freitagabend – Polizisten verletzt bei Explosion in einem Haus in Leontica TI'
-- Gelöscht (Grund: Brandmeldung außerhalb des Kantons Waadt (Genf).): 'Un incendie au Jardin anglais a réveillé le quartier à l'aube'
+- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb des Kantons Waadt (Tentlingen, FR).): 'Un motard grièvement blessé après un choc avec un convoi agricole'
+- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb des Kantons Waadt (Genf).): 'Condamné pour son fétichisme de pieds d'enfants'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Explosion außerhalb des Kantons Waadt (Tessin).): 'Explosion in Leontica TI – Toter wurde wegen mutmasslichem Tötungsdelikt gesucht'
+- Weiterhin entfernt (Cache, Grund: Brandmeldung außerhalb des Kantons Waadt (Genf).): 'Un incendie au Jardin anglais a réveillé le quartier à l'aube'
+- Gelöscht (Grund: Verkehrsunfall in der Schweiz außerhalb des Kantons Waadt (Vernier, GE).): 'Elle percute un îlot central, trois voitures et finit sur le toit'
+- Gelöscht (Grund: Abstimmung/Kreditgenehmigung in der Schweiz außerhalb der Kantone Waadt und Genf (Brienz, GR).): 'Drohender Bergsturz – 82.5 Millionen für die Umsiedlung von Brienz GR'
+- Gelöscht (Grund: Duplikat zu Artikel 16 (beide SRF, Artikel 16 ist inhaltlich umfassender).): 'SFV zum Yakin-Video – «Unsere einzige böse Absicht: Spiele zu gewinnen»'
 
 Finale Liste (live im XML-Feed):
+- [SRF Ausland] Brexit-Politikerin und TV-Star – Mord an Ann Widdecombe: Neuer Verdächtiger festgenommen
+- [20 Min Romandie] Beeindruckende Bilder: Ein Feld brennt in Saint-Cierges
+- [SRF Wirtschaft] Automarke wieder im Aufwind – Unpolitischer Elon Musk tut Tesla gut
+- [20 Min Romandie] Warum die Rolltreppen in Cornavin so oft stillstehen
+- [SRF Ausland] Machtwechsel in London – Experte: Burnham zieht wohl kampflos in die Downing Street
+- [SRF Wirtschaft] Beats, Bass und Berufung – Wie die Tech-Industrie am Openair Frauenfeld um Nachwuchs kämpft
+- [RTS Vaud] La Chaux-sur-Cossonay (VD) sagt rechtsextreme Konferenz ab
+- [20 Min Romandie] Paare während der Weltmeisterschaft: «Ich liebe sein kleines Quieken»
+- [SRF Schweiz] Nutzungskonflikte in den Alpen – Kontroverse nach Kuh‑Video aus dem Wallis
+- [SRF Ausland] Umstrittener Walfang – Isländischer Walfänger macht der Regierung Probleme
+- [RTS Vaud] Ein Seifenkistenrennen findet dieses Wochenende an der Waadtländer Côte statt
+- [SRF Wissen] «Cloud Seeding» – Expertin: Künstlicher Regen ist keine Lösung gegen Dürren
+- [SRF Wissen] Geschwindigkeitsrekord – Von Genf nach Zürich in nur 15 Minuten
+- [SRF Schweiz] SFV gelingt Coup – Yakin kontert «Bösewicht»-Sprüche von Late-Night-Star
+- [SRF Ausland] Feuer im Süden Spaniens – Zwölf Tote bei Waldbrand – Flammen breiten sich weiter aus
+- [SRF Ausland] Taifun «Bavi» – China evakuiert fast zwei Millionen Menschen wegen Sturms
+- [SRF Schweiz] Benimmregeln in der Badi – «Stop or Go»: Personal in Basler Gartenbädern greift härter durch
+- [SRF Schweiz] «Made in Switzerland» – Die Erfolgsgeschichte eines Haartrockners aus dem Tessin
 - [SRF Schweiz] Wirkung von Steuerabkommen – Als Grenzgänger nach Graubünden? «Verdiene in Mailand mehr»
 - [SRF Schweiz] Die etwas anderen News – Hitze is in the Haus!
 - [SRF Schweiz] Alte Reussbrücke Mellingen AG – Aargauer Brücke um 2.6 Meter angehoben – für kommende Hochwasser
@@ -34,7 +54,6 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Der Kanton will die Organisation seiner Polizei neu überdenken
 - [SRF Ausland] EU-Politik – Wie die EU auf Chinas Exportflut reagiert
 - [SRF Schweiz] Zukunft der Alpwirtschaft – GPS statt Weidezaun?
-- [SRF Ausland] Verdächtiger festgenommen – Brexit-Politikerin und TV-Star Ann Widdecombe ermordet
 - [SRF Wissen] KI in der Tourismusbranche – Hotel buchen über Chat GPT? Online-Plattformen droht der Abstieg
 - [SRF Schweiz] Braunwald als Freiluftmuseum – Ein Dorf zeigt das Werk eines Weltfotografen
 - [SRF Ausland] Gefährliche Seepassage um Stad – Norwegen baut den weltweit ersten Schiffstunnel
@@ -42,29 +61,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Wirtschaft] Hitzestress unter Wasser – Zu warme Seen setzen Fische unter Druck – Fischer sind alarmiert
 - [20 Min Romandie] Auf der französischen Seite gestrandet: Waadtländer muss 35 Euro für ein Taxi bezahlen
 - [SRF Schweiz] Gotthard-Basistunnel – Altdorf und Bellinzona rücken zusammen
-- [SRF Wirtschaft] Klage gegen ChatGPT-Firma – Apple wirft OpenAI Diebstahl von Firmengeheimnissen vor
-- [SRF Ausland] Zum zweiten Mal in einer Woche – Kuba erneut ohne Strom
-- [SRF Ausland] Annäherung von Vater und Sohn – Berichte: Charles trifft Harry mit Enkeln nach Jahren wieder
-- [SRF Ausland] Ukrainische Geheimdienste – Nordstream-Sabotage: «Der Tatverdächtige ist ein Offizier»
-- [SRF Ausland] Deutschland – Trotz grossem Widerstand: Das Sparpaket kommt durch den Bundestag
-- [20 Min Romandie] Hitzewelle: Kindertagesstätten geschlossen und Eltern ratlos
-- [SRF Wirtschaft] Schlag gegen Cyberkriminalität – Betrüger fälschten ganzen Polizeiposten und erbeuteten Millionen
-- [20 Min Romandie] Schweizer Skilegende: Der Walliser Roland Collombin ist verstorben
-- [20 Min Romandie] 500 Schweizer in den Reihen der israelischen Armee im Einsatz
-- [SRF Schweiz] Folgen des Klimawandels – Wenn die Hitze Heimat und Lebensunterhalt zerstört
-- [SRF Ausland] Migration in Europa – Ein Drittel weniger irreguläre Grenzübertritte nach Europa
-- [SRF Ausland] Berlins Bürgermeister tritt ab – Kanzler Merz und die Märchen des Berliner Bürgermeisters
-- [SRF Schweiz] Kritik an Verschiebung – Soll man für die E-ID schon bald ins Passbüro gehen können?
-- [20 Min Romandie] Zwei Brände kurz hintereinander: «Es geht sehr schnell»
-- [SRF Wirtschaft] Übernahmepoker um Fluglinie – Zwei Investoren buhlen um Billigflieger Easyjet
-- [SRF Schweiz] Public Viewing – Nachtschicht für Fans: Wo der Viertelfinal der Nati zu sehen ist
-- [SRF Schweiz] Über dem Bundeshaus wehend – Warum die Fahne bei Chameneis Bestattung auf halbmast war
-- [SRF Wirtschaft] Gewinn eingebrochen – Wie schlitterte VW vom Kult in die Krise?
-- [20 Min Romandie] Tour de France Femmes: Was auf die Autofahrer in der Westschweiz zukommt
-- [SRF Wissen] Tiefsee-Spektakel – Wo sich Kontinente bewegen, brodelt der Meeresgrund
-- [SRF Ausland] Flug nach Deutschland – Kaputtes Fenster: Passagier wird beinahe aus Flugzeug gesogen
-- [20 Min Romandie] «Drahtzieher» eines riesigen Cannabis-Handels zu 9 Jahren Gefängnis verurteilt
-- [SRF Ausland] «Beispiellose Tragödie» – Zwölf Tote bei Waldbrand in Andalusien
-- [SRF Wissen] 25 Jahre Tagesgespräch – Astrophysikerin: «Wir verstehen erst fünf Prozent des Universums»
-- [20 Min Romandie] Die Schweiz hat die Meinungsfreiheit von «Le Courrier» verletzt
-- [SRF Schweiz] Neue Tarifstruktur für Physio – Zwei konkurrierende Physiotherapie-Berufsverbände – warum?
