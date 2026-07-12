@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 12.7.2026, 06:30:35
-Letzter Lauf: 11.7.2026, 12:58:39
+Start: 12.7.2026, 12:58:39
+Letzter Lauf: 12.7.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,16 +17,22 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 21 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Unfallmeldung außerhalb des Kantons Waadt (Tentlingen, FR).): 'Un motard grièvement blessé après un choc avec un convoi agricole'
-- Weiterhin entfernt (Cache, Grund: Kriminalität außerhalb des Kantons Waadt (Genf).): 'Condamné pour son fétichisme de pieds d'enfants'
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung/Explosion außerhalb des Kantons Waadt (Tessin).): 'Explosion in Leontica TI – Toter wurde wegen mutmasslichem Tötungsdelikt gesucht'
-- Weiterhin entfernt (Cache, Grund: Brandmeldung außerhalb des Kantons Waadt (Genf).): 'Un incendie au Jardin anglais a réveillé le quartier à l'aube'
-- Gelöscht (Grund: Verkehrsunfall in der Schweiz außerhalb des Kantons Waadt (Vernier, GE).): 'Elle percute un îlot central, trois voitures et finit sur le toit'
-- Gelöscht (Grund: Abstimmung/Kreditgenehmigung in der Schweiz außerhalb der Kantone Waadt und Genf (Brienz, GR).): 'Drohender Bergsturz – 82.5 Millionen für die Umsiedlung von Brienz GR'
-- Gelöscht (Grund: Duplikat zu Artikel 16 (beide SRF, Artikel 16 ist inhaltlich umfassender).): 'SFV zum Yakin-Video – «Unsere einzige böse Absicht: Spiele zu gewinnen»'
+KI-Filter (Gemini) - 10 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Verkehrsunfall in der Schweiz außerhalb des Kantons Waadt (Vernier, GE).): 'Elle percute un îlot central, trois voitures et finit sur le toit'
+- Weiterhin entfernt (Cache, Grund: Abstimmung/Kreditgenehmigung in der Schweiz außerhalb der Kantone Waadt und Genf (Brienz, GR).): 'Drohender Bergsturz – 82.5 Millionen für die Umsiedlung von Brienz GR'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 16 (beide SRF, Artikel 16 ist inhaltlich umfassender).): 'SFV zum Yakin-Video – «Unsere einzige böse Absicht: Spiele zu gewinnen»'
 
 Finale Liste (live im XML-Feed):
+- [SRF Ausland] Feuer im Süden Spaniens – Zwölf Tote bei Waldbrand – Flammen breiten sich nicht weiter aus
+- [20 Min Romandie] Rechtsextremes Treffen in letzter Minute abgesagt
+- [SRF Ausland] Nach kurzer Krankheit – US-Senator Lindsey Graham ist tot
+- [SRF Schweiz] Städtische Wärmeinsel – Solothurn setzt auf mobile Bäume gegen Hitze
+- [SRF Ausland] Ehemaliger Herrscher von Katar – Früherer Emir Hamad bin Chalifa Al Thani ist gestorben
+- [SRF Ausland] Duma-Wahlen in Russland – Unterstützung für Putin-Partei schwindet
+- [SRF Gesellschaft] Kampf gegen Klischees – «Wir müssen über muslimische Männer sprechen»
+- [SRF Schweiz] Weniger Treibstoff – Schiffe auf dem Bielersee fahren langsamer – bringt's das?
+- [SRF Ausland] Digitales Rotes Kreuz – IKRK testet Schutzzeichen gegen Cyberangriffe
+- [20 Min Romandie] Hitze und Hagel: Bauern fürchten steigende Versicherungsprämien
 - [SRF Ausland] Brexit-Politikerin und TV-Star – Mord an Ann Widdecombe: Neuer Verdächtiger festgenommen
 - [20 Min Romandie] Beeindruckende Bilder: Ein Feld brennt in Saint-Cierges
 - [SRF Wirtschaft] Automarke wieder im Aufwind – Unpolitischer Elon Musk tut Tesla gut
@@ -38,26 +44,9 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Nutzungskonflikte in den Alpen – Kontroverse nach Kuh‑Video aus dem Wallis
 - [SRF Ausland] Umstrittener Walfang – Isländischer Walfänger macht der Regierung Probleme
 - [RTS Vaud] Ein Seifenkistenrennen findet dieses Wochenende an der Waadtländer Côte statt
-- [SRF Wissen] «Cloud Seeding» – Expertin: Künstlicher Regen ist keine Lösung gegen Dürren
+- [SRF Wissen] «Cloud Seeding» – Könnte künstlicher Regen Abkühlung bringen?
 - [SRF Wissen] Geschwindigkeitsrekord – Von Genf nach Zürich in nur 15 Minuten
 - [SRF Schweiz] SFV gelingt Coup – Yakin kontert «Bösewicht»-Sprüche von Late-Night-Star
-- [SRF Ausland] Feuer im Süden Spaniens – Zwölf Tote bei Waldbrand – Flammen breiten sich weiter aus
 - [SRF Ausland] Taifun «Bavi» – China evakuiert fast zwei Millionen Menschen wegen Sturms
 - [SRF Schweiz] Benimmregeln in der Badi – «Stop or Go»: Personal in Basler Gartenbädern greift härter durch
 - [SRF Schweiz] «Made in Switzerland» – Die Erfolgsgeschichte eines Haartrockners aus dem Tessin
-- [SRF Schweiz] Wirkung von Steuerabkommen – Als Grenzgänger nach Graubünden? «Verdiene in Mailand mehr»
-- [SRF Schweiz] Die etwas anderen News – Hitze is in the Haus!
-- [SRF Schweiz] Alte Reussbrücke Mellingen AG – Aargauer Brücke um 2.6 Meter angehoben – für kommende Hochwasser
-- [Morges Actualitiés] Was tun bei einem nicht lebensbedrohlichen Notfall?
-- [SRF Wissen] Tipps für Hobbygärtner – Neophyten: Diese sechs Pflanzen müssen raus – oder eben nicht
-- [SRF Ausland] Sicherheitspolitik in Schweden – Schweden und die Nato: Was die Schweiz lernen kann
-- [20 Min Romandie] Der Kanton will die Organisation seiner Polizei neu überdenken
-- [SRF Ausland] EU-Politik – Wie die EU auf Chinas Exportflut reagiert
-- [SRF Schweiz] Zukunft der Alpwirtschaft – GPS statt Weidezaun?
-- [SRF Wissen] KI in der Tourismusbranche – Hotel buchen über Chat GPT? Online-Plattformen droht der Abstieg
-- [SRF Schweiz] Braunwald als Freiluftmuseum – Ein Dorf zeigt das Werk eines Weltfotografen
-- [SRF Ausland] Gefährliche Seepassage um Stad – Norwegen baut den weltweit ersten Schiffstunnel
-- [SRF Wissen] Blick in die Betriebszentrale – Can: der Mann, der die SBB-Züge im Takt hält
-- [SRF Wirtschaft] Hitzestress unter Wasser – Zu warme Seen setzen Fische unter Druck – Fischer sind alarmiert
-- [20 Min Romandie] Auf der französischen Seite gestrandet: Waadtländer muss 35 Euro für ein Taxi bezahlen
-- [SRF Schweiz] Gotthard-Basistunnel – Altdorf und Bellinzona rücken zusammen
