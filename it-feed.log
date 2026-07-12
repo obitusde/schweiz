@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 11.7.2026, 12:28:18
-Letzter Lauf: 11.7.2026, 06:10:26
+Start: 12.7.2026, 06:10:26
+Letzter Lauf: 11.7.2026, 12:28:18
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -12,36 +12,26 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Microsoft 365 Copilot für IT-Administratoren'
 - Gelöscht wegen Keyword 'c’t uplink': 'Mit verrückten Gadgets und Klimaanlagen-Tuning gegen die Hitzewelle | c’t uplink'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Bild-KI in WhatsApp und Instagram ausprobiert: Das kann Muse Image'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: PowerShell für effiziente Systemadministration'
-- Gelöscht wegen Keyword 'tgiqf': '#TGIQF: Das Quiz rund um Router'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Ryzen-5-Mini-PC mit Windows 11 Pro günstig wie nie für unter 380 Euro'
 - Gelöscht wegen Keyword '(g+)': '(g+) Prozessor-Geschwindigkeit: Warum Zahlen in Textform CPUs ausbremsen können'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 11-in-1-USB-Hub von Anker zum Tiefstpreis bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Beliebtes Anker Nano 45-W-Ladegerät kurzzeitig zum neuen Amazon-Bestpreis für nur rund 28 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Linux: aus der Nische in den Mainstream?'
-- Gelöscht wegen Keyword '(g+)': '(g+) Technology sector: The price of Palantir's politics'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Schreibtisch aufräumen mit Invision Halterung für 50 Euro'
-- Gelöscht wegen Keyword '(g+)': '(g+) Digitale Souveränität: Lokale KI für das GPU-Proletariat'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Xiaomi-Smartphone mit Smartwatch und 40 GB bei Blau für nur 9,99 Euro/Monat'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Sabrent-Festplatten-Dockingstation für 2,5 und 3,5 Zoll Sata jetzt wieder rund 25 Euro'
 
-KI-Filter (Gemini) - 10 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Thema Rasenmäher (Harte Ausschlusskriterie).): 'Top 10: Mähroboter ohne Begrenzungskabel im Test – der beste navigiert mit LiDAR'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 12 (OpenAI GPT-5.6).): '(Co)work in Progress'
-- Weiterhin entfernt (Cache, Grund: Thema iPhone (Harte Ausschlusskriterie).): 'iPhone Fold: Erste Details zur angeblichen Akkukapazität des Falt-iPhones'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Enterprise-IT & Infrastruktur (Patch-Management für IT-Verantwortliche).): 'Lückenflut durch KI-Funde – Software-Hersteller schrauben an Patch-Strategien'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie & Web-Infrastruktur (Programmiersprachen-Update).): 'TypeScript 7.0: Performance-Sprung durch Go-Unterbau'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 9 (KI-Slop auf LinkedIn).): 'LinkedIn und X sind voller KI-Spam'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 16 (Chinesische Raketenlandung).): 'Wiederverwendbare Rakete: China fängt erstmals Stufe auf'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 27 (Analyse Chatkontrolle).): 'Kommentar: Chatkontrolle – Abstimmen, bis das Ergebnis stimmt'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Deep OS-Internals (Lücke im Linux-Kernel).): 'Ghostlock: 15 Jahre alte Root-Lücke im Linux-Kernel aufgedeckt'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 10 (Suchtgefahr Meta).): 'EU: Instagram und Facebook bergen zu große Suchtrisiken'
-- Weiterhin entfernt (Cache, Grund: Thema iPhone (Harte Ausschlusskriterie).): 'Indische Apple-Produktion: Günstiger dank Importerleichterungen'
-- Gelöscht (Grund: Duplikat: Behandelt dasselbe Ereignis wie Artikel ID 1 (Rechtsstreit Apple gegen OpenAI).): 'Apple klagt gegen OpenAI wegen Abwerbung'
-- Gelöscht (Grund: Inhaltlich der Kategorie Code-Theorie und Web-Infrastruktur zuzuordnen (behandelt u. a. Vite, Frameworks und Entwickler-Tools).): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
+KI-Filter (Gemini) - 12 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Duplikat: Behandelt dasselbe Ereignis wie Artikel ID 1 (Rechtsstreit Apple gegen OpenAI).): 'Apple klagt gegen OpenAI wegen Abwerbung'
+- Weiterhin entfernt (Cache, Grund: Inhaltlich der Kategorie Code-Theorie und Web-Infrastruktur zuzuordnen (behandelt u. a. Vite, Framew): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
+- Gelöscht (Grund: Dieser Artikel behandelt ein Werkzeug speziell für die Softwareentwicklung (Claude Code) und fällt damit unter die Kategorie Code-Theorie und Entwickler-Tools.): 'Künstliche Intelligenz: Anthropic spendiert Claude Code einen eingebauten Browser'
+- Gelöscht (Grund: Das iPhone ist ein explizit genanntes hartes Ausschlusskriterium. Zudem thematisiert der Artikel interne PC-Komponenten (Chips/Speicher).): 'Apple: Speicherpreise treiben Preis für iPhone 18 Pro Max'
+- Gelöscht (Grund: Dieser Artikel befasst sich mit Enterprise-IT und der strategischen Software-Infrastruktur einer großen Organisation.): 'Digitale Souveränität: Schweizer Armee verlässt Microsoft'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Laser-Engraver & Cutter ab 99 € okay, ab 650 € top
+- [Heise] Flugtaxis: Erste Testflüge für US-Zertifizierung
+- [Heise] Meta schaltet KI-Generierung aus Instagram-Stilen ab
+- [Heise] Gebäudemodernisierungsgesetz mit „Bio-Treppe“ passiert Bundesrat
+- [Heise] Kompressor-Kühlbox Zcamp GE40 im Test
+- [Heise] Musikindustrie beschließt abgestufte Kennzeichnung von KI-Inhalten
+- [Golem] Sonnenlichtspiegel im Weltall: FCC gibt Erlaubnis für Demonstrationssatelliten
+- [Heise] Bundesnetzagentur liefert erste Ergebnisse der Mobilfunkmesswoche
+- [Golem] Starlink: SpaceX will weitere 100.000 Satelliten starten
 - [Golem] Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro
 - [Golem] Apple verklagt OpenAI: Diebstahl von geistigem Eigentum und Geschäftsgeheimnissen
 - [Golem] Spionageaktion: Nato-Transportwege mit gehackten Kameras ausgespäht
@@ -50,38 +40,3 @@ Finale Liste (live im XML-Feed):
 - [Heise] Warm versus monochrom: Die Bilder der Woche 28
 - [Golem] Biozelle: Algen können Batterien ersetzen
 - [Golem] Gaming: Retro Achievements bringt Trophäen in alte Spiele
-- [Digitec] Ist TOI-2155 b ein Zwergstern oder ein Brauner Zwerg?
-- [Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche
-- [Heise] Mit Zero-Days: BND und Verfassungsschutz sollen „Super-Geheimdienste“ werden
-- [Heise] Wirklich alles lokal: Hermes-Agent und Qwen 3.6
-- [Golem] Nordischnet und Teranet: GVG Glasfaser geht in neue Gebiete
-- [Golem] Elektronikhändler: Verbleibende Saturn-Märkte werden Showrooms
-- [Heise] Cyber-Spezialisten des Schweizer Militärs verlassen Microsoft-Cloud
-- [Golem] Militärische Kooperation: Starlink im Fadenkreuz von Russland und China
-- [Heise] Warum es ausgerechnet bei LinkedIn so viel KI-Slop gibt
-- [Golem] Meta zum Handeln aufgefordert: EU sieht große Suchtgefahr bei Facebook und Instagram
-- [Microsoft] Available today: OpenAI’s GPT-5.6 in Microsoft 365 Copilot
-- [Heise] Kundendaten bei Dienstleister abgeflossen: Datenschutzvorfall beim Lidl-Shop
-- [Heise] Urteil: Mobilfunkanbieter dürfen Verträge nicht einseitig vorzeitig kündigen
-- [Golem] Raumfahrt: Neue chinesische Rakete landet besser als das SpaceX-Starship
-- [Digitec] Die Powerstation war bereit. Der Nachtzug nicht
-- [Golem] Elektroschrott: Kompostierbare Leiterplatte vermeidet Abfallberge
-- [Heise] Top 10: Die beste Gaming-Maus im Test
-- [Golem] Xavier Niel übernimmt von E&: Vodafones Hauptaktionär verkauft alle Anteile
-- [Heise] Schluss mit Wegwerfgeräten: Das neue Recht auf Reparatur kommt
-- [Golem] Muse Image: Metas Bildgenerator kann automatisch auf öffentliche Insta-Fotos zugreifen
-- [Digitec] EA Sports bringt Pay-to-Win in den Singleplayer
-- [Golem] Kurswechsel: OpenAI zieht bei Atlas den Stecker
-- [Heise] Speicherausgaben: Micron erhöht auf 250 Milliarden US-Dollar
-- [Heise] KI-Update Deep-Dive: KI im Handwerk – Mehr als nur ein Werkzeug
-- [Golem] Chatkontrolle: Welche Messenger (noch) sicher sind und welche nicht
-- [Heise] E-Scooter-Unfälle: Vermieter haften künftig verstärkt
-- [Golem] Bohr: Erster kommerzieller nuklearbetriebener Satellit ist gestartet
-- [Heise] Post zum Freitag: Wem gehört das digitale Ich?
-- [Heise] KI-Urheberrechtsstreit: New York Times beantragt Sanktionen gegen OpenAI
-- [Heise] Flughafen: Gesichtserkennung beschleunigt Abfertigung
-- [Heise] Fidji Simo verlässt Vollzeitposten bei OpenAI
-- [Heise] Bericht: Disney denkt über kostenlose Inhalte auf Disney+ nach
-- [Digitec] The Other Half: Das Jolla Phone passt sich seiner Rückseite an
-- [Heise] Ausprobiert: Scapade-Zubehör mit „Wo ist?"
-- [Golem] GT-Version: Kia EV4 kommt mit 292 PS und Schaltsimulation
