@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 12.7.2026, 06:59:31
-Letzter Lauf: 11.7.2026, 06:59:30
+Start: 13.7.2026, 06:59:31
+Letzter Lauf: 12.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,28 +20,22 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 22 neue Artikel geprueft:
-- Geloescht (Grund: Dieser Artikel fällt unter die Kategorie deutsche Kommunalpolitik & Städte.): [Wirtschaft] 'Hallenschwimmbad in Stuttgart: Das hier ist Stuttgarts schnellste Baustelle'
-- Geloescht (Grund: Duplikat des Themas Bahnstrecke zwischen Düsseldorf und Köln; Artikel 3 ist informativer.): [Mobilität] 'Böschungsbrand an Bahnstrecke: Bekennerschreiben nach Brand zwischen Düsseldorf und Köln aufgetaucht'
-- Geloescht (Grund: Dieser Artikel fällt unter die Kategorie Parteipolitik.): [Wirtschaft] 'AfD und der öffentlich-rechtliche Rundfunk: Erst der MDR, dann ARD und ZDF?'
-- Geloescht (Grund: Duplikat der Geiselnahme in Berlin; Artikel 4 enthält die tiefergehende Perspektive des Vorfalls.): [Gesellschaft] 'Berlin: Geiselnahme in Berliner Supermarkt beendet'
-- Geloescht (Grund: Duplikat der Geiselnahme in Berlin; Artikel 4 ist informativer in der Nachbetrachtung.): [Gesellschaft] 'Polizeieinsatz in Berlin: Mann nimmt Geisel in Berliner Supermarkt'
+KI-Filter (Gemini) - 16 neue Artikel geprueft:
+- Geloescht (Grund: Bezieht sich auf parteipolitische Forderungen (Grüne) und lokale deutsche Bildungsstrukturen.): [Gesellschaft] 'Katastrophenfall: Zehntausende Schüler für Katastrophenschutz ausgebildet'
+- Geloescht (Grund: Der Aspekt der Erziehung von Kleinkindern sowie lokale deutsche Sicherheitsaspekte fallen unter die Ausschlusskriterien.): [Gesellschaft] 'DLRG: »Am besten stehen Eltern einfach immer daneben«'
 
 Finale Liste (live im XML-Feed):
-[_] Ertrinken bei Hitzewellen: Rettungsschwimmer melden rund 100 Badetote im Juni
-[_] KI für die Steuerberatung: Mein Steuerberater? Ist jetzt die KI
-[_] Lehrer: »Es ist alles moderner und wir haben kleinere Klassen«
-[_] Bahnstrecke Düsseldorf–Köln: Bahnstrecke zwischen Düsseldorf und Köln wieder freigegeben
-[_] Geiselnahme in Berlin: »Was soll die Frau denn jetzt aus ihrem Leben machen?«
-[_] Versuchter Femizid: Wie weiterleben, nachdem der eigene Partner einen töten wollte?
-[_] Backrooms: Das Internet ist noch gruseliger, als Sie dachten
-[_] Apple verklagt OpenAI: Es geht um das Wettrennen zweier Giganten
-[_] Geräte für den Sommer: 13 Gadgets, die Ihren Sommer besser machen
-[_] Waldbrand in Andalusien: Andalusische Regierung vermutet viele Touristen unter Waldbrandopfern
-[_] VW-Krise: Volkswagen-Betriebsrat sieht Vertrauensverlust bei Belegschaft
-[_] Drogenhandel: German Wunderkind, Drogenedition
-[_] 54 Jahre: Mit 54 kehrt die Zufriedenheit zurück
-[_] Deutsche Post: Zehntausende Beschwerden wegen Brief- und Paketsendungen eingegangen
-[_] Ryanair: »Meine Empfehlung: immer anschnallen«
-[_] Rudolstadt-Festival: Tankstelle der Ermutigung
-[_] Sommerferien ohne Urlaub: Die Kinder lieben unseren Nicht-Urlaub
+[_] Handelskrieg: Von China lernen? Das hat die Regierung in Peking jetzt verboten
+[_] Fernbeziehung: »Ich pendle 130 Kilometer, meine Partnerin 280 Kilometer«
+[_] Venezuela: Zahl der Toten nach Erdbeben in Venezuela steigt auf 4.490
+[_] Bangkok: Mindestens 27 Menschen sterben durch Brand in Bangkok
+[_] Kosten für Urlaub: »In zwölf Monaten haben wir 11.000 Euro für Fernreisen ausgegeben«
+[_] Fahrradfahren und Integration: Radfahren ist elitär. Muss es aber nicht bleiben
+[_] Forgotten Baby Syndrome: Bei 56 Grad im Kindersitz
+[_] Schutz vor Hitze: Drinnen ist besser, selbst im Sommer. Kapiert ihr jetzt auch, oder?
+[_] Wiener Schluss: In Wien durften sie nicht sterben
+[_] Hiroshima: Das Wunder von Hiroshima
+[_] Flightright: Wie ich (erfolgreich) versuchte, von Ryanair mein Geld zu kriegen
+[_] Wohnung kühlen: Hilfe, mein Zuhause ist eine Sauna!
+[_] Tempolimit auf Autobahnen: Tempolimit könnte Zahl der Unfalltoten laut Studie deutlich senken
+[_] Wohnungslosigkeit: Vollzeit, fest angestellt, unbefristet – und trotzdem wohnungslos
