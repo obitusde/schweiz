@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 12.7.2026, 12:28:19
-Letzter Lauf: 12.7.2026, 06:10:26
+Start: 13.7.2026, 06:10:26
+Letzter Lauf: 12.7.2026, 12:28:19
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,33 +10,36 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Weniger Verlustfrust: So wappnen Sie Ihr iPhone für Verlust und Diebstahl'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: betterCode() Agentic AI: Zusätzlicher Workshop zu Legacy-Modernisierung'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Consul für macOS im Test: Der Formatwandler'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 240 Hz Curved Gaming-Monitor von Amzfast unter 140 Euro'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Balkonkraftwerk mit Anker-Speicher bei Kleines Kraftwerk für nur 977 Euro'
 - Gelöscht wegen Keyword '(g+)': '(g+) Technische Dokumentation als Beruf: Gewünschte Kenntnisse? Alles'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Architektur, Engineering und Cloud'
 
-KI-Filter (Gemini) - 8 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Dieser Artikel behandelt ein Werkzeug speziell für die Softwareentwicklung (Claude Code) und fällt d): 'Künstliche Intelligenz: Anthropic spendiert Claude Code einen eingebauten Browser'
-- Weiterhin entfernt (Cache, Grund: Das iPhone ist ein explizit genanntes hartes Ausschlusskriterium. Zudem thematisiert der Artikel int): 'Apple: Speicherpreise treiben Preis für iPhone 18 Pro Max'
-- Weiterhin entfernt (Cache, Grund: Dieser Artikel befasst sich mit Enterprise-IT und der strategischen Software-Infrastruktur einer gro): 'Digitale Souveränität: Schweizer Armee verlässt Microsoft'
-- Gelöscht (Grund: Behandelt interne PC-Komponenten (Speicherchips/RAM).): 'Nasdaq: Hynix-CEO erwartet schwersten Engpass bei Speicherchips'
-- Gelöscht (Grund: Behandelt Netzwerk-Infrastruktur (VPN/WireGuard-Tunnel).): 'Video: VPN im Urlaub – Abo kaufen oder kostenlos selbst bauen?'
+KI-Filter (Gemini) - 13 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Behandelt interne PC-Komponenten (Speicherchips/RAM).): 'Nasdaq: Hynix-CEO erwartet schwersten Engpass bei Speicherchips'
+- Weiterhin entfernt (Cache, Grund: Behandelt Netzwerk-Infrastruktur (VPN/WireGuard-Tunnel).): 'Video: VPN im Urlaub – Abo kaufen oder kostenlos selbst bauen?'
+- Gelöscht (Grund: Dieser Artikel behandelt Netzwerk-Infrastruktur (P2P-Topologie, Glasfaser-Netzbau), was ein hartes Ausschlusskriterium darstellt.): 'Glasfaser über P2P: Warum es in Deutschland keine 25 GBit/s für 70 Euro gibt'
+- Gelöscht (Grund: Dieser Artikel fällt unter das Thema Netzwerk-Infrastruktur (ISP-Technik, Glasfaser-Zugangstechnologie) und erfüllt somit die Ausschlusskriterien.): 'Init 7: Symmetrischer 25-GBit/s-Zugang ist "kein Marketing-Gag"'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Microsoft nutzt in manchen Apps offenbar eigene KI statt OpenAI und Anthropic
+- [Digitec] Die 100 besten Games aller Zeiten – das Nachspiel
+- [Heise] Top 10: Die beste Kompressor-Kühlbox im Test
+- [Heise] „Digital Fairness Act“ soll auch Spielehersteller und kleine Händler treffen
+- [Heise] DuckDuckGo-Browser blockiert jetzt YouTube-Werbung
+- [Heise] SK Hynix: US-Börsengang mit düsterer Prognose
+- [Heise] Xiaomi Smart Band 10 Pro im Test: Einer der besten Fitness-Tracker
+- [Heise] Polio: Wohl letzte Nutzerin einer "Eisernen Lunge" gestorben
+- [Heise] Kulturinstitutionen fordern digitales Langzeitarchiv für Deutschland
+- [Heise] Meilenstein für Robotaxis: UN verabschiedet globales Recht für autonomes Fahren
+- [Golem] Mängelmelder: DHL bezeichnet Beschwerdezahl über Paketzustellung als "aufgebläht"
 - [Heise] Gesetzesentwurf: Bundesrat will Datenschutz für Firmen und NGOs vereinfachen
 - [Heise] VW-Chef: „Intelligentere Lösungen“ als Werksschließungen
 - [Golem] Vorschlag aus China: Asteroidenabwehr mit Atombomben
 - [Digitec] Indie-Dev fordert Steam zur Anpassung der Rückerstattungspolitik auf
 - [Heise] Wie Metas Kurswechsel die VR-Spielebranche verändert hat
 - [Golem] Maschinenträume 3: KI = Künstliche Ignoranz?
-- [Heise] Laser-Engraver & Cutter ab 99 € okay, ab 650 € top
-- [Heise] Flugtaxis: Erste Testflüge für US-Zertifizierung
-- [Heise] Meta schaltet KI-Generierung aus Instagram-Stilen ab
-- [Heise] Gebäudemodernisierungsgesetz mit „Bio-Treppe“ passiert Bundesrat
-- [Heise] Kompressor-Kühlbox Zcamp GE40 im Test
-- [Heise] Musikindustrie beschließt abgestufte Kennzeichnung von KI-Inhalten
-- [Golem] Sonnenlichtspiegel im Weltall: FCC gibt Erlaubnis für Demonstrationssatelliten
-- [Heise] Bundesnetzagentur liefert erste Ergebnisse der Mobilfunkmesswoche
-- [Golem] Starlink: SpaceX will weitere 100.000 Satelliten starten
