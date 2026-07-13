@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 12.7.2026, 12:58:39
-Letzter Lauf: 12.7.2026, 06:30:35
+Start: 13.7.2026, 06:30:36
+Letzter Lauf: 12.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,15 +17,34 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 10 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Verkehrsunfall in der Schweiz außerhalb des Kantons Waadt (Vernier, GE).): 'Elle percute un îlot central, trois voitures et finit sur le toit'
-- Weiterhin entfernt (Cache, Grund: Abstimmung/Kreditgenehmigung in der Schweiz außerhalb der Kantone Waadt und Genf (Brienz, GR).): 'Drohender Bergsturz – 82.5 Millionen für die Umsiedlung von Brienz GR'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 16 (beide SRF, Artikel 16 ist inhaltlich umfassender).): 'SFV zum Yakin-Video – «Unsere einzige böse Absicht: Spiele zu gewinnen»'
+KI-Filter (Gemini) - 23 neue Artikel geprüft:
+- Gelöscht (Grund: Duplikat zu Artikel ID 7 (beide behandeln den Tod von Lindsey Graham; SRF-Artikel ID 7 ist informativer).): 'Nach kurzer Krankheit – Trump-Vertrauter Lindsey Graham gestorben'
 
 Finale Liste (live im XML-Feed):
+- [20 Min Romandie] Nach über 60 Jahren vollendet: Das Gästebuch enthüllt seine Geheimnisse
+- [SRF Ausland] Brexit-Politikerin und TV-Star – Mord an Ann Widdecombe: Neuer Verdächtiger festgenommen
+- [SRF Schweiz] Versicherungsschutz – Warum Sie Ihren Hautkrebs der Unfallversicherung melden sollten
+- [SRF Schweiz] Wegen Naturgefahren – Nach Camping-Schliessung strömen Gäste ins Goms
+- [SRF Schweiz] Therapiehunde hinter Gittern – Bernhardinerhündin bringt Ablenkung ins Gefängnis
+- [SRF Ausland] Katastrophe in Thailand – 27 Tote bei Bar-Brand in Bangkok: Das ist bekannt
+- [SRF Schweiz] Wegen Bahnumbau – Ohne Säntisbahn fehlen der Käserei die Gäste
+- [SRF Ausland] Senator Graham ist tot – Warum Lindsey Graham für Trump so wichtig war
+- [SRF Schweiz] Historische Wetterstation – Seit 1755 misst Basel das Klima – und die Hitze steigt
+- [20 Min Romandie] «Es ist nicht nur Folklore, es bleibt ein Wettkampf»
+- [SRF Ausland] König der Memes – «Walking Green Flag»: Warum Haaland die Herzen der Fans erobert
+- [SRF Schweiz] Wenn der Redefluss stockt – Im Stottercamp reden lernen
+- [SRF Ausland] Nach schweren Erdbeben – Stete Not ist der neue «Alltag» in Venezuela
+- [Journal de Morges] Sie spendeten Blut beim Regionalfest
+- [20 Min Romandie] Die Hitzewelle hält bis Donnerstag an, danach wird es kühler
+- [SRF Wirtschaft] Studie zum AKW-Bau – Neues AKW soll viel Geld bringen, doch der Staat müsste zahlen
+- [SRF Gesellschaft] Furore um altes Textil – Der Teppich von Bayeux: 1000 Jahre alte Geschichte und 93 Penisse
+- [20 Min Romandie] «Man muss handeln»: Von «Neonazis» verprügelt, bricht er sein Schweigen
+- [SRF Wissen] Viral auf Instagram – So geht Reissverschluss richtig: Kapo Zürich räumt mit Mythos auf
+- [SRF Schweiz] Kein Bänkli, viele Stufen – Mit Rollstuhl oder an Stöcken durch Zürich finden
+- [SRF Schweiz] Bilder vom Public Viewing – Freinacht endet im Drama: So fieberten die Fans mit der Nati mit
+- [SRF Ausland] Drogen, Prostitution, Handys – Wie die Kartelle von der WM in Mexiko profitieren
 - [SRF Ausland] Feuer im Süden Spaniens – Zwölf Tote bei Waldbrand – Flammen breiten sich nicht weiter aus
 - [20 Min Romandie] Rechtsextremes Treffen in letzter Minute abgesagt
-- [SRF Ausland] Nach kurzer Krankheit – US-Senator Lindsey Graham ist tot
 - [SRF Schweiz] Städtische Wärmeinsel – Solothurn setzt auf mobile Bäume gegen Hitze
 - [SRF Ausland] Ehemaliger Herrscher von Katar – Früherer Emir Hamad bin Chalifa Al Thani ist gestorben
 - [SRF Ausland] Duma-Wahlen in Russland – Unterstützung für Putin-Partei schwindet
@@ -33,20 +52,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Weniger Treibstoff – Schiffe auf dem Bielersee fahren langsamer – bringt's das?
 - [SRF Ausland] Digitales Rotes Kreuz – IKRK testet Schutzzeichen gegen Cyberangriffe
 - [20 Min Romandie] Hitze und Hagel: Bauern fürchten steigende Versicherungsprämien
-- [SRF Ausland] Brexit-Politikerin und TV-Star – Mord an Ann Widdecombe: Neuer Verdächtiger festgenommen
-- [20 Min Romandie] Beeindruckende Bilder: Ein Feld brennt in Saint-Cierges
-- [SRF Wirtschaft] Automarke wieder im Aufwind – Unpolitischer Elon Musk tut Tesla gut
-- [20 Min Romandie] Warum die Rolltreppen in Cornavin so oft stillstehen
-- [SRF Ausland] Machtwechsel in London – Experte: Burnham zieht wohl kampflos in die Downing Street
-- [SRF Wirtschaft] Beats, Bass und Berufung – Wie die Tech-Industrie am Openair Frauenfeld um Nachwuchs kämpft
-- [RTS Vaud] La Chaux-sur-Cossonay (VD) sagt rechtsextreme Konferenz ab
-- [20 Min Romandie] Paare während der Weltmeisterschaft: «Ich liebe sein kleines Quieken»
-- [SRF Schweiz] Nutzungskonflikte in den Alpen – Kontroverse nach Kuh‑Video aus dem Wallis
-- [SRF Ausland] Umstrittener Walfang – Isländischer Walfänger macht der Regierung Probleme
-- [RTS Vaud] Ein Seifenkistenrennen findet dieses Wochenende an der Waadtländer Côte statt
-- [SRF Wissen] «Cloud Seeding» – Könnte künstlicher Regen Abkühlung bringen?
-- [SRF Wissen] Geschwindigkeitsrekord – Von Genf nach Zürich in nur 15 Minuten
-- [SRF Schweiz] SFV gelingt Coup – Yakin kontert «Bösewicht»-Sprüche von Late-Night-Star
-- [SRF Ausland] Taifun «Bavi» – China evakuiert fast zwei Millionen Menschen wegen Sturms
-- [SRF Schweiz] Benimmregeln in der Badi – «Stop or Go»: Personal in Basler Gartenbädern greift härter durch
-- [SRF Schweiz] «Made in Switzerland» – Die Erfolgsgeschichte eines Haartrockners aus dem Tessin
