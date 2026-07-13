@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 13.7.2026, 06:30:36
-Letzter Lauf: 12.7.2026, 12:58:39
+Start: 13.7.2026, 12:58:39
+Letzter Lauf: 13.7.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,16 +17,28 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 23 neue Artikel geprüft:
-- Gelöscht (Grund: Duplikat zu Artikel ID 7 (beide behandeln den Tod von Lindsey Graham; SRF-Artikel ID 7 ist informativer).): 'Nach kurzer Krankheit – Trump-Vertrauter Lindsey Graham gestorben'
+KI-Filter (Gemini) - 13 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel ID 7 (beide behandeln den Tod von Lindsey Graham; SRF-Artikel ID 7 ist informati): 'Nach kurzer Krankheit – Trump-Vertrauter Lindsey Graham gestorben'
+- Gelöscht (Grund: Bericht über einen Brand in der Schweiz außerhalb des Kantons Waadt (Vaud).): 'Tourismus im Wallis – Trotz Brandkatastrophe: Crans-Montana erwartet stabilen Sommer'
 
 Finale Liste (live im XML-Feed):
+- [Journal de Morges] In Etoy wechselt L’Espérance den Kapitän, hält aber Kurs
+- [Journal de Morges] Ein Fehler verwehrt einem Lehrling aus Mont-la-Ville sein Diplom
+- [SRF Schweiz] Netzwerke – Diese Wirtschaftszirkel stehen nur Frauen offen
+- [SRF Schweiz] Hitzesommer – Schlägt 2026 den Jahrhundertsommer 2003?
+- [SRF Ausland] Gefährliche Seepassage um Stad – Norwegen baut den grössten Schiffstunnel der Welt
+- [20 Min Romandie] Hitzewelle in Spitälern: Schwierige Bedingungen angeprangert
+- [SRF Ausland] Grösste Tauschbörse – Panini jagt Weltrekord in Mexiko
+- [20 Min Romandie] 19-Jähriger erhält 8 Monate unbedingt: «Entschuldigung, Madame»
+- [20 Min Romandie] Bahnverkehr zwischen Coppet und Nyon wieder aufgenommen
+- [SRF Ausland] Angriffe bei Hormus – Die Vereinbarung Iran-USA ist nichts mehr wert
+- [20 Min Romandie] Beinahe ertrunkener Jugendlicher in letzter Sekunde von Freund gerettet
+- [SRF Ausland] Katastrophe in Thailand – 27 Tote bei Bar-Brand in Bangkok: Das ist bekannt
 - [20 Min Romandie] Nach über 60 Jahren vollendet: Das Gästebuch enthüllt seine Geheimnisse
 - [SRF Ausland] Brexit-Politikerin und TV-Star – Mord an Ann Widdecombe: Neuer Verdächtiger festgenommen
 - [SRF Schweiz] Versicherungsschutz – Warum Sie Ihren Hautkrebs der Unfallversicherung melden sollten
 - [SRF Schweiz] Wegen Naturgefahren – Nach Camping-Schliessung strömen Gäste ins Goms
 - [SRF Schweiz] Therapiehunde hinter Gittern – Bernhardinerhündin bringt Ablenkung ins Gefängnis
-- [SRF Ausland] Katastrophe in Thailand – 27 Tote bei Bar-Brand in Bangkok: Das ist bekannt
 - [SRF Schweiz] Wegen Bahnumbau – Ohne Säntisbahn fehlen der Käserei die Gäste
 - [SRF Ausland] Senator Graham ist tot – Warum Lindsey Graham für Trump so wichtig war
 - [SRF Schweiz] Historische Wetterstation – Seit 1755 misst Basel das Klima – und die Hitze steigt
@@ -43,12 +55,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Schweiz] Kein Bänkli, viele Stufen – Mit Rollstuhl oder an Stöcken durch Zürich finden
 - [SRF Schweiz] Bilder vom Public Viewing – Freinacht endet im Drama: So fieberten die Fans mit der Nati mit
 - [SRF Ausland] Drogen, Prostitution, Handys – Wie die Kartelle von der WM in Mexiko profitieren
-- [SRF Ausland] Feuer im Süden Spaniens – Zwölf Tote bei Waldbrand – Flammen breiten sich nicht weiter aus
-- [20 Min Romandie] Rechtsextremes Treffen in letzter Minute abgesagt
-- [SRF Schweiz] Städtische Wärmeinsel – Solothurn setzt auf mobile Bäume gegen Hitze
-- [SRF Ausland] Ehemaliger Herrscher von Katar – Früherer Emir Hamad bin Chalifa Al Thani ist gestorben
-- [SRF Ausland] Duma-Wahlen in Russland – Unterstützung für Putin-Partei schwindet
-- [SRF Gesellschaft] Kampf gegen Klischees – «Wir müssen über muslimische Männer sprechen»
-- [SRF Schweiz] Weniger Treibstoff – Schiffe auf dem Bielersee fahren langsamer – bringt's das?
-- [SRF Ausland] Digitales Rotes Kreuz – IKRK testet Schutzzeichen gegen Cyberangriffe
-- [20 Min Romandie] Hitze und Hagel: Bauern fürchten steigende Versicherungsprämien
