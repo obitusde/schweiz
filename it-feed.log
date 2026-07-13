@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 13.7.2026, 06:10:26
-Letzter Lauf: 12.7.2026, 12:28:19
+Start: 13.7.2026, 12:28:18
+Letzter Lauf: 13.7.2026, 06:10:26
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,22 +10,60 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | DJI Amflow PX Carbon Pro: E-Bike-Motor mit 1500 Watt im Test'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | E-MTB Canyon Strive:ON CF 9 mit Bosch Performance Line CX im Test'
+- Gelöscht wegen Keyword 'heise+': 'heise+ |  Sonys 100–400-mm-Telezoom im Test: Mit Innenzoom und konstanter Lichtstärke'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | USB-Kameramikroskope zum Arbeiten und Lernen im Test'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Ist Objektorientierung wirklich von gestern? Wir glauben: nein.'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c't-Konferenz Public IT: Wie Behörden ihre digitale Souveränität stärken'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Motorrad Yamaha R7 im Test: Wie gemacht für die Landstraßentour'
+- Gelöscht wegen Keyword 'podcast': 'Digital-Health-Podcast: Wie ein mehrfach Betroffener Datenlecks verhindern will'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: BCM – Notfallplanung und Notfallübungen'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Weniger Verlustfrust: So wappnen Sie Ihr iPhone für Verlust und Diebstahl'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: betterCode() Agentic AI: Zusätzlicher Workshop zu Legacy-Modernisierung'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Consul für macOS im Test: Der Formatwandler'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Tastatur von Corsair günstig wie nie bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Mini-Beamer fällt bei Amazon auf rund 50 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bestseller-Luftpumpe mit Akku jetzt zum Tiefpreis nur noch rund 23 Euro'
+- Gelöscht wegen Keyword '(g+)': '(g+) Artificial Intelligence: Who cleans up after the vibe-coding party?'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 240 Hz Curved Gaming-Monitor von Amzfast unter 140 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Balkonkraftwerk mit Anker-Speicher bei Kleines Kraftwerk für nur 977 Euro'
-- Gelöscht wegen Keyword '(g+)': '(g+) Technische Dokumentation als Beruf: Gewünschte Kenntnisse? Alles'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: IT-Jobs in Architektur, Engineering und Cloud'
 
-KI-Filter (Gemini) - 13 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Behandelt interne PC-Komponenten (Speicherchips/RAM).): 'Nasdaq: Hynix-CEO erwartet schwersten Engpass bei Speicherchips'
-- Weiterhin entfernt (Cache, Grund: Behandelt Netzwerk-Infrastruktur (VPN/WireGuard-Tunnel).): 'Video: VPN im Urlaub – Abo kaufen oder kostenlos selbst bauen?'
-- Gelöscht (Grund: Dieser Artikel behandelt Netzwerk-Infrastruktur (P2P-Topologie, Glasfaser-Netzbau), was ein hartes Ausschlusskriterium darstellt.): 'Glasfaser über P2P: Warum es in Deutschland keine 25 GBit/s für 70 Euro gibt'
-- Gelöscht (Grund: Dieser Artikel fällt unter das Thema Netzwerk-Infrastruktur (ISP-Technik, Glasfaser-Zugangstechnologie) und erfüllt somit die Ausschlusskriterien.): 'Init 7: Symmetrischer 25-GBit/s-Zugang ist "kein Marketing-Gag"'
+KI-Filter (Gemini) - 33 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Dieser Artikel behandelt Netzwerk-Infrastruktur (P2P-Topologie, Glasfaser-Netzbau), was ein hartes A): 'Glasfaser über P2P: Warum es in Deutschland keine 25 GBit/s für 70 Euro gibt'
+- Weiterhin entfernt (Cache, Grund: Dieser Artikel fällt unter das Thema Netzwerk-Infrastruktur (ISP-Technik, Glasfaser-Zugangstechnolog): 'Init 7: Symmetrischer 25-GBit/s-Zugang ist "kein Marketing-Gag"'
+- Gelöscht (Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwickler-Tools).): 'Quarkdown 2.4 macht Markdown programmierbar'
+- Gelöscht (Grund: Das Thema iPhone ist ein explizites Ausschlusskriterium.): 'iPhone 18 Pro Max: Komponentenpreise geschätzt um 300 US-Dollar erhöht'
+- Gelöscht (Grund: Fällt unter Netzwerk-Infrastruktur sowie Linux-Bastelei.): 'Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken'
+- Gelöscht (Grund: Behandelt Enterprise-IT (ShareFile-Administration/Server).): 'Progress warnt Admins: ShareFile deaktivieren'
+- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe Ereignis (EU-Bericht zum Mindestalter) wie Artikel 8.): 'Social-Media-Verbot: Könnte ein EU-Bericht den Weg ebnen?'
+- Gelöscht (Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwickler-Tools für Code).): 'Anthropic: In-App-Browser für Claude Code, Fable 5 länger „gratis“'
 
 Finale Liste (live im XML-Feed):
+- [Heise] Wegen Klimawandel: Satellitenbilder enthüllen Ernährungsumstellung von Pinguinen
+- [Golem] EZB: Diese Hürden muss der digitale Euro noch nehmen
+- [Heise] MIT und EPFL: Schlagflügelroboter fliegt und taucht
+- [Golem] Digitale Erschöpfung: Immer mehr Nutzer ziehen sich aus Social Media zurück
+- [Golem] Lange Laufzeit: CO2-Batterien schließen entscheidende Lücke
+- [Heise] Weiter, immer weiter: Firefox verlängert Support für Windows 7, 8 und 8.1
+- [Heise] Social-Media: EU-Expertenkommission fordert Mindestalter mit Ausnahmen
+- [Golem] Rüstung: Helsing bekommt 1,8 Milliarden US-Dollar in Finanzierungsrunde
+- [Golem] Datenpanne auf Github: US-Cyberbehörde hat eigene Security-Empfehlungen missachtet
+- [Golem] Playstation: EU greift bei Sonys Disc-Aus nicht ein
+- [Heise] Apple Pencil: Neues Modell im kommenden Jahr
+- [Golem] Shopping-App Phia: Vorwürfe gegen Start-up von Bill Gates' Tochter
+- [Heise] Hitzewelle: Temperaturen in Deutschland und Frankreich 9 Grad über dem Schnitt
+- [Golem] Jurassic-Park-Star: Sam Neill ist tot
+- [Golem] Microsoft-Supportende 2026: Diese Fristen sollten Nutzer und Unternehmen kennen
+- [Golem] Googles KI-Suche: Die Antwortmaschine wird zur Slop-Maschine
+- [Heise] Studie: Hersteller holen Pkw-Produktion wegen Zöllen in die EU zurück
+- [Heise] Speedrunning für den guten Zweck: SGDQ spendet 2.408.701 US-Dollar
+- [Golem] IT-Vorfall bei Dienstleister: Lidl informiert Kunden über Datenleck
+- [Heise] Ärger über verbotene Werbeanrufe wird noch größer
+- [Heise] General Fusion: Erste Kernfusionsfirma wird jetzt an der Börse gehandelt
+- [Heise] Nachhaltiger Flugkraftstoff: Gulfstream misst Partikelemissionen in großer Höhe
+- [Golem] Samsung Health: Zwang zur Freigabe für KI-Training
+- [Golem] Disneys Streamingabo: Zuschauer könnten bei Disney+ Filme und Serien ohne Abozahlung anschauen
+- [Golem] Pocketpair: Palworld gelingt beeindruckendes Comeback
+- [Heise] Auch Japans Weltraumagentur testet erfolgreich wiederverwendbare Rakete
+- [Heise] Montag: YouTube mit DuckDuckGo ohne Werbung, Copilot mit Microsoft-eigener KI
 - [Heise] Microsoft nutzt in manchen Apps offenbar eigene KI statt OpenAI und Anthropic
 - [Digitec] Die 100 besten Games aller Zeiten – das Nachspiel
 - [Heise] Top 10: Die beste Kompressor-Kühlbox im Test
@@ -33,13 +71,7 @@ Finale Liste (live im XML-Feed):
 - [Heise] DuckDuckGo-Browser blockiert jetzt YouTube-Werbung
 - [Heise] SK Hynix: US-Börsengang mit düsterer Prognose
 - [Heise] Xiaomi Smart Band 10 Pro im Test: Einer der besten Fitness-Tracker
-- [Heise] Polio: Wohl letzte Nutzerin einer "Eisernen Lunge" gestorben
+- [Heise] Polio: Wohl letzte Nutzerin einer „Eisernen Lunge“ gestorben
 - [Heise] Kulturinstitutionen fordern digitales Langzeitarchiv für Deutschland
 - [Heise] Meilenstein für Robotaxis: UN verabschiedet globales Recht für autonomes Fahren
 - [Golem] Mängelmelder: DHL bezeichnet Beschwerdezahl über Paketzustellung als "aufgebläht"
-- [Heise] Gesetzesentwurf: Bundesrat will Datenschutz für Firmen und NGOs vereinfachen
-- [Heise] VW-Chef: „Intelligentere Lösungen“ als Werksschließungen
-- [Golem] Vorschlag aus China: Asteroidenabwehr mit Atombomben
-- [Digitec] Indie-Dev fordert Steam zur Anpassung der Rückerstattungspolitik auf
-- [Heise] Wie Metas Kurswechsel die VR-Spielebranche verändert hat
-- [Golem] Maschinenträume 3: KI = Künstliche Ignoranz?
