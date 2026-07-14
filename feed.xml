@@ -5,14 +5,210 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 04:30:35 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Journal de Morges] In Etoy wechselt L’Espérance den Kapitän, hält aber Kurs</title>
-      <link>https://journaldemorges.ch/actualite/societe/a-etoy-lesperance-change-capitaine-mais-garde-le-cap/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/a-etoy-lesperance-change-capitaine-mais-garde-le-cap/</guid>
-      <description><![CDATA[Nach zehn Jahren an der Spitze von L’Espérance übergibt Jean-Claude Pittet an Fabien Courvoisier. Dieser wird die wachsende Betreuung von neuroatypischen Personen fortsetzen.]]></description>
-      <pubDate>Mon, 13 Jul 2026 10:59:02 GMT</pubDate>
+      <title>[SRF Schweiz] Sicherheitslücke Webcam – Live im Netz: Schweizer Webcams oft ohne Schutz</title>
+      <link>https://www.srf.ch/news/schweiz/sicherheitsluecke-webcam-live-im-netz-schweizer-webcams-oft-ohne-schutz</link>
+      <guid isPermaLink="false">urn:srf:article:019f4186-f2c0-519b-2af6-ecd02ebf809f</guid>
+      <description><![CDATA[Eine SRF-Recherche zeigt: Viele Kameras in der Schweiz sind ungesichert und senden für alle sichtbar ins Internet.]]></description>
+      <pubDate>Tue, 14 Jul 2026 04:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Externer Bericht – Illegale Pushbacks an EU-Grenze: Flossen auch Schweizer Gelder?</title>
+      <link>https://www.srf.ch/news/schweiz/externer-bericht-illegale-pushbacks-an-eu-grenze-flossen-auch-schweizer-gelder</link>
+      <guid isPermaLink="false">urn:srf:article:019f5857-55db-501e-d39e-774fa7109f6a</guid>
+      <description><![CDATA[Hat die Schweiz illegale Pushbacks an der EU-Grenze mitfinanziert? Ein externer Bericht findet dafür keine Belege.]]></description>
+      <pubDate>Tue, 14 Jul 2026 04:23:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Preisgeld der Fifa – SFV erhält Millionen für die WM-Kampagne – Erfolg war budgetiert</title>
+      <link>https://www.srf.ch/news/schweiz/preisgeld-der-fifa-sfv-erhaelt-millionen-fuer-die-wm-kampagne-erfolg-war-budgetiert</link>
+      <guid isPermaLink="false">urn:srf:article:019f5d8f-05d2-b19c-7564-568ff6884182</guid>
+      <description><![CDATA[Rund 870 Millionen Dollar zahlt die Fifa an Preisgeld an der diesjährigen WM aus. Der SFV bekommt davon 19 Millionen.]]></description>
+      <pubDate>Tue, 14 Jul 2026 03:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wenn der Schweizer ÖV erwacht – Von 0 auf 6488 in vier Stunden</title>
+      <link>https://www.srf.ch/news/schweiz/wenn-der-schweizer-oev-erwacht-von-0-auf-6488-in-vier-stunden</link>
+      <guid isPermaLink="false">urn:srf:article:019f46aa-f967-22b0-53ee-d20aed7c690f</guid>
+      <description><![CDATA[Sehen Sie die morgendliche «ÖV-Explosion» – vom ersten Postauto im Wallis bis zum Schiff auf dem Zugersee.]]></description>
+      <pubDate>Tue, 14 Jul 2026 03:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Rassistische Äusserungen – «Keine Franzosen im Team»: Frankreich empört über Rajoys Aussage</title>
+      <link>https://www.srf.ch/news/international/rassistische-aeusserungen-keine-franzosen-im-team-frankreich-empoert-ueber-rajoys-aussage</link>
+      <guid isPermaLink="false">urn:srf:article:019f5cb0-b270-e797-8360-e6a3b8e06750</guid>
+      <description><![CDATA[Frankreich ist empört, Spanien beschwichtigt: So wird die Entgleisung von Spaniens Ex-Ministerpräsident aufgenommen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 21:10:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Verfassungsreform – Ungarns Parlament setzt Präsident Sulyok ab – wie geht es weiter?</title>
+      <link>https://www.srf.ch/news/international/verfassungsreform-ungarns-parlament-setzt-praesident-sulyok-ab-wie-geht-es-weiter</link>
+      <guid isPermaLink="false">urn:srf:article:019f5c89-c725-e3db-6833-987d56ff780a</guid>
+      <description><![CDATA[Mit einer Verfassungsänderung wurde Präsident Sulyok abgesetzt. SRF-Korrespondent Balzli mit den Hintergründen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 20:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] 19-jähriger Franzose in Lausanne wegen Betrugs durch falsche Polizisten verurteilt</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/lausanne-prison-et-expulsion-pour-une-arnaque-au-faux-policier-29302527.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29302527</guid>
+      <description><![CDATA[Ein 19-jähriger Franzose wurde am Montag in Lausanne zu 16 Monaten Gefängnis verurteilt, davon acht Monate unbedingt, weil er an Betrügereien durch falsche Polizisten beteiligt war. Der Betrüger bestahl Freiburger und Waadtländer um insgesamt 23'000 Franken. Eines seiner Opfer]]></description>
+      <pubDate>Mon, 13 Jul 2026 19:39:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Dubiose Hinterzimmer-Abkommen – Gesucht: Ein neuer UNO-Generalsekretär</title>
+      <link>https://www.srf.ch/news/international/dubiose-hinterzimmer-abkommen-gesucht-ein-neuer-uno-generalsekretaer</link>
+      <guid isPermaLink="false">urn:srf:article:019f280c-94e6-f8cb-039d-067f2f680bc3</guid>
+      <description><![CDATA[Nach der Generalversammlung beschäftigt sich jetzt der Sicherheitsrat mit der Nachfolge von António Guterres.]]></description>
+      <pubDate>Mon, 13 Jul 2026 19:21:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Naher Osten – Zwei Top-Diplomatinnen auf Besuch in Syrien und Libanon</title>
+      <link>https://www.srf.ch/news/dialog/naher-osten-zwei-top-diplomatinnen-auf-besuch-in-syrien-und-libanon</link>
+      <guid isPermaLink="false">urn:srf:article:019f5b46-bab7-a235-38f3-1c92efbe5644</guid>
+      <description><![CDATA[Im Nahen Osten herrschen erneut Spannungen. Die Schweiz will eine diplomatische und humanitäre Rolle wahrnehmen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 18:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Taifun «Bavi» in China – Taifune, Propaganda und Schweigen über die Klimaveränderung</title>
+      <link>https://www.srf.ch/news/international/taifun-bavi-in-china-taifune-propaganda-und-schweigen-ueber-die-klimaveraenderung</link>
+      <guid isPermaLink="false">urn:srf:article:019f5bbe-9297-27f1-db7c-1d273f0cc43e</guid>
+      <description><![CDATA[China wird von mehreren Unwettern getroffen. Die Aufräumarbeiten werden zur politischen Selbstdarstellung genutzt.]]></description>
+      <pubDate>Mon, 13 Jul 2026 18:13:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Einsame Zugezogene – Expats fühlen sich in der Schweiz nicht willkommen</title>
+      <link>https://www.srf.ch/news/gesellschaft/einsame-zugezogene-expats-fuehlen-sich-in-der-schweiz-nicht-willkommen</link>
+      <guid isPermaLink="false">urn:srf:article:019f22f5-3a40-b1ec-d548-e614c5a0f79c</guid>
+      <description><![CDATA[Die Schweiz zieht viele internationale Fachkräfte an. Doch mit dem Zuzug verändert sich auch so mancher Lebensbereich.]]></description>
+      <pubDate>Mon, 13 Jul 2026 17:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bessere Energieeffizienz – Schweiz spart beim CO₂ ein</title>
+      <link>https://www.srf.ch/news/schweiz/bessere-energieeffizienz-schweiz-spart-beim-co2-ein</link>
+      <guid isPermaLink="false">urn:srf:article:019f5b78-4f1b-18a3-e0e6-9d64c8a1fb79</guid>
+      <description><![CDATA[Hauptursachen sind die bessere Energieeffizienz von Gebäuden und die Zunahme erneuerbarer Energien beim Heizen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 15:34:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] «Unzulässig!»: Nachtarbeiten wecken das Viertel auf</title>
+      <link>https://www.20min.ch/fr/story/geneve-inadmissible-des-travaux-nocturnes-reveillent-le-quartier-103602278</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-inadmissible-des-travaux-nocturnes-reveillent-le-quartier-103602278</guid>
+      <description><![CDATA[Ein Unternehmen hat mitten in der Nacht lautstark genagelt und gesägt, um die Bauzäune der Renovierungsbaustelle des Hotels Richemond zu verkleiden. Anwohner beschwerten sich.]]></description>
+      <pubDate>Mon, 13 Jul 2026 15:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Verhandlungen abgeschlossen – Schweiz-Grossbritannien: Einigung für Freihandelsabkommen erzielt</title>
+      <link>https://www.srf.ch/news/schweiz/verhandlungen-abgeschlossen-schweiz-grossbritannien-einigung-fuer-freihandelsabkommen-erzielt</link>
+      <guid isPermaLink="false">urn:srf:article:019f5b83-d2aa-2fed-c1a5-e7b0012ab7ea</guid>
+      <description><![CDATA[Die Schweiz und Grossbritannien haben sich auf ein erweitertes Freihandelsabkommen geeinigt. Die Hintergründe.]]></description>
+      <pubDate>Mon, 13 Jul 2026 15:18:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bach-Badeverbote wegen Hitze – Ausgerechnet wegen der Hitze ist Baden in der Birs untersagt</title>
+      <link>https://www.srf.ch/news/schweiz/bach-badeverbote-wegen-hitze-ausgerechnet-wegen-der-hitze-ist-baden-in-der-birs-untersagt</link>
+      <guid isPermaLink="false">urn:srf:article:019f5a7f-3527-84a6-6ede-a5403eb7b65c</guid>
+      <description><![CDATA[Fifi und Herrchen dürfen nicht in die Birs bei Basel, damit Fische die Hitze überleben. Nicht alle halten sich daran.]]></description>
+      <pubDate>Mon, 13 Jul 2026 15:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Fünf Regeln – Wie verhalte ich mich bei einem Waldbrand?</title>
+      <link>https://www.srf.ch/news/ratgeber/fuenf-regeln-wie-verhalte-ich-mich-bei-einem-waldbrand</link>
+      <guid isPermaLink="false">urn:srf:article:019f5a9f-699f-4884-37a5-fd065adf8e6c</guid>
+      <description><![CDATA[In Europa brennen vielerorts die Wälder. Auch in der Schweiz bleibt die Gefahr akut. Das sind die Tipps der Feuerwehr.]]></description>
+      <pubDate>Mon, 13 Jul 2026 15:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Britische Ex-Ministerin – Terrorabwehr übernimmt Ermittlungen im Mordfall Widdecombe</title>
+      <link>https://www.srf.ch/news/international/britische-ex-ministerin-terrorabwehr-uebernimmt-ermittlungen-im-mordfall-widdecombe</link>
+      <guid isPermaLink="false">urn:srf:article:019f5bd3-6487-50fc-b9b8-06a44895febb</guid>
+      <description><![CDATA[Neue Beweise bewegen die Ermittlungsbehörden dazu, dass die Terrorabwehr der Polizei den Fall übernimmt.]]></description>
+      <pubDate>Mon, 13 Jul 2026 15:01:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Der Check für Ihr Zuhause – Monoblock oder Split? So finden Sie das passende Klimagerät</title>
+      <link>https://www.srf.ch/wissen/mensch/der-check-fuer-ihr-zuhause-monoblock-oder-split-so-finden-sie-das-passende-klimageraet</link>
+      <guid isPermaLink="false">urn:srf:article:019f4af1-d7c9-7fb3-e634-25d202a9e659</guid>
+      <description><![CDATA[Wer ein Klimagerät kaufen und sich damit Abkühlung verschaffen will, steht vor vielen Fragen. Die wichtigsten Antworten.]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Baustelle am Bahnhofplatz von Lausanne verlagert sich nach Norden</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/lausanne-le-grand-chantier-de-la-gare-bascule-vers-le-nord-29302387.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29302387</guid>
+      <description><![CDATA[Der Bahnhofplatz von Lausanne hat in der Nacht von Sonntag auf Montag sein Gesicht verändert. Da die erste Phase der Arbeiten im Untergeschoss abgeschlossen ist, wurde der Baustellenbereich von Süden nach Norden verlegt. Während die Taxifahrer erfreut sind, leiden die Geschäftsleute weiterhin]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Brand zerstört Hecke eines Spielplatzes in Bussigny</title>
+      <link>https://www.20min.ch/fr/story/canton-de-vaud-un-incendie-ravage-la-haie-d-une-place-de-jeux-a-bussigny-103602464</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-un-incendie-ravage-la-haie-d-une-place-de-jeux-a-bussigny-103602464</guid>
+      <description><![CDATA[Das Feuer brach in der Nähe eines Spielplatzes aus, der zum Zeitpunkt des Geschehens glücklicherweise leer war. Der Brand wurde von der Feuerwehr schnell unter Kontrolle gebracht und forderte keine Verletzten.]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:45:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Tiefsee-Spektakel – Wo sich Kontinente bewegen, brodelt der Meeresgrund</title>
+      <link>https://www.srf.ch/wissen/natur-tiere/tiefsee-spektakel-wo-sich-kontinente-bewegen-brodelt-der-meeresgrund</link>
+      <guid isPermaLink="false">urn:srf:article:019f4b75-b6c0-9fdc-b67e-6e24b70681a8</guid>
+      <description><![CDATA[Forschende haben erstmals gemessen, wie sich tief unten im Meer tektonische Platten voneinander entfernen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:35:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Strand nur für Anwohner reserviert: Gemeinde weiterhin im Unrecht</title>
+      <link>https://www.20min.ch/fr/story/pregny-chambesy-ge-plage-reservee-aux-residents-commune-toujours-dans-l-illegalite-103602452</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/pregny-chambesy-ge-plage-reservee-aux-residents-commune-toujours-dans-l-illegalite-103602452</guid>
+      <description><![CDATA[Trotz einer Entscheidung des Grossen Rates schränkt Pregny-Chambésy den Zugang zu einem ihrer Strände ein. Das Amt für Gemeindeangelegenheiten wurde eingeschaltet.]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:33:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Norwegisches Königshaus – Marius Borg Høiby: Von der Haft in den Hausarrest</title>
+      <link>https://www.srf.ch/news/international/norwegisches-koenigshaus-marius-borg-hoiby-von-der-haft-in-den-hausarrest</link>
+      <guid isPermaLink="false">urn:srf:article:019f5b8b-2113-6f94-8cfc-57872fea0c89</guid>
+      <description><![CDATA[Nach seiner Verurteilung zu vier Jahren Haft kommt Borg Høiby vorerst aus der Untersuchungshaft frei – mit Fussfessel.]]></description>
+      <pubDate>Mon, 13 Jul 2026 13:46:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Schweizer Kunstgeschichte – «Kleine Sensation»: Riesiges Retro-Wandbild in Zug aufgetaucht</title>
+      <link>https://www.srf.ch/news/schweiz/schweizer-kunstgeschichte-kleine-sensation-riesiges-retro-wandbild-in-zug-aufgetaucht</link>
+      <guid isPermaLink="false">urn:srf:article:019f5ad6-e4da-d8e7-2184-94c6de82b3e3</guid>
+      <description><![CDATA[Beim Abriss eines Gebäudes in Zug ist ein Wandbild aus dem Jahr 1941 aufgetaucht. Ein Grafiker ist begeistert.]]></description>
+      <pubDate>Mon, 13 Jul 2026 13:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Jugendschutz – EU-Experten drängen auf strengere Altersregeln für Social Media</title>
+      <link>https://www.srf.ch/news/gesellschaft/jugendschutz-eu-experten-draengen-auf-strengere-altersregeln-fuer-social-media</link>
+      <guid isPermaLink="false">urn:srf:article:019f5b42-5281-eb8e-866d-311345c9645f</guid>
+      <description><![CDATA[Experten haben im Auftrag der EU-Kommission geprüft, ob es strengere Altersschranken für Social Media braucht.]]></description>
+      <pubDate>Mon, 13 Jul 2026 13:28:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Polizeiverstärkung beim G7 empört über Unterbringung im Palexpo</title>
+      <link>https://www.20min.ch/fr/story/geneve-renforts-policiers-au-g7-ulceres-de-leur-hebergement-a-palexpo-103602363</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-renforts-policiers-au-g7-ulceres-de-leur-hebergement-a-palexpo-103602363</guid>
+      <description><![CDATA[Kantonale Polizeigewerkschaften prangern die prekären Aufnahmebedingungen ihrer Beamten im Palexpo am Rande des Gipfels von Évian an. Der Staat Genf verteidigt sich.]]></description>
+      <pubDate>Mon, 13 Jul 2026 13:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Abbau bei Volkswagen – VW-Chef spricht von 50'000 wegfallenden Stellen</title>
+      <link>https://www.srf.ch/news/wirtschaft/abbau-bei-volkswagen-vw-chef-spricht-von-50-000-wegfallenden-stellen</link>
+      <guid isPermaLink="false">urn:srf:article:019f5b3d-8243-c7bf-8dac-5abe0d3ce5b0</guid>
+      <description><![CDATA[In einem internen Interview hat Blume angedeutet, dass weltweit zusätzlich 50'000 Stellen zur Disposition stehen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 13:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Katastrophe in Thailand – 27 Tote bei Bar-Brand in Bangkok: Das ist bekannt</title>
+      <link>https://www.srf.ch/news/international/katastrophe-in-thailand-27-tote-bei-bar-brand-in-bangkok-das-ist-bekannt</link>
+      <guid isPermaLink="false">urn:srf:article:019f57ee-b70c-d70a-b430-417993846352</guid>
+      <description><![CDATA[Beim Brand in einer Bar in der thailändischen Hauptstadt sind mindestens 27 Menschen ums Leben gekommen. Der Überblick.]]></description>
+      <pubDate>Mon, 13 Jul 2026 11:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Drohnen im Ukraine-Krieg – «An der Front gelten die Drohnenangriffe weniger als Gewinn»</title>
+      <link>https://www.srf.ch/news/international/ukraine/drohnen-im-ukraine-krieg-an-der-front-gelten-die-drohnenangriffe-weniger-als-gewinn</link>
+      <guid isPermaLink="false">urn:srf:article:019f5ad3-a15b-cb02-543f-7d1f6b7bd050</guid>
+      <description><![CDATA[Die ukrainischen Angriffe in Russland werden im Land unterschiedlich wahrgenommen, erklärt eine Journalistin.]]></description>
+      <pubDate>Mon, 13 Jul 2026 11:41:36 GMT</pubDate>
     </item>
     <item>
       <title>[Journal de Morges] Ein Fehler verwehrt einem Lehrling aus Mont-la-Ville sein Diplom</title>
@@ -22,15 +218,15 @@
       <pubDate>Mon, 13 Jul 2026 10:44:02 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Netzwerke – Diese Wirtschaftszirkel stehen nur Frauen offen</title>
-      <link>https://www.srf.ch/news/schweiz/netzwerke-diese-wirtschaftszirkel-stehen-nur-frauen-offen</link>
+      <title>[SRF Schweiz] Vernetzung ohne Männer – Diese Wirtschaftszirkel stehen nur Frauen offen</title>
+      <link>https://www.srf.ch/news/schweiz/vernetzung-ohne-maenner-diese-wirtschaftszirkel-stehen-nur-frauen-offen</link>
       <guid isPermaLink="false">urn:srf:article:019f3b7f-5c18-96bf-3967-c7301df1f8aa</guid>
       <description><![CDATA[In der Schweiz gibt es Zirkel, die nur Frauen offenstehen. Warum? Wir haben bei zwei Netzwerken nachgefragt.]]></description>
       <pubDate>Mon, 13 Jul 2026 10:03:14 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Hitzesommer – Schlägt 2026 den Jahrhundertsommer 2003?</title>
-      <link>https://www.srf.ch/news/schweiz/hitzesommer-schlaegt-2026-den-jahrhundertsommer-2003</link>
+      <title>[SRF Schweiz] Hitzesommer – Jahrhundertsommer? Der August wird entscheiden</title>
+      <link>https://www.srf.ch/news/schweiz/hitzesommer-jahrhundertsommer-der-august-wird-entscheiden</link>
       <guid isPermaLink="false">urn:srf:article:019f5a6e-4033-c6a9-a767-9ece5a97c40f</guid>
       <description><![CDATA[Falls die hohen Temperaturen im August anhalten, könnte 2026 zum Jahrhundertsommer werden, heisst es von SRF Meteo.]]></description>
       <pubDate>Mon, 13 Jul 2026 09:53:37 GMT</pubDate>
@@ -83,160 +279,6 @@
       <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-jeune-noye-secouru-in-extremis-par-un-de-ses-amis-103602199</guid>
       <description><![CDATA[Ein Jugendlicher erlitt im Genfersee einen Schwächeanfall und ging unter, bevor ihn einer seiner Freunde vom Seegrund rettete. Er überlebte.]]></description>
       <pubDate>Mon, 13 Jul 2026 06:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Katastrophe in Thailand – 27 Tote bei Bar-Brand in Bangkok: Das ist bekannt</title>
-      <link>https://www.srf.ch/news/international/katastrophe-in-thailand-27-tote-bei-bar-brand-in-bangkok-das-ist-bekannt</link>
-      <guid isPermaLink="false">urn:srf:article:019f57ee-b70c-d70a-b430-417993846352</guid>
-      <description><![CDATA[Beim Brand in einer Bar in der thailändischen Hauptstadt sind mindestens 27 Menschen ums Leben gekommen. Der Überblick.]]></description>
-      <pubDate>Mon, 13 Jul 2026 05:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Nach über 60 Jahren vollendet: Das Gästebuch enthüllt seine Geheimnisse</title>
-      <link>https://www.20min.ch/fr/story/chateau-de-chillon-complet-apres-plus-de-60-ans-le-livre-d-or-devoile-ses-secrets-103600004</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/chateau-de-chillon-complet-apres-plus-de-60-ans-le-livre-d-or-devoile-ses-secrets-103600004</guid>
-      <description><![CDATA[Von Unterschriften von Königin Elizabeth II. bis zu Salvador Dalí: Das Besucherregister wird begutachtet. Sein Wert könnte über 50'000 Franken liegen.]]></description>
-      <pubDate>Mon, 13 Jul 2026 04:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Brexit-Politikerin und TV-Star – Mord an Ann Widdecombe: Neuer Verdächtiger festgenommen</title>
-      <link>https://www.srf.ch/news/international/brexit-politikerin-und-tv-star-mord-an-ann-widdecombe-neuer-verdaechtiger-festgenommen</link>
-      <guid isPermaLink="false">urn:srf:article:019f4cf1-d87f-e104-3ca3-c7e2a51ca128</guid>
-      <description><![CDATA[Die ehemalige britische Parlamentsabgeordnete Ann Widdecombe ist tot in ihrem Haus aufgefunden worden.]]></description>
-      <pubDate>Mon, 13 Jul 2026 03:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Versicherungsschutz – Warum Sie Ihren Hautkrebs der Unfallversicherung melden sollten</title>
-      <link>https://www.srf.ch/news/schweiz/versicherungsschutz-warum-sie-ihren-hautkrebs-der-unfallversicherung-melden-sollten</link>
-      <guid isPermaLink="false">urn:srf:article:019f4afd-0aeb-f5f9-035a-e65485e6cb47</guid>
-      <description><![CDATA[Wer an beruflich bedingtem Hautkrebs leidet, erhält bessere Leistungen als «normal» Erkrankte.]]></description>
-      <pubDate>Mon, 13 Jul 2026 03:36:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wegen Naturgefahren – Nach Camping-Schliessung strömen Gäste ins Goms</title>
-      <link>https://www.srf.ch/news/schweiz/wegen-naturgefahren-nach-camping-schliessung-stroemen-gaeste-ins-goms</link>
-      <guid isPermaLink="false">urn:srf:article:019f4b4a-fc6f-a184-6711-2dc60c28bcd0</guid>
-      <description><![CDATA[Im März mussten im Wallis 13 Campingplätze per sofort schliessen. Jetzt läuft die Saison – auch dank Schutzmassnahmen.]]></description>
-      <pubDate>Mon, 13 Jul 2026 03:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Therapiehunde hinter Gittern – Bernhardinerhündin bringt Ablenkung ins Gefängnis</title>
-      <link>https://www.srf.ch/news/schweiz/therapiehunde-hinter-gittern-bernhardinerhuendin-bringt-ablenkung-ins-gefaengnis</link>
-      <guid isPermaLink="false">urn:srf:article:019f4b24-65cd-cc31-6d51-498b89c87499</guid>
-      <description><![CDATA[Therapie auf vier Pfoten: Warum Hunde in der Justizvollzugsanstalt Lenzburg zum Einsatz kommen.]]></description>
-      <pubDate>Mon, 13 Jul 2026 03:19:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wegen Bahnumbau – Ohne Säntisbahn fehlen der Käserei die Gäste</title>
-      <link>https://www.srf.ch/news/schweiz/wegen-bahnumbau-ohne-saentisbahn-fehlen-der-kaeserei-die-gaeste</link>
-      <guid isPermaLink="false">urn:srf:article:019f4b12-8d0c-4ba4-b5aa-205c97d3d263</guid>
-      <description><![CDATA[Die Seilbahn auf den Säntis steht wegen Umbauarbeiten still. In der benachbarten Schaukäserei bleiben die Kunden aus.]]></description>
-      <pubDate>Sun, 12 Jul 2026 19:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Senator Graham ist tot – Warum Lindsey Graham für Trump so wichtig war</title>
-      <link>https://www.srf.ch/news/international/senator-graham-ist-tot-warum-lindsey-graham-fuer-trump-so-wichtig-war</link>
-      <guid isPermaLink="false">urn:srf:article:019f574a-ec8d-6375-8495-7b810eb25f00</guid>
-      <description><![CDATA[SRF-Korrespondentin Barbara Colpi erklärt, welche politische Lücke der Republikaner in Washington hinterlässt.]]></description>
-      <pubDate>Sun, 12 Jul 2026 17:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Historische Wetterstation – Seit 1755 misst Basel das Klima – und die Hitze steigt</title>
-      <link>https://www.srf.ch/news/schweiz/historische-wetterstation-seit-1755-misst-basel-das-klima-und-die-hitze-steigt</link>
-      <guid isPermaLink="false">urn:srf:article:019f4b1c-66db-37ec-1609-7c152d4dc357</guid>
-      <description><![CDATA[Seit 60 Jahren liest Max Baumann auf dem Bruderholz Wetterdaten ab. Die Basler Messreihe zeigt: Basel wird wärmer.]]></description>
-      <pubDate>Sun, 12 Jul 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] «Es ist nicht nur Folklore, es bleibt ein Wettkampf»</title>
-      <link>https://www.20min.ch/fr/video/caisses-a-savon-a-saint-cergue-ce-n-est-pas-que-folklorique-ca-reste-une-competition-103601815</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/video/caisses-a-savon-a-saint-cergue-ce-n-est-pas-que-folklorique-ca-reste-une-competition-103601815</guid>
-      <description><![CDATA[In Saint-Cergue (VD) rasten die Fahrer der Leman Speed Down bei einem EM-Lauf die Route Blanche hinunter. Ob seifenkistenähnliche Fahrzeuge oder Skeletons – es war für jeden Geschmack etwas dabei.]]></description>
-      <pubDate>Sun, 12 Jul 2026 17:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] König der Memes – «Walking Green Flag»: Warum Haaland die Herzen der Fans erobert</title>
-      <link>https://www.srf.ch/news/international/koenig-der-memes-walking-green-flag-warum-haaland-die-herzen-der-fans-erobert</link>
-      <guid isPermaLink="false">urn:srf:article:019f5703-c33c-593b-2e38-cff4f77e4f41</guid>
-      <description><![CDATA[Nicht nur Tormaschine: Warum Erling Haaland an dieser WM die Herzen der Fans erobert hat.]]></description>
-      <pubDate>Sun, 12 Jul 2026 16:31:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wenn der Redefluss stockt – Im Stottercamp reden lernen</title>
-      <link>https://www.srf.ch/news/schweiz/wenn-der-redefluss-stockt-im-stottercamp-reden-lernen</link>
-      <guid isPermaLink="false">urn:srf:article:019f3b1b-c983-fc15-8a0f-b8622eee701b</guid>
-      <description><![CDATA[Das Stottercamp gibt es seit 25 Jahren. Wieso davon nicht nur 350 Jugendliche profitieren, sondern auch 450 Logopäden.]]></description>
-      <pubDate>Sun, 12 Jul 2026 15:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Nach schweren Erdbeben – Stete Not ist der neue «Alltag» in Venezuela</title>
-      <link>https://www.srf.ch/news/international/nach-schweren-erdbeben-stete-not-ist-der-neue-alltag-in-venezuela</link>
-      <guid isPermaLink="false">urn:srf:article:019f56a5-b7a4-9dae-d44f-5f7494b8cbd2</guid>
-      <description><![CDATA[Die Regierung versagt im Katastrophenmanagement. Und das Volk ist von den Strapazen zu erschöpft zum Protest.]]></description>
-      <pubDate>Sun, 12 Jul 2026 15:29:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Sie spendeten Blut beim Regionalfest</title>
-      <link>https://journaldemorges.ch/actualite/societe/ils-ont-donne-leur-sang-au-giron/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/ils-ont-donne-leur-sang-au-giron/</guid>
-      <description><![CDATA[Im Vorfeld des Jugendfestes von Aubonne organisierte die Jugend von Saint-Livres eine Blutspendeaktion im Gemeindesaal, die auf reges Interesse stiess.]]></description>
-      <pubDate>Sun, 12 Jul 2026 14:11:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Die Hitzewelle hält bis Donnerstag an, danach wird es kühler</title>
-      <link>https://www.20min.ch/fr/story/meteo-la-canicule-continuera-jusqu-a-jeudi-ca-se-rafraichira-ensuite-103601816</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/meteo-la-canicule-continuera-jusqu-a-jeudi-ca-se-rafraichira-ensuite-103601816</guid>
-      <description><![CDATA[Die Hitzewelle dauert mindestens bis zum 16. Juli an. Der Höhepunkt wird für Dienstag mit 38°C in Genf erwartet. Am Freitag sinken die Temperaturen durch Gewitter leicht.]]></description>
-      <pubDate>Sun, 12 Jul 2026 13:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Studie zum AKW-Bau – Neues AKW soll viel Geld bringen, doch der Staat müsste zahlen</title>
-      <link>https://www.srf.ch/news/wirtschaft/studie-zum-akw-bau-neues-akw-soll-viel-geld-bringen-doch-der-staat-muesste-zahlen</link>
-      <guid isPermaLink="false">urn:srf:article:019f5641-b75f-64d5-3818-29108309e223</guid>
-      <description><![CDATA[Eine Studie verspricht hohe Erträge und Arbeitsplätze durch ein neues AKW. Andere warnen vor hohen Kosten und Risiken.]]></description>
-      <pubDate>Sun, 12 Jul 2026 13:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Furore um altes Textil – Der Teppich von Bayeux: 1000 Jahre alte Geschichte und 93 Penisse</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/furore-um-altes-textil-der-teppich-von-bayeux-1000-jahre-alte-geschichte-und-93-penisse</link>
-      <guid isPermaLink="false">urn:srf:article:019f4bb9-8ca6-9e41-64a2-0fb93e419bcc</guid>
-      <description><![CDATA[Sex, Skandale und Stickerei: Die Rückkehr des fragilen Meisterwerks nach England löst einen beispiellosen Ansturm aus.]]></description>
-      <pubDate>Sun, 12 Jul 2026 13:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] «Man muss handeln»: Von «Neonazis» verprügelt, bricht er sein Schweigen</title>
-      <link>https://www.20min.ch/fr/story/lausanne-il-faut-agir-tabasse-par-des-neonazis-il-prend-la-parole-103601795</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-il-faut-agir-tabasse-par-des-neonazis-il-prend-la-parole-103601795</guid>
-      <description><![CDATA[Der Mann, der in Vidy wegen eines «Antifa»-T-Shirts angegriffen wurde, muss aufgrund mehrerer Gesichtsfrakturen operiert werden.]]></description>
-      <pubDate>Sun, 12 Jul 2026 12:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Viral auf Instagram – So geht Reissverschluss richtig: Kapo Zürich räumt mit Mythos auf</title>
-      <link>https://www.srf.ch/news/schweiz/viral-auf-instagram-so-geht-reissverschluss-richtig-kapo-zuerich-raeumt-mit-mythos-auf</link>
-      <guid isPermaLink="false">urn:srf:article:019f55e3-fd65-e223-cbac-00cfd5bdf90a</guid>
-      <description><![CDATA[Das Reissverschlussprinzip sorgt im Verkehr oft für Ärger. Ein Video der Kapo Zürich schafft Klarheit – mit Erfolg.]]></description>
-      <pubDate>Sun, 12 Jul 2026 12:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Kein Bänkli, viele Stufen – Mit Rollstuhl oder an Stöcken durch Zürich finden</title>
-      <link>https://www.srf.ch/news/schweiz/kein-baenkli-viele-stufen-mit-rollstuhl-oder-an-stoecken-durch-zuerich-finden</link>
-      <guid isPermaLink="false">urn:srf:article:019f3669-9676-2e95-7486-90bacc606e24</guid>
-      <description><![CDATA[Mit einem Online-Tool können sich Menschen mit einer Gehbehinderung die beste Route durch die Stadt erstellen lassen.]]></description>
-      <pubDate>Sun, 12 Jul 2026 11:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bilder vom Public Viewing – Freinacht endet im Drama: So fieberten die Fans mit der Nati mit</title>
-      <link>https://www.srf.ch/sport/fussball/fifa-wm-2026/bilder-vom-public-viewing-freinacht-endet-im-drama-so-fieberten-die-fans-mit-der-nati-mit</link>
-      <guid isPermaLink="false">urn:srf:article:019f5620-fdac-d129-8ce6-eef845c5513e</guid>
-      <description><![CDATA[Die besten Bilder von den Public Viewings in der Schweiz beim WM-Viertelfinal gegen Argentinien.]]></description>
-      <pubDate>Sun, 12 Jul 2026 11:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Drogen, Prostitution, Handys – Wie die Kartelle von der WM in Mexiko profitieren</title>
-      <link>https://www.srf.ch/news/dialog/drogen-prostitution-handys-wie-die-kartelle-von-der-wm-in-mexiko-profitieren</link>
-      <guid isPermaLink="false">urn:srf:article:019f4690-6eae-1e96-cddd-94c4a1502073</guid>
-      <description><![CDATA[Die WM hat Mexikos Städten Millionen Besucher gebracht – und dem organisierten Verbrechen Millioneneinnahmen beschert.]]></description>
-      <pubDate>Sun, 12 Jul 2026 10:59:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
