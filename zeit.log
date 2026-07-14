@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 13.7.2026, 06:59:31
-Letzter Lauf: 12.7.2026, 06:59:31
+Start: 14.7.2026, 06:59:30
+Letzter Lauf: 13.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,22 +20,30 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 16 neue Artikel geprueft:
-- Geloescht (Grund: Bezieht sich auf parteipolitische Forderungen (Grüne) und lokale deutsche Bildungsstrukturen.): [Gesellschaft] 'Katastrophenfall: Zehntausende Schüler für Katastrophenschutz ausgebildet'
-- Geloescht (Grund: Der Aspekt der Erziehung von Kleinkindern sowie lokale deutsche Sicherheitsaspekte fallen unter die Ausschlusskriterien.): [Gesellschaft] 'DLRG: »Am besten stehen Eltern einfach immer daneben«'
+KI-Filter (Gemini) - 24 neue Artikel geprueft:
+- Geloescht (Grund: Behandelt eine spezifische Auseinandersetzung der Berliner Kommunalpolitik / lokale deutsche Justiz.): [Gesellschaft] 'Verwaltungsgericht Berlin: Berliner Verkehrsbetriebe müssen »Nius«-Werbekampagne zeigen'
+- Geloescht (Grund: Zählt unter den Bereich Promis & Adel (Celebrities).): [Gesellschaft] 'Norwegen: Marius Borg Høiby kommt mit Fußfessel in den Hausarrest'
+- Geloescht (Grund: Duplikat zum informativeren Artikel 0 zum selben Ereignis.): [Gesellschaft] 'Thailand: Was wir über das Feuer in Bangkok wissen'
+- Geloescht (Grund: Duplikat zum informativeren/analytischeren Artikel 8 zum selben Thema.): [Digital] 'Social-Media-Altersgrenze: EU-Experten empfehlen Social-Media-Verbot für unter 13-Jährige'
 
 Finale Liste (live im XML-Feed):
-[_] Handelskrieg: Von China lernen? Das hat die Regierung in Peking jetzt verboten
-[_] Fernbeziehung: »Ich pendle 130 Kilometer, meine Partnerin 280 Kilometer«
-[_] Venezuela: Zahl der Toten nach Erdbeben in Venezuela steigt auf 4.490
-[_] Bangkok: Mindestens 27 Menschen sterben durch Brand in Bangkok
-[_] Kosten für Urlaub: »In zwölf Monaten haben wir 11.000 Euro für Fernreisen ausgegeben«
-[_] Fahrradfahren und Integration: Radfahren ist elitär. Muss es aber nicht bleiben
-[_] Forgotten Baby Syndrome: Bei 56 Grad im Kindersitz
-[_] Schutz vor Hitze: Drinnen ist besser, selbst im Sommer. Kapiert ihr jetzt auch, oder?
-[_] Wiener Schluss: In Wien durften sie nicht sterben
-[_] Hiroshima: Das Wunder von Hiroshima
-[_] Flightright: Wie ich (erfolgreich) versuchte, von Ryanair mein Geld zu kriegen
-[_] Wohnung kühlen: Hilfe, mein Zuhause ist eine Sauna!
-[_] Tempolimit auf Autobahnen: Tempolimit könnte Zahl der Unfalltoten laut Studie deutlich senken
-[_] Wohnungslosigkeit: Vollzeit, fest angestellt, unbefristet – und trotzdem wohnungslos
+[_] Feuer in Bangkok: Ermittler stellen nach Feuer in Bangkok Sicherheitsmängel fest
+[_] Geflüchtete Kinder in Deutschland: Verbände fordern Abschaffung von Asylbewerberleistungsgesetz
+[_] Zuckerfreie Kindheit: Kein Zucker fürs Kind? Es ist kompliziert …
+[_] Erneuerbare Energien: Ist das jetzt die Reiche-Delle?
+[_] Unwetter in Deutschland: Wetterdienst warnt vor Unwettern und Hitze
+[_] Solarenergie in der EU: Neuer Solarstromrekord in Deutschland im Mai und Juni
+[_] Kriegsdienstverweigerung: Zahl der Anträge auf Kriegsdienstverweigerung ist stark gestiegen
+[_] Mecklenburg-Vorpommern: Feuerwehr bekämpft Brand im Müritz-Nationalpark
+[_] Social-Media-Verbot: EU-Experten wollen ein Social-Media-Verbot bis 13. Ja, und jetzt?
+[_] USA: Zwölf Bundesstaaten klagen gegen die Warner-Übernahme durch Paramount
+[_] Klimaanlagen für zu Hause: Was Sie beim Kauf einer Klimaanlage wissen müssen
+[_] Bahnhofsmodernisierung: Bahn schließt 70 von 130 geplanten Bahnhofssanierungen ab
+[_] Hannes Kuhnwald: Wie streamt man 15 Stunden live vom Trecker, Landwirt_in_MV?
+[_] Renate Schmidt: »Die Frauenfrage ist längst zu einer Männerfrage geworden«
+[_] Ebola-Behandlung in Deutschland: Zweiter mit Ebola infizierter US-Bürger wird in Deutschland behandelt
+[_] Rheinmetall und Raytheon: Rheinmetall sichert sich Großauftrag in Großbritannien
+[_] VW-Stellenabbau: Volkswagen-Chef droht intern erstmals mit Abbau Zehntausender Stellen
+[_] Flugpreise: Irankrieg verteuert Flüge deutlich
+[_] Rechenzentren in der Schweiz: Die Maschinenstürmer von Beringen
+[_] USA und Iran: Ölpreise steigen nach neuen Angriffen am Golf
