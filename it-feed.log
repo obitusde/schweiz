@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 14.7.2026, 06:10:28
-Letzter Lauf: 13.7.2026, 12:28:18
+Start: 14.7.2026, 12:28:17
+Letzter Lauf: 14.7.2026, 06:10:28
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,15 +10,21 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Zuhause für Festplatten: 3,5-Zoll-Gehäuse für den Mac im Test'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Proaktive IT-Security mit Pentesting – Ethical Hacking für Admins'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Auf Leistung getrimmt: Die Betas von iOS, iPadOS und macOS 27 im Hands-on'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | KI in der Musik: Wenn Agenten selbst komponieren'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c’t-Webinar: Die faszinierende Welt der Quantenphysik verstehen'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Radio, Netzteil oder Messgerät: Ein modulares Gehäuse im Selbstbau'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Bloggen im Bluesky-Ökosystem: Leaflet, Pckt und Offprint im Vergleich'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Kameraklassiker Polaroid SX-70 im Test: So definierte sie Technik und Design neu'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Wie Fahrzeughersteller BYD bald Toyota und VW vom Thron stoßen will'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Flash-Talk: Die Speicherkrise verschärft sich weiter'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Fit für die Zukunft – Software im laufenden Betrieb modernisieren'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Ist Objektorientierung wirklich von gestern? Wir glauben: nein.'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c't-Konferenz Public IT: Wie Behörden ihre digitale Souveränität stärken'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Motorrad Yamaha R7 im Test: Wie gemacht für die Landstraßentour'
-- Gelöscht wegen Keyword 'podcast': 'Digital-Health-Podcast: Wie ein mehrfach Betroffener Datenlecks verhindern will'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: BCM – Notfallplanung und Notfallübungen'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kopfhörer mit adaptivem ANC und Hi-Res-Audio reduziert bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Anker-Schnellladegerät mit 160 Watt und drei Ports zum Tiefpreis für rund 100 Euro'
+- Gelöscht wegen Keyword 'podcast': 'Podcast Besser Wissen: Als PDAs magisch waren'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Cloud Competence Center: Roadmap und Governance'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Balkonkraftwerk mit 1.000 Watt fällt bei Amazon limitiert unter 250 Euro'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kabellose Powerbank mit 10.000 mAh für nur 24,69 Euro bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Rauchmelder von Hekatron mit App-Unterstützung zum Jahresbestpreis'
@@ -26,32 +32,62 @@ Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Handstaubsauger gegen Krümelchaos zum Tiefstpreis unter 40 Euro'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kabelloses Gaming-Headset von Logitech zum Sparpreis bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Monitor mit 32 Zoll von Odys zum neuen Tiefstpreis bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Einhell Akku-Scheren für den Garten noch bis morgen zum Tiefstpreis'
-- Gelöscht wegen Keyword '(g+)': '(g+) Cybersecurity: Wie eine Erpressergruppe reihenweise Peoplesoft-Systeme abräumt'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Insektenstichheiler für das Smartphone jetzt wieder zum Amazon-Tiefstpreis für nur 18 Euro.'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Tastatur von Corsair günstig wie nie bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Mini-Beamer fällt bei Amazon auf rund 50 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bestseller-Luftpumpe mit Akku jetzt nur noch rund 23 Euro bei Amazon'
-- Gelöscht wegen Keyword '(g+)': '(g+) Artificial Intelligence: Who cleans up after the vibe-coding party?'
 
-KI-Filter (Gemini) - 37 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwickler-Tools).): 'Quarkdown 2.4 macht Markdown programmierbar'
-- Weiterhin entfernt (Cache, Grund: Das Thema iPhone ist ein explizites Ausschlusskriterium.): 'iPhone 18 Pro Max: Komponentenpreise geschätzt um 300 US-Dollar erhöht'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Netzwerk-Infrastruktur sowie Linux-Bastelei.): 'Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken'
-- Weiterhin entfernt (Cache, Grund: Behandelt Enterprise-IT (ShareFile-Administration/Server).): 'Progress warnt Admins: ShareFile deaktivieren'
-- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe Ereignis (EU-Bericht zum Mindestalter) wie Artikel 8.): 'Social-Media-Verbot: Könnte ein EU-Bericht den Weg ebnen?'
-- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwickler-Tools für Code).): 'Anthropic: In-App-Browser für Claude Code, Fable 5 länger „gratis“'
-- Gelöscht (Grund: Dieser Artikel befasst sich mit Netzwerk-Infrastruktur und Glasfaser-Vorleistungen, was unter das Ausschlusskriterium Enterprise-IT & Netzwerk-Infrastruktur fällt.): 'Dark Fiber statt Bitstrom: Telekom kaufte bei M-net zu Dumpingpreisen ein'
-- Gelöscht (Grund: Inhaltlich geht es um die Regulierung von Netzwerk-Infrastruktur und Vorleistungsverträge im Telekommunikationssektor (Enterprise-IT & Netzwerk-Infrastruktur).): 'Netcologne: Telekom-Vorleistungsverträge schalten regionale Anbieter aus'
-- Gelöscht (Grund: Saugroboter sind ein explizit genanntes hartes Ausschlusskriterium.): 'Open-Source-Hardware: DIY-Saugroboter mit LiDAR und ROS 2'
-- Gelöscht (Grund: Der Artikel behandelt sowohl interne PC-Komponenten (CPUs) als auch Enterprise-Hardware (Serverprozessoren), beides sind Ausschlusskriterien.): 'Xeon 6-Serverprozessor: Intel gibt 5,7 Milliarden US-Dollar in Europa aus'
-- Gelöscht (Grund: Dieses Thema (Halbleiterfertigung für Prozessoren) fällt unter interne PC-Komponenten und Enterprise-IT. Zudem handelt es sich um ein Duplikat zum Ereignis in Artikel 16.): 'Trotz roter Zahlen: Intel investiert Milliarden in irische Halbleiterfabrik'
-- Gelöscht (Grund: Das Thema befasst sich mit Deep OS-Internals (Bootloader/Embedded Systems), was gemäß den Vorgaben zu entfernen ist.): 'Bootloader angreifbar: Sicherheitslücken in U-Boot gefährden unzählige Systeme'
-- Gelöscht (Grund: Der Artikel behandelt Enterprise-IT, Risikomanagement und gesetzliche IT-Vorgaben (NIS2), was unter die Kategorie Enterprise-IT fällt.): 'Krankenhaus-IT: Wenn „läuft doch noch“ nicht reicht'
-- Gelöscht (Grund: Themen rund um iOS sind explizit von der Liste auszuschließen.): 'iOS 27: Was es Neues bei CarPlay gibt'
+KI-Filter (Gemini) - 45 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Dieser Artikel befasst sich mit Netzwerk-Infrastruktur und Glasfaser-Vorleistungen, was unter das Au): 'Dark Fiber statt Bitstrom: Telekom kauft bei M-net zu Niedrigpreisen ein'
+- Weiterhin entfernt (Cache, Grund: Inhaltlich geht es um die Regulierung von Netzwerk-Infrastruktur und Vorleistungsverträge im Telekom): 'Netcologne: Telekom-Vorleistungsverträge schalten regionale Anbieter aus'
+- Weiterhin entfernt (Cache, Grund: Saugroboter sind ein explizit genanntes hartes Ausschlusskriterium.): 'Open-Source-Hardware: DIY-Saugroboter mit LiDAR und ROS 2'
+- Weiterhin entfernt (Cache, Grund: Der Artikel behandelt sowohl interne PC-Komponenten (CPUs) als auch Enterprise-Hardware (Serverproze): 'Xeon 6-Serverprozessor: Intel gibt 5,7 Milliarden US-Dollar in Europa aus'
+- Weiterhin entfernt (Cache, Grund: Dieses Thema (Halbleiterfertigung für Prozessoren) fällt unter interne PC-Komponenten und Enterprise): 'Trotz roter Zahlen: Intel investiert Milliarden in irische Halbleiterfabrik'
+- Weiterhin entfernt (Cache, Grund: Der Artikel behandelt Enterprise-IT, Risikomanagement und gesetzliche IT-Vorgaben (NIS2), was unter ): 'Krankenhaus-IT: Wenn „läuft doch noch“ nicht reicht'
+- Weiterhin entfernt (Cache, Grund: Themen rund um iOS sind explizit von der Liste auszuschließen.): 'iOS 27: Was es Neues bei CarPlay gibt'
+- Gelöscht (Grund: Inhalt betrifft Web-Infrastruktur.): 'Cloudflare Precursor: Bot-Erkennung durch Verhaltensanalyse'
+- Gelöscht (Grund: Belangloses Apple-Rauschen (Betriebssystem-Update/Beta).): 'MacOS 27 Public Beta: Rasant, wenig neue Features und hakelige KI'
+- Gelöscht (Grund: Fällt unter Enterprise-IT.): 'SAP-Patchday: Teils kritische Sicherheitslücken in mehreren Produkten gefixt'
+- Gelöscht (Grund: Betrifft Netzwerk-Infrastruktur (Rechenzentren).): 'Irland: Rechenzentren verbrauchen 23 Prozent des Landesstroms'
+- Gelöscht (Grund: Fällt unter Code-Theorie und Web-Infrastruktur.): 'Neu in .NET 10.0 [31]: Mehr Kontrolle beim Zertifikatsexport'
+- Gelöscht (Grund: Betrifft Web-Infrastruktur (Web-Framework).): 'Next.js strukturiert Sicherheitsmeldungen neu'
+- Gelöscht (Grund: Inhalt betrifft Web-Infrastruktur.): 'Cloudflare Precursor: Dieser Bot-Test hört nie auf zuzusehen'
+- Gelöscht (Grund: Harte Ausschlusskriterien: Apple Thema iOS.): 'iOS 27 & Co.: Die öffentlichen Betas sind da – das muss man wissen'
+- Gelöscht (Grund: Duplikat zu Artikel ID 26.): 'Probleme mit t.me-Domain: Telegram-Links funktionieren plötzlich nicht mehr'
+- Gelöscht (Grund: Fällt unter Code-Theorie.): 'Software Testing: Dokumentation mit KI-Personas automatisch prüfen'
+- Gelöscht (Grund: Fällt unter Enterprise-IT & Netzwerk-Infrastruktur (Cisco).): 'Alte Cisco-Lücke attackiert: Leitfaden zum Schutz'
+- Gelöscht (Grund: Duplikat zu Artikel ID 33.): 'Berliner Justiz-IT nach Lizenzproblemen komplett ausgefallen'
+- Gelöscht (Grund: Duplikat zu Artikel ID 31.): '„Nie dagewesene Transformation“: Hochrangige Warnung vor Folgen von KI für Jobs'
 
 Finale Liste (live im XML-Feed):
+- [Golem] Batterieherstellung: Drohender Preisverfall bei Batterien durch Überproduktion
+- [Heise] Tool nutzt AirPods für Scrollen per Kopfbewegung
+- [Golem] Temperatur grenzwertig: User verwirrt über rot leuchtende Steam Machine
+- [Heise] Lenovo verlagert Fokus von XR-Brillen auf KI-Wearables
+- [Golem] Vom Gefängnis aus: Häftling soll sich an Krypto-Diebstahl beteiligt haben
+- [Golem] KI-Slop in sozialen Medien: Linkedin und X haben besonders viele KI-Beiträge
+- [Golem] Apple: Möglicher Zusammenhang zwischen Zoll-Deal und Intel-Partnerschaft
+- [Heise] Elektroautos: Was die GEIG-Novelle in der Ladeinfrastruktur verändert
+- [Golem] Erster Kampfeinsatz: US-Militär schickt Drohnenboote gegen Iran
+- [Heise] Mit „IT-Notfallkarte“ und Co.: BSI hilft Arztpraxen bei IT-Sicherheit
+- [Heise] Von etwa 10.000: Erstes stellares Schwarzes Loch in Omega Centauri gefunden
+- [Golem] Robotik: MIT-Roboter fliegt und schwimmt wie ein Papageitaucher
+- [Heise] WhatCable: App zeigt konkrete USB-C-Verbindungen am Mac an
+- [Golem] Ukrainekrieg: Auterion und Skyfall liefern 50.000 KI-Drohnen
+- [Golem] Hybridkonsole: Nintendo plant offenbar Switch 2 mit OLED-Display
+- [Heise] Irankrieg und Berliner Sparpläne lösen Solarboom aus
+- [Golem] Elektromagnetisches Geschoss: Railgun hat Feldtest erfolgreich absolviert
+- [Golem] Künstliche Intelligenz: Claude 3 kann festgelegten Prinzipien folgen
+- [Heise] Telegram-Messenger: Kurzdomain t.me womöglich wegen US-Sanktionen gesperrt
+- [Heise] Betrügerischer Ransomware-Verhandler muss 70 Monate ins Gefängnis
+- [Golem] Dreo-Nebelventilator im Test: Was taugt ein Wassernebel-Ventilator bei der nächsten Hitzewelle?
+- [Heise] Graustufen-Bild vom Jupiter: Wie ein Mann mit einem Gameboy Sterne fotografiert
+- [Digitec] Jetzt erhältlich: Wandschalter-Module und neue Leuchten von Philips Hue
+- [Golem] Künstliche Intelligenz: Ökonomen warnen vor drastischen Folgen durch künstliche Intelligenz
+- [Heise] Floating Companion: Leise fliegender Begleitroboter für besseres Heim-Ambiente
+- [Golem] Problem mit Software-Lizenz: Anhaltender IT-Ausfall legt Berliner Gerichte lahm
+- [Golem] GJ 3378b: Potenziell bewohnbarer Gesteinsplanet entdeckt
+- [Golem] Mitmachaktion: Wie ist es bei dir mit ständiger Erreichbarkeit?
+- [Heise] SpaceX: FAA mit Untersuchung zufrieden, Starship soll am Donnerstag abheben
+- [Heise] HNF Paderborn zeigt Original-Racks des historischen Whirlwind-Rechners
+- [Heise] Autoindustrie: Rede von „Technologieoffenheit“ sendet laut DIW falsches Signal
+- [Heise] Dienstag: US-Bundestaaten klagen gegen Fusion, Mindestalter für soziale Medien
 - [Heise] 33 Sekunden Solar-Förderung in Österreich
 - [Heise] Hohe Preise bremsen Smartphone-Wettbewerb
 - [Digitec] Hilfe, mein Kind will gamen
@@ -77,36 +113,6 @@ Finale Liste (live im XML-Feed):
 - [Heise] Umstrittener Astrophysiker: Gruppe um Avi Loeb soll US-Regierung zu UFOs beraten
 - [Golem] RV-X-Rakete: Japan landet erfolgreich wiederverwendbare Rakete
 - [Digitec] EU-Kommission sieht Suchtgefahr bei Instagram und Facebook
-- [Golem] Atomsondentomografie: Auf der Suche nach unendlich vielen Batterieladezyklen
 - [Heise] Daimler-Truck-Chefin warnt vor existenziellen Folgen der EU-CO₂-Regeln
 - [Heise] KI-Brillen: So stellt sich Meta Gesichtserkennung vor
 - [Heise] Flugreisen: Powerbanks und E-Zigaretten gehören ins Handgepäck
-- [Heise] OpenSpec: Software von KI mit Spezifikationen entwickeln
-- [Heise] M-Chips: M7 mit bis zu 1,5 TByte – und warum Apple den M6 überspringt
-- [Digitec] EU-Gericht entscheidet: Streamingdienste dürfen «zurückgegeben» werden
-- [Heise] Wegen Klimawandel: Satellitenbilder enthüllen Ernährungsumstellung von Pinguinen
-- [Golem] EZB: Diese Hürden muss der digitale Euro noch nehmen
-- [Heise] MIT und EPFL: Schlagflügelroboter fliegt und taucht
-- [Golem] Digitale Erschöpfung: Immer mehr Nutzer ziehen sich aus Social Media zurück
-- [Golem] Lange Laufzeit: CO2-Batterien schließen entscheidende Lücke
-- [Heise] Weiter, immer weiter: Firefox verlängert Support für Windows 7, 8 und 8.1
-- [Heise] Social-Media: EU-Expertenkommission fordert Mindestalter mit Ausnahmen
-- [Golem] Rüstung: Helsing bekommt 1,8 Milliarden US-Dollar in Finanzierungsrunde
-- [Golem] Datenpanne auf Github: US-Cyberbehörde hat eigene Security-Empfehlungen missachtet
-- [Golem] Playstation: EU greift bei Sonys Disc-Aus nicht ein
-- [Heise] Apple Pencil: Neues Modell im kommenden Jahr
-- [Golem] Shopping-App Phia: Vorwürfe gegen Start-up von Bill Gates' Tochter
-- [Heise] Hitzewelle: Temperaturen in Deutschland und Frankreich 9 Grad über dem Schnitt
-- [Golem] Jurassic-Park-Star: Sam Neill ist tot
-- [Golem] Microsoft-Supportende 2026: Diese Fristen sollten Nutzer und Unternehmen kennen
-- [Golem] Googles KI-Suche: Die Antwortmaschine wird zur Slop-Maschine
-- [Heise] Studie: Hersteller holen Pkw-Produktion wegen Zöllen in die EU zurück
-- [Heise] Speedrunning für den guten Zweck: SGDQ spendet 2.408.701 US-Dollar
-- [Golem] IT-Vorfall bei Dienstleister: Lidl informiert Kunden über Datenleck
-- [Heise] Ärger über verbotene Werbeanrufe wird noch größer
-- [Heise] General Fusion: Erste Kernfusionsfirma wird jetzt an der Börse gehandelt
-- [Heise] Nachhaltiger Flugkraftstoff: Gulfstream misst Partikelemissionen in großer Höhe
-- [Golem] Samsung Health: Zwang zur Freigabe für KI-Training
-- [Golem] Disneys Streamingabo: Zuschauer könnten bei Disney+ Filme und Serien ohne Abozahlung anschauen
-- [Heise] Auch Japans Weltraumagentur testet erfolgreich wiederverwendbare Rakete
-- [Heise] Montag: YouTube mit DuckDuckGo ohne Werbung, Copilot mit Microsoft-eigener KI
