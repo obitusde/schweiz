@@ -5,105 +5,147 @@
     <link>https://obitusde.github.io/schweiz/zeit.xml</link>
     <description>KI-gefilterter Newsfeed der Zeit Online</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Jul 2026 04:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 04:59:30 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Wirtschaft] Handelskrieg: Von China lernen? Das hat die Regierung in Peking jetzt verboten</title>
-      <link>https://www.zeit.de/2026/30/dekret-837-china-investitionen-technologietransfer-aussenwirtschaft/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:1737611b-293b-420c-b6e0-2b2d624c7071}</guid>
-      <description><![CDATA[Deutsche Unternehmen sehen chinesische Technologie-Unternehmen inzwischen als Vorbild. Doch seit diesem Juli ist das Zusammenarbeiten kaum mehr mehr möglich]]></description>
-      <pubDate>Mon, 13 Jul 2026 03:13:01 GMT</pubDate>
+      <title>[Gesellschaft] Feuer in Bangkok: Ermittler stellen nach Feuer in Bangkok Sicherheitsmängel fest</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/feuer-bangkok-nachtclub-tote-sicherheitsmaengel</link>
+      <guid isPermaLink="false">{urn:uuid:df80036c-48da-47f5-acd9-4c77f9968b96}</guid>
+      <description><![CDATA[Brennbare Materialien und versperrte Notausgänge sollen die Brandkatastrophe in Bangkok begünstigt haben. Die Zahl der Toten durch das Feuer ist gestiegen.]]></description>
+      <pubDate>Tue, 14 Jul 2026 04:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Arbeit] Fernbeziehung: »Ich pendle 130 Kilometer, meine Partnerin 280 Kilometer«</title>
-      <link>https://www.zeit.de/arbeit/2026-07/fernbeziehung-vorteile-beruf-pendeln-partnerschaft/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:590bcfa0-769e-4677-a726-652d0f80dc0e}</guid>
-      <description><![CDATA[Wegen des Jobs wegziehen? Was belastend klingt, kann eine Liebe auch stärken. Drei Menschen erzählen, was sie aus vielen Jahren Fernbeziehung gelernt haben.]]></description>
-      <pubDate>Mon, 13 Jul 2026 03:08:58 GMT</pubDate>
+      <title>[Gesellschaft] Geflüchtete Kinder in Deutschland: Verbände fordern Abschaffung von Asylbewerberleistungsgesetz</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/gefluechtete-kinder-deutschland-teilhabe-gesundheitsversorgung-paritaetischer-gesamtverband-save-the-children</link>
+      <guid isPermaLink="false">{urn:uuid:86afb304-d1db-47af-a27e-3ccb51b6720f}</guid>
+      <description><![CDATA[Save the Children und der Paritätische Gesamtverband beklagen eine gravierende Benachteiligung geflüchteter Kinder. Die Bezahlkarte verschärfe die Probleme sogar noch.]]></description>
+      <pubDate>Tue, 14 Jul 2026 04:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Venezuela: Zahl der Toten nach Erdbeben in Venezuela steigt auf 4.490</title>
-      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/venezuela-erdbeben-tote-suedamerika-zerstoerung</link>
-      <guid isPermaLink="false">{urn:uuid:dd5e3619-8003-4734-a0b3-cafaa660e607}</guid>
-      <description><![CDATA[Die Zahl der Toten bei dem verheerenden Erdbeben in Venezuela ist erneut gestiegen. Der Präsident der Nationalversammlung spricht von 4.490.]]></description>
-      <pubDate>Sun, 12 Jul 2026 21:08:54 GMT</pubDate>
+      <title>[Gesellschaft] Zuckerfreie Kindheit: Kein Zucker fürs Kind? Es ist kompliziert …</title>
+      <link>https://www.zeit.de/familie/2026-07/zuckerfreie-kindheit-ernaehrung-kinder-eltern/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:b7a5feda-04c9-4eeb-b54a-0ea25586ed34}</guid>
+      <description><![CDATA[Manche Eltern wollen eine zuckerfreie Kindheit erreichen. Doch das ist eine Illusion. Selbst Kinderärzte raten von Verboten ab und empfehlen genaueres Hinsehen.]]></description>
+      <pubDate>Tue, 14 Jul 2026 03:49:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Bangkok: Mindestens 27 Menschen sterben durch Brand in Bangkok</title>
-      <link>https://www.zeit.de/gesellschaft/2026-07/bangkok-feuer-bar-brand-tote</link>
-      <guid isPermaLink="false">{urn:uuid:23c74e68-f17b-4d60-933e-c08d0b6173cc}</guid>
-      <description><![CDATA[Bei einem Brand in einer Bar in Bangkok sind mindestens 27 Menschen gestorben. Die Brandursache sei noch ungeklärt, sagte der thailändische Premierminister vor Ort.]]></description>
-      <pubDate>Sun, 12 Jul 2026 19:39:45 GMT</pubDate>
+      <title>[Wirtschaft] Erneuerbare Energien: Ist das jetzt die Reiche-Delle?</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/erneuerbare-energie-wind-solar-strom-eeg</link>
+      <guid isPermaLink="false">{urn:uuid:396098c4-9aff-4432-84d0-8164d4feefc3}</guid>
+      <description><![CDATA[Der Ausbau von Wind- und Solaranlagen kommt nur schleppend voran, auch weil die neue Förderung unklar ist. Dafür erlebt Deutschland einen Boom bei Batteriespeichern.]]></description>
+      <pubDate>Tue, 14 Jul 2026 03:38:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Mobilität] Kosten für Urlaub: »In zwölf Monaten haben wir 11.000 Euro für Fernreisen ausgegeben«</title>
-      <link>https://www.zeit.de/mobilitaet/2026-07/urlaubskosten-reisen-ausgaben-fernreisen-app</link>
-      <guid isPermaLink="false">{urn:uuid:fb06308c-b88e-4b6a-903d-949285dd3904}</guid>
-      <description><![CDATA[Christian Heufelder und Jasmin Schnürle waren schon auf Weltreise, aber haben noch eine lange Bucketlist. Hier erklären sie, wie sie beim Reisen sparen.]]></description>
-      <pubDate>Sun, 12 Jul 2026 13:01:38 GMT</pubDate>
+      <title>[Gesellschaft] Unwetter in Deutschland: Wetterdienst warnt vor Unwettern und Hitze</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/unwetter-deutschland-dwd-gewitter-starkregen</link>
+      <guid isPermaLink="false">{urn:uuid:38ca9d35-986d-425e-9400-3a0e7cafaac3}</guid>
+      <description><![CDATA[Nach nächtlichen Gewittern im Norden kann es im Laufe des Tages vor allem in der Mitte und im Süden des Landes stürmen. Temperaturen können weit über 30 Grad erreichen.]]></description>
+      <pubDate>Tue, 14 Jul 2026 02:45:26 GMT</pubDate>
     </item>
     <item>
-      <title>[Mobilität] Fahrradfahren und Integration: Radfahren ist elitär. Muss es aber nicht bleiben</title>
-      <link>https://www.zeit.de/mobilitaet/2026-07/fahrrad-integration-migration-mobilitaet-armut/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:1b1b3ac5-02b9-4e1e-9f2e-2b7f44693ec2}</guid>
-      <description><![CDATA[Menschen mit wenig Geld, insbesondere Zugewanderte, nutzen selten das Fahrrad. Woran das liegt – und wie es sich ändern ließe.]]></description>
-      <pubDate>Sun, 12 Jul 2026 12:20:43 GMT</pubDate>
+      <title>[Wirtschaft] Solarenergie in der EU: Neuer Solarstromrekord in Deutschland im Mai und Juni</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/solarenergie-eu-strom-quellen-rekord</link>
+      <guid isPermaLink="false">{urn:uuid:924433ec-ecb3-4463-ac89-bfe876d6726d}</guid>
+      <description><![CDATA[In den zwei zurückliegenden Monaten ist in Deutschland mehr Solarstrom gewonnen worden als je zuvor. Sonnenenergie war im Juni zudem die größte Stromquelle in der EU.]]></description>
+      <pubDate>Mon, 13 Jul 2026 23:22:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Mobilität] Forgotten Baby Syndrome: Bei 56 Grad im Kindersitz</title>
-      <link>https://www.zeit.de/mobilitaet/2025-06/forgotten-baby-syndrome-auto-kinder-child-presence-detection-warnsysteme/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:1c6446ce-2ca5-4ee0-ab98-d74b64449acb}</guid>
-      <description><![CDATA[Beim Forgotten Baby Syndrome vergessen Eltern ihr Kind im Auto – gerade bei Hitze hochgefährlich. Schuld ist eine Hirnfunktion. Warnsysteme können Tragödien verhindern.]]></description>
-      <pubDate>Sun, 12 Jul 2026 12:09:15 GMT</pubDate>
+      <title>[Gesellschaft] Kriegsdienstverweigerung: Zahl der Anträge auf Kriegsdienstverweigerung ist stark gestiegen</title>
+      <link>https://www.zeit.de/politik/ausland/2026-07/kriegsdienstverweigerung-antraege-wehrdienstgesetz-musterung</link>
+      <guid isPermaLink="false">{urn:uuid:0a9a9ab7-8b27-4d4c-84f1-19a2e727427d}</guid>
+      <description><![CDATA[Seit der Wehrpflichtreform gibt es immer mehr Kriegsdienstverweigerer. 2026 wurden bereits mehr Anträge gezählt als im ganzen Jahr der Aussetzung der Wehrpflicht 2011.]]></description>
+      <pubDate>Mon, 13 Jul 2026 22:07:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Entdecken] Schutz vor Hitze: Drinnen ist besser, selbst im Sommer. Kapiert ihr jetzt auch, oder?</title>
-      <link>https://www.zeit.de/2026/30/schutz-hitze-drinnen-sommer-hitzewelle-gesundheit/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:2eba2788-7a7c-4c00-82d8-9fabd974ed60}</guid>
-      <description><![CDATA[Vielen dämmert langsam, was unser Autor schon immer wusste: Die Deutschen haben die Sonne lang überschätzt. Hört ihn an, liebe Draußen-Junkies. Er weiß, wovon er spricht.]]></description>
-      <pubDate>Sun, 12 Jul 2026 12:01:53 GMT</pubDate>
+      <title>[Gesellschaft] Mecklenburg-Vorpommern: Feuerwehr bekämpft Brand im Müritz-Nationalpark</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/mueritz-nationalpark-waldbrand-mecklenburgische-seenplatte-evakuierung</link>
+      <guid isPermaLink="false">{urn:uuid:67df2cdf-7abb-45d0-a40a-edce0d8c2349}</guid>
+      <description><![CDATA[Der Brand im Müritz-Nationalpark hat sich auf rund 155.000 Quadratmeter Fläche ausgebreitet. Zwischenzeitlich mussten Bewohner mehrerer Ortschaften ihre Häuser verlassen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 22:05:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Wiener Schluss: In Wien durften sie nicht sterben</title>
-      <link>https://www.zeit.de/2026/30/wiener-schluss-theater-shakespeare-burgtheater-joseph-ii/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:182cff15-91bf-46ee-8fb6-a9704bde9474}</guid>
-      <description><![CDATA[Selbst Romeo und Julia werden glücklich: Als Kaiser Joseph II. vor 250 Jahren das »Theater nächst der Burg« zum Nationaltheater erhebt, wird das Happy End zur Pflicht.]]></description>
-      <pubDate>Sun, 12 Jul 2026 09:54:07 GMT</pubDate>
+      <title>[Digital] Social-Media-Verbot: EU-Experten wollen ein Social-Media-Verbot bis 13. Ja, und jetzt?</title>
+      <link>https://www.zeit.de/digital/internet/2026-07/social-media-verbot-kinder-smartphone-sucht-eltern</link>
+      <guid isPermaLink="false">{urn:uuid:37bdd938-5000-4a74-92e7-7c41eb2e121c}</guid>
+      <description><![CDATA[Kinder in der EU sollten bis 13 keine problematischen digitalen Dienste nutzen, raten Experten. Dabei ist unklar, ob das etwas bringt. Es könnte sogar etwas kaputtgehen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 19:42:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Entdecken] Hiroshima: Das Wunder von Hiroshima</title>
-      <link>https://www.zeit.de/2026/30/hiroshima-atombomben-abwurf-japan-alltag-schoenheit/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:9e98dfcc-5563-46fa-87ba-b9e0f2afe1ed}</guid>
-      <description><![CDATA[Natürlich sieht man in der japanischen Stadt noch die Spuren der einstigen Zerstörung. Aber viel öfter entdeckt man einen zauberhaften Ort, wo die Rehe freundlich grüßen.]]></description>
-      <pubDate>Sun, 12 Jul 2026 08:33:32 GMT</pubDate>
+      <title>[Wirtschaft] USA: Zwölf Bundesstaaten klagen gegen die Warner-Übernahme durch Paramount</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/warner-bros-paramount-uebernahme-klage-kalifornien</link>
+      <guid isPermaLink="false">{urn:uuid:94831c77-e65f-4e67-bbd0-260d3f62415c}</guid>
+      <description><![CDATA[Mehrere US-Bundesstaaten sehen durch die Warner-Übernahme durch Paramount den freien Wettbewerb eingeschränkt. Höhere Preise und weniger Filme könnten die Folge sein.]]></description>
+      <pubDate>Mon, 13 Jul 2026 18:05:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Flightright: Wie ich (erfolgreich) versuchte, von Ryanair mein Geld zu kriegen</title>
-      <link>https://www.zeit.de/2026/30/flightright-fluggastrechte-entschaedigung-amtsgerichte-ryanair/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:6fffe442-8256-4a40-a4b8-65a9f394c20d}</guid>
-      <description><![CDATA[Flightright verspricht, die Entschädigung für einen verspäteten Flug einzutreiben. Im Zweifel sogar: mehr als ich gezahlt habe. Drei Jahre später muss ich vor Gericht.]]></description>
-      <pubDate>Sun, 12 Jul 2026 08:25:52 GMT</pubDate>
+      <title>[Wirtschaft] Klimaanlagen für zu Hause: Was Sie beim Kauf einer Klimaanlage wissen müssen</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/klimaanlage-kaufen-kosten-wohnung-genehmigung-hitze</link>
+      <guid isPermaLink="false">{urn:uuid:32a3b7c4-1f6a-4912-a613-10281ca88c61}</guid>
+      <description><![CDATA[Hitze, um die 40 Grad: Klimaanlagen sind derzeit gefragter denn je. Welche sich für Ihre Wohnung eignet, was sie kostet – und wie Sie sich bis zu ihrem Einbau kühlen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Wirtschaft] Wohnung kühlen: Hilfe, mein Zuhause ist eine Sauna!</title>
-      <link>https://www.zeit.de/geld/2026-07/wohnung-kuehlen-hitze-schutz-hitzewelle-sommer/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:2638e045-48aa-496c-bcc3-5c1fb91c397f}</guid>
-      <description><![CDATA[Die Hitze lässt sich in fast jeder Wohnung erträglicher machen. Wie Eigentümer und Mieter wirklich für Abkühlung sorgen. Und was das kostet.]]></description>
-      <pubDate>Sun, 12 Jul 2026 07:08:43 GMT</pubDate>
+      <title>[Mobilität] Bahnhofsmodernisierung: Bahn schließt 70 von 130 geplanten Bahnhofssanierungen ab</title>
+      <link>https://www.zeit.de/mobilitaet/2026-07/deutsche-bahn-bahnhof-modernisierung-db-infrago-2035</link>
+      <guid isPermaLink="false">{urn:uuid:42fcf332-4f02-4a1f-8269-85ecec98bf46}</guid>
+      <description><![CDATA[130 Bahnhöfe sollen in diesem Jahr »zukunftsfähig« werden. Mit dem Programm will die Bahn den »Start einer jeden Fahrt so positiv wie möglich« gestalten.]]></description>
+      <pubDate>Mon, 13 Jul 2026 13:17:17 GMT</pubDate>
     </item>
     <item>
-      <title>[Mobilität] Tempolimit auf Autobahnen: Tempolimit könnte Zahl der Unfalltoten laut Studie deutlich senken</title>
-      <link>https://www.zeit.de/mobilitaet/2026-07/tempolimit-autobahnen-unfaelle-tote-studie-siegfried-brockmann-gxe</link>
-      <guid isPermaLink="false">{urn:uuid:86890900-92e5-4856-85bc-a541c3b8312f}</guid>
-      <description><![CDATA[Laut einer Untersuchung könnte ein Tempolimit die Zahl der Unfalltoten auf Autobahnen um 30 Prozent senken. Das entspräche in Deutschland 90 geretteten Leben pro Jahr.]]></description>
-      <pubDate>Sun, 12 Jul 2026 06:48:31 GMT</pubDate>
+      <title>[Gesellschaft] Hannes Kuhnwald: Wie streamt man 15 Stunden live vom Trecker, Landwirt_in_MV?</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/hannes-kuhnwald-mv-landwirtschaft-social-media</link>
+      <guid isPermaLink="false">{urn:uuid:3202cb9b-22d4-462a-9039-230ece14e277}</guid>
+      <description><![CDATA[Der 36-jährige Hannes Kuhnwald, im Netz bekannt als Landwirt_in_MV, bringt Menschen die Landwirtschaft näher – mit Starlink, Drohne und unbändiger Liebe für Nutzpflanzen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 13:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Gesellschaft] Wohnungslosigkeit: Vollzeit, fest angestellt, unbefristet – und trotzdem wohnungslos</title>
-      <link>https://www.zeit.de/2026/30/wohnungslosigkeit-bonn-fahrdienst-sozialwohnungen-miete/komplettansicht</link>
-      <guid isPermaLink="false">{urn:uuid:1acbef8f-d832-40c0-80da-e21a95c1060b}</guid>
-      <description><![CDATA[Sie verdienen Geld, zahlen Steuern und Sozialabgaben. Doch ein Zuhause finden sie nicht. Micha Neumeier ist einer von vielen, die im Obdachlosenheim leben müssen.]]></description>
-      <pubDate>Sun, 12 Jul 2026 06:05:35 GMT</pubDate>
+      <title>[Gesellschaft] Renate Schmidt: »Die Frauenfrage ist längst zu einer Männerfrage geworden«</title>
+      <link>https://www.zeit.de/familie/2026-07/renate-schmidt-elterngeld-familienpolitik-spd-lebensgeschichte/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:c3994c84-2729-4e02-9c96-d2f7056a4fe4}</guid>
+      <description><![CDATA[Wie blickt die Erfinderin des Elterngeldes auf Kürzungen für Familien? Renate Schmidt über Küsschen-Rufe im Parlament und ihre eigene Familie, die sie oft gerettet hat]]></description>
+      <pubDate>Mon, 13 Jul 2026 12:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Gesellschaft] Ebola-Behandlung in Deutschland: Zweiter mit Ebola infizierter US-Bürger wird in Deutschland behandelt</title>
+      <link>https://www.zeit.de/gesellschaft/2026-07/ebola-frankfurt-patient-uniklinik-dr-kongo</link>
+      <guid isPermaLink="false">{urn:uuid:19587cdc-c5c2-499f-8cb6-c17ab5915d11}</guid>
+      <description><![CDATA[Ein mit Ebola infizierter US-Bürger ist zur Behandlung in Deutschland nach Frankfurt gebracht worden. Für andere Patienten soll keinerlei Gefahr bestehen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 11:07:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] Rheinmetall und Raytheon: Rheinmetall sichert sich Großauftrag in Großbritannien</title>
+      <link>https://www.zeit.de/wirtschaft/unternehmen/2026-07/rheinmetall-raytheon-rtx-britische-armee-digitalisierung-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:6c66dd66-c4d7-4b1e-a9f2-121c90b995f7}</guid>
+      <description><![CDATA[Gemeinsam mit einem US-Partner übernimmt Rheinmetall ein Milliardenprojekt beim britischen Militär. Standorte und Belegschaft in Großbritannien sollen ausgebaut werden.]]></description>
+      <pubDate>Mon, 13 Jul 2026 10:36:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] VW-Stellenabbau: Volkswagen-Chef droht intern erstmals mit Abbau Zehntausender Stellen</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/vw-stellenabbau-oliver-blume-jobs-kostensenkung</link>
+      <guid isPermaLink="false">{urn:uuid:8c9f1d82-e4ea-4b27-9302-99053c7327c0}</guid>
+      <description><![CDATA[Seit Wochen herrscht bei VW Unklarheit über das Ausmaß eines geplanten Stellenabbaus. In einem internen Interview hat sich Oliver Blume nun mit konkreten Zahlen geäußert.]]></description>
+      <pubDate>Mon, 13 Jul 2026 09:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Mobilität] Flugpreise: Irankrieg verteuert Flüge deutlich</title>
+      <link>https://www.zeit.de/mobilitaet/2026-07/flugpreise-ticketpreise-statistisches-bundesamt-international-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:d0e0631e-a9b4-4f74-9782-3d55f53381f9}</guid>
+      <description><![CDATA[Viele Urlauberinnen und Urlauber aus Deutschland zieht es ins Ausland. Doch die Preise für entsprechende Flugtickets und Pauschalreisen sind stark gestiegen.]]></description>
+      <pubDate>Mon, 13 Jul 2026 08:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digital] Rechenzentren in der Schweiz: Die Maschinenstürmer von Beringen</title>
+      <link>https://www.zeit.de/2026/30/rechenzentren-schweiz-datenschutz-stromverbrauch-beringen-stack-infrastructure/komplettansicht</link>
+      <guid isPermaLink="false">{urn:uuid:b3a8ca6c-db5d-4188-945d-ffe380c73c54}</guid>
+      <description><![CDATA[Tech-Konzerne lieben die Schweiz als Land der Rechenzentren. Aber wenn der Strom knapp wird – wem wird er abgeschaltet: den Menschen oder den Servern?]]></description>
+      <pubDate>Mon, 13 Jul 2026 08:42:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Wirtschaft] USA und Iran: Ölpreise steigen nach neuen Angriffen am Golf</title>
+      <link>https://www.zeit.de/wirtschaft/2026-07/usa-iran-angriffe-golf-strasse-von-hormus-oelpreis-gxe</link>
+      <guid isPermaLink="false">{urn:uuid:5dfce448-51cb-44e4-8126-0c7abca75191}</guid>
+      <description><![CDATA[Die neuen US-Angriffe auf den Iran und iranische Attacken in der Golfregion lassen den Ölpreis steigen. Der Anstieg ist aber deutlich geringer als zu Beginn des Krieges.]]></description>
+      <pubDate>Mon, 13 Jul 2026 07:05:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
