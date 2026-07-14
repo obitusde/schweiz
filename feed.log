@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 13.7.2026, 12:58:39
-Letzter Lauf: 13.7.2026, 06:30:36
+Start: 14.7.2026, 06:30:35
+Letzter Lauf: 13.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,15 +17,45 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 13 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel ID 7 (beide behandeln den Tod von Lindsey Graham; SRF-Artikel ID 7 ist informati): 'Nach kurzer Krankheit – Trump-Vertrauter Lindsey Graham gestorben'
-- Gelöscht (Grund: Bericht über einen Brand in der Schweiz außerhalb des Kantons Waadt (Vaud).): 'Tourismus im Wallis – Trotz Brandkatastrophe: Crans-Montana erwartet stabilen Sommer'
+KI-Filter (Gemini) - 32 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Bericht über einen Brand in der Schweiz außerhalb des Kantons Waadt (Vaud).): 'Tourismus im Wallis – Nach Brand: Crans-Montana fährt Werbung schrittweise hoch'
+- Gelöscht (Grund: Dublette zu Artikel 15 (SRF-Beitrag bevorzugt)): 'La baignade en rivière interdite pour préserver les poissons'
+- Gelöscht (Grund: Unfall in der Schweiz ausserhalb der Waadt (Neuenburg)): 'Un baigneur quadragénaire perd la vie à Cortaillod'
+- Gelöscht (Grund: Unfall in der Schweiz ausserhalb der Waadt (Freiburg)): 'Une remorque-citerne se renverse: l’A12 bloquée durant 5 heures'
 
 Finale Liste (live im XML-Feed):
-- [Journal de Morges] In Etoy wechselt L’Espérance den Kapitän, hält aber Kurs
+- [SRF Schweiz] Sicherheitslücke Webcam – Live im Netz: Schweizer Webcams oft ohne Schutz
+- [SRF Schweiz] Externer Bericht – Illegale Pushbacks an EU-Grenze: Flossen auch Schweizer Gelder?
+- [SRF Schweiz] Preisgeld der Fifa – SFV erhält Millionen für die WM-Kampagne – Erfolg war budgetiert
+- [SRF Schweiz] Wenn der Schweizer ÖV erwacht – Von 0 auf 6488 in vier Stunden
+- [SRF Ausland] Rassistische Äusserungen – «Keine Franzosen im Team»: Frankreich empört über Rajoys Aussage
+- [SRF Ausland] Verfassungsreform – Ungarns Parlament setzt Präsident Sulyok ab – wie geht es weiter?
+- [RTS Vaud] 19-jähriger Franzose in Lausanne wegen Betrugs durch falsche Polizisten verurteilt
+- [SRF Ausland] Dubiose Hinterzimmer-Abkommen – Gesucht: Ein neuer UNO-Generalsekretär
+- [SRF Ausland] Naher Osten – Zwei Top-Diplomatinnen auf Besuch in Syrien und Libanon
+- [SRF Ausland] Taifun «Bavi» in China – Taifune, Propaganda und Schweigen über die Klimaveränderung
+- [SRF Schweiz] Einsame Zugezogene – Expats fühlen sich in der Schweiz nicht willkommen
+- [SRF Schweiz] Bessere Energieeffizienz – Schweiz spart beim CO₂ ein
+- [20 Min Romandie] «Unzulässig!»: Nachtarbeiten wecken das Viertel auf
+- [SRF Schweiz] Verhandlungen abgeschlossen – Schweiz-Grossbritannien: Einigung für Freihandelsabkommen erzielt
+- [SRF Schweiz] Bach-Badeverbote wegen Hitze – Ausgerechnet wegen der Hitze ist Baden in der Birs untersagt
+- [SRF Ausland] Fünf Regeln – Wie verhalte ich mich bei einem Waldbrand?
+- [SRF Ausland] Britische Ex-Ministerin – Terrorabwehr übernimmt Ermittlungen im Mordfall Widdecombe
+- [SRF Wissen] Der Check für Ihr Zuhause – Monoblock oder Split? So finden Sie das passende Klimagerät
+- [RTS Vaud] Baustelle am Bahnhofplatz von Lausanne verlagert sich nach Norden
+- [20 Min Romandie] Brand zerstört Hecke eines Spielplatzes in Bussigny
+- [SRF Wissen] Tiefsee-Spektakel – Wo sich Kontinente bewegen, brodelt der Meeresgrund
+- [20 Min Romandie] Strand nur für Anwohner reserviert: Gemeinde weiterhin im Unrecht
+- [SRF Ausland] Norwegisches Königshaus – Marius Borg Høiby: Von der Haft in den Hausarrest
+- [SRF Schweiz] Schweizer Kunstgeschichte – «Kleine Sensation»: Riesiges Retro-Wandbild in Zug aufgetaucht
+- [SRF Ausland] Jugendschutz – EU-Experten drängen auf strengere Altersregeln für Social Media
+- [20 Min Romandie] Polizeiverstärkung beim G7 empört über Unterbringung im Palexpo
+- [SRF Wirtschaft] Abbau bei Volkswagen – VW-Chef spricht von 50'000 wegfallenden Stellen
+- [SRF Ausland] Katastrophe in Thailand – 27 Tote bei Bar-Brand in Bangkok: Das ist bekannt
+- [SRF Ausland] Drohnen im Ukraine-Krieg – «An der Front gelten die Drohnenangriffe weniger als Gewinn»
 - [Journal de Morges] Ein Fehler verwehrt einem Lehrling aus Mont-la-Ville sein Diplom
-- [SRF Schweiz] Netzwerke – Diese Wirtschaftszirkel stehen nur Frauen offen
-- [SRF Schweiz] Hitzesommer – Schlägt 2026 den Jahrhundertsommer 2003?
+- [SRF Schweiz] Vernetzung ohne Männer – Diese Wirtschaftszirkel stehen nur Frauen offen
+- [SRF Schweiz] Hitzesommer – Jahrhundertsommer? Der August wird entscheiden
 - [SRF Ausland] Gefährliche Seepassage um Stad – Norwegen baut den grössten Schiffstunnel der Welt
 - [20 Min Romandie] Hitzewelle in Spitälern: Schwierige Bedingungen angeprangert
 - [SRF Ausland] Grösste Tauschbörse – Panini jagt Weltrekord in Mexiko
@@ -33,25 +63,3 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Bahnverkehr zwischen Coppet und Nyon wieder aufgenommen
 - [SRF Ausland] Angriffe bei Hormus – Die Vereinbarung Iran-USA ist nichts mehr wert
 - [20 Min Romandie] Beinahe ertrunkener Jugendlicher in letzter Sekunde von Freund gerettet
-- [SRF Ausland] Katastrophe in Thailand – 27 Tote bei Bar-Brand in Bangkok: Das ist bekannt
-- [20 Min Romandie] Nach über 60 Jahren vollendet: Das Gästebuch enthüllt seine Geheimnisse
-- [SRF Ausland] Brexit-Politikerin und TV-Star – Mord an Ann Widdecombe: Neuer Verdächtiger festgenommen
-- [SRF Schweiz] Versicherungsschutz – Warum Sie Ihren Hautkrebs der Unfallversicherung melden sollten
-- [SRF Schweiz] Wegen Naturgefahren – Nach Camping-Schliessung strömen Gäste ins Goms
-- [SRF Schweiz] Therapiehunde hinter Gittern – Bernhardinerhündin bringt Ablenkung ins Gefängnis
-- [SRF Schweiz] Wegen Bahnumbau – Ohne Säntisbahn fehlen der Käserei die Gäste
-- [SRF Ausland] Senator Graham ist tot – Warum Lindsey Graham für Trump so wichtig war
-- [SRF Schweiz] Historische Wetterstation – Seit 1755 misst Basel das Klima – und die Hitze steigt
-- [20 Min Romandie] «Es ist nicht nur Folklore, es bleibt ein Wettkampf»
-- [SRF Ausland] König der Memes – «Walking Green Flag»: Warum Haaland die Herzen der Fans erobert
-- [SRF Schweiz] Wenn der Redefluss stockt – Im Stottercamp reden lernen
-- [SRF Ausland] Nach schweren Erdbeben – Stete Not ist der neue «Alltag» in Venezuela
-- [Journal de Morges] Sie spendeten Blut beim Regionalfest
-- [20 Min Romandie] Die Hitzewelle hält bis Donnerstag an, danach wird es kühler
-- [SRF Wirtschaft] Studie zum AKW-Bau – Neues AKW soll viel Geld bringen, doch der Staat müsste zahlen
-- [SRF Gesellschaft] Furore um altes Textil – Der Teppich von Bayeux: 1000 Jahre alte Geschichte und 93 Penisse
-- [20 Min Romandie] «Man muss handeln»: Von «Neonazis» verprügelt, bricht er sein Schweigen
-- [SRF Wissen] Viral auf Instagram – So geht Reissverschluss richtig: Kapo Zürich räumt mit Mythos auf
-- [SRF Schweiz] Kein Bänkli, viele Stufen – Mit Rollstuhl oder an Stöcken durch Zürich finden
-- [SRF Schweiz] Bilder vom Public Viewing – Freinacht endet im Drama: So fieberten die Fans mit der Nati mit
-- [SRF Ausland] Drogen, Prostitution, Handys – Wie die Kartelle von der WM in Mexiko profitieren
