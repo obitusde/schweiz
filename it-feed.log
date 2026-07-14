@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 13.7.2026, 12:28:18
-Letzter Lauf: 13.7.2026, 06:10:26
+Start: 14.7.2026, 06:10:28
+Letzter Lauf: 13.7.2026, 12:28:18
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,33 +10,80 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
-- Gelöscht wegen Keyword 'heise+': 'heise+ | DJI Amflow PX Carbon Pro: E-Bike-Motor mit 1500 Watt im Test'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | E-MTB Canyon Strive:ON CF 9 mit Bosch Performance Line CX im Test'
-- Gelöscht wegen Keyword 'heise+': 'heise+ |  Sonys 100–400-mm-Telezoom im Test: Mit Innenzoom und konstanter Lichtstärke'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | USB-Kameramikroskope zum Arbeiten und Lernen im Test'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Kameraklassiker Polaroid SX-70 im Test: So definierte sie Technik und Design neu'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Wie Fahrzeughersteller BYD bald Toyota und VW vom Thron stoßen will'
+- Gelöscht wegen Keyword 'heise+': 'heise+ | Flash-Talk: Die Speicherkrise verschärft sich weiter'
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Fit für die Zukunft – Software im laufenden Betrieb modernisieren'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Ist Objektorientierung wirklich von gestern? Wir glauben: nein.'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: c't-Konferenz Public IT: Wie Behörden ihre digitale Souveränität stärken'
 - Gelöscht wegen Keyword 'heise+': 'heise+ | Motorrad Yamaha R7 im Test: Wie gemacht für die Landstraßentour'
 - Gelöscht wegen Keyword 'podcast': 'Digital-Health-Podcast: Wie ein mehrfach Betroffener Datenlecks verhindern will'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: BCM – Notfallplanung und Notfallübungen'
-- Gelöscht wegen Keyword 'heise+': 'heise+ | Weniger Verlustfrust: So wappnen Sie Ihr iPhone für Verlust und Diebstahl'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Balkonkraftwerk mit 1.000 Watt fällt bei Amazon limitiert unter 250 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kabellose Powerbank mit 10.000 mAh für nur 24,69 Euro bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Rauchmelder von Hekatron mit App-Unterstützung zum Jahresbestpreis'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: De'Longhi Kaffeevollautomat bei Amazon wieder zum Jahrestiefpreis für 269 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Handstaubsauger gegen Krümelchaos zum Tiefstpreis unter 40 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Kabelloses Gaming-Headset von Logitech zum Sparpreis bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Monitor mit 32 Zoll von Odys zum neuen Tiefstpreis bei Amazon'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Einhell Akku-Scheren für den Garten noch bis morgen zum Tiefstpreis'
+- Gelöscht wegen Keyword '(g+)': '(g+) Cybersecurity: Wie eine Erpressergruppe reihenweise Peoplesoft-Systeme abräumt'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Insektenstichheiler für das Smartphone jetzt wieder zum Amazon-Tiefstpreis für nur 18 Euro.'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Tastatur von Corsair günstig wie nie bei Amazon'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Mini-Beamer fällt bei Amazon auf rund 50 Euro'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bestseller-Luftpumpe mit Akku jetzt zum Tiefpreis nur noch rund 23 Euro'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Bestseller-Luftpumpe mit Akku jetzt nur noch rund 23 Euro bei Amazon'
 - Gelöscht wegen Keyword '(g+)': '(g+) Artificial Intelligence: Who cleans up after the vibe-coding party?'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: 240 Hz Curved Gaming-Monitor von Amzfast unter 140 Euro'
 
-KI-Filter (Gemini) - 33 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Dieser Artikel behandelt Netzwerk-Infrastruktur (P2P-Topologie, Glasfaser-Netzbau), was ein hartes A): 'Glasfaser über P2P: Warum es in Deutschland keine 25 GBit/s für 70 Euro gibt'
-- Weiterhin entfernt (Cache, Grund: Dieser Artikel fällt unter das Thema Netzwerk-Infrastruktur (ISP-Technik, Glasfaser-Zugangstechnolog): 'Init 7: Symmetrischer 25-GBit/s-Zugang ist "kein Marketing-Gag"'
-- Gelöscht (Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwickler-Tools).): 'Quarkdown 2.4 macht Markdown programmierbar'
-- Gelöscht (Grund: Das Thema iPhone ist ein explizites Ausschlusskriterium.): 'iPhone 18 Pro Max: Komponentenpreise geschätzt um 300 US-Dollar erhöht'
-- Gelöscht (Grund: Fällt unter Netzwerk-Infrastruktur sowie Linux-Bastelei.): 'Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken'
-- Gelöscht (Grund: Behandelt Enterprise-IT (ShareFile-Administration/Server).): 'Progress warnt Admins: ShareFile deaktivieren'
-- Gelöscht (Grund: Duplikat-Regel: Behandelt dasselbe Ereignis (EU-Bericht zum Mindestalter) wie Artikel 8.): 'Social-Media-Verbot: Könnte ein EU-Bericht den Weg ebnen?'
-- Gelöscht (Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwickler-Tools für Code).): 'Anthropic: In-App-Browser für Claude Code, Fable 5 länger „gratis“'
+KI-Filter (Gemini) - 37 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwickler-Tools).): 'Quarkdown 2.4 macht Markdown programmierbar'
+- Weiterhin entfernt (Cache, Grund: Das Thema iPhone ist ein explizites Ausschlusskriterium.): 'iPhone 18 Pro Max: Komponentenpreise geschätzt um 300 US-Dollar erhöht'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Netzwerk-Infrastruktur sowie Linux-Bastelei.): 'Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken'
+- Weiterhin entfernt (Cache, Grund: Behandelt Enterprise-IT (ShareFile-Administration/Server).): 'Progress warnt Admins: ShareFile deaktivieren'
+- Weiterhin entfernt (Cache, Grund: Duplikat-Regel: Behandelt dasselbe Ereignis (EU-Bericht zum Mindestalter) wie Artikel 8.): 'Social-Media-Verbot: Könnte ein EU-Bericht den Weg ebnen?'
+- Weiterhin entfernt (Cache, Grund: Fällt unter Code-Theorie und Web-Infrastruktur (Entwickler-Tools für Code).): 'Anthropic: In-App-Browser für Claude Code, Fable 5 länger „gratis“'
+- Gelöscht (Grund: Dieser Artikel befasst sich mit Netzwerk-Infrastruktur und Glasfaser-Vorleistungen, was unter das Ausschlusskriterium Enterprise-IT & Netzwerk-Infrastruktur fällt.): 'Dark Fiber statt Bitstrom: Telekom kaufte bei M-net zu Dumpingpreisen ein'
+- Gelöscht (Grund: Inhaltlich geht es um die Regulierung von Netzwerk-Infrastruktur und Vorleistungsverträge im Telekommunikationssektor (Enterprise-IT & Netzwerk-Infrastruktur).): 'Netcologne: Telekom-Vorleistungsverträge schalten regionale Anbieter aus'
+- Gelöscht (Grund: Saugroboter sind ein explizit genanntes hartes Ausschlusskriterium.): 'Open-Source-Hardware: DIY-Saugroboter mit LiDAR und ROS 2'
+- Gelöscht (Grund: Der Artikel behandelt sowohl interne PC-Komponenten (CPUs) als auch Enterprise-Hardware (Serverprozessoren), beides sind Ausschlusskriterien.): 'Xeon 6-Serverprozessor: Intel gibt 5,7 Milliarden US-Dollar in Europa aus'
+- Gelöscht (Grund: Dieses Thema (Halbleiterfertigung für Prozessoren) fällt unter interne PC-Komponenten und Enterprise-IT. Zudem handelt es sich um ein Duplikat zum Ereignis in Artikel 16.): 'Trotz roter Zahlen: Intel investiert Milliarden in irische Halbleiterfabrik'
+- Gelöscht (Grund: Das Thema befasst sich mit Deep OS-Internals (Bootloader/Embedded Systems), was gemäß den Vorgaben zu entfernen ist.): 'Bootloader angreifbar: Sicherheitslücken in U-Boot gefährden unzählige Systeme'
+- Gelöscht (Grund: Der Artikel behandelt Enterprise-IT, Risikomanagement und gesetzliche IT-Vorgaben (NIS2), was unter die Kategorie Enterprise-IT fällt.): 'Krankenhaus-IT: Wenn „läuft doch noch“ nicht reicht'
+- Gelöscht (Grund: Themen rund um iOS sind explizit von der Liste auszuschließen.): 'iOS 27: Was es Neues bei CarPlay gibt'
 
 Finale Liste (live im XML-Feed):
+- [Heise] 33 Sekunden Solar-Förderung in Österreich
+- [Heise] Hohe Preise bremsen Smartphone-Wettbewerb
+- [Digitec] Hilfe, mein Kind will gamen
+- [Golem] Google Wallet App: Paypal stellt seine App komplett um
+- [Heise] US-Bundesstaaten klagen gegen Warner Bros. Discovery-Übernahme durch Paramount
+- [Heise] Top 10: Die besten Fitness-Tracker im Test
+- [Heise] Urteil: Instagram muss sich deutschem Urheberrecht auch im Ausland beugen
+- [Heise] TUM: Drohne und Laser messen verräterische Gase über Vulkanen
+- [Heise] S&P stuft Oracle auf BBB- herab – nur noch eine Stufe über Ramschniveau
+- [Heise] Thunderbird will Schluss mit Einstellungschaos machen
+- [Heise] Metas größtes KI-Rechenzentrum soll mehr als 250 Milliarden Dollar verschlingen
+- [Golem] AI Slop in der Wissenschaft: Mehr Papers, aber weniger Originalität und Tiefe
+- [Heise] Schwere Cyberangriffe und Sabotage: EU sanktioniert Russland
+- [Heise] Bluetooth-Lautsprecher Xiaomi Sound Play für 50 € im Test: IP68, Auracast & LEDs
+- [Golem] Cipsoft: Tibia bekommt unendlich schwere Bosse
+- [Heise] Fehmarn: Bahn will Fehmarnsundbrücke-Trasse elektrifizieren und erntet Kritik
+- [Digitec] Apple verklagt OpenAI
+- [Heise] Digitaler Euro: Die meisten Deutschen wissen nicht, was er bringen soll
+- [Golem] Forschung: Neue Methode zum Aufspüren von Atombomben auf Satelliten
+- [Heise] Mozilla verkürzt den Updatezyklus für Firefox von vier auf zwei Wochen
+- [Heise] Windows 11: Microsoft plant native Smartphone-Verknüpfung
+- [Golem] VW-Chef Blume: Bis zu 50.000 Jobs könnten zusätzlich wegfallen
+- [Heise] Umstrittener Astrophysiker: Gruppe um Avi Loeb soll US-Regierung zu UFOs beraten
+- [Golem] RV-X-Rakete: Japan landet erfolgreich wiederverwendbare Rakete
+- [Digitec] EU-Kommission sieht Suchtgefahr bei Instagram und Facebook
+- [Golem] Atomsondentomografie: Auf der Suche nach unendlich vielen Batterieladezyklen
+- [Heise] Daimler-Truck-Chefin warnt vor existenziellen Folgen der EU-CO₂-Regeln
+- [Heise] KI-Brillen: So stellt sich Meta Gesichtserkennung vor
+- [Heise] Flugreisen: Powerbanks und E-Zigaretten gehören ins Handgepäck
+- [Heise] OpenSpec: Software von KI mit Spezifikationen entwickeln
+- [Heise] M-Chips: M7 mit bis zu 1,5 TByte – und warum Apple den M6 überspringt
+- [Digitec] EU-Gericht entscheidet: Streamingdienste dürfen «zurückgegeben» werden
 - [Heise] Wegen Klimawandel: Satellitenbilder enthüllen Ernährungsumstellung von Pinguinen
 - [Golem] EZB: Diese Hürden muss der digitale Euro noch nehmen
 - [Heise] MIT und EPFL: Schlagflügelroboter fliegt und taucht
@@ -61,17 +108,5 @@ Finale Liste (live im XML-Feed):
 - [Heise] Nachhaltiger Flugkraftstoff: Gulfstream misst Partikelemissionen in großer Höhe
 - [Golem] Samsung Health: Zwang zur Freigabe für KI-Training
 - [Golem] Disneys Streamingabo: Zuschauer könnten bei Disney+ Filme und Serien ohne Abozahlung anschauen
-- [Golem] Pocketpair: Palworld gelingt beeindruckendes Comeback
 - [Heise] Auch Japans Weltraumagentur testet erfolgreich wiederverwendbare Rakete
 - [Heise] Montag: YouTube mit DuckDuckGo ohne Werbung, Copilot mit Microsoft-eigener KI
-- [Heise] Microsoft nutzt in manchen Apps offenbar eigene KI statt OpenAI und Anthropic
-- [Digitec] Die 100 besten Games aller Zeiten – das Nachspiel
-- [Heise] Top 10: Die beste Kompressor-Kühlbox im Test
-- [Heise] „Digital Fairness Act“ soll auch Spielehersteller und kleine Händler treffen
-- [Heise] DuckDuckGo-Browser blockiert jetzt YouTube-Werbung
-- [Heise] SK Hynix: US-Börsengang mit düsterer Prognose
-- [Heise] Xiaomi Smart Band 10 Pro im Test: Einer der besten Fitness-Tracker
-- [Heise] Polio: Wohl letzte Nutzerin einer „Eisernen Lunge“ gestorben
-- [Heise] Kulturinstitutionen fordern digitales Langzeitarchiv für Deutschland
-- [Heise] Meilenstein für Robotaxis: UN verabschiedet globales Recht für autonomes Fahren
-- [Golem] Mängelmelder: DHL bezeichnet Beschwerdezahl über Paketzustellung als "aufgebläht"
