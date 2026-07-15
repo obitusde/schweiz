@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 15.7.2026, 06:30:36
-Letzter Lauf: 14.7.2026, 06:30:35
+Start: 15.7.2026, 12:58:38
+Letzter Lauf: 15.7.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -15,21 +15,34 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/QYUORaarYc2r.xml
 
 Statischer Filter (Keywords):
-- Keine Artikel durch statische Keywords gefiltert.
+- [FEED FEHLER] https://politepaul.com/fd/GqdRNW07VUb9.xml: Exception: Request failed for https://politepaul.com returned code 500. Truncated server response: <html><body><h1>PolitePaul says: "Something wrong"</h1> <p><b>Try to refresh page or contact us by email: <a href="mailto:contact@politepaul.com">c... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 53 neue Artikel geprüft:
-- Gelöscht (Grund: Tödlicher Unfall in der Schweiz außerhalb des Kantons Waadt (Crêt du Midi/Wallis).): 'Un parapentiste de 46 ans perd le contrôle de sa voile et se tue'
-- Gelöscht (Grund: Kriminalitätsmeldung/Blaulicht in der Schweiz außerhalb des Kantons Waadt (Aarberg/Bern).): 'Après un cambriolage raté, une cavale s'achève par 4 arrestations'
-- Gelöscht (Grund: Duplikat zu Artikel 13 (Thema Luftverteidigung/Patriot).): 'Aufbau der Luftverteidigung – Wie der Bundesrat Verteidigungsminister Martin Pfister ausbremste'
-- Gelöscht (Grund: Kriminalitätsmeldung in der Schweiz außerhalb des Kantons Waadt (Tessin).): 'Femizid im Tessin – Fahndung nach mutmasslichem Frauenmörder endete in Sprengfalle'
-- Gelöscht (Grund: Kriminalitätsmeldung/Blaulicht in der Schweiz außerhalb des Kantons Waadt (Regensdorf/Zürich).): 'Polizei mit Grossaufgebot – Schüsse in Regensdorf – ein Mann festgenommen'
-- Gelöscht (Grund: Reine Blaulicht-Meldung in der Schweiz außerhalb des Kantons Waadt (Fontainemelon/Neuenburg).): 'Un motard de 20 ans mesuré à plus de 100 km/h dans une zone à 30'
-- Gelöscht (Grund: Duplikat zu Artikel 23 (Thema Durchfahrtsgebühren Strasse von Hormus).): 'Konflikt USA – Iran – Der neue «Wächter von Hormus» – was bringt Trump diese Idee?'
+KI-Filter (Gemini) - 17 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Tödlicher Unfall in der Schweiz außerhalb des Kantons Waadt (Crêt du Midi/Wallis).): 'Un parapentiste de 46 ans perd le contrôle de sa voile et se tue'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung/Blaulicht in der Schweiz außerhalb des Kantons Waadt (Aarberg/Bern).): 'Après un cambriolage raté, une cavale s'achève par 4 arrestations'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 13 (Thema Luftverteidigung/Patriot).): 'Aufbau der Luftverteidigung – Wie der Bundesrat Verteidigungsminister Martin Pfister ausbremste'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung in der Schweiz außerhalb des Kantons Waadt (Tessin).): 'Femizid im Tessin – Fahndung nach mutmasslichem Frauenmörder endete in Sprengfalle'
+- Gelöscht (Grund: Tödlicher Unfall im Kanton Genf (ausserhalb der Waadt).): 'Accident mortel: décès d'un scootériste de 77 ans'
+- Gelöscht (Grund: Kriminalitätsmeldung aus dem Kanton Bern (ausserhalb der Waadt).): 'Prof voleur: l'école s'excuse auprès des élèves accusés à tort'
+- Gelöscht (Grund: Fahrzeugbrand und Unfall im Wallis (ausserhalb der Waadt).): 'Une voiture s'embrase après une sortie de route à Bramois'
+- Gelöscht (Grund: Unfall und strafrechtliche Verurteilung im Wallis (ausserhalb der Waadt).): 'Freeriders, à l'origine d'une avalanche, définitivement condamnés'
+- Gelöscht (Grund: Verkehrsdelikt/Blaulicht-Meldung im Kanton Neuenburg (ausserhalb der Waadt).): 'Flashé à 140 km/h à la sortie d'un tunnel, il risque gros'
 
 Finale Liste (live im XML-Feed):
+- [SRF Schweiz] Bundesgerichtsurteil – Kanton Wallis darf Einweg-E-Zigaretten verbieten
+- [SRF Ausland] Wegen Vergewaltigungsvorwürfen – Sportgerichtshof: Dani Alves muss Ex-Club Millionen zahlen
+- [20 Min Romandie] Rekordtemperatur des Sees: Das sind schlechte Nachrichten
+- [20 Min Romandie] Modernisierung: Die Polizei führt die Online-Anzeigenerstattung ein
+- [SRF Schweiz] Vor Bundesverwaltungsgericht – Asylbewerber im Hungerstreik – wo muss der Staat schützen?
+- [SRF Schweiz] Zweite Karriere – Er führt ein AKW – und singt Opern
+- [20 Min Romandie] Wetterumschwung in der Schweiz nach der Hitzewelle: Starke Gewitter erwartet
+- [SRF Wissen] KI-Revolution – KI und wir: Was kommt auf uns zu?
+- [SRF Wirtschaft] Wegen Onlinehandel – Wenn verstaubte Logistikgebäude plötzlich wieder gefragt sind
+- [SRF Ausland] Gesänge und Gesten – Was hinter dem Rassismus argentinischer Fussballfans steckt
+- [SRF Wissen] Neugeborenen-Screening – Wie viel Gencheck verträgt ein Baby?
+- [SRF Schweiz] Alpinismus im Hitzesommer – Matterhorn wird gefährlicher: Unerfahrene Bergsteiger in Kritik
 - [SRF Schweiz] Reisen mit dem Wohnmobil – Narkosegas im Camper? Was an dem Gerücht dran ist
-- [SRF Schweiz] Alpinismus im Hitzesommer – Abenteuer Matterhorn: Wenn Touristen zur Gefahr werden
-- [SRF Wirtschaft] Trinkwasser in der Schweiz – Von der Quelle bis zum Hahn: So entsteht der Wasserpreis
+- [SRF Wirtschaft] Trinkwasser in der Schweiz – Der lange Weg zum Wasserhahn – und was er kostet
 - [SRF Ausland] Nach dem Tod des US-Senators – USA: Schwester von Lindsey Graham als Senatorin eingeschworen
 - [SRF Ausland] Nach zwei Todesfällen – ICE will Grossteil der Fahrzeugkontrollen einstellen
 - [20 Min Romandie] Vom Aussterben bedrohte Strahlenschildkröte in Chavornay geboren
@@ -41,11 +54,9 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Krieg in der Ukraine – Frontkämpfer: «Ich wusste nicht mehr, wohin mit den toten Russen»
 - [20 Min Romandie] «Lärm und Staub»: Die Herausforderung der Baustelle für die Händler
 - [SRF Schweiz] Aufbau der Luftverteidigung – Pfister will auch wegen Zollverhandlungen an Patriot festhalten
-- [Journal de Morges] Der Kanton ist bereit, 3 Millionen für die Wiederbelebung des Schwimmbads von Etoy bereitzustellen
 - [SRF Ausland] Kuriose Auktionen – T-Rex-Skelett für über 50 Millionen US-Dollar versteigert
-- [Journal de Morges] Morgien-Hattrick für einen jungen Schwimmer bei den Schweizer Meisterschaften
 - [SRF Schweiz] Badi-Knigge – Miteinander statt gegeneinander – ein Leitfaden für die Badi
-- [SRF Schweiz] Meteoschweiz – Wetterradare durch Sparmassnahmen gefährdet
+- [SRF Schweiz] Weniger präzise Prognosen? – Wetterradare durch Sparmassnahmen gefährdet
 - [20 Min Romandie] Migros ruft geräucherten Lachs zurück
 - [RTS Vaud] Mobilisierung gegen künftige Kiesgruben am Fusse des Juras intensiviert sich
 - [20 Min Romandie] Vermieter zur Rückzahlung verurteilt: Er hatte die Miete vervierfacht
@@ -58,18 +69,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Gipfel in Paris – Macron kündigt Militärmanöver in Nachbarländern der Ukraine an
 - [SRF Wissen] Neuer Bluttest – Alzheimer erkennen, bevor das Vergessen beginnt
 - [SRF Schweiz] Trotz Krisen und hoher Kosten – Grossteil der Schweizer Bevölkerung blickt positiv in die Zukunft
-- [SRF Wirtschaft] Unsauberer Mediendeal? – Klagen gegen Warner-Übernahme durch Paramount
-- [SRF Ausland] Französischer Nationalfeiertag – Bilder des «Quatorze Juillet» 2026
-- [SRF Wissen] Der Check für Ihr Zuhause – Monoblock oder Split? So finden Sie das passende Klimagerät
-- [Journal de Morges] Spielzeug verkaufen – ein Kinderspiel?
-- [20 Min Romandie] Spaziergang am Bach: ein «ekliger Schaum, der nach Waschmittel riecht»
-- [20 Min Romandie] Wohnungsnot im Kanton Waadt hält an
-- [Morges Actualitiés] Unsicher im öffentlichen Raum? Fragen Sie nach «Angela»!
-- [SRF Schweiz] Mondmission im Gotthard – Wie eine Medizinstudentin das Leben auf dem Mond simuliert
-- [20 Min Romandie] Karikatur einer Trans-Frau: SVP empört die Queer-Szene
-- [SRF Ausland] Mann schwer verletzt – Ehefrau spricht über Horror-Vorfall auf Ryanair-Flug
-- [20 Min Romandie] Bakterien zwingen zur Schliessung von sechs Planschbecken in der Stadt
-- [SRF Gesellschaft] Übersteigerte Selbstliebe – Narzissmus verstehen: Zwischen Leere und Grössenwahn
-- [SRF Gesellschaft] Glosse zu WM-Tippspielen – Als ich einmal (ein bisschen) für Deutschland war
-- [SRF Schweiz] Sicherheitslücke Webcam – Live im Netz: Private Webcams oft ohne Schutz
-- [SRF Ausland] Brandkatastrophe in Bangkok – Schwere Sicherheitsmängel in Lokal – Zahl der Todesopfer steigt
