@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 14.7.2026, 06:59:30
-Letzter Lauf: 13.7.2026, 06:59:31
+Start: 15.7.2026, 06:59:31
+Letzter Lauf: 14.7.2026, 06:59:30
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,30 +20,37 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 24 neue Artikel geprueft:
-- Geloescht (Grund: Behandelt eine spezifische Auseinandersetzung der Berliner Kommunalpolitik / lokale deutsche Justiz.): [Gesellschaft] 'Verwaltungsgericht Berlin: Berliner Verkehrsbetriebe müssen »Nius«-Werbekampagne zeigen'
-- Geloescht (Grund: Zählt unter den Bereich Promis & Adel (Celebrities).): [Gesellschaft] 'Norwegen: Marius Borg Høiby kommt mit Fußfessel in den Hausarrest'
-- Geloescht (Grund: Duplikat zum informativeren Artikel 0 zum selben Ereignis.): [Gesellschaft] 'Thailand: Was wir über das Feuer in Bangkok wissen'
-- Geloescht (Grund: Duplikat zum informativeren/analytischeren Artikel 8 zum selben Thema.): [Digital] 'Social-Media-Altersgrenze: EU-Experten empfehlen Social-Media-Verbot für unter 13-Jährige'
+KI-Filter (Gemini) - 31 neue Artikel geprueft:
+- Geloescht (Grund: Regionale deutsche Politik: Die Einordnung und politische Aufarbeitung der Ahrtal-Katastrophe fällt in den Bereich der regionalen deutschen Politik/Landespolitik.): [Gesellschaft] 'Gedenkfeier zur Hochwasserkatastrophe: Schnieder bittet nach Ahrtal-Katastrophe um Entschuldigung'
+- Geloescht (Grund: Duplikat-Regel: Inhaltlich identisch mit Artikel 11 (Tod im Gartenteich). Artikel 11 ist die Basis für das Dublett.): [Gesellschaft] 'Geständnis: Die Leiche im Gartenteich'
 
 Finale Liste (live im XML-Feed):
-[_] Feuer in Bangkok: Ermittler stellen nach Feuer in Bangkok Sicherheitsmängel fest
-[_] Geflüchtete Kinder in Deutschland: Verbände fordern Abschaffung von Asylbewerberleistungsgesetz
-[_] Zuckerfreie Kindheit: Kein Zucker fürs Kind? Es ist kompliziert …
-[_] Erneuerbare Energien: Ist das jetzt die Reiche-Delle?
-[_] Unwetter in Deutschland: Wetterdienst warnt vor Unwettern und Hitze
-[_] Solarenergie in der EU: Neuer Solarstromrekord in Deutschland im Mai und Juni
-[_] Kriegsdienstverweigerung: Zahl der Anträge auf Kriegsdienstverweigerung ist stark gestiegen
-[_] Mecklenburg-Vorpommern: Feuerwehr bekämpft Brand im Müritz-Nationalpark
-[_] Social-Media-Verbot: EU-Experten wollen ein Social-Media-Verbot bis 13. Ja, und jetzt?
-[_] USA: Zwölf Bundesstaaten klagen gegen die Warner-Übernahme durch Paramount
-[_] Klimaanlagen für zu Hause: Was Sie beim Kauf einer Klimaanlage wissen müssen
-[_] Bahnhofsmodernisierung: Bahn schließt 70 von 130 geplanten Bahnhofssanierungen ab
-[_] Hannes Kuhnwald: Wie streamt man 15 Stunden live vom Trecker, Landwirt_in_MV?
-[_] Renate Schmidt: »Die Frauenfrage ist längst zu einer Männerfrage geworden«
-[_] Ebola-Behandlung in Deutschland: Zweiter mit Ebola infizierter US-Bürger wird in Deutschland behandelt
-[_] Rheinmetall und Raytheon: Rheinmetall sichert sich Großauftrag in Großbritannien
-[_] VW-Stellenabbau: Volkswagen-Chef droht intern erstmals mit Abbau Zehntausender Stellen
-[_] Flugpreise: Irankrieg verteuert Flüge deutlich
-[_] Rechenzentren in der Schweiz: Die Maschinenstürmer von Beringen
-[_] USA und Iran: Ölpreise steigen nach neuen Angriffen am Golf
+[_] Lebensmittelpreise: Lebensmittelpreise in Deutschland seit 2020 über 36 Prozent gestiegen
+[_] Bewegung im Büro: Einmal aufstehen mit alles bitte!
+[_] Müritz-Nationalpark: Orte in Mecklenburg-Vorpommern wegen Waldbrandes erneut geräumt
+[_] Stromausfall in Kuba: Kuba meldet dritten landesweiten Stromausfall binnen einer Woche
+[_] Sabotage bei der Deutschen Bahn: Sabotage gegen Bahninfrastruktur nimmt offenbar zu
+[_] Sekten und ihre Anführer: In ihrem Bann – Die Menschenfänger
+[_] Sonnentempler-Sekte: Tempel des Todes
+[_] Unterhalt: Wie Mütter dafür bestraft werden sollen, dass Väter nicht zahlen
+[_] Digitalisierung: Bund plant Entlastung von 600 Millionen Euro durch Bürokratieabbau
+[_] Sonntagsöffnungen: Mehr Sonntagsöffnung? Dann aber bitte richtig
+[_] Tod im Gartenteich: Wer hat Sandra ertränkt?
+[_] Kirchenausschluss: Piusbrüder wehren sich juristisch gegen Ausschluss durch den Vatikan
+[_] Schweine-Überproduktion in der Schweiz: »Wir spielen hier Gott. Wir geben Leben, und wir nehmen es wieder«
+[_] Verbaucherpreise: Inflation in USA sinkt überraschend auf 3,5 Prozent
+[_] Messerattacke an Welfen-Gymnasium: Ermittler sehen nach Angriff in Schongau Hinweise auf Extremismus
+[_] Drogenschmuggel: Polizei durchsucht JVA und Wohnungen in NRW und Rheinland-Pfalz
+[_] Gewalt gegen Frauen: In Deutschland fehlen fast 12.000 Frauenhausplätze
+[_] Halbleiter: EU-Kommission erlaubt Deutschland Staatshilfen für Halbleiterindustrie
+[_] Asylzuzug und Arbeitsmarkt: Asylsuchende stabilisieren deutschen Arbeitsmarkt
+[_] Künstliche Intelligenz: Wo nervt Sie KI?
+[_] Niedersachsen: Brandanschlag legt Zugverkehr zwischen Hamburg und Cuxhaven lahm
+[_] Ahrtal-Jahrestag: Versicherer warnen vor Extremwetter und fordern bessere Prävention
+[_] Sexuelle Gewalt: Mann aus Berlin soll zahlreiche Frauen sediert und vergewaltigt haben
+[_] Campingplatz: »Ich sehe mich manchmal als Bürgermeisterin«
+[_] Canyon-Gründer Roman Arnold: »Früher waren Rennradfahrer Aliens. Heute sind sie cool«
+[_] Chinas Wirtschaft: China liefert deutlich mehr Waren nach Deutschland
+[_] »Goldener Windbeutel«: Negativpreis für »dreisteste Werbelüge« geht an Firma LaVita
+[_] Thomas Druyen: Kann man noch durch Arbeit reich werden?
+[_] Vermieter: Warum Vermieter oft zu Unrecht jammern
