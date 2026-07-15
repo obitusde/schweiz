@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 14.7.2026, 06:30:35
-Letzter Lauf: 13.7.2026, 12:58:39
+Start: 15.7.2026, 06:30:36
+Letzter Lauf: 14.7.2026, 06:30:35
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,49 +17,59 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 32 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Bericht über einen Brand in der Schweiz außerhalb des Kantons Waadt (Vaud).): 'Tourismus im Wallis – Nach Brand: Crans-Montana fährt Werbung schrittweise hoch'
-- Gelöscht (Grund: Dublette zu Artikel 15 (SRF-Beitrag bevorzugt)): 'La baignade en rivière interdite pour préserver les poissons'
-- Gelöscht (Grund: Unfall in der Schweiz ausserhalb der Waadt (Neuenburg)): 'Un baigneur quadragénaire perd la vie à Cortaillod'
-- Gelöscht (Grund: Unfall in der Schweiz ausserhalb der Waadt (Freiburg)): 'Une remorque-citerne se renverse: l’A12 bloquée durant 5 heures'
+KI-Filter (Gemini) - 53 neue Artikel geprüft:
+- Gelöscht (Grund: Tödlicher Unfall in der Schweiz außerhalb des Kantons Waadt (Crêt du Midi/Wallis).): 'Un parapentiste de 46 ans perd le contrôle de sa voile et se tue'
+- Gelöscht (Grund: Kriminalitätsmeldung/Blaulicht in der Schweiz außerhalb des Kantons Waadt (Aarberg/Bern).): 'Après un cambriolage raté, une cavale s'achève par 4 arrestations'
+- Gelöscht (Grund: Duplikat zu Artikel 13 (Thema Luftverteidigung/Patriot).): 'Aufbau der Luftverteidigung – Wie der Bundesrat Verteidigungsminister Martin Pfister ausbremste'
+- Gelöscht (Grund: Kriminalitätsmeldung in der Schweiz außerhalb des Kantons Waadt (Tessin).): 'Femizid im Tessin – Fahndung nach mutmasslichem Frauenmörder endete in Sprengfalle'
+- Gelöscht (Grund: Kriminalitätsmeldung/Blaulicht in der Schweiz außerhalb des Kantons Waadt (Regensdorf/Zürich).): 'Polizei mit Grossaufgebot – Schüsse in Regensdorf – ein Mann festgenommen'
+- Gelöscht (Grund: Reine Blaulicht-Meldung in der Schweiz außerhalb des Kantons Waadt (Fontainemelon/Neuenburg).): 'Un motard de 20 ans mesuré à plus de 100 km/h dans une zone à 30'
+- Gelöscht (Grund: Duplikat zu Artikel 23 (Thema Durchfahrtsgebühren Strasse von Hormus).): 'Konflikt USA – Iran – Der neue «Wächter von Hormus» – was bringt Trump diese Idee?'
 
 Finale Liste (live im XML-Feed):
-- [SRF Schweiz] Sicherheitslücke Webcam – Live im Netz: Schweizer Webcams oft ohne Schutz
-- [SRF Schweiz] Externer Bericht – Illegale Pushbacks an EU-Grenze: Flossen auch Schweizer Gelder?
-- [SRF Schweiz] Preisgeld der Fifa – SFV erhält Millionen für die WM-Kampagne – Erfolg war budgetiert
-- [SRF Schweiz] Wenn der Schweizer ÖV erwacht – Von 0 auf 6488 in vier Stunden
-- [SRF Ausland] Rassistische Äusserungen – «Keine Franzosen im Team»: Frankreich empört über Rajoys Aussage
-- [SRF Ausland] Verfassungsreform – Ungarns Parlament setzt Präsident Sulyok ab – wie geht es weiter?
-- [RTS Vaud] 19-jähriger Franzose in Lausanne wegen Betrugs durch falsche Polizisten verurteilt
-- [SRF Ausland] Dubiose Hinterzimmer-Abkommen – Gesucht: Ein neuer UNO-Generalsekretär
-- [SRF Ausland] Naher Osten – Zwei Top-Diplomatinnen auf Besuch in Syrien und Libanon
-- [SRF Ausland] Taifun «Bavi» in China – Taifune, Propaganda und Schweigen über die Klimaveränderung
-- [SRF Schweiz] Einsame Zugezogene – Expats fühlen sich in der Schweiz nicht willkommen
-- [SRF Schweiz] Bessere Energieeffizienz – Schweiz spart beim CO₂ ein
-- [20 Min Romandie] «Unzulässig!»: Nachtarbeiten wecken das Viertel auf
-- [SRF Schweiz] Verhandlungen abgeschlossen – Schweiz-Grossbritannien: Einigung für Freihandelsabkommen erzielt
-- [SRF Schweiz] Bach-Badeverbote wegen Hitze – Ausgerechnet wegen der Hitze ist Baden in der Birs untersagt
-- [SRF Ausland] Fünf Regeln – Wie verhalte ich mich bei einem Waldbrand?
-- [SRF Ausland] Britische Ex-Ministerin – Terrorabwehr übernimmt Ermittlungen im Mordfall Widdecombe
+- [SRF Schweiz] Reisen mit dem Wohnmobil – Narkosegas im Camper? Was an dem Gerücht dran ist
+- [SRF Schweiz] Alpinismus im Hitzesommer – Abenteuer Matterhorn: Wenn Touristen zur Gefahr werden
+- [SRF Wirtschaft] Trinkwasser in der Schweiz – Von der Quelle bis zum Hahn: So entsteht der Wasserpreis
+- [SRF Ausland] Nach dem Tod des US-Senators – USA: Schwester von Lindsey Graham als Senatorin eingeschworen
+- [SRF Ausland] Nach zwei Todesfällen – ICE will Grossteil der Fahrzeugkontrollen einstellen
+- [20 Min Romandie] Vom Aussterben bedrohte Strahlenschildkröte in Chavornay geboren
+- [SRF Wissen] Der KI-Rausch an den Märkten – Wie viel KI-Euphorie verträgt die Börse?
+- [SRF Ausland] Angriff auf Saudi-Arabien – «Man sollte die Huthis nicht unterschätzen»
+- [SRF Ausland] Streit am Strand – In Portugal ist der Sonnenschirmkrieg ausgebrochen
+- [20 Min Romandie] Hitzewelle überhitzt Westschweizer Gefängniszellen
+- [SRF Ausland] Feuer während Umbau – Sechs Tote nach Gebäudebrand in Brüssel gefunden
+- [SRF Ausland] Krieg in der Ukraine – Frontkämpfer: «Ich wusste nicht mehr, wohin mit den toten Russen»
+- [20 Min Romandie] «Lärm und Staub»: Die Herausforderung der Baustelle für die Händler
+- [SRF Schweiz] Aufbau der Luftverteidigung – Pfister will auch wegen Zollverhandlungen an Patriot festhalten
+- [Journal de Morges] Der Kanton ist bereit, 3 Millionen für die Wiederbelebung des Schwimmbads von Etoy bereitzustellen
+- [SRF Ausland] Kuriose Auktionen – T-Rex-Skelett für über 50 Millionen US-Dollar versteigert
+- [Journal de Morges] Morgien-Hattrick für einen jungen Schwimmer bei den Schweizer Meisterschaften
+- [SRF Schweiz] Badi-Knigge – Miteinander statt gegeneinander – ein Leitfaden für die Badi
+- [SRF Schweiz] Meteoschweiz – Wetterradare durch Sparmassnahmen gefährdet
+- [20 Min Romandie] Migros ruft geräucherten Lachs zurück
+- [RTS Vaud] Mobilisierung gegen künftige Kiesgruben am Fusse des Juras intensiviert sich
+- [20 Min Romandie] Vermieter zur Rückzahlung verurteilt: Er hatte die Miete vervierfacht
+- [SRF Schweiz] Festivals unter Druck – Wieso Schweizer Festivaltickets teurer geworden sind
+- [SRF Ausland] Streit um Strasse von Hormus – Trump will Gebühr einführen – geht das?
+- [20 Min Romandie] Lokalpolitiker in Hochsavoyen angeblich von Fahrenden angegriffen
+- [SRF Schweiz] Fussball-Euphorie – Warum die Nati plötzlich die ganze Schweiz begeistert
+- [SRF Schweiz] Friedlich reklamieren – «Kürzere Zündschnur» führt zu mehr Beschwerden bei Ombudsstellen
+- [20 Min Romandie] Ein Abgeordneter will bestimmte Strassen für zu laute Fahrzeuge sperren
+- [SRF Ausland] Gipfel in Paris – Macron kündigt Militärmanöver in Nachbarländern der Ukraine an
+- [SRF Wissen] Neuer Bluttest – Alzheimer erkennen, bevor das Vergessen beginnt
+- [SRF Schweiz] Trotz Krisen und hoher Kosten – Grossteil der Schweizer Bevölkerung blickt positiv in die Zukunft
+- [SRF Wirtschaft] Unsauberer Mediendeal? – Klagen gegen Warner-Übernahme durch Paramount
+- [SRF Ausland] Französischer Nationalfeiertag – Bilder des «Quatorze Juillet» 2026
 - [SRF Wissen] Der Check für Ihr Zuhause – Monoblock oder Split? So finden Sie das passende Klimagerät
-- [RTS Vaud] Baustelle am Bahnhofplatz von Lausanne verlagert sich nach Norden
-- [20 Min Romandie] Brand zerstört Hecke eines Spielplatzes in Bussigny
-- [SRF Wissen] Tiefsee-Spektakel – Wo sich Kontinente bewegen, brodelt der Meeresgrund
-- [20 Min Romandie] Strand nur für Anwohner reserviert: Gemeinde weiterhin im Unrecht
-- [SRF Ausland] Norwegisches Königshaus – Marius Borg Høiby: Von der Haft in den Hausarrest
-- [SRF Schweiz] Schweizer Kunstgeschichte – «Kleine Sensation»: Riesiges Retro-Wandbild in Zug aufgetaucht
-- [SRF Ausland] Jugendschutz – EU-Experten drängen auf strengere Altersregeln für Social Media
-- [20 Min Romandie] Polizeiverstärkung beim G7 empört über Unterbringung im Palexpo
-- [SRF Wirtschaft] Abbau bei Volkswagen – VW-Chef spricht von 50'000 wegfallenden Stellen
-- [SRF Ausland] Katastrophe in Thailand – 27 Tote bei Bar-Brand in Bangkok: Das ist bekannt
-- [SRF Ausland] Drohnen im Ukraine-Krieg – «An der Front gelten die Drohnenangriffe weniger als Gewinn»
-- [Journal de Morges] Ein Fehler verwehrt einem Lehrling aus Mont-la-Ville sein Diplom
-- [SRF Schweiz] Vernetzung ohne Männer – Diese Wirtschaftszirkel stehen nur Frauen offen
-- [SRF Schweiz] Hitzesommer – Jahrhundertsommer? Der August wird entscheiden
-- [SRF Ausland] Gefährliche Seepassage um Stad – Norwegen baut den grössten Schiffstunnel der Welt
-- [20 Min Romandie] Hitzewelle in Spitälern: Schwierige Bedingungen angeprangert
-- [SRF Ausland] Grösste Tauschbörse – Panini jagt Weltrekord in Mexiko
-- [20 Min Romandie] 19-Jähriger erhält 8 Monate unbedingt: «Entschuldigung, Madame»
-- [20 Min Romandie] Bahnverkehr zwischen Coppet und Nyon wieder aufgenommen
-- [SRF Ausland] Angriffe bei Hormus – Die Vereinbarung Iran-USA ist nichts mehr wert
-- [20 Min Romandie] Beinahe ertrunkener Jugendlicher in letzter Sekunde von Freund gerettet
+- [Journal de Morges] Spielzeug verkaufen – ein Kinderspiel?
+- [20 Min Romandie] Spaziergang am Bach: ein «ekliger Schaum, der nach Waschmittel riecht»
+- [20 Min Romandie] Wohnungsnot im Kanton Waadt hält an
+- [Morges Actualitiés] Unsicher im öffentlichen Raum? Fragen Sie nach «Angela»!
+- [SRF Schweiz] Mondmission im Gotthard – Wie eine Medizinstudentin das Leben auf dem Mond simuliert
+- [20 Min Romandie] Karikatur einer Trans-Frau: SVP empört die Queer-Szene
+- [SRF Ausland] Mann schwer verletzt – Ehefrau spricht über Horror-Vorfall auf Ryanair-Flug
+- [20 Min Romandie] Bakterien zwingen zur Schliessung von sechs Planschbecken in der Stadt
+- [SRF Gesellschaft] Übersteigerte Selbstliebe – Narzissmus verstehen: Zwischen Leere und Grössenwahn
+- [SRF Gesellschaft] Glosse zu WM-Tippspielen – Als ich einmal (ein bisschen) für Deutschland war
+- [SRF Schweiz] Sicherheitslücke Webcam – Live im Netz: Private Webcams oft ohne Schutz
+- [SRF Ausland] Brandkatastrophe in Bangkok – Schwere Sicherheitsmängel in Lokal – Zahl der Todesopfer steigt
