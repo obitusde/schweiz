@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 15.7.2026, 12:58:38
-Letzter Lauf: 15.7.2026, 06:30:36
+Start: 16.7.2026, 06:30:37
+Letzter Lauf: 15.7.2026, 12:58:38
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -15,57 +15,58 @@ Abruf der RSS-Feeds:
 - https://politepaul.com/fd/QYUORaarYc2r.xml
 
 Statischer Filter (Keywords):
-- [FEED FEHLER] https://politepaul.com/fd/GqdRNW07VUb9.xml: Exception: Request failed for https://politepaul.com returned code 500. Truncated server response: <html><body><h1>PolitePaul says: "Something wrong"</h1> <p><b>Try to refresh page or contact us by email: <a href="mailto:contact@politepaul.com">c... (use muteHttpExceptions option to examine full response)
+- Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 17 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Tödlicher Unfall in der Schweiz außerhalb des Kantons Waadt (Crêt du Midi/Wallis).): 'Un parapentiste de 46 ans perd le contrôle de sa voile et se tue'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung/Blaulicht in der Schweiz außerhalb des Kantons Waadt (Aarberg/Bern).): 'Après un cambriolage raté, une cavale s'achève par 4 arrestations'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 13 (Thema Luftverteidigung/Patriot).): 'Aufbau der Luftverteidigung – Wie der Bundesrat Verteidigungsminister Martin Pfister ausbremste'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung in der Schweiz außerhalb des Kantons Waadt (Tessin).): 'Femizid im Tessin – Fahndung nach mutmasslichem Frauenmörder endete in Sprengfalle'
-- Gelöscht (Grund: Tödlicher Unfall im Kanton Genf (ausserhalb der Waadt).): 'Accident mortel: décès d'un scootériste de 77 ans'
-- Gelöscht (Grund: Kriminalitätsmeldung aus dem Kanton Bern (ausserhalb der Waadt).): 'Prof voleur: l'école s'excuse auprès des élèves accusés à tort'
-- Gelöscht (Grund: Fahrzeugbrand und Unfall im Wallis (ausserhalb der Waadt).): 'Une voiture s'embrase après une sortie de route à Bramois'
-- Gelöscht (Grund: Unfall und strafrechtliche Verurteilung im Wallis (ausserhalb der Waadt).): 'Freeriders, à l'origine d'une avalanche, définitivement condamnés'
-- Gelöscht (Grund: Verkehrsdelikt/Blaulicht-Meldung im Kanton Neuenburg (ausserhalb der Waadt).): 'Flashé à 140 km/h à la sortie d'un tunnel, il risque gros'
+KI-Filter (Gemini) - 36 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Tödlicher Unfall im Kanton Genf (ausserhalb der Waadt).): 'Accident mortel: décès d'un scootériste de 77 ans'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung aus dem Kanton Bern (ausserhalb der Waadt).): 'Prof voleur: l'école s'excuse auprès des élèves accusés à tort'
+- Weiterhin entfernt (Cache, Grund: Fahrzeugbrand und Unfall im Wallis (ausserhalb der Waadt).): 'Une voiture s'embrase après une sortie de route à Bramois'
+- Weiterhin entfernt (Cache, Grund: Unfall und strafrechtliche Verurteilung im Wallis (ausserhalb der Waadt).): 'Freeriders, à l'origine d'une avalanche, définitivement condamnés'
+- Weiterhin entfernt (Cache, Grund: Verkehrsdelikt/Blaulicht-Meldung im Kanton Neuenburg (ausserhalb der Waadt).): 'Flashé à 140 km/h à la sortie d'un tunnel, il risque gros'
+- Gelöscht (Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt (Kanton Solothurn).): 'Drohnen in Flugverbotszone – Sieben Drohnen nahe AKW Gösgen gesichtet'
+- Gelöscht (Grund: Duplikat von ID 4.): 'Condamné à 20 ans de prison pour avoir assassiné sa compagne'
+- Gelöscht (Grund: Behandelt eine Abstimmungsthematik ausserhalb von Waadt und Genf (Kanton Luzern).): 'Nach Ja der Stimmbevölkerung – HEV-Präsident bekämpft Vorkaufsrecht der Stadt Luzern vor Gericht'
+- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb von Waadt (Genf, Pâquis).): 'Un voleur joue à Spider-Man pour échapper à la police'
+- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb von Waadt (Kanton Tessin).): 'Nach Femizid im Tessin – Experte spricht von Alarmsituation bei häuslicher Gewalt'
+- Gelöscht (Grund: Duplikat von ID 20.): 'Agression «néonazie» à Vidy: quatre auteurs présumés interpellés'
+- Gelöscht (Grund: Gefahrenmeldung ausserhalb von Waadt (Kanton Wallis).): 'Alpinismus im Hitzesommer – Matterhorn wird gefährlicher: Unerfahrene Bergsteiger in Kritik'
 
 Finale Liste (live im XML-Feed):
-- [SRF Schweiz] Bundesgerichtsurteil – Kanton Wallis darf Einweg-E-Zigaretten verbieten
+- [SRF Wirtschaft] Konkurrenz zu SpaceX – China testet erstmals erfolgreich Recycling-Rakete
+- [20 Min Romandie] Für diese reichen Erbinnen sind die Waadtländer die «schlimmsten Rassisten»
+- [RTS Vaud] Chillon von Greenpeace in riesige Leinwand verwandelt, um Tiefsee-Bergbau anzuprangern
+- [RTS Vaud] Täter eines Femizids von «unglaublicher Gewalt» in Vevey zu 20 Jahren Haft verurteilt
+- [SRF Ausland] Merz stellt sich den Medien – Merz zu eigener Unbeliebtheit: «Das beschäftigt mich»
+- [SRF Wirtschaft] Basler Rheinhäfen – «Jeder Tropfen zählt»: Tiefer Wasserpegel bremst die Schifffahrt
+- [20 Min Romandie] Hitzewelle: Die SVP setzt sich für Klimaanlagen ein, die Grünen wollen renovieren
+- [SRF Ausland] Monarch wird 80 Jahre alt – Sechs Fakten über Bruneis schillernden Sultan
+- [SRF Ausland] Nach Jahren der Verhandlung – Gibraltars Grenzzaun ist weg
+- [SRF Ausland] 10 Jahre nach Putschversuch – Eine Nacht, die Erdogans Macht auf lange Zeit festigte
+- [Journal de Morges] Fühlen Sie sich unsicher auf den Strassen von Morges? Rufen Sie «Angela»
+- [SRF Ausland] Historische Reform – Frankreich legalisiert Sterbehilfe
+- [Morges Actualitiés] Nationalfeiertag in Morges
+- [SRF Ausland] Westjordanland – Das Freedom Theatre spielt weiter – trotz Krieg und Vertreibung
+- [SRF Ausland] Erneut Tote bei ICE-Einsätzen – Wie ICE zum Boomerang für Trumps Migrationspolitik werden könnte
+- [SRF Schweiz] Peinlicher KI-Fehler – SVP Zürich wirbt für Schweizer Neutralität mit bayerischer Tracht
+- [RTS Vaud] Vier Personen nach Angriff auf Mann mit «Antifa»-T-Shirt in Lausanne festgenommen
+- [SRF Schweiz] Internationale Zusammenarbeit – Schweiz stärkt Kooperation im Kampf gegen Drogenkriminalität
+- [20 Min Romandie] Abholzung geht zurück: Versprechen haben nichts damit zu tun
+- [SRF Schweiz] Verbot wegen Suchtgefahr – Sportwetten unter 18: Testkäufe entlarven schwachen Jugendschutz
+- [SRF Schweiz] Ab 30 Grad – Basler Firma verkürzt bei Hitze die Arbeitstage – bei vollem Lohn
+- [SRF Schweiz] Anonyme Vorwürfe – Beispiellose Kampagne gegen eine Richterkandidatin
+- [SRF Ausland] Wahlrechts-Reform auf Kippe – Für die erfolgsverwöhnte Giorgia Meloni läuft es nicht mehr rund
+- [SRF Ausland] Falklandinseln – Argentinische Kriegsveteranen: «Der Sport ist kein Krieg»
+- [20 Min Romandie] Prozess gegen Pfarrer wegen neuer Anschuldigungen verschoben
 - [SRF Ausland] Wegen Vergewaltigungsvorwürfen – Sportgerichtshof: Dani Alves muss Ex-Club Millionen zahlen
+- [SRF Gesellschaft] «Biber unter Verdacht» – Dieses Bilderbuch klärt Kinder über Fake News auf
+- [20 Min Romandie] Der Kanton hat das Recht, den Verkauf von Einweg-Puffs zu verbieten
+- [SRF Schweiz] Bundesgerichtsurteil – Kanton Wallis darf Einweg-E-Zigaretten verbieten
 - [20 Min Romandie] Rekordtemperatur des Sees: Das sind schlechte Nachrichten
 - [20 Min Romandie] Modernisierung: Die Polizei führt die Online-Anzeigenerstattung ein
 - [SRF Schweiz] Vor Bundesverwaltungsgericht – Asylbewerber im Hungerstreik – wo muss der Staat schützen?
 - [SRF Schweiz] Zweite Karriere – Er führt ein AKW – und singt Opern
-- [20 Min Romandie] Wetterumschwung in der Schweiz nach der Hitzewelle: Starke Gewitter erwartet
+- [20 Min Romandie] Von Morges bis Noville richteten Gewitter Schäden an: ein Verletzter
 - [SRF Wissen] KI-Revolution – KI und wir: Was kommt auf uns zu?
 - [SRF Wirtschaft] Wegen Onlinehandel – Wenn verstaubte Logistikgebäude plötzlich wieder gefragt sind
 - [SRF Ausland] Gesänge und Gesten – Was hinter dem Rassismus argentinischer Fussballfans steckt
 - [SRF Wissen] Neugeborenen-Screening – Wie viel Gencheck verträgt ein Baby?
-- [SRF Schweiz] Alpinismus im Hitzesommer – Matterhorn wird gefährlicher: Unerfahrene Bergsteiger in Kritik
-- [SRF Schweiz] Reisen mit dem Wohnmobil – Narkosegas im Camper? Was an dem Gerücht dran ist
-- [SRF Wirtschaft] Trinkwasser in der Schweiz – Der lange Weg zum Wasserhahn – und was er kostet
-- [SRF Ausland] Nach dem Tod des US-Senators – USA: Schwester von Lindsey Graham als Senatorin eingeschworen
-- [SRF Ausland] Nach zwei Todesfällen – ICE will Grossteil der Fahrzeugkontrollen einstellen
-- [20 Min Romandie] Vom Aussterben bedrohte Strahlenschildkröte in Chavornay geboren
-- [SRF Wissen] Der KI-Rausch an den Märkten – Wie viel KI-Euphorie verträgt die Börse?
-- [SRF Ausland] Angriff auf Saudi-Arabien – «Man sollte die Huthis nicht unterschätzen»
-- [SRF Ausland] Streit am Strand – In Portugal ist der Sonnenschirmkrieg ausgebrochen
-- [20 Min Romandie] Hitzewelle überhitzt Westschweizer Gefängniszellen
-- [SRF Ausland] Feuer während Umbau – Sechs Tote nach Gebäudebrand in Brüssel gefunden
-- [SRF Ausland] Krieg in der Ukraine – Frontkämpfer: «Ich wusste nicht mehr, wohin mit den toten Russen»
-- [20 Min Romandie] «Lärm und Staub»: Die Herausforderung der Baustelle für die Händler
-- [SRF Schweiz] Aufbau der Luftverteidigung – Pfister will auch wegen Zollverhandlungen an Patriot festhalten
-- [SRF Ausland] Kuriose Auktionen – T-Rex-Skelett für über 50 Millionen US-Dollar versteigert
-- [SRF Schweiz] Badi-Knigge – Miteinander statt gegeneinander – ein Leitfaden für die Badi
-- [SRF Schweiz] Weniger präzise Prognosen? – Wetterradare durch Sparmassnahmen gefährdet
-- [20 Min Romandie] Migros ruft geräucherten Lachs zurück
-- [RTS Vaud] Mobilisierung gegen künftige Kiesgruben am Fusse des Juras intensiviert sich
-- [20 Min Romandie] Vermieter zur Rückzahlung verurteilt: Er hatte die Miete vervierfacht
-- [SRF Schweiz] Festivals unter Druck – Wieso Schweizer Festivaltickets teurer geworden sind
-- [SRF Ausland] Streit um Strasse von Hormus – Trump will Gebühr einführen – geht das?
-- [20 Min Romandie] Lokalpolitiker in Hochsavoyen angeblich von Fahrenden angegriffen
-- [SRF Schweiz] Fussball-Euphorie – Warum die Nati plötzlich die ganze Schweiz begeistert
-- [SRF Schweiz] Friedlich reklamieren – «Kürzere Zündschnur» führt zu mehr Beschwerden bei Ombudsstellen
-- [20 Min Romandie] Ein Abgeordneter will bestimmte Strassen für zu laute Fahrzeuge sperren
-- [SRF Ausland] Gipfel in Paris – Macron kündigt Militärmanöver in Nachbarländern der Ukraine an
-- [SRF Wissen] Neuer Bluttest – Alzheimer erkennen, bevor das Vergessen beginnt
-- [SRF Schweiz] Trotz Krisen und hoher Kosten – Grossteil der Schweizer Bevölkerung blickt positiv in die Zukunft
