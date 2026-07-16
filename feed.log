@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 16.7.2026, 06:30:37
-Letzter Lauf: 15.7.2026, 12:58:38
+Start: 16.7.2026, 12:58:39
+Letzter Lauf: 16.7.2026, 06:30:37
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,29 +17,43 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 36 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Tödlicher Unfall im Kanton Genf (ausserhalb der Waadt).): 'Accident mortel: décès d'un scootériste de 77 ans'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung aus dem Kanton Bern (ausserhalb der Waadt).): 'Prof voleur: l'école s'excuse auprès des élèves accusés à tort'
-- Weiterhin entfernt (Cache, Grund: Fahrzeugbrand und Unfall im Wallis (ausserhalb der Waadt).): 'Une voiture s'embrase après une sortie de route à Bramois'
-- Weiterhin entfernt (Cache, Grund: Unfall und strafrechtliche Verurteilung im Wallis (ausserhalb der Waadt).): 'Freeriders, à l'origine d'une avalanche, définitivement condamnés'
-- Weiterhin entfernt (Cache, Grund: Verkehrsdelikt/Blaulicht-Meldung im Kanton Neuenburg (ausserhalb der Waadt).): 'Flashé à 140 km/h à la sortie d'un tunnel, il risque gros'
-- Gelöscht (Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt (Kanton Solothurn).): 'Drohnen in Flugverbotszone – Sieben Drohnen nahe AKW Gösgen gesichtet'
-- Gelöscht (Grund: Duplikat von ID 4.): 'Condamné à 20 ans de prison pour avoir assassiné sa compagne'
-- Gelöscht (Grund: Behandelt eine Abstimmungsthematik ausserhalb von Waadt und Genf (Kanton Luzern).): 'Nach Ja der Stimmbevölkerung – HEV-Präsident bekämpft Vorkaufsrecht der Stadt Luzern vor Gericht'
-- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb von Waadt (Genf, Pâquis).): 'Un voleur joue à Spider-Man pour échapper à la police'
-- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb von Waadt (Kanton Tessin).): 'Nach Femizid im Tessin – Experte spricht von Alarmsituation bei häuslicher Gewalt'
-- Gelöscht (Grund: Duplikat von ID 20.): 'Agression «néonazie» à Vidy: quatre auteurs présumés interpellés'
-- Gelöscht (Grund: Gefahrenmeldung ausserhalb von Waadt (Kanton Wallis).): 'Alpinismus im Hitzesommer – Matterhorn wird gefährlicher: Unerfahrene Bergsteiger in Kritik'
+KI-Filter (Gemini) - 20 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt (Kanton Solothurn).): 'Drohnen in Flugverbotszone – Sieben Drohnen nahe AKW Gösgen gesichtet'
+- Weiterhin entfernt (Cache, Grund: Duplikat von ID 4.): 'Condamné à 20 ans de prison pour avoir assassiné sa compagne'
+- Weiterhin entfernt (Cache, Grund: Behandelt eine Abstimmungsthematik ausserhalb von Waadt und Genf (Kanton Luzern).): 'Nach Ja der Stimmbevölkerung – HEV-Präsident bekämpft Vorkaufsrecht der Stadt Luzern vor Gericht'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ausserhalb von Waadt (Genf, Pâquis).): 'Un voleur joue à Spider-Man pour échapper à la police'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ausserhalb von Waadt (Kanton Tessin).): 'Nach Femizid im Tessin – Experte spricht von Alarmsituation bei häuslicher Gewalt'
+- Weiterhin entfernt (Cache, Grund: Duplikat von ID 20.): 'Agression «néonazie» à Vidy: quatre auteurs présumés interpellés'
+- Weiterhin entfernt (Cache, Grund: Gefahrenmeldung ausserhalb von Waadt (Kanton Wallis).): 'Alpinismus im Hitzesommer – Matterhorn wird gefährlicher: Unerfahrene Bergsteiger in Kritik'
+- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb des Kantons Waadt (Rochefort, Kanton Neuenburg).): 'Une femme et son père agressés au couteau à leur domicile'
+- Gelöscht (Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt (Cormanon, Kanton Freiburg).): 'Un centre commercial évacué après une alarme chimique'
+- Gelöscht (Grund: Kriminalitätsmeldung ohne Bezug zum Kanton Waadt (Vorgang im Kanton Jura).): 'Son bracelet électronique le gêne: un agriculteur finit en prison'
+- Gelöscht (Grund: Mathematisches Duplikat zu Artikel ID 11 (Thema: Bankomat-Sprengung in Ballaigues).): 'Attaque à l'explosif d'un Bancomat dans le Jura-Nord vaudois'
 
 Finale Liste (live im XML-Feed):
-- [SRF Wirtschaft] Konkurrenz zu SpaceX – China testet erstmals erfolgreich Recycling-Rakete
+- [Journal de Morges] Petition mit 2200 Unterschriften gegen Staus im Westen von Lausanne eingereicht
+- [SRF Ausland] Covid-Untersuchungskommission – Grossbritannien war schlecht auf die Pandemie vorbereitet
+- [SRF Ausland] Doppeladler und Co. – Politische Botschaften im Fussball: Ein Rückblick
+- [SRF Ausland] Regierungsumbau in der Ukraine – Warum Präsident Selenski erneut seine Regierung umbaut
+- [SRF Wissen] «3 vo 5» – das Kultquiz – Geistesblitze gefragt: Wie gut kennen Sie sich mit Gewittern aus?
+- [Journal de Morges] Lucien Charlon an der Spitze des Døds in Oslo
+- [SRF Wirtschaft] Frage der Konzernverantwortung – Gold aus Ghana: Wer ist verantwortlich für die Risiken?
+- [Journal de Morges] Lokale Schützen treffen ins Schwarze
+- [RTS Vaud] Bankomat am Donnerstagmorgen in Ballaigues (VD) mit Sprengstoff angegriffen
+- [SRF Ausland] Schusswaffen und Granaten – Französisch-schweizerisches Waffenhandelsnetz zerschlagen
+- [SRF Schweiz] Versorgungssicherheit – So funktioniert der Medikamentenvorrat der Schweiz
+- [SRF Ausland] Politische Botschaft – Nach Halbfinal: Argentinien provoziert mit Falkland-Plakat
+- [SRF Ausland] Monarch wird 80 Jahre alt – 1800 Räume und 7000 Autos: Sieben Fakten zum Sultan von Brunei
+- [SRF Ausland] UNO-Justizorgan in Den Haag – Ex-Richter warnt: Strafgerichtshof solle «zerschlagen» werden
+- [SRF Schweiz] Neue App soll helfen – Digitale Hilfe im Dschungel der Ergänzungsleistungen
+- [SRF Wissen] Durstige Wildtiere – Wasserschalen für Wildtiere: So helfen Sie richtig
+- [SRF Wirtschaft] Konkurrenz zu SpaceX – Wiederverwendbare Rakete: China gelingt erstmals eine Landung
 - [20 Min Romandie] Für diese reichen Erbinnen sind die Waadtländer die «schlimmsten Rassisten»
 - [RTS Vaud] Chillon von Greenpeace in riesige Leinwand verwandelt, um Tiefsee-Bergbau anzuprangern
 - [RTS Vaud] Täter eines Femizids von «unglaublicher Gewalt» in Vevey zu 20 Jahren Haft verurteilt
 - [SRF Ausland] Merz stellt sich den Medien – Merz zu eigener Unbeliebtheit: «Das beschäftigt mich»
 - [SRF Wirtschaft] Basler Rheinhäfen – «Jeder Tropfen zählt»: Tiefer Wasserpegel bremst die Schifffahrt
 - [20 Min Romandie] Hitzewelle: Die SVP setzt sich für Klimaanlagen ein, die Grünen wollen renovieren
-- [SRF Ausland] Monarch wird 80 Jahre alt – Sechs Fakten über Bruneis schillernden Sultan
 - [SRF Ausland] Nach Jahren der Verhandlung – Gibraltars Grenzzaun ist weg
 - [SRF Ausland] 10 Jahre nach Putschversuch – Eine Nacht, die Erdogans Macht auf lange Zeit festigte
 - [Journal de Morges] Fühlen Sie sich unsicher auf den Strassen von Morges? Rufen Sie «Angela»
@@ -60,13 +74,3 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Wegen Vergewaltigungsvorwürfen – Sportgerichtshof: Dani Alves muss Ex-Club Millionen zahlen
 - [SRF Gesellschaft] «Biber unter Verdacht» – Dieses Bilderbuch klärt Kinder über Fake News auf
 - [20 Min Romandie] Der Kanton hat das Recht, den Verkauf von Einweg-Puffs zu verbieten
-- [SRF Schweiz] Bundesgerichtsurteil – Kanton Wallis darf Einweg-E-Zigaretten verbieten
-- [20 Min Romandie] Rekordtemperatur des Sees: Das sind schlechte Nachrichten
-- [20 Min Romandie] Modernisierung: Die Polizei führt die Online-Anzeigenerstattung ein
-- [SRF Schweiz] Vor Bundesverwaltungsgericht – Asylbewerber im Hungerstreik – wo muss der Staat schützen?
-- [SRF Schweiz] Zweite Karriere – Er führt ein AKW – und singt Opern
-- [20 Min Romandie] Von Morges bis Noville richteten Gewitter Schäden an: ein Verletzter
-- [SRF Wissen] KI-Revolution – KI und wir: Was kommt auf uns zu?
-- [SRF Wirtschaft] Wegen Onlinehandel – Wenn verstaubte Logistikgebäude plötzlich wieder gefragt sind
-- [SRF Ausland] Gesänge und Gesten – Was hinter dem Rassismus argentinischer Fussballfans steckt
-- [SRF Wissen] Neugeborenen-Screening – Wie viel Gencheck verträgt ein Baby?
