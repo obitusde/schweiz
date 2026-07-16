@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 15.7.2026, 06:59:31
-Letzter Lauf: 14.7.2026, 06:59:30
+Start: 16.7.2026, 06:59:31
+Letzter Lauf: 15.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,37 +20,24 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 31 neue Artikel geprueft:
-- Geloescht (Grund: Regionale deutsche Politik: Die Einordnung und politische Aufarbeitung der Ahrtal-Katastrophe fällt in den Bereich der regionalen deutschen Politik/Landespolitik.): [Gesellschaft] 'Gedenkfeier zur Hochwasserkatastrophe: Schnieder bittet nach Ahrtal-Katastrophe um Entschuldigung'
-- Geloescht (Grund: Duplikat-Regel: Inhaltlich identisch mit Artikel 11 (Tod im Gartenteich). Artikel 11 ist die Basis für das Dublett.): [Gesellschaft] 'Geständnis: Die Leiche im Gartenteich'
+KI-Filter (Gemini) - 18 neue Artikel geprueft:
+- Geloescht (Grund: Thema Erziehung von Kindern.): [Gesellschaft] 'Wolfgang Schmidbauer: »Es ist respektabel, wenn ein Kind keine Lust hat, sich anzustrengen«'
+- Geloescht (Grund: Thema Mode/Lifestyle und persönlicher Konsum.): [Entdecken] 'Kleine Handtaschen: Ich habe meine Handtasche geschrumpft. Jetzt lebe ich schmerzfreier'
+- Geloescht (Grund: Fokus auf Prominente und Freizeit-Lifestyle ohne überregionale Relevanz.): [Entdecken] 'Wanderwege in Deutschland: Läuft bei uns: Hier sind die 30 schönsten Wanderstrecken Deutschlands'
+- Geloescht (Grund: Unfall/Ereignis ohne längerfristige überregionale Relevanz.): [Gesellschaft] 'Extremwetter: Mehrere Verletzte und Stromausfälle bei Unwettern in Süddeutschland'
 
 Finale Liste (live im XML-Feed):
-[_] Lebensmittelpreise: Lebensmittelpreise in Deutschland seit 2020 über 36 Prozent gestiegen
-[_] Bewegung im Büro: Einmal aufstehen mit alles bitte!
-[_] Müritz-Nationalpark: Orte in Mecklenburg-Vorpommern wegen Waldbrandes erneut geräumt
-[_] Stromausfall in Kuba: Kuba meldet dritten landesweiten Stromausfall binnen einer Woche
-[_] Sabotage bei der Deutschen Bahn: Sabotage gegen Bahninfrastruktur nimmt offenbar zu
-[_] Sekten und ihre Anführer: In ihrem Bann – Die Menschenfänger
-[_] Sonnentempler-Sekte: Tempel des Todes
-[_] Unterhalt: Wie Mütter dafür bestraft werden sollen, dass Väter nicht zahlen
-[_] Digitalisierung: Bund plant Entlastung von 600 Millionen Euro durch Bürokratieabbau
-[_] Sonntagsöffnungen: Mehr Sonntagsöffnung? Dann aber bitte richtig
-[_] Tod im Gartenteich: Wer hat Sandra ertränkt?
-[_] Kirchenausschluss: Piusbrüder wehren sich juristisch gegen Ausschluss durch den Vatikan
-[_] Schweine-Überproduktion in der Schweiz: »Wir spielen hier Gott. Wir geben Leben, und wir nehmen es wieder«
-[_] Verbaucherpreise: Inflation in USA sinkt überraschend auf 3,5 Prozent
-[_] Messerattacke an Welfen-Gymnasium: Ermittler sehen nach Angriff in Schongau Hinweise auf Extremismus
-[_] Drogenschmuggel: Polizei durchsucht JVA und Wohnungen in NRW und Rheinland-Pfalz
-[_] Gewalt gegen Frauen: In Deutschland fehlen fast 12.000 Frauenhausplätze
-[_] Halbleiter: EU-Kommission erlaubt Deutschland Staatshilfen für Halbleiterindustrie
-[_] Asylzuzug und Arbeitsmarkt: Asylsuchende stabilisieren deutschen Arbeitsmarkt
-[_] Künstliche Intelligenz: Wo nervt Sie KI?
-[_] Niedersachsen: Brandanschlag legt Zugverkehr zwischen Hamburg und Cuxhaven lahm
-[_] Ahrtal-Jahrestag: Versicherer warnen vor Extremwetter und fordern bessere Prävention
-[_] Sexuelle Gewalt: Mann aus Berlin soll zahlreiche Frauen sediert und vergewaltigt haben
-[_] Campingplatz: »Ich sehe mich manchmal als Bürgermeisterin«
-[_] Canyon-Gründer Roman Arnold: »Früher waren Rennradfahrer Aliens. Heute sind sie cool«
-[_] Chinas Wirtschaft: China liefert deutlich mehr Waren nach Deutschland
-[_] »Goldener Windbeutel«: Negativpreis für »dreisteste Werbelüge« geht an Firma LaVita
-[_] Thomas Druyen: Kann man noch durch Arbeit reich werden?
-[_] Vermieter: Warum Vermieter oft zu Unrecht jammern
+[_] Fraunhofer-Institut: Studie sieht Wegfall von bis zu 726.000 Jobs in Europas Autoindustrie
+[_] Wärmepumpe in Wohngebäuden: Wärmepumpe erstmals am häufigsten eingebaute Heizungsart
+[_] Rechenzentren in der Schweiz: Der Kampf um die Rechenzentren
+[_] Sexualisierte Gewalt von Männern: Übernachten bei einem Freund? Nein.
+[_] Alex Capus: »Wenn’s mich schmerzen würde, dann würde ich’s bleiben lassen«
+[_] Abtreibungsverbot in Liechtenstein: Mein Bauch gehört ... dem Erbprinzen
+[_] Urlaubserfahrungen: »Im Kajak um einen Eisberg paddeln«
+[_] Syrien: Sicherheitskräfte nehmen Ex-Verantwortlichen für Chemiewaffen fest
+[_] Rechtsextremismus: Tschechische Polizei überstellt Neonazi Liebich nach Deutschland
+[_] Studie zu Mediennutzung: 43 Prozent der Jugendlichen befürworten Altersgrenze für Social Media
+[_] Müritz-Nationalpark: Waldbrand in Mecklenburg-Vorpommern breitet sich weiter aus
+[_] China: Chinas Wirtschaft wächst langsamer als erwartet
+[_] Volkswagen-Krise: Der nette Olli kann auch anders
+[_] Großbritannien: Britische Regierung plant Social-Media-Sperrstunde für Jugendliche
