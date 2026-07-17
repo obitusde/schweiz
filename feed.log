@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 16.7.2026, 12:58:39
-Letzter Lauf: 16.7.2026, 06:30:37
+Start: 17.7.2026, 06:30:36
+Letzter Lauf: 16.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,20 +17,35 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 20 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt (Kanton Solothurn).): 'Drohnen in Flugverbotszone – Sieben Drohnen nahe AKW Gösgen gesichtet'
-- Weiterhin entfernt (Cache, Grund: Duplikat von ID 4.): 'Condamné à 20 ans de prison pour avoir assassiné sa compagne'
-- Weiterhin entfernt (Cache, Grund: Behandelt eine Abstimmungsthematik ausserhalb von Waadt und Genf (Kanton Luzern).): 'Nach Ja der Stimmbevölkerung – HEV-Präsident bekämpft Vorkaufsrecht der Stadt Luzern vor Gericht'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ausserhalb von Waadt (Genf, Pâquis).): 'Un voleur joue à Spider-Man pour échapper à la police'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ausserhalb von Waadt (Kanton Tessin).): 'Nach Femizid im Tessin – Experte spricht von Alarmsituation bei häuslicher Gewalt'
-- Weiterhin entfernt (Cache, Grund: Duplikat von ID 20.): 'Agression «néonazie» à Vidy: quatre auteurs présumés interpellés'
-- Weiterhin entfernt (Cache, Grund: Gefahrenmeldung ausserhalb von Waadt (Kanton Wallis).): 'Alpinismus im Hitzesommer – Matterhorn wird gefährlicher: Unerfahrene Bergsteiger in Kritik'
-- Gelöscht (Grund: Kriminalitätsmeldung ausserhalb des Kantons Waadt (Rochefort, Kanton Neuenburg).): 'Une femme et son père agressés au couteau à leur domicile'
-- Gelöscht (Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt (Cormanon, Kanton Freiburg).): 'Un centre commercial évacué après une alarme chimique'
-- Gelöscht (Grund: Kriminalitätsmeldung ohne Bezug zum Kanton Waadt (Vorgang im Kanton Jura).): 'Son bracelet électronique le gêne: un agriculteur finit en prison'
-- Gelöscht (Grund: Mathematisches Duplikat zu Artikel ID 11 (Thema: Bankomat-Sprengung in Ballaigues).): 'Attaque à l'explosif d'un Bancomat dans le Jura-Nord vaudois'
+KI-Filter (Gemini) - 23 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ausserhalb des Kantons Waadt (Rochefort, Kanton Neuenburg).): 'Une femme et son père agressés au couteau à leur domicile'
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt (Cormanon, Kanton Freiburg).): 'Un centre commercial évacué après une alarme chimique'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ohne Bezug zum Kanton Waadt (Vorgang im Kanton Jura).): 'Son bracelet électronique le gêne: un agriculteur finit en prison'
+- Weiterhin entfernt (Cache, Grund: Mathematisches Duplikat zu Artikel ID 11 (Thema: Bankomat-Sprengung in Ballaigues).): 'Attaque à l'explosif d'un Bancomat dans le Jura-Nord vaudois'
+- Gelöscht (Grund: Blaulicht-Meldung / Umweltvorfall außerhalb von Vaud (Landquart).): 'Durch Pflanzenschutzmittel – 45 Bienenvölker in der Region Landquart vergiftet'
+- Gelöscht (Grund: Duplikat zu Artikel 21 (SRF-Artikel bevorzugt).): 'La Suisse condamnée pour des repas végans refusés en prison'
+- Gelöscht (Grund: Unfall/medizinischer Vorfall außerhalb von Vaud (Sion).): 'Un scorpion caché dans sa valise le pique au retour des vacances'
 
 Finale Liste (live im XML-Feed):
+- [SRF Wirtschaft] Horrender Preisanstieg – Heizöl ist markant teurer geworden
+- [Journal de Morges] Im Inneren der Kläranlage von Morges: Abwasser erhält seinen Glanz zurück
+- [RTS Vaud] Erneute Evakuierung beim Montreux Jazz Festival wegen „instabilen“ Wetters
+- [SRF Ausland] Innenpolitische Debatte USA – Justizausschuss des US-Senats nimmt Blanche ins Kreuzverhör
+- [20 Min Romandie] Ex-Clubverantwortlicher aus der Waadt nach Forderung sexueller Handlungen auf freiem Fuss
+- [Journal de Morges] Wenn die Felder ihre Gesetze diktieren
+- [SRF Ausland] Treffen von 60 Ländern – USA wollen Terrorismus bekämpfen – aber nur den linken
+- [SRF Schweiz] Wegen Unsicherheiten beim F-35 – F/A-18-Kampfjets sollen als zweite Flotte weiterfliegen
+- [SRF Schweiz] Energieversorgung – Speicherseen sind so leer wie seit 20 Jahren nicht mehr
+- [20 Min Romandie] Sie will um 16 Uhr Anzeige erstatten: Die Türen der Polizeiposten sind geschlossen
+- [SRF Ausland] Landtagswahlen im September – Kommt die AfD in Sachsen-Anhalt bald an die Macht?
+- [SRF Wissen] Für bessere Klimamodelle – ETH füttert Supercomputer mit riesiger Menge Nasa-Daten
+- [SRF Schweiz] Appenzell sucht den Kompromiss – Volle Parkplätze im Alpstein – Preise sorgen für Diskussionen
+- [SRF Schweiz] Zahlen vom SEM – Asylgesuche gehen im ersten Halbjahr um 16 Prozent zurück
+- [20 Min Romandie] Öffentlicher Dienst kündigt Streik für August an
+- [SRF Ausland] Einsturz der Morandi-Brücke – Ex-Autostrade-CEO zu zwölf Jahren Haft verurteilt
+- [20 Min Romandie] Nach Gewittern: Mehrere Kantone heben Hitzepläne auf
+- [SRF Wirtschaft] Viele wollen zum Staat – Jobs bei Bund und Kantonen sind heiss begehrt
+- [SRF Schweiz] Verpflegung hinter Gittern – EGMR: Veganismus zählt als quasi-religiöse Überzeugung
 - [Journal de Morges] Petition mit 2200 Unterschriften gegen Staus im Westen von Lausanne eingereicht
 - [SRF Ausland] Covid-Untersuchungskommission – Grossbritannien war schlecht auf die Pandemie vorbereitet
 - [SRF Ausland] Doppeladler und Co. – Politische Botschaften im Fussball: Ein Rückblick
@@ -38,39 +53,11 @@ Finale Liste (live im XML-Feed):
 - [SRF Wissen] «3 vo 5» – das Kultquiz – Geistesblitze gefragt: Wie gut kennen Sie sich mit Gewittern aus?
 - [Journal de Morges] Lucien Charlon an der Spitze des Døds in Oslo
 - [SRF Wirtschaft] Frage der Konzernverantwortung – Gold aus Ghana: Wer ist verantwortlich für die Risiken?
-- [Journal de Morges] Lokale Schützen treffen ins Schwarze
 - [RTS Vaud] Bankomat am Donnerstagmorgen in Ballaigues (VD) mit Sprengstoff angegriffen
 - [SRF Ausland] Schusswaffen und Granaten – Französisch-schweizerisches Waffenhandelsnetz zerschlagen
 - [SRF Schweiz] Versorgungssicherheit – So funktioniert der Medikamentenvorrat der Schweiz
 - [SRF Ausland] Politische Botschaft – Nach Halbfinal: Argentinien provoziert mit Falkland-Plakat
-- [SRF Ausland] Monarch wird 80 Jahre alt – 1800 Räume und 7000 Autos: Sieben Fakten zum Sultan von Brunei
+- [SRF Ausland] Monarch wird 80 Jahre alt – 1788 Räume und 7000 Autos: Sieben Fakten zum Sultan von Brunei
 - [SRF Ausland] UNO-Justizorgan in Den Haag – Ex-Richter warnt: Strafgerichtshof solle «zerschlagen» werden
 - [SRF Schweiz] Neue App soll helfen – Digitale Hilfe im Dschungel der Ergänzungsleistungen
 - [SRF Wissen] Durstige Wildtiere – Wasserschalen für Wildtiere: So helfen Sie richtig
-- [SRF Wirtschaft] Konkurrenz zu SpaceX – Wiederverwendbare Rakete: China gelingt erstmals eine Landung
-- [20 Min Romandie] Für diese reichen Erbinnen sind die Waadtländer die «schlimmsten Rassisten»
-- [RTS Vaud] Chillon von Greenpeace in riesige Leinwand verwandelt, um Tiefsee-Bergbau anzuprangern
-- [RTS Vaud] Täter eines Femizids von «unglaublicher Gewalt» in Vevey zu 20 Jahren Haft verurteilt
-- [SRF Ausland] Merz stellt sich den Medien – Merz zu eigener Unbeliebtheit: «Das beschäftigt mich»
-- [SRF Wirtschaft] Basler Rheinhäfen – «Jeder Tropfen zählt»: Tiefer Wasserpegel bremst die Schifffahrt
-- [20 Min Romandie] Hitzewelle: Die SVP setzt sich für Klimaanlagen ein, die Grünen wollen renovieren
-- [SRF Ausland] Nach Jahren der Verhandlung – Gibraltars Grenzzaun ist weg
-- [SRF Ausland] 10 Jahre nach Putschversuch – Eine Nacht, die Erdogans Macht auf lange Zeit festigte
-- [Journal de Morges] Fühlen Sie sich unsicher auf den Strassen von Morges? Rufen Sie «Angela»
-- [SRF Ausland] Historische Reform – Frankreich legalisiert Sterbehilfe
-- [Morges Actualitiés] Nationalfeiertag in Morges
-- [SRF Ausland] Westjordanland – Das Freedom Theatre spielt weiter – trotz Krieg und Vertreibung
-- [SRF Ausland] Erneut Tote bei ICE-Einsätzen – Wie ICE zum Boomerang für Trumps Migrationspolitik werden könnte
-- [SRF Schweiz] Peinlicher KI-Fehler – SVP Zürich wirbt für Schweizer Neutralität mit bayerischer Tracht
-- [RTS Vaud] Vier Personen nach Angriff auf Mann mit «Antifa»-T-Shirt in Lausanne festgenommen
-- [SRF Schweiz] Internationale Zusammenarbeit – Schweiz stärkt Kooperation im Kampf gegen Drogenkriminalität
-- [20 Min Romandie] Abholzung geht zurück: Versprechen haben nichts damit zu tun
-- [SRF Schweiz] Verbot wegen Suchtgefahr – Sportwetten unter 18: Testkäufe entlarven schwachen Jugendschutz
-- [SRF Schweiz] Ab 30 Grad – Basler Firma verkürzt bei Hitze die Arbeitstage – bei vollem Lohn
-- [SRF Schweiz] Anonyme Vorwürfe – Beispiellose Kampagne gegen eine Richterkandidatin
-- [SRF Ausland] Wahlrechts-Reform auf Kippe – Für die erfolgsverwöhnte Giorgia Meloni läuft es nicht mehr rund
-- [SRF Ausland] Falklandinseln – Argentinische Kriegsveteranen: «Der Sport ist kein Krieg»
-- [20 Min Romandie] Prozess gegen Pfarrer wegen neuer Anschuldigungen verschoben
-- [SRF Ausland] Wegen Vergewaltigungsvorwürfen – Sportgerichtshof: Dani Alves muss Ex-Club Millionen zahlen
-- [SRF Gesellschaft] «Biber unter Verdacht» – Dieses Bilderbuch klärt Kinder über Fake News auf
-- [20 Min Romandie] Der Kanton hat das Recht, den Verkauf von Einweg-Puffs zu verbieten
