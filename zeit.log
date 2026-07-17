@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 16.7.2026, 06:59:31
-Letzter Lauf: 15.7.2026, 06:59:31
+Start: 17.7.2026, 06:59:31
+Letzter Lauf: 16.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,24 +20,34 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 18 neue Artikel geprueft:
-- Geloescht (Grund: Thema Erziehung von Kindern.): [Gesellschaft] 'Wolfgang Schmidbauer: »Es ist respektabel, wenn ein Kind keine Lust hat, sich anzustrengen«'
-- Geloescht (Grund: Thema Mode/Lifestyle und persönlicher Konsum.): [Entdecken] 'Kleine Handtaschen: Ich habe meine Handtasche geschrumpft. Jetzt lebe ich schmerzfreier'
-- Geloescht (Grund: Fokus auf Prominente und Freizeit-Lifestyle ohne überregionale Relevanz.): [Entdecken] 'Wanderwege in Deutschland: Läuft bei uns: Hier sind die 30 schönsten Wanderstrecken Deutschlands'
-- Geloescht (Grund: Unfall/Ereignis ohne längerfristige überregionale Relevanz.): [Gesellschaft] 'Extremwetter: Mehrere Verletzte und Stromausfälle bei Unwettern in Süddeutschland'
+KI-Filter (Gemini) - 28 neue Artikel geprueft:
+- Geloescht (Grund: Promi/Celebrity-Thematik): [Entdecken] 'Senta Berger: »Die wichtigen Dinge im Leben passieren bei Autofahrten«'
+- Geloescht (Grund: Duplikat zu ID 13; ID 13 ist präziser und fachlich informativer): [Mobilität] 'Gerichtshof der Europäischen Union: Mitten in Europa spaltet der Brenner'
+- Geloescht (Grund: Regionale deutsche Politik/Landtagswahl): [Gesellschaft] 'Sachsen-Anhalt: Wahlen in Sachsen-Anhalt: Haben Sie sich schon entschieden?'
+- Geloescht (Grund: Unfall/Kriminalität ohne überregionale Relevanz (lokale deutsche Behörde)): [Gesellschaft] 'Brandanschlag: Mann bedroht Jugendamt-Mitarbeiterin und legt Feuer'
+- Geloescht (Grund: Alltägliche Wettervorhersage ohne tiefergehende Relevanz): [Gesellschaft] 'Gewitter und Wetterumschwung: Wetterumschwung zum Wochenende mit Hagel und Starkregen'
+- Geloescht (Grund: Lokaler Unfall/Vorfall ohne längerfristige gesamtgesellschaftliche Relevanz): [Gesellschaft] 'Dieselfilm auf der Mosel: Mehr als 100 Liter Diesel aus einem Schiff verunreinigen die Mosel'
+- Geloescht (Grund: Rezepte/Freizeit/Garten-Thematik ist nicht relevant für Wirtschaft/Politik/Gesellschaft): [Arbeit] 'Gärtnern: »Viele Hochbeete heizen sich auf und trocknen schnell aus«'
 
 Finale Liste (live im XML-Feed):
-[_] Fraunhofer-Institut: Studie sieht Wegfall von bis zu 726.000 Jobs in Europas Autoindustrie
-[_] Wärmepumpe in Wohngebäuden: Wärmepumpe erstmals am häufigsten eingebaute Heizungsart
-[_] Rechenzentren in der Schweiz: Der Kampf um die Rechenzentren
-[_] Sexualisierte Gewalt von Männern: Übernachten bei einem Freund? Nein.
-[_] Alex Capus: »Wenn’s mich schmerzen würde, dann würde ich’s bleiben lassen«
-[_] Abtreibungsverbot in Liechtenstein: Mein Bauch gehört ... dem Erbprinzen
-[_] Urlaubserfahrungen: »Im Kajak um einen Eisberg paddeln«
-[_] Syrien: Sicherheitskräfte nehmen Ex-Verantwortlichen für Chemiewaffen fest
-[_] Rechtsextremismus: Tschechische Polizei überstellt Neonazi Liebich nach Deutschland
-[_] Studie zu Mediennutzung: 43 Prozent der Jugendlichen befürworten Altersgrenze für Social Media
-[_] Müritz-Nationalpark: Waldbrand in Mecklenburg-Vorpommern breitet sich weiter aus
-[_] China: Chinas Wirtschaft wächst langsamer als erwartet
-[_] Volkswagen-Krise: Der nette Olli kann auch anders
-[_] Großbritannien: Britische Regierung plant Social-Media-Sperrstunde für Jugendliche
+[_] EU-Emissionshandel: Was nützt der europäische Klimaschutz, wenn die Welt nicht mitmacht?
+[_] SpaceX: Starship-Testflug in letzter Sekunde abgebrochen
+[_] Zölle: USA kündigen Importzölle für Brasilien an
+[_] EU-Kommission gegen Google: EU-Kommission stärkt Konkurrenten gegenüber Google
+[_] GPT-5.6 von OpenAI: KI erledigt die Arbeit. Vielleicht auch gleich Ihre Dateien.
+[_] Wohlstand: KI könnte uns ruinieren. Oder alle reicher machen
+[_] Giovanni Castellucci: Lange Haftstrafen nach tödlichem Brückeneinsturz in Genua
+[_] Entwicklungsarbeit: Welthungerhilfe beklagt Gefährdung ihrer Arbeit durch Mittelkürzungen
+[_] Brenner-Route: Tirols Brenner-Beschränkungen für Lkw verstoßen wohl gegen EU-Recht
+[_] Waldbrand im Müritz-Nationalpark: Waldbrand in Müritz-Nationalpark laut Umweltminister unter Kontrolle
+[_] Verstaatlichung von British Steel: Großbritannien verstaatlicht Stahlkonzern British Steel
+[_] Silicon Valley: Wie das Silicon Valley wirklich tickt
+[_] Bundesgerichtshof: Kündigung von Fitnessstudio darf laut BGH nicht zu kompliziert sein
+[_] Chemieindustrie in Deutschland: Deutsche Chemieindustrie schrumpft weiter
+[_] Spritpreise: Spritpreise steigen wegen Irankrieg wieder schneller
+[_] Geldanlage im Krieg: Kriegsgewinnler wie ich
+[_] Wohnraum: Wohnungen in Deutschland werden immer größer
+[_] Gérald Marie: Sechs Frauen zeigen Ex-Europachef von Modelagentur Elite an
+[_] Statistisches Bundesamt: Anzahl der E-Scooter-Unfälle in Deutschland deutlich gestiegen
+[_] Übernahmeangebot von Uber: Uber übernimmt den deutschen Essenslieferkonzern Delivery Hero
+[_] Institut der deutschen Wirtschaft: Mehr als eine Million Babyboomer gehen vorzeitig in Rente
