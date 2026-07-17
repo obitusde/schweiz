@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 17.7.2026, 06:30:36
-Letzter Lauf: 16.7.2026, 12:58:39
+Start: 17.7.2026, 12:58:39
+Letzter Lauf: 17.7.2026, 06:30:36
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,16 +17,33 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 23 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ausserhalb des Kantons Waadt (Rochefort, Kanton Neuenburg).): 'Une femme et son père agressés au couteau à leur domicile'
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt (Cormanon, Kanton Freiburg).): 'Un centre commercial évacué après une alarme chimique'
-- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung ohne Bezug zum Kanton Waadt (Vorgang im Kanton Jura).): 'Son bracelet électronique le gêne: un agriculteur finit en prison'
-- Weiterhin entfernt (Cache, Grund: Mathematisches Duplikat zu Artikel ID 11 (Thema: Bankomat-Sprengung in Ballaigues).): 'Attaque à l'explosif d'un Bancomat dans le Jura-Nord vaudois'
-- Gelöscht (Grund: Blaulicht-Meldung / Umweltvorfall außerhalb von Vaud (Landquart).): 'Durch Pflanzenschutzmittel – 45 Bienenvölker in der Region Landquart vergiftet'
-- Gelöscht (Grund: Duplikat zu Artikel 21 (SRF-Artikel bevorzugt).): 'La Suisse condamnée pour des repas végans refusés en prison'
-- Gelöscht (Grund: Unfall/medizinischer Vorfall außerhalb von Vaud (Sion).): 'Un scorpion caché dans sa valise le pique au retour des vacances'
+KI-Filter (Gemini) - 22 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung / Umweltvorfall außerhalb von Vaud (Landquart).): 'Durch Pflanzenschutzmittel – 45 Bienenvölker in der Region Landquart vergiftet'
+- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 21 (SRF-Artikel bevorzugt).): 'La Suisse condamnée pour des repas végans refusés en prison'
+- Weiterhin entfernt (Cache, Grund: Unfall/medizinischer Vorfall außerhalb von Vaud (Sion).): 'Un scorpion caché dans sa valise le pique au retour des vacances'
+- Gelöscht (Grund: Kriminalitätsmeldung (Haftentlassung im Betrugsfall) außerhalb des Kantons Waadt.): 'La sœur du propriétaire de PrimeEnergy remise en liberté'
+- Gelöscht (Grund: Kriminalitätsmeldung (Cyberangriff/Erpressung) außerhalb des Kantons Waadt (Genf).): 'Piratée, la fondation Ifage est menacée par une demande de rançon'
+- Gelöscht (Grund: Meldung über Kriminalität bzw. eine Strafanzeige außerhalb des Kantons Waadt (Solothurn).): 'Lebensmittelkontrolle – Gift im Asia-Gemüse: Jede dritte Probe fällt durch'
 
 Finale Liste (live im XML-Feed):
+- [Journal de Morges] Der Friedhof von Bussigny erhält ein neues Reglement
+- [SRF Schweiz] Neue App soll helfen – Digitale Hilfe im Dschungel der Ergänzungsleistungen
+- [SRF Ausland] Kür des neuen Labour-Chefs – Was Andy Burnham besser machen muss
+- [SRF Schweiz] Bundesgerichtsurteil – Parkieren auf Besucherparkplatz ist nicht strafbar
+- [SRF Gesellschaft] Gipfelblick und Overtourism – Einchecken ins Museum: Eine Ausstellung zum Reiseziel Schweiz
+- [SRF Schweiz] Mikrokosmos Campingplatz – Ein Dorf auf Zeit mit vielen Freiheiten und Regeln
+- [20 Min Romandie] Machtkampf zwischen Lausanne und der Industrie geht weiter
+- [SRF Schweiz] Hitze auf der Spitze – Flucht in die Höhe: Auch Tiere in hochalpinen Gebieten leiden
+- [20 Min Romandie] Die Uber-Saga ist vorbei: Genf setzt den Status als Arbeitnehmer durch
+- [SRF Ausland] Ammunition Support Partnership – Schweiz tritt Nato-Partnerschaft für Munitionsbeschaffung bei
+- [SRF Wirtschaft] Der Boom privater Anlagen – Was hinter dem Geschäft der Partners Group steckt
+- [SRF Wissen] Wüstenstaub – Mehr Saharastaub in Südeuropa: Was bedeutet das für meine Ferien?
+- [SRF Schweiz] Ein Bahnhof im Dauerumbau – Der Umbaumarathon am Zürcher Hauptbahnhof geht weiter
+- [SRF Schweiz] «Bier-Idee» oder realistisch? – Mehr Schweiz im Bier – dank einem Label für Schweizer Malz
+- [20 Min Romandie] Blitze boten ein Spektakel über dem Genferseebecken
+- [SRF Ausland] Trumps Rede an die Nation – Was bringen Trump seine Vorwürfe an China und am US-Wahlsystem?
+- [SRF Schweiz] Helfer am Basel Tattoo – Nie im Scheinwerferlicht, aber unentbehrlich für das Festival
+- [SRF Wirtschaft] Untersuchung der Empa – Weshalb Plug-in-Hybridautos ihre Öko-Versprechen nicht einhalten
 - [SRF Wirtschaft] Horrender Preisanstieg – Heizöl ist markant teurer geworden
 - [Journal de Morges] Im Inneren der Kläranlage von Morges: Abwasser erhält seinen Glanz zurück
 - [RTS Vaud] Erneute Evakuierung beim Montreux Jazz Festival wegen „instabilen“ Wetters
@@ -45,19 +62,7 @@ Finale Liste (live im XML-Feed):
 - [SRF Ausland] Einsturz der Morandi-Brücke – Ex-Autostrade-CEO zu zwölf Jahren Haft verurteilt
 - [20 Min Romandie] Nach Gewittern: Mehrere Kantone heben Hitzepläne auf
 - [SRF Wirtschaft] Viele wollen zum Staat – Jobs bei Bund und Kantonen sind heiss begehrt
+- [Journal de Morges] Lokale Schützen treffen ins Schwarze
+- [SRF Schweiz] Mobilität der Zukunft – Wenn das Velo selbst «nach Hause» findet
 - [SRF Schweiz] Verpflegung hinter Gittern – EGMR: Veganismus zählt als quasi-religiöse Überzeugung
 - [Journal de Morges] Petition mit 2200 Unterschriften gegen Staus im Westen von Lausanne eingereicht
-- [SRF Ausland] Covid-Untersuchungskommission – Grossbritannien war schlecht auf die Pandemie vorbereitet
-- [SRF Ausland] Doppeladler und Co. – Politische Botschaften im Fussball: Ein Rückblick
-- [SRF Ausland] Regierungsumbau in der Ukraine – Warum Präsident Selenski erneut seine Regierung umbaut
-- [SRF Wissen] «3 vo 5» – das Kultquiz – Geistesblitze gefragt: Wie gut kennen Sie sich mit Gewittern aus?
-- [Journal de Morges] Lucien Charlon an der Spitze des Døds in Oslo
-- [SRF Wirtschaft] Frage der Konzernverantwortung – Gold aus Ghana: Wer ist verantwortlich für die Risiken?
-- [RTS Vaud] Bankomat am Donnerstagmorgen in Ballaigues (VD) mit Sprengstoff angegriffen
-- [SRF Ausland] Schusswaffen und Granaten – Französisch-schweizerisches Waffenhandelsnetz zerschlagen
-- [SRF Schweiz] Versorgungssicherheit – So funktioniert der Medikamentenvorrat der Schweiz
-- [SRF Ausland] Politische Botschaft – Nach Halbfinal: Argentinien provoziert mit Falkland-Plakat
-- [SRF Ausland] Monarch wird 80 Jahre alt – 1788 Räume und 7000 Autos: Sieben Fakten zum Sultan von Brunei
-- [SRF Ausland] UNO-Justizorgan in Den Haag – Ex-Richter warnt: Strafgerichtshof solle «zerschlagen» werden
-- [SRF Schweiz] Neue App soll helfen – Digitale Hilfe im Dschungel der Ergänzungsleistungen
-- [SRF Wissen] Durstige Wildtiere – Wasserschalen für Wildtiere: So helfen Sie richtig
