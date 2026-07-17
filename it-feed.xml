@@ -5,8 +5,246 @@
     <link>https://obitusde.github.io/schweiz/it-feed.xml</link>
     <description>KI-gefilterter Newsfeed aus Google Sheets</description>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Jul 2026 10:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 04:10:26 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Heise] Sicherheitsforscher loben Samsung für den Umgang mit gemeldeten Schwachstellen</title>
+      <link>https://www.heise.de/news/Sicherheitsforscher-loben-Samsung-fuer-den-Umgang-mit-gemeldeten-Schwachstellen-11368214.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11368214</guid>
+      <description><![CDATA[Eine Sicherheitsfirma hat in vier Jahren 176 Lücken in vorinstallierten Samsung-Apps gemeldet. Samsung hat alle umgehend behoben. Die Experten sind begeistert.]]></description>
+      <pubDate>Fri, 17 Jul 2026 03:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Openai kann nicht als Unionsmarke registriert werden</title>
+      <link>https://www.heise.de/news/Openai-kann-nicht-als-Unionsmarke-registriert-werden-11368194.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11368194</guid>
+      <description><![CDATA[Der Begriff OPENAI ist zu allgemein beschreibend. Daher kann er für relevante Bereiche nicht als EU-Wortmarke registriert werden. Eine Chance gibt es aber noch.]]></description>
+      <pubDate>Thu, 16 Jul 2026 22:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] AU: Gesundheitsministerin will Krankschreibung über Onlineanbieter stoppen</title>
+      <link>https://www.golem.de/news/au-gesundheitsministerin-will-krankschreibung-ueber-onlineanbieter-stoppen-2607-210973.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/au-gesundheitsministerin-will-krankschreibung-ueber-onlineanbieter-stoppen-2607-210973.html</guid>
+      <description><![CDATA[Bundesgesundheitsministerin Warken will nun gegen Krankschreibungen über Onlineplattformen vorgehen. Angeblich könne jeder weiter Videosprechstunden beim Hausarzt nutzen. (<a href="https://www.golem.de/specials/it-jobs/">Arbeit</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 21:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Selbstverletzung, Suizid: Meta meldet riskante KI-Chats den Eltern</title>
+      <link>https://www.heise.de/news/Selbstverletzung-Suizid-Meta-meldet-riskante-KI-Chats-den-Eltern-11368138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11368138</guid>
+      <description><![CDATA[Reden Teenager auf Instagram mit der Meta AI zu oft über Suizid oder Selbstverletzung, sollen bald die Eltern alarmiert werden. Wenn die mitmachen.]]></description>
+      <pubDate>Thu, 16 Jul 2026 19:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Top 10: Der beste Open-Ear-Kopfhörer im Test – Shokz fast so gut wie In-Ears</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-open-ear-kopfhoerer-im-test-shokz-fast-so-gut-wie-in-ears/ce2xwfl?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11368076</guid>
+      <description><![CDATA[Open-Ear-Kopfhörer lassen den Gehörgang frei – und klingen mittlerweile trotzdem richtig gut. Wir zeigen die 10 besten Open-Ears aus etwa 35 Tests.]]></description>
+      <pubDate>Thu, 16 Jul 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Einstellungsgespräch: Palantir fragt Tötungsbereitschaft der Entwickler ab</title>
+      <link>https://www.golem.de/news/einstellungsgespraech-palantir-fragt-toetungsbereitschaft-der-entwickler-ab-2607-210971.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/einstellungsgespraech-palantir-fragt-toetungsbereitschaft-der-entwickler-ab-2607-210971.html</guid>
+      <description><![CDATA[Palantir testet beim Einstellungsgespräch, wie Entwickler damit umgehen, dass ihre Software Menschen tötet. Wer das Unternehmen verlässt, muss schweigen. (<a href="https://www.golem.de/specials/palantir/">Palantir</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Full Disclosure als Notwehr: Der Cursor Zero Day</title>
+      <link>https://www.heise.de/meinung/Full-Disclosure-als-Notwehr-Der-Cursor-Zero-Day-11367342.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367342</guid>
+      <description><![CDATA[Jürgen Schmidt, Leiter von heise security, erklärt, warum Responsible und Coordinated Disclosure keine Zukunft mehr haben.]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Aufregung über Daten-Upload: SpaceXAI macht Quellcode von Grok Build öffentlich</title>
+      <link>https://www.heise.de/news/Nach-Aufregung-ueber-Daten-Upload-SpaceXAI-macht-Code-von-Grok-Build-oeffentlich-11368014.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11368014</guid>
+      <description><![CDATA[Nachdem am Wochenende entdeckt wurde, dass Grok Build ganze Git-Repositories der User in einen Cloud-Speicher geschickt hat, verspricht SpaceXAI Transparenz.]]></description>
+      <pubDate>Thu, 16 Jul 2026 15:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Bundestag-Gutachten: Behörden dürfen Open Source in Ausschreibungen fordern</title>
+      <link>https://www.heise.de/news/Bundestag-Gutachten-Behoerden-duerfen-Open-Source-in-Ausschreibungen-fordern-11368018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11368018</guid>
+      <description><![CDATA[Der Wissenschaftliche Dienst des Parlaments klärt auf: Die gezielte Beschaffung von Open Source ist vergaberechtlich zulässig und oft sogar finanziell geboten.]]></description>
+      <pubDate>Thu, 16 Jul 2026 15:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] D-LBO: General wegen Kritik an gescheitertem Bundeswehr-Digitalfunk entlassen</title>
+      <link>https://www.golem.de/news/d-lbo-general-wegen-kritik-an-gescheitertem-bundeswehr-digitalfunk-entlassen-2607-210966.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/d-lbo-general-wegen-kritik-an-gescheitertem-bundeswehr-digitalfunk-entlassen-2607-210966.html</guid>
+      <description><![CDATA[Generalleutnant Alfons Mais spricht erstmals öffentlich über seine "nicht ganz einvernehmliche Abberufung" und die katastrophale Digitalisierung des Militärfunks mit D-LBO. (<a href="https://www.golem.de/specials/bundeswehr/">Bundeswehr</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 15:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Episches Kino: Christopher Nolan singt Homers Odyssee neu</title>
+      <link>https://www.golem.de/news/grosses-kino-christopher-nolan-singt-homers-odyssee-neu-2607-210923.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/grosses-kino-christopher-nolan-singt-homers-odyssee-neu-2607-210923.html</guid>
+      <description><![CDATA[Monumentale Bilder sind nur die Oberfläche. Die eigentliche Stärke von Nolans Homer-Verfilmung entfaltet sich erst nach dem Abspann. Eine Rezension von Daniel Pook (<a href="https://www.golem.de/specials/filmkritik/">Filmkritik</a>, <a href="https://www.golem.de/specials/film/">Film</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Gurke, Komet &amp; Co.: Unicode bringt 9 neue Emojis gegen Chat-Missverständnisse</title>
+      <link>https://www.digitec.ch/de/page/gurke-komet-co-unicode-bringt-9-neue-emojis-gegen-chat-missverstaendnisse-43280?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/gurke-komet-co-unicode-bringt-9-neue-emojis-gegen-chat-missverstaendnisse-43280</guid>
+      <description><![CDATA[Rissiges Lächeln und kosmisches Chaos: Im Frühjahr 2027 erwarten uns neun neue Emojis, die Missverständnisse ausräumen sollen. Eines davon sorgt aber eher für Stirnrunzeln.]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Kurs der SpaceX-Aktie fällt unter den Ausgabepreis</title>
+      <link>https://www.heise.de/news/Kurs-der-SpaceX-Aktie-faellt-unter-den-Ausgabepreis-11367970.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367970</guid>
+      <description><![CDATA[Ist der Hype vorbei? Am Mittwoch war die SpaceX-Aktie zwischenzeitlich weniger wert als bei der Ausgabe im Juni.]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Exportkontrollen auf Helium – China will Versorgung sichern</title>
+      <link>https://www.heise.de/news/Exportkontrollen-auf-Helium-China-will-Versorgung-sichern-11367982.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367982</guid>
+      <description><![CDATA[Peking beschränkt die Ausfuhr des Edelgases Helium. Das soll die eigene Versorgung sichern. Doch warum fürchtet China, dass das Gas nicht reichen könnte?]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Deutschland nicht vorbereitet: Hitzewelle kostete Wirtschaft 6,7 Milliarden Euro</title>
+      <link>https://www.golem.de/news/deutschland-nicht-vorbereitet-hitzewelle-kostete-wirtschaft-6-7-milliarden-euro-2607-210964.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/deutschland-nicht-vorbereitet-hitzewelle-kostete-wirtschaft-6-7-milliarden-euro-2607-210964.html</guid>
+      <description><![CDATA[Die wirtschaftlichen Verluste werden in Zukunft steigen, da Fabriken, Gebäude und Verkehrswege in Deutschland nicht auf Hitze vorbereitet sind. (<a href="https://www.golem.de/specials/klimakrise/">Klimakrise</a>, <a href="https://www.golem.de/specials/wirtschaft/">Wirtschaft</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:49:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Codex Micro: OpenAIs erste Hardware ist ein Tastenpad</title>
+      <link>https://www.golem.de/news/codex-micro-openais-erste-hardware-ist-ein-tastenpad-2607-210963.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/codex-micro-openais-erste-hardware-ist-ein-tastenpad-2607-210963.html</guid>
+      <description><![CDATA[Der Codex Micro soll das Steuern von KI-Agenten mittels Tasten erleichtern. Dafür arbeitet OpenAI mit einem Tastaturhersteller zusammen. (<a href="https://www.golem.de/specials/peripheriegeraete/">Peripheriegeräte</a>, <a href="https://www.golem.de/specials/eingabegeraet/">Eingabegerät</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:32:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Studie: Retrofit könnte Europas Busflotte 15 Jahre früher elektrifizieren</title>
+      <link>https://www.heise.de/news/Studie-Retrofit-koennte-Europas-Busflotte-15-Jahre-frueher-elektrifizieren-11367702.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367702</guid>
+      <description><![CDATA[Laut einer Studie ließe sich Europas Busflotte durch Umrüstung von Diesel auf Elektro bei halben Kosten und Emissionen 15 Jahre früher elektrifizieren.]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Eine Ursache für „Schneeball-Erde“? Asteroidenkollision mit dramatischen Folgen</title>
+      <link>https://www.heise.de/news/Eine-Ursache-fuer-Schneeball-Erde-Asteroidenkollision-mit-dramatischen-Folgen-11350004.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11350004</guid>
+      <description><![CDATA[Vor 800 Millionen Jahren war die Erde komplett zugefroren, möglicherweise auch wegen Asteroideneinschlägen. Nun gibt es einen Hinweis darauf, woher die kamen.]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Wischsauger Jonr H2 Pro im Test: Viel Leistung für wenig Geld</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/wischsauger-jonr-h2-pro-im-test-viel-leistung-fuer-wenig-geld/82303sl?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367614</guid>
+      <description><![CDATA[Der Jonr H2 Pro kombiniert starke Wischleistung mit flachem Design, großen Tanks und einer ungewöhnlichen Lösung gegen unangenehme Gerüche.]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Xpeng bringt Elektro-SUV L03 mit schneller Fahrassistenz nach Europa</title>
+      <link>https://www.heise.de/news/Xpeng-bringt-Elektro-SUV-L03-mit-schneller-Fahrassistenz-nach-Europa-11367094.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367094</guid>
+      <description><![CDATA[Xpeng führt sein Elektro-SUV L03 zeitgleich in China und Europa ein. Erste Daten und Preise gab XPeng auf dem globalen Launch-Event jetzt in München bekannt.]]></description>
+      <pubDate>Thu, 16 Jul 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] DMA: EU-Kommission zwingt Google zur Freigabe von Suchdaten</title>
+      <link>https://www.heise.de/news/DMA-EU-Kommission-zwingt-Google-zur-Freigabe-von-Suchdaten-11367764.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367764</guid>
+      <description><![CDATA[Statt Milliardenstrafen gibt es verbindliche Auflagen: Google muss nicht nur Android für KI-Konkurrenten öffnen, sondern auch Suchdaten teilen. Ein Kompromiss?]]></description>
+      <pubDate>Thu, 16 Jul 2026 13:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Thinking Machines stellt sein erstes KI-Modell „Inkling“ vor</title>
+      <link>https://www.heise.de/news/Thinking-Machines-stellt-sein-erstes-KI-Modell-Inkling-vor-11367662.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367662</guid>
+      <description><![CDATA[Thinking Machines steigt mit Inkling in den Wettbewerb offener KI-Modelle ein und setzt dabei auf Anpassbarkeit statt Spitzenleistung.]]></description>
+      <pubDate>Thu, 16 Jul 2026 13:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Gesperrtes Konto: Doch kein endgültiger Datenverlust bei Microsoft</title>
+      <link>https://www.golem.de/news/gesperrtes-konto-doch-kein-endgueltiger-datenverlust-bei-microsoft-2607-210958.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/gesperrtes-konto-doch-kein-endgueltiger-datenverlust-bei-microsoft-2607-210958.html</guid>
+      <description><![CDATA[Microsoft erklärte ein Konto für unwiederbringlich verloren. Jetzt ist es mitsamt Onedrive-Fotos und Spielen wieder da. (<a href="https://www.golem.de/specials/microsoft/">Microsoft</a>, <a href="https://www.golem.de/specials/games/">Spiele</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 13:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] TSMC klotzt in den USA noch weiter</title>
+      <link>https://www.heise.de/news/TSMC-will-US-Investitionen-auf-265-Milliarden-US-Dollar-erhoehen-11367592.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367592</guid>
+      <description><![CDATA[Der Weltmarktführer TSMC will weitere Halbleiterwerke in den USA bauen. Dafür stehen weitere 100 Milliarden US-Dollar bereit.]]></description>
+      <pubDate>Thu, 16 Jul 2026 13:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Biokraftstoff: BMW testet neuen Kraftstoff, Bosch liefert die Überwachung</title>
+      <link>https://www.golem.de/news/biokraftstoff-bmw-testet-neuen-kraftstoff-bosch-liefert-die-ueberwachung-2607-210949.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/biokraftstoff-bmw-testet-neuen-kraftstoff-bosch-liefert-die-ueberwachung-2607-210949.html</guid>
+      <description><![CDATA[Sechs Monate sollen Serienfahrzeuge das Biobenzin in der Praxis testen. Gezeigt werden soll, dass der Kraftstoff direkt einsatzfähig ist. (<a href="https://www.golem.de/specials/energiewende/">Energiewende</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 13:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] 8Bitdo verwandelt dein Smartphone mit dem FlipPad in einen Mini-Handheld</title>
+      <link>https://www.digitec.ch/de/page/8bitdo-verwandelt-dein-smartphone-mit-dem-flippad-in-einen-mini-handheld-43278?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/8bitdo-verwandelt-dein-smartphone-mit-dem-flippad-in-einen-mini-handheld-43278</guid>
+      <description><![CDATA[8Bitdos FlipPad macht dein Smartphone zum Mini-Handheld: Der kompakte USB-C-Controller sitzt vor dem unteren Teil des Displays und lässt sich bei Bedarf herunterklappen. Ein ähnliches Konzept bietet Gamesir bereits seit einigen Monaten mit dem Pocket Taco an.]]></description>
+      <pubDate>Thu, 16 Jul 2026 12:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Keine E-Autos vor 2030: Laut Lamborghini fehlen Elektroautos die Emotionen</title>
+      <link>https://www.golem.de/news/keine-e-autos-vor-2030-laut-lamborghini-fehlen-elektroautos-die-emotionen-2607-210953.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/keine-e-autos-vor-2030-laut-lamborghini-fehlen-elektroautos-die-emotionen-2607-210953.html</guid>
+      <description><![CDATA[Der Lamborghini Lanzador wird als Plug-in-Hybrid verkauft. Generell wird es wohl kein rein elektrisches Modell vor 2030 geben. (<a href="https://www.golem.de/specials/lamborghini/">Lamborghini</a>, <a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 12:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Digitec] Jetzt im Shop: Bundle für Wildtierfotografie mit Sony Alpha 6700 und «70–350 mm»-Objektiv</title>
+      <link>https://www.digitec.ch/de/page/jetzt-im-shop-bundle-fuer-wildtierfotografie-mit-sony-alpha-6700-und-70350-mm-objektiv-43263?utm_source=rss-feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">https://www.digitec.ch/de/page/jetzt-im-shop-bundle-fuer-wildtierfotografie-mit-sony-alpha-6700-und-70350-mm-objektiv-43263</guid>
+      <description><![CDATA[Das «Alpha 6700 Wildlife Kit» kombiniert eine spiegellose APS-C-Kamera mit KI-Autofokus und ein Telezoom mit einer Kleinbild-Brennweite von bis zu 525 Millimetern.]]></description>
+      <pubDate>Thu, 16 Jul 2026 12:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Fahrverbote am Brenner vor dem Aus – weitreichende Folgen für den Alpenverkehr</title>
+      <link>https://www.heise.de/news/Brenner-Streit-Gutachten-stellt-Tirols-Lkw-Fahrverbote-infrage-11367434.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367434</guid>
+      <description><![CDATA[Der Generalanwalt am EuGH hält die Tiroler Lkw-Fahrverbote am Brenner für unvereinbar mit dem freien Warenverkehr. Ein Urteil wird im Herbst erwartet.]]></description>
+      <pubDate>Thu, 16 Jul 2026 12:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Fehlannahme: Folgen von Sonnenstürmen für moderne Technik wohl viel heftiger</title>
+      <link>https://www.heise.de/news/Keine-Obergrenze-Folgen-von-Sonnenstuermen-koennen-viel-heftiger-sein-als-gedacht-11367090.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367090</guid>
+      <description><![CDATA[Auf Basis bisheriger Messdaten dachte man, dass es für Folgen eines Sonnensturms eine Obergrenze gibt. Eine solche existiert aber offenbar überhaupt nicht.]]></description>
+      <pubDate>Thu, 16 Jul 2026 11:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Diese KI kann neue Sprachen erschaffen: Das steckt dahinter</title>
+      <link>https://www.heise.de/news/Diese-KI-kann-neue-Sprachen-erschaffen-Das-steckt-dahinter-11367450.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367450</guid>
+      <description><![CDATA[Forscher haben jetzt ein Tool geschaffen, das komplett neue Sprachen erfinden kann. Wie die KI dabei vorgeht.]]></description>
+      <pubDate>Thu, 16 Jul 2026 11:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] „Star Wars“: Lukes Hand mit Lichtschwert bringt 3,75 Millionen US-Dollar</title>
+      <link>https://www.heise.de/news/Star-Wars-Lukes-Hand-mit-Lichtschwert-bringt-3-75-Millionen-US-Dollar-11367388.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367388</guid>
+      <description><![CDATA[Mark Hamills Requisitenhand samt Lichtschwert aus „Das Imperium schlägt zurück“ wurde bei Heritage Auctions für 3,75 Millionen US-Dollar verkauft – ein Rekord.]]></description>
+      <pubDate>Thu, 16 Jul 2026 11:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golem] Rekord bei Wärmepumpen: Heizungsgesetz der Ampel zeigt Auswirkungen</title>
+      <link>https://www.golem.de/news/rekord-bei-waermepumpen-heizungsgesetz-der-ampel-zeigt-auswirkungen-2607-210945.html</link>
+      <guid isPermaLink="false">https://www.golem.de/news/rekord-bei-waermepumpen-heizungsgesetz-der-ampel-zeigt-auswirkungen-2607-210945.html</guid>
+      <description><![CDATA[2025 war die Wärmepumpe erstmals die häufigste neu installierte Heizungsart. Grund war aber keineswegs eine Zunahme bei der Anzahl verbauter Geräte. (<a href="https://www.golem.de/specials/waermepumpe/">Wärmepumpe</a>, <a href="https://www.golem.de/specials/energiewende/">Energiewende</a>)]]></description>
+      <pubDate>Thu, 16 Jul 2026 11:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Heise] Filzstift, der Apollo-11-Mission rettete, für knapp 860.000 US-Dollar verkauft</title>
+      <link>https://www.heise.de/news/Buzz-Aldrins-Mondfilzer-fuer-knapp-860-000-US-Dollar-versteigert-11367292.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11367292</guid>
+      <description><![CDATA[Sotheby's hat einen Filzstift für knapp 860.000 US-Dollar versteigert. Der Stift von Buzz Aldrin spielte eine wichtige Rolle bei der ersten Mondlandung.]]></description>
+      <pubDate>Thu, 16 Jul 2026 10:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>[Golem] Mobile Game: Ratchet &amp; Clank öffnet Vorabregistrierung für Ranger Rumble</title>
       <link>https://www.golem.de/news/mobile-game-ratchet-clank-oeffnet-vorabregistrierung-fuer-ranger-rumble-2607-210940.html</link>
@@ -176,20 +414,6 @@
       <pubDate>Thu, 16 Jul 2026 07:22:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Polizei greift durch: Großer Betrugsring mit über 700 Mitarbeitern zerschlagen</title>
-      <link>https://www.golem.de/news/polizei-greift-durch-grosser-betrugsring-mit-ueber-700-mitarbeitern-zerschlagen-2607-210928.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/polizei-greift-durch-grosser-betrugsring-mit-ueber-700-mitarbeitern-zerschlagen-2607-210928.html</guid>
-      <description><![CDATA[Die Betrüger sollen Anleger über 20 Callcenter systematisch um mehr als 100 Millionen Euro pro Monat gebracht haben. Doch damit ist jetzt Schluss. (<a href="https://www.golem.de/specials/cybercrime/">Cybercrime</a>, <a href="https://www.golem.de/specials/security/">Security</a>)]]></description>
-      <pubDate>Thu, 16 Jul 2026 07:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Tarife: Mailbox.org hebt Preise an und verdoppelt Speicher</title>
-      <link>https://www.golem.de/news/tarife-mailbox-org-hebt-preise-an-und-verdoppelt-speicher-2607-210927.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/tarife-mailbox-org-hebt-preise-an-und-verdoppelt-speicher-2607-210927.html</guid>
-      <description><![CDATA[Mailbox.org stellt seine Tarife für Privat- und Geschäftskunden um. Je nach Vertrag greifen die Änderungen zu unterschiedlichen Terminen. (<a href="https://www.golem.de/specials/unternehmen/">Unternehmen</a>, <a href="https://www.golem.de/specials/e-mail/">E-Mail</a>)]]></description>
-      <pubDate>Thu, 16 Jul 2026 07:05:08 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Model-Schau: Neues aus China und Europas Abhängigkeit</title>
       <link>https://www.heise.de/hintergrund/Model-Schau-Neues-aus-China-und-Europas-Abhaengigkeit-11366005.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11366005</guid>
@@ -197,25 +421,11 @@
       <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Golem] Künstliche Intelligenz: Südkorea plant kostenlosen KI-Zugang für alle Bürger</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-suedkorea-plant-kostenlosen-ki-zugang-fuer-alle-buerger-2607-210926.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/kuenstliche-intelligenz-suedkorea-plant-kostenlosen-ki-zugang-fuer-alle-buerger-2607-210926.html</guid>
-      <description><![CDATA[Ein neues staatliches Projekt in Südkorea soll allen Einwohnern kostenlosen und unbegrenzten Zugang zu Chatbots und KI-Assistenten bieten. (<a href="https://www.golem.de/specials/ki/">KI</a>, <a href="https://www.golem.de/specials/nvidia/">Nvidia</a>)]]></description>
-      <pubDate>Thu, 16 Jul 2026 06:52:07 GMT</pubDate>
-    </item>
-    <item>
       <title>[Heise] Weg mit dem Kassenzettel: Bund reformiert Bonpflicht, Preisschilder und Steuern</title>
       <link>https://www.heise.de/news/Weg-mit-dem-Kassenzettel-Bund-reformiert-Bonpflicht-Preisschilder-und-Steuern-11366686.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11366686</guid>
       <description><![CDATA[Das 2. Entlastungskabinett will spürbaren Bürokratieabbau schaffen. Im Fokus stehen auch ein Abschied vom Papierbon, neue Preisregeln und die digitale Steuer.]]></description>
       <pubDate>Thu, 16 Jul 2026 06:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Forschung: Airbag im Weltall soll Sonnenstürme abwehren</title>
-      <link>https://www.golem.de/news/forschung-airbag-im-weltall-soll-sonnenstuerme-abwehren-2607-210737.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/forschung-airbag-im-weltall-soll-sonnenstuerme-abwehren-2607-210737.html</guid>
-      <description><![CDATA[Statt sich nur auf Früherkennungssysteme für das Weltraum-Wetter zu verlassen, schlagen Forscher das Auslösen eines Airbags vor, sobald ein Sonnensturm die Erde erreichen sollte. (<a href="https://www.golem.de/specials/sonne/">Sonne</a>, <a href="https://www.golem.de/specials/studie/">Studien</a>)]]></description>
-      <pubDate>Thu, 16 Jul 2026 06:28:09 GMT</pubDate>
     </item>
     <item>
       <title>[Heise] „Star Wars“-Schöpfer George Lucas verteidigt KI-Einsatz in Filmen</title>
@@ -244,237 +454,6 @@
       <guid isPermaLink="false">http://heise.de/-11366312</guid>
       <description><![CDATA[Microsoft setzt laut einer Studie von Mozilla weiter auf manipulative Designs, um Nutzer zum Edge-Browser zu lenken. EU-Nutzer kriegten davon aber weniger ab.]]></description>
       <pubDate>Thu, 16 Jul 2026 05:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Iran-Konflikt: Telekommunikationsdaten zeigen Handyortung von US-Soldaten</title>
-      <link>https://www.golem.de/news/sicherheit-gezielte-handy-ortung-von-us-soldaten-waehrend-iran-konflikt-2607-210921.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/sicherheit-gezielte-handy-ortung-von-us-soldaten-waehrend-iran-konflikt-2607-210921.html</guid>
-      <description><![CDATA[Telekommunikationsdaten belegen wiederholte Versuche, US-Militärangehörige im Golf per Handyortung aufzuspüren - auch schon vor dem Iran-Krieg. (<a href="https://www.golem.de/specials/mobilfunk/">Mobilfunk</a>, <a href="https://www.golem.de/specials/politik-recht/">Politik</a>)]]></description>
-      <pubDate>Thu, 16 Jul 2026 05:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Bericht: Schufa speichert veraltete Daten von Millionen Verbrauchern</title>
-      <link>https://www.heise.de/news/Schufa-speichert-veraltete-Daten-von-Millionen-Verbrauchern-in-Schattendatenbank-11366566.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366566</guid>
-      <description><![CDATA[Die Schufa hält „historische Daten“ zu Testzwecken vor. Doch diese hätten längst gelöscht werden müssen. Es hagelt Kritik von Daten- und Verbraucherschützern.]]></description>
-      <pubDate>Thu, 16 Jul 2026 03:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] KI-Kündigung: Kranke und behinderte Mitarbeiter verklagen Meta</title>
-      <link>https://www.heise.de/news/KI-Kuendigung-Kranke-und-behinderte-Mitarbeiter-verklagen-Meta-11366544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366544</guid>
-      <description><![CDATA[Im Krankenstand haben sie keine KI-Tokens verbraucht. Das habe zu schlechter KI-Bewertung und dem Verlust des Arbeitsplatzes geführt, klagen Meta-Mitarbeiter.]]></description>
-      <pubDate>Wed, 15 Jul 2026 22:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Amazons Leo kommt noch vor Starlink nach Südafrika</title>
-      <link>https://www.heise.de/news/Amazons-Leo-kommt-noch-vor-Starlink-nach-Suedafrika-11366518.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366518</guid>
-      <description><![CDATA[Elon Musk bietet Starlink in seinem Heimatland nicht an. Amazon.com setzt für Leo auf örtliche Partner. So geht Business in Südafrika.]]></description>
-      <pubDate>Wed, 15 Jul 2026 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Energieversorger enercity öffnet Kundenverwaltung für ChatGPT</title>
-      <link>https://www.heise.de/news/Energieversorger-enercity-oeffnet-Kundenverwaltung-fuer-ChatGPT-11364387.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11364387</guid>
-      <description><![CDATA[Das Energieunternehmen enercity ermöglicht Kunden, Zählerstände und andere Vertragsdaten in ChatGPT abzufragen und zu verwalten.]]></description>
-      <pubDate>Wed, 15 Jul 2026 18:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Top 10: Der beste Bluetooth-Lautsprecher im Test</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-bluetooth-lautsprecher-im-test-jbl-vor-marshall-und-sony/9t2vjzx?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366328</guid>
-      <description><![CDATA[Bluetooth-Lautsprecher sind ideal für Garten, Balkon, kleine Zimmer und unterwegs. Wir zeigen die besten Modelle.]]></description>
-      <pubDate>Wed, 15 Jul 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Arbeitsförderung 4.0: Regierung treibt digitales Update für Jobcenter voran</title>
-      <link>https://www.heise.de/news/Arbeitsfoerderung-4-0-Regierung-treibt-digitales-Update-fuer-Jobcenter-voran-11366286.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366286</guid>
-      <description><![CDATA[Mit einem Gesetz will das Bundeskabinett die Arbeitsverwaltung digitalisieren, die Eingliederungsvereinbarung ersetzen und Jobwechsel probeweise erleichtern.]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Chip-Lithografie: High-NA EUV erstmals im Produktiveinsatz</title>
-      <link>https://www.heise.de/news/Chip-Lithografie-High-NA-EUV-erstmals-im-Produktiveinsatz-11366348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366348</guid>
-      <description><![CDATA[Jetzt doch früher als gedacht: Intel betreibt erstmals produktiv ein Lithografie-System der nächsten Generation.]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Delivery Hero bestätigt fortgeschrittene Übernahmeverhandlungen mit Uber</title>
-      <link>https://www.heise.de/news/Delivery-Hero-bestaetigt-fortgeschrittene-Uebernahmeverhandlungen-mit-Uber-11366278.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366278</guid>
-      <description><![CDATA[Der Lieferdienst Delivery Hero wird wohl demnächst zu Uber gehören. Die Verhandlungen sind laut dem Berliner Unternehmen in einem fortgeschrittenen Stadium.]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] «The Odyssey» ist atemberaubend und ohrenbetäubend</title>
-      <link>https://www.digitec.ch/de/page/the-odyssey-ist-atemberaubend-und-ohrenbetaeubend-43257?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/the-odyssey-ist-atemberaubend-und-ohrenbetaeubend-43257</guid>
-      <description><![CDATA[Monumental, episch und doch ganz menschlich: Christopher Nolans «The Odyssey» ist zu Recht einer der meisterwarteten Filme dieses Jahres. Trotz fast drei Stunden Laufzeit hätte ich gerne noch mehr davon gesehen.]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Gaming: Warum Xbox trotz 80 Milliarden US-Dollar wieder neu anfangen muss</title>
-      <link>https://www.golem.de/news/gaming-warum-xbox-trotz-80-milliarden-us-dollar-wieder-neu-anfangen-muss-2607-210914.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/gaming-warum-xbox-trotz-80-milliarden-us-dollar-wieder-neu-anfangen-muss-2607-210914.html</guid>
-      <description><![CDATA[Microsoft besitzt mehr Spielestudios und Marken als je zuvor. Trotzdem steckt Xbox mitten im tiefgreifendsten Umbau seiner Geschichte. Eine Analyse von Peter Steinlechner (<a href="https://www.golem.de/specials/xbox/">Xbox</a>, <a href="https://www.golem.de/specials/microsoft/">Microsoft</a>)]]></description>
-      <pubDate>Wed, 15 Jul 2026 15:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Europäisches Know-how bleibt in Europa: EssilorLuxottica übernimmt Lynx</title>
-      <link>https://www.heise.de/news/Europaeisches-Know-how-bleibt-europaeisch-EssilorLuxottica-uebernimmt-Lynx-11366354.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366354</guid>
-      <description><![CDATA[Das Pariser VR-Start-up Lynx gehört jetzt EssilorLuxottica. Was könnte der weltgrößte Brillenkonzern und Metas Smart-Glasses-Partner mit dem Know-how vorhaben?]]></description>
-      <pubDate>Wed, 15 Jul 2026 15:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] KI: Chinas Deepseek wird mit 74 Milliarden US-Dollar bewertet</title>
-      <link>https://www.golem.de/news/ki-chinas-deepseek-wird-mit-74-milliarden-us-dollar-bewertet-2607-210916.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/ki-chinas-deepseek-wird-mit-74-milliarden-us-dollar-bewertet-2607-210916.html</guid>
-      <description><![CDATA[Mit einer angestrebten Bewertung will der OpenAI-Herausforderer Deepseek frisches Kapital einsammeln, um seine Wachstums- und Hardwarestrategie weiter zu finanzieren. (<a href="https://www.golem.de/specials/deepseek/">Deepseek</a>, <a href="https://www.golem.de/specials/ki/">KI</a>)]]></description>
-      <pubDate>Wed, 15 Jul 2026 15:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Edge 70 Max: Motorolas neues Oberklasse-Smartphone kommt mit Riesenakku</title>
-      <link>https://www.golem.de/news/edge-70-max-motorolas-neues-oberklasse-smartphone-kommt-mit-riesenakku-2607-210915.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/edge-70-max-motorolas-neues-oberklasse-smartphone-kommt-mit-riesenakku-2607-210915.html</guid>
-      <description><![CDATA[Beim neuen Edge 70 Max setzt Motorola auf ein hochauflösendes Display, zwei Kameras und einen großen Siliziumkohlenstoffakku. (<a href="https://www.golem.de/specials/motorola/">Motorola</a>, <a href="https://www.golem.de/specials/smartphone/">Smartphone</a>)]]></description>
-      <pubDate>Wed, 15 Jul 2026 15:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Beim Emporia Smart 8 sollst du dir keine Sorgen um das Display machen</title>
-      <link>https://www.digitec.ch/de/page/beim-emporia-smart-8-sollst-du-dir-keine-sorgen-um-das-display-machen-43274?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/beim-emporia-smart-8-sollst-du-dir-keine-sorgen-um-das-display-machen-43274</guid>
-      <description><![CDATA[Ein kaputtes Display ist der häufigste Schaden am Smartphone. Emporia will das beim Smart 8 mit einer Hülle und Gummi-Ecken verhindern. Im Fall der Fälle wird der Bildschirm kostenlos ausgetauscht.]]></description>
-      <pubDate>Wed, 15 Jul 2026 14:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Identitätsdienst-Anbieter Verimi stellt Betrieb zum Jahresende ein</title>
-      <link>https://www.heise.de/news/Identitaetsdienst-Anbieter-Verimi-stellt-Geschaeftsbetrieb-ein-11366078.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366078</guid>
-      <description><![CDATA[Der Identitätsdienst- und Wallet-Anbieter Verimi beendet den Betrieb Ende 2026. Als Grund nennt er veränderte strategische Rahmenbedingungen.]]></description>
-      <pubDate>Wed, 15 Jul 2026 14:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] ASML will deutlich mehr Lithografie-Systeme bauen</title>
-      <link>https://www.heise.de/news/ASML-will-deutlich-mehr-Lithografie-Systeme-bauen-11366095.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366095</guid>
-      <description><![CDATA[Niederländische Maschinen zur Wafer-Belichtung sollen nicht zum Flaschenhals des KI-Booms werden. ASML korrigiert seinen Ausblick nach oben.]]></description>
-      <pubDate>Wed, 15 Jul 2026 14:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Continental: Neuer Reifen soll Elektroautos 30 Kilometer weiter bringen</title>
-      <link>https://www.golem.de/news/continental-neuer-reifen-soll-elektroautos-30-kilometer-weiter-bringen-2607-210910.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/continental-neuer-reifen-soll-elektroautos-30-kilometer-weiter-bringen-2607-210910.html</guid>
-      <description><![CDATA[Continental und Renault wollen beweisen, dass die richtige Gummimischung beim Reifen mehr Reichweite bringen kann als manche Akkuverbesserung. (<a href="https://www.golem.de/specials/elektroauto/">Elektroauto</a>, <a href="https://www.golem.de/specials/auto/">Auto</a>)]]></description>
-      <pubDate>Wed, 15 Jul 2026 14:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Lamtto RC26 im Test: Wireless-Adapter rüstet Android und Play Store im Auto nach</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/lamtto-rc26-im-test-wireless-adapter-ruestet-android-und-play-store-im-auto-nach/z8f228h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11366013</guid>
-      <description><![CDATA[Youtube und Netflix im Auto? Der Lamto RC26 bringt Android aufs Infotainmentsystem und bietet auch kabelloses Carplay und Android Auto.]]></description>
-      <pubDate>Wed, 15 Jul 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Mazda MX-5: Mehr Dynamik, weniger Hubraum</title>
-      <link>https://www.heise.de/news/Mazda-MX-5-Mehr-Dynamik-weniger-Hubraum-11365835.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11365835</guid>
-      <description><![CDATA[Der Mazda MX-5 bekommt für 2027 etwas mehr Leistung aus dem 1,5-Liter-Motor und ein geschärftes Fahrwerk. Dafür fällt der große Motor in Europa ersatzlos weg.]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Alternative App-Stores bald im US-Play-Store verfügbar</title>
-      <link>https://www.heise.de/news/Alternative-App-Stores-bald-im-US-Play-Store-verfuegbar-11365841.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11365841</guid>
-      <description><![CDATA[In den USA können Android-Nutzer voraussichtlich ab der nächsten Woche App-Stores von Drittanbietern direkt über den Play Store herunterladen.]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Tab-Navigation kommt zurück: Sonos baut seine umstrittene App weiter um</title>
-      <link>https://www.heise.de/news/Tab-Navigation-kommt-zurueck-Sonos-baut-seine-umstrittene-App-weiter-um-11365072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11365072</guid>
-      <description><![CDATA[Nach massiver Kritik an der Sonos-App führt der Hersteller nun eine klassische Tab-Navigation per Opt-in ein, um die Bedienung wieder zu vereinfachen.]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] EU-Batterieverordnung: neue Ausnahmen für Smartwatches und Spielzeug</title>
-      <link>https://www.digitec.ch/de/page/eu-batterieverordnung-neue-ausnahmen-fuer-smartwatches-und-spielzeug-43266?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/eu-batterieverordnung-neue-ausnahmen-fuer-smartwatches-und-spielzeug-43266</guid>
-      <description><![CDATA[Ab Februar 2027 müssen sich Akkus in vielen Geräten grundsätzlich austauschen lassen. Die EU-Kommission erweitert nun jedoch die Ausnahmen. Dazu zählen unter anderem bestimmte Smartwatches, elektrisches Spielzeug und medizinische Spezialgeräte.]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] «Skyrim VR»: Dieser Mod lässt dich Drachen treten – mit deinen echten Füssen</title>
-      <link>https://www.digitec.ch/de/page/skyrim-vr-dieser-mod-laesst-dich-drachen-treten-mit-deinen-echten-fuessen-43269?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/skyrim-vr-dieser-mod-laesst-dich-drachen-treten-mit-deinen-echten-fuessen-43269</guid>
-      <description><![CDATA[Ein neuer Mod für «Skyrim VR» ermöglicht reale Kicks. Dank Full-Body-Tracking kannst du jetzt Drachen, Banditen und alles, was sich bewegt, mit deinen Füssen treten.]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Umweltbundesamt: Erneuerbare Energie wächst überall, Windkraft macht Sorgen</title>
-      <link>https://www.golem.de/news/umweltbundesamt-erneuerbare-energie-waechst-ueberall-aber-wind-macht-sorgen-2607-210896.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/umweltbundesamt-erneuerbare-energie-waechst-ueberall-aber-wind-macht-sorgen-2607-210896.html</guid>
-      <description><![CDATA[Vor allem die Wärmewende hat sich laut neuester Zahlen des Umweltbundesamts deutlich beschleunigt. Die Entwicklung verläuft aber nicht unbedingt nach Plan. (<a href="https://www.golem.de/specials/energiewende/">Energiewende</a>, <a href="https://www.golem.de/specials/elektromobilitaet/">Elektromobilität</a>)]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Digitec] Das offizielle Brettspiel zu «Kingdom Come Deliverance» kommt im Herbst</title>
-      <link>https://www.digitec.ch/de/page/das-offizielle-brettspiel-zu-kingdom-come-deliverance-kommt-im-herbst-43271?utm_source=rss-feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">https://www.digitec.ch/de/page/das-offizielle-brettspiel-zu-kingdom-come-deliverance-kommt-im-herbst-43271</guid>
-      <description><![CDATA[Das neue, komplexe Brettspiel zu «Kingdom Come Deliverance» bringt das Mittelalter-Rollenspiel analog in dein Wohnzimmer. Du kannst es allein oder mit bis zu drei anderen Personen spielen.]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:21:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] GeDIG im Kabinett: Schluss mit Faxen im deutschen Gesundheitssystem</title>
-      <link>https://www.heise.de/news/GeDIG-im-Kabinett-Schluss-mit-Faxen-im-deutschen-Gesundheitssystem-11365881.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11365881</guid>
-      <description><![CDATA[Die Bundesregierung bringt ein neues Digitalgesetz: Die E-Überweisung per ePA-App kommt, das Faxgerät soll in Arztpraxen bis 2029 endgültig ausgedient haben.]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golem] Mobilität: VW-E-Bike radelt mit Rückblickkamera und Smart Helmet</title>
-      <link>https://www.golem.de/news/mobilitaet-vw-e-bike-setzt-auf-rueckblickkamera-und-smart-helmet-2607-210904.html</link>
-      <guid isPermaLink="false">https://www.golem.de/news/mobilitaet-vw-e-bike-setzt-auf-rueckblickkamera-und-smart-helmet-2607-210904.html</guid>
-      <description><![CDATA[Eine integrierte Rückblickkamera und vernetzte Assistenzsysteme sollen das Fahrradfahren beim E-Bike von VW sicherer machen. (<a href="https://www.golem.de/specials/volkswagen/">VW</a>, <a href="https://www.golem.de/specials/auto/">Auto</a>)]]></description>
-      <pubDate>Wed, 15 Jul 2026 12:57:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Lichtverschmutzung durch Satelliten: „Schwärzestes Schwarz“ als mögliche Abhilfe</title>
-      <link>https://www.heise.de/news/Lichtverschmutzung-durch-Starlink-Co-Schwaerzestes-Schwarz-als-Abhilfe-11365816.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11365816</guid>
-      <description><![CDATA[Die wachsende Zahl von Satelliten wird nicht nur für die Astronomie zum Problem. Ein Forschungsteam schlägt vor, sie mit einer speziellen Farbe abzudunkeln.]]></description>
-      <pubDate>Wed, 15 Jul 2026 12:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] On-Device-KI: Google bringt 2-Milliarden-Parameter-Modell auf Smartphones</title>
-      <link>https://www.heise.de/news/On-Device-KI-Google-bringt-2-Milliarden-Parameter-Modell-auf-Smartphones-11365776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11365776</guid>
-      <description><![CDATA[Google verlagert KI-Funktionen von der Cloud direkt auf das Smartphone. Das Modell Gemma 4 E2B for TPU ist speziell für das Pixel 10 konzipiert.]]></description>
-      <pubDate>Wed, 15 Jul 2026 12:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Zufallsfund: Bislang lichtschwächster Exoplanet bei Beta Pictoris entdeckt</title>
-      <link>https://www.heise.de/news/Zufallsfund-Bislang-lichtschwaechster-Exoplanet-bei-Beta-Pictoris-entdeckt-11364341.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11364341</guid>
-      <description><![CDATA[Zufällig hat eine Forschungsgruppe auf Aufnahmen von Beta Pictoris einen weiteren Exoplaneten entdeckt. Der wurde dort sogar schon vor Jahren abgelichtet.]]></description>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] USA: Regierung erlässt KI-Executive-Order „Gold Eagle“</title>
-      <link>https://www.heise.de/news/USA-starten-Clearinghouse-Gold-Eagle-fuer-Cyberabwehr-11365644.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11365644</guid>
-      <description><![CDATA[Die US-Regierung hat im Rahmen des KI-Dekrets das Clearinghouse „Gold Eagle“ gestartet. Cyberschwachstellen sollen hier koordiniert bearbeitet werden.]]></description>
-      <pubDate>Wed, 15 Jul 2026 11:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Heise] Seit 40 Tagen Internet in pakistanischem Kaschmir stark gedrosselt</title>
-      <link>https://www.heise.de/news/Seit-40-Tagen-Internet-in-pakistanischem-Kaschmir-stark-gedrosselt-11365652.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11365652</guid>
-      <description><![CDATA[Anfang Juni kam es zu schweren Protesten in der pakistanischen Region Kaschmir. Seither ist das Internet stark gestört. Was sind die Hintergründe?]]></description>
-      <pubDate>Wed, 15 Jul 2026 10:51:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
