@@ -5,14 +5,84 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sat, 18 Jul 2026 04:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Ausland] Brandursache unklar – Grossbrand in Norwegen – Dutzende Häuser in Flammen</title>
-      <link>https://www.srf.ch/news/international/brandursache-unklar-grossbrand-in-norwegen-dutzende-haeuser-in-flammen</link>
+      <title>[Journal de Morges] Audrey Hepburn zeigt ihre Eleganz im Musée Bolle</title>
+      <link>https://journaldemorges.ch/actualite/culture/audrey-hepburn-pose-son-elegance-au-musee-bolle/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/culture/audrey-hepburn-pose-son-elegance-au-musee-bolle/</guid>
+      <description><![CDATA[In Morges widmet das Musée Bolle seine Sommerausstellung dem Stil von Audrey Hepburn. Die Schwarz-Weiß-Fotografien sind bis September zu sehen.]]></description>
+      <pubDate>Sat, 18 Jul 2026 10:51:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Guy Delacrétaz: «Gemeindepräsident zu sein bedeutet, Spuren zu hinterlassen»</title>
+      <link>https://journaldemorges.ch/actualite/politique/guy-delacretaz-etre-syndic-cest-laisser-une-trace/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/politique/guy-delacretaz-etre-syndic-cest-laisser-une-trace/</guid>
+      <description><![CDATA[Guy Delacrétaz war von 2011 bis 2026 Gemeindepräsident von Préverenges. Er zieht Bilanz zwischen prägenden Projekten, Lernerfahrungen und seiner Vision der Milizpolitik.]]></description>
+      <pubDate>Sat, 18 Jul 2026 10:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Rassistische Mieterin wegen Beleidigung ihrer afrikanischen Nachbarn verurteilt</title>
+      <link>https://www.20min.ch/fr/story/vaud-locataire-raciste-condamnee-pour-insultes-a-ses-voisins-africains-103605072</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-locataire-raciste-condamnee-pour-insultes-a-ses-voisins-africains-103605072</guid>
+      <description><![CDATA[Das Bundesgericht hat eine Waadtländerin sanktioniert, die afrikanische Bewohner in E-Mails als «Dschungeltiere» bezeichnet hatte.]]></description>
+      <pubDate>Sat, 18 Jul 2026 10:04:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Vorfall bei Ticketkontrolle – Sicherheitsmann der Deutschen Bahn aus Zug gestürzt</title>
+      <link>https://www.srf.ch/news/international/vorfall-bei-ticketkontrolle-sicherheitsmann-der-deutschen-bahn-aus-zug-gestuerzt</link>
+      <guid isPermaLink="false">urn:srf:article:019f7451-b97b-adc0-771c-5b24ce777d82</guid>
+      <description><![CDATA[Ein Sicherheitsmitarbeiter der Deutschen Bahn ist nach einer gewaltsamen Auseinandersetzung in kritischem Zustand.]]></description>
+      <pubDate>Sat, 18 Jul 2026 09:57:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Brandursache unklar – Grossbrand in Norwegen – Dutzende Häuser abgebrannt</title>
+      <link>https://www.srf.ch/news/international/brandursache-unklar-grossbrand-in-norwegen-dutzende-haeuser-abgebrannt</link>
       <guid isPermaLink="false">urn:srf:article:019f7160-11c3-cddc-e241-cdd01961eaea</guid>
-      <description><![CDATA[Das Feuer erfasste ein Wohngebiet mit Reihenhäusern. Berichte über Tote oder vermisste Personen gab es zunächst nicht.]]></description>
-      <pubDate>Sat, 18 Jul 2026 01:21:48 GMT</pubDate>
+      <description><![CDATA[Das Feuer erfasste ein Wohngebiet mit Reihenhäusern. Berichte über schwer verletzte Menschen gab es zunächst nicht.]]></description>
+      <pubDate>Sat, 18 Jul 2026 09:08:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Wetterextreme nehmen zu – «Befürchte, dass wir 2026 einen analogen Fall zu 1540 haben»</title>
+      <link>https://www.srf.ch/news/international/wetterextreme-nehmen-zu-befuerchte-dass-wir-2026-einen-analogen-fall-zu-1540-haben</link>
+      <guid isPermaLink="false">urn:srf:article:019f612a-a111-64e4-2082-cc87708a2265</guid>
+      <description><![CDATA[Hitze, Dürre, Waldbrände: Der Klimahistoriker Christian Pfister vergleicht den aktuellen Sommer mit jenem von 1540.]]></description>
+      <pubDate>Sat, 18 Jul 2026 09:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Drogenhandel in Südfrankreich – Marseille: Vereinsarbeit gegen die Drogenkriminalität</title>
+      <link>https://www.srf.ch/news/international/drogenhandel-in-suedfrankreich-marseille-vereinsarbeit-gegen-die-drogenkriminalitaet</link>
+      <guid isPermaLink="false">urn:srf:article:019e82c9-8b49-e826-d145-48eabe3f3a68</guid>
+      <description><![CDATA[In den südlichen Quartieren von Marseille versucht ein Verein, Jugendlichen eine Perspektive zu bieten.]]></description>
+      <pubDate>Sat, 18 Jul 2026 08:31:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Riskanter Spass im Wasser – Freiwillige bringen Asylsuchenden das Schwimmen bei</title>
+      <link>https://www.srf.ch/news/schweiz/riskanter-spass-im-wasser-freiwillige-bringen-asylsuchenden-das-schwimmen-bei</link>
+      <guid isPermaLink="false">urn:srf:article:019f661b-b702-9cda-e8d5-9df68ac3c454</guid>
+      <description><![CDATA[Die Hitze lockt ans Wasser – für Unerfahrene kann das gefährlich werden. Kurse für Geflüchtete sollen Leben retten.]]></description>
+      <pubDate>Sat, 18 Jul 2026 07:12:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Glanz und Elend – Las Vegas: Das Geschäft mit dem Glamour hat seinen Preis</title>
+      <link>https://www.srf.ch/news/dialog/glanz-und-elend-las-vegas-das-geschaeft-mit-dem-glamour-hat-seinen-preis</link>
+      <guid isPermaLink="false">urn:srf:article:019f6f1e-7912-db76-a92f-58263b2d981c</guid>
+      <description><![CDATA[Las Vegas erwirtschaftet jährlich Milliarden. Gleichzeitig nehmen Obdachlosigkeit und Fentanyl-Überdosierungen stark zu.]]></description>
+      <pubDate>Sat, 18 Jul 2026 07:08:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Recherchen der «NZZ» – Verteidigung statt Tribünenbau: Armeehilfe unter Druck</title>
+      <link>https://www.srf.ch/news/schweiz/recherchen-der-nzz-verteidigung-statt-tribuenenbau-armeehilfe-unter-druck</link>
+      <guid isPermaLink="false">urn:srf:article:019f721f-7be9-0932-7fd0-8e2a187caabf</guid>
+      <description><![CDATA[Viele Grossanlässe sind heute auf die Mithilfe der Armee angewiesen. In Bundesbern sieht man das nicht mehr unkritisch.]]></description>
+      <pubDate>Sat, 18 Jul 2026 05:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Lehrkräftemangel – Im Sommercamp zum Pädagogen: Modell sorgt für Kritik</title>
+      <link>https://www.srf.ch/news/schweiz/lehrkraeftemangel-im-sommercamp-zum-paedagogen-modell-sorgt-fuer-kritik</link>
+      <guid isPermaLink="false">urn:srf:article:019f6f27-2c38-4223-877c-9c171f59f406</guid>
+      <description><![CDATA[Bern muss weiter auf Quereinsteiger ohne Ausbildung setzen – während sich in Zürich der Lehrkräftemangel entschärft.]]></description>
+      <pubDate>Sat, 18 Jul 2026 05:37:27 GMT</pubDate>
     </item>
     <item>
       <title>[RTS Vaud] 10'000-Einwohner-Marke überschritten: Le Mont-sur-Lausanne ist nun eine Stadt auf Identitätssuche</title>
@@ -99,6 +169,13 @@
       <pubDate>Fri, 17 Jul 2026 16:19:26 GMT</pubDate>
     </item>
     <item>
+      <title>[Journal de Morges] Er führte die Schweiz zum Weltmeistertitel</title>
+      <link>https://journaldemorges.ch/sports/omnisports/il-a-guide-la-suisse-au-titre-mondial/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/sports/omnisports/il-a-guide-la-suisse-au-titre-mondial/</guid>
+      <description><![CDATA[Ein Weltmeistertitel ist eine Premiere für die Schweiz und Nelson Braillard, den Kapitän der Powerchair-Hockey-Nationalmannschaft. Ein Erfolg, der diese Disziplin ins Rampenlicht rückt.]]></description>
+      <pubDate>Fri, 17 Jul 2026 16:10:54 GMT</pubDate>
+    </item>
+    <item>
       <title>[SRF Wirtschaft] Fussball als Geschäft – Über 40 Milliarden Euro: Umsatzrekord im europäischen Fussball</title>
       <link>https://www.srf.ch/news/wirtschaft/fussball-als-geschaeft-ueber-40-milliarden-euro-umsatzrekord-im-europaeischen-fussball</link>
       <guid isPermaLink="false">urn:srf:article:019f700d-4391-1d70-7182-61778c96be93</guid>
@@ -134,8 +211,8 @@
       <pubDate>Fri, 17 Jul 2026 14:41:54 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Gesellschaft] Vor WM-Finale – Halbzeit XXL: Wenn die Show das Spiel überschattet</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/vor-wm-finale-halbzeit-xxl-wenn-die-show-das-spiel-ueberschattet</link>
+      <title>[SRF Gesellschaft] Vor WM-Final – Halbzeit XXL: Wenn die Show das Spiel überschattet</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/vor-wm-final-halbzeit-xxl-wenn-die-show-das-spiel-ueberschattet</link>
       <guid isPermaLink="false">urn:srf:article:019f6f2d-1d1b-39e4-b1ca-56c9c0873265</guid>
       <description><![CDATA[Es ist eine Frage der Tradition: des Gastgeberlandes USA, der Fifa-Logik und des Fussballs. Wer gewinnt, wer verliert?]]></description>
       <pubDate>Fri, 17 Jul 2026 14:35:40 GMT</pubDate>
@@ -181,118 +258,6 @@
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/politique/le-cimetiere-de-bussigny-mieux-encadre/</guid>
       <description><![CDATA[Seit 1978 unverändert, wurde das kommunale Friedhofsreglement überarbeitet, um es an die kantonale Gesetzgebung anzupassen. Es tritt im Juli in Kraft.]]></description>
       <pubDate>Fri, 17 Jul 2026 10:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Neue App soll helfen – Digitale Hilfe im Dschungel der Ergänzungsleistungen</title>
-      <link>https://www.srf.ch/news/schweiz/neue-app-soll-helfen-digitale-hilfe-im-dschungel-der-ergaenzungsleistungen</link>
-      <guid isPermaLink="false">urn:srf:article:019f6937-dc7f-35c1-1572-1b6e76938971</guid>
-      <description><![CDATA[Zehntausende Menschen in der Schweiz beantragen nie Ergänzungsleistungen trotz Anspruch. Eine App soll das ändern.]]></description>
-      <pubDate>Fri, 17 Jul 2026 10:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Grossbritannien – Was der neue Labour-Chef Andy Burnham besser machen muss</title>
-      <link>https://www.srf.ch/news/international/grossbritannien-was-der-neue-labour-chef-andy-burnham-besser-machen-muss</link>
-      <guid isPermaLink="false">urn:srf:article:019f6e53-862b-7847-d939-8fe6deabf111</guid>
-      <description><![CDATA[Andy Burnham ist neuer Labour-Vorsitzender. Was muss sich unter dem charismatischen Ex-Bürgermeister ändern?]]></description>
-      <pubDate>Fri, 17 Jul 2026 10:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bundesgerichtsurteil – Parkieren auf Besucherparkplatz ist nicht strafbar</title>
-      <link>https://www.srf.ch/news/schweiz/bundesgerichtsurteil-parkieren-auf-besucherparkplatz-ist-nicht-strafbar</link>
-      <guid isPermaLink="false">urn:srf:article:019f6a10-e71f-0518-072c-159a69f771af</guid>
-      <description><![CDATA[Wer auf einem Besucherparkplatz parkiert, darf nicht von der Polizei gebüsst werden.]]></description>
-      <pubDate>Fri, 17 Jul 2026 10:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Gipfelblick und Overtourism – Einchecken ins Museum: Eine Ausstellung zum Reiseziel Schweiz</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/gipfelblick-und-overtourism-einchecken-ins-museum-eine-ausstellung-zum-reiseziel-schweiz</link>
-      <guid isPermaLink="false">urn:srf:article:019f6a5b-12de-8d05-e13f-80aed25256be</guid>
-      <description><![CDATA[Die Schau in Schwyz erzählt die Geschichte des Tourismus in der Schweiz und lädt zum Mitmachen ein – und zum Nachdenken.]]></description>
-      <pubDate>Fri, 17 Jul 2026 09:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Mikrokosmos Campingplatz – Ein Dorf auf Zeit mit vielen Freiheiten und Regeln</title>
-      <link>https://www.srf.ch/radio-srf-1/mikrokosmos-campingplatz-ein-dorf-auf-zeit-mit-vielen-freiheiten-und-regeln</link>
-      <guid isPermaLink="false">urn:srf:article:019f69d9-6959-4ba9-9b49-cdfa0874bfc2</guid>
-      <description><![CDATA[Der grösste Campingplatz der Deutschschweiz liegt am Sempachersee. Ein Besuch.]]></description>
-      <pubDate>Fri, 17 Jul 2026 09:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Machtkampf zwischen Lausanne und der Industrie geht weiter</title>
-      <link>https://www.20min.ch/fr/story/pollution-dans-le-leman-le-bras-de-fer-entre-lausanne-et-les-industriels-se-poursuit-103604674</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/pollution-dans-le-leman-le-bras-de-fer-entre-lausanne-et-les-industriels-se-poursuit-103604674</guid>
-      <description><![CDATA[Syngenta und CIMO fechten die Beteiligung der Stadt am Verfahren zur Verschmutzung des Genfersees mit 1,2,4-Triazol erneut an, trotz eines positiven Entscheids aus dem Wallis.]]></description>
-      <pubDate>Fri, 17 Jul 2026 09:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Hitze auf der Spitze – Flucht in die Höhe: Auch Tiere in hochalpinen Gebieten leiden</title>
-      <link>https://www.srf.ch/radio-srf-1/hitze-auf-der-spitze-flucht-in-die-hoehe-auch-tiere-in-hochalpinen-gebieten-leiden</link>
-      <guid isPermaLink="false">urn:srf:article:019f64a2-18c3-1213-fed2-88af49781b45</guid>
-      <description><![CDATA[Platzmangel in den Bergen: Wildtiere suchen nach Abkühlung in der Höhe – mit Folgen, die sich kaum abschätzen lassen.]]></description>
-      <pubDate>Fri, 17 Jul 2026 09:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Die Uber-Saga ist vorbei: Genf setzt den Status als Arbeitnehmer durch</title>
-      <link>https://www.20min.ch/fr/story/geneve-la-saga-uber-c-est-fini-geneve-a-reussi-a-imposer-le-salariat-103604160</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-la-saga-uber-c-est-fini-geneve-a-reussi-a-imposer-le-salariat-103604160</guid>
-      <description><![CDATA[Der Staat hat der MITC, dem Unternehmen mit den meisten VTC-Fahrern, eine Betriebsbewilligung erteilt. Bald werden alle über geplante und entsprechend bezahlte Arbeitszeiten verfügen.]]></description>
-      <pubDate>Fri, 17 Jul 2026 08:31:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Ammunition Support Partnership – Schweiz tritt Nato-Partnerschaft für Munitionsbeschaffung bei</title>
-      <link>https://www.srf.ch/news/international/ammunition-support-partnership-schweiz-tritt-nato-partnerschaft-fuer-munitionsbeschaffung-bei</link>
-      <guid isPermaLink="false">urn:srf:article:019f6f17-a210-7981-eb74-8e8d64febae8</guid>
-      <description><![CDATA[Die Schweiz beteiligt sich an einer Nato-Partnerschaft für die gemeinsame Beschaffung von Munition.]]></description>
-      <pubDate>Fri, 17 Jul 2026 08:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Der Boom privater Anlagen – Was hinter dem Geschäft der Partners Group steckt</title>
-      <link>https://www.srf.ch/news/wirtschaft/der-boom-privater-anlagen-was-hinter-dem-geschaeft-der-partners-group-steckt</link>
-      <guid isPermaLink="false">urn:srf:article:019f65cd-a36c-9ee5-d14a-40df625de9c0</guid>
-      <description><![CDATA[Die Partners Group investiert Milliarden in private Firmen. Wie funktioniert das Geschäft – und warum gibt es Kritik?]]></description>
-      <pubDate>Fri, 17 Jul 2026 07:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Ein Bahnhof im Dauerumbau – Der Umbaumarathon am Zürcher Hauptbahnhof geht weiter</title>
-      <link>https://www.srf.ch/news/schweiz/ein-bahnhof-im-dauerumbau-der-umbaumarathon-am-zuercher-hauptbahnhof-geht-weiter</link>
-      <guid isPermaLink="false">urn:srf:article:019f69c9-a809-f8c6-bd38-76a046160d0c</guid>
-      <description><![CDATA[Tiefbahnhof, Gleishalle, Südtrakt, Nordtrakt – der Zürcher HB ist eine Dauerbaustelle.]]></description>
-      <pubDate>Fri, 17 Jul 2026 06:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] «Bier-Idee» oder realistisch? – Mehr Schweiz im Bier – dank einem Label für Schweizer Malz</title>
-      <link>https://www.srf.ch/sendungen/kassensturz-espresso/espresso/bier-idee-oder-realistisch-mehr-schweiz-im-bier-dank-einem-label-fuer-schweizer-malz</link>
-      <guid isPermaLink="false">urn:srf:article:019f69fb-0776-bc01-4a93-fce5a886708f</guid>
-      <description><![CDATA[Schweizer Wasser reicht, damit ein Bier «Schweizer Bier» sein darf. Hopfen und Malz stammen meist aus dem Ausland.]]></description>
-      <pubDate>Fri, 17 Jul 2026 06:35:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Blitze boten ein Spektakel über dem Genferseebecken</title>
-      <link>https://www.20min.ch/fr/video/meteo-les-eclairs-ont-offert-un-spectacle-sur-l-arc-lemanique-103604578</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/video/meteo-les-eclairs-ont-offert-un-spectacle-sur-l-arc-lemanique-103604578</guid>
-      <description><![CDATA[Gewitter erhellten in der Nacht von Donnerstag auf Freitag den Himmel über der Genferseeregion. Entdecken Sie die schönsten Leserfotos.]]></description>
-      <pubDate>Fri, 17 Jul 2026 05:42:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Trumps Rede an die Nation – Was bringen Trump seine Vorwürfe an China und am US-Wahlsystem?</title>
-      <link>https://www.srf.ch/news/international/trumps-rede-an-die-nation-was-bringen-trump-seine-vorwuerfe-an-china-und-am-us-wahlsystem</link>
-      <guid isPermaLink="false">urn:srf:article:019f6e38-7e6b-ca6f-145b-0f8d65d6a537</guid>
-      <description><![CDATA[Präsident Donald Trump kritisiert in einer Rede das US-Wahlsystem. Der USA-Korrespondent schätzt seine Aussagen ein.]]></description>
-      <pubDate>Fri, 17 Jul 2026 05:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Helfer am Basel Tattoo – Nie im Scheinwerferlicht, aber unentbehrlich für das Festival</title>
-      <link>https://www.srf.ch/news/schweiz/helfer-am-basel-tattoo-nie-im-scheinwerferlicht-aber-unentbehrlich-fuer-das-festival</link>
-      <guid isPermaLink="false">urn:srf:article:019f69fa-099c-8e3f-ad5a-6a4ac7171e1a</guid>
-      <description><![CDATA[Schlagzeilen machen Dudelsack- und Trommelgruppen, aber ohne Helfer läuft nichts – Pascal Roth ist seit 20 Jahren einer.]]></description>
-      <pubDate>Fri, 17 Jul 2026 04:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Untersuchung der Empa – Weshalb Plug-in-Hybridautos ihre Öko-Versprechen nicht einhalten</title>
-      <link>https://www.srf.ch/news/wirtschaft/untersuchung-der-empa-weshalb-plug-in-hybridautos-ihre-oeko-versprechen-nicht-einhalten</link>
-      <guid isPermaLink="false">urn:srf:article:019f6b31-2265-810c-bdb7-9df97c0ab74a</guid>
-      <description><![CDATA[Laut einer Studie ist bei tiefen Temperaturen die Bilanz schlechter und der Treibstoffverbrauch höher als ausgewiesen.]]></description>
-      <pubDate>Fri, 17 Jul 2026 04:45:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
