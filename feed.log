@@ -1,6 +1,6 @@
 === SCHWEIZ-FEED PROTOKOLL ===
-Start: 17.7.2026, 12:58:39
-Letzter Lauf: 17.7.2026, 06:30:36
+Start: 18.7.2026, 06:30:35
+Letzter Lauf: 17.7.2026, 12:58:39
 
 Abruf der RSS-Feeds:
 - https://www.srf.ch/bnf/rss/630
@@ -17,18 +17,41 @@ Abruf der RSS-Feeds:
 Statischer Filter (Keywords):
 - Keine Artikel durch statische Keywords gefiltert.
 
-KI-Filter (Gemini) - 22 neue Artikel geprüft:
-- Weiterhin entfernt (Cache, Grund: Blaulicht-Meldung / Umweltvorfall außerhalb von Vaud (Landquart).): 'Durch Pflanzenschutzmittel – 45 Bienenvölker in der Region Landquart vergiftet'
-- Weiterhin entfernt (Cache, Grund: Duplikat zu Artikel 21 (SRF-Artikel bevorzugt).): 'La Suisse condamnée pour des repas végans refusés en prison'
-- Weiterhin entfernt (Cache, Grund: Unfall/medizinischer Vorfall außerhalb von Vaud (Sion).): 'Un scorpion caché dans sa valise le pique au retour des vacances'
-- Gelöscht (Grund: Kriminalitätsmeldung (Haftentlassung im Betrugsfall) außerhalb des Kantons Waadt.): 'La sœur du propriétaire de PrimeEnergy remise en liberté'
-- Gelöscht (Grund: Kriminalitätsmeldung (Cyberangriff/Erpressung) außerhalb des Kantons Waadt (Genf).): 'Piratée, la fondation Ifage est menacée par une demande de rançon'
-- Gelöscht (Grund: Meldung über Kriminalität bzw. eine Strafanzeige außerhalb des Kantons Waadt (Solothurn).): 'Lebensmittelkontrolle – Gift im Asia-Gemüse: Jede dritte Probe fällt durch'
+KI-Filter (Gemini) - 27 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung (Haftentlassung im Betrugsfall) außerhalb des Kantons Waadt.): 'La sœur du propriétaire de PrimeEnergy remise en liberté'
+- Weiterhin entfernt (Cache, Grund: Kriminalitätsmeldung (Cyberangriff/Erpressung) außerhalb des Kantons Waadt (Genf).): 'Piratée, la fondation Ifage est menacée par une demande de rançon'
+- Weiterhin entfernt (Cache, Grund: Meldung über Kriminalität bzw. eine Strafanzeige außerhalb des Kantons Waadt (Solothurn).): 'Lebensmittelkontrolle – Gift im Asia-Gemüse: Jede dritte Probe fällt durch'
+- Gelöscht (Grund: Blaulicht-Meldung ausserhalb des Kantons Waadt.): 'Nach Überfall in Solothurn – Wann darf die Polizei schiessen? Ein Experte ordnet ein'
+- Gelöscht (Grund: Reine Blaulicht-Meldung ausserhalb des Kantons Waadt.): 'Tägerwilen TG – Schweizer Zoll stoppt Lastwagen mit 40 Bienenvölkern'
 
 Finale Liste (live im XML-Feed):
-- [Journal de Morges] Der Friedhof von Bussigny erhält ein neues Reglement
+- [SRF Ausland] Brandursache unklar – Grossbrand in Norwegen – Dutzende Häuser in Flammen
+- [RTS Vaud] 10'000-Einwohner-Marke überschritten: Le Mont-sur-Lausanne ist nun eine Stadt auf Identitätssuche
+- [20 Min Romandie] Baum stürzt auf Spaziergängerin: Förster verurteilt
+- [SRF Ausland] Zielsetzungen runtergeschraubt – Reform des EU-Emissionshandels: Die wichtigsten Antworten
+- [SRF Wirtschaft] Kurzes Börsenhoch – Apple kurz wieder wertvollstes Unternehmen der Welt
+- [SRF Ausland] Empörungswelle in der CDU – Jens Spahn, ein Leihmutter-Baby namens Georg und der Kanzler
+- [SRF Ausland] Angriffe auf US-Verbündete – Darum greift der Iran Golfstaaten an
+- [SRF Schweiz] Liebe zwischen Bundesrichtern – Gremium legt Bericht vor – das Wichtigste
+- [SRF Schweiz] Lausanner Hotelschule EHL – Die Eliteschule, wo alle kochen und putzen müssen
+- [20 Min Romandie] Die heisseste erste Sommerhälfte, die die Schweiz je erlebt hat
+- [20 Min Romandie] «Eine Erhöhung um 27'000 Fr. pro Jahr ist eine zusätzliche Miete!»
+- [SRF Schweiz] Ab in den Süden – Fünf Kilometer Stau am Gotthard-Nordportal
+- [20 Min Romandie] Erneuter Notruf der Ladenbesitzer der betroffenen Strasse in Carouge
+- [SRF Wirtschaft] Fussball als Geschäft – Über 40 Milliarden Euro: Umsatzrekord im europäischen Fussball
+- [SRF Ausland] Zweitteuerstes Fussballtrikot – Pelé-Trikot von 1958 für rund vier Millionen Franken versteigert
+- [SRF Ausland] Ab April 2027 – Grossbritannien verbietet Verkauf von Energydrinks an Kinder
+- [SRF Wissen] Wüstenstaub – Mehr Saharastaub in Südeuropa: Was bedeutet das für meine Ferien?
+- [SRF Schweiz] Keine Wurst vom Holzkohlegrill – Was die Alarmstufen und das Feuerverbot genau heissen
+- [SRF Gesellschaft] Vor WM-Finale – Halbzeit XXL: Wenn die Show das Spiel überschattet
+- [SRF Ausland] Rede zur Lage der Nation – Wird bei den Midterms alles mit rechten Dingen zugehen?
+- [SRF Wirtschaft] Sportwetten im Internet – Der wahre Gewinner der Fussball-WM steht schon fest
+- [20 Min Romandie] Angst vor Massenkündigungen bei Mietern in Les Acacias
+- [SRF Schweiz] 25 Jahre Tagesgespräch – Pascal Couchepin: «Wir werden das Rentenalter erhöhen müssen»
+- [SRF Ausland] Flucht ab Myanmar – Hunderte Rohingya nach Flucht übers Meer vermisst
+- [Journal de Morges] Friedhof von Bussigny erhält ein neues Reglement
 - [SRF Schweiz] Neue App soll helfen – Digitale Hilfe im Dschungel der Ergänzungsleistungen
-- [SRF Ausland] Kür des neuen Labour-Chefs – Was Andy Burnham besser machen muss
+- [SRF Ausland] Grossbritannien – Was der neue Labour-Chef Andy Burnham besser machen muss
 - [SRF Schweiz] Bundesgerichtsurteil – Parkieren auf Besucherparkplatz ist nicht strafbar
 - [SRF Gesellschaft] Gipfelblick und Overtourism – Einchecken ins Museum: Eine Ausstellung zum Reiseziel Schweiz
 - [SRF Schweiz] Mikrokosmos Campingplatz – Ein Dorf auf Zeit mit vielen Freiheiten und Regeln
@@ -37,32 +60,9 @@ Finale Liste (live im XML-Feed):
 - [20 Min Romandie] Die Uber-Saga ist vorbei: Genf setzt den Status als Arbeitnehmer durch
 - [SRF Ausland] Ammunition Support Partnership – Schweiz tritt Nato-Partnerschaft für Munitionsbeschaffung bei
 - [SRF Wirtschaft] Der Boom privater Anlagen – Was hinter dem Geschäft der Partners Group steckt
-- [SRF Wissen] Wüstenstaub – Mehr Saharastaub in Südeuropa: Was bedeutet das für meine Ferien?
 - [SRF Schweiz] Ein Bahnhof im Dauerumbau – Der Umbaumarathon am Zürcher Hauptbahnhof geht weiter
 - [SRF Schweiz] «Bier-Idee» oder realistisch? – Mehr Schweiz im Bier – dank einem Label für Schweizer Malz
 - [20 Min Romandie] Blitze boten ein Spektakel über dem Genferseebecken
 - [SRF Ausland] Trumps Rede an die Nation – Was bringen Trump seine Vorwürfe an China und am US-Wahlsystem?
 - [SRF Schweiz] Helfer am Basel Tattoo – Nie im Scheinwerferlicht, aber unentbehrlich für das Festival
 - [SRF Wirtschaft] Untersuchung der Empa – Weshalb Plug-in-Hybridautos ihre Öko-Versprechen nicht einhalten
-- [SRF Wirtschaft] Horrender Preisanstieg – Heizöl ist markant teurer geworden
-- [Journal de Morges] Im Inneren der Kläranlage von Morges: Abwasser erhält seinen Glanz zurück
-- [RTS Vaud] Erneute Evakuierung beim Montreux Jazz Festival wegen „instabilen“ Wetters
-- [SRF Ausland] Innenpolitische Debatte USA – Justizausschuss des US-Senats nimmt Blanche ins Kreuzverhör
-- [20 Min Romandie] Ex-Clubverantwortlicher aus der Waadt nach Forderung sexueller Handlungen auf freiem Fuss
-- [Journal de Morges] Wenn die Felder ihre Gesetze diktieren
-- [SRF Ausland] Treffen von 60 Ländern – USA wollen Terrorismus bekämpfen – aber nur den linken
-- [SRF Schweiz] Wegen Unsicherheiten beim F-35 – F/A-18-Kampfjets sollen als zweite Flotte weiterfliegen
-- [SRF Schweiz] Energieversorgung – Speicherseen sind so leer wie seit 20 Jahren nicht mehr
-- [20 Min Romandie] Sie will um 16 Uhr Anzeige erstatten: Die Türen der Polizeiposten sind geschlossen
-- [SRF Ausland] Landtagswahlen im September – Kommt die AfD in Sachsen-Anhalt bald an die Macht?
-- [SRF Wissen] Für bessere Klimamodelle – ETH füttert Supercomputer mit riesiger Menge Nasa-Daten
-- [SRF Schweiz] Appenzell sucht den Kompromiss – Volle Parkplätze im Alpstein – Preise sorgen für Diskussionen
-- [SRF Schweiz] Zahlen vom SEM – Asylgesuche gehen im ersten Halbjahr um 16 Prozent zurück
-- [20 Min Romandie] Öffentlicher Dienst kündigt Streik für August an
-- [SRF Ausland] Einsturz der Morandi-Brücke – Ex-Autostrade-CEO zu zwölf Jahren Haft verurteilt
-- [20 Min Romandie] Nach Gewittern: Mehrere Kantone heben Hitzepläne auf
-- [SRF Wirtschaft] Viele wollen zum Staat – Jobs bei Bund und Kantonen sind heiss begehrt
-- [Journal de Morges] Lokale Schützen treffen ins Schwarze
-- [SRF Schweiz] Mobilität der Zukunft – Wenn das Velo selbst «nach Hause» findet
-- [SRF Schweiz] Verpflegung hinter Gittern – EGMR: Veganismus zählt als quasi-religiöse Überzeugung
-- [Journal de Morges] Petition mit 2200 Unterschriften gegen Staus im Westen von Lausanne eingereicht
