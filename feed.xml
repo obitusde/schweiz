@@ -5,13 +5,181 @@
     <link>https://obitusde.github.io/schweiz/feed.xml</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Fri, 17 Jul 2026 10:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 04:30:35 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Journal de Morges] Der Friedhof von Bussigny erhält ein neues Reglement</title>
+      <title>[SRF Ausland] Brandursache unklar – Grossbrand in Norwegen – Dutzende Häuser in Flammen</title>
+      <link>https://www.srf.ch/news/international/brandursache-unklar-grossbrand-in-norwegen-dutzende-haeuser-in-flammen</link>
+      <guid isPermaLink="false">urn:srf:article:019f7160-11c3-cddc-e241-cdd01961eaea</guid>
+      <description><![CDATA[Das Feuer erfasste ein Wohngebiet mit Reihenhäusern. Berichte über Tote oder vermisste Personen gab es zunächst nicht.]]></description>
+      <pubDate>Sat, 18 Jul 2026 01:21:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] 10'000-Einwohner-Marke überschritten: Le Mont-sur-Lausanne ist nun eine Stadt auf Identitätssuche</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/le-mont-sur-lausanne-franchit-le-cap-des-10-000-habitants-et-devient-une-ville-29306435.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29306435</guid>
+      <description><![CDATA[Die Gemeinde Le Mont-sur-Lausanne zählt seit Ende Juni 10'000 Einwohner. Eine einzige zusätzliche Seele, eine erreichte symbolische Zahl und ein Status, der offiziell vom Dorf zur Stadt wechselt, was sowohl die Infrastruktur als auch die Identität verändert.]]></description>
+      <pubDate>Fri, 17 Jul 2026 21:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Baum stürzt auf Spaziergängerin: Förster verurteilt</title>
+      <link>https://www.20min.ch/fr/story/fribourg-un-arbre-chute-sur-une-promeneuse-garde-forestier-condamne-103604820</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/fribourg-un-arbre-chute-sur-une-promeneuse-garde-forestier-condamne-103604820</guid>
+      <description><![CDATA[Nach der Klage einer Frau, die querschnittsgelähmt ist, seit ein Baum auf sie stürzte, wurde ein Forstarbeiter der Fahrlässigkeit schuldig gesprochen.]]></description>
+      <pubDate>Fri, 17 Jul 2026 19:07:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Zielsetzungen runtergeschraubt – Reform des EU-Emissionshandels: Die wichtigsten Antworten</title>
+      <link>https://www.srf.ch/news/international/zielsetzungen-runtergeschraubt-reform-des-eu-emissionshandels-die-wichtigsten-antworten</link>
+      <guid isPermaLink="false">urn:srf:article:019f711b-a207-71e6-8460-a7f55ba1a772</guid>
+      <description><![CDATA[Die EU-Kommission will den CO₂-Handel lockern. Was das genau bedeutet und wie die Reaktionen ausfallen.]]></description>
+      <pubDate>Fri, 17 Jul 2026 19:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Kurzes Börsenhoch – Apple kurz wieder wertvollstes Unternehmen der Welt</title>
+      <link>https://www.srf.ch/news/wirtschaft/kurzes-boersenhoch-apple-kurz-wieder-wertvollstes-unternehmen-der-welt</link>
+      <guid isPermaLink="false">urn:srf:article:019f70d8-52f5-2f11-849b-6c2ca07cb0bf</guid>
+      <description><![CDATA[Nach über einem Jahr hat Apple sich den Platz eins an der Börse zurückgeholt – jedenfalls für kurze Zeit.]]></description>
+      <pubDate>Fri, 17 Jul 2026 18:27:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Empörungswelle in der CDU – Jens Spahn, ein Leihmutter-Baby namens Georg und der Kanzler</title>
+      <link>https://www.srf.ch/news/international/empoerungswelle-in-der-cdu-jens-spahn-ein-leihmutter-baby-namens-georg-und-der-kanzler</link>
+      <guid isPermaLink="false">urn:srf:article:019f70a6-57e0-61c5-53ba-302bc244e307</guid>
+      <description><![CDATA[CDU-Fraktionschef Spahn und sein Mann sind Eltern eines Leihmutter-Babys geworden. In der christlichen CDU brodelt es.]]></description>
+      <pubDate>Fri, 17 Jul 2026 18:14:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Angriffe auf US-Verbündete – Darum greift der Iran Golfstaaten an</title>
+      <link>https://www.srf.ch/news/international/nahost/angriffe-auf-us-verbuendete-darum-greift-der-iran-golfstaaten-an</link>
+      <guid isPermaLink="false">urn:srf:article:019f7106-69a3-02d1-fd12-d0941963e8d0</guid>
+      <description><![CDATA[Der Iran greift Verbündete der USA an. Nahostexperte Philipp Dienstbier erklärt die heikle Lage der Golfstaaten.]]></description>
+      <pubDate>Fri, 17 Jul 2026 17:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Liebe zwischen Bundesrichtern – Gremium legt Bericht vor – das Wichtigste</title>
+      <link>https://www.srf.ch/news/schweiz/liebe-zwischen-bundesrichtern-gremium-legt-bericht-vor-das-wichtigste</link>
+      <guid isPermaLink="false">urn:srf:article:019f70b6-fa0b-7239-0ecc-87e1c3b2a3f6</guid>
+      <description><![CDATA[Das Bundesgericht hat die Beziehung zweier Richter untersuchen lassen. Nun befassen sich Parlamentskommissionen damit.]]></description>
+      <pubDate>Fri, 17 Jul 2026 17:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Lausanner Hotelschule EHL – Die Eliteschule, wo alle kochen und putzen müssen</title>
+      <link>https://www.srf.ch/news/schweiz/lausanner-hotelschule-ehl-die-eliteschule-wo-alle-kochen-und-putzen-muessen</link>
+      <guid isPermaLink="false">urn:srf:article:019f4172-e2b0-377a-95c9-d1400f91328a</guid>
+      <description><![CDATA[An der EHL in Lausanne lernen Studierende nicht nur Management, sondern auch Charme und ausgezeichnete Umgangsformen.]]></description>
+      <pubDate>Fri, 17 Jul 2026 17:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Die heisseste erste Sommerhälfte, die die Schweiz je erlebt hat</title>
+      <link>https://www.20min.ch/fr/story/meteo-la-premiere-moitie-d-ete-la-plus-chaude-que-la-suisse-ait-connue-103604736</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/meteo-la-premiere-moitie-d-ete-la-plus-chaude-que-la-suisse-ait-connue-103604736</guid>
+      <description><![CDATA[Die Schweiz verzeichnet die heisseste erste Sommerhälfte seit Beginn der Messungen im Jahr 1864. Die Rekordhitze wird von einer besorgniserregenden Trockenheit begleitet.]]></description>
+      <pubDate>Fri, 17 Jul 2026 17:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] «Eine Erhöhung um 27'000 Fr. pro Jahr ist eine zusätzliche Miete!»</title>
+      <link>https://www.20min.ch/fr/story/tarifs-des-creches-ge-une-hausse-de-27-000-fr-par-an-c-est-un-loyer-supplementaire-103604735</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/tarifs-des-creches-ge-une-hausse-de-27-000-fr-par-an-c-est-un-loyer-supplementaire-103604735</guid>
+      <description><![CDATA[Die Gemeinde Lancy wird die Kita-Tarife ab 2027 erhöhen. Für einige Gutverdiener beträgt der Aufschlag mehr als 80 %. Die Bürgermeisterin übernimmt die Verantwortung und erklärt die Gründe.]]></description>
+      <pubDate>Fri, 17 Jul 2026 17:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Ab in den Süden – Fünf Kilometer Stau am Gotthard-Nordportal</title>
+      <link>https://www.srf.ch/news/schweiz/ab-in-den-sueden-fuenf-kilometer-stau-am-gotthard-nordportal</link>
+      <guid isPermaLink="false">urn:srf:article:019f6fec-d6d5-d150-b644-09f5842cb509</guid>
+      <description><![CDATA[Vor dem Gotthard-Nordportal staut sich der Verkehr auf fünf Kilometern. Die Wartezeit beträgt bis zu einer Stunde.]]></description>
+      <pubDate>Fri, 17 Jul 2026 17:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Erneuter Notruf der Ladenbesitzer der betroffenen Strasse in Carouge</title>
+      <link>https://www.20min.ch/fr/story/geneve-nouvel-sos-des-commercants-de-la-rue-sinistree-de-carouge-103604646</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-nouvel-sos-des-commercants-de-la-rue-sinistree-de-carouge-103604646</guid>
+      <description><![CDATA[Belastet durch die gewaltige Baustelle, die den Sektor seit 2025 beeinträchtigt, fordern die Händler der Rue de Carouge eine Ausweitung der Entschädigungskriterien.]]></description>
+      <pubDate>Fri, 17 Jul 2026 16:19:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Fussball als Geschäft – Über 40 Milliarden Euro: Umsatzrekord im europäischen Fussball</title>
+      <link>https://www.srf.ch/news/wirtschaft/fussball-als-geschaeft-ueber-40-milliarden-euro-umsatzrekord-im-europaeischen-fussball</link>
+      <guid isPermaLink="false">urn:srf:article:019f700d-4391-1d70-7182-61778c96be93</guid>
+      <description><![CDATA[Die europäischen Fussballclubs generieren viel höhere Einnahmen, stecken aber dennoch zum Teil in den roten Zahlen.]]></description>
+      <pubDate>Fri, 17 Jul 2026 15:46:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Zweitteuerstes Fussballtrikot – Pelé-Trikot von 1958 für rund vier Millionen Franken versteigert</title>
+      <link>https://www.srf.ch/news/international/zweitteuerstes-fussballtrikot-pele-trikot-von-1958-fuer-rund-vier-millionen-franken-versteigert</link>
+      <guid isPermaLink="false">urn:srf:article:019f706b-1547-8313-2f81-405eaa94a092</guid>
+      <description><![CDATA[Das Trikot des verstorbenen Fussballers Pelé erzielte bei einer Auktion einen Betrag von rund vier Millionen Franken.]]></description>
+      <pubDate>Fri, 17 Jul 2026 15:13:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Ab April 2027 – Grossbritannien verbietet Verkauf von Energydrinks an Kinder</title>
+      <link>https://www.srf.ch/news/international/ab-april-2027-grossbritannien-verbietet-verkauf-von-energydrinks-an-kinder</link>
+      <guid isPermaLink="false">urn:srf:article:019f703a-e139-c317-4ab8-d45677002c6f</guid>
+      <description><![CDATA[Anfang 2027 wird der Verkauf von Energydrinks in Grossbritannien verboten. Ziel sei der Schutz der Jugendlichen.]]></description>
+      <pubDate>Fri, 17 Jul 2026 14:43:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Wüstenstaub – Mehr Saharastaub in Südeuropa: Was bedeutet das für meine Ferien?</title>
+      <link>https://www.srf.ch/wissen/mensch/wuestenstaub-mehr-saharastaub-in-suedeuropa-was-bedeutet-das-fuer-meine-ferien</link>
+      <guid isPermaLink="false">urn:srf:article:019f69b5-e6ef-2a08-3f85-7ee032335d0c</guid>
+      <description><![CDATA[Eine neue Studie zeigt: Wüstenstaub aus der Sahara nimmt über Europa deutlich zu – mit Folgen für die Ferien im Süden?]]></description>
+      <pubDate>Fri, 17 Jul 2026 14:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Keine Wurst vom Holzkohlegrill – Was die Alarmstufen und das Feuerverbot genau heissen</title>
+      <link>https://www.srf.ch/news/schweiz/keine-wurst-vom-holzkohlegrill-was-die-alarmstufen-und-das-feuerverbot-genau-heissen</link>
+      <guid isPermaLink="false">urn:srf:article:019f6efc-2d47-b3d1-cd5a-874bc795e178</guid>
+      <description><![CDATA[Absolutes Feuerverbot im Freien, im Wald oder kein offenes Feuer in Gärten: Was wo erlaubt ist – und was nicht.]]></description>
+      <pubDate>Fri, 17 Jul 2026 14:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Gesellschaft] Vor WM-Finale – Halbzeit XXL: Wenn die Show das Spiel überschattet</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/vor-wm-finale-halbzeit-xxl-wenn-die-show-das-spiel-ueberschattet</link>
+      <guid isPermaLink="false">urn:srf:article:019f6f2d-1d1b-39e4-b1ca-56c9c0873265</guid>
+      <description><![CDATA[Es ist eine Frage der Tradition: des Gastgeberlandes USA, der Fifa-Logik und des Fussballs. Wer gewinnt, wer verliert?]]></description>
+      <pubDate>Fri, 17 Jul 2026 14:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Rede zur Lage der Nation – Wird bei den Midterms alles mit rechten Dingen zugehen?</title>
+      <link>https://www.srf.ch/news/international/usa/rede-zur-lage-der-nation-wird-bei-den-midterms-alles-mit-rechten-dingen-zugehen</link>
+      <guid isPermaLink="false">urn:srf:article:019f6eec-7951-f5d7-b060-149cef4f171a</guid>
+      <description><![CDATA[Der US-Präsident streut Zweifel an den Zwischenwahlen im November – für den Fall einer Niederlage «seiner» Republikaner.]]></description>
+      <pubDate>Fri, 17 Jul 2026 14:20:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Sportwetten im Internet – Der wahre Gewinner der Fussball-WM steht schon fest</title>
+      <link>https://www.srf.ch/news/wirtschaft/sportwetten-im-internet-der-wahre-gewinner-der-fussball-wm-steht-schon-fest</link>
+      <guid isPermaLink="false">urn:srf:article:019f5cc8-b88b-e616-c4a4-8746434acdb4</guid>
+      <description><![CDATA[Prognosemärkte verdienen im Internet viel Geld mit WM-Wetten. Dabei nutzen sie ein juristisches Schlupfloch aus.]]></description>
+      <pubDate>Fri, 17 Jul 2026 13:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Angst vor Massenkündigungen bei Mietern in Les Acacias</title>
+      <link>https://www.20min.ch/fr/story/geneve-la-peur-d-une-expulsion-massive-gagne-des-locataires-aux-acacias-103604639</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-la-peur-d-une-expulsion-massive-gagne-des-locataires-aux-acacias-103604639</guid>
+      <description><![CDATA[Die Bewohner von Les Épinettes befürchten, dass ihre Mietverträge abrupt gekündigt werden. Die Eigentümerin der Gebäude, die Allianz, versucht die Lage zu beruhigen.]]></description>
+      <pubDate>Fri, 17 Jul 2026 13:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] 25 Jahre Tagesgespräch – Pascal Couchepin: «Wir werden das Rentenalter erhöhen müssen»</title>
+      <link>https://www.srf.ch/news/schweiz/25-jahre-tagesgespraech-pascal-couchepin-wir-werden-das-rentenalter-erhoehen-muessen</link>
+      <guid isPermaLink="false">urn:srf:article:019f5b22-c8d3-9a24-d2bb-51d21250d282</guid>
+      <description><![CDATA[Als Bundesrat lancierte er die Rentenalter-Diskussion. Heute sagt Couchepin: Eine Rentenalterhöhung ist unabdingbar.]]></description>
+      <pubDate>Fri, 17 Jul 2026 12:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Flucht ab Myanmar – Hunderte Rohingya nach Flucht übers Meer vermisst</title>
+      <link>https://www.srf.ch/news/international/flucht-ab-myanmar-hunderte-rohingya-nach-flucht-uebers-meer-vermisst</link>
+      <guid isPermaLink="false">urn:srf:article:019f6f77-6bb2-ff66-48e4-c60e74853eb4</guid>
+      <description><![CDATA[Zwei Boote mit mehr als 500 Rohingya-Flüchtlingen sind seit Wochen verschollen. Vermutlich sind sie gekentert.]]></description>
+      <pubDate>Fri, 17 Jul 2026 11:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Friedhof von Bussigny erhält ein neues Reglement</title>
       <link>https://journaldemorges.ch/actualite/politique/le-cimetiere-de-bussigny-mieux-encadre/</link>
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/politique/le-cimetiere-de-bussigny-mieux-encadre/</guid>
-      <description><![CDATA[Das seit 1978 unveränderte kommunale Friedhofsreglement wurde überarbeitet, um der kantonalen Gesetzgebung zu entsprechen. Es tritt im Juli in Kraft.]]></description>
+      <description><![CDATA[Seit 1978 unverändert, wurde das kommunale Friedhofsreglement überarbeitet, um es an die kantonale Gesetzgebung anzupassen. Es tritt im Juli in Kraft.]]></description>
       <pubDate>Fri, 17 Jul 2026 10:59:19 GMT</pubDate>
     </item>
     <item>
@@ -22,10 +190,10 @@
       <pubDate>Fri, 17 Jul 2026 10:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Kür des neuen Labour-Chefs – Was Andy Burnham besser machen muss</title>
-      <link>https://www.srf.ch/news/international/kuer-des-neuen-labour-chefs-was-andy-burnham-besser-machen-muss</link>
+      <title>[SRF Ausland] Grossbritannien – Was der neue Labour-Chef Andy Burnham besser machen muss</title>
+      <link>https://www.srf.ch/news/international/grossbritannien-was-der-neue-labour-chef-andy-burnham-besser-machen-muss</link>
       <guid isPermaLink="false">urn:srf:article:019f6e53-862b-7847-d939-8fe6deabf111</guid>
-      <description><![CDATA[Andy Burnham wird zum Labour-Vorsitzenden ernannt – was muss sich unter dem charismatischen Ex-Bürgermeister ändern?]]></description>
+      <description><![CDATA[Andy Burnham ist neuer Labour-Vorsitzender. Was muss sich unter dem charismatischen Ex-Bürgermeister ändern?]]></description>
       <pubDate>Fri, 17 Jul 2026 10:34:30 GMT</pubDate>
     </item>
     <item>
@@ -85,13 +253,6 @@
       <pubDate>Fri, 17 Jul 2026 07:44:59 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wissen] Wüstenstaub – Mehr Saharastaub in Südeuropa: Was bedeutet das für meine Ferien?</title>
-      <link>https://www.srf.ch/wissen/mensch/wuestenstaub-mehr-saharastaub-in-suedeuropa-was-bedeutet-das-fuer-meine-ferien</link>
-      <guid isPermaLink="false">urn:srf:article:019f69b5-e6ef-2a08-3f85-7ee032335d0c</guid>
-      <description><![CDATA[Eine neue Studie zeigt: Wüstenstaub aus der Sahara nimmt über Europa deutlich zu – mit Folgen für die Ferien im Süden?]]></description>
-      <pubDate>Fri, 17 Jul 2026 06:48:06 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Schweiz] Ein Bahnhof im Dauerumbau – Der Umbaumarathon am Zürcher Hauptbahnhof geht weiter</title>
       <link>https://www.srf.ch/news/schweiz/ein-bahnhof-im-dauerumbau-der-umbaumarathon-am-zuercher-hauptbahnhof-geht-weiter</link>
       <guid isPermaLink="false">urn:srf:article:019f69c9-a809-f8c6-bd38-76a046160d0c</guid>
@@ -132,160 +293,6 @@
       <guid isPermaLink="false">urn:srf:article:019f6b31-2265-810c-bdb7-9df97c0ab74a</guid>
       <description><![CDATA[Laut einer Studie ist bei tiefen Temperaturen die Bilanz schlechter und der Treibstoffverbrauch höher als ausgewiesen.]]></description>
       <pubDate>Fri, 17 Jul 2026 04:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Horrender Preisanstieg – Heizöl ist markant teurer geworden</title>
-      <link>https://www.srf.ch/news/wirtschaft/horrender-preisanstieg-heizoel-ist-markant-teurer-geworden</link>
-      <guid isPermaLink="false">urn:srf:article:019f6b41-5e59-fc3f-f201-cfaebf22b9c5</guid>
-      <description><![CDATA[Wer im Sommer Heizöl kauft, zahlt normalerweise weniger als im Winter. Doch aktuell gilt das nicht mehr.]]></description>
-      <pubDate>Fri, 17 Jul 2026 03:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Im Inneren der Kläranlage von Morges: Abwasser erhält seinen Glanz zurück</title>
-      <link>https://journaldemorges.ch/actualite/societe/dans-lantre-de-la-step-de-morges-leau-usee-retrouve-sa-splendeur/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/dans-lantre-de-la-step-de-morges-leau-usee-retrouve-sa-splendeur/</guid>
-      <description><![CDATA[Von der Toilette bis zum Genfersee werden die Abwässer einer sorgfältigen Behandlung unterzogen. Bei trockenem Wetter erreichen täglich 8000 m³ Wasser die Kläranlage von Morges. Ein Besuch, Schritt für Schritt.]]></description>
-      <pubDate>Thu, 16 Jul 2026 21:32:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[RTS Vaud] Erneute Evakuierung beim Montreux Jazz Festival wegen „instabilen“ Wetters</title>
-      <link>https://www.rts.ch/info/regions/vaud/2026/article/le-montreux-jazz-evacue-ses-scenes-exterieures-a-cause-d-un-orage-29305393.html?rts_source=rss_t</link>
-      <guid isPermaLink="false">29305393</guid>
-      <description><![CDATA[Die „instabile“ Wetterlage veranlasste die Organisatoren des Montreux Jazz, ihre Aussenbereiche am späten Donnerstagabend zum zweiten Mal zu evakuieren, nachdem eine erste Evakuierung gegen 20:00 Uhr stattgefunden hatte. Das Publikum wird gebeten, Schutz zu suchen.]]></description>
-      <pubDate>Thu, 16 Jul 2026 21:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Innenpolitische Debatte USA – Justizausschuss des US-Senats nimmt Blanche ins Kreuzverhör</title>
-      <link>https://www.srf.ch/news/international/usa/innenpolitische-debatte-usa-justizausschuss-des-us-senats-nimmt-blanche-ins-kreuzverhoer</link>
-      <guid isPermaLink="false">urn:srf:article:019f6b42-2b44-4de6-ac52-98536b251bc4</guid>
-      <description><![CDATA[Der Justizausschuss des US-Senats stellt dem Nachfolger von Pam Bondi harte Fragen.]]></description>
-      <pubDate>Thu, 16 Jul 2026 18:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Ex-Clubverantwortlicher aus der Waadt nach Forderung sexueller Handlungen auf freiem Fuss</title>
-      <link>https://www.20min.ch/fr/story/foot-vaudois-remis-en-liberte-apres-avoir-demande-une-fellation-a-son-joueur-103604368</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/foot-vaudois-remis-en-liberte-apres-avoir-demande-une-fellation-a-son-joueur-103604368</guid>
-      <description><![CDATA[Ein ehemaliger Waadtländer Clubleiter wird beschuldigt, einem Jugendlichen sexuelle Bilder geschickt und ihm Geld angeboten zu haben. Die Justiz hat diesen Teil des Verfahrens eingestellt.]]></description>
-      <pubDate>Thu, 16 Jul 2026 18:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Wenn die Felder ihre Gesetze diktieren</title>
-      <link>https://journaldemorges.ch/actualite/terroir/la-fabrique-du-pain-de-demain/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/terroir/la-fabrique-du-pain-de-demain/</guid>
-      <description><![CDATA[Brot wird von fast 80 % der Weltbevölkerung konsumiert und ist ein Grundnahrungsmittel. Doch wie kommt es auf unseren Teller? Wir erzählen Ihnen alles in fünf Episoden. Für diesen zweiten Teil geht es zurück aufs Feld!]]></description>
-      <pubDate>Thu, 16 Jul 2026 18:12:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Treffen von 60 Ländern – USA wollen Terrorismus bekämpfen – aber nur den linken</title>
-      <link>https://www.srf.ch/news/international/usa/treffen-von-60-laendern-usa-wollen-terrorismus-bekaempfen-aber-nur-den-linken</link>
-      <guid isPermaLink="false">urn:srf:article:019f6b8b-b0ae-bbe4-769b-ffb2713faee8</guid>
-      <description><![CDATA[An einem internationalen Treffen wirbt US-Aussenminister Rubio für bessere Koordination und Informationsaustausch.]]></description>
-      <pubDate>Thu, 16 Jul 2026 17:43:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wegen Unsicherheiten beim F-35 – F/A-18-Kampfjets sollen als zweite Flotte weiterfliegen</title>
-      <link>https://www.srf.ch/news/schweiz/wegen-unsicherheiten-beim-f-35-f-a-18-kampfjets-sollen-als-zweite-flotte-weiterfliegen</link>
-      <guid isPermaLink="false">urn:srf:article:019f6b05-544c-eea9-90cc-d9a7e16f2cf1</guid>
-      <description><![CDATA[Sicherheitspolitiker fordern: Die heutigen F/A-18-Kampfjets sollen nicht wie geplant ab 2030 stillgelegt werden.]]></description>
-      <pubDate>Thu, 16 Jul 2026 17:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Energieversorgung – Speicherseen sind so leer wie seit 20 Jahren nicht mehr</title>
-      <link>https://www.srf.ch/news/schweiz/energieversorgung-speicherseen-sind-so-leer-wie-seit-20-jahren-nicht-mehr</link>
-      <guid isPermaLink="false">urn:srf:article:019f6a12-45c6-b3a3-b3e6-1931f7d100e9</guid>
-      <description><![CDATA[Die Stauseen in der Schweiz gelten als Batterie für den Winter. Sie waren seit Langem nicht mehr so wenig gefüllt.]]></description>
-      <pubDate>Thu, 16 Jul 2026 16:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Sie will um 16 Uhr Anzeige erstatten: Die Türen der Polizeiposten sind geschlossen</title>
-      <link>https://www.20min.ch/fr/story/geneve-elle-veut-porter-plainte-a-16h-les-portes-des-postes-sont-closes-103603624</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-elle-veut-porter-plainte-a-16h-les-portes-des-postes-sont-closes-103603624</guid>
-      <description><![CDATA[Eine Genferin beklagt, dass zwei Polizeistationen eine Stunde vor der angegebenen Zeit geschlossen waren. Diese vorübergehenden Schliessungen bleiben die Ausnahme, antwortet die Polizei.]]></description>
-      <pubDate>Thu, 16 Jul 2026 15:54:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Landtagswahlen im September – Kommt die AfD in Sachsen-Anhalt bald an die Macht?</title>
-      <link>https://www.srf.ch/news/international/landtagswahlen-im-september-kommt-die-afd-in-sachsen-anhalt-bald-an-die-macht</link>
-      <guid isPermaLink="false">urn:srf:article:019f6ad5-6792-94ac-a34c-5c15b777bb3d</guid>
-      <description><![CDATA[Aussagen an einer AfD-Veranstaltung lösen Entrüstung aus. Ein Experte ordnet ein.]]></description>
-      <pubDate>Thu, 16 Jul 2026 15:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Für bessere Klimamodelle – ETH füttert Supercomputer mit riesiger Menge Nasa-Daten</title>
-      <link>https://www.srf.ch/news/schweiz/fuer-bessere-klimamodelle-eth-fuettert-supercomputer-mit-riesiger-menge-nasa-daten</link>
-      <guid isPermaLink="false">urn:srf:article:019f6a19-a186-f5b9-28e7-7775e9727abc</guid>
-      <description><![CDATA[Mit dem einzigartigen Datenreservoir der Nasa will die ETH Zürich die nächste Generation von KI-Modellen trainieren.]]></description>
-      <pubDate>Thu, 16 Jul 2026 15:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Appenzell sucht den Kompromiss – Volle Parkplätze im Alpstein – Preise sorgen für Diskussionen</title>
-      <link>https://www.srf.ch/news/schweiz/appenzell-sucht-den-kompromiss-volle-parkplaetze-im-alpstein-preise-sorgen-fuer-diskussionen</link>
-      <guid isPermaLink="false">urn:srf:article:019f6a03-c4e2-b7d6-fb61-fc7fbb262799</guid>
-      <description><![CDATA[Die überfüllten Parkplätze in Appenzell Innerrhoden sind ein Politikum. Und seit letztem Herbst auch die Parkpreise.]]></description>
-      <pubDate>Thu, 16 Jul 2026 14:42:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Zahlen vom SEM – Asylgesuche gehen im ersten Halbjahr um 16 Prozent zurück</title>
-      <link>https://www.srf.ch/news/schweiz/zahlen-vom-sem-asylgesuche-gehen-im-ersten-halbjahr-um-16-prozent-zurueck</link>
-      <guid isPermaLink="false">urn:srf:article:019f6aef-80b3-590f-1141-99ec58910231</guid>
-      <description><![CDATA[Im Vergleich zum gleichen Zeitraum 2025 verzeichnete der Bund mit 9734 Asylgesuchen einen Rückgang von 16 Prozent.]]></description>
-      <pubDate>Thu, 16 Jul 2026 14:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Öffentlicher Dienst kündigt Streik für August an</title>
-      <link>https://www.20min.ch/fr/story/geneve-la-fonction-publique-annonce-une-greve-au-mois-d-aout-103604311</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-la-fonction-publique-annonce-une-greve-au-mois-d-aout-103604311</guid>
-      <description><![CDATA[Die Gewerkschaftsorganisationen rufen das Personal des öffentlichen Dienstes dazu auf, die Arbeit für neun Tage niederzulegen, um gegen die Sparmassnahmen des Staates zu protestieren.]]></description>
-      <pubDate>Thu, 16 Jul 2026 14:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Einsturz der Morandi-Brücke – Ex-Autostrade-CEO zu zwölf Jahren Haft verurteilt</title>
-      <link>https://www.srf.ch/news/international/einsturz-der-morandi-bruecke-ex-autostrade-ceo-zu-zwoelf-jahren-haft-verurteilt</link>
-      <guid isPermaLink="false">urn:srf:article:019f6acd-c96d-df0d-cd96-2c93bb427630</guid>
-      <description><![CDATA[Vor acht Jahren stürzte eine Autobahnbrücke in Italien ein, 43 Menschen starben. Nun wurde ein erstes Urteil gefällt.]]></description>
-      <pubDate>Thu, 16 Jul 2026 14:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Nach Gewittern: Mehrere Kantone heben Hitzepläne auf</title>
-      <link>https://www.20min.ch/fr/story/suisse-romande-avec-les-orages-plusieurs-cantons-levent-leurs-plans-canicule-103604275</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/suisse-romande-avec-les-orages-plusieurs-cantons-levent-leurs-plans-canicule-103604275</guid>
-      <description><![CDATA[Die Kantone Waadt und Wallis haben am Donnerstag die Hitzealarme beendet, rufen die Bevölkerung jedoch dazu auf, weiterhin wachsam zu bleiben.]]></description>
-      <pubDate>Thu, 16 Jul 2026 13:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Viele wollen zum Staat – Jobs bei Bund und Kantonen sind heiss begehrt</title>
-      <link>https://www.srf.ch/news/wirtschaft/viele-wollen-zum-staat-jobs-bei-bund-und-kantonen-sind-heiss-begehrt</link>
-      <guid isPermaLink="false">urn:srf:article:019eda0c-1679-13f9-57df-8662be6fb74a</guid>
-      <description><![CDATA[Bund und Kantone erhalten viel mehr Bewerbungen als noch vor drei Jahren. Das gefällt dem Gewerbe nicht.]]></description>
-      <pubDate>Thu, 16 Jul 2026 12:46:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Lokale Schützen treffen ins Schwarze</title>
-      <link>https://journaldemorges.ch/sports/le-tir-local-vise-dans-le-mille/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/sports/le-tir-local-vise-dans-le-mille/</guid>
-      <description><![CDATA[Das Waadtländer Team, bestehend aus Frédéric Mathys aus Ballens, Nicolas Rahmé, Gilbert Chabloz und Philippe Ducommun, gewann die Goldmedaille im 300-Meter-Liegendschiessen mit der Ordonnanzwaffe.]]></description>
-      <pubDate>Thu, 16 Jul 2026 12:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Mobilität der Zukunft – Wenn das Velo selbst «nach Hause» findet</title>
-      <link>https://www.srf.ch/radio-srf-1/mobilitaet-der-zukunft-wenn-das-velo-selbst-nach-hause-findet</link>
-      <guid isPermaLink="false">urn:srf:article:019f64ce-5835-9494-42c1-4d452a60300b</guid>
-      <description><![CDATA[An der ETH Zürich forscht eine Gruppe Studierender an selbstfahrenden Velos. Treten muss man aber weiterhin selbst.]]></description>
-      <pubDate>Thu, 16 Jul 2026 12:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Verpflegung hinter Gittern – EGMR: Veganismus zählt als quasi-religiöse Überzeugung</title>
-      <link>https://www.srf.ch/news/schweiz/verpflegung-hinter-gittern-egmr-veganismus-zaehlt-als-quasi-religioese-ueberzeugung</link>
-      <guid isPermaLink="false">urn:srf:article:019f6a41-abcd-a412-0a24-e4f3c87cf667</guid>
-      <description><![CDATA[Schweiz vom Europäischen Gerichtshof für Menschenrechte verurteilt: Anstalten müssen rein veganes Essen anbieten.]]></description>
-      <pubDate>Thu, 16 Jul 2026 11:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Petition mit 2200 Unterschriften gegen Staus im Westen von Lausanne eingereicht</title>
-      <link>https://journaldemorges.ch/actualite/politique/petition-de-2200-signatures-deposee-pour-agir-contre-les-bouchons-dans-louest-lausannois/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/politique/petition-de-2200-signatures-deposee-pour-agir-contre-les-bouchons-dans-louest-lausannois/</guid>
-      <description><![CDATA[Der Text, der sowohl in Bern als auch beim Grossen Rat eingereicht wurde, fordert Massnahmen gegen den bereits gesättigten Verkehr.]]></description>
-      <pubDate>Thu, 16 Jul 2026 10:59:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
