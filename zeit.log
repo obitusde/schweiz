@@ -1,6 +1,6 @@
 === ZEIT-FEED PROTOKOLL ===
-Start: 17.7.2026, 06:59:31
-Letzter Lauf: 16.7.2026, 06:59:31
+Start: 18.7.2026, 06:59:31
+Letzter Lauf: 17.7.2026, 06:59:31
 
 Abruf der RSS-Feeds:
 - https://newsfeed.zeit.de/digital/index
@@ -20,34 +20,32 @@ Statischer Filter (Keywords):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initia... (use muteHttpExceptions option to examine full response)
 
-KI-Filter (Gemini) - 28 neue Artikel geprueft:
-- Geloescht (Grund: Promi/Celebrity-Thematik): [Entdecken] 'Senta Berger: »Die wichtigen Dinge im Leben passieren bei Autofahrten«'
-- Geloescht (Grund: Duplikat zu ID 13; ID 13 ist präziser und fachlich informativer): [Mobilität] 'Gerichtshof der Europäischen Union: Mitten in Europa spaltet der Brenner'
-- Geloescht (Grund: Regionale deutsche Politik/Landtagswahl): [Gesellschaft] 'Sachsen-Anhalt: Wahlen in Sachsen-Anhalt: Haben Sie sich schon entschieden?'
-- Geloescht (Grund: Unfall/Kriminalität ohne überregionale Relevanz (lokale deutsche Behörde)): [Gesellschaft] 'Brandanschlag: Mann bedroht Jugendamt-Mitarbeiterin und legt Feuer'
-- Geloescht (Grund: Alltägliche Wettervorhersage ohne tiefergehende Relevanz): [Gesellschaft] 'Gewitter und Wetterumschwung: Wetterumschwung zum Wochenende mit Hagel und Starkregen'
-- Geloescht (Grund: Lokaler Unfall/Vorfall ohne längerfristige gesamtgesellschaftliche Relevanz): [Gesellschaft] 'Dieselfilm auf der Mosel: Mehr als 100 Liter Diesel aus einem Schiff verunreinigen die Mosel'
-- Geloescht (Grund: Rezepte/Freizeit/Garten-Thematik ist nicht relevant für Wirtschaft/Politik/Gesellschaft): [Arbeit] 'Gärtnern: »Viele Hochbeete heizen sich auf und trocknen schnell aus«'
+KI-Filter (Gemini) - 26 neue Artikel geprueft:
+- Geloescht (Grund: Regionale deutsche Politik & Nachrichten (lokaler Unfall/Justizfall ohne nationale Relevanz)): [Gesellschaft] 'Hoteleinsturz in Kröv: Anklage gegen Statiker nach Hoteleinsturz in Kröv erhoben'
+- Geloescht (Grund: Deutsche Kommunalpolitik & regionale Delikte): [Gesellschaft] 'Angriff im Jugendamt: Verdächtiger muss nach Angriff in Finsterwalde in Untersuchungshaft'
+- Geloescht (Grund: Promis & Adel): [Entdecken] 'Senta Berger: »Die wichtigen Dinge im Leben passieren bei Autofahrten«'
+- Geloescht (Grund: Duplikat: Thema entspricht Artikel 18 (EU-Emissionshandel), Artikel 18 bietet die direktere Sachinformation.): [Wirtschaft] 'EU-Emissionshandel: »Wir haben uns nicht aufs Gewissen verlassen, sondern auf Gesetze«'
 
 Finale Liste (live im XML-Feed):
-[_] EU-Emissionshandel: Was nützt der europäische Klimaschutz, wenn die Welt nicht mitmacht?
-[_] SpaceX: Starship-Testflug in letzter Sekunde abgebrochen
-[_] Zölle: USA kündigen Importzölle für Brasilien an
-[_] EU-Kommission gegen Google: EU-Kommission stärkt Konkurrenten gegenüber Google
-[_] GPT-5.6 von OpenAI: KI erledigt die Arbeit. Vielleicht auch gleich Ihre Dateien.
-[_] Wohlstand: KI könnte uns ruinieren. Oder alle reicher machen
-[_] Giovanni Castellucci: Lange Haftstrafen nach tödlichem Brückeneinsturz in Genua
-[_] Entwicklungsarbeit: Welthungerhilfe beklagt Gefährdung ihrer Arbeit durch Mittelkürzungen
-[_] Brenner-Route: Tirols Brenner-Beschränkungen für Lkw verstoßen wohl gegen EU-Recht
-[_] Waldbrand im Müritz-Nationalpark: Waldbrand in Müritz-Nationalpark laut Umweltminister unter Kontrolle
-[_] Verstaatlichung von British Steel: Großbritannien verstaatlicht Stahlkonzern British Steel
-[_] Silicon Valley: Wie das Silicon Valley wirklich tickt
-[_] Bundesgerichtshof: Kündigung von Fitnessstudio darf laut BGH nicht zu kompliziert sein
-[_] Chemieindustrie in Deutschland: Deutsche Chemieindustrie schrumpft weiter
-[_] Spritpreise: Spritpreise steigen wegen Irankrieg wieder schneller
-[_] Geldanlage im Krieg: Kriegsgewinnler wie ich
-[_] Wohnraum: Wohnungen in Deutschland werden immer größer
-[_] Gérald Marie: Sechs Frauen zeigen Ex-Europachef von Modelagentur Elite an
-[_] Statistisches Bundesamt: Anzahl der E-Scooter-Unfälle in Deutschland deutlich gestiegen
-[_] Übernahmeangebot von Uber: Uber übernimmt den deutschen Essenslieferkonzern Delivery Hero
-[_] Institut der deutschen Wirtschaft: Mehr als eine Million Babyboomer gehen vorzeitig in Rente
+[_] Arbeiten in Deutschland: »Ich bin froh, dass wir nicht in England sind«
+[_] Kleine Handtaschen: Ich habe meine Handtasche geschrumpft. Jetzt lebe ich schmerzfreier
+[_] Deutsche Bahn: Bahn-Mitarbeiter stürzt während Streit aus fahrendem Zug
+[_] Klimapolitik: Wadephul drängt auf Ausbau erneuerbarer Energien
+[_] Mittelamerika: Starkes Erdbeben erschüttert Mexiko und Guatemala
+[_] Apple: Apple für kurze Zeit wieder wertvollstes Unternehmen der Welt
+[_] Strukturkrise in Deutschland: Dieser Auto-Trip will einfach nicht aufhören
+[_] Künstliche Intelligenz: Die KI wird nicht von allein gut
+[_] Klimaanlagen für zu Hause: Was Sie beim Kauf einer Klimaanlage wissen müssen
+[_] US-Unternehmer: Peter Thiel soll Preis von Axel Springer erhalten
+[_] El Obeid: UN warnen vor eskalierender Hungersnot in belagerter Stadt im Sudan
+[_] Waldbrände in Spanien: Feuer zerstört im Nordosten Spaniens mehr als 12.000 Hektar Fläche
+[_] Leseraufruf: Wie viel verdienen Sie?
+[_] Offene Haftbefehle: Fast 150.000 Menschen trotz Haftbefehl auf freiem Fuß
+[_] Granfluencer: Die freundlichste Ecke des Internets
+[_] Spionageverdacht in Bayern: Verdächtiger nach Drohnenflug über Rüstungsunternehmen festgenommen
+[_] EU-Emissionshandel: EU-Kommission will Industrie länger und mehr CO₂ ausstoßen lassen
+[_] Fernverkehr: Bundesnetzagentur erlaubt Konkurrenz für Deutsche Bahn im Fernverkehr
+[_] Industrie: Auftragsbestand im verarbeitenden Gewerbe wächst
+[_] NSU-Unterstützerin: NSU-Unterstützerin Susann E. zu zwei Jahren Haft verurteilt
+[_] BGH-Urteil: Wohnungseigentümer dürfen Klimaanlage auf Balkon einbauen
+[_] Deutscher Gewerkschaftsbund: DGB-Chefin Yasmin Fahimi fordert Ausfallgeld für extreme Hitzetage
