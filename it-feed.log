@@ -1,6 +1,6 @@
 === IT-FEED-FEED PROTOKOLL ===
-Start: 18.7.2026, 06:10:27
-Letzter Lauf: 17.7.2026, 06:10:26
+Start: 18.7.2026, 12:28:18
+Letzter Lauf: 18.7.2026, 06:10:27
 
 Abruf der RSS-Feeds:
 - https://www.heise.de/rss/heise-atom.xml
@@ -10,10 +10,11 @@ Abruf der RSS-Feeds:
 - https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog
 
 Statischer Filter (Keywords / Feed-Fehler):
+- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: RAG-Systeme effizient evaluieren und optimieren'
+- Gelöscht wegen Keyword 'c’t uplink': 'KI lokal nutzen: LLMs und KI-Agenten ganz ohne OpenAI &  Anthropic | c’t uplink'
 - Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Netzwerkprobleme mit Wireshark analysieren und beheben'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: InfoDays: Software-Architektur mit zwei Tagen Praxiswissen für Entwicklungsteams'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management'
-- Gelöscht wegen Keyword 'heise-angebot': 'heise-Angebot: Letzte Chance: heise security Tour Online zu KI, Identität und Lieferketten'
+- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Beliebte Heißluftfritteuse von Ninja bei Amazon zum Bestpreis mitnehmen'
+- Gelöscht wegen Keyword '(g+)': '(g+) Anti-Cheating-Software: Spielen mit Systemrechten - eine unterschätzte Gefahr'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Inbus-Ratschen mit 10 Jahren Garantie kurz günstiger'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Tragbare Magsafe-SSD für Handys mit 1 TByte günstig wie seit Monaten nicht'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Zwei USB-C-Ladekabel von Ugreen mit 240 W für unter 5 Euro pro Stück'
@@ -24,33 +25,26 @@ Statischer Filter (Keywords / Feed-Fehler):
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Smarte Video-Türklingel von Tapo jetzt für nur 87 Euro im Amazon-Angebot'
 - Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Akku-Rasentrimmer mit Klingen-Set fällt auf unter 44 Euro'
 - Gelöscht wegen Keyword '(g+)': '(g+) KI im Faktencheck-Check: Wenn Gefälligkeit gefährlicher ist als Unwissen'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Gaming-Schalthebel von Logitech zum Sparpreis bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: MSI-Gaming-Monitor bei Amazon zum aktuellen Bestpreis'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: WLAN-Outdoor-Steckdosen aktuell für nur 16,99 Euro bei Amazon'
-- Gelöscht wegen Keyword 'anzeige:': 'Anzeige: Anker-Laptop-Powerbank mit vier Ports und 25.000 mAh kurzzeitig wieder unter 80 Euro bei Amazon'
 
-KI-Filter (Gemini) - 81 neue Artikel geprüft:
-- Gelöscht (Grund: Fällt unter die Kategorie Haushaltsrobotik (analog zu Saugrobotern).): 'Top 10: Die besten Poolroboter mit Akku im Test – Aiper vor Wybot und Mammotion'
-- Gelöscht (Grund: Gehört zu Code-Theorie und Web-Infrastruktur (Entwickler-Tools/Sprach-Support).): 'IntelliJ IDEA 2026.2 integriert Copilot und bietet Support für TypeScript 7.0'
-- Gelöscht (Grund: Inhalt betrifft Netzwerk-Infrastruktur (Glasfaser-Standards/Hardware).): 'NetCom BW: Weiterer deutscher Netzbetreiber testet symmetrische 50 GBit/s'
-- Gelöscht (Grund: Betrifft Enterprise-IT (Server-Administration/Sicherheitslücken in Unternehmenssoftware).): 'Kurz nach Microsoft-Patchday: Schadcode-Attacken auf Sharepoint-Server beobachtet'
-- Gelöscht (Grund: Harter Ausschluss: Thema iPhone.): 'Besseres Pairing: Das soll bei Meta-Produkten am iPhone in der EU künftig gehen'
-- Gelöscht (Grund: Inhalt betrifft Enterprise-IT & Netzwerk-Infrastruktur (Load Balancer/Sicherheitslücke).): 'VMware Avi Load Balancer: Kritische Lücke erlaubt Umgehung von Anmeldung'
-- Gelöscht (Grund: Betrifft Enterprise-IT & Netzwerk-Infrastruktur (Cloud-Server-Hardware).): 'AWS stoppt Verkauf der ursprünglichen Outposts-Server'
-- Gelöscht (Grund: Inhalt betrifft Deep OS-Internals (Secure Boot/Bootloader).): 'Sicherheitslücken in Shims: Secure Boot lässt sich seit über zehn Jahren aushebeln'
-- Gelöscht (Grund: Duplikat zu Artikel 30 (Sammelklage Prime Video).): 'Abonnenten müssen Werbung akzeptieren: Amazon gewinnt Sammelklage wegen Prime Video'
-- Gelöscht (Grund: Inhalt betrifft Enterprise-IT & Web-Infrastruktur (Logfile-/Datenanalyse).): 'SigScalr: Observability-Start-up nun Teil von Apple'
-- Gelöscht (Grund: Harter Ausschluss: Thema iPhone.): 'Old, but gold: Diese fünf iPhone-Helferlein nutze ich andauernd'
-- Gelöscht (Grund: Betrifft Enterprise-IT (Windows Server Management).): 'Windows Server 2022: Mainstream-Support endet in 90 Tagen'
-- Gelöscht (Grund: Duplikat zu Artikel 15 (Atmosphäre auf Exoplanet).): 'LHS 1140 b: Erstmals Atmosphäre bei erdähnlichem Exoplaneten nachgewiesen'
-- Gelöscht (Grund: Belangloses Apple-Rauschen (Aktien-Spekulationen).): 'Gemunkel um KI-Krise: Rallye bei Apple-Aktie als „Hedge“'
-- Gelöscht (Grund: Duplikat zu Artikel 26 (EU-Entscheidung zu Android/Google).): 'DMA: EU-Kommission zwingt Google zur Öffnung von Android und Suche'
-- Gelöscht (Grund: Inhalt betrifft Code-Theorie (Softwaretesting/Coverage).): 'Won’t fix! – Teil 5: Tests schaffen Vertrauen, beweisen aber nie Korrektheit'
-- Gelöscht (Grund: Inhalt betrifft Code-Theorie (Programmierschnittstellen/.NET).): 'Neu in .NET 10.0 [32]: Wahl des Hash-Algorithmus bei der Suche nach Zertifikaten'
-- Gelöscht (Grund: Duplikat zu Artikel 19 (Trump Teleprompter Wetten).): 'Wetten mit Insiderinfos: Techniker von Donald Trumps Teleprompter unter Verdacht'
-- Gelöscht (Grund: Duplikat zu Artikel 4 (World AI Conference/Xis KI-Politik).): 'Chinas Staatschef Xi fordert Kontrolle und Offenheit bei KI'
+KI-Filter (Gemini) - 11 neue Artikel geprüft:
+- Weiterhin entfernt (Cache, Grund: Fällt unter die Kategorie Haushaltsrobotik (analog zu Saugrobotern).): 'Top 10: Die besten Poolroboter mit Akku im Test'
+- Weiterhin entfernt (Cache, Grund: Gehört zu Code-Theorie und Web-Infrastruktur (Entwickler-Tools/Sprach-Support).): 'IntelliJ IDEA 2026.2 integriert Copilot und bietet Support für TypeScript 7.0'
+- Weiterhin entfernt (Cache, Grund: Inhalt betrifft Netzwerk-Infrastruktur (Glasfaser-Standards/Hardware).): 'NetCom BW: Weiterer deutscher Netzbetreiber testet symmetrische 50 GBit/s'
+- Weiterhin entfernt (Cache, Grund: Betrifft Enterprise-IT (Server-Administration/Sicherheitslücken in Unternehmenssoftware).): 'Kurz nach Microsoft-Patchday: Schadcode-Attacken auf Sharepoint-Server beobachtet'
+- Weiterhin entfernt (Cache, Grund: Harter Ausschluss: Thema iPhone.): 'Besseres Pairing: Das soll bei Meta-Produkten am iPhone in der EU künftig gehen'
+- Gelöscht (Grund: Behandelt Code-Theorie, Web-Infrastruktur und Entwickler-Themen (Git, Gradle, W3C).): 'Developer-Häppchen fürs Wochenende – kleinere News der Woche'
+- Gelöscht (Grund: Fällt unter Enterprise-IT und Code-Theorie (OpenTelemetry/Engineering-Ansätze).): 'Observability als Engineering-Problem: Weniger sammeln, mehr verstehen'
+- Gelöscht (Grund: Inhaltlicher Bezug zum explizit ausgeschlossenen Thema Star Trek.): 'Amazons Alexa+ im Test: Damit hätte Captain Kirk die USS Enterprise nicht steuern können'
+- Gelöscht (Grund: Behandelt Web-Infrastruktur und WordPress-Spezifika (Codeeinschleusung/API).): '„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API'
 
 Finale Liste (live im XML-Feed):
+- [Golem] Truth Social: Trump lässt Wall Street für Millisekunden zahlen
+- [Heise] Apple mal kurz wieder wertvollstes Unternehmen der Welt
+- [Golem] Verkehrssicherheitsrat: E-Scooter-Fahrer sollen zur Prüfung
+- [Heise] Verbraucherschützer gegen Social-Media-Verbot für Kinder
+- [Golem] Digitaler Druck: "Meine Notfallnummer stand im firmenweiten Mitarbeiterverzeichnis"
+- [Heise] Shutterstock-CEO nach geplatztem Getty-Deal weg – Fotonews der Woche 29/2026
+- [Heise] Nebel, Blitze, stille Momente: Die Bilder der Woche 29
 - [Digitec] Die wichtigsten Game-Trailer und -Ankündigungen der Woche
 - [Digitec] Michelles iPad-Kreativkurs: So bringst du Licht ins Dunkel
 - [Heise] Mehr Unfälle: Verkehrssicherheitsrat fordert Führerscheinpflicht für E-Scooter
@@ -88,28 +82,3 @@ Finale Liste (live im XML-Feed):
 - [Golem] Das vierte Mal vor Gericht verloren: Sky kommt mit neuer Trickserei beim Kündigungsbutton nicht durch
 - [Heise] CD-Verkäufe in den USA steigen, obwohl viele Käufer keinen CD-Player haben
 - [Golem] Fehlende Grundlage: Filmstudio A24 geht rechtlich gegen Backrooms-Community vor
-- [Golem] Gaming: Roblox lässt komplette Spiele per KI bauen
-- [Digitec] Das sind die neuen PS-Plus-Spiele im Juli 2026
-- [Heise] API-Zugang für Truth Social: Schnellerer Zugang zu Trumps Beiträgen gegen Geld
-- [Golem] Nate Cavanaugh: Doge-Bros in neuer alter Mission
-- [Heise] Schnelle Rotation um die eigene Achse macht Drohne nahezu optisch unsichtbar
-- [Golem] Ryan Cohen: Gamestop-Chef erklärt das Ende der Spiele-Disc für bedeutungslos
-- [Heise] Warken plant Verbot von Krankschreibungen per Online-Fragebogen
-- [Heise] Gemini Notebook: Google tauft sein KI-Recherchetool NotebookLM um
-- [Golem] Aus für Oneplus: Schluss mit "Never settle"
-- [Heise] Gericht: Hausgemeinschaft muss Klimagerät erlauben
-- [Heise] San Franciscos Bürgermeister fordert stärkere Regulierung von Waymo-Autos
-- [Golem] Preisabsprachen bei Toner und PCs: Milliarden-Kartellstrafe gegen HP und Partner verhängt
-- [Golem] Odysseus The Fall: KI-generierte Version der Odyssee kostete 2.000 US-Dollar
-- [Heise] KI in Unternehmen: Rendite steigt, Kontrolle hinkt hinterher
-- [Heise] Apple-Tool nachgemacht: So geht die neue macOS-Malware CrashStealer vor
-- [Heise] Android 17 QPR1: Google veröffentlicht Beta 7 mit Bugfixes
-- [Heise] Elektroboot: Frauscher x Porsche bricht eigenen Speed-Rekord in Monaco
-- [Heise] Google Chrome: Außerplanmäßiges zweites Update in der Woche
-- [Heise] 7-Zip: Update stopft Codeschmuggel-Lücke
-- [Heise] OpenAI: Erstes Hardware-Gerät ist ein Makro-Pad für 230 US-Dollar
-- [Heise] „Teure Schnittstellen blockieren Gesundheitsdigitalisierung“
-- [Heise] Netflix hat rund 300 seiner Titel mithilfe generativer KI produziert
-- [Heise] Riesenrakete Starship: Startversuch nach Triebwerksproblemen abgebrochen
-- [Heise] US-Robotikforscherin vom MIT erhält bayerischen High-Tech-Preis
-- [Heise] Freitag: KI-Meldungen bei Teenager-Gefahren, Beifall für Samsungs Bugfixing
