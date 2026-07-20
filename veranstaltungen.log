@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 13.7.2026, 06:33:19
+Start: 20.7.2026, 06:33:19
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -14,22 +14,22 @@ Kein Link (ignoriert):
 
 Statischer Filter (Keywords):
 - Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Gelöscht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
-- Gelöscht [Keyword 'dauerausstellung']: 'Wild und Mensch in der Kulturlandschaft'
-- Gelöscht [Keyword 'dauerausstellung']: 'Spuren der Jagd in der Schweiz'
+- Gelöscht [Keyword 'dauerausstellung']: 'Originale Objekte der griechischen, etruskischen und römischen Kleinkunst und eine reiche Sammlung von Gipsabgüssen nach antiken Skulpturen'
+- Gelöscht [Keyword 'dauerausstellung']: 'Theater in Gegenwart und Geschichte'
 
 Aus Cache übernommen (60):
-- Cache: 'Bern Fokus. Klees Rückseiten bis 23.08.2026'
+- Cache: 'Bern Das volle Leben bis 27.09.2026'
 - Cache: 'Utzenstorf Der Fuchs Meister der Anpassung bis 19.09.2026'
+- Cache: 'Cheseaux-Noréaz Exposition photographies - Contrastes'
 - Cache: 'Payerne Les Jardins contés bis 19.08.2026'
 - Cache: 'Corseaux End of Summer bis 21.08.2026'
+- Cache: 'Bougy-Villars Sentier découverte «La nature. Et vous?» bis 31.10.2026'
+- Cache: 'Morges Infiltration - performance de danse contemporaine'
+- Cache: 'Morges Caf' Conc''
+- Cache: 'Morges Conférence - Les opératrices radio de la Résistance'
 - Cache: 'Payerne Les Jardins imaginaires de l'Abbatiale bis 31.08.2026'
 - Cache: 'Grandson Speculum Stellae bis 02.08.2026'
 - Cache: 'Corseaux Remettre les pendules à l'heure bis 25.10.2026'
-- Cache: 'Morges Silent-Disco à la Piscine de Morges bis 18.07.2026'
-- Cache: 'Morges Initiation au swing'
-- Cache: 'Morges Concerts de l'Académie Musicale de Morges bis 18.07.2026'
-- Cache: 'Morges Caf' Conc''
 - Cache: 'Thun Thun-Panorama bis 29.11.2026'
 - Cache: 'Morges Morges Open Air 2026 bis 06.09.2026'
 - Cache: 'Morges Les Matins de la Santé bis 26.08.2026'
@@ -55,8 +55,7 @@ Aus Cache übernommen (60):
 - Cache: 'Rossinière Royaume des Chats à Rossinière bis 12.09.2026'
 - Cache: 'Assens Exposition Aquafresca ! bis 19.07.2046'
 - Cache: 'Montricher Écrits d'art brut bis 30.08.2026'
-- Cache: 'Morges Soirée publique d'astronomie 2026 bis 01.12.2026'
-- Cache: 'Morges Diffusion des matchs de la Coupe du Monde de Football bis 19.07.2026'
+- Cache: 'Lausanne Les minus au musée - Et nous alors? bis 02.09.2026'
 - Cache: 'Lausanne Ella Maillart bis 01.11.2026'
 - Cache: 'Vaduz Naturjuwel Haberfeld bis 30.08.2026'
 - Cache: 'Appenzell Caline Aoun Thresholds of Impermanence bis 25.10.2026'
@@ -81,41 +80,39 @@ Aus Cache übernommen (60):
 - Cache: 'Liestal Seidenband. Kapital, Kunst & Krise bis 06.04.2031'
 
 KI-Filter / Cache-Löschungen (6):
+- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Villa Abegg – Das Anwesen eines Sammlerpaares'
 - Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Alfredo Jaar. Inferno & Paradiso'
 - Gelöscht [Cache: Duplikat von id 12]: 'Lucette, une domestique aux talents cachés'
 - Gelöscht [Cache: Duplikat von id 12]: 'Lucette, une domestique aux talents cachés'
-- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Visite guidée du mois'
 - Gelöscht [Cache: Duplikat von ID 22]: 'Caline Aoun Thresholds of Impermanence'
 - Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'La collection'
 
-Finale Liste (78 Einträge):
-- [Temps Libre - Ce Weekend] Cheseaux-Noréaz Exposition photographies - Contrastes
-- [Museen Bern] Thun FABRICE HYBER bis 02.08.2026
-- [Museen Bern] Bern Jota Mombaça: compost (continuum) bis 23.08.2026
-- [Museen Bern] Bern Fokus. Klees Rückseiten bis 23.08.2026
+Finale Liste (73 Einträge):
+- [Temps Libre - Ce Weekend] La Tour-de-Peilz Open Studios Summer bis 25.07.2026
+- [Museen Bern] Bern Das volle Leben bis 27.09.2026
 - [Museen Bern] Utzenstorf Der Fuchs Meister der Anpassung bis 19.09.2026
+- [Museen Bern] Bern Der Sonntagsausflug Im Rückspiegel von Amateurfilmen bis 08.11.2026
+- [Temps Libre - Ce Weekend] Prangins Visite guidée - Tour du propriétaire bis 02.08.2026
+- [Temps Libre - Ce Weekend] Payerne Visites-aventures avec Frère Claude bis 26.08.2026
+- [Platform 10 Events 2] Lausanne LIG x Plateforme 10 – Tournoi d’été
+- [Platform 10 Events 2] Lausanne Workshop – Street photography bis 25.07.2026
+- [Platform 10 Events 2] Lausanne Visite commentée – Otobong Nkanga bis 26.07.2026
+- [Platform 10 Events 2] Lausanne Visite en famille – Isao Takahata bis 26.07.2026
+- [Morges Agenda] Morges Été culturel : Sous Couverture bis 30.07.2026
+- [Morges Agenda] Morges Été culturel : Si c’est un homme bis 31.07.2026
+- [Morges Agenda] Morges Caf' Conc' bis 31.07.2026
+- [Morges Agenda] Morges Fête du Dahlia 2026 bis 30.10.2026
+- [Morges Agenda] Morges Concert Les Sans Gains bis 25.07.2026
+- [Temps Libre - Ce Weekend] Cheseaux-Noréaz Exposition photographies - Contrastes
 - [Temps Libre - Ce Weekend] Payerne Les Jardins contés bis 19.08.2026
 - [Temps Libre - Ce Weekend] Corseaux End of Summer bis 21.08.2026
 - [Temps Libre - Ce Weekend] Bougy-Villars Sentier découverte «La nature. Et vous?» bis 31.10.2026
-- [Platform 10 Events 2] Lausanne HEIDI & ANNE…LA MAISON AUX PIGNONS VERTS
-- [Platform 10 Events 2] Lausanne A SIMPLE ACCIDENT
-- [Platform 10 Events 2] Lausanne ARCO
-- [Platform 10 Events 2] Lausanne LE LAC
-- [Platform 10 Events 2] Lausanne SENTIMENTAL VALUE
-- [Platform 10 Events 2] Lausanne TOGETHER
-- [Platform 10 Events 2] Lausanne Visite commentée – Otobong Nkanga
-- [Platform 10 Events 2] Lausanne Visite commentée – Et nous alors ?
 - [Morges Agenda] Morges Infiltration - performance de danse contemporaine
 - [Morges Agenda] Morges Caf' Conc'
-- [Morges Agenda] Morges Souper-spectacle meurtre et mystère
 - [Morges Agenda] Morges Conférence - Les opératrices radio de la Résistance
 - [Temps Libre - Ce Weekend] Payerne Les Jardins imaginaires de l'Abbatiale bis 31.08.2026
 - [Temps Libre - Ce Weekend] Grandson Speculum Stellae bis 02.08.2026
 - [Temps Libre - Ce Weekend] Corseaux Remettre les pendules à l'heure bis 25.10.2026
-- [Morges Agenda] Morges Silent-Disco à la Piscine de Morges bis 18.07.2026
-- [Morges Agenda] Morges Initiation au swing
-- [Morges Agenda] Morges Concerts de l'Académie Musicale de Morges bis 18.07.2026
-- [Morges Agenda] Morges Caf' Conc'
 - [museum.ch Ausstellungen] Thun Thun-Panorama bis 29.11.2026
 - [Morges Agenda] Morges Morges Open Air 2026 bis 06.09.2026
 - [Morges Agenda] Morges Les Matins de la Santé bis 26.08.2026
@@ -141,10 +138,7 @@ Finale Liste (78 Einträge):
 - [Temps Libre - Ce Weekend] Rossinière Royaume des Chats à Rossinière bis 12.09.2026
 - [Temps Libre - Ce Weekend] Assens Exposition Aquafresca ! bis 19.07.2046
 - [Temps Libre - Ce Weekend] Montricher Écrits d'art brut bis 30.08.2026
-- [Temps Libre - Ce Weekend] Yverdon-les-Bains Marchés d'été ArtYsans Yverdon 2026 bis 03.10.2026
 - [Temps Libre - Ce Weekend] Lausanne Les minus au musée - Et nous alors? bis 02.09.2026
-- [Temps Libre - Ce Weekend] Morges Soirée publique d'astronomie 2026 bis 01.12.2026
-- [Morges Agenda] Morges Diffusion des matchs de la Coupe du Monde de Football bis 19.07.2026
 - [Platform 10 Events] Lausanne Ella Maillart bis 01.11.2026
 - [museum.ch Ausstellungen] Vaduz Naturjuwel Haberfeld bis 30.08.2026
 - [museum.ch Ausstellungen] Appenzell Caline Aoun Thresholds of Impermanence bis 25.10.2026
