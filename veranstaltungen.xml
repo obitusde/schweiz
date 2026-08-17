@@ -5,112 +5,343 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Mon, 10 Aug 2026 04:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:33:19 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>Cully Gisèle Grana &amp; Nicole Eller bis 15.08.2026</title>
-      <link>https://www.tempslibre.ch/vaud/expositions/451839-gis-le-grana-nicole-eller</link>
-      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/451839-gis-le-grana-nicole-eller</guid>
-      <description><![CDATA[Die Künstlerinnen Gisèle Grana und Nicole Eller laden das Publikum ein, ihre zwei unterschiedlichen, emotionalen Kunstwelten in der Galerie Le CINQ in Cully zu entdecken.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:34:14 GMT</pubDate>
+      <title>Prangins Lucette, une domestique aux talents cachés bis 23.08.2026</title>
+      <link>https://www.tempslibre.ch/vaud/manifestations/449486-lucette-une-domestique-aux-talents-cach-s</link>
+      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/manifestations/449486-lucette-une-domestique-aux-talents-cach-s</guid>
+      <description><![CDATA[Theatralisierte Kurzführung durch das Museum, bei der die Figur Lucette Einblicke in das Leben einer Dienstmagd gibt. Musée National Suisse, Prangins.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Burgdorf Cantonale Berne Jura bis 28.02.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/cantonale-berne-jura</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/cantonale-berne-jura</guid>
+      <description><![CDATA[Regionale Kunstausstellung mit Werken von zeitgenössischen Kunstschaffenden aus den Kantonen Bern und Jura. Museum Franz Gertsch, Burgdorf.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Tai Shani: M.I.A.S.M.A bis 23.08.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/tai-shani-miasma</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/tai-shani-miasma</guid>
+      <description><![CDATA[Die Künstlerin Tai Shani präsentiert ihre multimedialen Installationen und Arbeiten in der Kunsthalle Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Jota Mombaça: compost (continuum) bis 23.08.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/jota-mombaca-compost-continuum</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/jota-mombaca-compost-continuum</guid>
+      <description><![CDATA[Die Ausstellung thematisiert ökologische Kreisläufe und politische Widerständigkeit durch installative Kunst. Kunsthalle Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Saodat Ismailova bis 22.11.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/saodat-ismailova</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/saodat-ismailova</guid>
+      <description><![CDATA[Videoinstallationen und filmische Werke, die sich mit Mythen und kulturellen Identitäten Zentralasiens auseinandersetzen. Kunsthalle Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riggisberg Zuhause in der Spätantike bis 08.11.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/zuhause-in-der-spaetantike-textile-innenausstattung-des-4-7-jahrhunderts</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/zuhause-in-der-spaetantike-textile-innenausstattung-des-4-7-jahrhunderts</guid>
+      <description><![CDATA[Textile Innenausstattung und kostbare Stoffe aus dem 4. bis 7. Jahrhundert geben Einblick in die Wohnkultur der Spätantike. Abegg-Stiftung, Riggisberg.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Anno 1811 - Die Anfänge der Blasmusik in der Schweiz bis 31.03.2028</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/anno-1811-die-anfaenge-der-blasmusik-in-der-schweiz</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/anno-1811-die-anfaenge-der-blasmusik-in-der-schweiz</guid>
+      <description><![CDATA[Die Ausstellung zeigt die Entwicklung der schweizerischen Blasmusik ab dem frühen 19. Jahrhundert. Klingendes Museum, Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Souvenir Selfies, Kitsch und Gipfelsteine bis 09.01.2028</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/souvenir</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/souvenir</guid>
+      <description><![CDATA[Eine interaktive Schau über Berg-Tourismus, die Faszination der Alpen und die Rolle von Souvenirs. ALPS Alpines Museum der Schweiz, Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thun Schnittstellen der Sicht bis 29.11.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
+      <description><![CDATA[Werke von Hans Gerber und Sabine Hertig im Dialog über Wahrnehmung und bildnerische Schnittstellen. Kunstmuseum Thun.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Swiss Press Photo 26 bis 09.10.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/swiss-press-photo-26</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/swiss-press-photo-26</guid>
+      <description><![CDATA[Die besten Bilder des Schweizer Fotojournalismus aus dem Jahr 2026 werden präsentiert. Schweizerische Nationalbibliothek, Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Unterwegs Wandern in der Schweiz bis 26.11.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/unterwegs-1</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/unterwegs-1</guid>
+      <description><![CDATA[Eine Ausstellung über die Geschichte und kulturelle Bedeutung des Wanderns in der Schweizer Landschaft. Bibliothek am Guisanplatz, Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Burgdorf Cécile Wick. In naher Ferne bis 29.11.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/cecile-wick-in-naher-ferne</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/cecile-wick-in-naher-ferne</guid>
+      <description><![CDATA[Umfassende Werkschau der Künstlerin Cécile Wick mit Fokus auf ihre Arbeiten in Druckgrafik und Fotografie. Museum Franz Gertsch, Burgdorf.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Das volle Leben bis 27.09.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/das-volle-leben-alte-meister-von-duccio-bis-liotard</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/das-volle-leben-alte-meister-von-duccio-bis-liotard</guid>
+      <description><![CDATA[Meisterwerke europäischer Malerei von Duccio bis Jean-Étienne Liotard aus der Sammlung des Kunstmuseums Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Vanessa Billy: Superconductors bis 23.08.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/vanessa-billy-superconductors</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/vanessa-billy-superconductors</guid>
+      <description><![CDATA[Skulpturale Arbeiten und Installationen der Künstlerin Vanessa Billy zum Thema Energie und Materie. Kunsthalle Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Stress bis 06.02.2028</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/stress-eine-ausstellung-die-mut-macht</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/stress-eine-ausstellung-die-mut-macht</guid>
+      <description><![CDATA[Interaktive Ausstellung, die das Phänomen Stress aus verschiedenen Perspektiven beleuchtet und Wege zum Umgang aufzeigt. Berner Generationenhaus.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Cantonale Berne Jura 2026 bis 31.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/cantonale-berne-jura-2026</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/cantonale-berne-jura-2026</guid>
+      <description><![CDATA[Präsentation aktueller Werke lokaler Künstler im Rahmen der kantonalen Weihnachtsausstellung. Kunsthalle Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thun Cantonale Berne Jura 2026/2027 bis 21.02.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/cantonale-berne-jura-2026-2027</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/cantonale-berne-jura-2026-2027</guid>
+      <description><![CDATA[Regionale Werkschau, die einen Überblick über das aktuelle Kunstschaffen in Bern und Jura bietet. Kunstmuseum Thun.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thun Susanne Keller bis 29.11.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
+      <description><![CDATA[Malerei und grafische Arbeiten der Künstlerin Susanne Keller in der Ausstellung Hinterkammer des Auges. Kunstmuseum Thun.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>Bern Franz Gertsch. Blow-Up (Part I) bis 17.01.2027</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
       <description><![CDATA[Ausstellung des Werks von Franz Gertsch mit Schwerpunkt auf der Technik der Ausschnittvergrösserung. Kunstmuseum Bern.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:33:21 GMT</pubDate>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
-      <title>Bern Jota Mombaça: compost (continuum) bis 23.08.2026</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/jota-mombaca-compost-continuum</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/jota-mombaca-compost-continuum</guid>
-      <description><![CDATA[Ausstellung von Jota Mombaça in der Kunsthalle Bern.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:33:21 GMT</pubDate>
+      <title>Burgdorf Die Wunderkammern bis 31.12.2029</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/die-wunderkammern</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/die-wunderkammern</guid>
+      <description><![CDATA[Interaktive Ausstellung zum Staunen und Entdecken kurioser Exponate aus Geschichte und Natur. Schloss Burgdorf.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
-      <title>Burgdorf Franz Gertsch. Eisenbett und Trompete, Familie und Paare bis 30.08.2026</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-eisenbett-und-trompete-familie-und-paare</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-eisenbett-und-trompete-familie-und-paare</guid>
-      <description><![CDATA[Die Ausstellung beleuchtet zentrale Motive im Werk von Franz Gertsch, darunter das berühmte Eisenbett, die Trompete sowie Darstellungen von Paaren und Familien. Museum Franz Gertsch, Burgdorf.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:33:21 GMT</pubDate>
+      <title>Burgdorf Macherinnen bis 31.12.2028</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/macherinnen</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/macherinnen</guid>
+      <description><![CDATA[Die Ausstellung widmet sich bedeutenden Frauengestalten aus der Geschichte von Burgdorf und dem Emmental. Schloss Burgdorf.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Zeitheldinnen auf der Spur bis 31.12.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/zeitheldinnen-auf-der-spur</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/zeitheldinnen-auf-der-spur</guid>
+      <description><![CDATA[Ein Rätselspiel für Kinder und Erwachsene führt durch den Botanischen Garten auf die Spuren historischer Vorbilder. Botanischer Garten Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>Burgdorf Leanne Picthall. Meaning So Well bis 30.08.2026</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/leanne-picthall-meaning-so-well</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/leanne-picthall-meaning-so-well</guid>
       <description><![CDATA[Zeitgenössische Kunstausstellung der Künstlerin Leanne Picthall. Museum Franz Gertsch, Burgdorf.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:33:21 GMT</pubDate>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Die Post vor 60 Jahren bis 21.12.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/die-post-vor-60-jahren</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/die-post-vor-60-jahren</guid>
+      <description><![CDATA[Ein Rückblick auf die Arbeitswelt der PTT und den Postalltag in den 1960er Jahren. Schulmuseum Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Wer entscheidet? bis 12.11.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/wer-entscheidet-klimagerechtigkeit-im-talk</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/wer-entscheidet-klimagerechtigkeit-im-talk</guid>
+      <description><![CDATA[Diskussionsveranstaltung und Talk-Reihe über Klimagerechtigkeit und gesellschaftliche Verantwortung. Naturhistorisches Museum Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern CHIPS bis 18.07.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/chips</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/chips</guid>
+      <description><![CDATA[Ausstellung über die Welt der Mikrochips und deren Einfluss auf Technik und Kommunikation. Museum für Kommunikation, Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bern Geschichte im Festgewand bis 15.11.2026</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/geschichte-im-festgewand-historische-umzuege-im-19-jahrhundert</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/geschichte-im-festgewand-historische-umzuege-im-19-jahrhundert</guid>
+      <description><![CDATA[Darstellung prunkvoller historischer Umzüge und Festumzüge des 19. Jahrhunderts. Museumsquartier Bern.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>Bern Silizium: Von den Alpen ins Silicon Valley bis 09.12.2026</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/silizium-von-den-alpen-ins-silicon-valley</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/silizium-von-den-alpen-ins-silicon-valley</guid>
       <description><![CDATA[Thematische Ausstellung über die Bedeutung von Silizium, von Bergkristallen bis zur modernen Chip-Technologie. Naturhistorisches Museum Bern.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:33:21 GMT</pubDate>
+      <pubDate>Mon, 17 Aug 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
-      <title>Bern NMBE Leseratten mit Friederike von Houwald bis 26.11.2026</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/nmbe-leseratten-mit-der-direktorin-des-tierparks-bern-friederike-von-houwald</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/nmbe-leseratten-mit-der-direktorin-des-tierparks-bern-friederike-von-houwald</guid>
-      <description><![CDATA[Die Direktorin des Tierparks Bern, Friederike von Houwald, liest im Rahmen der Reihe Leseratten vor. Naturhistorisches Museum Bern.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fiez Les Livres Muets bis 19.08.2026</title>
-      <link>https://www.tempslibre.ch/vaud/expositions/452351-les-livres-muets</link>
-      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/452351-les-livres-muets</guid>
-      <description><![CDATA[Rituelle Installation im Rahmen der Tage der offenen Tür des Künstlers Paul Estier. Atelier Paul Estier, Fiez.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:19:14 GMT</pubDate>
+      <title>Gland Kiyo bis 23.08.2026</title>
+      <link>https://www.tempslibre.ch/vaud/festivals/428314-kiyo-festival-d-anim-s-gland</link>
+      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/festivals/428314-kiyo-festival-d-anim-s-gland</guid>
+      <description><![CDATA[Festival für japanische Popkultur, Animation und Anime-Filme in der Westschweiz. Kiyo Festival, Gland.]]></description>
+      <pubDate>Mon, 17 Aug 2026 04:18:41 GMT</pubDate>
     </item>
     <item>
       <title>Lausanne Expo - GRENZEN bis 29.08.2026</title>
       <link>https://www.tempslibre.ch/vaud/expositions/451653-expo-grenzen</link>
       <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/451653-expo-grenzen</guid>
       <description><![CDATA[Fotografie-Ausstellung mit einer Porträtserie, die zur Interpretation und zum Mitfühlen einlädt. Galerie Strates, Lausanne.]]></description>
-      <pubDate>Mon, 10 Aug 2026 04:04:14 GMT</pubDate>
+      <pubDate>Mon, 17 Aug 2026 04:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Leysin LeysinArtistes bis 29.08.2026</title>
+      <link>https://www.tempslibre.ch/vaud/expositions/452241-exposition-temporaire-leysinartistes</link>
+      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/452241-exposition-temporaire-leysinartistes</guid>
+      <description><![CDATA[Temporäre Kunstausstellung, die das Schaffen lokaler Künstlerinnen und Künstler in Leysin würdigt. Salle du Grand Nord, Leysin.]]></description>
+      <pubDate>Mon, 17 Aug 2026 03:48:41 GMT</pubDate>
     </item>
     <item>
       <title>Le Sentier Jardins &amp; Ateliers d'artistes à la Vallée de Joux bis 30.08.2026</title>
       <link>https://www.tempslibre.ch/vaud/expositions/451961-jardins-ateliers-d-artistes-la-vall-e-de-joux</link>
       <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/451961-jardins-ateliers-d-artistes-la-vall-e-de-joux</guid>
       <description><![CDATA[Kunstspaziergang rund um den Lac de Joux mit Besichtigung von Gärten und Ateliers. Galerie de l'Essor, Le Sentier.]]></description>
-      <pubDate>Mon, 10 Aug 2026 03:49:14 GMT</pubDate>
+      <pubDate>Mon, 17 Aug 2026 03:33:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ollon Kairos bis 06.09.2026</title>
+      <link>https://www.tempslibre.ch/vaud/expositions/452233-kairos</link>
+      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/452233-kairos</guid>
+      <description><![CDATA[Ein künstlerischer Dialog zwischen Malerei, Grafik und Literatur in historischem Ambiente. Château de la Roche, Ollon.]]></description>
+      <pubDate>Mon, 17 Aug 2026 03:18:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aigle Alphonse Layaz. Rencontres bis 13.09.2026</title>
+      <link>https://www.tempslibre.ch/vaud/expositions/449536-exposition-alphonse-layaz-rencontres</link>
+      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/449536-exposition-alphonse-layaz-rencontres</guid>
+      <description><![CDATA[Sonderausstellung mit über 70 Werken des autodidaktischen Malers und Poeten Alphonse Layaz. Espace Graffenried, Aigle.]]></description>
+      <pubDate>Mon, 17 Aug 2026 03:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sainte-Croix Exposition : "Le Jupon de l'Absinthe" bis 27.09.2026</title>
+      <link>https://www.tempslibre.ch/vaud/expositions/445456-exposition-le-jupon-de-l-absinthe</link>
+      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/445456-exposition-le-jupon-de-l-absinthe</guid>
+      <description><![CDATA[Sensorische und poetische Ausstellung, in der zeitgenössische Kunst und die Erinnerung an die Grüne Fee aufeinandertreffen, um von der Belle Époque zu erzählen. Musée de la mécanique d'art et du patrimoine de Sainte-Croix (MuMAPS), Ste-Croix.]]></description>
+      <pubDate>Mon, 17 Aug 2026 02:48:41 GMT</pubDate>
     </item>
     <item>
       <title>Lausanne LIG x Plateforme 10 – Tournoi d’été</title>
-      <link>https://plateforme10.ch/events/lig-x-plateforme-10-tournoi-dete/?interval=week&amp;date=2026-08-10</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/lig-x-plateforme-10-tournoi-dete/?interval=week&amp;date=2026-08-10</guid>
-      <description><![CDATA[Freiluft-Improvisationstheater der Ligue d'Improvisation de la Galère (LIG). Esplanade, Plateforme 10, Lausanne.]]></description>
-      <pubDate>Mon, 10 Aug 2026 01:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lausanne Atelier pour enfants – Salut, ça bulle ?</title>
-      <link>https://plateforme10.ch/events/atelier-pour-enfants-salut-ca-bulle/?interval=week&amp;date=2026-08-11</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-pour-enfants-salut-ca-bulle/?interval=week&amp;date=2026-08-11</guid>
-      <description><![CDATA[Workshop für Kinder von 9 bis 15 Jahren zur Herstellung von chemiefreier Seife. MCBA, Plateforme 10, Lausanne.]]></description>
-      <pubDate>Mon, 10 Aug 2026 01:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lausanne Visite des tout petits – Me, Myself and I</title>
-      <link>https://plateforme10.ch/events/visite-des-tout-petits-me-myself-and-i/?interval=week&amp;date=2026-08-12</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/visite-des-tout-petits-me-myself-and-i/?interval=week&amp;date=2026-08-12</guid>
-      <description><![CDATA[Sensorischer Rundgang für Kinder von 3 bis 5 Jahren durch die Museumssammlung. MCBA, Plateforme 10, Lausanne.]]></description>
-      <pubDate>Mon, 10 Aug 2026 01:29:06 GMT</pubDate>
+      <link>https://plateforme10.ch/events/lig-x-plateforme-10-tournoi-dete/?interval=week&amp;date=2026-08-17</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/lig-x-plateforme-10-tournoi-dete/?interval=week&amp;date=2026-08-17</guid>
+      <description><![CDATA[Improvisationstheater-Matches im Freien auf der Esplanade von Plateforme 10. Die LIG kehrt für ihre 10. Saison jeden Montagabend zurück. Plateforme 10, Lausanne.]]></description>
+      <pubDate>Mon, 17 Aug 2026 02:22:07 GMT</pubDate>
     </item>
     <item>
       <title>Lausanne Visite commentée – Otobong Nkanga</title>
-      <link>https://plateforme10.ch/events/visite-commentee-otobong-nkanga/?interval=week&amp;date=2026-08-16</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-otobong-nkanga/?interval=week&amp;date=2026-08-16</guid>
-      <description><![CDATA[Geführte Tour durch die Ausstellung von Otobong Nkanga mit Hintergrundinformationen. MCBA, Plateforme 10, Lausanne.]]></description>
-      <pubDate>Mon, 10 Aug 2026 00:44:06 GMT</pubDate>
+      <link>https://plateforme10.ch/events/visite-commentee-otobong-nkanga/?interval=week&amp;date=2026-08-20</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-otobong-nkanga/?interval=week&amp;date=2026-08-20</guid>
+      <description><![CDATA[Geführter Rundgang durch die Ausstellung von Otobong Nkanga mit Erklärungen, Interpretationen und Meinungsaustausch. Musée cantonal des Beaux-Arts (MCBA), Lausanne.]]></description>
+      <pubDate>Mon, 17 Aug 2026 02:07:07 GMT</pubDate>
     </item>
     <item>
-      <title>Lausanne Visite commentée – Et nous alors ?</title>
-      <link>https://plateforme10.ch/events/visite-commentee-et-nous-alors/?interval=week&amp;date=2026-08-16</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-et-nous-alors/?interval=week&amp;date=2026-08-16</guid>
-      <description><![CDATA[Führung durch die temporäre Ausstellung über Glastiere aus der Sammlung Pierre Rosenberg. mudac, Plateforme 10, Lausanne.]]></description>
-      <pubDate>Mon, 10 Aug 2026 00:29:06 GMT</pubDate>
+      <title>Lausanne Workshop – Street photography</title>
+      <link>https://plateforme10.ch/events/workshop-street-photography/?interval=week&amp;date=2026-08-22</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/workshop-street-photography/?interval=week&amp;date=2026-08-22</guid>
+      <description><![CDATA[Fotografie-Workshop mit Khashayar Javanmardi. Den Moment in der Stadt einfangen und der Welt präsentieren. Photo Elysée, Lausanne.]]></description>
+      <pubDate>Mon, 17 Aug 2026 01:52:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lausanne Visite commentée – Isao Takahata</title>
+      <link>https://plateforme10.ch/events/visite-commentee-isao-takahata/?interval=week&amp;date=2026-08-23</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-isao-takahata/?interval=week&amp;date=2026-08-23</guid>
+      <description><![CDATA[Geführte Entdeckungstour durch das Universum von Isao Takahata im mudac in Lausanne.]]></description>
+      <pubDate>Mon, 17 Aug 2026 01:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lausanne Visite avec la commissaire – Otobong Nkanga</title>
+      <link>https://plateforme10.ch/events/visite-avec-la-commissaire-otobong-nkanga/?interval=week&amp;date=2026-08-23</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-avec-la-commissaire-otobong-nkanga/?interval=week&amp;date=2026-08-23</guid>
+      <description><![CDATA[Rundgang durch die Ausstellung Otobong Nkanga in Begleitung der Kuratorin Nicole Schweizer. Musée cantonal des Beaux-Arts (MCBA), Lausanne.]]></description>
+      <pubDate>Mon, 17 Aug 2026 01:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morges The Black Monarchs &amp; The Missing Girls</title>
+      <link>https://www.morges.ch/agenda/the-black-monarchs-the-missing-girls--concert-au-easy-rider-bar-en-terrasse-213628</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/the-black-monarchs-the-missing-girls--concert-au-easy-rider-bar-en-terrasse-213628</guid>
+      <description><![CDATA[Konzert von The Black Monarchs & The Missing Girls auf der Terrasse der Easy Rider Bar in Morges.]]></description>
+      <pubDate>Sat, 15 Aug 2026 23:37:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morges Été culturel du Château de Morges : Souper-spectacle meurtre et mystère</title>
+      <link>https://www.morges.ch/agenda/ete-culturel-du-chateau-de-morges--souper-spectacle-meurtre-et-mystere-213227</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/ete-culturel-du-chateau-de-morges--souper-spectacle-meurtre-et-mystere-213227</guid>
+      <description><![CDATA[Krimi-Dinner-Show im Rahmen des Kultursommers im Schloss Morges. Château de Morges.]]></description>
+      <pubDate>Sat, 15 Aug 2026 23:22:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morges Été culturel du Château de Morges : Faites MOUCHE ! bis 23.08.2026</title>
+      <link>https://www.morges.ch/agenda/ete-culturel-du-chateau-de-morges--faites-mouche-initiation-au-tir-sportif-213226</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/ete-culturel-du-chateau-de-morges--faites-mouche-initiation-au-tir-sportif-213226</guid>
+      <description><![CDATA[Einführung in den Schiesssport im Rahmen des Kultursommers im Schloss Morges. Château de Morges.]]></description>
+      <pubDate>Sat, 15 Aug 2026 23:07:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morges Colibris Festival 2026</title>
+      <link>https://www.morges.ch/agenda/colibris-festival-2026-213183</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/colibris-festival-2026-213183</guid>
+      <description><![CDATA[Kulturfestival in der Stadt Morges.]]></description>
+      <pubDate>Sat, 15 Aug 2026 22:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morges Hommage à Armel Guerne</title>
+      <link>https://www.morges.ch/agenda/hommage-a-armel-guerne-213513</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/hommage-a-armel-guerne-213513</guid>
+      <description><![CDATA[Kulturelle Hommage an den Schriftsteller und Übersetzer Armel Guerne in Morges.]]></description>
+      <pubDate>Sat, 15 Aug 2026 22:37:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morges Caf' Conc'</title>
+      <link>https://www.morges.ch/agenda/caf-conc--212868</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/caf-conc--212868</guid>
+      <description><![CDATA[Unterhaltungsveranstaltung in Morges.]]></description>
+      <pubDate>Fri, 14 Aug 2026 23:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morges Mini'MOA - Cinéma Open air pour les tout-petits bis 06.09.2026</title>
+      <link>https://www.morges.ch/agenda/mini-moa--cinema-open-air-pour-les-tout-petits-213639</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/mini-moa--cinema-open-air-pour-les-tout-petits-213639</guid>
+      <description><![CDATA[Open-Air-Kino speziell konzipiert für Kleinkinder in Morges.]]></description>
+      <pubDate>Thu, 13 Aug 2026 11:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morges Weekend anniversaire Fête du Dahlia 2026 bis 23.08.2026</title>
+      <link>https://www.morges.ch/agenda/weekend-anniversaire-fete-du-dahlia-2026--30eme-anniversaire-213261</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/weekend-anniversaire-fete-du-dahlia-2026--30eme-anniversaire-213261</guid>
+      <description><![CDATA[Wochenende zum 30. Jubiläum des Dahlienfestes in Morges.]]></description>
+      <pubDate>Tue, 11 Aug 2026 23:28:26 GMT</pubDate>
     </item>
     <item>
       <title>Tolochenaz Tour du Pays de Vaud</title>
@@ -125,48 +356,6 @@
       <guid isPermaLink="false">https://www.morges.ch/agenda/chasse-au-tresor--le-voyage-temporel-212048</guid>
       <description><![CDATA[Interaktive Schatzsuche zum Thema Zeitreise für die ganze Familie. Morges.]]></description>
       <pubDate>Sat, 08 Aug 2026 20:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Morges Spectacle musical Si c’est un homme</title>
-      <link>https://www.morges.ch/agenda/ete-culturel-du-chateau-de-morges--spectacle-musical-si-cest-un-homme-de-primo-levi-213225</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/ete-culturel-du-chateau-de-morges--spectacle-musical-si-cest-un-homme-de-primo-levi-213225</guid>
-      <description><![CDATA[Musikalisches Spektakel basierend auf dem Text von Primo Levi. Château de Morges.]]></description>
-      <pubDate>Fri, 07 Aug 2026 23:13:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Morges Cirqu'estival : Spectacle À quelques instants près</title>
-      <link>https://www.morges.ch/agenda/cirqu-estival--spectacle-a-quelques-instants-pres--compagnie-du-cirque-a-brac-213094</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/cirqu-estival--spectacle-a-quelques-instants-pres--compagnie-du-cirque-a-brac-213094</guid>
-      <description><![CDATA[Zirkusvorstellung der Kompanie Cirque à Brac im Rahmen des Cirqu'estivals. Morges.]]></description>
-      <pubDate>Fri, 07 Aug 2026 22:58:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Morges Festival des Sports - Edition Piscine</title>
-      <link>https://www.morges.ch/agenda/festival-des-sports--edition-piscine-212901</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/festival-des-sports--edition-piscine-212901</guid>
-      <description><![CDATA[Sportfestival mit verschiedenen Aktivitäten im Freibad. Piscine, Morges.]]></description>
-      <pubDate>Fri, 07 Aug 2026 22:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vevey Les murmures bis 16.08.2026</title>
-      <link>https://www.tempslibre.ch/vaud/expositions/448773-les-murmures-une-machine-voir-avec-et-rebours-de-l-ia</link>
-      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/448773-les-murmures-une-machine-voir-avec-et-rebours-de-l-ia</guid>
-      <description><![CDATA[Der Lausanner Fotograf Mathieu Bernard-Reymond untersucht die neuartigen Verbindungen zwischen Fotografie und künstlicher Intelligenz. Musée suisse de l'appareil photographique, Vevey.]]></description>
-      <pubDate>Mon, 03 Aug 2026 03:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vevey L'odyssée de Kokoschka bis 16.08.2026</title>
-      <link>https://www.tempslibre.ch/vaud/expositions/448323-l-odyss-e-de-kokoschka</link>
-      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/448323-l-odyss-e-de-kokoschka</guid>
-      <description><![CDATA[Die Ausstellung beleuchtet Oskar Kokoschkas kraftvolle Vision anhand seiner Lithografien, die von Homers Odyssee inspiriert sind. Musée Jenisch Vevey.]]></description>
-      <pubDate>Mon, 03 Aug 2026 03:33:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vevey Frédéric Cordier bis 16.08.2026</title>
-      <link>https://www.tempslibre.ch/vaud/expositions/448321-fr-d-ric-cordier-m-canique-du-paysage</link>
-      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/448321-fr-d-ric-cordier-m-canique-du-paysage</guid>
-      <description><![CDATA[Erste monografische Ausstellung von Frédéric Cordier, die den Betrachter in faszinierende, gravierte Landschaften eintauchen lässt. Musée Jenisch Vevey.]]></description>
-      <pubDate>Mon, 03 Aug 2026 03:18:24 GMT</pubDate>
     </item>
     <item>
       <title>Lausanne Otobong Nkanga bis 23.08.2026</title>
@@ -197,27 +386,6 @@
       <pubDate>Mon, 03 Aug 2026 02:18:24 GMT</pubDate>
     </item>
     <item>
-      <title>Morges Silent-Disco bis 15.08.2026</title>
-      <link>https://www.morges.ch/agenda/silent-disco-a-la-piscine-de-morges-212900</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/silent-disco-a-la-piscine-de-morges-212900</guid>
-      <description><![CDATA[Kopfhörer-Party am Schwimmbecken der Piscine de Morges. Musikgenuss und Tanz in sommerlicher Atmosphäre. Piscine de Morges.]]></description>
-      <pubDate>Sat, 01 Aug 2026 22:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Morges Caf' Conc' bis 14.08.2026</title>
-      <link>https://www.morges.ch/agenda/caf-conc--212867</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/caf-conc--212867</guid>
-      <description><![CDATA[Musikalisches Unterhaltungsprogramm im Freien als Teil der sommerlichen Freizeitangebote in Morges.]]></description>
-      <pubDate>Sat, 01 Aug 2026 22:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Morges Street Unihockey Turnier bis 11.08.2026</title>
-      <link>https://www.morges.ch/agenda/tournoi-de-street-unihockey-feminin-213516</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/tournoi-de-street-unihockey-feminin-213516</guid>
-      <description><![CDATA[Street-Unihockey-Turnier speziell für Frauen in den Strassen von Morges.]]></description>
-      <pubDate>Fri, 31 Jul 2026 22:22:57 GMT</pubDate>
-    </item>
-    <item>
       <title>Payerne Visites-aventures avec Frère Claude bis 26.08.2026</title>
       <link>https://www.tempslibre.ch/vaud/juniors/451624-visites-aventures-avec-fr-re-claude</link>
       <guid isPermaLink="false">https://www.tempslibre.ch/vaud/juniors/451624-visites-aventures-avec-fr-re-claude</guid>
@@ -225,10 +393,10 @@
       <pubDate>Mon, 27 Jul 2026 04:03:32 GMT</pubDate>
     </item>
     <item>
-      <title>Cheseaux-Noréaz Exposition photographies - Contrastes</title>
+      <title>Cheseaux-Noréaz Exposition photographies - Contrastes bis 06.09.2026</title>
       <link>https://www.tempslibre.ch/vaud/expositions/450997-exposition-photographies-contrastes-faune-sauvage-entre-ville-et-nature</link>
       <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/450997-exposition-photographies-contrastes-faune-sauvage-entre-ville-et-nature</guid>
-      <description><![CDATA[François Portmann enthüllt die Tierwelt, die diskret unsere Städte und Landschaften bewohnt. Centre Pro Natura de Champ Pittet, Cheseaux-Noréaz.]]></description>
+      <description><![CDATA[François Portmann zeigt Fotografien der Wildfauna, die diskret unsere Städte und Landschaften bewohnt. Centre Pro Natura de Champ Pittet, Cheseaux-Noréaz.]]></description>
       <pubDate>Mon, 27 Jul 2026 03:48:32 GMT</pubDate>
     </item>
     <item>
@@ -244,20 +412,6 @@
       <guid isPermaLink="false">https://www.morges.ch/agenda/fete-du-dahlia-2026--30eme-anniversaire-213260</guid>
       <description><![CDATA[Dahlienfest zum 30. Jubiläum. Grosse Blumenschau entlang der Seepromenade in Morges.]]></description>
       <pubDate>Fri, 17 Jul 2026 23:06:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Payerne Les Jardins contés bis 19.08.2026</title>
-      <link>https://www.tempslibre.ch/vaud/juniors/451622-les-jardins-cont-s</link>
-      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/juniors/451622-les-jardins-cont-s</guid>
-      <description><![CDATA[Sinnliches Erlebnis für Familien mit Erzählungen und Geschichten in den Abteigärten. Abbatiale, Payerne.]]></description>
-      <pubDate>Mon, 13 Jul 2026 04:18:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Corseaux End of Summer - exposition en plein air bis 21.08.2026</title>
-      <link>https://www.tempslibre.ch/vaud/expositions/451421-end-of-summer-exposition-en-plein-air</link>
-      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/451421-end-of-summer-exposition-en-plein-air</guid>
-      <description><![CDATA[Freiluft-Ausstellung in einem Garten an der Riviera, die bildende Kunst und Handwerk vereint. Sentier de Priolaz 5, Corseaux.]]></description>
-      <pubDate>Mon, 13 Jul 2026 04:03:27 GMT</pubDate>
     </item>
     <item>
       <title>Payerne Les Jardins imaginaires de l'Abbatiale bis 31.08.2026</title>
@@ -295,18 +449,18 @@
       <pubDate>Wed, 01 Jul 2026 01:17:02 GMT</pubDate>
     </item>
     <item>
+      <title>Ecublens Exposition de Konstantin Mitenev bis 15.09.2026</title>
+      <link>https://www.tempslibre.ch/vaud/expositions/451266-exposition-de-konstantin-mitenev-le-vert-le-matin-l-orange-l-apr-s-midi</link>
+      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/451266-exposition-de-konstantin-mitenev-le-vert-le-matin-l-orange-l-apr-s-midi</guid>
+      <description><![CDATA[Die Ausstellung präsentiert die freie und unklassifizierbare Malerei von Konstantin Mitenev, einer Figur des sowjetischen Undergrounds. Café Vaudois, Ecublens.]]></description>
+      <pubDate>Mon, 29 Jun 2026 03:48:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Corsier-sur-Vevey Nocturnes à Chaplin's World bis 29.08.2026</title>
       <link>https://www.tempslibre.ch/vaud/expositions/451271-nocturnes-chaplin-s-world</link>
       <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/451271-nocturnes-chaplin-s-world</guid>
       <description><![CDATA[Abendliche Öffnungszeiten im Manoir de Ban, um das Universum von Charlie Chaplin in einem besonderen Licht zu erleben. Chaplin's World, Corsier-sur-Vevey.]]></description>
       <pubDate>Mon, 29 Jun 2026 03:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prangins Lucette, une domestique aux talents cachés bis 23.08.2026</title>
-      <link>https://www.tempslibre.ch/vaud/manifestations/449486-lucette-une-domestique-aux-talents-cach-s</link>
-      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/manifestations/449486-lucette-une-domestique-aux-talents-cach-s</guid>
-      <description><![CDATA[Theatralisierte Kurzführung durch das Museum, bei der die Figur Lucette Einblicke in das Leben einer Dienstmagd gibt. Musée National Suisse, Prangins.]]></description>
-      <pubDate>Mon, 29 Jun 2026 03:03:31 GMT</pubDate>
     </item>
     <item>
       <title>Nyon UNDER A HOME WITH NO ROOF bis 06.09.2026</title>
@@ -330,13 +484,6 @@
       <pubDate>Mon, 29 Jun 2026 00:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>Morges Cirqu'estival bis 15.08.2026</title>
-      <link>https://www.morges.ch/agenda/cirqu-estival-213087</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/cirqu-estival-213087</guid>
-      <description><![CDATA[Kulturfestival mit Fokus auf Zirkuskünsten und vielfältigen artistischen Darbietungen in Morges.]]></description>
-      <pubDate>Fri, 26 Jun 2026 23:24:26 GMT</pubDate>
-    </item>
-    <item>
       <title>Lausanne Alfredo Jaar bis 01.11.2026</title>
       <link>https://elysee.ch/expositions/alfredo-jaar-inferno-paradiso/</link>
       <guid isPermaLink="false">https://elysee.ch/expositions/alfredo-jaar-inferno-paradiso/</guid>
@@ -349,6 +496,13 @@
       <guid isPermaLink="false">https://elysee.ch/expositions/hannah-darabi-why-dont-you-dance/</guid>
       <description><![CDATA[Die Preisträgerin des Prix Elysée 2025 untersucht den iranischen Volkstanz als Form des sozialen und politischen Widerstands. Photo Elysée, Plateforme 10, Lausanne.]]></description>
       <pubDate>Fri, 26 Jun 2026 00:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Caux Expositions au Caux Palace bis 13.09.2026</title>
+      <link>https://www.tempslibre.ch/vaud/expositions/450851-expositions-au-caux-palace</link>
+      <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/450851-expositions-au-caux-palace</guid>
+      <description><![CDATA[Zwei Ausstellungen im Caux Palace: Politische Plakate zur Geschichte Europas seit 1945 sowie die Reihe «Dessiner pour la paix». Caux Palace, Caux.]]></description>
+      <pubDate>Mon, 22 Jun 2026 04:18:36 GMT</pubDate>
     </item>
     <item>
       <title>Aigle Josette Taramarcaz. Le Chant des pistes bis 13.09.2026</title>
@@ -389,7 +543,7 @@
       <title>Lausanne Les minus au musée - Et nous alors? bis 02.09.2026</title>
       <link>https://www.tempslibre.ch/vaud/expositions/450405-les-minus-au-mus-e-et-nous-alors</link>
       <guid isPermaLink="false">https://www.tempslibre.ch/vaud/expositions/450405-les-minus-au-mus-e-et-nous-alors</guid>
-      <description><![CDATA[Sensorische Erkundungstour für Kleinkinder durch die Ausstellung im mudac, Lausanne.]]></description>
+      <description><![CDATA[Sensorische Entdeckungstour für Kleinkinder im mudac, bei der das Museum aus Kinderperspektive erkundet wird. mudac, Lausanne.]]></description>
       <pubDate>Tue, 16 Jun 2026 10:20:20 GMT</pubDate>
     </item>
     <item>
@@ -447,13 +601,6 @@
       <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/mit-fliegendem-teppich-durch-die-geschichte-3056.html</guid>
       <description><![CDATA[Eine interaktive historische Reise für Kinder und Familien im Landesmuseum Zürich.]]></description>
       <pubDate>Mon, 18 May 2026 06:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lausanne Peintures françaises 1800-1945 bis 16.08.2026</title>
-      <link>https://www.mcba.ch/expositions/peintures-francaises-1800-1945/</link>
-      <guid isPermaLink="false">https://www.mcba.ch/expositions/peintures-francaises-1800-1945/</guid>
-      <description><![CDATA[Meisterwerke der französischen Malerei von Corot bis Matisse aus der Sammlung des Musée cantonal des Beaux-Arts, Lausanne.]]></description>
-      <pubDate>Mon, 18 May 2026 06:39:42 GMT</pubDate>
     </item>
     <item>
       <title>Luzern 1 Raum, 1 Werk bis 15.11.2026</title>
