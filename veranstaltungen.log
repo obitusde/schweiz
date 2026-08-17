@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 10.8.2026, 06:33:21
+Start: 17.8.2026, 06:33:19
 
 Feeds:
 - https://politepaul.com/fd/Eyp580eFzrQR.xml
@@ -14,41 +14,48 @@ Kein Link (ignoriert):
 
 Statischer Filter (Keywords):
 - Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
+- Gelöscht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
+- Gelöscht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
+- Gelöscht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
+- Gelöscht [Keyword 'dauerausstellung']: 'Moneyverse Ausstellung'
+- Gelöscht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
+- Gelöscht [Keyword 'dauerausstellung']: 'Einstein Museum'
+- Gelöscht [Keyword 'dauerausstellung']: 'SchulSchaulager Operation am offenen Herzen'
 
-Aus Cache übernommen (49):
-- Cache: 'Cully Gisèle Grana & Nicole Eller bis 15.08.2026'
-- Cache: 'Bern Jota Mombaça: compost (continuum) bis 23.08.2026'
-- Cache: 'Burgdorf Franz Gertsch. Eisenbett und Trompete, Familie und Paare bis 30.08.2026'
+Aus Cache übernommen (48):
+- Cache: 'Prangins Lucette, une domestique aux talents cachés bis 23.08.2026'
+- Cache: 'Bern Franz Gertsch. Blow-Up (Part I) bis 17.01.2027'
 - Cache: 'Burgdorf Leanne Picthall. Meaning So Well bis 30.08.2026'
-- Cache: 'Bern NMBE Leseratten mit Friederike von Houwald bis 26.11.2026'
-- Cache: 'Vevey Les murmures bis 16.08.2026'
-- Cache: 'Vevey L'odyssée de Kokoschka bis 16.08.2026'
-- Cache: 'Vevey Frédéric Cordier bis 16.08.2026'
+- Cache: 'Bern Silizium: Von den Alpen ins Silicon Valley bis 09.12.2026'
+- Cache: 'Lausanne Expo - GRENZEN bis 29.08.2026'
+- Cache: 'Le Sentier Jardins & Ateliers d'artistes à la Vallée de Joux bis 30.08.2026'
+- Cache: 'Tolochenaz Tour du Pays de Vaud'
+- Cache: 'Morges Chasse au trésor - Le voyage temporel bis 15.11.2026'
 - Cache: 'Lausanne Otobong Nkanga bis 23.08.2026'
 - Cache: 'Villeneuve DinoWorld bis 23.08.2026'
 - Cache: 'L'Isle Échos sauvages bis 23.08.2026'
 - Cache: 'Lausanne Invisibles bis 30.08.2026'
-- Cache: 'Morges Silent-Disco bis 15.08.2026'
-- Cache: 'Morges Caf' Conc' bis 14.08.2026'
-- Cache: 'Morges Street Unihockey Turnier bis 11.08.2026'
 - Cache: 'Payerne Visites-aventures avec Frère Claude bis 26.08.2026'
-- Cache: 'Cheseaux-Noréaz Exposition photographies - Contrastes'
 - Cache: 'Thun Susanne Keller. Hinterkammer des Auges bis 29.11.2026'
 - Cache: 'Morges Fête du Dahlia 2026 bis 30.10.2026'
+- Cache: 'Payerne Les Jardins imaginaires de l'Abbatiale bis 31.08.2026'
+- Cache: 'Thun Thun-Panorama: Das Rundbild von Marquard Wocher bis 29.11.2026'
+- Cache: 'Morges Morges Open Air 2026 bis 06.09.2026'
+- Cache: 'Morges Les Matins de la Santé bis 26.08.2026'
+- Cache: 'Morges Espace 81 - 100 ans des Scouts de Morges bis 26.08.2026'
+- Cache: 'Ecublens Exposition de Konstantin Mitenev bis 15.09.2026'
 - Cache: 'Corsier-sur-Vevey Nocturnes à Chaplin's World bis 29.08.2026'
-- Cache: 'Prangins Lucette, une domestique aux talents cachés bis 23.08.2026'
 - Cache: 'Nyon UNDER A HOME WITH NO ROOF bis 06.09.2026'
 - Cache: 'Zürich Symphởnie der Gewürze bis 13.09.2026'
 - Cache: 'Sierre The Stars' Share bis 29.11.2026'
-- Cache: 'Morges Cirqu'estival bis 15.08.2026'
 - Cache: 'Lausanne Alfredo Jaar bis 01.11.2026'
 - Cache: 'Lausanne Hannah Darabi bis 01.11.2026'
+- Cache: 'Caux Expositions au Caux Palace bis 13.09.2026'
 - Cache: 'Aigle Josette Taramarcaz. Le Chant des pistes bis 13.09.2026'
 - Cache: 'Cheseaux-Noréaz Qui vit là ? Le hêtre, un arbre-habitat bis 01.11.2026'
 - Cache: 'Basel Basel auf dem Teller bis 21.03.2027'
 - Cache: 'Rossinière Royaume des Chats à Rossinière bis 12.09.2026'
 - Cache: 'Montricher Écrits d'art brut bis 30.08.2026'
-- Cache: 'Lausanne Les minus au musée - Et nous alors? bis 02.09.2026'
 - Cache: 'Lausanne Ella Maillart bis 01.11.2026'
 - Cache: 'Vaduz Naturjuwel Haberfeld bis 30.08.2026'
 - Cache: 'Appenzell Caline Aoun Thresholds of Impermanence bis 25.10.2026'
@@ -57,7 +64,6 @@ Aus Cache übernommen (49):
 - Cache: 'Zürich Die Sammlung bis 31.12.2029'
 - Cache: 'Lausanne Et nous alors? bis 27.09.2026'
 - Cache: 'Zürich Mit fliegendem Teppich durch die Geschichte bis 31.12.2029'
-- Cache: 'Lausanne Peintures françaises 1800-1945 bis 16.08.2026'
 - Cache: 'Luzern 1 Raum, 1 Werk bis 15.11.2026'
 - Cache: 'Zürich Ideen Schweiz bis 31.12.2026'
 - Cache: 'Zürich Einfach Zürich bis 31.12.2026'
@@ -66,65 +72,88 @@ Aus Cache übernommen (49):
 - Cache: 'Zürich Geschichte Schweiz bis 31.12.2029'
 - Cache: 'Liestal Seidenband bis 06.04.2031'
 
-KI-Filter / Cache-Löschungen (7):
-- Gelöscht [Cache: Duplikat von ID 17]: 'Lucette, une domestique aux talents cachés'
-- Gelöscht [Cache: Duplikat von ID 17]: 'Lucette, une domestique aux talents cachés'
+KI-Filter / Cache-Löschungen (8):
+- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Villa Abegg – Das Anwesen eines Sammlerpaares'
 - Gelöscht [Cache: Duplikat von ID 2 (Caline Aoun in Appenzell)]: 'Caline Aoun Thresholds of Impermanence'
+- Gelöscht [Cache: Duplikat von ID 17]: 'Lucette, une domestique aux talents cachés'
+- Gelöscht [Cache: Duplikat von ID 17]: 'Lucette, une domestique aux talents cachés'
 - Gelöscht [Cache: Duplikat von ID 0 (Ella Maillart in Lausanne)]: 'Ella Maillart. Fotografische Erzählungen'
 - Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'La collection'
-- Gelöscht [Duplikat]: 'Atelier pour enfants – Salut, ça bulle ?' [Feed: Platform 10 Events 2]
-- Gelöscht [Duplikat]: 'Atelier pour enfants – Salut, ça bulle ?' [Feed: Platform 10 Events 2]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Mensch, Erde! – Das Klima im Wandel' [Feed: Museen Bern]
+- Gelöscht [Dauerausstellung ohne Enddatum]: 'Wunderkammer' [Feed: Museen Bern]
 
-Finale Liste (71 Einträge):
-- [Temps Libre - Ce Weekend] Cully Gisèle Grana & Nicole Eller bis 15.08.2026
-- [Museen Bern] Bern Franz Gertsch. Blow-Up (Part I) bis 17.01.2027
+Finale Liste (92 Einträge):
+- [Temps Libre - Ce Weekend] Prangins Lucette, une domestique aux talents cachés bis 23.08.2026
+- [Museen Bern] Burgdorf Cantonale Berne Jura bis 28.02.2027
+- [Museen Bern] Bern Tai Shani: M.I.A.S.M.A bis 23.08.2026
 - [Museen Bern] Bern Jota Mombaça: compost (continuum) bis 23.08.2026
-- [Museen Bern] Burgdorf Franz Gertsch. Eisenbett und Trompete, Familie und Paare bis 30.08.2026
+- [Museen Bern] Bern Saodat Ismailova bis 22.11.2026
+- [Museen Bern] Riggisberg Zuhause in der Spätantike bis 08.11.2026
+- [Museen Bern] Bern Anno 1811 - Die Anfänge der Blasmusik in der Schweiz bis 31.03.2028
+- [Museen Bern] Bern Souvenir Selfies, Kitsch und Gipfelsteine bis 09.01.2028
+- [Museen Bern] Thun Schnittstellen der Sicht bis 29.11.2026
+- [Museen Bern] Bern Swiss Press Photo 26 bis 09.10.2026
+- [Museen Bern] Bern Unterwegs Wandern in der Schweiz bis 26.11.2027
+- [Museen Bern] Burgdorf Cécile Wick. In naher Ferne bis 29.11.2026
+- [Museen Bern] Bern Das volle Leben bis 27.09.2026
+- [Museen Bern] Bern Vanessa Billy: Superconductors bis 23.08.2026
+- [Museen Bern] Bern Stress bis 06.02.2028
+- [Museen Bern] Bern Cantonale Berne Jura 2026 bis 31.01.2027
+- [Museen Bern] Thun Cantonale Berne Jura 2026/2027 bis 21.02.2027
+- [Museen Bern] Thun Susanne Keller bis 29.11.2026
+- [Museen Bern] Bern Franz Gertsch. Blow-Up (Part I) bis 17.01.2027
+- [Museen Bern] Burgdorf Die Wunderkammern bis 31.12.2029
+- [Museen Bern] Burgdorf Macherinnen bis 31.12.2028
+- [Museen Bern] Bern Zeitheldinnen auf der Spur bis 31.12.2026
 - [Museen Bern] Burgdorf Leanne Picthall. Meaning So Well bis 30.08.2026
+- [Museen Bern] Bern Die Post vor 60 Jahren bis 21.12.2026
+- [Museen Bern] Bern Wer entscheidet? bis 12.11.2026
+- [Museen Bern] Bern CHIPS bis 18.07.2027
+- [Museen Bern] Bern Geschichte im Festgewand bis 15.11.2026
 - [Museen Bern] Bern Silizium: Von den Alpen ins Silicon Valley bis 09.12.2026
-- [Museen Bern] Bern NMBE Leseratten mit Friederike von Houwald bis 26.11.2026
-- [Temps Libre - Ce Weekend] Fiez Les Livres Muets bis 19.08.2026
+- [Temps Libre - Ce Weekend] Gland Kiyo bis 23.08.2026
 - [Temps Libre - Ce Weekend] Lausanne Expo - GRENZEN bis 29.08.2026
+- [Temps Libre - Ce Weekend] Leysin LeysinArtistes bis 29.08.2026
 - [Temps Libre - Ce Weekend] Le Sentier Jardins & Ateliers d'artistes à la Vallée de Joux bis 30.08.2026
+- [Temps Libre - Ce Weekend] Ollon Kairos bis 06.09.2026
+- [Temps Libre - Ce Weekend] Aigle Alphonse Layaz. Rencontres bis 13.09.2026
+- [Temps Libre - Ce Weekend] Sainte-Croix Exposition : "Le Jupon de l'Absinthe" bis 27.09.2026
 - [Platform 10 Events 2] Lausanne LIG x Plateforme 10 – Tournoi d’été
-- [Platform 10 Events 2] Lausanne Atelier pour enfants – Salut, ça bulle ?
-- [Platform 10 Events 2] Lausanne Visite des tout petits – Me, Myself and I
 - [Platform 10 Events 2] Lausanne Visite commentée – Otobong Nkanga
-- [Platform 10 Events 2] Lausanne Visite commentée – Et nous alors ?
+- [Platform 10 Events 2] Lausanne Workshop – Street photography
+- [Platform 10 Events 2] Lausanne Visite commentée – Isao Takahata
+- [Platform 10 Events 2] Lausanne Visite avec la commissaire – Otobong Nkanga
+- [Morges Agenda] Morges The Black Monarchs & The Missing Girls
+- [Morges Agenda] Morges Été culturel du Château de Morges : Souper-spectacle meurtre et mystère
+- [Morges Agenda] Morges Été culturel du Château de Morges : Faites MOUCHE ! bis 23.08.2026
+- [Morges Agenda] Morges Colibris Festival 2026
+- [Morges Agenda] Morges Hommage à Armel Guerne
+- [Morges Agenda] Morges Caf' Conc'
+- [Morges Agenda] Morges Mini'MOA - Cinéma Open air pour les tout-petits bis 06.09.2026
+- [Morges Agenda] Morges Weekend anniversaire Fête du Dahlia 2026 bis 23.08.2026
 - [Morges Agenda] Tolochenaz Tour du Pays de Vaud
 - [Morges Agenda] Morges Chasse au trésor - Le voyage temporel bis 15.11.2026
-- [Morges Agenda] Morges Spectacle musical Si c’est un homme
-- [Morges Agenda] Morges Cirqu'estival : Spectacle À quelques instants près
-- [Morges Agenda] Morges Festival des Sports - Edition Piscine
-- [Temps Libre - Ce Weekend] Vevey Les murmures bis 16.08.2026
-- [Temps Libre - Ce Weekend] Vevey L'odyssée de Kokoschka bis 16.08.2026
-- [Temps Libre - Ce Weekend] Vevey Frédéric Cordier bis 16.08.2026
 - [Temps Libre - Ce Weekend] Lausanne Otobong Nkanga bis 23.08.2026
 - [Temps Libre - Ce Weekend] Villeneuve DinoWorld bis 23.08.2026
 - [Temps Libre - Ce Weekend] L'Isle Échos sauvages bis 23.08.2026
 - [Temps Libre - Ce Weekend] Lausanne Invisibles bis 30.08.2026
-- [Morges Agenda] Morges Silent-Disco bis 15.08.2026
-- [Morges Agenda] Morges Caf' Conc' bis 14.08.2026
-- [Morges Agenda] Morges Street Unihockey Turnier bis 11.08.2026
 - [Temps Libre - Ce Weekend] Payerne Visites-aventures avec Frère Claude bis 26.08.2026
-- [Temps Libre - Ce Weekend] Cheseaux-Noréaz Exposition photographies - Contrastes
+- [Temps Libre - Ce Weekend] Cheseaux-Noréaz Exposition photographies - Contrastes bis 06.09.2026
 - [museum.ch Ausstellungen] Thun Susanne Keller. Hinterkammer des Auges bis 29.11.2026
 - [Morges Agenda] Morges Fête du Dahlia 2026 bis 30.10.2026
-- [Temps Libre - Ce Weekend] Payerne Les Jardins contés bis 19.08.2026
-- [Temps Libre - Ce Weekend] Corseaux End of Summer - exposition en plein air bis 21.08.2026
 - [Temps Libre - Ce Weekend] Payerne Les Jardins imaginaires de l'Abbatiale bis 31.08.2026
 - [museum.ch Ausstellungen] Thun Thun-Panorama: Das Rundbild von Marquard Wocher bis 29.11.2026
 - [Morges Agenda] Morges Morges Open Air 2026 bis 06.09.2026
 - [Morges Agenda] Morges Les Matins de la Santé bis 26.08.2026
 - [Morges Agenda] Morges Espace 81 - 100 ans des Scouts de Morges bis 26.08.2026
+- [Temps Libre - Ce Weekend] Ecublens Exposition de Konstantin Mitenev bis 15.09.2026
 - [Temps Libre - Ce Weekend] Corsier-sur-Vevey Nocturnes à Chaplin's World bis 29.08.2026
-- [Temps Libre - Ce Weekend] Prangins Lucette, une domestique aux talents cachés bis 23.08.2026
 - [Temps Libre - Ce Weekend] Nyon UNDER A HOME WITH NO ROOF bis 06.09.2026
 - [museum.ch Ausstellungen] Zürich Symphởnie der Gewürze bis 13.09.2026
 - [museum.ch Ausstellungen] Sierre The Stars' Share bis 29.11.2026
-- [Morges Agenda] Morges Cirqu'estival bis 15.08.2026
 - [Platform 10 Events] Lausanne Alfredo Jaar bis 01.11.2026
 - [Platform 10 Events] Lausanne Hannah Darabi bis 01.11.2026
+- [Temps Libre - Ce Weekend] Caux Expositions au Caux Palace bis 13.09.2026
 - [Temps Libre - Ce Weekend] Aigle Josette Taramarcaz. Le Chant des pistes bis 13.09.2026
 - [museum.ch Ausstellungen] Cheseaux-Noréaz Qui vit là ? Le hêtre, un arbre-habitat bis 01.11.2026
 - [museum.ch Ausstellungen] Basel Basel auf dem Teller bis 21.03.2027
@@ -139,7 +168,6 @@ Finale Liste (71 Einträge):
 - [museum.ch Ausstellungen] Zürich Die Sammlung bis 31.12.2029
 - [Platform 10 Events] Lausanne Et nous alors? bis 27.09.2026
 - [museum.ch Ausstellungen] Zürich Mit fliegendem Teppich durch die Geschichte bis 31.12.2029
-- [Platform 10 Events] Lausanne Peintures françaises 1800-1945 bis 16.08.2026
 - [museum.ch Ausstellungen] Luzern 1 Raum, 1 Werk bis 15.11.2026
 - [museum.ch Ausstellungen] Zürich Ideen Schweiz bis 31.12.2026
 - [museum.ch Ausstellungen] Zürich Einfach Zürich bis 31.12.2026
