@@ -27,7 +27,8 @@ const OPENROUTER_MODEL        = "google/gemini-3.1-flash-lite"; // GA Mai 2026, 
 const GITHUB_API_BASE         = "https://api.github.com/repos/";
 const SPREADSHEET_ID          = "1IoqQHHzIOOBniYcOYGfYoITzk96K-_ommHSl8m0C4HA";
 const SHEET_NAME              = "Veranstaltungen";
-const AI_CHUNK_SIZE           = 30;
+const AI_CHUNK_SIZE           = 12;   // kleinere Bloecke = kuerzere Antworten = weniger Abschneiden
+const AI_MAX_TOKENS           = 16384;
 const CACHE_TTL_DAYS          = 30;
 const FETCH_DEADLINE          = 55;   // Sekunden, maximaler Apps Script Timeout
 
@@ -470,6 +471,60 @@ function hatFremdeZeichen(text) {
 // Ablauf (Filter, Cache, KI-Redaktion, Upload) unveraendert weiterlaeuft.
 // =============================================================================
 
+// Sammelt die vollstaendigen Objekte aus dem Array hinter "<key>": [ ... ].
+// Laeuft ueber die Klammertiefe und ignoriert Klammern in Zeichenketten, damit
+// auch eine mitten im Array abgeschnittene Antwort das liefert, was schon da
+// ist. Genau daran ist der Lauf vom 25.08. gescheitert: ein fehlendes "]" am
+// Ende hat jeweils alle 30 Eintraege eines Blocks verworfen.
+function sammleObjekte(text, key) {
+  var k = text.indexOf('"' + key + '"');
+  if (k === -1) return [];
+  var start = text.indexOf("[", k);
+  if (start === -1) return [];
+
+  var out = [], tiefe = 0, objStart = -1, inStr = false, esc = false;
+  for (var i = start + 1; i < text.length; i++) {
+    var ch = text.charAt(i);
+    if (inStr) {
+      if (esc)              esc = false;
+      else if (ch === "\\") esc = true;
+      else if (ch === '"')  inStr = false;
+      continue;
+    }
+    if (ch === '"') { inStr = true; continue; }
+    if (ch === "{") { if (tiefe === 0) objStart = i; tiefe++; }
+    else if (ch === "}") {
+      tiefe--;
+      if (tiefe === 0 && objStart !== -1) {
+        try { out.push(JSON.parse(text.substring(objStart, i + 1))); } catch(e) { /* halbes Objekt */ }
+        objStart = -1;
+      }
+    }
+    else if (ch === "]" && tiefe === 0) break;
+  }
+  return out;
+}
+
+// Liest die Redaktions-Antwort. Erst der saubere Weg, sonst die Rettung.
+function parseRedaktionsAntwort(text) {
+  var si = text.indexOf("{"), ei = text.lastIndexOf("}");
+  if (si !== -1 && ei > si) {
+    try {
+      var o = JSON.parse(text.substring(si, ei + 1));
+      return {
+        updates:     Array.isArray(o.updates)     ? o.updates     : [],
+        idsToRemove: Array.isArray(o.idsToRemove) ? o.idsToRemove : [],
+        gerettet:    false
+      };
+    } catch(e) { /* abgeschnitten - unten retten */ }
+  }
+  return {
+    updates:     sammleObjekte(text, "updates"),
+    idsToRemove: sammleObjekte(text, "idsToRemove"),
+    gerettet:    true
+  };
+}
+
 // Liest ein JSON-Array - auch wenn die KI-Antwort am Ende abgeschnitten wurde.
 // Erst normaler Versuch, dann Rettung bis zum letzten vollstaendigen Objekt.
 function safeParseJsonArray(text) {
@@ -673,7 +728,7 @@ function updateRSSFeed() {
   var cacheEntries  = props.githubToken ? loadCache(c.owner, c.repo, props.githubToken) : {};
   var cacheExpireMs = CACHE_TTL_DAYS * 24 * 60 * 60 * 1000;
 
-  var staticLog = [], aiLog = [], cacheLog = [], noLinkLog = [], regelLog = [], finalLog = [];
+  var staticLog = [], aiLog = [], cacheLog = [], noLinkLog = [], regelLog = [], ohneMetaLog = [], finalLog = [];
 
   log("=== START FEED-AKTUALISIERUNG (" + todayStr + ") ===");
   log("Feeds: " + feedUrls.length + " | Keywords: " + excludeWords.length + " | KI-Themen: " + aiExclusions.length);
@@ -872,11 +927,18 @@ function updateRSSFeed() {
       "Artikel:\n" + JSON.stringify(itemsForAi);
 
       try {
-        var rawText = callAi(prompt, props, 8192).trim();
-        var si = rawText.indexOf("{"), ei = rawText.lastIndexOf("}");
-        if (si === -1 || ei === -1) throw new Error("Kein JSON in Antwort: " + rawText.substring(0, 80));
+        var rawText  = callAi(prompt, props, AI_MAX_TOKENS).trim();
+        var aiResult = parseRedaktionsAntwort(rawText);
 
-        var aiResult = JSON.parse(rawText.substring(si, ei + 1));
+        if (aiResult.gerettet) {
+          // Antwort war unvollstaendig. Was gerettet wurde, wird verwendet; der
+          // Rest des Blocks behaelt weiter unten Titel und Text der Quelle.
+          var meldung = "Antwort abgeschnitten (" + rawText.length + " Zeichen), " +
+                        aiResult.updates.length + " von " + chunkItems.length + " Eintraegen gerettet";
+          Logger.log("[KI TEILWEISE] Block " + chunkStart + ": " + meldung);
+          Logger.log("[KI ROHTEXT-ENDE] ..." + rawText.substring(Math.max(0, rawText.length - 200)));
+          aiLog.push("- " + meldung + " [Block " + chunkStart + "]");
+        }
 
         if (aiResult.updates && Array.isArray(aiResult.updates)) {
           aiResult.updates.forEach(function(upd) {
@@ -938,8 +1000,11 @@ function updateRSSFeed() {
   allItems.forEach(function(item, idx) {
     if (item._cacheRemoved) { idsToRemoveSet[idx] = true; return; }
     if (!item.meta) {
-      idsToRemoveSet[idx] = true;
-      regelLog.push("- Geloescht [Keine KI-Daten]: '" + item.title + "' [Feed: " + item.feedName + "]");
+      // Die KI hat zu diesem Eintrag nichts geliefert (Fehler, Zeitlimit,
+      // abgeschnittene Antwort). Dann bleibt er so im Feed, wie die Quelle ihn
+      // liefert - unformatiert, aber vorhanden. Ihn zu verwerfen hiesse, einen
+      // KI-Ausfall in einen leeren Feed zu uebersetzen.
+      ohneMetaLog.push("- Unveraendert [Keine KI-Daten]: '" + item.title + "' [Feed: " + item.feedName + "]");
       return;
     }
     var grund = pruefeMeta(item.meta, heute);
@@ -1004,6 +1069,9 @@ function updateRSSFeed() {
     "Regelfilter Datum/Entfernung/Dauerausstellung (" + regelLog.length + "):",
     regelLog.length > 0 ? regelLog.join("\n") : "- Keine.",
     "",
+    "Ohne KI-Daten uebernommen (" + ohneMetaLog.length + "):",
+    ohneMetaLog.length > 0 ? ohneMetaLog.join("\n") : "- Keine.",
+    "",
     "Finale Liste (" + allItems.length + " Eintraege):",
     finalLog.length > 0 ? finalLog.join("\n") : "- Feed ist leer."
   ].join("\n");
@@ -1011,8 +1079,16 @@ function updateRSSFeed() {
   // --- GitHub Upload ---
   if (props.githubToken) {
     log("=== GITHUB UPLOAD ===");
-    githubPutFile(c.owner, c.repo, props.githubToken, c.xmlPath,
-      rssXml, "Auto-Update: Veranstaltungen Feed");
+    // Notbremse: ein leerer Feed ist nie ein gueltiges Ergebnis, sondern immer
+    // ein Ausfall weiter oben. Dann bleibt die bisherige Datei stehen - das
+    // Protokoll wird trotzdem geschrieben, damit die Ursache sichtbar ist.
+    if (allItems.length === 0) {
+      Logger.log("[UPLOAD ABGEBROCHEN] 0 Eintraege - bisheriger Feed bleibt unveraendert.");
+      logText += "\n\nUPLOAD ABGEBROCHEN: 0 Eintraege. Die bisherige veranstaltungen.xml bleibt stehen.";
+    } else {
+      githubPutFile(c.owner, c.repo, props.githubToken, c.xmlPath,
+        rssXml, "Auto-Update: Veranstaltungen Feed");
+    }
     githubPutFile(c.owner, c.repo, props.githubToken,
       c.xmlPath.replace(/\.xml$/i, "") + ".log",
       logText, "Auto-Update: Veranstaltungen Log");
