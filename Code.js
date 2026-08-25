@@ -281,6 +281,15 @@ function baueTitel(meta, heute) {
   return kopf + String(meta.titel || "").trim() + (zusatz ? " - " + zusatz : "");
 }
 
+// Vergleichsschluessel fuer die Dublettenpruefung: Ort plus Titel, reduziert auf
+// Buchstaben und Ziffern. "Ella Maillart: Fotografische Erzaehlungen" und
+// "Ella Maillart. Fotografische Erzaehlungen" ergeben damit denselben Schluessel.
+function dublettenSchluessel(meta) {
+  var titel = String(meta.titel || "").toLowerCase()
+    .replace(/[^a-z0-9äöüàáâçéèêëîïôùûñ]+/gi, "");
+  return String(meta.ort || "").toLowerCase() + "|" + titel;
+}
+
 // Reisezeit ab Morges. -1 = unbekannt (weder Ort noch Kanton in der Tabelle).
 function reisezeit(ort, kanton) {
   var name = String(ort || "").trim().toLowerCase();
@@ -309,6 +318,15 @@ function pruefeMeta(meta, heute) {
   var letzterTag = ende || start;
   if (letzterTag && letzterTag.getTime() < heute.getTime()) {
     return "Vorbei seit " + formatDatum(letzterTag, heute);
+  }
+
+  // Eine Ausstellung ohne Anfang und ohne Ende laeuft unbefristet. Frueher hat
+  // die KI das aussortiert ("Dauerausstellung ohne Enddatum"); seit sie nicht
+  // mehr nach Datum filtert, muss die Regel hier stehen. Bei Terminformaten
+  // (Konzert, Fuehrung, Lesung) heisst ein fehlendes Datum dagegen nur, dass
+  // die Quelle keines mitliefert - die bleiben drin.
+  if (!start && !ende && /ausstellung/i.test(meta.art || "")) {
+    return "Dauerausstellung: kein Datum";
   }
 
   if (ende) {
@@ -467,8 +485,27 @@ function cleanHtml(html) {
     .trim();
 }
 
-// Faengt Modell-Ausrutscher wie "Symphởnie der Gewuerze" ab: alles ausserhalb
-// von Latein, Interpunktion und Waehrungszeichen deutet auf einen Zeichenfehler.
+// Holt Zeichen ausserhalb des lateinischen Bereichs auf ihre Grundform zurueck:
+// "Symphởnie der Gewuerze" wird zu "Symphonie der Gewuerze". Das vietnamesische
+// o mit Horn und Haken zerfaellt per NFD in o + zwei kombinierende Zeichen; die
+// fallen weg, das o bleibt. Deutsche Umlaute und franzoesische Akzente liegen
+// innerhalb des erlaubten Bereichs und werden nicht angefasst.
+// Der Fehler steckt in der Quelle (museum.ch), nicht in der KI - auf den
+// Originaltitel zurueckzufallen wuerde ihn also nur konservieren.
+function normalisiereZeichen(text) {
+  var s = String(text || "");
+  if (!hatFremdeZeichen(s)) return s;
+  var out = "";
+  for (var i = 0; i < s.length; i++) {
+    var ch = s.charAt(i);
+    if (!hatFremdeZeichen(ch)) { out += ch; continue; }
+    var basis = ch.normalize("NFD").replace(/[\u0300-\u036F]/g, "");
+    out += /^[A-Za-z]+$/.test(basis) ? basis : "";
+  }
+  return out.replace(/\s{2,}/g, " ").trim();
+}
+
+// Erkennt Zeichen ausserhalb von Latein, Interpunktion und Waehrungszeichen.
 function hatFremdeZeichen(text) {
   return /[^ -ɏ -⁯₠-₿]/.test(String(text || ""));
 }
@@ -973,9 +1010,13 @@ function updateRSSFeed() {
               art:         String(upd.art    || "Sonstiges").trim(),
               description: String(upd.description || origItem.description).trim()
             };
-            if (hatFremdeZeichen(meta.titel)) {
-              aiLog.push("- Zeichenfehler im KI-Titel, Original behalten: '" + meta.titel + "'");
-              meta.titel = origItem.title;
+            if (hatFremdeZeichen(meta.titel) || hatFremdeZeichen(meta.description)) {
+              var vorher     = meta.titel;
+              meta.titel       = normalisiereZeichen(meta.titel);
+              meta.description = normalisiereZeichen(meta.description);
+              if (vorher !== meta.titel) {
+                aiLog.push("- Zeichen bereinigt: '" + vorher + "' -> '" + meta.titel + "'");
+              }
             }
 
             origItem.meta = meta;
@@ -1013,7 +1054,7 @@ function updateRSSFeed() {
   // --- Regelfilter: Datum, Entfernung, Dauerausstellung -----------------------
   // Laeuft ueber ALLE Eintraege, auch die aus dem Cache. Genau hier hing vorher
   // der Fehler, dass abgelaufene Cache-Eintraege im Feed stehenblieben.
-  var idsToRemoveSet = {};
+  var idsToRemoveSet = {}, dublettenSet = {};
 
   allItems.forEach(function(item, idx) {
     if (item._cacheRemoved) { idsToRemoveSet[idx] = true; return; }
@@ -1036,6 +1077,26 @@ function updateRSSFeed() {
     item.kategorie   = item.meta.art;
   });
   allItems = allItems.filter(function(_, idx) { return !idsToRemoveSet[idx]; });
+
+  // --- Dubletten ueber Quell- und Blockgrenzen hinweg -------------------------
+  // Die KI sieht immer nur einen Block und kann Wiederholungen aus anderen
+  // Bloecken nicht kennen - mit 6 Eintraegen pro Block erst recht nicht.
+  // Gleicher Ort und gleicher Titel heisst: einmal reicht. Es gewinnt der
+  // Eintrag mit Datum, sonst der erste.
+  var besteProSchluessel = {};
+  allItems.forEach(function(item, idx) {
+    if (!item.meta) return;                       // ohne KI-Daten kein Vergleich
+    var key  = dublettenSchluessel(item.meta);
+    var hatDatum = !!(parseDatum(item.meta.start) || parseDatum(item.meta.ende));
+    var bisher   = besteProSchluessel[key];
+    if (bisher === undefined) { besteProSchluessel[key] = { idx: idx, hatDatum: hatDatum }; return; }
+    var verlierer = (hatDatum && !bisher.hatDatum) ? bisher.idx : idx;
+    if (hatDatum && !bisher.hatDatum) besteProSchluessel[key] = { idx: idx, hatDatum: hatDatum };
+    regelLog.push("- Geloescht [Dublette von '" + allItems[besteProSchluessel[key].idx].meta.titel +
+                  "']: '" + allItems[verlierer].meta.titel + "' [Feed: " + allItems[verlierer].feedName + "]");
+    dublettenSet[verlierer] = true;
+  });
+  allItems = allItems.filter(function(_, idx) { return !dublettenSet[idx]; });
 
   if (props.githubToken) saveCache(c.owner, c.repo, props.githubToken, cacheEntries);
 
