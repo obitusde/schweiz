@@ -65,7 +65,7 @@ const VORSCHAU_TAGE       = 28;
 // Kurze Spannen bis zu so vielen Tagen werden als "27.-29.08." geschrieben.
 const SPANNE_MAX_TAGE     = 7;
 // Aendert sich das Cache-Format, muessen alte Eintraege einmal neu durch die KI.
-const CACHE_VERSION       = 3;
+const CACHE_VERSION       = 4;
 
 const MS_PRO_TAG = 24 * 60 * 60 * 1000;
 const WOCHENTAGE = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
@@ -297,6 +297,21 @@ function dublettenSchluessel(meta) {
   var titel = String(meta.titel || "").toLowerCase()
     .replace(/[^a-z0-9äöüàáâçéèêëîïôùûñ]+/gi, "");
   return String(meta.ort || "").toLowerCase() + "|" + titel;
+}
+
+// Zweiter Schluessel, ueber den Link. Quellen veroeffentlichen dieselbe
+// Veranstaltung gern zweimal und haengen an den zweiten Slug eine Nummer:
+// ".../rencontres-du-prix-du-livre-de-la-ville-de-lausanne" und dasselbe
+// mit "-5" am Ende. Ueber den Titel ist das nicht zu fassen, sobald die KI
+// den einen uebersetzt und den anderen stehen laesst.
+// Leerer Rueckgabewert heisst: kein brauchbarer Slug, nicht vergleichen.
+function slugSchluessel(link, meta) {
+  var teile = String(link || "").replace(/[?#].*$/, "").replace(/\/+$/, "").split("/");
+  var slug  = (teile[teile.length - 1] || "").toLowerCase()
+                .replace(/-\d+$/, "")           // angehaengte Zaehlnummer
+                .replace(/[^a-z0-9]+/g, "");
+  if (slug.length < 5) return "";               // rein numerische IDs taugen nicht
+  return "slug|" + String(meta.ort || "").toLowerCase() + "|" + slug;
 }
 
 // Reisezeit ab Morges. -1 = unbekannt (weder Ort noch Kanton in der Tabelle).
@@ -1016,9 +1031,6 @@ function updateRSSFeed() {
       "b) Duplikat - exakt einen behalten, nie alle loeschen. Auch Duplikate aus frueheren Bloecken beachten. " +
       "Eine Vernissage oder Fuehrung zu einer Ausstellung, die als eigener Eintrag existiert, ist ein Duplikat.\n" +
       "c) Ort auch per Weltwissen nicht bestimmbar.\n" +
-      "d) Dauerausstellung oder permanente Sammlung ohne Enddatum. Ein fehlendes Datum allein ist " +
-      "KEIN Grund - viele laufende Sonderausstellungen liefern ihre Laufzeit einfach nicht mit. " +
-      "Entscheide nach Beschreibung und Weltwissen, nicht nach fehlendem Feld.\n" +
       "Nach Datum oder Entfernung NICHT selbst filtern - das macht das Skript.\n\n" +
       "JSON (kein Markdown):\n" +
       "{\"idsToRemove\":[{\"id\":3,\"reason\":\"Duplikat\"}]," +
@@ -1132,13 +1144,33 @@ function updateRSSFeed() {
   var besteProSchluessel = {};
   allItems.forEach(function(item, idx) {
     if (!item.meta) return;                       // ohne KI-Daten kein Vergleich
-    var key  = dublettenSchluessel(item.meta);
-    var hatDatum = !!(parseDatum(item.meta.start) || parseDatum(item.meta.ende));
-    var bisher   = besteProSchluessel[key];
-    if (bisher === undefined) { besteProSchluessel[key] = { idx: idx, hatDatum: hatDatum }; return; }
-    var verlierer = (hatDatum && !bisher.hatDatum) ? bisher.idx : idx;
-    if (hatDatum && !bisher.hatDatum) besteProSchluessel[key] = { idx: idx, hatDatum: hatDatum };
-    regelLog.push("- Geloescht [Dublette von '" + allItems[besteProSchluessel[key].idx].meta.titel +
+
+    var schluessel = [dublettenSchluessel(item.meta), slugSchluessel(item.link, item.meta)]
+                       .filter(function(k) { return k; });
+    var hatDatum   = !!(parseDatum(item.meta.start) || parseDatum(item.meta.ende));
+
+    var bisher = null;
+    for (var i = 0; i < schluessel.length; i++) {
+      if (besteProSchluessel[schluessel[i]] !== undefined) { bisher = besteProSchluessel[schluessel[i]]; break; }
+    }
+
+    if (bisher === null) {
+      var neu = { idx: idx, hatDatum: hatDatum, schluessel: schluessel };
+      schluessel.forEach(function(k) { besteProSchluessel[k] = neu; });
+      return;
+    }
+
+    // Es gewinnt der Eintrag mit Datum, sonst der zuerst gesehene.
+    var sieger, verlierer;
+    if (hatDatum && !bisher.hatDatum) { sieger = { idx: idx, hatDatum: hatDatum, schluessel: schluessel }; verlierer = bisher.idx; }
+    else                              { sieger = bisher;                                                   verlierer = idx; }
+
+    // Beide Schluesselsaetze auf den Sieger zeigen lassen, damit auch eine
+    // dritte Dublette erkannt wird, egal ueber welchen Schluessel sie passt.
+    bisher.schluessel.concat(schluessel).forEach(function(k) { besteProSchluessel[k] = sieger; });
+    sieger.schluessel = bisher.schluessel.concat(schluessel);
+
+    regelLog.push("- Geloescht [Dublette von '" + allItems[sieger.idx].meta.titel +
                   "']: '" + allItems[verlierer].meta.titel + "' [Feed: " + allItems[verlierer].feedName + "]");
     dublettenSet[verlierer] = true;
   });
