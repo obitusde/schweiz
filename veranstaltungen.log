@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 25.8.2026, 14:13:12
+Start: 25.8.2026, 14:51:25
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 
 Feeds:
@@ -9,7 +9,6 @@ Feeds:
 - https://script.google.com/macros/s/AKfycbwiTrliLNmT2INfuX0pJ_hJMqU1Rwhyq83mQ0mxR_GmLJ2tyS0dMQp3C7jdW4WJhZ4MDQ/exec?quelle=Plateforme%2010%20Agenda
 - https://www.museen-bern.ch/de/ausstellungen
 - https://www.vaud.ch/de/tourismus/veranstaltungen/?region=morges-region
-- https://www.geneve.ch/fr/agenda
 
 Kein Link (ignoriert):
 - Keine.
@@ -17,61 +16,86 @@ Kein Link (ignoriert):
 Statischer Filter (Keywords):
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
 
-Aus Cache uebernommen (0):
-- Keine.
+Aus Cache uebernommen (45):
+- Cache: 'Cantonale Berne Jura'
+- Cache: 'Das volle Leben. Alte Meister von Duccio bis Liotard'
+- Cache: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig'
+- Cache: 'Der Sonntagsausflug'
+- Cache: 'Tabula Musica x Schulmuseum Bern'
+- Cache: 'Brigitte Lustenberger. Ein eigener Blick'
+- Cache: 'Verleihung des Tintenfass-Preises 2025'
+- Cache: 'Gezeichnet 2026'
+- Cache: 'Ella Maillart. Fotografische Erzählungen'
+- Cache: 'Stadtführungen mit dem Segway'
+- Cache: 'Galerie Port Franc'
+- Cache: 'Flucht: Auf den Spuren von Flüchtlingen'
+- Cache: 'Tanzfest'
+- Cache: 'Planetariumssitzung'
+- Cache: 'Die Abenteuer von Gouttelette, auf der Suche nach der verlorenen Zeit'
+- Cache: 'Caf' Conc''
+- Cache: 'Wake Up & Run'
+- Cache: 'Black Colors - Konzert'
+- Cache: 'Festival Morges Églantine'
+- Cache: 'Alfredo Jaar Inferno Paradiso'
+- Cache: 'Et Nous Alors'
+- Cache: 'Otobong Nkanga'
+- Cache: 'Isao Takahata'
+- Cache: 'Hannah Darabi: Why Don't You Dance?'
+- Cache: 'Ella Maillart: Fotografische Erzählungen'
+- Cache: 'Lucas Erin'
+- Cache: 'Edouard Chapallaz'
+- Cache: 'Blanc Gatti'
+- Cache: 'Ted Joans'
+- Cache: 'Magie und Design'
+- Cache: 'Tierisches Modell'
+- Cache: 'Gesundheitsmorgen'
+- Cache: '100 Jahre Pfadfinder von Morges'
+- Cache: 'Morges Open Air 2026'
+- Cache: 'Dahlienfest 2026 - 30. Jubiläum'
+- Cache: 'Mini'MOA - Open-Air-Kino für Kleinkinder'
+- Cache: 'Schatzsuche - Die Zeitreise'
+- Cache: 'Festival der Kurzstücke'
+- Cache: 'The Black Monarchs & The Missing Girls'
+- Cache: 'Kultursommer: Krimi-Dinner'
+- Cache: 'Kultursommer: Einführung in den Schiesssport'
+- Cache: 'Colibris Festival'
+- Cache: 'Hommage an Armel Guerne'
+- Cache: 'Paillote Festival'
+- Cache: 'Vortrag: Die Rolle der Schweiz im Vercors der Nachkriegszeit'
 
-KI-Filter / Cache-Loeschungen (4):
-- Geloescht [Dauerausstellung]: 'Lousonna, archäologischer Park' [Feed: Vaud.de Morges]
-- Geloescht [Dauerausstellung ohne Enddatum]: 'Collection' [Feed: Platform 10 Events]
-- Geloescht [Duplikat]: 'Week-end anniversaire Fête du Dahlia 2026 - 30ème anniversaire' [Feed: Morges Agenda]
-- Zeitbudget erreicht: 36 Eintraege unbearbeitet, werden beim naechsten Lauf nachgeholt.
+KI-Filter / Cache-Loeschungen (11):
+- Geloescht [Cache: Dauerausstellung]: 'Lousonna, archäologischer Park'
+- Geloescht [Cache: Dauerausstellung ohne Enddatum]: 'Collection'
+- Geloescht [Cache: Duplikat]: 'Week-end anniversaire Fête du Dahlia 2026 - 30ème anniversaire'
+- Geloescht [Dauerausstellung]: 'Die Sammlung' [Feed: museum.ch Ausstellungen]
+- Geloescht [Dauerausstellung]: 'Mit fliegendem Teppich durch die Geschichte' [Feed: museum.ch Ausstellungen]
+- Geloescht [Dauerausstellung]: 'Ideen Schweiz' [Feed: museum.ch Ausstellungen]
+- Geloescht [Duplikat]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
+- Zeichen bereinigt: 'Symphởnie der Gewürze – Aus Vietnam in die Welt' -> 'Symphonie der Gewürze – Aus Vietnam in die Welt'
+- Geloescht [Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Agenda]
+- Geloescht [Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Agenda]
+- Geloescht [Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Agenda]
 
-Regelfilter Datum/Entfernung/Dauerausstellung (5):
+Regelfilter Datum/Entfernung/Dauerausstellung (14):
 - Geloescht [Vorbei seit 23.08.]: 'Festival der Kurzstücke' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 22.08.]: 'The Black Monarchs & The Missing Girls' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 22.08.]: 'Kultursommer: Krimi-Dinner' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 23.08.]: 'Kultursommer: Einführung in den Schiesssport' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 23.08.]: 'Colibris Festival' [Feed: Morges Agenda]
+- Geloescht [Zu weit weg: Luzern ~150 min ab Morges]: '1 Raum, 1 Werk. Installationen aus der Sammlung' [Feed: museum.ch Ausstellungen]
+- Geloescht [Dauerausstellung: Enddatum 31.12. als Platzhalter]: 'Einfach Zürich' [Feed: museum.ch Ausstellungen]
+- Geloescht [Dauerausstellung: laeuft noch 1224 Tage]: 'Geschichte Schweiz' [Feed: museum.ch Ausstellungen]
+- Geloescht [Zu weit weg: Liestal ~155 min ab Morges]: 'Seidenband. Kapital, Kunst & Krise' [Feed: museum.ch Ausstellungen]
+- Geloescht [Zu weit weg: Liestal ~155 min ab Morges]: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur' [Feed: museum.ch Ausstellungen]
+- Geloescht [Zu weit weg: Appenzell ~255 min ab Morges]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
+- Geloescht [Zu weit weg: Vaduz ~240 min ab Morges]: 'Naturjuwel Haberfeld' [Feed: museum.ch Ausstellungen]
+- Geloescht [Zu weit weg: Basel ~140 min ab Morges]: 'Auf dem Teller – Kulinarische Stadtgeschichte(n)' [Feed: museum.ch Ausstellungen]
+- Geloescht [Dublette von 'Ella Maillart. Fotografische Erzählungen']: 'Ella Maillart: Fotografische Erzählungen' [Feed: Platform 10 Expositions]
 
-Ohne KI-Daten uebernommen (36):
-- Unveraendert [Keine KI-Daten]: 'Kolonial. Globale Verflechtungen der Schweiz' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Ella Maillart. Fotografische Erzählungen' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Die Sammlung' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Mit fliegendem Teppich durch die Geschichte' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: '1 Raum, 1 Werk. Installationen aus der Sammlung' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Ideen Schweiz' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Einfach Zürich' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Geschichte Schweiz' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Seidenband. Kapital, Kunst & Krise' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Naturjuwel Haberfeld' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Basel auf dem Teller – Kulinarische Stadtgeschichte(n)' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Exposition - Qui vit là ? Le hêtre, un arbre-habitat' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Symphởnie der Gewürze – Aus Vietnam in die Welt' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'The Stars' Share - Fotografien von Gérard-Philippe Mabillard' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Thun-Panorama: Das Rundbild von Marquard Wocher' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Susanne Keller. Hinterkammer des Auges' [Feed: museum.ch Ausstellungen]
-- Unveraendert [Keine KI-Daten]: 'Sur les traces d’Edouard Chapallaz à l’EPFL' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Vernissage public – Ted Joans. Black Flower' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Vernissage | Edouard Chapallaz' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Visite commentée – Artistes femmes dans l’art contemporain' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Ciels animés – Atelier de peinture japonaise' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'NUIT DES MUSEES' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'LIG x Plateforme 10 – Tournoi d’été' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Visite commentée – Journées du Matrimoine' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Table ronde – (Ré)apprendre à voir' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Table ronde – Résister !' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?' [Feed: Platform 10 Events 2]
-- Unveraendert [Keine KI-Daten]: 'Les minus au musée – Et nous alors ?' [Feed: Platform 10 Events 2]
+Ohne KI-Daten uebernommen (0):
+- Keine.
 
-Finale Liste (76 Eintraege):
+Finale Liste (60 Eintraege):
 - [Museen Bern] [Burgdorf BE] Cantonale Berne Jura - bis 28.02.2027
 - [Museen Bern] [Bern] Das volle Leben. Alte Meister von Duccio bis Liotard - bis 27.09.
 - [Museen Bern] [Thun] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.
@@ -91,18 +115,17 @@ Finale Liste (76 Eintraege):
 - [Morges Agenda] [Morges] Wake Up & Run - am Fr 28.08.
 - [Morges Agenda] [Morges] Black Colors - Konzert - am Sa 29.08.
 - [Morges Agenda] [Morges] Festival Morges Églantine - am Sa 29.08.
-- [Platform 10 Events] [Lausanne] Alfredo Jaar Inferno Paradiso
-- [Platform 10 Events] [Lausanne] Et Nous Alors
-- [Platform 10 Events] [Lausanne] Otobong Nkanga
-- [Platform 10 Events] [Lausanne] Isao Takahata
-- [Platform 10 Events] [Lausanne] Hannah Darabi: Why Don't You Dance?
-- [Platform 10 Events] [Lausanne] Ella Maillart: Fotografische Erzählungen
-- [Platform 10 Events] [Lausanne] Lucas Erin
-- [Platform 10 Events] [Lausanne] Edouard Chapallaz
-- [Platform 10 Events] [Lausanne] Blanc Gatti
-- [Platform 10 Events] [Lausanne] Ted Joans
-- [Platform 10 Events] [Lausanne] Magie und Design
-- [Platform 10 Events] [Lausanne] Tierisches Modell
+- [Platform 10 Expositions] [Lausanne] Alfredo Jaar Inferno Paradiso
+- [Platform 10 Expositions] [Lausanne] Et Nous Alors
+- [Platform 10 Expositions] [Lausanne] Otobong Nkanga
+- [Platform 10 Expositions] [Lausanne] Isao Takahata
+- [Platform 10 Expositions] [Lausanne] Hannah Darabi: Why Don't You Dance?
+- [Platform 10 Expositions] [Lausanne] Lucas Erin
+- [Platform 10 Expositions] [Lausanne] Edouard Chapallaz
+- [Platform 10 Expositions] [Lausanne] Blanc Gatti
+- [Platform 10 Expositions] [Lausanne] Ted Joans
+- [Platform 10 Expositions] [Lausanne] Magie und Design
+- [Platform 10 Expositions] [Lausanne] Tierisches Modell
 - [Morges Agenda] [Morges] Gesundheitsmorgen - bis 26.08.
 - [Morges Agenda] [Morges] 100 Jahre Pfadfinder von Morges - bis 26.08.
 - [Morges Agenda] [Morges] Morges Open Air 2026 - bis 06.09.
@@ -112,39 +135,24 @@ Finale Liste (76 Eintraege):
 - [Morges Agenda] [Morges] Hommage an Armel Guerne - am Do 27.08.
 - [Morges Agenda] [Morges] Paillote Festival - 27.-29.08.
 - [Morges Agenda] [Morges] Vortrag: Die Rolle der Schweiz im Vercors der Nachkriegszeit - am Do 27.08.
-- [museum.ch Ausstellungen] Kolonial. Globale Verflechtungen der Schweiz
-- [museum.ch Ausstellungen] Ella Maillart. Fotografische Erzählungen
-- [museum.ch Ausstellungen] Die Sammlung
-- [museum.ch Ausstellungen] Mit fliegendem Teppich durch die Geschichte
-- [museum.ch Ausstellungen] 1 Raum, 1 Werk. Installationen aus der Sammlung
-- [museum.ch Ausstellungen] Ideen Schweiz
-- [museum.ch Ausstellungen] Einfach Zürich
-- [museum.ch Ausstellungen] Geschichte Schweiz
-- [museum.ch Ausstellungen] Seidenband. Kapital, Kunst & Krise
-- [museum.ch Ausstellungen] Wildes Baselbiet. Tieren und Pflanzen auf der Spur
-- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
-- [museum.ch Ausstellungen] Caline Aoun Thresholds of Impermanence
-- [museum.ch Ausstellungen] Naturjuwel Haberfeld
-- [museum.ch Ausstellungen] Basel auf dem Teller – Kulinarische Stadtgeschichte(n)
-- [museum.ch Ausstellungen] Exposition - Qui vit là ? Le hêtre, un arbre-habitat
-- [museum.ch Ausstellungen] Symphởnie der Gewürze – Aus Vietnam in die Welt
-- [museum.ch Ausstellungen] The Stars' Share - Fotografien von Gérard-Philippe Mabillard
-- [museum.ch Ausstellungen] Thun-Panorama: Das Rundbild von Marquard Wocher
-- [museum.ch Ausstellungen] Susanne Keller. Hinterkammer des Auges
-- [Platform 10 Events 2] Sur les traces d’Edouard Chapallaz à l’EPFL
-- [Platform 10 Events 2] Les Rencontres du Prix du livre de la Ville de Lausanne
-- [Platform 10 Events 2] Les Rencontres du Prix du livre de la Ville de Lausanne
-- [Platform 10 Events 2] Les Rencontres du Prix du livre de la Ville de Lausanne
-- [Platform 10 Events 2] Les Rencontres du Prix du livre de la Ville de Lausanne
-- [Platform 10 Events 2] Les Rencontres du Prix du livre de la Ville de Lausanne
-- [Platform 10 Events 2] Vernissage public – Ted Joans. Black Flower
-- [Platform 10 Events 2] Vernissage | Edouard Chapallaz
-- [Platform 10 Events 2] Visite commentée – Artistes femmes dans l’art contemporain
-- [Platform 10 Events 2] Ciels animés – Atelier de peinture japonaise
-- [Platform 10 Events 2] NUIT DES MUSEES
-- [Platform 10 Events 2] LIG x Plateforme 10 – Tournoi d’été
-- [Platform 10 Events 2] Visite commentée – Journées du Matrimoine
-- [Platform 10 Events 2] Table ronde – (Ré)apprendre à voir
-- [Platform 10 Events 2] Table ronde – Résister !
-- [Platform 10 Events 2] Visite commentée – Hannah Darabi. Why Don’t You Dance?
-- [Platform 10 Events 2] Les minus au musée – Et nous alors ?
+- [museum.ch Ausstellungen] [Prangins VD] Kolonial. Globale Verflechtungen der Schweiz - bis 11.10.
+- [museum.ch Ausstellungen] [Lausanne] Ella Maillart. Fotografische Erzählungen - bis 01.11.
+- [museum.ch Ausstellungen] [Cheseaux-Noréaz VD] Wer lebt da? Die Buche, ein Baum-Lebensraum - bis 01.11.
+- [museum.ch Ausstellungen] [Zürich] Symphonie der Gewürze – Aus Vietnam in die Welt - bis 13.09.
+- [museum.ch Ausstellungen] [Sierre VS] The Stars' Share - Fotografien von Gérard-Philippe Mabillard - bis 29.11.
+- [museum.ch Ausstellungen] [Thun] Das Rundbild von Marquard Wocher - bis 29.11.
+- [museum.ch Ausstellungen] [Thun] Susanne Keller. Hinterkammer des Auges - bis 29.11.
+- [Platform 10 Agenda] [Lausanne] Auf den Spuren von Edouard Chapallaz an der EPFL
+- [Platform 10 Agenda] [Lausanne] Begegnungen zum Buchpreis der Stadt Lausanne
+- [Platform 10 Agenda] [Lausanne] Begegnungen zum Prix du livre de la Ville de Lausanne
+- [Platform 10 Agenda] [Lausanne] Öffentliche Vernissage – Ted Joans. Black Flower - am Do 08.10.
+- [Platform 10 Agenda] [Lausanne] Vernissage | Edouard Chapallaz
+- [Platform 10 Agenda] [Lausanne] Kommentierte Führung – Künstlerinnen in der zeitgenössischen Kunst
+- [Platform 10 Agenda] [Lausanne] Animierte Himmel – Workshop für japanische Malerei
+- [Platform 10 Agenda] [Lausanne] Nacht der Museen - am Sa 26.09.
+- [Platform 10 Agenda] [Lausanne] LIG – Sommerturnier - bis 31.08.
+- [Platform 10 Agenda] [Lausanne] Kommentierte Führung – Tage des Matrimoine
+- [Platform 10 Agenda] [Lausanne] Podiumsdiskussion – Sehen (wieder)lernen
+- [Platform 10 Agenda] [Lausanne] Podiumsdiskussion – Widerstand leisten!
+- [Platform 10 Agenda] [Lausanne] Kommentierte Führung – Hannah Darabi. Why Don’t You Dance?
+- [Platform 10 Agenda] [Lausanne] Die Kleinen im Museum – Und wir?
