@@ -46,6 +46,7 @@ Ergebnis in diesem Repo ab, das über GitHub Pages ausgeliefert wird.
 | `MAX_LAUFZEIT_TAGE` | Ab welcher Restlaufzeit etwas als Dauerausstellung gilt. |
 | `AI_CHUNK_SIZE` | Einträge pro KI-Aufruf. **Nicht erhöhen** — siehe unten. |
 | `AI_BUDGET_MS` | Wann das Skript aufhört, die KI zu fragen. |
+| `SCRAPE_MAX_LINKS` | Höchstzahl Links, die eine scrape-Quelle beisteuern darf. |
 | `CACHE_VERSION` | Hochzählen, wenn sich das Cache-Format ändert. Erzwingt eine Neuanalyse. |
 
 ## Zwei Zeitgrenzen, die alles bestimmen

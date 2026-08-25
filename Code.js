@@ -38,6 +38,11 @@ const AI_MAX_TOKENS           = 16384;
 // dann eine Runde lang unformatiert im Feed und werden beim naechsten Lauf
 // nachgeholt, weil sie nicht im Cache landen.
 const AI_BUDGET_MS            = 4.5 * 60 * 1000;
+// Obergrenze fuer eine scrape-Quelle. Ein Agenda wie geneve.com listet ueber
+// 500 Veranstaltungen auf Monate voraus - das waeren allein zum Auslesen
+// 15 KI-Aufrufe und danach rund 100 Redaktionsbloecke. Lieber die naechsten
+// Termine sauber als alles gar nicht.
+const SCRAPE_MAX_LINKS        = 60;
 const CACHE_TTL_DAYS          = 30;
 const FETCH_DEADLINE          = 55;   // Sekunden, maximaler Apps Script Timeout
 
@@ -656,6 +661,12 @@ function fetchAndScrape(pageUrl, feedName, props, now, linkMuster) {
     log("[SCRAPE] " + feedName + ": kein Link passt auf '" + muster + "'. " +
         "Muster pruefen, oder die Seite rendert ihre Liste erst im Browser.");
     return [];
+  }
+  if (matches.length > SCRAPE_MAX_LINKS) {
+    log("[SCRAPE] " + feedName + ": " + matches.length + " Links gefunden, " +
+        "nehme die ersten " + SCRAPE_MAX_LINKS + ". Wenn die Seite nicht nach Datum " +
+        "sortiert ist, besser eine gefilterte URL eintragen.");
+    matches = matches.slice(0, SCRAPE_MAX_LINKS);
   }
 
   var seenHref = {}, blocks = [];
