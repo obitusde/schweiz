@@ -5,16 +5,8 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:51:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:00:55 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Burgdorf BE] Cantonale Berne Jura - bis 28.02.2027</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/cantonale-berne-jura</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/cantonale-berne-jura</guid>
-      <description><![CDATA[Regionale Kunstausstellung der Kantone Bern und Jura. Museum Franz Gertsch, Burgdorf.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Tue, 25 Aug 2026 12:13:12 GMT</pubDate>
-    </item>
     <item>
       <title>[Bern] Das volle Leben. Alte Meister von Duccio bis Liotard - bis 27.09.</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/das-volle-leben-alte-meister-von-duccio-bis-liotard</link>
@@ -52,22 +44,6 @@
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/brigitte-lustenberger-a-gaze-of-ones-own</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/brigitte-lustenberger-a-gaze-of-ones-own</guid>
       <description><![CDATA[Fotografische Arbeiten der Künstlerin Brigitte Lustenberger. Museum Franz Gertsch, Burgdorf.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Tue, 25 Aug 2026 12:13:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Bern] Verleihung des Tintenfass-Preises 2025 - bis 10.04.2027</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/verleihung-des-tintenfass-preises-2025</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/verleihung-des-tintenfass-preises-2025</guid>
-      <description><![CDATA[Schweizerischer Preis für Bildungsgeschichte im Schulmuseum Bern, Bern.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Tue, 25 Aug 2026 12:13:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Bern] Gezeichnet 2026 - bis 21.02.2027</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/gezeichnet-2026</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/gezeichnet-2026</guid>
-      <description><![CDATA[Die besten Schweizer Pressezeichnungen des Jahres im Museum für Kommunikation, Bern.]]></description>
       <category>Ausstellung</category>
       <pubDate>Tue, 25 Aug 2026 12:13:12 GMT</pubDate>
     </item>
@@ -400,14 +376,6 @@
       <pubDate>Fri, 21 Aug 2026 00:01:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] Öffentliche Vernissage – Ted Joans. Black Flower - am Do 08.10.</title>
-      <link>https://plateforme10.ch/events/vernissage-public-ted-joans-black-flower/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/vernissage-public-ted-joans-black-flower/</guid>
-      <description><![CDATA[Erste monografische Ausstellung des US-Künstlers Ted Joans, geprägt von Surrealismus, Jazz und Black Power. MCBA, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Thu, 13 Aug 2026 00:01:54 GMT</pubDate>
-    </item>
-    <item>
       <title>[Lausanne] Vernissage | Edouard Chapallaz</title>
       <link>https://plateforme10.ch/events/vernissage-edouard-chapallaz/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/vernissage-edouard-chapallaz/</guid>
@@ -430,14 +398,6 @@
       <description><![CDATA[Workshop zu traditionellen Maltechniken japanischer Animationen im Stil des Studio Ghibli mit Marcio Barra. Platform 10, Lausanne.]]></description>
       <category>Sonstiges</category>
       <pubDate>Tue, 07 Jul 2026 00:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Nacht der Museen - am Sa 26.09.</title>
-      <link>https://plateforme10.ch/events/nuit-des-musees-de-lausanne-et-pully/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/nuit-des-musees-de-lausanne-et-pully/</guid>
-      <description><![CDATA[25. Ausgabe der Nacht der Museen in Lausanne und Pully mit 29 teilnehmenden Institutionen von 14 Uhr bis Mitternacht. Verschiedene Museen, Lausanne.]]></description>
-      <category>Festival</category>
-      <pubDate>Sat, 13 Jun 2026 00:00:21 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] LIG – Sommerturnier - bis 31.08.</title>
