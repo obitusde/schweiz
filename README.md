@@ -86,10 +86,29 @@ beliebigen Webseite einen RSS-Feed macht. Der Aggregator liest davon
 2. Hier im Tab **Veranstaltungen**: Spalte A die `?quelle=…`-URL,
    Spalte B der Anzeigename, **Spalte F leer lassen**.
 
-`scrape` in Spalte F ist **kein** allgemeiner Modus: `fetchAndScrape()` sucht
-Links mit `event-details` im Pfad, und das trifft nur museen-bern.ch. Für jede
-andere Seite fände es null Links. Wer `scrape` allgemein nutzbar machen will,
-muss das Link-Muster konfigurierbar machen (sinnvollerweise als weitere Spalte).
+### Alternative: direkt scrapen
+
+Statt über den Watcher kann eine Seite auch direkt geholt und per KI
+ausgewertet werden — dann steht in Spalte A die echte Seiten-URL:
+
+| Spalte | Inhalt |
+|---|---|
+| A | URL der Übersichtsseite |
+| B | Anzeigename |
+| F | `scrape` |
+| G | Link-Muster: Teilstring (`event-details`) oder `/regex/`. Leer = `event-details` |
+
+Das Muster entscheidet, welche Links auf der Seite Veranstaltungen sind. Es
+findet sich, indem man die Seite öffnet und die URL eines einzelnen Events mit
+der einer Übersichts- oder Navigationsseite vergleicht — gesucht ist das, was
+nur die Event-Links haben.
+
+Wann welcher Weg? Der Watcher ist billiger (kein KI-Aufruf) und liefert
+saubere Titel, wenn die Seite ordentliche Linktexte hat. Scrape kostet einen
+KI-Aufruf je 40 Einträge (Ergebnis 6 h zwischengespeichert), kommt dafür auch
+mit nichtssagenden Linktexten zurecht, weil das Modell den umgebenden Text
+liest. Beide scheitern an Seiten, die ihre Liste erst im Browser aufbauen —
+dann steht im Protokoll `kein Link passt auf ...`.
 
 ## Entwicklung
 

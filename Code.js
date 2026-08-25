@@ -585,11 +585,11 @@ function safeParseJsonArray(text) {
   try { return JSON.parse(body.substring(0, lastObj + 1) + "]"); } catch(e) { return null; }
 }
 
-function fetchAndScrape(pageUrl, feedName, props, now) {
+function fetchAndScrape(pageUrl, feedName, props, now, linkMuster) {
   // Apps-Script-Cache (6h): Scraping-Ergebnis nicht bei jedem Lauf neu holen.
   // Museen Bern aendert sich nicht stuendlich - das spart taeglich ~2 KI-Calls.
   var scriptCache = CacheService.getScriptCache();
-  var cacheKey    = "scrape_" + feedName.replace(/\s/g, "_");
+  var cacheKey    = "scrape_" + feedName.replace(/\s/g, "_") + "_" + (linkMuster || "");
   var cached      = scriptCache.get(cacheKey);
   if (cached) {
     try {
@@ -630,9 +630,33 @@ function fetchAndScrape(pageUrl, feedName, props, now) {
   // Link bis zum naechsten Link. Vorher war das der Fehler - ueberlappende Fenster
   // sahen fuer das Modell wie 40x derselbe Text aus, darum gab es nur 1-3 zurueck.
   // HTML-Tags werden entfernt, das Modell bekommt sauberen Text pro Eintrag.
+  // Welche Links sind Veranstaltungen? Kommt aus Spalte G der Tabelle, als
+  // Teilstring ("event-details") oder als /regex/. Ohne Angabe bleibt es bei
+  // "event-details", damit die Bern-Zeile ohne Spalte G weiterlaeuft.
+  var muster = String(linkMuster || "").trim() || "event-details";
+  var linkPruefung;
+  if (muster.length > 2 && muster.charAt(0) === "/" && muster.charAt(muster.length - 1) === "/") {
+    try {
+      linkPruefung = new RegExp(muster.substring(1, muster.length - 1), "i");
+    } catch(e) {
+      log("[SCRAPE] Ungueltiges Muster '" + muster + "' bei " + feedName + ": " + e.toString());
+      return [];
+    }
+  } else {
+    var wortlaut = muster.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    linkPruefung = new RegExp(wortlaut, "i");
+  }
+
   var matches = [];
-  var re = /<a[^>]*href=["']([^"']*event-details[^"']*)["'][^>]*>/gi, mm;
-  while ((mm = re.exec(full)) !== null) matches.push({ href: mm[1], idx: mm.index });
+  var re = /<a[^>]*href=["']([^"']+)["'][^>]*>/gi, mm;
+  while ((mm = re.exec(full)) !== null) {
+    if (linkPruefung.test(mm[1])) matches.push({ href: mm[1], idx: mm.index });
+  }
+  if (matches.length === 0) {
+    log("[SCRAPE] " + feedName + ": kein Link passt auf '" + muster + "'. " +
+        "Muster pruefen, oder die Seite rendert ihre Liste erst im Browser.");
+    return [];
+  }
 
   var seenHref = {}, blocks = [];
   for (var i = 0; i < matches.length; i++) {
@@ -661,18 +685,18 @@ function fetchAndScrape(pageUrl, feedName, props, now) {
     var htmlChunk = chunk.join("\n----\n");
 
     var prompt =
-      "Unten stehen Eintraege einer Museums-Ausstellungsseite, getrennt durch '----'. " +
+      "Unten stehen Eintraege einer Veranstaltungsseite, getrennt durch '----'. " +
       "Jeder Eintrag beginnt mit 'URL:' und dann 'TEXT:' (der Text genau dieses einen Eintrags).\n" +
-      "Gib ein JSON-Array zurueck, mit einem Objekt pro Eintrag, der einen echten Ausstellungstitel hat. " +
+      "Gib ein JSON-Array zurueck, mit einem Objekt pro Eintrag, der einen echten Veranstaltungstitel hat. " +
       "Felder pro Objekt:\n" +
       '- "url": exakt die Zeichenkette nach "URL:" dieses Eintrags\n' +
-      '- "title": Ausstellungstitel aus dem TEXT\n' +
-      '- "museum": Institution falls erkennbar, sonst ""\n' +
+      '- "title": Titel der Veranstaltung aus dem TEXT\n' +
+      '- "museum": Veranstaltungsort oder Institution falls erkennbar, sonst ""\n' +
       '- "dateRange": Laufzeit oder Datum falls vorhanden, sonst ""\n' +
       '- "description": max. 200 Zeichen aus dem TEXT, sonst ""\n' +
       "Jeder Eintrag ist eigenstaendig - fasse NICHTS zusammen, dedupliziere nicht, lass keinen " +
       "Eintrag mit Titel aus. Reine Navigations-/Kategorie-Eintraege (z.B. 'Atelier', 'Thementouren', " +
-      "'Game') ohne echten Ausstellungstitel darfst du weglassen.\n\nEINTRAEGE:\n" + htmlChunk;
+      "'Game') ohne echten Veranstaltungstitel darfst du weglassen.\n\nEINTRAEGE:\n" + htmlChunk;
 
     var rawText;
     try {
@@ -720,7 +744,7 @@ function fetchAndScrape(pageUrl, feedName, props, now) {
     scriptCache.put(cacheKey, JSON.stringify(items), 21600);
   } catch(e) { /* Cache voll - kein Problem, naechster Lauf holt neu */ }
 
-  log("[SCRAPE] " + feedName + ": " + items.length + " Ausstellungen extrahiert.");
+  log("[SCRAPE] " + feedName + ": " + items.length + " Veranstaltungen extrahiert (Muster '" + muster + "').");
   return items;
 }
 
@@ -750,7 +774,8 @@ function updateRSSFeed() {
   // --- Tabelle einlesen ---
   var sheet     = SpreadsheetApp.openById(SPREADSHEET_ID).getSheetByName(SHEET_NAME);
   var data      = sheet.getDataRange().getValues();
-  var feedUrls  = [], urlToNameMap = {}, urlToTypeMap = {}, excludeWords = [], aiExclusions = [];
+  var feedUrls  = [], urlToNameMap = {}, urlToTypeMap = {}, urlToMusterMap = {};
+  var excludeWords = [], aiExclusions = [];
   var targetUrl = data[0] && data[0][4] ? data[0][4].toString().trim() : "";
 
   for (var i = 0; i < data.length; i++) {
@@ -761,6 +786,8 @@ function updateRSSFeed() {
         urlToNameMap[u] = data[i][1] ? data[i][1].toString().trim() : "News";
         // Spalte F (Index 5): "scrape" = Webseite scrapen, sonst normales RSS
         urlToTypeMap[u] = data[i][5] ? data[i][5].toString().trim().toLowerCase() : "rss";
+        // Spalte G (Index 6): Link-Muster fuer scrape-Quellen
+        urlToMusterMap[u] = data[i][6] ? data[i][6].toString().trim() : "";
       }
     }
     if (data[i][2]) excludeWords.push(data[i][2].toString().toLowerCase().trim());
@@ -787,7 +814,7 @@ function updateRSSFeed() {
     // --- SCRAPE-Quellen gesondert behandeln (Spalte F = "scrape") ---
     if ((urlToTypeMap[feedUrl] || "rss") === "scrape") {
       try {
-        var scraped = fetchAndScrape(feedUrl, feedName, props, now);
+        var scraped = fetchAndScrape(feedUrl, feedName, props, now, urlToMusterMap[feedUrl]);
         scraped.forEach(function(item) {
           if (!item.link || seenLinks[item.link]) return;
 
