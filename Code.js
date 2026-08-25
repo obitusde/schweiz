@@ -27,8 +27,17 @@ const OPENROUTER_MODEL        = "google/gemini-3.1-flash-lite"; // GA Mai 2026, 
 const GITHUB_API_BASE         = "https://api.github.com/repos/";
 const SPREADSHEET_ID          = "1IoqQHHzIOOBniYcOYGfYoITzk96K-_ommHSl8m0C4HA";
 const SHEET_NAME              = "Veranstaltungen";
-const AI_CHUNK_SIZE           = 12;   // kleinere Bloecke = kuerzere Antworten = weniger Abschneiden
+// UrlFetchApp kappt einen Abruf nach rund 60 Sekunden und liefert dann den
+// bis dahin empfangenen Text zurueck - nicht etwa einen Fehler. Deshalb ist
+// die Blockgroesse die entscheidende Stellschraube: 12 Eintraege brauchten
+// ~58 s und wurden reihenweise abgeschnitten, 6 bleiben klar darunter.
+const AI_CHUNK_SIZE           = 6;
 const AI_MAX_TOKENS           = 16384;
+// Apps Script beendet eine Ausfuehrung nach 6 Minuten. Kurz davor hoert das
+// Skript von sich aus auf, die KI zu fragen: die uebrigen Eintraege stehen
+// dann eine Runde lang unformatiert im Feed und werden beim naechsten Lauf
+// nachgeholt, weil sie nicht im Cache landen.
+const AI_BUDGET_MS            = 4.5 * 60 * 1000;
 const CACHE_TTL_DAYS          = 30;
 const FETCH_DEADLINE          = 55;   // Sekunden, maximaler Apps Script Timeout
 
@@ -890,6 +899,13 @@ function updateRSSFeed() {
         return { id: li, title: item.title, description: item.description.substring(0, 3000), feed: item.feedName };
       });
 
+      if (Date.now() - nowMs > AI_BUDGET_MS) {
+        var offen = itemsToAnalyze.length - chunkStart;
+        Logger.log("[KI GESTOPPT] Zeitbudget erreicht, " + offen + " Eintraege bleiben fuer den naechsten Lauf.");
+        aiLog.push("- Zeitbudget erreicht: " + offen + " Eintraege unbearbeitet, werden beim naechsten Lauf nachgeholt.");
+        break;
+      }
+
       log("[KI] Block " + chunkStart + "-" + (chunkEnd - 1) + " (" + chunkItems.length + " Artikel)");
 
       var exclusionBlock = aiExclusions.length > 0
@@ -909,8 +925,10 @@ function updateRSSFeed() {
       '- "start": erster Tag als TT.MM.JJJJ, sonst "".\n' +
       '- "ende": letzter Tag als TT.MM.JJJJ. Eintaegige Veranstaltung: ende = start. Unbekannt: "".\n' +
       '- "art": genau eines von Ausstellung, Konzert, Festival, Fuehrung, Lesung, Theater, Kino, Markt, Sport, Familie, Vortrag, Sonstiges.\n' +
-      '- "description": max. 400 Zeichen Deutsch: Was/Thema/Highlight, am Ende der Veranstaltungsort ' +
+      '- "description": max. 220 Zeichen Deutsch: Was/Thema/Highlight, am Ende der Veranstaltungsort ' +
       "(vollstaendiger Hausname, Stadt). Kein Fuelltext.\n\n" +
+      "FORMAT: Antworte als EINE Zeile reines JSON, ohne Zeilenumbrueche, ohne Einrueckung, ohne Markdown. " +
+      "Jedes Zeichen kostet Antwortzeit, und eine zu lange Antwort wird abgeschnitten.\n\n" +
       "DATUM: Jahreszahlen im Titel (Anno 1811, Sommer 1968) sind KEINE Termine. Steht nur ein einziges " +
       "Datum, ist die Veranstaltung eintaegig - dann start = ende. Erfinde nie ein Datum, lieber \"\".\n\n" +
       "ENTFERNEN nur wenn:\n" +
