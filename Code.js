@@ -33,8 +33,11 @@ const FETCH_DEADLINE          = 55;   // Sekunden, maximaler Apps Script Timeout
 
 // --- Stellschrauben fuer die Auswahl -----------------------------------------
 // Reisezeit ab Morges mit OeV in Minuten. 120 = alles, was in zwei Stunden
-// erreichbar ist. Auf 150 erhoehen, um Zuerich/Basel/Luzern wieder aufzunehmen.
+// erreichbar ist.
 const MAX_REISEZEIT_MIN   = 120;
+// Orte, die trotz laengerer Anreise drinbleiben, weil dort trotzdem hingefahren
+// wird. Steht ein Ort hier, spielt seine Reisezeit keine Rolle.
+const AUSNAHME_ORTE = { "zürich": 1, "zurich": 1, "bern": 1 };
 // Laeuft eine Ausstellung laenger als das, ist es faktisch eine Dauerausstellung.
 const MAX_LAUFZEIT_TAGE   = 365;
 // "bis 31.12." ist der uebliche Platzhalter fuer "unbefristet" - ab dieser
@@ -281,9 +284,14 @@ function reisezeit(ort, kanton) {
 // UND ueber gecachte Eintraege, damit nichts unbemerkt im Feed altert.
 // Rueckgabe: null = behalten, sonst der Grund als Text fuers Protokoll.
 function pruefeMeta(meta, heute) {
-  var min = reisezeit(meta.ort, meta.kanton);
-  if (min === -1) return "Ort unbekannt (" + (meta.ort || "?") + "/" + (meta.kanton || "?") + ")";
-  if (min > MAX_REISEZEIT_MIN) return "Zu weit weg: " + meta.ort + " ~" + min + " min ab Morges";
+  var ausnahme = AUSNAHME_ORTE[String(meta.ort || "").trim().toLowerCase()];
+  var min      = reisezeit(meta.ort, meta.kanton);
+  if (min === -1 && !ausnahme) {
+    return "Ort unbekannt (" + (meta.ort || "?") + "/" + (meta.kanton || "?") + ")";
+  }
+  if (!ausnahme && min > MAX_REISEZEIT_MIN) {
+    return "Zu weit weg: " + meta.ort + " ~" + min + " min ab Morges";
+  }
 
   var start = parseDatum(meta.start);
   var ende  = parseDatum(meta.ende);
@@ -977,7 +985,7 @@ function updateRSSFeed() {
   var logText = [
     "=== VERANSTALTUNGEN-FEED PROTOKOLL ===",
     "Start: " + now.toLocaleString("de-CH"),
-    "Regeln: max. " + MAX_REISEZEIT_MIN + " min ab Morges, max. " + MAX_LAUFZEIT_TAGE + " Tage Laufzeit",
+    "Regeln: max. " + MAX_REISEZEIT_MIN + " min ab Morges (Ausnahmen: " + Object.keys(AUSNAHME_ORTE).join(", ") + "), max. " + MAX_LAUFZEIT_TAGE + " Tage Laufzeit",
     "",
     "Feeds:\n" + feedUrls.map(function(u) { return "- " + u; }).join("\n"),
     "",
