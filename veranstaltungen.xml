@@ -5,7 +5,7 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:00:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>[Morges] Die Abenteuer von Gouttelette, auf der Suche nach der verlorenen Zeit - bis 06.09.</title>
@@ -48,45 +48,51 @@
       <pubDate>Sat, 22 Aug 2026 22:49:19 GMT</pubDate>
     </item>
     <item>
-      <title>Alfredo Jaar Inferno Paradiso</title>
+      <title>[Lausanne] Alfredo Jaar: Inferno Paradiso</title>
       <link>https://elysee.ch/expositions/alfredo-jaar-inferno-paradiso/</link>
       <guid isPermaLink="false">https://elysee.ch/expositions/alfredo-jaar-inferno-paradiso/</guid>
-      <description />
+      <description><![CDATA[Retrospektive des chilenischen Künstlers Alfredo Jaar, die sich mit politischen und sozialen Themen auseinandersetzt. MCBA, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Et Nous Alors</title>
+      <title>[Lausanne] Und wir?</title>
       <link>https://mudac.ch/expositions/et-nous-alors/</link>
       <guid isPermaLink="false">https://mudac.ch/expositions/et-nous-alors/</guid>
-      <description />
+      <description><![CDATA[Ausstellung über die Beziehung zwischen Mensch und Umwelt im Kontext von Design und Architektur. mudac, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Otobong Nkanga</title>
+      <title>[Lausanne] Otobong Nkanga</title>
       <link>https://www.mcba.ch/expositions/otobong-nkanga/</link>
       <guid isPermaLink="false">https://www.mcba.ch/expositions/otobong-nkanga/</guid>
-      <description />
+      <description><![CDATA[Werke der nigerianischen Künstlerin Otobong Nkanga, die Verbindungen zwischen Land, Körper und Geschichte erforschen. MCBA, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Isao Takahata</title>
+      <title>[Lausanne] Isao Takahata</title>
       <link>https://mudac.ch/expositions/isao-takahata/</link>
       <guid isPermaLink="false">https://mudac.ch/expositions/isao-takahata/</guid>
-      <description />
+      <description><![CDATA[Retrospektive des Mitbegründers von Studio Ghibli, Isao Takahata, und sein Einfluss auf die Welt der Animation. Photo Elysée, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Hannah Darabi Why Dont You Dance</title>
+      <title>[Lausanne] Hannah Darabi: Warum tanzt du nicht?</title>
       <link>https://elysee.ch/expositions/hannah-darabi-why-dont-you-dance/</link>
       <guid isPermaLink="false">https://elysee.ch/expositions/hannah-darabi-why-dont-you-dance/</guid>
-      <description />
+      <description><![CDATA[Die iranische Künstlerin Hannah Darabi kombiniert Fotografie und Archivmaterial zu einer Erzählung über ihr Heimatland. Photo Elysée, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Ella Maillart Recits Photographiques</title>
+      <title>[Lausanne] Ella Maillart: Fotografische Erzählungen</title>
       <link>https://elysee.ch/expositions/ella-maillart-recits-photographiques/</link>
       <guid isPermaLink="false">https://elysee.ch/expositions/ella-maillart-recits-photographiques/</guid>
-      <description />
+      <description><![CDATA[Fotografische Reiseberichte der Schweizer Entdeckerin Ella Maillart aus Zentralasien und Afghanistan. Photo Elysée, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
@@ -186,94 +192,51 @@
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Colibris Festival 2026</title>
-      <link>https://www.morges.ch/agenda/colibris-festival-2026-213183</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/colibris-festival-2026-213183</guid>
-      <description><![CDATA[Culture - 23 août 2026]]></description>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hommage à Armel Guerne</title>
+      <title>[Morges] Hommage an Armel Guerne - am Do 27.08.</title>
       <link>https://www.morges.ch/agenda/hommage-a-armel-guerne-213513</link>
       <guid isPermaLink="false">https://www.morges.ch/agenda/hommage-a-armel-guerne-213513</guid>
-      <description><![CDATA[Culture - 27 août 2026]]></description>
+      <description><![CDATA[Gedenkveranstaltung zu Ehren des Schriftstellers und Übersetzers Armel Guerne. Morges.]]></description>
+      <category>Sonstiges</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Paillote Festival 2026</title>
+      <title>[Morges] Paillote Festival 2026 - 27.-29.08.</title>
       <link>https://www.morges.ch/agenda/paillote-festival-2026-213263</link>
       <guid isPermaLink="false">https://www.morges.ch/agenda/paillote-festival-2026-213263</guid>
-      <description><![CDATA[Culture - 27 au 29 août 2026]]></description>
+      <description><![CDATA[Open-Air-Musikfestival am Ufer des Genfersees. Parc de l'Indépendance, Morges.]]></description>
+      <category>Festival</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Château de Morges : Conférence - Le rôle de la Suisse dans le Vercors d'après-guerre</title>
+      <title>[Morges] Die Rolle der Schweiz im Vercors der Nachkriegszeit - am Do 27.08.</title>
       <link>https://www.morges.ch/agenda/chateau-de-morges--conference--le-role-de-la-suisse-dans-le-vercors-d-apres-guerre-212703</link>
       <guid isPermaLink="false">https://www.morges.ch/agenda/chateau-de-morges--conference--le-role-de-la-suisse-dans-le-vercors-d-apres-guerre-212703</guid>
-      <description><![CDATA[Culture - 27 août 2026]]></description>
+      <description><![CDATA[Historischer Vortrag über die Schweizer Beteiligung in der Region Vercors nach dem Krieg. Château de Morges, Morges.]]></description>
+      <category>Vortrag</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Kolonial. Globale Verflechtungen der Schweiz</title>
+      <title>[Prangins VD] Kolonial. Globale Verflechtungen der Schweiz - bis 11.10.</title>
       <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/kolonial-globale-verflechtungen-der-schweiz-7826.html</link>
       <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/kolonial-globale-verflechtungen-der-schweiz-7826.html</guid>
-      <description><![CDATA[29. März 2026 - 11. Oktober 2026 - Château de Prangins - Musée national suisse - Prangins]]></description>
+      <description><![CDATA[Die Ausstellung beleuchtet die kolonialen Verstrickungen der Schweiz und deren Auswirkungen. Château de Prangins, Prangins.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Ella Maillart. Fotografische Erzählungen</title>
+      <title>[Lausanne] Ella Maillart. Fotografische Erzählungen - bis 01.11.</title>
       <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/ella-maillart-fotografische-erzaehlungen-7831.html</link>
       <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/ella-maillart-fotografische-erzaehlungen-7831.html</guid>
-      <description><![CDATA[06. März 2026 - 01. November 2026 - Photo Elysée - Lausanne]]></description>
+      <description><![CDATA[Retrospektive der Fotografin und Reisenden Ella Maillart mit Fokus auf ihre visuellen Berichte. Photo Elysée, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Die Sammlung</title>
-      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/die-sammlung-3055.html</link>
-      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/die-sammlung-3055.html</guid>
-      <description><![CDATA[01. Juni 2023 - 31. Dezember 2029 - Landesmuseum Zürich - Zürich]]></description>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Seidenband. Kapital, Kunst &amp; Krise</title>
-      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/seidenband-kapital-kunst-krise-3060.html</link>
-      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/seidenband-kapital-kunst-krise-3060.html</guid>
-      <description><![CDATA[01. Januar 2011 - 06. April 2031 - Museum.BL - Liestal]]></description>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wildes Baselbiet. Tieren und Pflanzen auf der Spur</title>
-      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/wildes-baselbiet-tieren-und-pflanzen-auf-der-spur-3061.html</link>
-      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/wildes-baselbiet-tieren-und-pflanzen-auf-der-spur-3061.html</guid>
-      <description><![CDATA[14. März 2014 - 17. März 2030 - Museum.BL - Liestal]]></description>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Caline Aoun Thresholds of Impermanence</title>
-      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/caline-aoun-thresholds-of-impermanence-7868.html</link>
-      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/caline-aoun-thresholds-of-impermanence-7868.html</guid>
-      <description><![CDATA[03. Mai 2026 - 25. Oktober 2026 - Kunstmuseum Appenzell - Appenzell]]></description>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Naturjuwel Haberfeld</title>
-      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/naturjuwel-haberfeld-7047.html</link>
-      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/naturjuwel-haberfeld-7047.html</guid>
-      <description><![CDATA[26. September 2025 - 30. August 2026 - Liechtensteinisches LandesMuseum - Vaduz]]></description>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Basel auf dem Teller – Kulinarische Stadtgeschichte(n)</title>
-      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/basel-auf-dem-teller-n-kulinarische-stadtgeschichte(n)-7064.html</link>
-      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/basel-auf-dem-teller-n-kulinarische-stadtgeschichte(n)-7064.html</guid>
-      <description><![CDATA[23. Mai 2026 - 21. März 2027 - Museum Kleines Klingental - Basel]]></description>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exposition - Qui vit là ? Le hêtre, un arbre-habitat</title>
+      <title>[Cheseaux-Noréaz VD] Wer lebt dort? Die Buche, ein Baum-Habitat - bis 01.11.</title>
       <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/exposition-qui-vit-la-le-hetre-un-arbre-habitat-7875.html</link>
       <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/exposition-qui-vit-la-le-hetre-un-arbre-habitat-7875.html</guid>
-      <description><![CDATA[28. März 2026 - 01. November 2026 - Centre Pro Natura de Champ-Pittet - Cheseaux-Noréaz]]></description>
+      <description><![CDATA[Entdeckung der Artenvielfalt rund um die Buche als Lebensraum. Centre Pro Natura de Champ-Pittet, Cheseaux-Noréaz.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
@@ -301,38 +264,43 @@
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Susanne Keller. Hinterkammer des Auges</title>
+      <title>[Thun] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
       <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/susanne-keller-hinterkammer-des-auges-7879.html</link>
       <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/susanne-keller-hinterkammer-des-auges-7879.html</guid>
-      <description><![CDATA[01. März 2026 - 29. November 2026 - Kunstmuseum Thun - Thun]]></description>
+      <description><![CDATA[Werke von Susanne Keller in der Ausstellung Hinterkammer des Auges. Kunstmuseum Thun, Thun.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>Sur les traces d’Edouard Chapallaz à l’EPFL</title>
+      <title>[Ecublens VD] Auf den Spuren von Edouard Chapallaz an der EPFL</title>
       <link>https://plateforme10.ch/events/sur-les-traces-dedouard-chapallaz-a-lepfl/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/sur-les-traces-dedouard-chapallaz-a-lepfl/</guid>
-      <description><![CDATA[A l’occasion de son exposition, le mudac a le plaisir de vous convier à une visite exclusive de l’œuvre Strate réalisée par Edouard Chapallaz à l’EPFL. Edouard Chapallaz a réalisé Strate en 1980 répondant à une commande artistique liée à la construction des bâtiments de l’EPFL. La visite guidée, de cette œuvre magistrale évoquera le […]]]></description>
+      <description><![CDATA[Exklusive Besichtigung des Werks Strate von Edouard Chapallaz auf dem Campus. EPFL, Ecublens.]]></description>
+      <category>Fuehrung</category>
       <pubDate>Fri, 21 Aug 2026 00:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>Les Rencontres du Prix du livre de la Ville de Lausanne</title>
+      <title>[Lausanne] Begegnungen zum Buchpreis der Stadt Lausanne</title>
       <link>https://plateforme10.ch/events/les-rencontres-du-prix-du-livre-de-la-ville-de-lausanne-5/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/les-rencontres-du-prix-du-livre-de-la-ville-de-lausanne-5/</guid>
-      <description><![CDATA[Rendez-vous avec Anne Pitteloud – « Fille de » Pendant 5 mois, le Prix du livre de la Ville de Lausanne embarque les lectrices et les lecteurs dans un grand voyage romanesque. Rencontrez les 5 autrices et auteurs de la Sélection lors des grands entretiens et découvrez leur univers littéraire. Toutes les rencontres sont suivies d’une séance […]]]></description>
+      <description><![CDATA[Treffen mit Anne Pitteloud im Rahmen der Auswahl zum Buchpreis der Stadt Lausanne. Platform 10, Lausanne.]]></description>
+      <category>Lesung</category>
       <pubDate>Fri, 21 Aug 2026 00:01:38 GMT</pubDate>
     </item>
     <item>
-      <title>Vernissage public – Ted Joans. Black Flower</title>
+      <title>[Lausanne] Öffentliche Vernissage – Ted Joans. Black Flower - am Do 08.10.</title>
       <link>https://plateforme10.ch/events/vernissage-public-ted-joans-black-flower/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/vernissage-public-ted-joans-black-flower/</guid>
-      <description><![CDATA[Vernissage de l’exposition « Ted Joans. Black Flower » Jeudi 8 octobre 2026, 18h30 Le MCBA présente la première exposition monographique consacrée à l’artiste étatsunien Ted Joans (1928–2003). Auteur d’une œuvre inclassable, nourrie par le surréalisme, le jazz, le mouvement Black Power, le panafricanisme et les échanges culturels transatlantiques, Joans occupe une place singulière dans l’histoi...]]></description>
+      <description><![CDATA[Erste monografische Ausstellung des US-Künstlers Ted Joans, beeinflusst von Jazz und Surrealismus. MCBA, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Thu, 13 Aug 2026 00:01:54 GMT</pubDate>
     </item>
     <item>
-      <title>Vernissage | Edouard Chapallaz</title>
+      <title>[Lausanne] Vernissage | Edouard Chapallaz</title>
       <link>https://plateforme10.ch/events/vernissage-edouard-chapallaz/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/vernissage-edouard-chapallaz/</guid>
-      <description><![CDATA[Le mudac a le plaisir de vous convier à sa nouvelle exposition consacrée au céramiste suisse Edouard Chapallaz, l’une des figures marquantes de la céramique suisse et européenne du 20ème siècle. À travers un ensemble exceptionnel d’œuvres de la collection du musée, cette exposition invite à redécouvrir un créateur dont la recherche incessante a profondément […]]]></description>
+      <description><![CDATA[Eröffnung der Ausstellung über den Schweizer Keramiker Edouard Chapallaz mit Werken aus der Museumssammlung. mudac, Lausanne.]]></description>
+      <category>Ausstellung</category>
       <pubDate>Sat, 08 Aug 2026 00:01:40 GMT</pubDate>
     </item>
     <item>
@@ -376,31 +344,35 @@
       <pubDate>Sat, 23 May 2026 00:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>Table ronde – (Ré)apprendre à voir</title>
+      <title>[Lausanne] Podiumsdiskussion – (Wieder) sehen lernen</title>
       <link>https://plateforme10.ch/events/table-ronde-reapprendre-a-voir/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/table-ronde-reapprendre-a-voir/</guid>
-      <description><![CDATA[Photo Elysée propose IMAGES SENSIBLES, un cycle de tables rondes pour interroger notre rapport aux images, à la mémoire et au monde. Cette soirée d’échanges permettra d’explorer l’importance de l’analyse d’images comme apprentissage indispensable afin de comprendre, interroger, contextualiser les images dans un environnement visuel saturé. En collaboration avec L’éprouvette, Laboratoire / Scien...]]></description>
+      <description><![CDATA[Diskussion über die Bedeutung der Bildanalyse zur Hinterfragung unseres Verhältnisses zu Bildern im Rahmen des Zyklus IMAGES SENSIBLES. Photo Elysée, Lausanne.]]></description>
+      <category>Vortrag</category>
       <pubDate>Sat, 23 May 2026 00:00:38 GMT</pubDate>
     </item>
     <item>
-      <title>Table ronde – Résister !</title>
+      <title>[Lausanne] Podiumsdiskussion – Widerstand leisten!</title>
       <link>https://plateforme10.ch/events/table-ronde-resister/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/table-ronde-resister/</guid>
-      <description><![CDATA[Comment l’image peut‑elle résister, protéger et rassembler ? Qu’est‑ce qui fait d’une photographie un acte de protestation ? Intervenant·e·s : Hannah Darabi : Lauréate du Prix Elysée 2025, Hannah Darabi (1981) est une artiste née à Téhéran, aujourd’hui établie à Paris. Son exposition « Why Don’t You Dance »? explore à travers photographies, vidéos et archives la […]]]></description>
+      <description><![CDATA[Diskussion über Fotografie als Akt des Protests und Widerstands mit Hannah Darabi im Rahmen des Prix Elysée. Photo Elysée, Lausanne.]]></description>
+      <category>Vortrag</category>
       <pubDate>Sat, 23 May 2026 00:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>Visite commentée – Hannah Darabi. Why Don’t You Dance?</title>
+      <title>[Lausanne] Führung – Hannah Darabi. Why Don’t You Dance?</title>
       <link>https://plateforme10.ch/events/visite-commentee-hannah-darabi-why-dont-you-dance/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-hannah-darabi-why-dont-you-dance/</guid>
-      <description><![CDATA[Des visites guidées sont proposées régulièrement et vous permettent de découvrir nos expositions à travers un parcours ciblé. L’occasion d’échanger autour des œuvres présentées et de poser un regard curieux sur la photographie. Infos pratiques : • Ouvert à toutes et tous, dès 12 ans• Durée : 1h• Gratuit avec le billet d’entrée• Sur inscription• Toutes […]]]></description>
+      <description><![CDATA[Regelmässige Führungen durch die Ausstellung von Hannah Darabi für einen vertieften Blick auf die Fotografie. Photo Elysée, Lausanne.]]></description>
+      <category>Fuehrung</category>
       <pubDate>Sat, 23 May 2026 00:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>Les minus au musée – Et nous alors ?</title>
+      <title>[Lausanne] Die Kleinen im Museum – Und wir?</title>
       <link>https://plateforme10.ch/events/les-minus-au-musee/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/les-minus-au-musee/</guid>
-      <description><![CDATA[Dans le cadre de l’exposition « Et nous alors ? Les animaux en verre de la collection Pierre Rosenberg », le mudac propose des formats d’exploration spécialement conçus pour les petit·e·s de 3 à 5 ans afin de mieux expérimenter l’exposition. En passant par différentes techniques, les enfan Les enfants doivent être accompagné·e·sts s’éveilleront aux multiples sensations […]]]></description>
+      <description><![CDATA[Entdeckungsformat für Kinder von 3 bis 5 Jahren zur Ausstellung der Glastiersammlung von Pierre Rosenberg. In Begleitung Erwachsener. mudac, Lausanne.]]></description>
+      <category>Familie</category>
       <pubDate>Thu, 02 Apr 2026 00:01:53 GMT</pubDate>
     </item>
   </channel>
