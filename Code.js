@@ -68,7 +68,7 @@ const VORSCHAU_TAGE       = 28;
 // Kurze Spannen bis zu so vielen Tagen werden als "27.-29.08." geschrieben.
 const SPANNE_MAX_TAGE     = 7;
 // Aendert sich das Cache-Format, muessen alte Eintraege einmal neu durch die KI.
-const CACHE_VERSION       = 4;
+const CACHE_VERSION       = 5;
 
 const MS_PRO_TAG = 24 * 60 * 60 * 1000;
 const WOCHENTAGE = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
@@ -1018,8 +1018,12 @@ function updateRSSFeed() {
       "Aus Titel, Beschreibung oder Feed-Name; bekannte Haeuser (mudac, Kunsthalle Bern, Landesmuseum) per Weltwissen zuordnen.\n" +
       '- "kanton": Kantonskuerzel des Orts (VD, GE, VS, NE, FR, BE, ZH, BS, BL, LU, SG, AI, AR, GR, TI, ...), ' +
       'fuer Liechtenstein "FL". Immer ausfuellen.\n' +
-      '- "titel": Titel auf DEUTSCH. Fremdsprachige Titel uebersetzen. NICHT uebersetzen: Eigennamen ' +
-      "(Festival- und Bandnamen, Personennamen, Werktitel, Hausnamen). Kein Ort und kein Datum im Titel.\n" +
+      '- "titel": Titel auf DEUTSCH - IMMER. Franzoesische, englische und italienische Titel MUSST du ' +
+      "uebersetzen, auch Ausstellungstitel, auch wenn sie gut klingen. 'Les aventures de Gouttelette' wird " +
+      "'Die Abenteuer von Gouttelette', 'Et nous alors?' wird 'Und wir?'. Kein halb uebersetzter Titel. " +
+      "NICHT uebersetzt werden ausschliesslich Eigennamen: Personennamen (Alfredo Jaar, Ted Joans), " +
+      "Festival- und Bandnamen (Paillote Festival, Black Colors), Hausnamen (Musee Alexis Forel) und " +
+      "Werktitel, die als Zitat stehen. Kein Ort und kein Datum im Titel.\n" +
       '- "start": erster Tag als TT.MM.JJJJ, sonst "".\n' +
       '- "ende": letzter Tag als TT.MM.JJJJ. Eintaegige Veranstaltung: ende = start. Unbekannt: "".\n' +
       '- "art": genau eines von Ausstellung, Konzert, Festival, Fuehrung, Lesung, Theater, Kino, Markt, Sport, Familie, Vortrag, Sonstiges.\n' +
