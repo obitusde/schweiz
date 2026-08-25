@@ -43,6 +43,7 @@ Ergebnis in diesem Repo ab, das über GitHub Pages ausgeliefert wird.
 | `AUSNAHME_ORTE` | Orte, die trotz längerer Anreise drinbleiben. Zurzeit Zürich und Bern. |
 | `REISEZEIT_ORT` / `REISEZEIT_KANTON` | Die Reisezeit-Tabelle. Unbekannter Ort → Kanton entscheidet. |
 | `GROSSE_ORTE` | Orte ohne Kantonskürzel im Titel. Alle anderen: `[Cheseaux-Noréaz VD]`. |
+| `VORSCHAU_TAGE` | Wie weit voraus der Feed schaut. Betrifft nur den Beginn — Laufendes bleibt. |
 | `MAX_LAUFZEIT_TAGE` | Ab welcher Restlaufzeit etwas als Dauerausstellung gilt. |
 | `AI_CHUNK_SIZE` | Einträge pro KI-Aufruf. **Nicht erhöhen** — siehe unten. |
 | `AI_BUDGET_MS` | Wann das Skript aufhört, die KI zu fragen. |

@@ -58,6 +58,10 @@ const MAX_LAUFZEIT_TAGE   = 365;
 // "bis 31.12." ist der uebliche Platzhalter fuer "unbefristet" - ab dieser
 // Restlaufzeit wird er als Dauerausstellung gewertet.
 const JAHRESENDE_MIN_TAGE = 92;
+// Wie weit voraus soll der Feed schauen? Faengt erst in ferner Zukunft an,
+// fliegt es raus - ein Konzert im Maerz hilft heute niemandem. Betrifft nur
+// den BEGINN: was jetzt schon laeuft, bleibt drin, auch wenn es lange geht.
+const VORSCHAU_TAGE       = 28;
 // Kurze Spannen bis zu so vielen Tagen werden als "27.-29.08." geschrieben.
 const SPANNE_MAX_TAGE     = 7;
 // Aendert sich das Cache-Format, muessen alte Eintraege einmal neu durch die KI.
@@ -330,6 +334,10 @@ function pruefeMeta(meta, heute) {
   // unbefristet laeuft, ist eine Ermessensfrage und steht deshalb als
   // Kriterium (d) im Prompt - dort wurde sie vorher schon zuverlaessig
   // getroffen. Rechenbar ist nur ein vorhandenes, zu weit entferntes Enddatum.
+
+  if (start && start.getTime() > heute.getTime() + VORSCHAU_TAGE * MS_PRO_TAG) {
+    return "Faengt erst am " + formatDatum(start, heute) + " an";
+  }
 
   if (ende) {
     var ab   = (start && start.getTime() > heute.getTime()) ? start : heute;
