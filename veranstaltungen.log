@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 25.8.2026, 14:51:25
+Start: 25.8.2026, 15:00:55
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 
 Feeds:
@@ -9,6 +9,7 @@ Feeds:
 - https://script.google.com/macros/s/AKfycbwiTrliLNmT2INfuX0pJ_hJMqU1Rwhyq83mQ0mxR_GmLJ2tyS0dMQp3C7jdW4WJhZ4MDQ/exec?quelle=Plateforme%2010%20Agenda
 - https://www.museen-bern.ch/de/ausstellungen
 - https://www.vaud.ch/de/tourismus/veranstaltungen/?region=morges-region
+- https://www.geneve.com/fr/agenda-culturel
 
 Kein Link (ignoriert):
 - Keine.
@@ -16,7 +17,7 @@ Kein Link (ignoriert):
 Statischer Filter (Keywords):
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
 
-Aus Cache uebernommen (45):
+Aus Cache uebernommen (74):
 - Cache: 'Cantonale Berne Jura'
 - Cache: 'Das volle Leben. Alte Meister von Duccio bis Liotard'
 - Cache: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig'
@@ -62,21 +63,52 @@ Aus Cache uebernommen (45):
 - Cache: 'Hommage an Armel Guerne'
 - Cache: 'Paillote Festival'
 - Cache: 'Vortrag: Die Rolle der Schweiz im Vercors der Nachkriegszeit'
+- Cache: 'Kolonial. Globale Verflechtungen der Schweiz'
+- Cache: 'Ella Maillart. Fotografische Erzählungen'
+- Cache: '1 Raum, 1 Werk. Installationen aus der Sammlung'
+- Cache: 'Einfach Zürich'
+- Cache: 'Geschichte Schweiz'
+- Cache: 'Seidenband. Kapital, Kunst & Krise'
+- Cache: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur'
+- Cache: 'Caline Aoun Thresholds of Impermanence'
+- Cache: 'Naturjuwel Haberfeld'
+- Cache: 'Auf dem Teller – Kulinarische Stadtgeschichte(n)'
+- Cache: 'Wer lebt da? Die Buche, ein Baum-Lebensraum'
+- Cache: 'Symphonie der Gewürze – Aus Vietnam in die Welt'
+- Cache: 'The Stars' Share - Fotografien von Gérard-Philippe Mabillard'
+- Cache: 'Das Rundbild von Marquard Wocher'
+- Cache: 'Susanne Keller. Hinterkammer des Auges'
+- Cache: 'Auf den Spuren von Edouard Chapallaz an der EPFL'
+- Cache: 'Begegnungen zum Buchpreis der Stadt Lausanne'
+- Cache: 'Begegnungen zum Prix du livre de la Ville de Lausanne'
+- Cache: 'Öffentliche Vernissage – Ted Joans. Black Flower'
+- Cache: 'Vernissage | Edouard Chapallaz'
+- Cache: 'Kommentierte Führung – Künstlerinnen in der zeitgenössischen Kunst'
+- Cache: 'Animierte Himmel – Workshop für japanische Malerei'
+- Cache: 'Nacht der Museen'
+- Cache: 'LIG – Sommerturnier'
+- Cache: 'Kommentierte Führung – Tage des Matrimoine'
+- Cache: 'Podiumsdiskussion – Sehen (wieder)lernen'
+- Cache: 'Podiumsdiskussion – Widerstand leisten!'
+- Cache: 'Kommentierte Führung – Hannah Darabi. Why Don’t You Dance?'
+- Cache: 'Die Kleinen im Museum – Und wir?'
 
-KI-Filter / Cache-Loeschungen (11):
+KI-Filter / Cache-Loeschungen (10):
 - Geloescht [Cache: Dauerausstellung]: 'Lousonna, archäologischer Park'
 - Geloescht [Cache: Dauerausstellung ohne Enddatum]: 'Collection'
 - Geloescht [Cache: Duplikat]: 'Week-end anniversaire Fête du Dahlia 2026 - 30ème anniversaire'
-- Geloescht [Dauerausstellung]: 'Die Sammlung' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Mit fliegendem Teppich durch die Geschichte' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Ideen Schweiz' [Feed: museum.ch Ausstellungen]
-- Geloescht [Duplikat]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
-- Zeichen bereinigt: 'Symphởnie der Gewürze – Aus Vietnam in die Welt' -> 'Symphonie der Gewürze – Aus Vietnam in die Welt'
-- Geloescht [Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Agenda]
-- Geloescht [Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Agenda]
-- Geloescht [Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Agenda]
+- Geloescht [Cache: Dauerausstellung]: 'Die Sammlung'
+- Geloescht [Cache: Dauerausstellung]: 'Mit fliegendem Teppich durch die Geschichte'
+- Geloescht [Cache: Dauerausstellung]: 'Ideen Schweiz'
+- Geloescht [Cache: Duplikat]: 'Caline Aoun Thresholds of Impermanence'
+- Geloescht [Cache: Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne'
+- Geloescht [Cache: Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne'
+- Geloescht [Cache: Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne'
 
-Regelfilter Datum/Entfernung/Dauerausstellung (14):
+Regelfilter Datum/Entfernung/Dauerausstellung (19):
+- Geloescht [Faengt erst am 05.12. an]: 'Cantonale Berne Jura' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 28.11. an]: 'Verleihung des Tintenfass-Preises 2025' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 11.12. an]: 'Gezeichnet 2026' [Feed: Museen Bern]
 - Geloescht [Vorbei seit 23.08.]: 'Festival der Kurzstücke' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 22.08.]: 'The Black Monarchs & The Missing Girls' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 22.08.]: 'Kultursommer: Krimi-Dinner' [Feed: Morges Agenda]
@@ -90,20 +122,19 @@ Regelfilter Datum/Entfernung/Dauerausstellung (14):
 - Geloescht [Zu weit weg: Appenzell ~255 min ab Morges]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
 - Geloescht [Zu weit weg: Vaduz ~240 min ab Morges]: 'Naturjuwel Haberfeld' [Feed: museum.ch Ausstellungen]
 - Geloescht [Zu weit weg: Basel ~140 min ab Morges]: 'Auf dem Teller – Kulinarische Stadtgeschichte(n)' [Feed: museum.ch Ausstellungen]
+- Geloescht [Faengt erst am 08.10. an]: 'Öffentliche Vernissage – Ted Joans. Black Flower' [Feed: Platform 10 Agenda]
+- Geloescht [Faengt erst am 26.09. an]: 'Nacht der Museen' [Feed: Platform 10 Agenda]
 - Geloescht [Dublette von 'Ella Maillart. Fotografische Erzählungen']: 'Ella Maillart: Fotografische Erzählungen' [Feed: Platform 10 Expositions]
 
 Ohne KI-Daten uebernommen (0):
 - Keine.
 
-Finale Liste (60 Eintraege):
-- [Museen Bern] [Burgdorf BE] Cantonale Berne Jura - bis 28.02.2027
+Finale Liste (55 Eintraege):
 - [Museen Bern] [Bern] Das volle Leben. Alte Meister von Duccio bis Liotard - bis 27.09.
 - [Museen Bern] [Thun] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.
 - [Museen Bern] [Bern] Der Sonntagsausflug - bis 08.11.
 - [Museen Bern] [Köniz BE] Tabula Musica x Schulmuseum Bern - bis 07.09.
 - [Museen Bern] [Burgdorf BE] Brigitte Lustenberger. Ein eigener Blick - bis 30.08.
-- [Museen Bern] [Bern] Verleihung des Tintenfass-Preises 2025 - bis 10.04.2027
-- [Museen Bern] [Bern] Gezeichnet 2026 - bis 21.02.2027
 - [Vaud.de Morges] [Morges] Ella Maillart. Fotografische Erzählungen
 - [Vaud.de Morges] [Morges] Stadtführungen mit dem Segway
 - [Vaud.de Morges] [Morges] Galerie Port Franc
@@ -145,11 +176,9 @@ Finale Liste (60 Eintraege):
 - [Platform 10 Agenda] [Lausanne] Auf den Spuren von Edouard Chapallaz an der EPFL
 - [Platform 10 Agenda] [Lausanne] Begegnungen zum Buchpreis der Stadt Lausanne
 - [Platform 10 Agenda] [Lausanne] Begegnungen zum Prix du livre de la Ville de Lausanne
-- [Platform 10 Agenda] [Lausanne] Öffentliche Vernissage – Ted Joans. Black Flower - am Do 08.10.
 - [Platform 10 Agenda] [Lausanne] Vernissage | Edouard Chapallaz
 - [Platform 10 Agenda] [Lausanne] Kommentierte Führung – Künstlerinnen in der zeitgenössischen Kunst
 - [Platform 10 Agenda] [Lausanne] Animierte Himmel – Workshop für japanische Malerei
-- [Platform 10 Agenda] [Lausanne] Nacht der Museen - am Sa 26.09.
 - [Platform 10 Agenda] [Lausanne] LIG – Sommerturnier - bis 31.08.
 - [Platform 10 Agenda] [Lausanne] Kommentierte Führung – Tage des Matrimoine
 - [Platform 10 Agenda] [Lausanne] Podiumsdiskussion – Sehen (wieder)lernen
