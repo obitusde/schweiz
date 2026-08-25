@@ -5,7 +5,7 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:19:57 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>[Morges] Die Abenteuer von Gouttelette, auf der Suche nach der verlorenen Zeit - bis 06.09.</title>
@@ -46,102 +46,6 @@
       <description><![CDATA[Lokales Festival mit verschiedenen Animationen und Unterhaltung. Morges.]]></description>
       <category>Festival</category>
       <pubDate>Sat, 22 Aug 2026 22:49:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Alfredo Jaar: Inferno Paradiso</title>
-      <link>https://elysee.ch/expositions/alfredo-jaar-inferno-paradiso/</link>
-      <guid isPermaLink="false">https://elysee.ch/expositions/alfredo-jaar-inferno-paradiso/</guid>
-      <description><![CDATA[Retrospektive des chilenischen Künstlers Alfredo Jaar, die sich mit politischen und sozialen Themen auseinandersetzt. MCBA, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Und wir?</title>
-      <link>https://mudac.ch/expositions/et-nous-alors/</link>
-      <guid isPermaLink="false">https://mudac.ch/expositions/et-nous-alors/</guid>
-      <description><![CDATA[Ausstellung über die Beziehung zwischen Mensch und Umwelt im Kontext von Design und Architektur. mudac, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Otobong Nkanga</title>
-      <link>https://www.mcba.ch/expositions/otobong-nkanga/</link>
-      <guid isPermaLink="false">https://www.mcba.ch/expositions/otobong-nkanga/</guid>
-      <description><![CDATA[Werke der nigerianischen Künstlerin Otobong Nkanga, die Verbindungen zwischen Land, Körper und Geschichte erforschen. MCBA, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Isao Takahata</title>
-      <link>https://mudac.ch/expositions/isao-takahata/</link>
-      <guid isPermaLink="false">https://mudac.ch/expositions/isao-takahata/</guid>
-      <description><![CDATA[Retrospektive des Mitbegründers von Studio Ghibli, Isao Takahata, und sein Einfluss auf die Welt der Animation. Photo Elysée, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Hannah Darabi: Warum tanzt du nicht?</title>
-      <link>https://elysee.ch/expositions/hannah-darabi-why-dont-you-dance/</link>
-      <guid isPermaLink="false">https://elysee.ch/expositions/hannah-darabi-why-dont-you-dance/</guid>
-      <description><![CDATA[Die iranische Künstlerin Hannah Darabi kombiniert Fotografie und Archivmaterial zu einer Erzählung über ihr Heimatland. Photo Elysée, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Ella Maillart: Fotografische Erzählungen</title>
-      <link>https://elysee.ch/expositions/ella-maillart-recits-photographiques/</link>
-      <guid isPermaLink="false">https://elysee.ch/expositions/ella-maillart-recits-photographiques/</guid>
-      <description><![CDATA[Fotografische Reiseberichte der Schweizer Entdeckerin Ella Maillart aus Zentralasien und Afghanistan. Photo Elysée, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Lucas Erin</title>
-      <link>https://www.mcba.ch/expositions/lucas-erin/</link>
-      <guid isPermaLink="false">https://www.mcba.ch/expositions/lucas-erin/</guid>
-      <description><![CDATA[Ausstellung des Künstlers Lucas Erin. Platform 10, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Edouard Chapallaz</title>
-      <link>https://mudac.ch/expositions/edouard-chapallaz/</link>
-      <guid isPermaLink="false">https://mudac.ch/expositions/edouard-chapallaz/</guid>
-      <description><![CDATA[Ausstellung des Keramikers Edouard Chapallaz. Platform 10, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Blanc Gatti</title>
-      <link>https://www.mcba.ch/expositions/blanc-gatti/</link>
-      <guid isPermaLink="false">https://www.mcba.ch/expositions/blanc-gatti/</guid>
-      <description><![CDATA[Ausstellung von Blanc Gatti. Platform 10, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Ted Joans</title>
-      <link>https://www.mcba.ch/expositions/ted-joans/</link>
-      <guid isPermaLink="false">https://www.mcba.ch/expositions/ted-joans/</guid>
-      <description><![CDATA[Ausstellung über Ted Joans. Platform 10, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Magie und Design</title>
-      <link>https://mudac.ch/expositions/magie-et-design/</link>
-      <guid isPermaLink="false">https://mudac.ch/expositions/magie-et-design/</guid>
-      <description><![CDATA[Ausstellung über die Verbindung von Magie und Design. Platform 10, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Tiermodell</title>
-      <link>https://elysee.ch/expositions/modele-animal/</link>
-      <guid isPermaLink="false">https://elysee.ch/expositions/modele-animal/</guid>
-      <description><![CDATA[Ausstellung zum Thema Tiermodelle. Platform 10, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] Gesundheitsmorgen - bis 26.08.</title>
@@ -294,14 +198,6 @@
       <description><![CDATA[Erste monografische Ausstellung des US-Künstlers Ted Joans, beeinflusst von Jazz und Surrealismus. MCBA, Lausanne.]]></description>
       <category>Ausstellung</category>
       <pubDate>Thu, 13 Aug 2026 00:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] Vernissage | Edouard Chapallaz</title>
-      <link>https://plateforme10.ch/events/vernissage-edouard-chapallaz/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/vernissage-edouard-chapallaz/</guid>
-      <description><![CDATA[Eröffnung der Ausstellung über den Schweizer Keramiker Edouard Chapallaz mit Werken aus der Museumssammlung. mudac, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 08 Aug 2026 00:01:40 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] Kommentierte Führung – Künstlerinnen in der zeitgenössischen Kunst</title>

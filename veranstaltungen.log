@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 25.8.2026, 12:00:39
+Start: 25.8.2026, 12:19:57
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 
 Feeds:
@@ -15,12 +15,18 @@ Kein Link (ignoriert):
 Statischer Filter (Keywords):
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
 
-Aus Cache uebernommen (35):
+Aus Cache uebernommen (63):
 - Cache: 'Die Abenteuer von Gouttelette, auf der Suche nach der verlorenen Zeit'
 - Cache: 'Caf' Conc''
 - Cache: 'Wake Up & Run'
 - Cache: 'Black Colors - Konzert'
 - Cache: 'Festival Morges Églantine'
+- Cache: 'Alfredo Jaar: Inferno Paradiso'
+- Cache: 'Und wir?'
+- Cache: 'Otobong Nkanga'
+- Cache: 'Isao Takahata'
+- Cache: 'Hannah Darabi: Warum tanzt du nicht?'
+- Cache: 'Ella Maillart: Fotografische Erzählungen'
 - Cache: 'Lucas Erin'
 - Cache: 'Edouard Chapallaz'
 - Cache: 'Blanc Gatti'
@@ -38,19 +44,41 @@ Aus Cache uebernommen (35):
 - Cache: 'The Black Monarchs & The Missing Girls'
 - Cache: 'Krimi-Dinner-Spektakel'
 - Cache: 'Faites MOUCHE ! Einführung in das Sportschiessen'
+- Cache: 'Colibris Festival 2026'
+- Cache: 'Hommage an Armel Guerne'
+- Cache: 'Paillote Festival 2026'
+- Cache: 'Die Rolle der Schweiz im Vercors der Nachkriegszeit'
+- Cache: 'Kolonial. Globale Verflechtungen der Schweiz'
+- Cache: 'Ella Maillart. Fotografische Erzählungen'
+- Cache: 'Die Sammlung'
 - Cache: 'Mit fliegendem Teppich durch die Geschichte'
 - Cache: '1 Raum, 1 Werk. Installationen aus der Sammlung'
 - Cache: 'Ideen Schweiz'
 - Cache: 'Einfach Zürich'
 - Cache: 'Geschichte Schweiz'
+- Cache: 'Seidenband. Kapital, Kunst & Krise'
+- Cache: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur'
+- Cache: 'Caline Aoun – Thresholds of Impermanence'
+- Cache: 'Naturjuwel Haberfeld'
+- Cache: 'Auf dem Teller – Kulinarische Stadtgeschichte(n)'
+- Cache: 'Wer lebt dort? Die Buche, ein Baum-Habitat'
 - Cache: 'Symphởnie der Gewürze – Aus Vietnam in die Welt'
 - Cache: 'The Stars' Share - Fotografien von Gérard-Philippe Mabillard'
 - Cache: 'Thun-Panorama: Das Rundbild von Marquard Wocher'
+- Cache: 'Susanne Keller. Hinterkammer des Auges'
+- Cache: 'Auf den Spuren von Edouard Chapallaz an der EPFL'
+- Cache: 'Begegnungen zum Buchpreis der Stadt Lausanne'
+- Cache: 'Öffentliche Vernissage – Ted Joans. Black Flower'
+- Cache: 'Vernissage | Edouard Chapallaz'
 - Cache: 'Kommentierte Führung – Künstlerinnen in der zeitgenössischen Kunst'
 - Cache: 'Animierte Himmel – Workshop für japanische Malerei'
 - Cache: 'Nacht der Museen'
 - Cache: 'LIG x Plateforme 10 – Sommerturnier'
 - Cache: 'Kommentierte Führung – Journées du Matrimoine'
+- Cache: 'Podiumsdiskussion – (Wieder) sehen lernen'
+- Cache: 'Podiumsdiskussion – Widerstand leisten!'
+- Cache: 'Führung – Hannah Darabi. Why Don’t You Dance?'
+- Cache: 'Die Kleinen im Museum – Und wir?'
 
 KI-Filter / Cache-Loeschungen (6):
 - Geloescht [Cache: Dauerausstellung ohne Enddatum]: 'Collection'
@@ -60,7 +88,19 @@ KI-Filter / Cache-Loeschungen (6):
 - Geloescht [Cache: Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne'
 - Geloescht [Cache: Duplikat]: 'Les Rencontres du Prix du livre de la Ville de Lausanne'
 
-Regelfilter Datum/Entfernung/Dauerausstellung (17):
+Regelfilter Datum/Entfernung/Dauerausstellung (30):
+- Geloescht [Dauerausstellung: kein Datum]: 'Alfredo Jaar: Inferno Paradiso' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Und wir?' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Otobong Nkanga' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Isao Takahata' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Hannah Darabi: Warum tanzt du nicht?' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Ella Maillart: Fotografische Erzählungen' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Lucas Erin' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Edouard Chapallaz' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Blanc Gatti' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Ted Joans' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Magie und Design' [Feed: Platform 10 Events]
+- Geloescht [Dauerausstellung: kein Datum]: 'Tiermodell' [Feed: Platform 10 Events]
 - Geloescht [Vorbei seit 23.08.]: 'Jubiläumswochenende Fête du Dahlia' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 23.08.]: 'Festival der Kurzstücke' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 22.08.]: 'The Black Monarchs & The Missing Girls' [Feed: Morges Agenda]
@@ -78,28 +118,17 @@ Regelfilter Datum/Entfernung/Dauerausstellung (17):
 - Geloescht [Zu weit weg: Appenzell ~255 min ab Morges]: 'Caline Aoun – Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
 - Geloescht [Zu weit weg: Vaduz ~240 min ab Morges]: 'Naturjuwel Haberfeld' [Feed: museum.ch Ausstellungen]
 - Geloescht [Zu weit weg: Basel ~140 min ab Morges]: 'Auf dem Teller – Kulinarische Stadtgeschichte(n)' [Feed: museum.ch Ausstellungen]
+- Geloescht [Dauerausstellung: kein Datum]: 'Vernissage | Edouard Chapallaz' [Feed: Platform 10 Events 2]
 
 Ohne KI-Daten uebernommen (0):
 - Keine.
 
-Finale Liste (46 Eintraege):
+Finale Liste (33 Eintraege):
 - [Morges Agenda] [Morges] Die Abenteuer von Gouttelette, auf der Suche nach der verlorenen Zeit - bis 06.09.
 - [Morges Agenda] [Morges] Caf' Conc' - am Fr 28.08.
 - [Morges Agenda] [Morges] Wake Up & Run - am Fr 28.08.
 - [Morges Agenda] [Morges] Black Colors - Konzert - am Sa 29.08.
 - [Morges Agenda] [Morges] Festival Morges Églantine - am Sa 29.08.
-- [Platform 10 Events] [Lausanne] Alfredo Jaar: Inferno Paradiso
-- [Platform 10 Events] [Lausanne] Und wir?
-- [Platform 10 Events] [Lausanne] Otobong Nkanga
-- [Platform 10 Events] [Lausanne] Isao Takahata
-- [Platform 10 Events] [Lausanne] Hannah Darabi: Warum tanzt du nicht?
-- [Platform 10 Events] [Lausanne] Ella Maillart: Fotografische Erzählungen
-- [Platform 10 Events] [Lausanne] Lucas Erin
-- [Platform 10 Events] [Lausanne] Edouard Chapallaz
-- [Platform 10 Events] [Lausanne] Blanc Gatti
-- [Platform 10 Events] [Lausanne] Ted Joans
-- [Platform 10 Events] [Lausanne] Magie und Design
-- [Platform 10 Events] [Lausanne] Tiermodell
 - [Morges Agenda] [Morges] Gesundheitsmorgen - bis 26.08.
 - [Morges Agenda] [Morges] 100 Jahre Pfadfinder von Morges - bis 26.08.
 - [Morges Agenda] [Morges] Morges Open Air - bis 06.09.
@@ -119,7 +148,6 @@ Finale Liste (46 Eintraege):
 - [Platform 10 Events 2] [Ecublens VD] Auf den Spuren von Edouard Chapallaz an der EPFL
 - [Platform 10 Events 2] [Lausanne] Begegnungen zum Buchpreis der Stadt Lausanne
 - [Platform 10 Events 2] [Lausanne] Öffentliche Vernissage – Ted Joans. Black Flower - am Do 08.10.
-- [Platform 10 Events 2] [Lausanne] Vernissage | Edouard Chapallaz
 - [Platform 10 Events 2] [Lausanne] Kommentierte Führung – Künstlerinnen in der zeitgenössischen Kunst
 - [Platform 10 Events 2] [Lausanne] Animierte Himmel – Workshop für japanische Malerei
 - [Platform 10 Events 2] [Lausanne] Nacht der Museen - am Sa 26.09.
