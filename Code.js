@@ -56,7 +56,7 @@ const JAHRESENDE_MIN_TAGE = 92;
 // Kurze Spannen bis zu so vielen Tagen werden als "27.-29.08." geschrieben.
 const SPANNE_MAX_TAGE     = 7;
 // Aendert sich das Cache-Format, muessen alte Eintraege einmal neu durch die KI.
-const CACHE_VERSION       = 2;
+const CACHE_VERSION       = 3;
 
 const MS_PRO_TAG = 24 * 60 * 60 * 1000;
 const WOCHENTAGE = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
@@ -320,14 +320,11 @@ function pruefeMeta(meta, heute) {
     return "Vorbei seit " + formatDatum(letzterTag, heute);
   }
 
-  // Eine Ausstellung ohne Anfang und ohne Ende laeuft unbefristet. Frueher hat
-  // die KI das aussortiert ("Dauerausstellung ohne Enddatum"); seit sie nicht
-  // mehr nach Datum filtert, muss die Regel hier stehen. Bei Terminformaten
-  // (Konzert, Fuehrung, Lesung) heisst ein fehlendes Datum dagegen nur, dass
-  // die Quelle keines mitliefert - die bleiben drin.
-  if (!start && !ende && /ausstellung/i.test(meta.art || "")) {
-    return "Dauerausstellung: kein Datum";
-  }
+  // Kein Datum heisst hier NICHT "Dauerausstellung": der Feed von Plateforme 10
+  // liefert zu laufenden Ausstellungen schlicht keine Daten mit. Ob etwas
+  // unbefristet laeuft, ist eine Ermessensfrage und steht deshalb als
+  // Kriterium (d) im Prompt - dort wurde sie vorher schon zuverlaessig
+  // getroffen. Rechenbar ist nur ein vorhandenes, zu weit entferntes Enddatum.
 
   if (ende) {
     var ab   = (start && start.getTime() > heute.getTime()) ? start : heute;
@@ -973,6 +970,9 @@ function updateRSSFeed() {
       "b) Duplikat - exakt einen behalten, nie alle loeschen. Auch Duplikate aus frueheren Bloecken beachten. " +
       "Eine Vernissage oder Fuehrung zu einer Ausstellung, die als eigener Eintrag existiert, ist ein Duplikat.\n" +
       "c) Ort auch per Weltwissen nicht bestimmbar.\n" +
+      "d) Dauerausstellung oder permanente Sammlung ohne Enddatum. Ein fehlendes Datum allein ist " +
+      "KEIN Grund - viele laufende Sonderausstellungen liefern ihre Laufzeit einfach nicht mit. " +
+      "Entscheide nach Beschreibung und Weltwissen, nicht nach fehlendem Feld.\n" +
       "Nach Datum oder Entfernung NICHT selbst filtern - das macht das Skript.\n\n" +
       "JSON (kein Markdown):\n" +
       "{\"idsToRemove\":[{\"id\":3,\"reason\":\"Duplikat\"}]," +

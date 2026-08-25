@@ -25,7 +25,11 @@ Ergebnis in diesem Repo ab, das über GitHub Pages ausgeliefert wird.
 3. Cache-Abgleich: was schon analysiert wurde, wird nicht erneut an die KI gegeben.
 4. KI-Redaktion: liefert **strukturierte Felder**, keine fertigen Titel —
    `ort`, `kanton`, `titel` (deutsch), `start`, `ende`, `art`, `description`.
-   Sie entfernt nur nach Thema, Dubletten im Block und fehlendem Ort.
+   Sie entfernt nach Thema, Dubletten im Block, fehlendem Ort und
+   Dauerausstellungen. Letzteres ist bewusst bei der KI geblieben: ein
+   fehlendes Datum heisst nicht "unbefristet", der Plateforme-10-Feed liefert
+   auch zu laufenden Ausstellungen keine Laufzeit. Wer das als Skriptregel
+   nachbaut, wirft echte Ausstellungen weg - am 25.08. waren es 12.
 5. Regelfilter im Skript: Datum, Reisezeit, Dauerausstellung, Dubletten.
    Alles Rechenbare gehört hierher, nicht in den Prompt — es gilt dann auch
    für Einträge aus dem Cache.
