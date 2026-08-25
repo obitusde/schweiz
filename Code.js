@@ -20,10 +20,13 @@
 // =============================================================================
 
 const ENABLE_DETAILED_LOGGING = true;
-const GEMINI_MODEL            = "gemini-3-flash-preview";
+// Rueckfallebene, wenn kein OPENROUTER_KEY gesetzt ist. Flash-Lite statt Flash:
+// die Aufgabe ist Datenextraktion, nicht Nachdenken - und ein Modell mit
+// Denkschritten wuerde die 60-Sekunden-Grenze von UrlFetchApp schneller reissen.
+const GEMINI_MODEL            = "gemini-3.5-flash-lite";
 const GEMINI_ENDPOINT         = "https://generativelanguage.googleapis.com/v1beta/models/";
 const OPENROUTER_ENDPOINT     = "https://openrouter.ai/api/v1/chat/completions";
-const OPENROUTER_MODEL        = "google/gemini-3.1-flash-lite"; // GA Mai 2026, optimiert fuer Datenextraktion - bei Bedarf auf openrouter.ai/models pruefen
+const OPENROUTER_MODEL        = "google/gemini-3.1-flash-lite"; // GA, Preisstand 13.08.2026 geprueft. Alternative: google/gemini-3.5-flash-lite
 const GITHUB_API_BASE         = "https://api.github.com/repos/";
 const SPREADSHEET_ID          = "1IoqQHHzIOOBniYcOYGfYoITzk96K-_ommHSl8m0C4HA";
 const SHEET_NAME              = "Veranstaltungen";
