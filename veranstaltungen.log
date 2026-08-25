@@ -1,5 +1,6 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 24.8.2026, 06:33:19
+Start: 25.8.2026, 11:05:06
+Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 
 Feeds:
 - https://script.google.com/macros/s/AKfycbwiTrliLNmT2INfuX0pJ_hJMqU1Rwhyq83mQ0mxR_GmLJ2tyS0dMQp3C7jdW4WJhZ4MDQ/exec?quelle=Plateforme%2010%20Expositions
@@ -12,111 +13,84 @@ Kein Link (ignoriert):
 - Keine.
 
 Statischer Filter (Keywords):
-- Gelöscht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
+- Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
 
-Aus Cache übernommen (33):
-- Cache: 'Lausanne Alfredo Jaar bis 01.11.2026'
-- Cache: 'Lausanne Et nous alors? bis 27.09.2026'
-- Cache: 'Lausanne Otobong Nkanga bis 23.08.2026'
-- Cache: 'Lausanne Isao Takahata bis 27.09.2026'
-- Cache: 'Lausanne Hannah Darabi bis 01.11.2026'
-- Cache: 'Lausanne Ella Maillart bis 01.11.2026'
-- Cache: 'Morges Les Matins de la Santé bis 26.08.2026'
-- Cache: 'Morges Espace 81 - 100 ans des Scouts de Morges bis 26.08.2026'
-- Cache: 'Morges Morges Open Air 2026 bis 06.09.2026'
-- Cache: 'Morges Mini'MOA - Cinéma Open air pour les tout-petits bis 06.09.2026'
-- Cache: 'Morges Chasse au trésor - Le voyage temporel bis 15.11.2026'
-- Cache: 'Morges The Black Monarchs & The Missing Girls'
-- Cache: 'Morges Été culturel du Château de Morges : Souper-spectacle meurtre et mystère'
-- Cache: 'Morges Été culturel du Château de Morges : Faites MOUCHE ! bis 23.08.2026'
-- Cache: 'Morges Colibris Festival 2026'
-- Cache: 'Morges Hommage à Armel Guerne'
-- Cache: 'Prangins Kolonial bis 11.10.2026'
-- Cache: 'Zürich Die Sammlung bis 31.12.2029'
-- Cache: 'Zürich Mit fliegendem Teppich durch die Geschichte bis 31.12.2029'
-- Cache: 'Luzern 1 Raum, 1 Werk bis 15.11.2026'
-- Cache: 'Zürich Ideen Schweiz bis 31.12.2026'
-- Cache: 'Zürich Einfach Zürich bis 31.12.2026'
-- Cache: 'Zürich Geschichte Schweiz bis 31.12.2029'
-- Cache: 'Liestal Seidenband bis 06.04.2031'
-- Cache: 'Liestal Wildes Baselbiet bis 17.03.2030'
-- Cache: 'Appenzell Caline Aoun Thresholds of Impermanence bis 25.10.2026'
-- Cache: 'Vaduz Naturjuwel Haberfeld bis 30.08.2026'
-- Cache: 'Basel Basel auf dem Teller bis 21.03.2027'
-- Cache: 'Cheseaux-Noréaz Qui vit là ? Le hêtre, un arbre-habitat bis 01.11.2026'
-- Cache: 'Zürich Symphởnie der Gewürze bis 13.09.2026'
-- Cache: 'Sierre The Stars' Share bis 29.11.2026'
-- Cache: 'Thun Thun-Panorama: Das Rundbild von Marquard Wocher bis 29.11.2026'
-- Cache: 'Thun Susanne Keller. Hinterkammer des Auges bis 29.11.2026'
+Aus Cache uebernommen (0):
+- Keine.
 
-KI-Filter / Cache-Löschungen (11):
-- Gelöscht [Cache: Dauerausstellung ohne Enddatum]: 'Collection'
-- Gelöscht [Cache: Duplikat von ID 0 (Ella Maillart in Lausanne)]: 'Ella Maillart. Fotografische Erzählungen'
-- Gelöscht [Cache: Duplikat von ID 2 (Caline Aoun in Appenzell)]: 'Caline Aoun Thresholds of Impermanence'
-- Gelöscht [Dauerausstellung ohne Enddatum]: 'Lucas Erin' [Feed: Platform 10 Events]
-- Gelöscht [Duplikat]: 'Edouard Chapallaz' [Feed: Platform 10 Events]
-- Gelöscht [Dauerausstellung ohne Enddatum]: 'Blanc Gatti' [Feed: Platform 10 Events]
-- Gelöscht [Duplikat]: 'Ted Joans' [Feed: Platform 10 Events]
-- Gelöscht [Dauerausstellung ohne Enddatum]: 'Magie Et Design' [Feed: Platform 10 Events]
-- Gelöscht [Dauerausstellung ohne Enddatum]: 'Modele Animal' [Feed: Platform 10 Events]
-- Gelöscht [Vergangenes Datum]: 'Week-end anniversaire Fête du Dahlia 2026 - 30ème anniversaire' [Feed: Morges Agenda]
-- Gelöscht [Vergangenes Datum]: 'Festival de pièces courtes au Théâtre des Trois P'tits Tours' [Feed: Morges Agenda]
+KI-Filter / Cache-Loeschungen (0):
+- Keine.
 
-Finale Liste (57 Einträge):
-- [Morges Agenda] Morges Les aventures de Gouttelette bis 06.09.2026
-- [Morges Agenda] Morges Caf' Conc' bis 28.08.2026
-- [Morges Agenda] Morges Wake Up & Run bis 28.08.2026
-- [Morges Agenda] Morges Black Colors bis 29.08.2026
-- [Morges Agenda] Morges Festival Morges Églantine bis 29.08.2026
-- [Platform 10 Events] Lausanne Alfredo Jaar bis 01.11.2026
-- [Platform 10 Events] Lausanne Et nous alors? bis 27.09.2026
-- [Platform 10 Events] Lausanne Otobong Nkanga bis 23.08.2026
-- [Platform 10 Events] Lausanne Isao Takahata bis 27.09.2026
-- [Platform 10 Events] Lausanne Hannah Darabi bis 01.11.2026
-- [Platform 10 Events] Lausanne Ella Maillart bis 01.11.2026
-- [Morges Agenda] Morges Les Matins de la Santé bis 26.08.2026
-- [Morges Agenda] Morges Espace 81 - 100 ans des Scouts de Morges bis 26.08.2026
-- [Morges Agenda] Morges Morges Open Air 2026 bis 06.09.2026
-- [Morges Agenda] Morges Fête du Dahlia 2026 bis 30.10.2026
-- [Morges Agenda] Morges Mini'MOA - Cinéma Open air pour les tout-petits bis 06.09.2026
-- [Morges Agenda] Morges Chasse au trésor - Le voyage temporel bis 15.11.2026
-- [Morges Agenda] Morges The Black Monarchs & The Missing Girls
-- [Morges Agenda] Morges Été culturel du Château de Morges : Souper-spectacle meurtre et mystère
-- [Morges Agenda] Morges Été culturel du Château de Morges : Faites MOUCHE ! bis 23.08.2026
-- [Morges Agenda] Morges Colibris Festival 2026
-- [Morges Agenda] Morges Hommage à Armel Guerne
-- [Morges Agenda] Morges Paillote Festival 2026 bis 29.08.2026
-- [Morges Agenda] Morges Conférence - Le rôle de la Suisse bis 27.08.2026
-- [museum.ch Ausstellungen] Prangins Kolonial bis 11.10.2026
-- [museum.ch Ausstellungen] Zürich Die Sammlung bis 31.12.2029
-- [museum.ch Ausstellungen] Zürich Mit fliegendem Teppich durch die Geschichte bis 31.12.2029
-- [museum.ch Ausstellungen] Luzern 1 Raum, 1 Werk bis 15.11.2026
-- [museum.ch Ausstellungen] Zürich Ideen Schweiz bis 31.12.2026
-- [museum.ch Ausstellungen] Zürich Einfach Zürich bis 31.12.2026
-- [museum.ch Ausstellungen] Zürich Geschichte Schweiz bis 31.12.2029
-- [museum.ch Ausstellungen] Liestal Seidenband bis 06.04.2031
-- [museum.ch Ausstellungen] Liestal Wildes Baselbiet bis 17.03.2030
-- [museum.ch Ausstellungen] Appenzell Caline Aoun Thresholds of Impermanence bis 25.10.2026
-- [museum.ch Ausstellungen] Vaduz Naturjuwel Haberfeld bis 30.08.2026
-- [museum.ch Ausstellungen] Basel Basel auf dem Teller bis 21.03.2027
-- [museum.ch Ausstellungen] Cheseaux-Noréaz Qui vit là ? Le hêtre, un arbre-habitat bis 01.11.2026
-- [museum.ch Ausstellungen] Zürich Symphởnie der Gewürze bis 13.09.2026
-- [museum.ch Ausstellungen] Sierre The Stars' Share bis 29.11.2026
-- [museum.ch Ausstellungen] Thun Thun-Panorama: Das Rundbild von Marquard Wocher bis 29.11.2026
-- [museum.ch Ausstellungen] Thun Susanne Keller. Hinterkammer des Auges bis 29.11.2026
-- [Platform 10 Events 2] Lausanne Sur les traces d’Edouard Chapallaz
-- [Platform 10 Events 2] Lausanne Rencontre avec Anne Pitteloud
-- [Platform 10 Events 2] Lausanne Rencontre avec Lolvé Tillmanns
-- [Platform 10 Events 2] Lausanne Rencontre avec Thomas Binggeli
-- [Platform 10 Events 2] Lausanne Rencontre avec Matthieu Ruf
-- [Platform 10 Events 2] Lausanne Rencontre avec Alice Bottarelli
-- [Platform 10 Events 2] Lausanne Vernissage Ted Joans bis 08.10.2026
-- [Platform 10 Events 2] Lausanne Vernissage Edouard Chapallaz
-- [Platform 10 Events 2] Lausanne Artistes femmes dans l’art contemporain
-- [Platform 10 Events 2] Lausanne Atelier de peinture japonaise
-- [Platform 10 Events 2] Lausanne Nuit des Musées bis 26.09.2026
-- [Platform 10 Events 2] Lausanne LIG x Plateforme 10 bis 31.08.2026
-- [Platform 10 Events 2] Lausanne Journées du Matrimoine - Ella Maillart
-- [Platform 10 Events 2] Lausanne Table ronde – (Ré)apprendre à voir
-- [Platform 10 Events 2] Lausanne Visite commentée – Hannah Darabi. Why Don’t You Dance?
-- [Platform 10 Events 2] Lausanne Les minus au musée – Et nous alors ?
+Regelfilter Datum/Entfernung/Dauerausstellung (69):
+- Geloescht [Keine KI-Daten]: 'Espace 81 - exposition Les aventures de Gouttelette, à la poursuite du temps perdu' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Caf' Conc'' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Wake Up & Run' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Black Colors - Concert au Easy Rider Bar (en terrasse)' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Festival Morges Églantine' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Collection' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Alfredo Jaar Inferno Paradiso' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Et Nous Alors' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Otobong Nkanga' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Isao Takahata' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Hannah Darabi Why Dont You Dance' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Ella Maillart Recits Photographiques' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Lucas Erin' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Edouard Chapallaz' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Blanc Gatti' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Ted Joans' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Magie Et Design' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Modele Animal' [Feed: Platform 10 Events]
+- Geloescht [Keine KI-Daten]: 'Les Matins de la Santé' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Espace 81 - exposition 100 ans des Scouts de Morges' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Morges Open Air 2026' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Fête du Dahlia 2026 - 30ème anniversaire' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Mini'MOA - Cinéma Open air pour les tout-petits' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Chasse au trésor - Le voyage temporel' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Week-end anniversaire Fête du Dahlia 2026 - 30ème anniversaire' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Festival de pièces courtes au Théâtre des Trois P'tits Tours' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'The Black Monarchs & The Missing Girls - Concert au Easy Rider Bar (en terrasse)' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Été culturel du Château de Morges : Souper-spectacle meurtre et mystère' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Été culturel du Château de Morges : Faites MOUCHE ! Initiation au tir sportif' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Colibris Festival 2026' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Hommage à Armel Guerne' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Paillote Festival 2026' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Château de Morges : Conférence - Le rôle de la Suisse dans le Vercors d'après-guerre' [Feed: Morges Agenda]
+- Geloescht [Keine KI-Daten]: 'Kolonial. Globale Verflechtungen der Schweiz' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Ella Maillart. Fotografische Erzählungen' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Die Sammlung' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Mit fliegendem Teppich durch die Geschichte' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: '1 Raum, 1 Werk. Installationen aus der Sammlung' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Ideen Schweiz' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Einfach Zürich' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Geschichte Schweiz' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Seidenband. Kapital, Kunst & Krise' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Naturjuwel Haberfeld' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Basel auf dem Teller – Kulinarische Stadtgeschichte(n)' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Exposition - Qui vit là ? Le hêtre, un arbre-habitat' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Symphởnie der Gewürze – Aus Vietnam in die Welt' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'The Stars' Share - Fotografien von Gérard-Philippe Mabillard' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Thun-Panorama: Das Rundbild von Marquard Wocher' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Susanne Keller. Hinterkammer des Auges' [Feed: museum.ch Ausstellungen]
+- Geloescht [Keine KI-Daten]: 'Sur les traces d’Edouard Chapallaz à l’EPFL' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Les Rencontres du Prix du livre de la Ville de Lausanne' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Vernissage public – Ted Joans. Black Flower' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Vernissage | Edouard Chapallaz' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Visite commentée – Artistes femmes dans l’art contemporain' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Ciels animés – Atelier de peinture japonaise' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'NUIT DES MUSEES' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'LIG x Plateforme 10 – Tournoi d’été' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Visite commentée – Journées du Matrimoine' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Table ronde – (Ré)apprendre à voir' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Table ronde – Résister !' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?' [Feed: Platform 10 Events 2]
+- Geloescht [Keine KI-Daten]: 'Les minus au musée – Et nous alors ?' [Feed: Platform 10 Events 2]
+
+Finale Liste (0 Eintraege):
+- Feed ist leer.
