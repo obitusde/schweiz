@@ -26,7 +26,7 @@ const ENABLE_DETAILED_LOGGING = true;
 const GEMINI_MODEL            = "gemini-3.5-flash-lite";
 const GEMINI_ENDPOINT         = "https://generativelanguage.googleapis.com/v1beta/models/";
 const OPENROUTER_ENDPOINT     = "https://openrouter.ai/api/v1/chat/completions";
-const OPENROUTER_MODEL        = "google/gemini-3.1-flash-lite"; // GA, Preisstand 13.08.2026 geprueft. Alternative: google/gemini-3.5-flash-lite
+const OPENROUTER_MODEL        = "google/gemini-3.5-flash-lite"; // gleiche Generation wie der Rueckfallpfad
 const GITHUB_API_BASE         = "https://api.github.com/repos/";
 const SPREADSHEET_ID          = "1IoqQHHzIOOBniYcOYGfYoITzk96K-_ommHSl8m0C4HA";
 const SHEET_NAME              = "Veranstaltungen";
@@ -68,7 +68,7 @@ const VORSCHAU_TAGE       = 28;
 // Kurze Spannen bis zu so vielen Tagen werden als "27.-29.08." geschrieben.
 const SPANNE_MAX_TAGE     = 7;
 // Aendert sich das Cache-Format, muessen alte Eintraege einmal neu durch die KI.
-const CACHE_VERSION       = 5;
+const CACHE_VERSION       = 6;
 
 const MS_PRO_TAG = 24 * 60 * 60 * 1000;
 const WOCHENTAGE = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
@@ -288,8 +288,13 @@ function baueTitel(meta, heute) {
     zusatz = "bis " + formatDatum(ende, heute);
   }
 
+  // "[Morges] [Konzert] Black Colors - am Sa 29.08."
+  // Die Gattung steht als zweite Klammer davor. "Sonstiges" bleibt weg - eine
+  // Klammer, die nichts sagt, kostet nur Platz in der Zeile.
   var label = ortLabel(meta.ort, meta.kanton);
-  var kopf  = label ? "[" + label + "] " : "";
+  var art   = String(meta.art || "").trim();
+  var kopf  = (label ? "[" + label + "] " : "") +
+              (art && art.toLowerCase() !== "sonstiges" ? "[" + art + "] " : "");
   return kopf + String(meta.titel || "").trim() + (zusatz ? " - " + zusatz : "");
 }
 
@@ -985,50 +990,48 @@ function updateRSSFeed() {
 
   log("Aus Cache: " + (allItems.length - itemsToAnalyze.length) + " | Neu fuer KI: " + itemsToAnalyze.length);
 
-  // --- KI-Verarbeitung ---
-  if (itemsToAnalyze.length > 0 && (props.openrouterKey || props.geminiKey)) {
-    var formattedExclusions = aiExclusions.map(function(l) { return "- " + l; }).join("\n");
+  // --- KI-Verarbeitung -------------------------------------------------------
+  // Zwei Durchgaenge. Der zweite holt die Eintraege nach, zu denen die KI im
+  // ersten nichts geliefert hat - das kleine Modell ueberspringt gelegentlich
+  // einzelne Artikel, am 25.08. vier von 46. Die standen dann roh im Feed.
+  // Seit dem Modellwechsel kostet ein Block 2-4 Sekunden statt 52, ein zweiter
+  // Durchgang faellt also kaum ins Gewicht.
+  var formattedExclusions = aiExclusions.map(function(l) { return "- " + l; }).join("\n");
 
-    for (var chunkStart = 0; chunkStart < itemsToAnalyze.length; chunkStart += AI_CHUNK_SIZE) {
-      var chunkEnd   = Math.min(chunkStart + AI_CHUNK_SIZE, itemsToAnalyze.length);
-      var chunkItems = itemsToAnalyze.slice(chunkStart, chunkEnd);
+  function baueRedaktionsPrompt(chunkItems) {
+    var itemsForAi = chunkItems.map(function(item, li) {
+      return { id: li, title: item.title, description: item.description.substring(0, 3000), feed: item.feedName };
+    });
 
-      var itemsForAi = chunkItems.map(function(item, li) {
-        return { id: li, title: item.title, description: item.description.substring(0, 3000), feed: item.feedName };
-      });
+    var exclusionBlock = aiExclusions.length > 0
+      ? "a) Thema gehoert zu diesen Ausschlusskriterien (NUR diese, keine eigenen Urteile):\n" + formattedExclusions + "\n"
+      : "a) Keine Ausschlusskriterien definiert - nach Thema nichts entfernen.\n";
 
-      if (Date.now() - nowMs > AI_BUDGET_MS) {
-        var offen = itemsToAnalyze.length - chunkStart;
-        Logger.log("[KI GESTOPPT] Zeitbudget erreicht, " + offen + " Eintraege bleiben fuer den naechsten Lauf.");
-        aiLog.push("- Zeitbudget erreicht: " + offen + " Eintraege unbearbeitet, werden beim naechsten Lauf nachgeholt.");
-        break;
-      }
-
-      log("[KI] Block " + chunkStart + "-" + (chunkEnd - 1) + " (" + chunkItems.length + " Artikel)");
-
-      var exclusionBlock = aiExclusions.length > 0
-        ? "a) Thema gehoert zu diesen Ausschlusskriterien (NUR diese, keine eigenen Urteile):\n" + formattedExclusions + "\n"
-        : "a) Keine Ausschlusskriterien definiert - nach Thema nichts entfernen.\n";
-
-      // Die KI liefert Felder, keine fertigen Titel. Datum, Entfernung und
-      // Dauerausstellungen entscheidet danach das Skript.
-      var prompt = "Redakteur, Veranstaltungskalender Schweiz. Heute: " + todayStr + ".\n\n" +
+    // Die KI liefert Felder, keine fertigen Titel. Datum, Entfernung und
+    // Dauerausstellungen entscheidet danach das Skript.
+    return "Redakteur, Veranstaltungskalender Schweiz. Heute: " + todayStr + ".\n\n" +
       "Gib zu JEDEM behaltenen Artikel ein Objekt in \"updates\" zurueck. Felder:\n" +
       '- "ort": Ortsname der Veranstaltung in Originalschreibweise (Lausanne, Zuerich, Cheseaux-Noreaz). ' +
-      "Aus Titel, Beschreibung oder Feed-Name; bekannte Haeuser (mudac, Kunsthalle Bern, Landesmuseum) per Weltwissen zuordnen.\n" +
+      "NUR aus dem Text des Eintrags oder aus Weltwissen ueber ein NAMENTLICH genanntes Haus " +
+      "(mudac -> Lausanne, Landesmuseum -> Zuerich, Musee Ariana -> Genf). " +
+      "Der Feed-Name ist KEINE Ortsangabe: 'Vaud.de Morges' bezeichnet eine Region, nicht den " +
+      "Veranstaltungsort. Nennt der Text weder Ort noch Haus, setze ort auf \"\" und nimm den Eintrag " +
+      "in idsToRemove mit reason 'Ort unbekannt' auf. Erfinde nie einen Ort und schreibe nie einen " +
+      "geratenen Ort in die Beschreibung.\n" +
       '- "kanton": Kantonskuerzel des Orts (VD, GE, VS, NE, FR, BE, ZH, BS, BL, LU, SG, AI, AR, GR, TI, ...), ' +
-      'fuer Liechtenstein "FL". Immer ausfuellen.\n' +
+      'fuer Liechtenstein "FL". Immer ausfuellen, wenn ein Ort bestimmt wurde.\n' +
       '- "titel": Titel auf DEUTSCH - IMMER. Franzoesische, englische und italienische Titel MUSST du ' +
       "uebersetzen, auch Ausstellungstitel, auch wenn sie gut klingen. 'Les aventures de Gouttelette' wird " +
       "'Die Abenteuer von Gouttelette', 'Et nous alors?' wird 'Und wir?'. Kein halb uebersetzter Titel. " +
       "NICHT uebersetzt werden ausschliesslich Eigennamen: Personennamen (Alfredo Jaar, Ted Joans), " +
       "Festival- und Bandnamen (Paillote Festival, Black Colors), Hausnamen (Musee Alexis Forel) und " +
-      "Werktitel, die als Zitat stehen. Kein Ort und kein Datum im Titel.\n" +
+      "Werktitel, die als Zitat stehen. Kein Ort, kein Datum und keine Gattungsangabe im Titel - " +
+      "'Ausstellung' oder 'Konzert' gehoert in das Feld art, nicht in den Titel.\n" +
       '- "start": erster Tag als TT.MM.JJJJ, sonst "".\n' +
       '- "ende": letzter Tag als TT.MM.JJJJ. Eintaegige Veranstaltung: ende = start. Unbekannt: "".\n' +
       '- "art": genau eines von Ausstellung, Konzert, Festival, Fuehrung, Lesung, Theater, Kino, Markt, Sport, Familie, Vortrag, Sonstiges.\n' +
       '- "description": max. 220 Zeichen Deutsch: Was/Thema/Highlight, am Ende der Veranstaltungsort ' +
-      "(vollstaendiger Hausname, Stadt). Kein Fuelltext.\n\n" +
+      "(vollstaendiger Hausname, Stadt), sofern er im Text steht. Kein Fuelltext.\n\n" +
       "FORMAT: Antworte als EINE Zeile reines JSON, ohne Zeilenumbrueche, ohne Einrueckung, ohne Markdown. " +
       "Jedes Zeichen kostet Antwortzeit, und eine zu lange Antwort wird abgeschnitten.\n\n" +
       "DATUM: Jahreszahlen im Titel (Anno 1811, Sommer 1968) sind KEINE Termine. Steht nur ein einziges " +
@@ -1037,79 +1040,107 @@ function updateRSSFeed() {
       exclusionBlock +
       "b) Duplikat - exakt einen behalten, nie alle loeschen. Auch Duplikate aus frueheren Bloecken beachten. " +
       "Eine Vernissage oder Fuehrung zu einer Ausstellung, die als eigener Eintrag existiert, ist ein Duplikat.\n" +
-      "c) Ort auch per Weltwissen nicht bestimmbar.\n" +
+      "c) Ort weder im Text genannt noch ueber ein benanntes Haus bestimmbar.\n" +
       "Nach Datum oder Entfernung NICHT selbst filtern - das macht das Skript.\n\n" +
+      "PFLICHT: Jeder Artikel muss entweder in updates oder in idsToRemove auftauchen. Lass keinen aus.\n" +
       "JSON (kein Markdown):\n" +
       "{\"idsToRemove\":[{\"id\":3,\"reason\":\"Duplikat\"}]," +
       "\"updates\":[{\"id\":0,\"ort\":\"Morges\",\"kanton\":\"VD\",\"titel\":\"Wake Up & Run\"," +
       "\"start\":\"28.08.2026\",\"ende\":\"28.08.2026\",\"art\":\"Sport\"," +
       "\"description\":\"Fruehmorgendlicher Lauf durch die Stadt. Start Place du Casino, Morges.\"}]}\n\n" +
       "Artikel:\n" + JSON.stringify(itemsForAi);
+  }
 
-      try {
-        var rawText  = callAi(prompt, props, AI_MAX_TOKENS).trim();
-        var aiResult = parseRedaktionsAntwort(rawText);
+  function verarbeiteBlock(chunkItems, etikett) {
+    try {
+      var rawText  = callAi(baueRedaktionsPrompt(chunkItems), props, AI_MAX_TOKENS).trim();
+      var aiResult = parseRedaktionsAntwort(rawText);
 
-        if (aiResult.gerettet) {
-          // Antwort war unvollstaendig. Was gerettet wurde, wird verwendet; der
-          // Rest des Blocks behaelt weiter unten Titel und Text der Quelle.
-          var meldung = "Antwort abgeschnitten (" + rawText.length + " Zeichen), " +
-                        aiResult.updates.length + " von " + chunkItems.length + " Eintraegen gerettet";
-          Logger.log("[KI TEILWEISE] Block " + chunkStart + ": " + meldung);
-          Logger.log("[KI ROHTEXT-ENDE] ..." + rawText.substring(Math.max(0, rawText.length - 200)));
-          aiLog.push("- " + meldung + " [Block " + chunkStart + "]");
-        }
-
-        if (aiResult.updates && Array.isArray(aiResult.updates)) {
-          aiResult.updates.forEach(function(upd) {
-            if (!upd || typeof upd !== "object") return;
-            var origItem = chunkItems[parseInt(upd.id, 10)];
-            if (!origItem) return;
-
-            var meta = {
-              ort:         String(upd.ort    || "").trim(),
-              kanton:      String(upd.kanton || "").trim().toUpperCase(),
-              titel:       String(upd.titel  || origItem.title).trim(),
-              start:       String(upd.start  || "").trim(),
-              ende:        String(upd.ende   || "").trim(),
-              art:         String(upd.art    || "Sonstiges").trim(),
-              description: String(upd.description || origItem.description).trim()
-            };
-            if (hatFremdeZeichen(meta.titel) || hatFremdeZeichen(meta.description)) {
-              var vorher     = meta.titel;
-              meta.titel       = normalisiereZeichen(meta.titel);
-              meta.description = normalisiereZeichen(meta.description);
-              if (vorher !== meta.titel) {
-                aiLog.push("- Zeichen bereinigt: '" + vorher + "' -> '" + meta.titel + "'");
-              }
-            }
-
-            origItem.meta = meta;
-            cacheEntries[origItem.link] = {
-              v: CACHE_VERSION, meta: meta, cachedAt: nowMs, removed: false, reason: ""
-            };
-          });
-        }
-
-        if (aiResult.idsToRemove && Array.isArray(aiResult.idsToRemove)) {
-          aiResult.idsToRemove.forEach(function(entry) {
-            var localId  = typeof entry === "object" ? parseInt(entry.id, 10) : parseInt(entry, 10);
-            var reason   = typeof entry === "object" ? (entry.reason || "Kein Grund") : "Kein Grund";
-            var origItem = chunkItems[localId];
-            if (!origItem) return;
-            origItem._cacheRemoved = true;
-            aiLog.push("- Geloescht [" + reason + "]: '" + origItem.title + "' [Feed: " + origItem.feedName + "]");
-            cacheEntries[origItem.link] = {
-              v: CACHE_VERSION, meta: { titel: origItem.title }, cachedAt: nowMs,
-              removed: true, reason: reason
-            };
-          });
-        }
-      } catch(aiErr) {
-        Logger.log("[KI FEHLER] Block " + chunkStart + ": " + aiErr.toString());
+      if (aiResult.gerettet) {
+        // Antwort war unvollstaendig. Was gerettet wurde, wird verwendet; der
+        // Rest des Blocks kommt in den zweiten Durchgang.
+        var meldung = "Antwort abgeschnitten (" + rawText.length + " Zeichen), " +
+                      aiResult.updates.length + " von " + chunkItems.length + " Eintraegen gerettet";
+        Logger.log("[KI TEILWEISE] " + etikett + ": " + meldung);
+        Logger.log("[KI ROHTEXT-ENDE] ..." + rawText.substring(Math.max(0, rawText.length - 200)));
+        aiLog.push("- " + meldung + " [" + etikett + "]");
       }
 
-      if (chunkEnd < itemsToAnalyze.length) Utilities.sleep(1000);
+      aiResult.updates.forEach(function(upd) {
+        if (!upd || typeof upd !== "object") return;
+        var origItem = chunkItems[parseInt(upd.id, 10)];
+        if (!origItem) return;
+
+        var meta = {
+          ort:         String(upd.ort    || "").trim(),
+          kanton:      String(upd.kanton || "").trim().toUpperCase(),
+          titel:       String(upd.titel  || origItem.title).trim(),
+          start:       String(upd.start  || "").trim(),
+          ende:        String(upd.ende   || "").trim(),
+          art:         String(upd.art    || "Sonstiges").trim(),
+          description: String(upd.description || origItem.description).trim()
+        };
+        if (hatFremdeZeichen(meta.titel) || hatFremdeZeichen(meta.description)) {
+          var vorher       = meta.titel;
+          meta.titel       = normalisiereZeichen(meta.titel);
+          meta.description = normalisiereZeichen(meta.description);
+          if (vorher !== meta.titel) {
+            aiLog.push("- Zeichen bereinigt: '" + vorher + "' -> '" + meta.titel + "'");
+          }
+        }
+
+        origItem.meta = meta;
+        cacheEntries[origItem.link] = {
+          v: CACHE_VERSION, meta: meta, cachedAt: nowMs, removed: false, reason: ""
+        };
+      });
+
+      aiResult.idsToRemove.forEach(function(entry) {
+        var localId  = typeof entry === "object" ? parseInt(entry.id, 10) : parseInt(entry, 10);
+        var reason   = typeof entry === "object" ? (entry.reason || "Kein Grund") : "Kein Grund";
+        var origItem = chunkItems[localId];
+        if (!origItem) return;
+        origItem._cacheRemoved = true;
+        aiLog.push("- Geloescht [" + reason + "]: '" + origItem.title + "' [Feed: " + origItem.feedName + "]");
+        cacheEntries[origItem.link] = {
+          v: CACHE_VERSION, meta: { titel: origItem.title }, cachedAt: nowMs,
+          removed: true, reason: reason
+        };
+      });
+    } catch(aiErr) {
+      Logger.log("[KI FEHLER] " + etikett + ": " + aiErr.toString());
+    }
+  }
+
+  // Arbeitet eine Liste blockweise ab. Bricht ab, wenn das Zeitbudget der
+  // Ausfuehrung erreicht ist, und meldet, wie viele offen blieben.
+  function redaktionsDurchgang(liste, etikett) {
+    for (var i = 0; i < liste.length; i += AI_CHUNK_SIZE) {
+      if (Date.now() - nowMs > AI_BUDGET_MS) {
+        var offen = liste.length - i;
+        Logger.log("[KI GESTOPPT] Zeitbudget erreicht, " + offen + " Eintraege bleiben fuer den naechsten Lauf.");
+        aiLog.push("- Zeitbudget erreicht: " + offen + " Eintraege unbearbeitet, werden beim naechsten Lauf nachgeholt.");
+        return offen;
+      }
+      var chunk = liste.slice(i, i + AI_CHUNK_SIZE);
+      log("[KI] " + etikett + " " + i + "-" + (i + chunk.length - 1) + " (" + chunk.length + " Artikel)");
+      verarbeiteBlock(chunk, etikett + " " + i);
+      if (i + AI_CHUNK_SIZE < liste.length) Utilities.sleep(1000);
+    }
+    return 0;
+  }
+
+  if (itemsToAnalyze.length > 0 && (props.openrouterKey || props.geminiKey)) {
+    redaktionsDurchgang(itemsToAnalyze, "Block");
+
+    var nachzuegler = itemsToAnalyze.filter(function(it) { return !it.meta && !it._cacheRemoved; });
+    if (nachzuegler.length > 0) {
+      log("[KI] " + nachzuegler.length + " Eintraege ohne Ergebnis - zweiter Versuch.");
+      redaktionsDurchgang(nachzuegler, "Nachzuegler");
+
+      var immerNoch = itemsToAnalyze.filter(function(it) { return !it.meta && !it._cacheRemoved; }).length;
+      aiLog.push("- Zweiter Versuch fuer " + nachzuegler.length + " uebersprungene Eintraege, " +
+                 (nachzuegler.length - immerNoch) + " davon nachgeholt.");
     }
 
   } else if (itemsToAnalyze.length > 0) {
@@ -1128,6 +1159,10 @@ function updateRSSFeed() {
       // abgeschnittene Antwort). Dann bleibt er so im Feed, wie die Quelle ihn
       // liefert - unformatiert, aber vorhanden. Ihn zu verwerfen hiesse, einen
       // KI-Ausfall in einen leeren Feed zu uebersetzen.
+      // Auch der Roh-Titel bekommt die Zeichenbereinigung ab: der Fehler in
+      // "Symphởnie der Gewuerze" steckt in der Quelle, nicht in der KI.
+      item.title       = normalisiereZeichen(item.title);
+      item.description = normalisiereZeichen(item.description);
       ohneMetaLog.push("- Unveraendert [Keine KI-Daten]: '" + item.title + "' [Feed: " + item.feedName + "]");
       return;
     }

@@ -23,8 +23,11 @@ Ergebnis in diesem Repo ab, das über GitHub Pages ausgeliefert wird.
 1. Quellen aus der Tabelle lesen, Feeds holen.
 2. Keyword-Filter (Spalte C der Tabelle).
 3. Cache-Abgleich: was schon analysiert wurde, wird nicht erneut an die KI gegeben.
-4. KI-Redaktion: liefert **strukturierte Felder**, keine fertigen Titel —
-   `ort`, `kanton`, `titel` (deutsch), `start`, `ende`, `art`, `description`.
+4. KI-Redaktion in **zwei Durchgängen**: erst alle Blöcke, dann eine zweite
+   Runde für Einträge, zu denen nichts zurückkam — das kleine Modell überspringt
+   gelegentlich einzelne Artikel. Sie liefert **strukturierte Felder**, keine
+   fertigen Titel: `ort`, `kanton`, `titel` (deutsch), `start`, `ende`, `art`,
+   `description`.
    Sie entfernt nach Thema, Dubletten im Block, fehlendem Ort und
    Dauerausstellungen. Letzteres ist bewusst bei der KI geblieben: ein
    fehlendes Datum heisst nicht "unbefristet", der Plateforme-10-Feed liefert
@@ -33,7 +36,7 @@ Ergebnis in diesem Repo ab, das über GitHub Pages ausgeliefert wird.
 5. Regelfilter im Skript: Datum, Reisezeit, Dauerausstellung, Dubletten.
    Alles Rechenbare gehört hierher, nicht in den Prompt — es gilt dann auch
    für Einträge aus dem Cache.
-6. Titel bauen, RSS schreiben, zusammen mit Log und Cache nach GitHub hochladen.
+6. Titel bauen (`[Ort] [Gattung] Titel - Datum`), RSS schreiben, zusammen mit Log und Cache nach GitHub hochladen.
 
 ## Stellschrauben (oben in `Code.js`)
 
@@ -63,6 +66,19 @@ vollständigen Objekte, damit ein Block nicht komplett verloren geht.
 längere Laufzeit, deshalb hört die Schleife nach `AI_BUDGET_MS` von selbst auf.
 Die übrigen Einträge stehen dann eine Runde unformatiert im Feed und werden
 beim nächsten Lauf nachgeholt — ohne KI-Antwort entsteht kein Cache-Eintrag.
+
+## Der Ort darf nie geraten werden
+
+Der Prompt hat lange erlaubt, den Ort aus dem **Feed-Namen** abzuleiten. Das
+ging gut, solange jede Quelle für genau einen Ort stand. Mit `Vaud.de Morges`
+— einer Quelle für die ganze Region — schrieb die KI dann `Morges` an
+Veranstaltungen, die anderswo stattfanden, und sogar in deren Beschreibung
+hinein. Seither gilt: Ort nur aus dem Text des Eintrags oder aus Weltwissen
+über ein **namentlich genanntes Haus**. Sonst fliegt der Eintrag raus.
+
+Das kostet Einträge bei Regionsquellen, und das ist Absicht: ein falscher Ort
+ist schlimmer als ein fehlender Eintrag, weil der Entfernungsfilter auf dem
+Ort aufbaut.
 
 ## Grundregel: ein Ausfall darf den Feed nicht leeren
 
