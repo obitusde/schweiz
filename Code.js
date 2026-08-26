@@ -68,7 +68,17 @@ const VORSCHAU_TAGE       = 28;
 // Kurze Spannen bis zu so vielen Tagen werden als "27.-29.08." geschrieben.
 const SPANNE_MAX_TAGE     = 7;
 // Aendert sich das Cache-Format, muessen alte Eintraege einmal neu durch die KI.
-const CACHE_VERSION       = 6;
+const CACHE_VERSION       = 7;
+
+// Der Prompt listet die Gattungen ohne Umlaute auf, damit die Antwort robust
+// bleibt. Fuer den Titel werden sie hier zurueckuebersetzt.
+const ART_ANZEIGE = {
+  "fuehrung": "F\u00fchrung", "fuhrung": "F\u00fchrung",
+  "vortrag":  "Vortrag",  "lesung":  "Lesung",  "konzert": "Konzert",
+  "festival": "Festival", "theater": "Theater", "kino":    "Kino",
+  "markt":    "Markt",    "sport":   "Sport",   "familie": "Familie",
+  "ausstellung": "Ausstellung"
+};
 
 const MS_PRO_TAG = 24 * 60 * 60 * 1000;
 const WOCHENTAGE = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
@@ -293,6 +303,7 @@ function baueTitel(meta, heute) {
   // Klammer, die nichts sagt, kostet nur Platz in der Zeile.
   var label = ortLabel(meta.ort, meta.kanton);
   var art   = String(meta.art || "").trim();
+  art = ART_ANZEIGE[art.toLowerCase()] || art;
   var kopf  = (label ? "[" + label + "] " : "") +
               (art && art.toLowerCase() !== "sonstiges" ? "[" + art + "] " : "");
   return kopf + String(meta.titel || "").trim() + (zusatz ? " - " + zusatz : "");
@@ -1000,7 +1011,8 @@ function updateRSSFeed() {
 
   function baueRedaktionsPrompt(chunkItems) {
     var itemsForAi = chunkItems.map(function(item, li) {
-      return { id: li, title: item.title, description: item.description.substring(0, 3000), feed: item.feedName };
+      return { id: li, title: item.title, description: item.description.substring(0, 3000),
+               url: item.link, feed: item.feedName };
     });
 
     var exclusionBlock = aiExclusions.length > 0
@@ -1012,12 +1024,16 @@ function updateRSSFeed() {
     return "Redakteur, Veranstaltungskalender Schweiz. Heute: " + todayStr + ".\n\n" +
       "Gib zu JEDEM behaltenen Artikel ein Objekt in \"updates\" zurueck. Felder:\n" +
       '- "ort": Ortsname der Veranstaltung in Originalschreibweise (Lausanne, Zuerich, Cheseaux-Noreaz). ' +
-      "NUR aus dem Text des Eintrags oder aus Weltwissen ueber ein NAMENTLICH genanntes Haus " +
-      "(mudac -> Lausanne, Landesmuseum -> Zuerich, Musee Ariana -> Genf). " +
-      "Der Feed-Name ist KEINE Ortsangabe: 'Vaud.de Morges' bezeichnet eine Region, nicht den " +
-      "Veranstaltungsort. Nennt der Text weder Ort noch Haus, setze ort auf \"\" und nimm den Eintrag " +
-      "in idsToRemove mit reason 'Ort unbekannt' auf. Erfinde nie einen Ort und schreibe nie einen " +
-      "geratenen Ort in die Beschreibung.\n" +
+      "Drei erlaubte Herleitungen, in dieser Reihenfolge:\n" +
+      "  (1) Ein Ortsname, der im Titel oder in der Beschreibung steht - auch als Teil eines Namens: " +
+      "'Morges Open Air' -> Morges, 'Expo Avenches' -> Avenches, 'Chateau de Vullierens' -> Vullierens.\n" +
+      "  (2) Ein namentlich genanntes Haus, dessen Ort du kennst: mudac -> Lausanne, " +
+      "Landesmuseum -> Zuerich, Musee Ariana -> Genf, Kunstmuseum Thun -> Thun.\n" +
+      "  (3) Ein Ortsname in der URL des Eintrags.\n" +
+      "VERBOTEN ist die Herleitung aus dem Feed-Namen: 'Vaud.de Morges' bezeichnet eine Region, nicht " +
+      "den Veranstaltungsort. Greift keine der drei Herleitungen, setze ort auf \"\" und nimm den " +
+      "Eintrag in idsToRemove mit reason 'Ort unbekannt' auf. Erfinde nie einen Ort und schreibe nie " +
+      "einen geratenen Ort in die Beschreibung.\n" +
       '- "kanton": Kantonskuerzel des Orts (VD, GE, VS, NE, FR, BE, ZH, BS, BL, LU, SG, AI, AR, GR, TI, ...), ' +
       'fuer Liechtenstein "FL". Immer ausfuellen, wenn ein Ort bestimmt wurde.\n' +
       '- "titel": Titel auf DEUTSCH - IMMER. Franzoesische, englische und italienische Titel MUSST du ' +
