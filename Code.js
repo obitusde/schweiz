@@ -83,7 +83,7 @@ const ANKER_HAEUSER = [
   "musee d'art et d'histoire", "mus\u00e9e d'art et d'histoire",
   "musee ariana", "mus\u00e9e ariana", "maison tavel",
   "photo elysee", "photo elys\u00e9e", "mudac", "mcba", "plateforme 10",
-  "fondation beyeler", "museum franz gertsch", "kunstmuseum thun",
+  "fondation beyeler", "kunstmuseum thun",
   "chateau de prangins", "ch\u00e2teau de prangins"
 ];
 
@@ -1279,16 +1279,48 @@ function updateRSSFeed() {
       if (besteProSchluessel[schluessel[i]] !== undefined) { bisher = besteProSchluessel[schluessel[i]]; break; }
     }
 
+    // Zwei Quellen nennen dieselbe Ausstellung verschieden lang:
+    // "Susanne Keller. Hinterkammer des Auges" und "Hinterkammer des Auges".
+    // Steckt der eine Titel vollstaendig im anderen und ist der Ort derselbe,
+    // ist es dieselbe Veranstaltung. Die Mindestlaenge verhindert, dass kurze
+    // Allerweltstitel alles zusammenziehen.
+    if (bisher === null) {
+      var meins    = dublettenSchluessel(item.meta).split("|");
+      var meinOrt  = meins[0], meinTitel = meins[1] || "";
+      for (var k in besteProSchluessel) {
+        if (k.indexOf("slug|") === 0) continue;              // nur Titelschluessel
+        var teile = k.split("|");
+        if (teile[0] !== meinOrt) continue;                  // anderer Ort, andere Veranstaltung
+        var anderer = teile[1] || "";
+        var kurz = anderer.length < meinTitel.length ? anderer : meinTitel;
+        var lang = anderer.length < meinTitel.length ? meinTitel : anderer;
+        if (kurz.length >= 15 && lang.indexOf(kurz) !== -1) {
+          bisher = besteProSchluessel[k];
+          break;
+        }
+      }
+    }
+
     if (bisher === null) {
       var neu = { idx: idx, hatDatum: hatDatum, schluessel: schluessel };
       schluessel.forEach(function(k) { besteProSchluessel[k] = neu; });
       return;
     }
 
-    // Es gewinnt der Eintrag mit Datum, sonst der zuerst gesehene.
+    // Es gewinnt der Eintrag mit Datum; steht es bei beiden gleich, der mit dem
+    // aussagekraeftigeren Titel ("Susanne Keller. Hinterkammer des Auges"
+    // schlaegt "Hinterkammer des Auges").
+    var neuGewinnt;
+    if (hatDatum !== bisher.hatDatum) {
+      neuGewinnt = hatDatum;
+    } else {
+      neuGewinnt = String(item.meta.titel || "").length >
+                   String(allItems[bisher.idx].meta.titel || "").length;
+    }
+
     var sieger, verlierer;
-    if (hatDatum && !bisher.hatDatum) { sieger = { idx: idx, hatDatum: hatDatum, schluessel: schluessel }; verlierer = bisher.idx; }
-    else                              { sieger = bisher;                                                   verlierer = idx; }
+    if (neuGewinnt) { sieger = { idx: idx, hatDatum: hatDatum, schluessel: schluessel }; verlierer = bisher.idx; }
+    else            { sieger = bisher;                                                   verlierer = idx; }
 
     // Beide Schluesselsaetze auf den Sieger zeigen lassen, damit auch eine
     // dritte Dublette erkannt wird, egal ueber welchen Schluessel sie passt.
