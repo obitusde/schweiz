@@ -46,6 +46,8 @@ Ergebnis in diesem Repo ab, das über GitHub Pages ausgeliefert wird.
 | `AUSNAHME_ORTE` | Orte, die trotz längerer Anreise drinbleiben. Zurzeit Zürich und Bern. |
 | `REISEZEIT_ORT` / `REISEZEIT_KANTON` | Die Reisezeit-Tabelle. Unbekannter Ort → Kanton entscheidet. |
 | `GROSSE_ORTE` | Orte ohne Kantonskürzel im Titel. Alle anderen: `[Cheseaux-Noréaz VD]`. |
+| `RANG_SCHWELLEN` | Welcher Bedeutungsrang bei welcher Reisezeit noch reicht. |
+| `ANKER_HAEUSER` | Häuser, die immer als überregional gelten. Dein Hebel, wenn etwas fehlt. |
 | `VORSCHAU_TAGE` | Wie weit voraus der Feed schaut. Betrifft nur den Beginn — Laufendes bleibt. |
 | `MAX_LAUFZEIT_TAGE` | Ab welcher Restlaufzeit etwas als Dauerausstellung gilt. |
 | `AI_CHUNK_SIZE` | Einträge pro KI-Aufruf. **Nicht erhöhen** — siehe unten. |
@@ -66,6 +68,28 @@ vollständigen Objekte, damit ein Block nicht komplett verloren geht.
 längere Laufzeit, deshalb hört die Schleife nach `AI_BUDGET_MS` von selbst auf.
 Die übrigen Einträge stehen dann eine Runde unformatiert im Feed und werden
 beim nächsten Lauf nachgeholt — ohne KI-Antwort entsteht kein Cache-Eintrag.
+
+## Je weiter weg, desto mehr muss es hergeben
+
+Der Feed soll nicht alles zeigen, sondern was sich lohnt — und vor der Haustür
+lohnt sich mehr als in Zürich. Deshalb liefert die KI je Eintrag einen
+**Rang** (1 = überregional, 2 = solide regional, 3 = klein/lokal), und das
+Skript entscheidet anhand der Reisezeit, was reicht:
+
+| Reisezeit ab Morges | verlangt |
+|---|---|
+| bis 30 min (Morges, Lausanne, Nyon, Prangins) | jeder Rang |
+| bis 60 min (Genf, Yverdon, Vevey) | Rang 1–2 |
+| darüber (Bern, Thun, Sierre, Zürich) | nur Rang 1 |
+
+Eine Van-Gogh-Retrospektive in Zürich kommt also durch, die Ortsmuseums-Vitrine
+in Bern nicht — eine kleine Ausstellung in Morges dagegen schon.
+
+`ANKER_HAEUSER` überschreibt das Urteil der KI für Häuser von nationalem Rang.
+Fehlt dir etwas aus einer Stadt, ist das die Stelle: Hausnamen eintragen,
+klein geschrieben. Fehlt der Rang in der KI-Antwort, wird 2 angenommen und das
+im Protokoll vermerkt — steht dort oft „von der KI nicht gesetzt", stimmt etwas
+mit dem Prompt nicht.
 
 ## Der Ort darf nie geraten werden
 

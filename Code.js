@@ -61,6 +61,32 @@ const MAX_LAUFZEIT_TAGE   = 365;
 // "bis 31.12." ist der uebliche Platzhalter fuer "unbefristet" - ab dieser
 // Restlaufzeit wird er als Dauerausstellung gewertet.
 const JAHRESENDE_MIN_TAGE = 92;
+// Je weiter die Anreise, desto mehr muss der Anlass hergeben. Vor der Haustuer
+// zaehlt alles, in Zuerich nur noch das Grosse. Die KI liefert den Rang
+// (1 = ueberregional, 2 = solide regional, 3 = klein), das Skript entscheidet,
+// was an diesem Ort reicht.
+const RANG_SCHWELLEN = [
+  { bisMinuten:       30, maxRang: 3 },   // Morges, Lausanne, Nyon, Prangins
+  { bisMinuten:       60, maxRang: 2 },   // Genf, Yverdon, Vevey, Montreux
+  { bisMinuten: Infinity, maxRang: 1 }    // Bern, Thun, Sierre, Zuerich
+];
+
+// Haeuser, die immer als ueberregional gelten, egal wie die KI den einzelnen
+// Anlass einschaetzt. Der Hebel, wenn dir aus einer Stadt etwas fehlt:
+// Hausnamen hier eintragen, klein geschrieben.
+const ANKER_HAEUSER = [
+  "kunstmuseum bern", "zentrum paul klee", "historisches museum bern",
+  "landesmuseum", "nationalmuseum", "musee national", "mus\u00e9e national",
+  "kunsthaus z\u00fcrich", "kunsthaus zurich", "kunsthalle z\u00fcrich",
+  "museum rietberg", "v\u00f6lkerkundemuseum", "voelkerkundemuseum",
+  "musee d'ethnographie", "mus\u00e9e d'ethnographie",
+  "musee d'art et d'histoire", "mus\u00e9e d'art et d'histoire",
+  "musee ariana", "mus\u00e9e ariana", "maison tavel",
+  "photo elysee", "photo elys\u00e9e", "mudac", "mcba", "plateforme 10",
+  "fondation beyeler", "museum franz gertsch", "kunstmuseum thun",
+  "chateau de prangins", "ch\u00e2teau de prangins"
+];
+
 // Wie weit voraus soll der Feed schauen? Faengt erst in ferner Zukunft an,
 // fliegt es raus - ein Konzert im Maerz hilft heute niemandem. Betrifft nur
 // den BEGINN: was jetzt schon laeuft, bleibt drin, auch wenn es lange geht.
@@ -68,7 +94,7 @@ const VORSCHAU_TAGE       = 28;
 // Kurze Spannen bis zu so vielen Tagen werden als "27.-29.08." geschrieben.
 const SPANNE_MAX_TAGE     = 7;
 // Aendert sich das Cache-Format, muessen alte Eintraege einmal neu durch die KI.
-const CACHE_VERSION       = 7;
+const CACHE_VERSION       = 8;
 
 // Der Prompt listet die Gattungen ohne Umlaute auf, damit die Antwort robust
 // bleibt. Fuer den Titel werden sie hier zurueckuebersetzt.
@@ -309,6 +335,23 @@ function baueTitel(meta, heute) {
   return kopf + String(meta.titel || "").trim() + (zusatz ? " - " + zusatz : "");
 }
 
+// Welcher Rang reicht bei dieser Reisezeit noch aus?
+function erlaubterRang(minuten) {
+  for (var i = 0; i < RANG_SCHWELLEN.length; i++) {
+    if (minuten <= RANG_SCHWELLEN[i].bisMinuten) return RANG_SCHWELLEN[i].maxRang;
+  }
+  return 1;
+}
+
+// Wird eines der Ankerhaeuser genannt, zaehlt der Anlass als ueberregional.
+function istAnkerHaus(meta) {
+  var text = (String(meta.titel || "") + " " + String(meta.description || "")).toLowerCase();
+  for (var i = 0; i < ANKER_HAEUSER.length; i++) {
+    if (text.indexOf(ANKER_HAEUSER[i]) !== -1) return true;
+  }
+  return false;
+}
+
 // Vergleichsschluessel fuer die Dublettenpruefung: Ort plus Titel, reduziert auf
 // Buchstaben und Ziffern. "Ella Maillart: Fotografische Erzaehlungen" und
 // "Ella Maillart. Fotografische Erzaehlungen" ergeben damit denselben Schluessel.
@@ -353,6 +396,19 @@ function pruefeMeta(meta, heute) {
   }
   if (!ausnahme && min > MAX_REISEZEIT_MIN) {
     return "Zu weit weg: " + meta.ort + " ~" + min + " min ab Morges";
+  }
+
+  // Bedeutung gegen Entfernung. Ein unbekanntes Thema vor der Haustuer bleibt
+  // drin, weil dort jeder Rang reicht; eine kleine Ausstellung in Zuerich nicht.
+  var rang    = parseInt(meta.rang, 10);
+  var geraten = !(rang >= 1 && rang <= 3);
+  if (geraten) rang = 2;                        // fehlt oder unbrauchbar: Mittelweg
+  if (istAnkerHaus(meta)) { rang = 1; geraten = false; }
+  var noetig = erlaubterRang(min === -1 ? Infinity : min);
+  if (rang > noetig) {
+    return "Rang " + rang + (geraten ? " (von der KI nicht gesetzt, angenommen)" : "") +
+           ", bei " + (min === -1 ? "unbekannter" : min + " min") +
+           " Anreise zaehlt nur Rang " + noetig;
   }
 
   var start = parseDatum(meta.start);
@@ -1046,6 +1102,16 @@ function updateRSSFeed() {
       '- "start": erster Tag als TT.MM.JJJJ, sonst "".\n' +
       '- "ende": letzter Tag als TT.MM.JJJJ. Eintaegige Veranstaltung: ende = start. Unbekannt: "".\n' +
       '- "art": genau eines von Ausstellung, Konzert, Festival, Fuehrung, Lesung, Theater, Kino, Markt, Sport, Familie, Vortrag, Sonstiges.\n' +
+      '- "rang": Bedeutung des Anlasses, 1 bis 3.\n' +
+      "  1 = ueberregional. Haus von nationalem Rang (Kunstmuseum Bern, Zentrum Paul Klee, Landesmuseum, " +
+      "Kunsthaus Zuerich, MEG, Musee d'art et d'histoire, Photo Elysee, mudac, MCBA), Retrospektive oder " +
+      "Werkschau eines bekannten Namens, grosse Sonderausstellung. Eine Van-Gogh-Schau ist immer 1.\n" +
+      "  2 = etabliertes regionales Museum, solide Sonderausstellung, groesseres Festival.\n" +
+      "  3 = Kabinett-, Vereins-, Schul- oder Ortsmuseum, Vitrinenausstellung, Begleitprogramm, " +
+      "Spielnachmittag, Vereinsanlass.\n" +
+      "  Im Zweifel 2. Der Rang bewertet die Bedeutung des ANLASSES, nicht wie spannend das Thema klingt: " +
+      "ein sperriges Thema in einem grossen Haus bleibt 1, ein huebsches Thema im Ortsmuseum bleibt 3. " +
+      "Das Skript entscheidet danach selbst, welcher Rang bei welcher Entfernung reicht.\n" +
       '- "description": max. 220 Zeichen Deutsch: Was/Thema/Highlight, am Ende der Veranstaltungsort ' +
       "(vollstaendiger Hausname, Stadt), sofern er im Text steht. Kein Fuelltext.\n\n" +
       "FORMAT: Antworte als EINE Zeile reines JSON, ohne Zeilenumbrueche, ohne Einrueckung, ohne Markdown. " +
@@ -1062,7 +1128,7 @@ function updateRSSFeed() {
       "JSON (kein Markdown):\n" +
       "{\"idsToRemove\":[{\"id\":3,\"reason\":\"Duplikat\"}]," +
       "\"updates\":[{\"id\":0,\"ort\":\"Morges\",\"kanton\":\"VD\",\"titel\":\"Wake Up & Run\"," +
-      "\"start\":\"28.08.2026\",\"ende\":\"28.08.2026\",\"art\":\"Sport\"," +
+      "\"start\":\"28.08.2026\",\"ende\":\"28.08.2026\",\"art\":\"Sport\",\"rang\":3," +
       "\"description\":\"Fruehmorgendlicher Lauf durch die Stadt. Start Place du Casino, Morges.\"}]}\n\n" +
       "Artikel:\n" + JSON.stringify(itemsForAi);
   }
@@ -1094,6 +1160,7 @@ function updateRSSFeed() {
           start:       String(upd.start  || "").trim(),
           ende:        String(upd.ende   || "").trim(),
           art:         String(upd.art    || "Sonstiges").trim(),
+          rang:        parseInt(upd.rang, 10) || 2,
           description: String(upd.description || origItem.description).trim()
         };
         if (hatFremdeZeichen(meta.titel) || hatFremdeZeichen(meta.description)) {
@@ -1266,6 +1333,9 @@ function updateRSSFeed() {
     "=== VERANSTALTUNGEN-FEED PROTOKOLL ===",
     "Start: " + now.toLocaleString("de-CH"),
     "Regeln: max. " + MAX_REISEZEIT_MIN + " min ab Morges (Ausnahmen: " + Object.keys(AUSNAHME_ORTE).join(", ") + "), max. " + MAX_LAUFZEIT_TAGE + " Tage Laufzeit",
+    "Bedeutung: " + RANG_SCHWELLEN.map(function(r) {
+      return (r.bisMinuten === Infinity ? "darueber" : "bis " + r.bisMinuten + " min") + " -> Rang " + r.maxRang;
+    }).join(", "),
     "",
     "Feeds:\n" + feedUrls.map(function(u) { return "- " + u; }).join("\n"),
     "",
