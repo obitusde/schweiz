@@ -128,6 +128,34 @@ beliebigen Webseite einen RSS-Feed macht. Der Aggregator liest davon
 2. Hier im Tab **Veranstaltungen**: Spalte A die `?quelle=…`-URL,
    Spalte B der Anzeigename, **Spalte F leer lassen**.
 
+### Dritte Alternative: Wochenrückblick-Artikel
+
+Manche Seiten haben keine Einzelseite pro Termin, sondern veröffentlichen
+**einen Artikel pro Woche** mit mehreren Tipps in Prosa (Beispiel:
+`thelausanneguide.com/category/events` — jede Woche ein neuer Artikel wie
+„August 31 – September 6, 2026" mit acht Empfehlungen als Liste, jede in der
+Form `Titel (Wochentag[-Wochentag][, Ort]): Beschreibung`).
+
+| Spalte | Inhalt |
+|---|---|
+| A | URL der **Kategorieseite** (nicht der Artikel selbst — der wechselt wöchentlich) |
+| B | Anzeigename |
+| F | `digest` |
+
+Der Ablauf: Kategorieseite holen → ersten `/article/…`-Link nehmen (steht dort
+zuoberst) → Artikel holen → Wochendatum aus `<title>`/`<h1>` lesen (Muster
+„Monat Tag – [Monat] Tag, Jahr") → jeden `<li>`/`<p>`-Block gegen
+`Titel (Tag[e][, Ort]): Text` prüfen. Datum und Ort werden **deterministisch**
+aus dem Wochentag berechnet und explizit in die Beschreibung geschrieben
+(„Termin: 31.08.2026. Ort: Lutry.") — die KI-Redaktion liest sie danach nur
+noch ab, statt sie zu schätzen. Erst dieser fertige Text durchläuft die
+normale Redaktion (Übersetzung, Rang, Gattung) und den Regelfilter.
+
+Bricht die Erkennung irgendwo ab (kein Artikel-Link, kein Wochendatum im
+Titel, kein Listen-Block passt), liefert die Quelle für diesen Lauf 0
+Einträge und das Protokoll nennt den Grund (`[DIGEST] ... kein ...`) — kein
+Absturz, kein falsches Datum.
+
 ### Alternative: direkt scrapen
 
 Statt über den Watcher kann eine Seite auch direkt geholt und per KI

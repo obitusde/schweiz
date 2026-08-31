@@ -46,6 +46,10 @@ const AI_BUDGET_MS            = 4.5 * 60 * 1000;
 // 15 KI-Aufrufe und danach rund 100 Redaktionsbloecke. Lieber die naechsten
 // Termine sauber als alles gar nicht.
 const SCRAPE_MAX_LINKS        = 60;
+// Obergrenze fuer einen Wochenrueckblick-Artikel (Spalte F = "digest"). Reine
+// Sicherung gegen eine fehlparsende Seite - ein echter Wochenartikel hat
+// typischerweise 5-10 Tipps.
+const WOCHENDIGEST_MAX_TIPPS  = 20;
 const CACHE_TTL_DAYS          = 30;
 const FETCH_DEADLINE          = 55;   // Sekunden, maximaler Apps Script Timeout
 
@@ -123,7 +127,8 @@ const GROSSE_ORTE = {
 // OeV-Reisezeit ab Morges in Minuten, Richtwerte. Ort schlaegt Kanton.
 const REISEZEIT_ORT = {
   "morges": 0, "lausanne": 12, "rolle": 12, "gland": 15, "aubonne": 20,
-  "nyon": 20, "prangins": 22, "genf": 35, "geneve": 35, "genève": 35,
+  "nyon": 20, "prangins": 22, "pully": 18, "lutry": 22, "cully": 25,
+  "renens": 15, "epalinges": 20, "genf": 35, "geneve": 35, "genève": 35,
   "moudon": 45, "vevey": 45, "yverdon-les-bains": 45,
   "cheseaux-noréaz": 50, "cheseaux-noreaz": 50, "montreux": 50,
   "estavayer-le-lac": 55, "payerne": 55, "avenches": 60, "aigle": 60,
@@ -585,6 +590,156 @@ function cleanHtml(html) {
     .trim();
 }
 
+// =============================================================================
+// WOECHENTLICHE TIPP-ARTIKEL (Spalte F = "digest")
+// Fuer Seiten ohne Einzelseite pro Termin: EIN Artikel pro Woche mit mehreren
+// Tipps in Prosa (z.B. thelausanneguide.com/category/events). Datum und Ort
+// werden hier deterministisch aus Text berechnet, nicht von der KI geraten -
+// die bekommt am Ende nur noch fertige Angaben zum Uebersetzen und Einordnen.
+// =============================================================================
+
+var WOCHENTAG_EN = {
+  "monday": 0, "tuesday": 1, "wednesday": 2, "thursday": 3,
+  "friday": 4, "saturday": 5, "sunday": 6
+};
+var MONAT_EN = {
+  "january": 0, "february": 1, "march": 2, "april": 3, "may": 4, "june": 5,
+  "july": 6, "august": 7, "september": 8, "october": 9, "november": 10, "december": 11
+};
+
+// Sucht ein Datum wie "August 31 - September 6, 2026" oder "November 17-23, 2025"
+// und liefert den ersten genannten Tag (den Montag der Woche) als Date.
+function findeStartmontag(text) {
+  var monate = "January|February|March|April|May|June|July|August|September|October|November|December";
+  var re = new RegExp("(" + monate + ")\\s+(\\d{1,2})\\s*[-\\u2013]\\s*(?:(?:" + monate + ")\\s+)?(\\d{1,2}),?\\s+(\\d{4})", "i");
+  var m = text.match(re);
+  if (!m) return null;
+  var monat = MONAT_EN[m[1].toLowerCase()];
+  if (monat === undefined) return null;
+  return new Date(parseInt(m[4], 10), monat, parseInt(m[2], 10));
+}
+
+// Ein Tipp-Textblock hat die Form "Titel (Wochentag[-Wochentag][, Ort]): Text".
+// Liefert null, wenn er nicht in dieses Muster passt (z.B. der Einleitungssatz).
+function parseTippBlock(text, startMontag) {
+  var m = text.match(/^(.*?)\s*\(([^)]+)\)\s*:\s*([\s\S]*)$/);
+  if (!m) return null;
+  var titel = m[1].trim(), klammer = m[2].trim(), beschreibung = m[3].trim();
+  if (!titel || !beschreibung) return null;
+
+  var teile   = klammer.split(",");
+  var tagteil = teile[0].trim();
+  var ortteil = teile.length > 1 ? teile.slice(1).join(",").trim() : "";
+
+  var dm = tagteil.match(/^([a-z]+)\s*[-–]\s*([a-z]+)$/i);
+  var vonIdx, bisIdx;
+  if (dm) {
+    vonIdx = WOCHENTAG_EN[dm[1].toLowerCase()];
+    bisIdx = WOCHENTAG_EN[dm[2].toLowerCase()];
+  } else {
+    vonIdx = bisIdx = WOCHENTAG_EN[tagteil.toLowerCase()];
+  }
+  if (vonIdx === undefined || bisIdx === undefined) return null;   // kein Wochentag - kein Tipp
+
+  var von = new Date(startMontag); von.setDate(von.getDate() + vonIdx);
+  var bis = new Date(startMontag); bis.setDate(bis.getDate() + bisIdx);
+
+  return { titel: titel, ort: ortteil, von: von, bis: bis, beschreibung: beschreibung };
+}
+
+function fetchWochenrueckblick(kategorieUrl, feedName, now) {
+  var headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
+                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+  };
+
+  // 1) Uebersichtsseite holen, Link zum neuesten Artikel finden (steht dort zuerst)
+  var uebersicht;
+  try {
+    uebersicht = UrlFetchApp.fetch(kategorieUrl, { muteHttpExceptions: true, deadline: FETCH_DEADLINE, headers: headers });
+  } catch(e) {
+    log("[DIGEST] Abruf-Fehler bei " + kategorieUrl + ": " + e.toString());
+    return [];
+  }
+  if (uebersicht.getResponseCode() >= 400) {
+    log("[DIGEST] HTTP " + uebersicht.getResponseCode() + " bei " + kategorieUrl);
+    return [];
+  }
+  var m = uebersicht.getContentText("UTF-8").match(/<a[^>]*href=["']([^"']*\/article\/[^"']+)["']/i);
+  if (!m) {
+    log("[DIGEST] " + feedName + ": kein Artikel-Link auf der Uebersichtsseite gefunden.");
+    return [];
+  }
+  var artikelUrl = m[1].charAt(0) === "/" ? kategorieUrl.match(/^(https?:\/\/[^\/]+)/i)[1] + m[1] : m[1];
+
+  // 2) Artikel holen
+  var artikel;
+  try {
+    artikel = UrlFetchApp.fetch(artikelUrl, { muteHttpExceptions: true, deadline: FETCH_DEADLINE, headers: headers });
+  } catch(e) {
+    log("[DIGEST] Abruf-Fehler bei " + artikelUrl + ": " + e.toString());
+    return [];
+  }
+  if (artikel.getResponseCode() >= 400) {
+    log("[DIGEST] HTTP " + artikel.getResponseCode() + " bei " + artikelUrl);
+    return [];
+  }
+  var rawHtml = artikel.getContentText("UTF-8");
+
+  // 3) Datum der Woche aus dem <title> oder <h1> lesen
+  var titelBereich = (rawHtml.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || ["", ""])[1] +
+                      " " + (rawHtml.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || ["", ""])[1];
+  var startMontag = findeStartmontag(cleanHtml(titelBereich));
+  if (!startMontag) {
+    log("[DIGEST] " + feedName + ": kein Wochendatum im Artikel gefunden (" + artikelUrl + ").");
+    return [];
+  }
+
+  // 4) Tipp-Bloecke: <li>...</li> oder <p>...</p>, HTML-Tags innen entfernt
+  var bloecke = [];
+  var re = /<(li|p)[^>]*>([\s\S]*?)<\/\1>/gi, bm;
+  while ((bm = re.exec(rawHtml)) !== null) {
+    // cleanHtml() entfernt Skripte/Entities, aber keine Inline-Tags wie <strong> -
+    // die muessen hier weg, sonst haengt "<strong>" am geparsten Titel.
+    var text = cleanHtml(bm[2]).replace(/<[^>]+>/g, " ").replace(/\s{2,}/g, " ").trim();
+    if (text) bloecke.push(text);
+  }
+
+  var items = [];
+  bloecke.forEach(function(text) {
+    var tipp = parseTippBlock(text, startMontag);
+    if (!tipp) return;   // kein Treffer - z.B. der Einleitungssatz
+
+    var gleicherTag = tipp.von.getTime() === tipp.bis.getTime();
+    var fmtDatum = function(d) {
+      return ("0" + d.getDate()).slice(-2) + "." + ("0" + (d.getMonth() + 1)).slice(-2) + "." + d.getFullYear();
+    };
+    var ort = tipp.ort || "Lausanne";
+
+    // Datum und Ort werden explizit in die Beschreibung geschrieben, im selben
+    // Format, das der Redaktions-Prompt auch sonst erwartet - die KI muss sie
+    // dann nur noch ablesen, nicht mehr schaetzen.
+    var zusatz = " Termin: " + fmtDatum(tipp.von) + (gleicherTag ? "" : " bis " + fmtDatum(tipp.bis)) +
+                 ". Ort: " + ort + ".";
+
+    items.push({
+      title:       tipp.titel,
+      link:        artikelUrl + "#" + tipp.titel.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 60),
+      guid:        artikelUrl + "#" + tipp.titel.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 60),
+      description: (tipp.beschreibung + zusatz).substring(0, 500),
+      pubDate:     now.toUTCString(),
+      timestamp:   now.getTime(),
+      feedName:    feedName
+    });
+  });
+
+  if (items.length > WOCHENDIGEST_MAX_TIPPS) items = items.slice(0, WOCHENDIGEST_MAX_TIPPS);
+
+  log("[DIGEST] " + feedName + ": Woche ab " + startMontag.toDateString() + ", " +
+      items.length + " Tipps aus " + artikelUrl);
+  return items;
+}
+
 // Holt Zeichen ausserhalb des lateinischen Bereichs auf ihre Grundform zurueck:
 // "Symphởnie der Gewuerze" wird zu "Symphonie der Gewuerze". Das vietnamesische
 // o mit Horn und Haken zerfaellt per NFD in o + zwei kombinierende Zeichen; die
@@ -920,34 +1075,51 @@ function updateRSSFeed() {
     var countBefore = allItems.length;
     var feedName    = urlToNameMap[feedUrl] || "News";
 
+    // Gemeinsame Uebernahme fuer alle Nicht-RSS-Quellen: Keyword-Filter,
+    // Dublettenprueung ueber den Link, Einreihung in allItems.
+    function uebernehmeItems(items) {
+      items.forEach(function(item) {
+        if (!item.link || seenLinks[item.link]) return;
+
+        var matchedWord = "";
+        var blocked = excludeWords.some(function(w) {
+          if (!w) return false;
+          var hit = item.title.toLowerCase().includes(w) || item.description.toLowerCase().includes(w);
+          if (hit) matchedWord = w;
+          return hit;
+        });
+        if (blocked) {
+          staticLog.push("- Geloescht [Keyword '" + matchedWord + "']: '" + item.title + "'");
+          return;
+        }
+
+        seenLinks[item.link] = true;
+        allItems.push(item);
+      });
+    }
+
     // --- SCRAPE-Quellen gesondert behandeln (Spalte F = "scrape") ---
     if ((urlToTypeMap[feedUrl] || "rss") === "scrape") {
       try {
-        var scraped = fetchAndScrape(feedUrl, feedName, props, now, urlToMusterMap[feedUrl]);
-        scraped.forEach(function(item) {
-          if (!item.link || seenLinks[item.link]) return;
-
-          // gleicher Keyword-Filter wie bei den RSS-Feeds
-          var matchedWord = "";
-          var blocked = excludeWords.some(function(w) {
-            if (!w) return false;
-            var hit = item.title.toLowerCase().includes(w) || item.description.toLowerCase().includes(w);
-            if (hit) matchedWord = w;
-            return hit;
-          });
-          if (blocked) {
-            staticLog.push("- Geloescht [Keyword '" + matchedWord + "']: '" + item.title + "'");
-            return;
-          }
-
-          seenLinks[item.link] = true;
-          allItems.push(item);
-        });
+        uebernehmeItems(fetchAndScrape(feedUrl, feedName, props, now, urlToMusterMap[feedUrl]));
         log("[SCRAPE OK] " + feedName + " -> " + (allItems.length - countBefore) + " Artikel");
       } catch(err) {
         Logger.log("[SCRAPE FEHLER] " + feedUrl + " -> " + err.toString());
       }
       return; // diese Zeile NICHT als RSS weiterverarbeiten
+    }
+
+    // --- Woechentliche Tipp-Artikel (Spalte F = "digest") ---
+    // Fuer Seiten, die keine Einzelseite pro Termin haben, sondern woechentlich
+    // EINEN Artikel mit mehreren Tipps in Prosa (z.B. thelausanneguide.com).
+    if ((urlToTypeMap[feedUrl] || "rss") === "digest") {
+      try {
+        uebernehmeItems(fetchWochenrueckblick(feedUrl, feedName, now));
+        log("[DIGEST OK] " + feedName + " -> " + (allItems.length - countBefore) + " Artikel");
+      } catch(err) {
+        Logger.log("[DIGEST FEHLER] " + feedUrl + " -> " + err.toString());
+      }
+      return;
     }
 
     // --- normale RSS-Feeds ---
