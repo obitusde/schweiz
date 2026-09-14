@@ -5,7 +5,7 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:33:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:33:19 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>[Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
@@ -13,31 +13,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Werkschau der Künstlerin Susanne Keller. Kunstmuseum Thun, Thun]]></description>
       <category>Ausstellung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/ausstellung</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/ausstellung</guid>
-      <description><![CDATA[Ausstellung von Susanne Keller. Kunstmuseum Bern, Bern.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
-      <description><![CDATA[Grossprojekt und Retrospektive. Kunstmuseum Bern, Bern]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Bern] [Ausstellung] Das volle Leben. Alte Meister von Duccio bis Liotard - bis 27.09.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/das-volle-leben-alte-meister-von-duccio-bis-liotard</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/das-volle-leben-alte-meister-von-duccio-bis-liotard</guid>
-      <description><![CDATA[Alte Meister von Duccio bis Liotard im Kunstmuseum Bern, Bern.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
@@ -45,7 +21,23 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
       <description><![CDATA[Werke von Hans Gerber und Sabine Hertig im Dialog. Kunstmuseum Thun, Thun]]></description>
       <category>Ausstellung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Das volle Leben. Alte Meister von Duccio bis Liotard - bis 27.09.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/das-volle-leben-alte-meister-von-duccio-bis-liotard</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/das-volle-leben-alte-meister-von-duccio-bis-liotard</guid>
+      <description><![CDATA[Alte Meister von Duccio bis Liotard im Kunstmuseum Bern, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
+      <description><![CDATA[Grossprojekt und Retrospektive. Kunstmuseum Bern, Bern]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Anne Loch. Malerei: Na und? - bis 20.09.</title>
@@ -53,7 +45,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/anne-loch-malerei-na-und</guid>
       <description><![CDATA[Werkschau der Malerin Anne Loch im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Fokus. Florence Henri - bis 10.01.2027</title>
@@ -61,7 +53,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</guid>
       <description><![CDATA[Werkschau der Fotografin Florence Henri im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] Klima-Apéro - am Di 15.09.</title>
@@ -69,7 +61,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/klima-apero</guid>
       <description><![CDATA[Gespräch und Apéro zum Thema Klima. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Sonstiges</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Führungen «Mensch, Erde! – Das Klima im Wandel» - bis 13.12.</title>
@@ -77,55 +69,159 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</guid>
       <description><![CDATA[Führungsreihe zur Ausstellung Mensch, Erde! – Das Klima im Wandel. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Fuehrung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
-      <title>[Avenches VD] [Ausstellung] Geheimhaltung</title>
-      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/temporare-ausstellung-top-secret</link>
-      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/temporare-ausstellung-top-secret</guid>
-      <description><![CDATA[Temporäre Ausstellung „Top Secret“ in Expo Avenches, Avenches.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Festival] Dahlienfest</title>
-      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/fete-du-dahlia</link>
-      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/fete-du-dahlia</guid>
-      <description><![CDATA[Präsentation von Tausenden von Dahlienblüten. Dahlienfest, Morges.]]></description>
+      <title>[Morges] [Festival] Tanzfest</title>
+      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/flucht-fuir-auf-den-spuren-von-fluchtlingen-1</link>
+      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/flucht-fuir-auf-den-spuren-von-fluchtlingen-1</guid>
+      <description><![CDATA[Das Tanzfest in Morges bietet ein vielfältiges Programm rund um den Tanz. Morges]]></description>
       <category>Festival</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:33:19 GMT</pubDate>
     </item>
     <item>
-      <title>[Bougy-Villars VD] [Familie] Wiedereröffnung des Abenteuerparks Signal de Bougy</title>
-      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/reouverture-du-parc-aventure-du-signal-de-bougy</link>
-      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/reouverture-du-parc-aventure-du-signal-de-bougy</guid>
-      <description><![CDATA[Wiedereröffnung des Parc aventures im Signal de Bougy, Bougy-Villars.]]></description>
-      <category>Familie</category>
-      <pubDate>Mon, 07 Sep 2026 04:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Konzert] Swiss Giant Steps Morges - Klavier-Gesang-Recital - am Do 10.09.</title>
-      <link>https://www.morges.ch/agenda/swiss-giant-steps-morges--recital-piano-voix-au-casino-de-morges-213510</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/swiss-giant-steps-morges--recital-piano-voix-au-casino-de-morges-213510</guid>
-      <description><![CDATA[Klavier-Gesang-Recital im Casino de Morges, Morges.]]></description>
-      <category>Konzert</category>
-      <pubDate>Sat, 05 Sep 2026 22:49:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Vortrag] Vortrag von Herr Claude Hauser: «Debakel in der aufgehenden Sonne»: Das Kriegstagebuch von Camille Gorgé in Japan - am Fr 11.09.</title>
-      <link>https://www.morges.ch/agenda/conference-de-monsieur-claude-hauser--debacle-au-soleil-levant--le-journal-de-guerre-de-camille-gorge-au-japon-213750</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/conference-de-monsieur-claude-hauser--debacle-au-soleil-levant--le-journal-de-guerre-de-camille-gorge-au-japon-213750</guid>
-      <description><![CDATA[Vortrag zum Kriegstagebuch von Camille Gorgé in Japan, Morges.]]></description>
+      <title>[Morges] [Vortrag] Studientag über Spionage und Widerstand - am Sa 19.09.</title>
+      <link>https://www.morges.ch/agenda/journee-d-etude-sur-l-espionnage-et-la-resistance-au-chateau-de-morges-213692</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/journee-d-etude-sur-l-espionnage-et-la-resistance-au-chateau-de-morges-213692</guid>
+      <description><![CDATA[Studientag über Spionage und Widerstand im Schloss Morges, Château de Morges]]></description>
       <category>Vortrag</category>
-      <pubDate>Sat, 05 Sep 2026 22:49:19 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 22:49:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges] [Theater] Swiss Giant Steps: Die Geschichte vom Soldaten von Strawinsky - am Fr 11.09.</title>
-      <link>https://www.morges.ch/agenda/swiss-giant-steps-morges--spectacle-l-histoire-du-soldat-de-stravinsky-au-casino-de-morges-213512</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/swiss-giant-steps-morges--spectacle-l-histoire-du-soldat-de-stravinsky-au-casino-de-morges-213512</guid>
-      <description><![CDATA[Spektakel 'L'Histoire du Soldat' von Igor Strawinsky im Casino de Morges, Morges.]]></description>
-      <category>Theater</category>
-      <pubDate>Sat, 05 Sep 2026 22:49:19 GMT</pubDate>
+      <title>[Morges] [Konzert] Konzert: Mini-Festival in der Fondation Résonnance - am Sa 19.09.</title>
+      <link>https://www.morges.ch/agenda/concert--mini-festival-a-la-fondation-resonnance-avec-elizabeth-sombart-et-fabrice-eulry-212720</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/concert--mini-festival-a-la-fondation-resonnance-avec-elizabeth-sombart-et-fabrice-eulry-212720</guid>
+      <description><![CDATA[Mini-Festival mit Elizabeth Sombart und Fabrice Eulry in der Fondation Résonnance, Morges]]></description>
+      <category>Konzert</category>
+      <pubDate>Sun, 13 Sep 2026 22:49:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Familie] Musikalische Frueherziehung - am Di 15.09.</title>
+      <link>https://www.morges.ch/agenda/bibliotheque-atelier-d-eveil-musical-213795</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/bibliotheque-atelier-d-eveil-musical-213795</guid>
+      <description><![CDATA[Musikalische Frueherziehung fuer Kinder in der Bibliothek. Bibliothek, Morges]]></description>
+      <category>Familie</category>
+      <pubDate>Sat, 12 Sep 2026 22:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Vortrag] SBB App: Kennen und Besser-Nutzen - am Di 15.09.</title>
+      <link>https://www.morges.ch/agenda/application-mobile-cff--la-connaitre-pour-mieux-l-utiliser-212524</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/application-mobile-cff--la-connaitre-pour-mieux-l-utiliser-212524</guid>
+      <description><![CDATA[Konferenz ueber die SBB Mobile App und deren optimale Nutzung. Morges]]></description>
+      <category>Vortrag</category>
+      <pubDate>Sat, 12 Sep 2026 22:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Vortrag] Impact Innovation Summit - Showcase - am Do 17.09.</title>
+      <link>https://www.morges.ch/agenda/impact-innovation-summit--showcase-213717</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/impact-innovation-summit--showcase-213717</guid>
+      <description><![CDATA[Veranstaltung zu Nachhaltigkeit und Innovation. Morges]]></description>
+      <category>Vortrag</category>
+      <pubDate>Sat, 12 Sep 2026 22:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Fuehrung zu Alberto Giacometti</title>
+      <link>https://plateforme10.ch/events/visite-commentee-alberto-giacometti/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-alberto-giacometti/</guid>
+      <description><![CDATA[Gefuehrte Tour zu den Werken von Alberto Giacometti anlaesslich seines 125. Geburtstags. MCBA, Lausanne]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Sat, 12 Sep 2026 00:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Familie] Spielempfang in der Bibliothek - am Mo 14.09.</title>
+      <link>https://www.morges.ch/agenda/apres-midi-jeux-a-la-bibliotheque-213801</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/apres-midi-jeux-a-la-bibliotheque-213801</guid>
+      <description><![CDATA[Spielnachmittag in der Bibliothek. Bibliothek, Morges]]></description>
+      <category>Familie</category>
+      <pubDate>Fri, 11 Sep 2026 22:49:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Cheseaux-Noréaz VD] [Ausstellung] Kunstausstellung « ...in einem Blätterrausch » – Chantal Quéhen in Zusammenarbeit mit dem CACY - bis 01.11.</title>
+      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/exposition-artistique-l-dans-un-eclat-de-feuilles-r-n-chantal-quehen-en-collaboration-avec-le-cacy-8676.html</link>
+      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/exposition-artistique-l-dans-un-eclat-de-feuilles-r-n-chantal-quehen-en-collaboration-avec-le-cacy-8676.html</guid>
+      <description><![CDATA[Kunstausstellung von Chantal Quéhen in Zusammenarbeit mit dem CACY im Centre Pro Natura de Champ-Pittet, Cheseaux-Noréaz.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Fri, 11 Sep 2026 22:49:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Amulett-Erstellungswerkstatt</title>
+      <link>https://plateforme10.ch/events/atelier-de-creation-damulette/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-de-creation-damulette/</guid>
+      <description><![CDATA[Entdecken Sie die Verbindungen zwischen zeitgenössischem Schmuck und Magie und kreieren Sie Ihr eigenes Amulett. mudac, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 10 Sep 2026 00:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Familie] Vom mudac nach Las Vegas: Einführung in die Zauberei</title>
+      <link>https://plateforme10.ch/events/du-mudac-a-las-vegas-initiation-a-la-magie-2/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/du-mudac-a-las-vegas-initiation-a-la-magie-2/</guid>
+      <description><![CDATA[Zaubershows und magische Einführung für Kinder von 7 bis 12 Jahren im Rahmen der Ausstellung Hocus Pocus. mudac, Lausanne.]]></description>
+      <category>Familie</category>
+      <pubDate>Thu, 10 Sep 2026 00:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Immersiver Parcours: Wenn Magie schiefgeht</title>
+      <link>https://plateforme10.ch/events/parcours-immersif-quand-la-magie-tourne-mal-2/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/parcours-immersif-quand-la-magie-tourne-mal-2/</guid>
+      <description><![CDATA[Ergänzen Sie Ihr Wissen zu den Ausstellungen Hocus Pocus und Rencontrologie mit einer Mikro-Führung im mudac, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Familie] Die Kleinen im Museum – Magie und Design</title>
+      <link>https://plateforme10.ch/events/les-minus-au-musee-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/les-minus-au-musee-magie-et-design/</guid>
+      <description><![CDATA[Spielerische Museumserkundung für Kinder von 3 bis 5 Jahren zu den Ausstellungen Hocus Pocus und Rencontrologie im mudac, Lausanne.]]></description>
+      <category>Familie</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Entspannte Führung – Magie und Design</title>
+      <link>https://plateforme10.ch/events/visite-relax-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-relax-magie-et-design/</guid>
+      <description><![CDATA[Entspannter Museumsbesuch der temporären Ausstellungen Hocus Pocus und Rencontrologie für junge Eltern und Interessierte im mudac, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Kuratorenführung – Magie und Design</title>
+      <link>https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design/</guid>
+      <description><![CDATA[Entdecken Sie die Ausstellung Rencontrologie gemeinsam mit dem Kurator im mudac, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Vortrag] Konferenz – Amelia Tavella / Was bereits da ist</title>
+      <link>https://plateforme10.ch/events/conference-amelia-tavella-ce-qui-est-deja-la/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/conference-amelia-tavella-ce-qui-est-deja-la/</guid>
+      <description><![CDATA[Die Architektin Amelia Tavella spricht über ihre Beziehung zum Bestehenden vor ihren architektonischen Eingriffen im mudac, Lausanne.]]></description>
+      <category>Vortrag</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Festival] 15. Internationales Orgelfestival Morges - bis 04.10.</title>
+      <link>https://www.morges.ch/agenda/15eme-edition-du-festival-international-d-orgue-de-morges-213792</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/15eme-edition-du-festival-international-d-orgue-de-morges-213792</guid>
+      <description><![CDATA[15. Ausgabe des Internationalen Orgelfestivals von Morges.]]></description>
+      <category>Festival</category>
+      <pubDate>Wed, 09 Sep 2026 22:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Ausstellung] Null Schwerkraft - bis 27.09.</title>
+      <link>https://www.morges.ch/agenda/exposition-zero-gravite-a-la-maison-du-dessin-de-presse-213789</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/exposition-zero-gravite-a-la-maison-du-dessin-de-presse-213789</guid>
+      <description><![CDATA[Ausstellung in der Maison du Dessin de Presse, Morges.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Tue, 08 Sep 2026 09:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Ausstellung] Manchmal die Nacht - bis 19.09.</title>
+      <link>https://www.morges.ch/agenda/villa-moyard--exposition-collective-parfois-la-nuit-213787</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/villa-moyard--exposition-collective-parfois-la-nuit-213787</guid>
+      <description><![CDATA[Kollektivausstellung in der Villa Moyard, Morges.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Tue, 08 Sep 2026 09:49:19 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Ausstellung] Swiss Giant Steps: Ausstellung - bis 25.09.</title>
@@ -133,14 +229,6 @@
       <guid isPermaLink="false">https://www.morges.ch/agenda/espace-81--exposition-swiss-giant-steps-morges-213191</guid>
       <description><![CDATA[Begleitausstellung im Rahmen von Swiss Giant Steps Morges. Espace 81, Morges.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Fri, 04 Sep 2026 22:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Führung] Tage des Denkmals 2026 - 09.-13.09.</title>
-      <link>https://www.morges.ch/agenda/journees-du-patrimoine-de-morges-2026-213187</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/journees-du-patrimoine-de-morges-2026-213187</guid>
-      <description><![CDATA[Kulturelle Entdeckungen und Führungen im Rahmen der Tage des Denkmals, Morges.]]></description>
-      <category>Fuehrung</category>
       <pubDate>Fri, 04 Sep 2026 22:49:21 GMT</pubDate>
     </item>
     <item>
@@ -166,22 +254,6 @@
       <description><![CDATA[Buchvorstellung und Gespräch mit Christian Lutz und dem Verleger Patrick Frey über den dritten Teil seiner Trilogie. Plateforme 10, Lausanne]]></description>
       <category>Lesung</category>
       <pubDate>Fri, 04 Sep 2026 00:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Konzert] Koverdose – Rockkonzert in der Easy Rider Bar - am Mi 09.09.</title>
-      <link>https://www.morges.ch/agenda/koverdose--concert-rock-au-easy-rider-bar-en-terrasse-213732</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/koverdose--concert-rock-au-easy-rider-bar-en-terrasse-213732</guid>
-      <description><![CDATA[Rockkonzert auf der Terrasse der Easy Rider Bar in Morges.]]></description>
-      <category>Konzert</category>
-      <pubDate>Wed, 02 Sep 2026 22:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Vortrag] Alfredo Jaar - am Mo 07.09.</title>
-      <link>https://plateforme10.ch/events/conference-alfredo-jaar/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/conference-alfredo-jaar/</guid>
-      <description><![CDATA[Alfredo Jaar präsentiert in seiner Konferenz Be Afraid of the Enormity of the Possible seine neuesten Werke. MCBA, Lausanne]]></description>
-      <category>Vortrag</category>
-      <pubDate>Tue, 01 Sep 2026 00:01:49 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Sport] 1 Monat ohne Bildschirm – Nimm die Herausforderung an! - bis 30.09.</title>
@@ -368,14 +440,6 @@
       <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>[Zürich] [Ausstellung] Symphonie der Gewürze – Aus Vietnam in die Welt - bis 13.09.</title>
-      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/symphnie-der-gewuerze-n-aus-vietnam-in-die-welt-7065.html</link>
-      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/symphnie-der-gewuerze-n-aus-vietnam-in-die-welt-7065.html</guid>
-      <description><![CDATA[Entdecken Sie die Geschichte und Bedeutung der Gewürze aus Vietnam. Völkerkundemuseum der Universität Zürich, Zürich]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 22 Aug 2026 13:36:23 GMT</pubDate>
-    </item>
-    <item>
       <title>[Thun] [Ausstellung] Thun-Panorama: Das Rundbild von Marquard Wocher - bis 29.11.</title>
       <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/thun-panorama-das-rundbild-von-marquard-wocher-7878.html</link>
       <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/thun-panorama-das-rundbild-von-marquard-wocher-7878.html</guid>
@@ -390,6 +454,14 @@
       <description><![CDATA[Treffen mit Alice Bottarelli und Vorstellung ihres Werkes im Rahmen des Buchpreises der Stadt Lausanne, Plateforme 10, Lausanne.]]></description>
       <category>Lesung</category>
       <pubDate>Fri, 21 Aug 2026 00:01:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Ausstellung] Öffentliche Vernissage – Ted Joans. Black Flower - am Do 08.10.</title>
+      <link>https://plateforme10.ch/events/vernissage-public-ted-joans-black-flower/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/vernissage-public-ted-joans-black-flower/</guid>
+      <description><![CDATA[Vernissage der ersten monographischen Ausstellung über den US-Künstler Ted Joans, MCBA, Lausanne.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Thu, 13 Aug 2026 00:01:54 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] Vernissage: Edouard Chapallaz</title>
