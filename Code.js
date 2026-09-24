@@ -299,12 +299,37 @@ function formatSpanne(start, ende, heute) {
   return formatDatum(start, heute) + "-" + formatDatum(ende, heute);
 }
 
+// Baut zu einem Ortsnamen alle Schreibvarianten, gegen die eine Tabelle
+// geprueft werden soll. Die KI liefert Umlaute und Akzente mal als Zeichen
+// (Zürich), mal ASCII-ausgeschrieben (Zuerich), mal weggelassen (Zurich) -
+// "Zuerich" ist an keiner Tabelle vorbeigekommen, weil nur die ersten beiden
+// Formen als Schluessel eingetragen waren. Reihenfolge: unveraendert zuerst,
+// dann Akzente per NFD entfernt (ü/ö/ä/é/à/ç -> u/o/a/e/a/c), dann zusaetzlich
+// "ue"/"oe"/"ae" auf den Einzellaut gefaltet. Jede Stufe kann nur zusaetzliche
+// Treffer bringen, nie einen vorher funktionierenden Treffer verlieren.
+function ortKandidaten(ort) {
+  var basis = String(ort || "").trim().toLowerCase();
+  var ohneAkzente = basis.normalize("NFD").replace(/[̀-ͯ]/g, "");
+  var ohneUmlautAscii = ohneAkzente.replace(/ue/g, "u").replace(/oe/g, "o").replace(/ae/g, "a");
+  var kandidaten = [basis, ohneAkzente, ohneUmlautAscii];
+  return kandidaten.filter(function(k, i) { return k && kandidaten.indexOf(k) === i; });
+}
+
+// Erster Treffer eines der Kandidaten in der Tabelle, sonst undefined.
+function sucheOrt(tabelle, ort) {
+  var kandidaten = ortKandidaten(ort);
+  for (var i = 0; i < kandidaten.length; i++) {
+    if (tabelle.hasOwnProperty(kandidaten[i])) return tabelle[kandidaten[i]];
+  }
+  return undefined;
+}
+
 // Ortsangabe in eckigen Klammern, Kantonskuerzel bei allem, was nicht jeder kennt.
 function ortLabel(ort, kanton) {
   var name = String(ort || "").trim();
   if (!name) return "";
   var k = String(kanton || "").trim().toUpperCase();
-  if (GROSSE_ORTE[name.toLowerCase()] || !k) return name;
+  if (sucheOrt(GROSSE_ORTE, name) || !k) return name;
   return name + " " + k;
 }
 
@@ -383,8 +408,8 @@ function slugSchluessel(link, meta) {
 
 // Reisezeit ab Morges. -1 = unbekannt (weder Ort noch Kanton in der Tabelle).
 function reisezeit(ort, kanton) {
-  var name = String(ort || "").trim().toLowerCase();
-  if (REISEZEIT_ORT.hasOwnProperty(name)) return REISEZEIT_ORT[name];
+  var treffer = sucheOrt(REISEZEIT_ORT, ort);
+  if (treffer !== undefined) return treffer;
   var k = String(kanton || "").trim().toUpperCase();
   if (REISEZEIT_KANTON.hasOwnProperty(k)) return REISEZEIT_KANTON[k];
   return -1;
@@ -394,7 +419,7 @@ function reisezeit(ort, kanton) {
 // UND ueber gecachte Eintraege, damit nichts unbemerkt im Feed altert.
 // Rueckgabe: null = behalten, sonst der Grund als Text fuers Protokoll.
 function pruefeMeta(meta, heute) {
-  var ausnahme = AUSNAHME_ORTE[String(meta.ort || "").trim().toLowerCase()];
+  var ausnahme = sucheOrt(AUSNAHME_ORTE, meta.ort);
   var min      = reisezeit(meta.ort, meta.kanton);
   if (min === -1 && !ausnahme) {
     return "Ort unbekannt (" + (meta.ort || "?") + "/" + (meta.kanton || "?") + ")";
