@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 21.9.2026, 06:33:19
+Start: 25.9.2026, 06:59:45
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 Bedeutung: bis 30 min -> Rang 3, bis 60 min -> Rang 2, darueber -> Rang 1
 
@@ -20,32 +20,34 @@ Kein Link (ignoriert):
 
 Statischer Filter (Keywords):
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Geloescht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
-- Geloescht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
 - Geloescht [Keyword 'dauerausstellung']: 'Einstein Museum'
-- Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹ Ausstellung im Robert Walser-Zentrum'
+- Geloescht [Keyword 'dauerausstellung']: 'Unterwegs Wandern in der Schweiz'
+- Geloescht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
+- Geloescht [Keyword 'dauerausstellung']: 'Cantonale Berne Jura'
+- Geloescht [Keyword 'dauerausstellung']: 'Moneyverse Ausstellung'
+- Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹ Ausstellung im Robert Walser-Zentrum. Mit 69 Aquarellen von Lika Nüssli nach Feuilletons von Robert Walser'
+- Geloescht [Keyword 'dauerausstellung']: 'Saodat Ismailova'
+- Geloescht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
+- Geloescht [Keyword 'dauerausstellung']: 'Cantonale Berne Jura 2026'
 - Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs Die Kernausstellung'
-- Geloescht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
+- Geloescht [Keyword 'dauerausstellung']: 'Souvenir Selfies, Kitsch und Gipfelsteine'
+- Geloescht [Keyword 'dauerausstellung']: 'Zeitheldinnen auf der Spur Ein Rätselspiel durch den BOGA'
+- Geloescht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung Neue Erlebnisstationen im Sensorium Rüttihubelbad'
+- Geloescht [Keyword 'dauerausstellung']: 'Aktionstag: Ein Jahr «Mensch, Erde! – Das Klima im Wandel» Geburtstag der Dauerausstellung'
 - Geloescht [Keyword 'dauerausstellung']: 'Lousonna, Dauerausstellung'
-- Geloescht [Keyword 'dauerausstellung']: 'Flucht-Fuir: Auf den Spuren von Flüchtlingen'
 
-Aus Cache uebernommen (136):
-- Cache: 'Franz Gertsch. Blow-Up (Part I)'
-- Cache: 'Kantonale Bern Jura'
-- Cache: 'Cécile Wick. In naher Ferne'
-- Cache: 'Swiss Press Photo 26: In der Schweiz haben alle ihren See'
-- Cache: 'Stress. Eine Ausstellung, die Mut macht.'
-- Cache: 'Cantonale Berne Jura'
-- Cache: 'Das volle Leben. Alte Meister von Duccio bis Liotard'
-- Cache: 'Susanne Keller. Hinterkammer des Auges'
-- Cache: 'Out of the box. Was sich in Archivschachteln alles verbirgt.'
-- Cache: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts'
-- Cache: 'Souvenir Selfies, Kitsch und Gipfelsteine'
-- Cache: 'Schnittstellen der Sicht: Hans Gerber und Sabine Hertig'
+Aus Cache uebernommen (156):
 - Cache: 'Mensch, Erde! – Das Klima im Wandel'
+- Cache: 'Out of the box. Was sich in Archivschachteln alles verbirgt.'
+- Cache: 'Schnittstellen der Sicht: Hans Gerber und Sabine Hertig'
+- Cache: 'Susanne Keller. Hinterkammer des Auges'
+- Cache: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts'
+- Cache: 'Franz Gertsch. Blow-Up (Part I)'
+- Cache: 'Swiss Press Photo 26: In der Schweiz haben alle ihren See'
+- Cache: 'Cécile Wick. In naher Ferne'
 - Cache: 'Anno 1811 – Die Anfänge der Blasmusik in der Schweiz'
-- Cache: 'Saodat Ismailova'
-- Cache: 'Zeitheldinnen auf der Spur: Ein Rätselspiel durch den BOGA'
+- Cache: 'Das volle Leben. Alte Meister von Duccio bis Liotard'
+- Cache: 'Stress. Eine Ausstellung, die Mut macht.'
 - Cache: 'Die Zeit ins Bild gerückt 150 Jahre Klassenfotos'
 - Cache: 'Peter Fischli: Wir Ungestalten'
 - Cache: 'Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt'
@@ -53,7 +55,32 @@ Aus Cache uebernommen (136):
 - Cache: 'Der Sonntagsausflug im Rückspiegel von Amateurfilmen'
 - Cache: 'Streifzug durch die Schulgeschichte: 80’000 Dinge, die Schule mach(t)en'
 - Cache: 'Historische Lektion'
+- Cache: 'WTFake'
+- Cache: 'Bisschen theoretisch'
+- Cache: 'Fokus. Florence Henri'
+- Cache: 'Beat Jost – Schöne neue Welt'
+- Cache: 'Atlas der Reproduktion – Babys, Grenzen, Geopolitik'
+- Cache: 'WTFake x ALPS: Vom Sehnsuchtsort zum Selfie-Spot'
+- Cache: 'Führungen «Mensch, Erde! – Das Klima im Wandel»'
+- Cache: 'Destination: Usakos Heimreise nach Namibia – Zukunft eines kolonialen Erbes'
+- Cache: 'Franz Gertsch. Blow-Up (Part II)'
+- Cache: 'Schweizer Schlössertag auf Schloss Landshut'
+- Cache: 'Führungen hinter die Kulissen Bouillabaisse – Fischhäppchen aus der Forschungsküche'
+- Cache: 'Roberto Burle Marx. Modernismo tropical'
+- Cache: 'Tierzeichnen am Abend'
+- Cache: 'Wissen-Saft – Auf ein Glas mit … Tiger Igor'
+- Cache: 'Dark Gossip Die Abendverführung für Erwachsene'
 - Cache: 'Tanzfest'
+- Cache: 'Nacht des Kurzfilms'
+- Cache: 'Ciné'Boutchous'
+- Cache: 'Stand von Morges Région Tourisme am Herbstmarkt'
+- Cache: 'Partizipatives Malatelier'
+- Cache: 'Poetische Lesung: Dérives von Silvia Härri'
+- Cache: 'Humor im Kino: Artus - Le show XXL au cinéma'
+- Cache: 'Zaubershow mit Marco Smacchia'
+- Cache: 'Führung: Magie und Design x Opéra de Lausanne'
+- Cache: 'Ausstellung Salon der Gründer'
+- Cache: 'Ausstellung: Von Stein zu Bild. Lithographie im postdigitalen Zeitalter'
 - Cache: 'Studientag über Spionage und Widerstand'
 - Cache: 'Konzert: Mini-Festival in der Fondation Résonnance'
 - Cache: 'Musikalische Frueherziehung'
@@ -167,11 +194,10 @@ Aus Cache uebernommen (136):
 - Cache: 'Runder Tisch: Widerstehen!'
 - Cache: 'Die Kleinen im Museum: Und wir?'
 
-KI-Filter / Cache-Loeschungen (88):
+KI-Filter / Cache-Loeschungen (98):
 - Geloescht [Cache: Dauerausstellung]: 'Wunderkammer Die Schausammlung'
 - Geloescht [Cache: Dauerausstellung]: 'Die Wunderkammern Staunen und Entdecken'
 - Geloescht [Cache: Dauerausstellung]: 'Villa Abegg – Das Anwesen eines Sammlerpaares'
-- Geloescht [Cache: Dauerausstellung]: 'Unterwegs Wandern in der Schweiz'
 - Geloescht [Cache: Dauerausstellung]: 'Macherinnen Frauengeschichte aus Burgdorf und dem Emmental'
 - Geloescht [Cache: Dauerausstellung]: '«Goldrichtig – Ist Goldrecycling die Zukunft?»'
 - Geloescht [Cache: Dauerausstellung bis 2027]: 'ESSS-III-WEEE Hefte, die die Schweizer Jugend prägt'
@@ -179,18 +205,50 @@ KI-Filter / Cache-Loeschungen (88):
 - Geloescht [Cache: Ort unbekannt]: 'Stadtführungen mit dem Segway'
 - Geloescht [Cache: Ort unbekannt]: 'Bowling Lausanne-Flon'
 - Geloescht [Cache: Ort unbekannt]: 'Galerie Port Franc'
+- Geloescht [Cache: Ort unbekannt]: 'Flucht-Fuir: Auf den Spuren von Flüchtlingen'
+- Geloescht [Cache: Ort unbekannt]: 'Has it really been 30 years already??? Apple Music ...'
+- Geloescht [Cache: Ort unbekannt]: 'Roxette – Room Service (25th Anniversary Edition)'
+- Geloescht [Cache: Ort unbekannt]: 'Neil Young – Second Song'
+- Geloescht [Cache: Ort unbekannt]: 'Hole – Teenage Whore'
+- Geloescht [Cache: Ort unbekannt]: 'James – Waste My Tears'
+- Geloescht [Cache: Ort unbekannt]: 'The I Built You A Tower World Tour continues in ...'
+- Geloescht [Cache: Ort unbekannt]: 'Donate to win flights + hotel, tickets for Alanis' ...'
+- Geloescht [Cache: Ort unbekannt]: 'Sheryl Crow – Freight Train'
+- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Conférence sur la Mobilité 60+'
+- Geloescht [Cache: Ort unbekannt]: 'Bloc Party – Anatomy Of A Brief Romance'
+- Geloescht [Cache: Ort unbekannt]: 'Hooverphonic – Second Life'
 - Geloescht [Cache: Duplikat]: 'Journées du Patrimoine de Morges - Atelier généalogie avec le Cercle vaudois de Généalogie'
+- Geloescht [Cache: Ort unbekannt]: 'Eels – Congratulations To Me'
+- Geloescht [Cache: Ort unbekannt]: 'Peter Gabriel – Looking for the Happy (Dark-Side Mix)'
 - Geloescht [Cache: Vergangen]: 'Shade Théret, Daybreak'
+- Geloescht [Cache: Ort unbekannt]: 'Alan Parsons Project – Gaudi (Sessions)'
+- Geloescht [Cache: Ort unbekannt]: 'Creed – My Sacrifice (Radio Edit / Remastered 2026)'
 - Geloescht [Cache: Datum in der Vergangenheit]: 'Plug N'Play - Concert au Easy Rider bar (en terrasse)'
 - Geloescht [Cache: Dauerausstellung]: 'Tie-dye: gefaltet, genäht, gefärbt'
+- Geloescht [Cache: Ort unbekannt]: 'Bloc Party – Lagoon Blue'
+- Geloescht [Cache: Ort unbekannt]: 'Genesis – In Limbo (2026 Mix)'
+- Geloescht [Cache: Ort unbekannt]: 'Ben Folds Five – Shelved First Attempt'
+- Geloescht [Cache: Ort unbekannt]: 'Wir sind Helden – Von hier an blind - All Versions'
+- Geloescht [Cache: Ort unbekannt]: 'Huey Lewis and the News – Fore! The Good Times'
 - Geloescht [Cache: Ort unbekannt]: 'Atelier – Draw & Drink x Photo Elysée'
+- Geloescht [Cache: Ort unbekannt]: 'Angelika Express – Echte Profis'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors'
+- Geloescht [Cache: Ort unbekannt]: 'Ladyhawke – Bad to the Bone'
 - Geloescht [Cache: Duplikat]: 'Finissage – Echoes of Tehran (poésie, performance, DJ set)'
+- Geloescht [Cache: Ort unbekannt]: 'Vincent Delerm – Évidemment'
 - Geloescht [Cache: Ort unbekannt]: 'Cours de conduite PRO VELO'
+- Geloescht [Cache: Ort unbekannt]: 'Alan Parsons Project – La Sagrada Familia (Rough Mix)'
+- Geloescht [Cache: Ort unbekannt]: 'Peter Gabriel – Looking for the Happy (Bright-Side Mix)'
+- Geloescht [Cache: Ort unbekannt]: 'Neil Young – Casting Me Away From You'
+- Geloescht [Cache: Ort unbekannt]: 'Steve Hackett – The Roaring Waves'
+- Geloescht [Cache: Ort unbekannt]: 'We are Scientists – Buckle (Brown Bar Version)'
+- Geloescht [Cache: Ort unbekannt]: 'Everlast – Embers to Ashes'
 - Geloescht [Cache: Ort unbekannt]: 'Les expositions à voir en ce moment à Genève'
 - Geloescht [Cache: Datum in der Vergangenheit]: 'Été culturel du Château de Morges : L'Harmonie Morgienne'
 - Geloescht [Cache: Datum in der Vergangenheit]: 'Repair Café Morges'
+- Geloescht [Cache: Ort unbekannt]: 'Elton John – SEEIN’ STARS: ELTON JOHN VERSION'
+- Geloescht [Cache: Ort unbekannt]: 'Bryan Adams – The Ballad Of Terry Fox'
 - Geloescht [Cache: Duplikat]: 'Visite avec le commissaire – Ted Joans. Black Flower'
 - Geloescht [Cache: Duplikat]: 'Guided Tour – Ted Joans. Black Flower'
 - Geloescht [Cache: Ort unbekannt]: 'Facebook'
@@ -220,55 +278,29 @@ KI-Filter / Cache-Loeschungen (88):
 - Geloescht [Cache: Duplikat]: 'Caline Aoun Thresholds of Impermanence'
 - Geloescht [Cache: Dauerausstellung]: 'Visite commentée – Artistes femmes dans l’art contemporain'
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?'
-- Geloescht [Ort unbekannt]: 'Has it really been 30 years already??? Apple Music ...' [Feed: Bandsintown Konzerte]
-- Geloescht [Ort unbekannt]: 'Roxette – Room Service (25th Anniversary Edition)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Neil Young – Second Song' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Hole – Teenage Whore' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'James – Waste My Tears' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'The I Built You A Tower World Tour continues in ...' [Feed: Bandsintown Konzerte]
-- Geloescht [Ort unbekannt]: 'Donate to win flights + hotel, tickets for Alanis' ...' [Feed: Bandsintown Konzerte]
-- Geloescht [Ort unbekannt]: 'Good people! After a summer slumber, we return ...' [Feed: Bandsintown Konzerte]
-- Geloescht [Ort unbekannt]: 'Upcoming Live Shows: Cage the Elephant, Jeanne Cherhal, OMAR, Anyma' [Feed: Bandsintown Konzerte]
-- Geloescht [Ort unbekannt]: 'Sheryl Crow – Freight Train' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'We’re excited to share that Dan the Automator will ...' [Feed: Bandsintown Konzerte]
-- Geloescht [Ort unbekannt]: 'NEW! next summer, I'll be joining Kenny Chesney on ...' [Feed: Bandsintown Konzerte]
-- Geloescht [Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'Bloc Party – Anatomy Of A Brief Romance' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Hooverphonic – Second Life' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Eels – Congratulations To Me' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Peter Gabriel – Looking for the Happy (Dark-Side Mix)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Alan Parsons Project – Gaudi (Sessions)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Creed – My Sacrifice (Radio Edit / Remastered 2026)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Bloc Party – Lagoon Blue' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Genesis – In Limbo (2026 Mix)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Ben Folds Five – Shelved First Attempt' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Wir sind Helden – Von hier an blind - All Versions' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Huey Lewis and the News – Fore! The Good Times' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Angelika Express – Echte Profis' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Ladyhawke – Bad to the Bone' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Vincent Delerm – Évidemment' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Alan Parsons Project – La Sagrada Familia (Rough Mix)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Peter Gabriel – Looking for the Happy (Bright-Side Mix)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Neil Young – Casting Me Away From You' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Steve Hackett – The Roaring Waves' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'We are Scientists – Buckle (Brown Bar Version)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Everlast – Embers to Ashes' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Elton John – SEEIN’ STARS: ELTON JOHN VERSION' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Bryan Adams – The Ballad Of Terry Fox' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Weezer – Weezer' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Dauerausstellung]: 'Alpensounds Volksmusik zwischen Erbe und Experiment' [Feed: Museen Bern]
+- Geloescht [Ort unbekannt]: 'Forty years after Queen’s historic Budapest ...' [Feed: Bandsintown Konzerte]
+- Geloescht [Ort unbekannt]: 'Upcoming Live Shows: Evanescence, Calogero, Jeanne Cherhal, Sido' [Feed: Bandsintown Konzerte]
+- Geloescht [Ort unbekannt]: 'Out Now! Listen to the brand new album by Roger ...' [Feed: Bandsintown Konzerte]
+- Geloescht [Ort unbekannt]: 'Halloween Rock: After Dark - Classic hard rock, ...' [Feed: Bandsintown Konzerte]
+- Geloescht [Ort unbekannt]: 'Robbie Williams – Beauty In Us' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Tears For Fears – Sowing The Seeds Of Love' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Texas – LITE (feat. Belly Gang Kushington)' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Travis – RHYNO (from GTAVI: The Album)' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Robert Plant – Two Coats' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Travis – GASS (feat. Travis Scott)' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Slut – No Contact' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Suede – Lazy (Radio 1 Evening Session 29th August 1996)' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'The Offspring – I Wanna Be Sedated' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Pharrell Williams – Bando (feat. Pharrell Williams & Quavo) [Orchestral]' [Feed: Lieblingsbands Neuerscheinungen]
 
-Regelfilter Datum/Entfernung/Dauerausstellung (81):
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Kantonale Bern Jura' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cécile Wick. In naher Ferne' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Swiss Press Photo 26: In der Schweiz haben alle ihren See' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Stress. Eine Ausstellung, die Mut macht.' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
+Regelfilter Datum/Entfernung/Dauerausstellung (91):
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Out of the box. Was sich in Archivschachteln alles verbirgt.' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Souvenir Selfies, Kitsch und Gipfelsteine' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Swiss Press Photo 26: In der Schweiz haben alle ihren See' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cécile Wick. In naher Ferne' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Anno 1811 – Die Anfänge der Blasmusik in der Schweiz' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Saodat Ismailova' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Zeitheldinnen auf der Spur: Ein Rätselspiel durch den BOGA' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Stress. Eine Ausstellung, die Mut macht.' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Zeit ins Bild gerückt 150 Jahre Klassenfotos' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Peter Fischli: Wir Ungestalten' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt' [Feed: Museen Bern]
@@ -276,6 +308,20 @@ Regelfilter Datum/Entfernung/Dauerausstellung (81):
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Der Sonntagsausflug im Rückspiegel von Amateurfilmen' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Streifzug durch die Schulgeschichte: 80’000 Dinge, die Schule mach(t)en' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Historische Lektion' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'WTFake' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Bisschen theoretisch' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Beat Jost – Schöne neue Welt' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Atlas der Reproduktion – Babys, Grenzen, Geopolitik' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'WTFake x ALPS: Vom Sehnsuchtsort zum Selfie-Spot' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Destination: Usakos Heimreise nach Namibia – Zukunft eines kolonialen Erbes' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Franz Gertsch. Blow-Up (Part II)' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Schweizer Schlössertag auf Schloss Landshut' [Feed: Museen Bern]
+- Geloescht [Vorbei seit 03.09.]: 'Führungen hinter die Kulissen Bouillabaisse – Fischhäppchen aus der Forschungsküche' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Dark Gossip Die Abendverführung für Erwachsene' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 30.10. an]: 'Reise in die Freiheit. Capri - Skagen - Monte Verità' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 12.11. an]: 'Wer entscheidet? Klimagerechtigkeit im Talk' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 140 min Anreise zaehlt nur Rang 1]: 'Die Übersetzung des ländlichen Raums. Holzkirchen, Freilichtmuseen und moderne Architektur in Ostmitteleuropa in der Zwischenkriegszeit' [Feed: museum.ch Ausstellungen]
+- Geloescht [Vorbei seit 24.09.]: 'Humor im Kino: Artus - Le show XXL au cinéma' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 19.09.]: 'Studientag über Spionage und Widerstand' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 19.09.]: 'Konzert: Mini-Festival in der Fondation Résonnance' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 15.09.]: 'Musikalische Frueherziehung' [Feed: Morges Agenda]
@@ -300,7 +346,6 @@ Regelfilter Datum/Entfernung/Dauerausstellung (81):
 - Geloescht [Vorbei seit 13.09.]: 'Swiss Giant Steps Morges' [Feed: Morges Agenda]
 - Geloescht [Zu weit weg: Locarno ~240 min ab Morges]: 'Arp, Cahn, Magnelli, Taeuber-Arp. Kunst leben, Kunst geben' [Feed: museum.ch Ausstellungen]
 - Geloescht [Vorbei seit 09.09.]: 'Koverdose – Rockkonzert in der Easy Rider Bar' [Feed: Morges Agenda]
-- Geloescht [Zu weit weg: Zuerich ~140 min ab Morges]: 'Avantgarde – Grafikdesign im Aufbruch' [Feed: museum.ch Ausstellungen]
 - Geloescht [Vorbei seit 07.09.]: 'Alfredo Jaar' [Feed: Platform 10 Agenda]
 - Geloescht [Zu weit weg: Baden ~130 min ab Morges]: 'Welcome back – Die Sammlung kehrt zurück' [Feed: museum.ch Ausstellungen]
 - Geloescht [Vorbei seit 05.09.]: 'Kinderreime und Geschichten auf Portugiesisch' [Feed: Morges Agenda]
@@ -308,6 +353,7 @@ Regelfilter Datum/Entfernung/Dauerausstellung (81):
 - Geloescht [Vorbei seit 04.09.]: 'Generationen-Atelier' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 06.09.]: 'Das Buch an den Kais' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 05.09.]: 'Innerfall – Rockkonzert an der Easy Rider Bar' [Feed: Morges Agenda]
+- Geloescht [Vorbei seit 23.09.]: 'Spezielles Sporttraining für Frauen' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 30.08.]: 'Kultursommer im Schloss Morges: Infiltration' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 31.08.]: 'Workshop für Erwachsene – Ted Joans. Black Flower' [Feed: Platform 10 Agenda]
 - Geloescht [Vorbei seit 31.08.]: 'Filmvorführung im Cinématographe – Ted Joans. Black Flower' [Feed: Platform 10 Agenda]
@@ -332,6 +378,7 @@ Regelfilter Datum/Entfernung/Dauerausstellung (81):
 - Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Der Anteil der Engel - Fotografien von Gérard-Philippe Mabillard' [Feed: museum.ch Ausstellungen]
 - Geloescht [Vorbei seit 26.08.]: 'Auf den Spuren von Edouard Chapallaz an der EPFL' [Feed: Platform 10 Agenda]
 - Geloescht [Vorbei seit 31.08.]: 'LIG x Plateforme 10 – Tournoi d’été' [Feed: Platform 10 Agenda]
+- Geloescht [Dublette von 'Führungen «Mensch, Erde! – Das Klima im Wandel»']: 'Mensch, Erde! – Das Klima im Wandel' [Feed: Museen Bern]
 - Geloescht [Dublette von 'Vom mudac nach Las Vegas: Einführung in die Zauberei']: 'Vom mudac nach Las Vegas: Einführung in die Zauberei' [Feed: Platform 10 Agenda]
 - Geloescht [Dublette von 'Immersiver Parcours: Wenn Magie schiefgeht']: 'Immersiver Parcours: Wenn Magie schiefgeht' [Feed: Platform 10 Agenda]
 - Geloescht [Dublette von 'Susanne Keller. Hinterkammer des Auges']: 'Hinterkammer des Auges' [Feed: museum.ch Ausstellungen]
@@ -343,19 +390,26 @@ Regelfilter Datum/Entfernung/Dauerausstellung (81):
 Ohne KI-Daten uebernommen (0):
 - Keine.
 
-Finale Liste (65 Eintraege):
+Finale Liste (72 Eintraege):
+- [Museen Bern] [Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.
+- [Museen Bern] [Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.
 - [Museen Bern] [Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027
 - [Museen Bern] [Bern] [Ausstellung] Das volle Leben. Alte Meister von Duccio bis Liotard - bis 27.09.
-- [Museen Bern] [Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.
-- [Museen Bern] [Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.
-- [Museen Bern] [Bern] [Ausstellung] Mensch, Erde! – Das Klima im Wandel - bis 27.09.
+- [Museen Bern] [Bern] [Ausstellung] Fokus. Florence Henri - bis 10.01.2027
+- [Museen Bern] [Bern] [Führung] Führungen «Mensch, Erde! – Das Klima im Wandel» - bis 13.12.
+- [Museen Bern] [Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027
+- [Museen Bern] [Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.
+- [Museen Bern] [Bern] [Ausstellung] Wissen-Saft – Auf ein Glas mit … Tiger Igor - bis 13.12.
 - [Vaud.de Morges] [Morges] [Festival] Tanzfest
+- [Morges Agenda] [Morges] [Theater] TONIGHT - Ein Abend mit Elton - am Fr 25.09.
+- [Morges Agenda] [Morges] [Theater] Rund um die Haikus - 26.09.-03.10.
+- [Morges Agenda] [Morges] [Konzert] Toxic Rock - am Sa 26.09.
+- [Morges Agenda] [Morges] [Markt] Grosser Herbstmarkt - am Sa 26.09.
 - [Morges Agenda] [Morges] [Kino] Nacht des Kurzfilms - am Fr 25.09.
 - [Morges Agenda] [Morges] [Kino] Ciné'Boutchous - am Sa 26.09.
 - [Morges Agenda] [Morges] [Markt] Stand von Morges Région Tourisme am Herbstmarkt - am Sa 26.09.
 - [Morges Agenda] [Morges] [Ausstellung] Partizipatives Malatelier - am Fr 25.09.
 - [Morges Agenda] [Morges] [Lesung] Poetische Lesung: Dérives von Silvia Härri - am Fr 25.09.
-- [Morges Agenda] [Morges] [Kino] Humor im Kino: Artus - Le show XXL au cinéma - am Do 24.09.
 - [Platform 10 Agenda] [Lausanne] [Theater] Zaubershow mit Marco Smacchia
 - [Platform 10 Agenda] [Lausanne] [Führung] Führung: Magie und Design x Opéra de Lausanne
 - [Morges Agenda] [Morges] [Ausstellung] Ausstellung Salon der Gründer - bis 01.11.
@@ -376,8 +430,8 @@ Finale Liste (65 Eintraege):
 - [Platform 10 Agenda] [Lausanne] [Führung] Familienführung – Magie und Design
 - [Platform 10 Agenda] [Lausanne] [Führung] Öffentliche Führung – Magie und Design
 - [Platform 10 Agenda] [Lausanne] [Lesung] Treffen – Buchvernissage von In Jesus’ Name (resurrected)
+- [museum.ch Ausstellungen] [Zuerich] [Ausstellung] Avantgarde – Grafikdesign im Aufbruch - bis 21.02.2027
 - [Morges Agenda] [Morges] [Sport] 1 Monat ohne Bildschirm – Nimm die Herausforderung an! - bis 30.09.
-- [Morges Agenda] [Morges] [Sport] Spezielles Sporttraining für Frauen - bis 23.09.
 - [Platform 10 Agenda] [Lausanne] [Lesung] Gedichtlesung von Ted Joans durch Jake Lamar
 - [Platform 10 Agenda] [Lausanne] Ted Joans & New Black Poetry – Ted Joans. Black Flower
 - [Platform 10 Agenda] [Lausanne] [Familie] Atelier 0-100 Jahre – Geriebenes Geschenk
