@@ -5,7 +5,7 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
       <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Tue, 29 Sep 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
@@ -21,7 +21,23 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Tue, 29 Sep 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
+      <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Familie] Atelier für Kinder - am Mi 30.09.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/atelier</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/atelier</guid>
+      <description><![CDATA[Kreatives Gestalten für Kinder im Kunstmuseum Bern, Bern.]]></description>
+      <category>Familie</category>
+      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027</title>
@@ -29,7 +45,39 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/murten-ausgeschlachtet</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Geschichte und Inszenierung. Bernisches Historisches Museum, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Tue, 29 Sep 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Festival] Tanzfest</title>
+      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/flucht-fuir-auf-den-spuren-von-fluchtlingen-1</link>
+      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/flucht-fuir-auf-den-spuren-von-fluchtlingen-1</guid>
+      <description><![CDATA[Das Tanzfest in Morges bietet ein vielfältiges Programm rund um den Tanz. Morges]]></description>
+      <category>Festival</category>
+      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] Planetariumssitzung im Observatorium</title>
+      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/gala-de-patinage-2</link>
+      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/gala-de-patinage-2</guid>
+      <description><![CDATA[Planetariumssitzung im Observatorium. Lousonna, archäologischer Park, Lausanne]]></description>
+      <category>Sonstiges</category>
+      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Sport] Samstag auf der Eisbahn! - am Sa 03.10.</title>
+      <link>https://www.morges.ch/agenda/samedi-a-la-pati--213321</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/samedi-a-la-pati--213321</guid>
+      <description><![CDATA[Sportlicher Event für die ganze Familie auf der Eisbahn, Morges.]]></description>
+      <category>Sport</category>
+      <pubDate>Wed, 30 Sep 2026 02:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Sport] Saisoneröffnung der Eisbahn - am Sa 03.10.</title>
+      <link>https://www.morges.ch/agenda/ouverture-de-la-patinoire-211554</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/ouverture-de-la-patinoire-211554</guid>
+      <description><![CDATA[Eröffnung der Eislaufsaison mit sportlichem Rahmenprogramm, Morges.]]></description>
+      <category>Sport</category>
+      <pubDate>Wed, 30 Sep 2026 02:03:01 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] Atelier part'âge - am Fr 02.10.</title>
@@ -80,12 +128,12 @@
       <pubDate>Sat, 26 Sep 2026 02:03:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges] [Vortrag] Conférence grand public – Vos muscles, votre énergie - am Di 29.09.</title>
-      <link>https://www.morges.ch/agenda/conference-grand-public-vos-muscles-votre-energie-213690</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/conference-grand-public-vos-muscles-votre-energie-213690</guid>
-      <description><![CDATA[Öffentlicher Vortrag über Muskeln und Energie. Morges]]></description>
-      <category>Vortrag</category>
-      <pubDate>Sat, 26 Sep 2026 02:03:02 GMT</pubDate>
+      <title>[Lausanne] [Führung] Begegnung – Ella Maillart. Gezeichnete Geschichte</title>
+      <link>https://plateforme10.ch/events/rencontre-ella-maillart-recit-dessine/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/rencontre-ella-maillart-recit-dessine/</guid>
+      <description><![CDATA[Treffen mit der Lausanner Comicautorin Dora Formica im Rahmen der Ausstellung «Ella Maillart. Récits photographiques», Plateforme 10, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 24 Sep 2026 09:55:48 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Theater] Rund um die Haikus - bis 03.10.</title>
@@ -251,7 +299,7 @@
       <title>[Morges] [Sport] 1 Monat ohne Bildschirm – Nimm die Herausforderung an! - bis 30.09.</title>
       <link>https://www.morges.ch/agenda/1-mois-sans-ecran-relevez-le-defi--211319</link>
       <guid isPermaLink="false">https://www.morges.ch/agenda/1-mois-sans-ecran-relevez-le-defi--211319</guid>
-      <description><![CDATA[Sportliche Challenge ohne Bildschirm. Morges.]]></description>
+      <description><![CDATA[Sportliche und gesundheitsfördernde Challenge, Morges.]]></description>
       <category>Sport</category>
       <pubDate>Fri, 28 Aug 2026 22:49:20 GMT</pubDate>
     </item>
@@ -259,24 +307,64 @@
       <title>[Lausanne] [Lesung] Gedichtlesung von Ted Joans durch Jake Lamar</title>
       <link>https://plateforme10.ch/events/lecture-de-poemes-de-ted-joans-par-jake-lamar/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/lecture-de-poemes-de-ted-joans-par-jake-lamar/</guid>
-      <description><![CDATA[Lesung der Poesie von Ted Joans mit Jake Lamar, Plateforme 10 Lausanne.]]></description>
+      <description><![CDATA[Jake Lamar haucht der subversiven Poesie von Ted Joans in einer Leseabend neuen Atem ein. Plateforme 10, Lausanne]]></description>
       <category>Lesung</category>
       <pubDate>Fri, 28 Aug 2026 00:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] Ted Joans &amp; New Black Poetry – Ted Joans. Black Flower</title>
+      <title>[Lausanne] Hörsession: Ted Joans &amp; New Black Poetry</title>
       <link>https://plateforme10.ch/events/ted-joans-new-black-poetry-ted-joans-black-flower/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/ted-joans-new-black-poetry-ted-joans-black-flower/</guid>
-      <description><![CDATA[Hörsession zu Poesie und Jazz im Dialog. Plateforme 10 Lausanne.]]></description>
+      <description><![CDATA[Eine Hörsession erforscht den Dialog zwischen der Poesie von Ted Joans und dem Jazz. Plateforme 10, Lausanne]]></description>
       <category>Sonstiges</category>
       <pubDate>Fri, 28 Aug 2026 00:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Familie] Atelier 0-100 Jahre – Geriebenes Geschenk</title>
+      <title>[Lausanne] [Führung] Workshop für Erwachsene – Ted Joans</title>
+      <link>https://plateforme10.ch/events/atelier-pour-adultes-ted-joans-black-flower/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-pour-adultes-ted-joans-black-flower/</guid>
+      <description><![CDATA[Kreativer Workshop inspiriert von Ted Joans, gefolgt von einer Gedichtlesung von Jake Lamar, Plateforme 10, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 27 Aug 2026 00:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Kino] Filmvorführung im Cinématographe – Ted Joans. Black Flower</title>
+      <link>https://plateforme10.ch/events/projection-au-cinematographe-ted-joans-black-flower/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/projection-au-cinematographe-ted-joans-black-flower/</guid>
+      <description><![CDATA[Film über Jazz als politisches Werkzeug im Kalten Krieg von Johan Grimonprez im Rahmen des Festivals Jazz Onze +, Lausanne.]]></description>
+      <category>Kino</category>
+      <pubDate>Thu, 27 Aug 2026 00:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Forschungs- und Kreativ-Atelier – Ted Joans</title>
+      <link>https://plateforme10.ch/events/atelier-de-recherche-creation-ted-joans-black-flower/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-de-recherche-creation-ted-joans-black-flower/</guid>
+      <description><![CDATA[Atelier zu den Widerstandsstrategien Schwarzer Menschen, inspiriert von Ted Joans, an der Plateforme 10, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 27 Aug 2026 00:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Familie] Workshop 0-100 Jahre – Surrealistische Masken</title>
+      <link>https://plateforme10.ch/events/atelier-0-100-ans-masques-surrealistes/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-0-100-ans-masques-surrealistes/</guid>
+      <description><![CDATA[Herstellung von surrealistischen Masken aus Recyclingmaterialien für den Karneval in der Plateforme 10, Lausanne.]]></description>
+      <category>Familie</category>
+      <pubDate>Thu, 27 Aug 2026 00:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Familie] Workshop 0-100 Jahre – Frottage-Geschenk</title>
       <link>https://plateforme10.ch/events/atelier-0-100-ans-cadeau-frotte/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/atelier-0-100-ans-cadeau-frotte/</guid>
-      <description><![CDATA[Herstellung eines Notizbuchs inspiriert von den Techniken von Ted Joans, wie Frottage. Plateforme 10, Lausanne]]></description>
+      <description><![CDATA[Herstellung eines Notizbuchs als Weihnachtsgeschenk mit Frottage-Techniken von Ted Joans in der Plateforme 10, Lausanne.]]></description>
       <category>Familie</category>
+      <pubDate>Thu, 27 Aug 2026 00:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Ausstellungsführung mit dem Kurator – Ted Joans. Black Flower - bis 28.02.2027</title>
+      <link>https://plateforme10.ch/events/visite-avec-le-commissaire-ted-joans-black-flower/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-avec-le-commissaire-ted-joans-black-flower/</guid>
+      <description><![CDATA[Führung durch die Ausstellung Ted Joans. Black Flower mit Kurator Pierre-Henri Foulon oder Künstlerin Laura Corsiglia, Lausanne.]]></description>
+      <category>Fuehrung</category>
       <pubDate>Thu, 27 Aug 2026 00:02:03 GMT</pubDate>
     </item>
     <item>
