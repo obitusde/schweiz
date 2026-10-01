@@ -5,7 +5,7 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 04:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
       <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
-      <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
@@ -29,15 +21,15 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
       <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Bern] [Familie] Atelier für Kinder - am Mi 30.09.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/atelier</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/atelier</guid>
-      <description><![CDATA[Kreatives Gestalten für Kinder im Kunstmuseum Bern, Bern.]]></description>
-      <category>Familie</category>
-      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+      <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
+      <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027</title>
@@ -45,15 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/murten-ausgeschlachtet</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Geschichte und Inszenierung. Bernisches Historisches Museum, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Festival] Tanzfest</title>
-      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/flucht-fuir-auf-den-spuren-von-fluchtlingen-1</link>
-      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/flucht-fuir-auf-den-spuren-von-fluchtlingen-1</guid>
-      <description><![CDATA[Das Tanzfest in Morges bietet ein vielfältiges Programm rund um den Tanz. Morges]]></description>
-      <category>Festival</category>
-      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] Planetariumssitzung im Observatorium</title>
@@ -61,7 +45,39 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/gala-de-patinage-2</guid>
       <description><![CDATA[Planetariumssitzung im Observatorium. Lousonna, archäologischer Park, Lausanne]]></description>
       <category>Sonstiges</category>
-      <pubDate>Wed, 30 Sep 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Ausstellung] INVISIBLES. Das verborgene Leben der Mikroben</title>
+      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/beruhmte-gaste-von-avenches-2</link>
+      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/beruhmte-gaste-von-avenches-2</guid>
+      <description><![CDATA[Das verborgene Leben der Mikroben im archäologischen Park Lousonna, Lausanne.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Festival] Luna Park Lausanne</title>
+      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</link>
+      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</guid>
+      <description><![CDATA[Jahrmarktattraktionen und Fahrgeschäfte. Luna Park Lausanne.]]></description>
+      <category>Festival</category>
+      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Kino] The librarians - am Do 01.10.</title>
+      <link>https://www.morges.ch/agenda/cinema-odeon--documentaire-the-librarians-suivi-d-un-debat-anime-par-amnesty-international-morges-213932</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/cinema-odeon--documentaire-the-librarians-suivi-d-un-debat-anime-par-amnesty-international-morges-213932</guid>
+      <description><![CDATA[Dokumentarfilm gefolgt von einer Debatte von Amnesty International im Cinéma Odéon, Morges.]]></description>
+      <category>Kino</category>
+      <pubDate>Thu, 01 Oct 2026 02:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Konzert] Konzert M&amp;M's - am Sa 03.10.</title>
+      <link>https://www.morges.ch/agenda/concert-mm-s--duo-variete-francaise-au-easy-rider-bar-213872</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/concert-mm-s--duo-variete-francaise-au-easy-rider-bar-213872</guid>
+      <description><![CDATA[Duo mit französischer Variété-Musik im Easy Rider Bar, Morges.]]></description>
+      <category>Konzert</category>
+      <pubDate>Thu, 01 Oct 2026 02:03:01 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Sport] Samstag auf der Eisbahn! - am Sa 03.10.</title>
@@ -88,7 +104,7 @@
       <pubDate>Tue, 29 Sep 2026 02:03:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges] [Theater] Brecht, wer war das noch? - 01.-04.10.</title>
+      <title>[Morges] [Theater] Brecht, wer war das noch? - bis 04.10.</title>
       <link>https://www.morges.ch/agenda/brecht-c-etait-qui-deja--les-dix-p-tits-tours-213861</link>
       <guid isPermaLink="false">https://www.morges.ch/agenda/brecht-c-etait-qui-deja--les-dix-p-tits-tours-213861</guid>
       <description><![CDATA[Theateraufführung von Les Dix P'tits Tours, Morges.]]></description>
@@ -294,14 +310,6 @@
       <description><![CDATA[Ausstellung zum Grafikdesign im Museum für Gestaltung Zürich, Ausstellungsstrasse, Zürich.]]></description>
       <category>Ausstellung</category>
       <pubDate>Wed, 02 Sep 2026 22:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Sport] 1 Monat ohne Bildschirm – Nimm die Herausforderung an! - bis 30.09.</title>
-      <link>https://www.morges.ch/agenda/1-mois-sans-ecran-relevez-le-defi--211319</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/1-mois-sans-ecran-relevez-le-defi--211319</guid>
-      <description><![CDATA[Sportliche und gesundheitsfördernde Challenge, Morges.]]></description>
-      <category>Sport</category>
-      <pubDate>Fri, 28 Aug 2026 22:49:20 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Lesung] Gedichtlesung von Ted Joans durch Jake Lamar</title>
