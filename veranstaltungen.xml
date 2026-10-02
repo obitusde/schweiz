@@ -5,7 +5,7 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Thu, 01 Oct 2026 04:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
       <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
-      <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
@@ -29,7 +21,15 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
+      <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/murten-ausgeschlachtet</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Geschichte und Inszenierung. Bernisches Historisches Museum, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] Planetariumssitzung im Observatorium</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/gala-de-patinage-2</guid>
       <description><![CDATA[Planetariumssitzung im Observatorium. Lousonna, archäologischer Park, Lausanne]]></description>
       <category>Sonstiges</category>
-      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] INVISIBLES. Das verborgene Leben der Mikroben</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/beruhmte-gaste-von-avenches-2</guid>
       <description><![CDATA[Das verborgene Leben der Mikroben im archäologischen Park Lousonna, Lausanne.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Festival] Luna Park Lausanne</title>
@@ -61,15 +61,63 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</guid>
       <description><![CDATA[Jahrmarktattraktionen und Fahrgeschäfte. Luna Park Lausanne.]]></description>
       <category>Festival</category>
-      <pubDate>Thu, 01 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges] [Kino] The librarians - am Do 01.10.</title>
-      <link>https://www.morges.ch/agenda/cinema-odeon--documentaire-the-librarians-suivi-d-un-debat-anime-par-amnesty-international-morges-213932</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/cinema-odeon--documentaire-the-librarians-suivi-d-un-debat-anime-par-amnesty-international-morges-213932</guid>
-      <description><![CDATA[Dokumentarfilm gefolgt von einer Debatte von Amnesty International im Cinéma Odéon, Morges.]]></description>
+      <title>[Morges] [Familie] Reime und Geschichten für Kinder auf Portugiesisch - am Sa 03.10.</title>
+      <link>https://www.morges.ch/agenda/comptines-et-histoires-pour-enfants-en-portugais-211398</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/comptines-et-histoires-pour-enfants-en-portugais-211398</guid>
+      <description><![CDATA[Reime und Geschichten für Kinder auf Portugiesisch in Morges.]]></description>
+      <category>Familie</category>
+      <pubDate>Fri, 02 Oct 2026 02:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Kino] Kino Odéon: Filmgespräch "À tombeaux ouvert" mit Regisseur Gaël Métroz - am Mo 05.10.</title>
+      <link>https://www.morges.ch/agenda/cinema-odeon--cine-rencontre-a-tombeaux-ouvert-en-presence-du-realisateur-gael-metroz-213877</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/cinema-odeon--cine-rencontre-a-tombeaux-ouvert-en-presence-du-realisateur-gael-metroz-213877</guid>
+      <description><![CDATA[Filmvorführung und Gespräch mit Regisseur Gaël Métroz im Cinéma Odéon, Morges.]]></description>
       <category>Kino</category>
-      <pubDate>Thu, 01 Oct 2026 02:03:01 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 02:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Familie] Spielnachmittag in der Bibliothek - am Mo 05.10.</title>
+      <link>https://www.morges.ch/agenda/apres-midi-jeux-a-la-bibliotheque-213802</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/apres-midi-jeux-a-la-bibliotheque-213802</guid>
+      <description><![CDATA[Spielnachmittag in der Bibliothek, Morges.]]></description>
+      <category>Familie</category>
+      <pubDate>Fri, 02 Oct 2026 02:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Monotypie-Druck-Workshop – Magie und Design</title>
+      <link>https://plateforme10.ch/events/atelier-impression-monotype-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-impression-monotype-magie-et-design/</guid>
+      <description><![CDATA[Erstelle einen bunten Monotypie-Druck inspiriert von den Schmuckstücken und Amuletten der Ausstellung «Rencontrologie», Plateforme 10, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 01 Oct 2026 12:22:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Stop-Motion-Zauberfilm-Workshop – Magie und Design</title>
+      <link>https://plateforme10.ch/events/atelier-films-magiques-en-stop-motion-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-films-magiques-en-stop-motion-magie-et-design/</guid>
+      <description><![CDATA[Erstelle einen magischen Stop-Motion-Film passend zur Ausstellung «Hocus Pocus», Plateforme 10, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 01 Oct 2026 12:22:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Wunschkarten-Workshop – Magie und Design</title>
+      <link>https://plateforme10.ch/events/atelier-cartes-de-voeux-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-cartes-de-voeux-magie-et-design/</guid>
+      <description><![CDATA[Gestalte eine magische Wunschkarte mit optischer Illusion inspiriert von den Ausstellungen, Plateforme 10, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 01 Oct 2026 12:22:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Kuratorenführung – Magie und Design</title>
+      <link>https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design/</guid>
+      <description><![CDATA[Entdecken Sie die Ausstellung Rencontrologie gemeinsam mit dem Kurator im mudac, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 01 Oct 2026 12:22:47 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Konzert] Konzert M&amp;M's - am Sa 03.10.</title>
@@ -109,14 +157,6 @@
       <guid isPermaLink="false">https://www.morges.ch/agenda/brecht-c-etait-qui-deja--les-dix-p-tits-tours-213861</guid>
       <description><![CDATA[Theateraufführung von Les Dix P'tits Tours, Morges.]]></description>
       <category>Theater</category>
-      <pubDate>Sun, 27 Sep 2026 02:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] Kochkurs: Energie-Riegel, Gebäck und gesunde Snacks - am Do 01.10.</title>
-      <link>https://www.morges.ch/agenda/atelier-de-cuisine-barres-d-endurance-patisseries-et-encas-sains-213858</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/atelier-de-cuisine-barres-d-endurance-patisseries-et-encas-sains-213858</guid>
-      <description><![CDATA[Kochworkshop für gesunde Snacks und Energie-Riegel, Morges.]]></description>
-      <category>Sonstiges</category>
       <pubDate>Sun, 27 Sep 2026 02:03:01 GMT</pubDate>
     </item>
     <item>
@@ -246,14 +286,6 @@
       <description><![CDATA[Entspannter Museumsbesuch der temporären Ausstellungen Hocus Pocus und Rencontrologie für junge Eltern und Interessierte im mudac, Lausanne.]]></description>
       <category>Fuehrung</category>
       <pubDate>Thu, 10 Sep 2026 00:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Führung] Kuratorenführung – Magie und Design</title>
-      <link>https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design/</guid>
-      <description><![CDATA[Entdecken Sie die Ausstellung Rencontrologie gemeinsam mit dem Kurator im mudac, Lausanne.]]></description>
-      <category>Fuehrung</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:34 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Vortrag] Konferenz – Amelia Tavella / Was bereits da ist</title>
