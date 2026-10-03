@@ -5,23 +5,23 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Oct 2026 04:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 04:59:46 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
-      <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
-    </item>
     <item>
       <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Sat, 03 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
+      <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Sat, 03 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
       <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Sat, 03 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/murten-ausgeschlachtet</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Geschichte und Inszenierung. Bernisches Historisches Museum, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Sat, 03 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] Planetariumssitzung im Observatorium</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/gala-de-patinage-2</guid>
       <description><![CDATA[Planetariumssitzung im Observatorium. Lousonna, archäologischer Park, Lausanne]]></description>
       <category>Sonstiges</category>
-      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Sat, 03 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] INVISIBLES. Das verborgene Leben der Mikroben</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/beruhmte-gaste-von-avenches-2</guid>
       <description><![CDATA[Das verborgene Leben der Mikroben im archäologischen Park Lousonna, Lausanne.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Sat, 03 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Festival] Luna Park Lausanne</title>
@@ -61,7 +61,15 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</guid>
       <description><![CDATA[Jahrmarktattraktionen und Fahrgeschäfte. Luna Park Lausanne.]]></description>
       <category>Festival</category>
-      <pubDate>Fri, 02 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Sat, 03 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Familie] Atelier musikalische Früherziehung - am Fr 09.10.</title>
+      <link>https://www.morges.ch/agenda/bibliotheque-atelier-d-eveil-musical-213797</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/bibliotheque-atelier-d-eveil-musical-213797</guid>
+      <description><![CDATA[Bibliothek, Morges]]></description>
+      <category>Familie</category>
+      <pubDate>Sat, 03 Oct 2026 02:03:01 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Familie] Reime und Geschichten für Kinder auf Portugiesisch - am Sa 03.10.</title>
@@ -144,14 +152,6 @@
       <pubDate>Wed, 30 Sep 2026 02:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges] Atelier part'âge - am Fr 02.10.</title>
-      <link>https://www.morges.ch/agenda/atelier-part-age-213666</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/atelier-part-age-213666</guid>
-      <description><![CDATA[Kreatives Atelier. Morges]]></description>
-      <category>Sonstiges</category>
-      <pubDate>Tue, 29 Sep 2026 02:03:03 GMT</pubDate>
-    </item>
-    <item>
       <title>[Morges] [Theater] Brecht, wer war das noch? - bis 04.10.</title>
       <link>https://www.morges.ch/agenda/brecht-c-etait-qui-deja--les-dix-p-tits-tours-213861</link>
       <guid isPermaLink="false">https://www.morges.ch/agenda/brecht-c-etait-qui-deja--les-dix-p-tits-tours-213861</guid>
@@ -165,14 +165,6 @@
       <guid isPermaLink="false">https://www.morges.ch/agenda/espace-81--exposition-humo-en-mi-boca-213189</guid>
       <description><![CDATA[Ausstellung Humo en mi Boca im Espace 81, Morges.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 27 Sep 2026 02:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Theater] Forever Young - One-Woman-Show von Hélène Pageaud - am Fr 02.10.</title>
-      <link>https://www.morges.ch/agenda/forever-young--one-woman-show-d-helene-pageaud-au-lykke-213876</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/forever-young--one-woman-show-d-helene-pageaud-au-lykke-213876</guid>
-      <description><![CDATA[One-Woman-Show mit Hélène Pageaud im Lykke, Morges.]]></description>
-      <category>Theater</category>
       <pubDate>Sun, 27 Sep 2026 02:03:01 GMT</pubDate>
     </item>
     <item>
