@@ -5,15 +5,31 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Mon, 05 Oct 2026 04:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
+      <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
+      <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
     <item>
       <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Mon, 05 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027</title>
@@ -21,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/murten-ausgeschlachtet</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Geschichte und Inszenierung. Bernisches Historisches Museum, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Mon, 05 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] Planetariumssitzung im Observatorium</title>
@@ -29,7 +45,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/gala-de-patinage-2</guid>
       <description><![CDATA[Planetariumssitzung im Observatorium. Lousonna, archäologischer Park, Lausanne]]></description>
       <category>Sonstiges</category>
-      <pubDate>Mon, 05 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] INVISIBLES. Das verborgene Leben der Mikroben</title>
@@ -37,7 +53,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/beruhmte-gaste-von-avenches-2</guid>
       <description><![CDATA[Das verborgene Leben der Mikroben im archäologischen Park Lousonna, Lausanne.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Mon, 05 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Festival] Luna Park Lausanne</title>
@@ -45,7 +61,23 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</guid>
       <description><![CDATA[Jahrmarktattraktionen und Fahrgeschäfte. Luna Park Lausanne.]]></description>
       <category>Festival</category>
-      <pubDate>Mon, 05 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Kino] Ciné-Treffen mit den Regisseurinnen von Les chasseresses - am Mo 19.10.</title>
+      <link>https://www.morges.ch/agenda/cinema-odeon--cine-rencontre-les-chasseresses-en-presence-des-realisatrices-213880</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/cinema-odeon--cine-rencontre-les-chasseresses-en-presence-des-realisatrices-213880</guid>
+      <description><![CDATA[Filmvorführung und Filmgespräch im Cinéma Odéon, Morges.]]></description>
+      <category>Kino</category>
+      <pubDate>Tue, 06 Oct 2026 02:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Sport] Fussballcamp im Parc des sports - 19.-23.10.</title>
+      <link>https://www.morges.ch/agenda/camp-de-football-au-parc-des-sports-212939</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/camp-de-football-au-parc-des-sports-212939</guid>
+      <description><![CDATA[Fussballcamp für Kinder und Jugendliche im Parc des sports, Morges.]]></description>
+      <category>Sport</category>
+      <pubDate>Tue, 06 Oct 2026 02:03:02 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Konzert] Jam Session in der Easy Rider Bar - am Sa 10.10.</title>
@@ -86,22 +118,6 @@
       <description><![CDATA[Bibliothek, Morges]]></description>
       <category>Familie</category>
       <pubDate>Sat, 03 Oct 2026 02:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Kino] Kino Odéon: Filmgespräch "À tombeaux ouvert" mit Regisseur Gaël Métroz - am Mo 05.10.</title>
-      <link>https://www.morges.ch/agenda/cinema-odeon--cine-rencontre-a-tombeaux-ouvert-en-presence-du-realisateur-gael-metroz-213877</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/cinema-odeon--cine-rencontre-a-tombeaux-ouvert-en-presence-du-realisateur-gael-metroz-213877</guid>
-      <description><![CDATA[Filmvorführung und Gespräch mit Regisseur Gaël Métroz im Cinéma Odéon, Morges.]]></description>
-      <category>Kino</category>
-      <pubDate>Fri, 02 Oct 2026 02:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Familie] Spielnachmittag in der Bibliothek - am Mo 05.10.</title>
-      <link>https://www.morges.ch/agenda/apres-midi-jeux-a-la-bibliotheque-213802</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/apres-midi-jeux-a-la-bibliotheque-213802</guid>
-      <description><![CDATA[Spielnachmittag in der Bibliothek, Morges.]]></description>
-      <category>Familie</category>
-      <pubDate>Fri, 02 Oct 2026 02:03:13 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Führung] Monotypie-Druck-Workshop – Magie und Design</title>
