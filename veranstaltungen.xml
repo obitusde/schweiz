@@ -5,23 +5,23 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
-      <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
-    </item>
     <item>
       <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
       <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
+      <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/murten-ausgeschlachtet</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Geschichte und Inszenierung. Bernisches Historisches Museum, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] Planetariumssitzung im Observatorium</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/gala-de-patinage-2</guid>
       <description><![CDATA[Planetariumssitzung im Observatorium. Lousonna, archäologischer Park, Lausanne]]></description>
       <category>Sonstiges</category>
-      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] INVISIBLES. Das verborgene Leben der Mikroben</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/beruhmte-gaste-von-avenches-2</guid>
       <description><![CDATA[Das verborgene Leben der Mikroben im archäologischen Park Lousonna, Lausanne.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Festival] Luna Park Lausanne</title>
@@ -61,7 +61,31 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</guid>
       <description><![CDATA[Jahrmarktattraktionen und Fahrgeschäfte. Luna Park Lausanne.]]></description>
       <category>Festival</category>
-      <pubDate>Tue, 06 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Ausstellung] Catch Expo (Top Secret) von Rictus Impra - am Fr 09.10.</title>
+      <link>https://www.morges.ch/agenda/catch-expo-top-secret-par-rictus-impra-au-chateau-de-morges-213947</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/catch-expo-top-secret-par-rictus-impra-au-chateau-de-morges-213947</guid>
+      <description><![CDATA[Ausstellung von Rictus Impra im Château de Morges, Morges]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Wed, 07 Oct 2026 02:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Kino] Ciné Bout'chous: Vorführung von "Timioche" - am Sa 10.10.</title>
+      <link>https://www.morges.ch/agenda/cinema-odeon--cine-bout-chous--projection-de-timioche-213971</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/cinema-odeon--cine-bout-chous--projection-de-timioche-213971</guid>
+      <description><![CDATA[Kinderkino mit der Vorführung von "Timioche". Cinéma Odéon, Morges]]></description>
+      <category>Kino</category>
+      <pubDate>Wed, 07 Oct 2026 02:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Konzert] Incipit – Rockkonzert - am Sa 17.10.</title>
+      <link>https://www.morges.ch/agenda/incipit--concert-rock-a-l-easy-rider-bar-213879</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/incipit--concert-rock-a-l-easy-rider-bar-213879</guid>
+      <description><![CDATA[Rockkonzert der Band Incipit. Easy Rider Bar, Morges]]></description>
+      <category>Konzert</category>
+      <pubDate>Wed, 07 Oct 2026 02:03:00 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Kino] Ciné-Treffen mit den Regisseurinnen von Les chasseresses - am Mo 19.10.</title>
@@ -275,7 +299,7 @@
       <title>[Genf] [Vortrag] HELGA 2026 – Love Story - am Fr 16.10.</title>
       <link>https://plateforme10.ch/events/helga-2026-agenda/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/helga-2026-agenda/</guid>
-      <description><![CDATA[Schweizer Treffen der Szenografie- und Kommunikationsprofis zum Thema menschliche Beziehungen. Le Cube de la HEAD, Genf.]]></description>
+      <description><![CDATA[Treffen von Fachleuten für Szenografie und Raumkommunikation zu menschlichen Beziehungen. Le Cube der HEAD, Genf.]]></description>
       <category>Vortrag</category>
       <pubDate>Sat, 05 Sep 2026 00:00:39 GMT</pubDate>
     </item>
@@ -283,33 +307,41 @@
       <title>[Lausanne] [Führung] Familienführung – Magie und Design</title>
       <link>https://plateforme10.ch/events/visite-en-famille-magie-et-design/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/visite-en-famille-magie-et-design/</guid>
-      <description><![CDATA[Entdeckung der Sonderausstellungen Hocus Pocus und Rencontrologie für Familien. Plateforme 10, Lausanne.]]></description>
+      <description><![CDATA[Familiengerechte Entdeckungstour durch die Sonderausstellungen Hocus Pocus und Rencontrologie. mudac, Lausanne.]]></description>
       <category>Fuehrung</category>
       <pubDate>Fri, 04 Sep 2026 00:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Führung] Öffentliche Führung – Magie und Design</title>
-      <link>https://plateforme10.ch/events/visite-commentee-magie-et-design/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-magie-et-design/</guid>
-      <description><![CDATA[Geführter Rundgang durch die Ausstellungen Hocus Pocus und Rencontrologie mit Hintergrundwissen. Plateforme 10, Lausanne.]]></description>
+      <title>[Lausanne] [Führung] Atelier – Zeichnen &amp; Trinken Spezial Ella Maillart</title>
+      <link>https://plateforme10.ch/events/atelier-draw-drink-x-photo-elysee/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-draw-drink-x-photo-elysee/</guid>
+      <description><![CDATA[Entdecken Sie die Ausstellung von Ella Maillart und zeichnen Sie im Café Lumen bei einem Glas. Mitbringen eigener Utensilien willkommen, Photo Élysée, Lausanne.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Fri, 04 Sep 2026 00:00:43 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 00:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Lesung] Treffen – Buchvernissage von In Jesus’ Name (resurrected)</title>
+      <title>[Lausanne] [Lesung] Buchvernissage: In Jesus' Name (resurrected)</title>
       <link>https://plateforme10.ch/events/rencontre-vernissage-du-livre-in-jesus-name-resurrected/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/rencontre-vernissage-du-livre-in-jesus-name-resurrected/</guid>
-      <description><![CDATA[Buchvorstellung und Gespräch mit Christian Lutz und dem Verleger Patrick Frey über den dritten Teil seiner Trilogie. Plateforme 10, Lausanne]]></description>
+      <description><![CDATA[Buchlaunch und Gespräch mit Christian Lutz und Verleger Patrick Frey zum Abschluss seiner Trilogie. Plateforme 10, Lausanne.]]></description>
       <category>Lesung</category>
       <pubDate>Fri, 04 Sep 2026 00:00:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Zuerich] [Ausstellung] Avantgarde – Grafikdesign im Aufbruch - bis 21.02.2027</title>
-      <link>https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/avantgarde-n-grafikdesign-im-aufbruch-8678.html</link>
-      <guid isPermaLink="false">https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/avantgarde-n-grafikdesign-im-aufbruch-8678.html</guid>
-      <description><![CDATA[Ausstellung zum Grafikdesign im Museum für Gestaltung Zürich, Ausstellungsstrasse, Zürich.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Wed, 02 Sep 2026 22:49:20 GMT</pubDate>
+      <title>[Lausanne] [Vortrag] Vortrag – Alfredo Jaar - am Mi 07.10.</title>
+      <link>https://plateforme10.ch/events/conference-alfredo-jaar/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/conference-alfredo-jaar/</guid>
+      <description><![CDATA[Der chilenische Künstler, Architekt und Filmemacher Alfredo Jaar spricht über sein engagiertes Werk. Photo Elysée, Lausanne]]></description>
+      <category>Vortrag</category>
+      <pubDate>Tue, 01 Sep 2026 00:01:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Fest] Finissage – Echoes of Tehran - am Mi 07.10.</title>
+      <link>https://plateforme10.ch/events/finissage-echoes-of-tehran-poesie-performance-dj-set/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/finissage-echoes-of-tehran-poesie-performance-dj-set/</guid>
+      <description><![CDATA[Finissage der Ausstellung mit Poesie, Performance und DJ-Set, kuratiert von Danial Seyed Adoubi. Photo Elysée, Lausanne]]></description>
+      <category>Fest</category>
+      <pubDate>Tue, 01 Sep 2026 00:01:47 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Lesung] Gedichtlesung von Ted Joans durch Jake Lamar</title>
