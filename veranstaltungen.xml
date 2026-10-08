@@ -5,31 +5,23 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 04:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:59:46 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
-      <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
-    </item>
     <item>
       <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
       <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
-      <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
+      <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
+      <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027</title>
@@ -37,7 +29,63 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/murten-ausgeschlachtet</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Geschichte und Inszenierung. Bernisches Historisches Museum, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Fokus. Florence Henri - bis 10.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</guid>
+      <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Führung] Führungen Mensch, Erde! - Das Klima im Wandel - bis 13.12.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</guid>
+      <description><![CDATA[Führungen zum Thema Klima im Wandel. Naturhistorisches Museum Bern, Bern.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Führung] Führungen hinter die Kulissen Zwischen Illusion und Idylle – Die Afrika-Dioramen - bis 08.10.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-hinter-die-kulissen</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-hinter-die-kulissen</guid>
+      <description><![CDATA[Führungen im Naturhistorisches Museum Bern, Bern.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/roberto-burle-marx-modernismo-tropical</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/roberto-burle-marx-modernismo-tropical</guid>
+      <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/tierzeichnen-am-abend</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/tierzeichnen-am-abend</guid>
+      <description><![CDATA[Kreatives Tierzeichnen am Abend im Naturhistorisches Museum Bern, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Wissen-Saft – Auf ein Glas mit … Tiger Igor - bis 13.12.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/wissen-saft-auf-ein-glas-mit-tiger-igor</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/wissen-saft-auf-ein-glas-mit-tiger-igor</guid>
+      <description><![CDATA[Spannende Einblicke für Kinder im Naturhistorisches Museum Bern, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Reise in die Freiheit. Capri - Skagen - Monte Verità - bis 31.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/reise-in-die-freiheit-capri-skagen-monte-verita</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/reise-in-die-freiheit-capri-skagen-monte-verita</guid>
+      <description><![CDATA[Ausstellung über Sehnsuchtsorte und Künstlerkolonien in Capri, Skagen und auf dem Monte Verità. Kunstmuseum Bern, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] Planetariumssitzung im Observatorium</title>
@@ -45,7 +93,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/gala-de-patinage-2</guid>
       <description><![CDATA[Planetariumssitzung im Observatorium. Lousonna, archäologischer Park, Lausanne]]></description>
       <category>Sonstiges</category>
-      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] INVISIBLES. Das verborgene Leben der Mikroben</title>
@@ -53,7 +101,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/beruhmte-gaste-von-avenches-2</guid>
       <description><![CDATA[Das verborgene Leben der Mikroben im archäologischen Park Lousonna, Lausanne.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Festival] Luna Park Lausanne</title>
@@ -61,7 +109,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/01kn4gfy7bfesc1rcrrq7mw0ys</guid>
       <description><![CDATA[Jahrmarktattraktionen und Fahrgeschäfte. Luna Park Lausanne.]]></description>
       <category>Festival</category>
-      <pubDate>Wed, 07 Oct 2026 04:59:45 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Ausstellung] Catch Expo (Top Secret) von Rictus Impra - am Fr 09.10.</title>
@@ -304,6 +352,14 @@
       <pubDate>Sat, 05 Sep 2026 00:00:39 GMT</pubDate>
     </item>
     <item>
+      <title>[Lausanne] [Konzert] Interstices-Festival für Klavier und Tasteninstrumente</title>
+      <link>https://plateforme10.ch/events/festival-interstices-musiques-pour-piano-et-claviers/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/festival-interstices-musiques-pour-piano-et-claviers/</guid>
+      <description><![CDATA[Fünftägiges Musikfestival in den Räumen von Plateforme 10 und Partnern, Lausanne.]]></description>
+      <category>Konzert</category>
+      <pubDate>Sat, 05 Sep 2026 00:00:27 GMT</pubDate>
+    </item>
+    <item>
       <title>[Lausanne] [Führung] Familienführung – Magie und Design</title>
       <link>https://plateforme10.ch/events/visite-en-famille-magie-et-design/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/visite-en-famille-magie-et-design/</guid>
@@ -326,22 +382,6 @@
       <description><![CDATA[Buchlaunch und Gespräch mit Christian Lutz und Verleger Patrick Frey zum Abschluss seiner Trilogie. Plateforme 10, Lausanne.]]></description>
       <category>Lesung</category>
       <pubDate>Fri, 04 Sep 2026 00:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Vortrag] Vortrag – Alfredo Jaar - am Mi 07.10.</title>
-      <link>https://plateforme10.ch/events/conference-alfredo-jaar/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/conference-alfredo-jaar/</guid>
-      <description><![CDATA[Der chilenische Künstler, Architekt und Filmemacher Alfredo Jaar spricht über sein engagiertes Werk. Photo Elysée, Lausanne]]></description>
-      <category>Vortrag</category>
-      <pubDate>Tue, 01 Sep 2026 00:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Fest] Finissage – Echoes of Tehran - am Mi 07.10.</title>
-      <link>https://plateforme10.ch/events/finissage-echoes-of-tehran-poesie-performance-dj-set/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/finissage-echoes-of-tehran-poesie-performance-dj-set/</guid>
-      <description><![CDATA[Finissage der Ausstellung mit Poesie, Performance und DJ-Set, kuratiert von Danial Seyed Adoubi. Photo Elysée, Lausanne]]></description>
-      <category>Fest</category>
-      <pubDate>Tue, 01 Sep 2026 00:01:47 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Lesung] Gedichtlesung von Ted Joans durch Jake Lamar</title>
@@ -614,6 +654,22 @@
       <description><![CDATA[Entdecken Sie traditionelle Maltechniken der japanischen Animation für leuchtende Himmel und Wolken im Ghibli-Stil mit Marcio Barra. Plateforme 10, Lausanne]]></description>
       <category>Fuehrung</category>
       <pubDate>Tue, 07 Jul 2026 00:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Besuch für die Kleinsten – Spiegel, an Spiegel …</title>
+      <link>https://plateforme10.ch/events/visite-des-tout-petits-miroir-o-miroir/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-des-tout-petits-miroir-o-miroir/</guid>
+      <description><![CDATA[Ein sensorischer Entdeckungssparcours für Kleinkinder im MCBA, gefolgt von einem gemütlichen Moment im Atelier des publics. MCBA, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Wed, 10 Jun 2026 00:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Besuch für die Kleinsten – Es war ein kleines Schiff</title>
+      <link>https://plateforme10.ch/events/visite-des-tout-petits-il-etait-un-petit-navire/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-des-tout-petits-il-etait-un-petit-navire/</guid>
+      <description><![CDATA[Ein sensorischer Entdeckungssparcours für Kleinkinder im MCBA, gefolgt von einem gemütlichen Moment im Atelier des publics. MCBA, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Wed, 10 Jun 2026 00:02:05 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Führung] Führung – Tage des Matrimoniums</title>
