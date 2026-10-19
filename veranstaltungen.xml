@@ -5,23 +5,15 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Sun, 18 Oct 2026 04:59:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:59:46 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
-      <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
-    </item>
     <item>
       <title>[Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
       <description><![CDATA[Werke von Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027</title>
@@ -29,7 +21,15 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
       <description><![CDATA[Sonderausstellung mit Werken von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
+      <description><![CDATA[Ausstellung im Kunstmuseum Bern, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/murten-ausgeschlachtet</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Geschichte und Inszenierung. Bernisches Historisches Museum, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Fokus. Florence Henri - bis 10.01.2027</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</guid>
       <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Führungen Mensch, Erde! - Das Klima im Wandel - bis 13.12.</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</guid>
       <description><![CDATA[Führungen zum Thema Klima im Wandel. Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/roberto-burle-marx-modernismo-tropical</guid>
       <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/tierzeichnen-am-abend</guid>
       <description><![CDATA[Tierzeichnen am Abend. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Reise in die Freiheit. Capri - Skagen - Monte Verità - bis 31.01.2027</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/reise-in-die-freiheit-capri-skagen-monte-verita</guid>
       <description><![CDATA[Ausstellung über Sehnsuchtsorte und Künstlerkolonien in Capri, Skagen und auf dem Monte Verità. Kunstmuseum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Vortrag] Wer entscheidet? Klimagerechtigkeit im Talk - am Do 12.11.</title>
@@ -85,7 +85,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/wer-entscheidet-klimagerechtigkeit-im-talk</guid>
       <description><![CDATA[Diskussion und Talk zum Thema Klimagerechtigkeit im Rahmen des Begleitprogramms. Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Vortrag</category>
-      <pubDate>Sun, 18 Oct 2026 04:59:48 GMT</pubDate>
+      <pubDate>Mon, 19 Oct 2026 04:59:46 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Festival] Salamandre-Festival - 23.-25.10.</title>
@@ -168,20 +168,12 @@
       <pubDate>Tue, 06 Oct 2026 02:03:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges] [Sport] Fussballcamp im Parc des sports - 19.-23.10.</title>
+      <title>[Morges] [Sport] Fussballcamp im Parc des sports - bis 23.10.</title>
       <link>https://www.morges.ch/agenda/camp-de-football-au-parc-des-sports-212939</link>
       <guid isPermaLink="false">https://www.morges.ch/agenda/camp-de-football-au-parc-des-sports-212939</guid>
       <description><![CDATA[Fussballcamp für Kinder und Jugendliche im Parc des sports, Morges.]]></description>
       <category>Sport</category>
       <pubDate>Tue, 06 Oct 2026 02:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Festival] Festival MySwissMailles - bis 18.10.</title>
-      <link>https://www.morges.ch/agenda/festival-myswissmailles-213893</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/festival-myswissmailles-213893</guid>
-      <description><![CDATA[Animationen und Treffen rund um das Thema Handarbeit und Kunsthandwerk. Morges]]></description>
-      <category>Festival</category>
-      <pubDate>Sun, 04 Oct 2026 02:03:00 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Führung] Monotypie-Druck-Workshop – Magie und Design</title>
@@ -214,14 +206,6 @@
       <description><![CDATA[Entdecken Sie die Ausstellung „Hocus Pocus“ bei einer Führung mit Kuratorin Alexandra Midal in der Plateforme 10, Lausanne.]]></description>
       <category>Fuehrung</category>
       <pubDate>Thu, 01 Oct 2026 12:22:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Ausstellung] Humo en mi Boca - bis 18.10.</title>
-      <link>https://www.morges.ch/agenda/espace-81--exposition-humo-en-mi-boca-213189</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/espace-81--exposition-humo-en-mi-boca-213189</guid>
-      <description><![CDATA[Ausstellung Humo en mi Boca im Espace 81, Morges.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sun, 27 Sep 2026 02:03:01 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] Am Leben bleiben</title>
