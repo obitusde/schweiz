@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 22.10.2026, 06:59:45
+Start: 23.10.2026, 06:59:46
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 Bedeutung: bis 30 min -> Rang 3, bis 60 min -> Rang 2, darueber -> Rang 1
 
@@ -23,27 +23,29 @@ Statischer Filter (Keywords):
 - Geloescht [Keyword 'lanterne magique']: 'Cinéma Odéon : La Lanterne magique'
 - Geloescht [Keyword 'boutchous']: 'Cinéma Odéon : Ciné'Boutchous'
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
 - Geloescht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
 - Geloescht [Keyword 'dauerausstellung']: 'Einstein Museum'
-- Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
+- Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
 - Geloescht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
+- Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
 - Geloescht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
-- Geloescht [Keyword 'dauerausstellung']: 'Aktionstag: Ein Jahr «Mensch, Erde! – Das Klima im Wandel»'
+- Geloescht [Keyword 'dauerausstellung']: 'Aktionstag: Ein Jahr «Mensch, Erde! – Das Klima im Wandel» Geburtstag der Dauerausstellung'
 
-Aus Cache uebernommen (206):
-- Cache: 'Cantonale Berne Jura'
-- Cache: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts'
-- Cache: 'Franz Gertsch. Blow-Up (Part I)'
-- Cache: 'Stress: Eine Ausstellung, die Mut macht'
-- Cache: 'Schnittstellen der Sicht: Hans Gerber und Sabine Hertig'
-- Cache: 'Out of the box'
-- Cache: 'Susanne Keller. Hinterkammer des Auges'
-- Cache: 'Cantonale Berne Jura 2026'
-- Cache: 'Cécile Wick. In naher Ferne'
-- Cache: 'Saodat Ismailova'
-- Cache: 'Souvenir Selfies, Kitsch und Gipfelsteine'
+Aus Cache uebernommen (207):
 - Cache: 'Villa Abegg – Das Anwesen eines Sammlerpaares'
+- Cache: 'Out of the box'
+- Cache: 'Stress: Eine Ausstellung, die Mut macht'
+- Cache: 'Susanne Keller. Hinterkammer des Auges'
+- Cache: 'Cécile Wick. In naher Ferne'
+- Cache: 'Schnittstellen der Sicht: Hans Gerber und Sabine Hertig'
+- Cache: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne'
+- Cache: 'Cantonale Berne Jura'
+- Cache: 'Franz Gertsch. Blow-Up (Part I)'
+- Cache: 'Souvenir Selfies, Kitsch und Gipfelsteine'
+- Cache: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts'
+- Cache: 'Saodat Ismailova'
+- Cache: 'Cantonale Berne Jura 2026'
+- Cache: 'Museumsnacht Bern 2027'
 - Cache: 'Zeitheldinnen auf der Spur'
 - Cache: 'Goldrichtig – Ist Goldrecycling die Zukunft?'
 - Cache: 'Die Zeit ins Bild gerückt 150 Jahre Klassenfotos'
@@ -71,7 +73,6 @@ Aus Cache uebernommen (206):
 - Cache: 'Wer entscheidet? Klimagerechtigkeit im Talk'
 - Cache: 'CHIPS'
 - Cache: 'Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert'
-- Cache: 'Von der Schmiede ins Museum: Verzierte Kuhglocken von Paul Morier'
 - Cache: 'Fotografie und Skulptur im Dialog'
 - Cache: 'Like Alice - Rockkonzert in der Easy Rider Bar'
 - Cache: 'Konzert der jungen Virtuosen aus Armenien'
@@ -239,19 +240,15 @@ Aus Cache uebernommen (206):
 - Cache: 'Widerstehen!'
 - Cache: 'Und wir?'
 
-KI-Filter / Cache-Loeschungen (135):
-- Geloescht [Cache: Dauerausstellung]: 'Die Wunderkammern Staunen und Entdecken'
-- Geloescht [Cache: Dauerausstellung]: 'Anno 1811 - Die Anfänge der Blasmusik in der Schweiz'
+KI-Filter / Cache-Loeschungen (133):
 - Geloescht [Cache: Dauerausstellung]: 'Wunderkammer Die Schausammlung'
 - Geloescht [Cache: Ort unbekannt]: 'Mensch, Erde! – Das Klima im Wandel'
+- Geloescht [Cache: Dauerausstellung]: 'Anno 1811 - Die Anfänge der Blasmusik in der Schweiz'
 - Geloescht [Cache: Dauerausstellung]: 'Unterwegs Wandern in der Schweiz'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Macherinnen Frauengeschichte aus Burgdorf und dem Emmental'
+- Geloescht [Cache: Dauerausstellung]: 'Die Wunderkammern Staunen und Entdecken'
+- Geloescht [Cache: Dauerausstellung]: 'Freiheit! Eine musikalische Annäherung'
 - Geloescht [Cache: Dauerausstellung]: 'Alpensounds Volksmusik zwischen Erbe und Experiment'
-- Geloescht [Cache: Ort unbekannt]: 'La Rando des Blés'
-- Geloescht [Cache: Ort unbekannt]: 'Ausstellung «Poyas und andere Werke» von Willy Läng'
-- Geloescht [Cache: Ort unbekannt]: 'Ausstellung «Reise ins Land des Scherenschnitts» von Stéphanie Miguet'
-- Geloescht [Cache: Ort unbekannt]: 'Atelier de découpage aux ciseaux (3h)'
-- Geloescht [Cache: Ort unbekannt]: 'Einführung in die Klöppelspitze'
 - Geloescht [Cache: Ausschlusskriterium]: 'La lithographie au féminin - Rencontre au Musée Alexis Forel'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Danse et convivialité : le thé dansant seniors à ne pas manquer !'
 - Geloescht [Cache: Ort unbekannt]: 'Ash – What You Waiting For? (triple j Like A Version)'
@@ -319,7 +316,6 @@ KI-Filter / Cache-Loeschungen (135):
 - Geloescht [Cache: Ort unbekannt]: 'Yann Tiersen – Coma (Soft Felt Piano)'
 - Geloescht [Cache: Ort unbekannt]: 'Bruno Mars – That's Why I Love You (feat. Bruno Mars)'
 - Geloescht [Cache: Ort unbekannt]: 'Upcoming Live Shows: Evanescence, Calogero, Jeanne Cherhal, Sido'
-- Geloescht [Cache: Ort unbekannt]: 'Out Now! Listen to the brand new album by Roger ...'
 - Geloescht [Cache: Ort unbekannt]: 'Cinéma Odéon : Nuit du court métrage 2026'
 - Geloescht [Cache: Ort unbekannt]: 'Stand Morges Région Tourisme au Grand Marché d'automne'
 - Geloescht [Cache: Ort unbekannt]: 'Atelier participatif de peinture - Espace Couvaloup'
@@ -373,21 +369,24 @@ KI-Filter / Cache-Loeschungen (135):
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Artistes femmes dans l’art contemporain'
 - Geloescht [Cache: Vergangen]: 'LIG x Plateforme 10 – Tournoi d’été'
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?'
-- Geloescht [Dauerausstellung]: 'Freiheit! Eine musikalische Annäherung' [Feed: Museen Bern]
-- Geloescht [Ort unbekannt]: 'Einführung in das Schneiden mit der Schere' [Feed: Vaud.de Morges]
+- Geloescht [Ort unbekannt]: 'Bowling à gogo' [Feed: Vaud.de Morges]
+- Geloescht [Ort unbekannt]: 'Temporäre Ausstellung „Top Secret“' [Feed: Vaud.de Morges]
+- Geloescht [Ort unbekannt]: 'Ella Maillart. Fotografische Erzählungen' [Feed: Vaud.de Morges]
+- Geloescht [Senioren]: 'Thé dansant pour les seniors' [Feed: Morges Agenda]
+- Geloescht [Ort unbekannt]: 'Cranberries – Such A Waste (2027 Remastered)' [Feed: Lieblingsbands Neuerscheinungen]
 
-Regelfilter Datum/Entfernung/Dauerausstellung (129):
-- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Stress: Eine Ausstellung, die Mut macht' [Feed: Museen Bern]
+Regelfilter Datum/Entfernung/Dauerausstellung (131):
+- Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Villa Abegg – Das Anwesen eines Sammlerpaares' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Out of the box' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura 2026' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Stress: Eine Ausstellung, die Mut macht' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cécile Wick. In naher Ferne' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Saodat Ismailova' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Souvenir Selfies, Kitsch und Gipfelsteine' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Saodat Ismailova' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura 2026' [Feed: Museen Bern]
 - Geloescht [Faengt erst am 19.03.2027 an]: 'Museumsnacht Bern 2027' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Villa Abegg – Das Anwesen eines Sammlerpaares' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Zeitheldinnen auf der Spur' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Goldrichtig – Ist Goldrecycling die Zukunft?' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Zeit ins Bild gerückt 150 Jahre Klassenfotos' [Feed: Museen Bern]
@@ -408,8 +407,10 @@ Regelfilter Datum/Entfernung/Dauerausstellung (129):
 - Geloescht [Vorbei seit 08.10.]: 'Führungen hinter die Kulissen Zwischen Illusion und Idylle – Die Afrika-Dioramen' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'CHIPS' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert' [Feed: Museen Bern]
-- Geloescht [Ort unbekannt (?/?)]: 'Von der Schmiede ins Museum: Verzierte Kuhglocken von Paul Morier' [Feed: Vaud.de Morges]
+- Geloescht [Rang 3, bei 90 min Anreise zaehlt nur Rang 1]: 'Die After Works beim Grand Chalet' [Feed: Vaud.de Morges]
 - Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Fotografie und Skulptur im Dialog' [Feed: museum.ch Ausstellungen]
+- Geloescht [Vorbei seit 22.10.]: 'Vortrag von Nathalie Genet-Rouffiac: Im Schatten handeln: Die Geheimdienste des Freien Frankreich, 1940–1944' [Feed: Morges Agenda]
+- Geloescht [Vorbei seit 22.10.]: 'Kochkurs: Der neu interpretierte Apéro' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 09.10.]: 'Catch Expo (Top Secret) von Rictus Impra' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 10.10.]: 'Ciné Bout'chous: Vorführung von "Timioche"' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 17.10.]: 'Incipit – Rockkonzert' [Feed: Morges Agenda]
@@ -510,10 +511,10 @@ Regelfilter Datum/Entfernung/Dauerausstellung (129):
 Ohne KI-Daten uebernommen (0):
 - Keine.
 
-Finale Liste (79 Eintraege):
-- [Museen Bern] [Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027
-- [Museen Bern] [Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.
+Finale Liste (83 Eintraege):
 - [Museen Bern] [Bern] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.
+- [Museen Bern] [Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.
+- [Museen Bern] [Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027
 - [Museen Bern] [Bern] [Ausstellung] Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt - bis 09.05.2027
 - [Museen Bern] [Bern] [Ausstellung] Fokus. Florence Henri - bis 10.01.2027
 - [Museen Bern] [Bern] [Führung] Führungen Mensch, Erde! - Das Klima im Wandel - bis 13.12.
@@ -521,15 +522,19 @@ Finale Liste (79 Eintraege):
 - [Museen Bern] [Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.
 - [Museen Bern] [Bern] [Ausstellung] Reise in die Freiheit. Capri - Skagen - Monte Verità - bis 31.01.2027
 - [Museen Bern] [Bern] [Vortrag] Wer entscheidet? Klimagerechtigkeit im Talk - am Do 12.11.
+- [Vaud.de Morges] [Nyon] [Ausstellung] Kleine Natur?
+- [Vaud.de Morges] [Vullierens VD] [Ausstellung] Die Gärten von Schloss Vullierens
+- [Vaud.de Morges] [Morges] [Ausstellung] Mimêsis - die Natur am Ursprung der Innovation
+- [Morges Agenda] [Morges] [Ausstellung] Vernissage des partizipativen Wandbilds von Espace Couvaloup - am Mi 28.10.
+- [Morges Agenda] [Morges] [Theater] Die Theatererfahrung - am Do 29.10.
+- [Morges Agenda] [Morges] [Familie] Halloween-Fest - am Fr 30.10.
 - [Morges Agenda] [Morges] [Konzert] Like Alice - Rockkonzert in der Easy Rider Bar - am Sa 24.10.
 - [Morges Agenda] [Morges] [Konzert] Konzert der jungen Virtuosen aus Armenien - am Mi 28.10.
-- [Morges Agenda] [Morges] [Festival] Salamandre-Festival - 23.-25.10.
+- [Morges Agenda] [Morges] [Festival] Salamandre-Festival - bis 25.10.
 - [Morges Agenda] [Morges] [Markt] Traum-Ankleidezimmer - am Sa 24.10.
 - [Platform 10 Agenda] [Lausanne] [Kino] Filmvorführung von Houdini im Cinéma CityClub
 - [Platform 10 Agenda] [Lausanne] [Familie] Familientag – Die Tiere im Museum!
 - [Morges Agenda] [Morges] [Ausstellung] Espace 81: Ausstellung André Pirlot - bis 29.11.
-- [Morges Agenda] [Morges] [Vortrag] Vortrag von Nathalie Genet-Rouffiac: Im Schatten handeln: Die Geheimdienste des Freien Frankreich, 1940–1944 - am Do 22.10.
-- [Morges Agenda] [Morges] Kochkurs: Der neu interpretierte Apéro - am Do 22.10.
 - [Platform 10 Agenda] [Lausanne] [Führung] Führung – Tiermodell. 200 Jahre Fotografie
 - [Platform 10 Agenda] [Lausanne] [Führung] Führung – Die Oper im Photo Élysée
 - [Morges Agenda] [Morges] [Sport] Fussballcamp im Parc des sports - bis 23.10.
