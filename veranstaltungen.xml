@@ -5,23 +5,15 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Thun] [Ausstellung] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
-      <description><![CDATA[Schnittstellen der Sicht. Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
-    </item>
     <item>
       <title>[Bern] [Ausstellung] Franz Gertsch: Blow-Up (Part I) - bis 17.01.2027</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
       <description><![CDATA[Werkausstellung von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
@@ -29,7 +21,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Susanne Keller. Hinterkammer des Auges. Kunstmuseum Thun, Thun]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Fokus: Florence Henri - bis 10.01.2027</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</guid>
       <description><![CDATA[Werkschau der Fotografin Florence Henri im Zentrum Paul Klee, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Führungen Mensch, Erde! - Das Klima im Wandel - bis 13.12.</title>
@@ -45,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</guid>
       <description><![CDATA[Führungen zum Thema Klima im Wandel. Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027</title>
@@ -53,7 +45,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/roberto-burle-marx-modernismo-tropical</guid>
       <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.</title>
@@ -61,7 +53,15 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/tierzeichnen-am-abend</guid>
       <description><![CDATA[Tierzeichnen am Abend. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Wissen-Saft – Auf ein Glas mit … Tiger Igor - bis 13.12.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/wissen-saft-auf-ein-glas-with-tiger-igor</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/wissen-saft-auf-ein-glas-with-tiger-igor</guid>
+      <description><![CDATA[Tierzeichnen am Abend und Ausstellung im Naturhistorisches Museum Bern, Bern.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Reise in die Freiheit: Capri – Skagen – Monte Verità - bis 31.01.2027</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/reise-in-die-freiheit-capri-skagen-monte-verita</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Sehnsucht nach Freiheit und Künstlerkolonien. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Führungen hinter die Kulissen: Die schönsten Fossilien - 04.-05.11.</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-hinter-die-kulissen</guid>
       <description><![CDATA[Einblick in die Sammlung der schönsten Fossilien im Naturhistorisches Museum Bern, Bern]]></description>
       <category>Fuehrung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Vortrag] Wer entscheidet? Klimagerechtigkeit im Talk - am Do 12.11.</title>
@@ -85,7 +85,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/wer-entscheidet-klimagerechtigkeit-im-talk</guid>
       <description><![CDATA[Diskussion und Talk zum Thema Klimagerechtigkeit. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Vortrag</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Silizium: Von den Alpen ins Silicon Valley - bis 09.12.</title>
@@ -93,7 +93,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/silizium-von-den-alpen-ins-silicon-valley</guid>
       <description><![CDATA[Sonderausstellung zur Bedeutung von Silizium von den Alpen bis ins Silicon Valley. Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Familie] Halloween im Schloss Morges - am Sa 31.10.</title>
@@ -134,14 +134,6 @@
       <description><![CDATA[Kultur und Filmvorführung über Thailand in der Reihe Cap Sur Le Monde. Cinéma Odéon, Morges.]]></description>
       <category>Kino</category>
       <pubDate>Sat, 24 Oct 2026 02:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Theater] Die Theatererfahrung - am Do 29.10.</title>
-      <link>https://www.morges.ch/agenda/theatre-de-beausobre--lexperience-theatrale-213424</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/theatre-de-beausobre--lexperience-theatrale-213424</guid>
-      <description><![CDATA[Theateraufführung Théâtre de Beausobre : L’expérience Théâtrale, Morges.]]></description>
-      <category>Theater</category>
-      <pubDate>Fri, 23 Oct 2026 02:03:01 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Familie] Halloween-Fest - am Fr 30.10.</title>
@@ -232,11 +224,11 @@
       <pubDate>Sat, 26 Sep 2026 02:03:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Führung] Begegnung – Ella Maillart. Gezeichnete Geschichte</title>
+      <title>[Lausanne] [Lesung] Begegnung – Ella Maillart: Gezeichnete Geschichte</title>
       <link>https://plateforme10.ch/events/rencontre-ella-maillart-recit-dessine/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/rencontre-ella-maillart-recit-dessine/</guid>
-      <description><![CDATA[Treffen mit der Lausanner Comicautorin Dora Formica im Rahmen der Ausstellung «Ella Maillart. Récits photographiques», Plateforme 10, Lausanne.]]></description>
-      <category>Fuehrung</category>
+      <description><![CDATA[Treffen mit der Comic-Autorin Dora Formica zur Biografie über Ella Maillart. Plateforme 10, Lausanne]]></description>
+      <category>Lesung</category>
       <pubDate>Thu, 24 Sep 2026 09:55:48 GMT</pubDate>
     </item>
     <item>
@@ -363,15 +355,15 @@
       <title>[Lausanne] [Lesung] Gedichtlesung von Ted Joans durch Jake Lamar</title>
       <link>https://plateforme10.ch/events/lecture-de-poemes-de-ted-joans-par-jake-lamar/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/lecture-de-poemes-de-ted-joans-par-jake-lamar/</guid>
-      <description><![CDATA[Jake Lamar haucht der subversiven Poesie von Ted Joans in einer Leseabend neuen Atem ein. Plateforme 10, Lausanne]]></description>
+      <description><![CDATA[Jake Lamar interpretiert die subversive und orale Poesie von Ted Joans. Plateforme 10, Lausanne]]></description>
       <category>Lesung</category>
       <pubDate>Fri, 28 Aug 2026 00:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] Hörsession: Ted Joans &amp; New Black Poetry</title>
+      <title>[Lausanne] Hörsitzung – Ted Joans &amp; New Black Poetry</title>
       <link>https://plateforme10.ch/events/ted-joans-new-black-poetry-ted-joans-black-flower/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/ted-joans-new-black-poetry-ted-joans-black-flower/</guid>
-      <description><![CDATA[Eine Hörsession erforscht den Dialog zwischen der Poesie von Ted Joans und dem Jazz. Plateforme 10, Lausanne]]></description>
+      <description><![CDATA[Eine Hörsession erkundet den Dialog zwischen der Poesie von Ted Joans und dem Jazz im Afro-amerikanischen Kontext. Plateforme 10, Lausanne]]></description>
       <category>Sonstiges</category>
       <pubDate>Fri, 28 Aug 2026 00:00:39 GMT</pubDate>
     </item>
@@ -379,7 +371,7 @@
       <title>[Lausanne] [Führung] Workshop für Erwachsene – Ted Joans</title>
       <link>https://plateforme10.ch/events/atelier-pour-adultes-ted-joans-black-flower/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/atelier-pour-adultes-ted-joans-black-flower/</guid>
-      <description><![CDATA[Kreativer Workshop inspiriert von Ted Joans, gefolgt von einer Gedichtlesung von Jake Lamar, Plateforme 10, Lausanne.]]></description>
+      <description><![CDATA[Kreativer Schreibworkshop inspiriert von Ted Joans, gefolgt von einer Lesung mit Jake Lamar. Plateforme 10, Lausanne]]></description>
       <category>Fuehrung</category>
       <pubDate>Thu, 27 Aug 2026 00:02:04 GMT</pubDate>
     </item>
@@ -387,39 +379,39 @@
       <title>[Lausanne] [Kino] Filmvorführung im Cinématographe – Ted Joans. Black Flower</title>
       <link>https://plateforme10.ch/events/projection-au-cinematographe-ted-joans-black-flower/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/projection-au-cinematographe-ted-joans-black-flower/</guid>
-      <description><![CDATA[Film über Jazz als politisches Werkzeug im Kalten Krieg von Johan Grimonprez im Rahmen des Festivals Jazz Onze +, Lausanne.]]></description>
+      <description><![CDATA[Dokumentarfilm über Jazz, Politik und Dekolonisation im Rahmen des Festivals Jazz Onze+. Plateforme 10, Lausanne.]]></description>
       <category>Kino</category>
       <pubDate>Thu, 27 Aug 2026 00:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Führung] Forschungs- und Kreativ-Atelier – Ted Joans</title>
+      <title>[Lausanne] [Führung] Forschungs- und Kreativatelier – Ted Joans</title>
       <link>https://plateforme10.ch/events/atelier-de-recherche-creation-ted-joans-black-flower/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/atelier-de-recherche-creation-ted-joans-black-flower/</guid>
-      <description><![CDATA[Atelier zu den Widerstandsstrategien Schwarzer Menschen, inspiriert von Ted Joans, an der Plateforme 10, Lausanne.]]></description>
+      <description><![CDATA[Atelier zu Widerstandsstrategien Schwarzer Menschen inspiriert von Ted Joans. Universität Lausanne, Lausanne.]]></description>
       <category>Fuehrung</category>
       <pubDate>Thu, 27 Aug 2026 00:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Familie] Workshop 0-100 Jahre – Surrealistische Masken</title>
+      <title>[Lausanne] [Familie] Atelier für alle – Surrealistische Masken</title>
       <link>https://plateforme10.ch/events/atelier-0-100-ans-masques-surrealistes/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/atelier-0-100-ans-masques-surrealistes/</guid>
-      <description><![CDATA[Herstellung von surrealistischen Masken aus Recyclingmaterialien für den Karneval in der Plateforme 10, Lausanne.]]></description>
+      <description><![CDATA[Erstellung von surrealistischen Masken aus Recyclingmaterialien. Plateforme 10, Lausanne.]]></description>
       <category>Familie</category>
       <pubDate>Thu, 27 Aug 2026 00:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Familie] Workshop 0-100 Jahre – Frottage-Geschenk</title>
+      <title>[Lausanne] [Familie] Atelier für alle – Geriebenes Geschenk</title>
       <link>https://plateforme10.ch/events/atelier-0-100-ans-cadeau-frotte/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/atelier-0-100-ans-cadeau-frotte/</guid>
-      <description><![CDATA[Herstellung eines Notizbuchs als Weihnachtsgeschenk mit Frottage-Techniken von Ted Joans in der Plateforme 10, Lausanne.]]></description>
+      <description><![CDATA[Herstellung eines Notizbuchs inspiriert von Frottagetechniken von Ted Joans. Plateforme 10, Lausanne.]]></description>
       <category>Familie</category>
       <pubDate>Thu, 27 Aug 2026 00:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Führung] Ausstellungsführung mit dem Kurator – Ted Joans. Black Flower - bis 28.02.2027</title>
+      <title>[Lausanne] [Führung] Kuratorenführung – Ted Joans. Black Flower - am Sa 31.10.</title>
       <link>https://plateforme10.ch/events/visite-avec-le-commissaire-ted-joans-black-flower/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/visite-avec-le-commissaire-ted-joans-black-flower/</guid>
-      <description><![CDATA[Führung durch die Ausstellung Ted Joans. Black Flower mit Kurator Pierre-Henri Foulon oder Künstlerin Laura Corsiglia, Lausanne.]]></description>
+      <description><![CDATA[Führung in Begleitung von Pierre-Henri Foulon, Kurator der Ausstellung. Plateforme 10, Lausanne.]]></description>
       <category>Fuehrung</category>
       <pubDate>Thu, 27 Aug 2026 00:02:03 GMT</pubDate>
     </item>
