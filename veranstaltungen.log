@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 30.10.2026, 06:59:45
+Start: 31.10.2026, 06:59:44
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 Bedeutung: bis 30 min -> Rang 3, bis 60 min -> Rang 2, darueber -> Rang 1
 
@@ -23,30 +23,31 @@ Statischer Filter (Keywords):
 - Geloescht [Keyword 'lanterne magique']: 'Cinéma Odéon : La Lanterne magique'
 - Geloescht [Keyword 'boutchous']: 'Cinéma Odéon : Ciné'Boutchous'
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Geloescht [Keyword 'dauerausstellung']: 'Dauerausstellung'
-- Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
-- Geloescht [Keyword 'dauerausstellung']: 'Out of the box'
 - Geloescht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
-- Geloescht [Keyword 'dauerausstellung']: 'Cantonale Berne Jura'
-- Geloescht [Keyword 'dauerausstellung']: 'Wunderkammer'
 - Geloescht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
-- Geloescht [Keyword 'dauerausstellung']: 'Die Wunderkammern'
+- Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
 - Geloescht [Keyword 'dauerausstellung']: 'Moneyverse Ausstellung'
-- Geloescht [Keyword 'dauerausstellung']: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig'
+- Geloescht [Keyword 'dauerausstellung']: 'Einstein Museum'
+- Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs'
 - Geloescht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
 
-Aus Cache uebernommen (178):
+Aus Cache uebernommen (201):
+- Cache: 'Susanne Keller. Hinterkammer des Auges'
+- Cache: 'Saodat Ismailova'
+- Cache: 'Souvenir Selfies, Kitsch und Gipfelsteine'
 - Cache: 'Die Anfänge der Blasmusik in der Schweiz'
 - Cache: 'Franz Gertsch: Blow-Up (Part I)'
-- Cache: 'Susanne Keller. Hinterkammer des Auges'
+- Cache: 'Cantonale Berne Jura'
+- Cache: 'Out of the box'
 - Cache: 'Museumsnacht Bern 2027'
-- Cache: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts'
 - Cache: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne'
-- Cache: 'Cécile Wick. In naher Ferne'
-- Cache: 'Stress. Eine Ausstellung, die Mut macht'
-- Cache: 'Souvenir Selfies, Kitsch und Gipfelsteine'
 - Cache: 'Cantonale Berne Jura'
 - Cache: 'Villa Abegg – Das Anwesen eines Sammlerpaares'
+- Cache: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts'
+- Cache: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig'
+- Cache: 'Stress. Eine Ausstellung, die Mut macht'
+- Cache: 'Cécile Wick. In naher Ferne'
+- Cache: 'Die Zeit ins Bild gerückt'
 - Cache: 'Die Post vor 60 Jahren'
 - Cache: 'Der Sonntagsausflug'
 - Cache: 'Hefte, die die Schweizer Jugend prägt'
@@ -60,6 +61,7 @@ Aus Cache uebernommen (178):
 - Cache: 'Franz Gertsch. Blow-Up (Part II)'
 - Cache: 'Roberto Burle Marx. Modernismo tropical'
 - Cache: 'Tierzeichnen am Abend'
+- Cache: 'Wissen-Saft – Auf ein Glas mit … Tiger Igor'
 - Cache: 'Dark Gossip: Die Abendverführung für Erwachsene'
 - Cache: 'Reise in die Freiheit: Capri – Skagen – Monte Verità'
 - Cache: 'Ciao Schultrauma'
@@ -69,7 +71,6 @@ Aus Cache uebernommen (178):
 - Cache: 'Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert'
 - Cache: 'Bühnensonntag mit Nayan Stalder'
 - Cache: 'Silizium: Von den Alpen ins Silicon Valley'
-- Cache: 'Von der Schmiede ins Museum: Verzierte Kuhglocken von Paul Morier'
 - Cache: 'Halloween im Schloss Morges'
 - Cache: 'Asaf Avidan'
 - Cache: 'Jam Session in der Easy Rider Bar'
@@ -112,9 +113,9 @@ Aus Cache uebernommen (178):
 - Cache: 'Stop-Motion-Zauberfilm-Workshop – Magie und Design'
 - Cache: 'Wunschkarten-Workshop – Magie und Design'
 - Cache: 'Kuratorpfi-Führung: Magie und Design'
-- Cache: 'The librarians'
-- Cache: 'Konzert M&M's'
+- Cache: 'Eisbahneröffnung'
 - Cache: 'Bleiben Sie lebendig'
+- Cache: 'Begegnung – Ella Maillart: Gezeichnete Geschichte'
 - Cache: 'Um Haikus herum - Die zehn kleinen Runden'
 - Cache: 'Ländliche Architektur und Freilichtmuseen in der Zwischenkriegszeit'
 - Cache: 'Toxic Rock - Rock-Coverkonzert'
@@ -159,6 +160,24 @@ Aus Cache uebernommen (178):
 - Cache: 'Avantgarde – Grafikdesign im Aufbruch'
 - Cache: 'Vortrag – Alfredo Jaar'
 - Cache: 'Finissage – Echoes of Tehran'
+- Cache: 'PRO VERO-Fahrkurs'
+- Cache: 'Welcome back – Die Sammlung kehrt zurück'
+- Cache: 'Grafische Nocturnes'
+- Cache: 'Geteiltes Atelier'
+- Cache: 'Das Buch an den Kais'
+- Cache: 'Innerfall - Rock-Konzert in der Easy Rider Bar'
+- Cache: 'Einen Monat ohne Bildschirm – Nimm die Herausforderung an!'
+- Cache: 'Gedichtlesung von Ted Joans durch Jake Lamar'
+- Cache: 'Hörsitzung – Ted Joans & New Black Poetry'
+- Cache: 'Kultursommer des Schloss Morges: Infiltration - zeitgenössische Tanzperformance'
+- Cache: 'Kultursommer des Schloss Morges: L'Harmonie Morgienne'
+- Cache: 'Repair Café Morges'
+- Cache: 'Workshop für Erwachsene – Ted Joans'
+- Cache: 'Filmvorführung im Cinématographe – Ted Joans. Black Flower'
+- Cache: 'Forschungs- und Kreativatelier – Ted Joans'
+- Cache: 'Atelier für alle – Surrealistische Masken'
+- Cache: 'Atelier für alle – Geriebenes Geschenk'
+- Cache: 'Kuratorenführung – Ted Joans. Black Flower'
 - Cache: 'Pach’un Q’ijul (Verschlungene Zeit - Deep Time)'
 - Cache: 'Was ist die Zukunft?'
 - Cache: 'Glas, jenseits der Materie'
@@ -215,10 +234,12 @@ Aus Cache uebernommen (178):
 - Cache: 'Runde Tischgespräche – Widerstehen!'
 - Cache: 'Und wir? Die Tiere aus Glas in der Sammlung Pierre Rosenberg'
 
-KI-Filter / Cache-Loeschungen (135):
-- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Macherinnen Frauengeschichte aus Burgdorf und dem Emmental'
+KI-Filter / Cache-Loeschungen (137):
+- Geloescht [Cache: Dauerausstellung]: 'Die Wunderkammern Staunen und Entdecken'
 - Geloescht [Cache: Dauerausstellung]: 'Unterwegs Wandern in der Schweiz'
 - Geloescht [Cache: Ort unbekannt]: 'Mensch, Erde! – Das Klima im Wandel'
+- Geloescht [Cache: Dauerausstellung]: 'Wunderkammer Die Schausammlung'
+- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Macherinnen Frauengeschichte aus Burgdorf und dem Emmental'
 - Geloescht [Cache: Dauerausstellung]: 'Zeitheldinnen auf der Spur'
 - Geloescht [Cache: Dauerausstellung]: 'Freiheit! Eine musikalische Annäherung'
 - Geloescht [Cache: Dauerausstellung]: '«Goldrichtig – Ist Goldrecycling die Zukunft?»'
@@ -227,10 +248,10 @@ KI-Filter / Cache-Loeschungen (135):
 - Geloescht [Cache: Dauerausstellung]: 'Alpensounds'
 - Geloescht [Cache: Ort unbekannt]: 'Bowling à gogo'
 - Geloescht [Cache: Ort unbekannt]: 'Atelier de découpage aux ciseaux (3h)'
-- Geloescht [Cache: Ort unbekannt]: 'Savurando'
 - Geloescht [Cache: Ort unbekannt]: 'La Rando des Blés'
 - Geloescht [Cache: Ort unbekannt]: 'Ausstellung «Poyas und andere Werke» von Willy Läng'
 - Geloescht [Cache: Ort unbekannt]: 'Ausstellung «Reise ins Land des Scherenschnitts» von Stéphanie Miguet'
+- Geloescht [Cache: Ort unbekannt]: 'Repair Café Morges'
 - Geloescht [Cache: Kein physischer Event]: 'Peter Gabriel – Who Are We Talking To? (Dark-Side Mix)'
 - Geloescht [Cache: Keine Live-Veranstaltung]: 'Evanescence – Like You (Remastered 2026)'
 - Geloescht [Cache: Senioren]: 'Thé dansant pour les seniors'
@@ -280,9 +301,8 @@ KI-Filter / Cache-Loeschungen (135):
 - Geloescht [Cache: Ort unbekannt]: 'Creed – Bullets (Remastered 2026)'
 - Geloescht [Cache: Ort unbekannt]: 'Bruno Mars – Dance With Me'
 - Geloescht [Cache: Ort unbekannt]: 'The Rolling Stones – Mr Charm'
-- Geloescht [Cache: Duplikat]: 'Vernissage public – Modèle animal. 200 ans de photographie'
 - Geloescht [Cache: Ort unbekannt]: 'Angelika Express – Punkmusik hat mein Leben gerettet'
-- Geloescht [Cache: Ort unbekannt]: 'Billy Joel – James (Band Demo, June 12, 1975)'
+- Geloescht [Cache: Ort unbekannt]: 'Samedi à la Pati !'
 - Geloescht [Cache: Vergangenes Datum]: 'Atelier part'âge'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Cours de danse de Salon 60+'
 - Geloescht [Cache: Ort unbekannt]: 'Brecht , c'était qui déjà ? - Les Dix P'tits Tours'
@@ -316,7 +336,11 @@ KI-Filter / Cache-Loeschungen (135):
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Magie et Design'
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Blanc-Gatti. Le peintre des sons'
 - Geloescht [Cache: Events ausschliesslich fuer Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors'
+- Geloescht [Cache: Ort unbekannt]: 'Comptines et histoires pour enfants en portugais'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Atelier – Wikipédia avec les sans pagEs'
+- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Séances de sport spéciales pour les femmes'
+- Geloescht [Cache: Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Les expositions à voir en ce moment à Genève'
+- Geloescht [Cache: Duplikat]: 'Guided Tour – Ted Joans. Black Flower'
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Ted Joans. Black Flower'
 - Geloescht [Cache: Ort unbekannt]: 'Facebook'
 - Geloescht [Cache: Ort unbekannt]: 'LinkedIn'
@@ -345,25 +369,23 @@ KI-Filter / Cache-Loeschungen (135):
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Artistes femmes dans l’art contemporain'
 - Geloescht [Cache: Datum in der Vergangenheit]: 'NUIT DES MUSEES'
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?'
-- Geloescht [Ort unbekannt]: 'Repair Café Morges' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'Samedi à la Pati !' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'Comptines et histoires pour enfants en portugais' [Feed: Morges Agenda]
-- Geloescht [Events ausschließlich für Senioren oder Frauen]: 'Séances de sport spéciales pour les femmes' [Feed: Morges Agenda]
-- Geloescht [Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Les expositions à voir en ce moment à Genève' [Feed: Genf Ausstellungen]
-- Geloescht [Duplikat]: 'Guided Tour – Ted Joans. Black Flower' [Feed: Platform 10 Agenda]
+- Geloescht [Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors' [Feed: Morges Agenda]
+- Geloescht [Ort unbekannt]: 'Morcheeba – Molten (Gui Boratto's Rework)' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Bryan Adams – Lake Ontario' [Feed: Lieblingsbands Neuerscheinungen]
 
-Regelfilter Datum/Entfernung/Dauerausstellung (123):
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Anfänge der Blasmusik in der Schweiz' [Feed: Museen Bern]
+Regelfilter Datum/Entfernung/Dauerausstellung (128):
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Saodat Ismailova' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 19.03.2027 an]: 'Museumsnacht Bern 2027' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Lika Nüssli: Für die Katz' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cécile Wick. In naher Ferne' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Stress. Eine Ausstellung, die Mut macht' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Souvenir Selfies, Kitsch und Gipfelsteine' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Anfänge der Blasmusik in der Schweiz' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Out of the box' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 19.03.2027 an]: 'Museumsnacht Bern 2027' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Villa Abegg – Das Anwesen eines Sammlerpaares' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Zuhause in der Spätantike – Textile Innenausstattung des 4.–7. Jahrhunderts' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Stress. Eine Ausstellung, die Mut macht' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cécile Wick. In naher Ferne' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Zeit ins Bild gerückt' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Post vor 60 Jahren' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Der Sonntagsausflug' [Feed: Museen Bern]
@@ -374,17 +396,20 @@ Regelfilter Datum/Entfernung/Dauerausstellung (123):
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Beat Jost – Schöne neue Welt' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Destination: Usakos Heimreise nach Namibia - Zukunft eines kolonialen Erbes' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Franz Gertsch. Blow-Up (Part II)' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Wissen-Saft – Auf ein Glas mit … Tiger Igor' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Dark Gossip: Die Abendverführung für Erwachsene' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Ciao Schultrauma' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'CHIPS' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Geschichte im Festgewand. Historische Umzüge im 19. Jahrhundert' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Bühnensonntag mit Nayan Stalder' [Feed: Museen Bern]
-- Geloescht [Ort unbekannt (?/?)]: 'Von der Schmiede ins Museum: Verzierte Kuhglocken von Paul Morier' [Feed: Vaud.de Morges]
 - Geloescht [Faengt erst am 01.12. an]: 'Projections XXL Photo Elysée × ECAL' [Feed: Platform 10 Agenda]
 - Geloescht [Zu weit weg: Rorschach ~200 min ab Morges]: 'Krippen aus aller Welt in der Sammlung Würth' [Feed: museum.ch Ausstellungen]
+- Geloescht [Vorbei seit 30.10.]: 'Wie lassen sich lebenswerte Städte gestalten?' [Feed: Morges Agenda]
+- Geloescht [Vorbei seit 30.10.]: 'Kino Odéon: Blick auf die Welt – Thailand' [Feed: Morges Agenda]
 - Geloescht [Zu weit weg: Luzern ~150 min ab Morges]: 'Dominik Zietlow: Nur die Berge begegnen sich nie. Manor Kunstpreis Zentralschweiz Luzern' [Feed: museum.ch Ausstellungen]
 - Geloescht [Vorbei seit 28.10.]: 'Vernissage des partizipativen Wandbilds von Espace Couvaloup' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 29.10.]: 'Die Theatererfahrung' [Feed: Morges Agenda]
+- Geloescht [Vorbei seit 30.10.]: 'Halloween-Fest' [Feed: Morges Agenda]
 - Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'Fotografie und Skulptur im Dialog' [Feed: museum.ch Ausstellungen]
 - Geloescht [Vorbei seit 24.10.]: 'Like Alice - Rockkonzert in der Easy Rider Bar' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 28.10.]: 'Konzert der jungen Virtuosen aus Armenien' [Feed: Morges Agenda]
@@ -407,8 +432,8 @@ Regelfilter Datum/Entfernung/Dauerausstellung (123):
 - Geloescht [Vorbei seit 03.10.]: 'Reime und Geschichten für Kinder auf Portugiesisch' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 05.10.]: 'Kino Odéon: Filmgespräch "À tombeaux ouvert" mit Regisseur Gaël Métroz' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 05.10.]: 'Spielnachmittag in der Bibliothek' [Feed: Morges Agenda]
-- Geloescht [Vorbei seit 01.10.]: 'The librarians' [Feed: Morges Agenda]
-- Geloescht [Vorbei seit 03.10.]: 'Konzert M&M's' [Feed: Morges Agenda]
+- Geloescht [Vorbei seit 01.10.]: 'The Librarians mit Debatten von Amnesty International' [Feed: Morges Agenda]
+- Geloescht [Vorbei seit 03.10.]: 'M&M's' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 03.10.]: 'Eisbahneröffnung' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 03.10.]: 'Um Haikus herum - Die zehn kleinen Runden' [Feed: Morges Agenda]
 - Geloescht [Rang 2, bei 140 min Anreise zaehlt nur Rang 1]: 'Ländliche Architektur und Freilichtmuseen in der Zwischenkriegszeit' [Feed: museum.ch Ausstellungen]
@@ -453,6 +478,7 @@ Regelfilter Datum/Entfernung/Dauerausstellung (123):
 - Geloescht [Vorbei seit 29.08.]: 'Festival Morges Eglantine' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 26.08.]: '100 Jahre der Pfadfinder von Morges' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 06.09.]: 'Open Air Kino' [Feed: Morges Agenda]
+- Geloescht [Vorbei seit 30.10.]: 'Dahlienfest 30. Jubiläum' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 06.09.]: 'Kinder-Open-Air-Kino' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 23.08.]: 'Festival der kurzen Stücke' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 22.08.]: 'The Black Monarchs & The Missing Girls - Konzert' [Feed: Morges Agenda]
@@ -480,24 +506,25 @@ Regelfilter Datum/Entfernung/Dauerausstellung (123):
 Ohne KI-Daten uebernommen (0):
 - Keine.
 
-Finale Liste (79 Eintraege):
-- [Museen Bern] [Bern] [Ausstellung] Franz Gertsch: Blow-Up (Part I) - bis 17.01.2027
+Finale Liste (80 Eintraege):
 - [Museen Bern] [Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.
+- [Museen Bern] [Bern] [Ausstellung] Franz Gertsch: Blow-Up (Part I) - bis 17.01.2027
+- [Museen Bern] [Thun] [Ausstellung] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.
 - [Museen Bern] [Bern] [Ausstellung] Fokus: Florence Henri - bis 10.01.2027
 - [Museen Bern] [Bern] [Führung] Führungen Mensch, Erde! - Das Klima im Wandel - bis 13.12.
 - [Museen Bern] [Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027
 - [Museen Bern] [Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.
-- [Museen Bern] [Bern] [Ausstellung] Wissen-Saft – Auf ein Glas mit … Tiger Igor - bis 13.12.
 - [Museen Bern] [Bern] [Ausstellung] Reise in die Freiheit: Capri – Skagen – Monte Verità - bis 31.01.2027
 - [Museen Bern] [Bern] [Führung] Führungen hinter die Kulissen: Die schönsten Fossilien - 04.-05.11.
 - [Museen Bern] [Bern] [Vortrag] Wer entscheidet? Klimagerechtigkeit im Talk - am Do 12.11.
 - [Museen Bern] [Bern] [Ausstellung] Silizium: Von den Alpen ins Silicon Valley - bis 09.12.
+- [Vaud.de Morges] [Morges] [Ausstellung] Von der Schmiede ins Museum: Verzierte Kuhglocken von Paul Morier
+- [Vaud.de Morges] [Nyon] [Ausstellung] Reise ins Land des Scherenschnitts
+- [Morges Agenda] [Morges] [Sport] Night Run Morges - am Sa 31.10.
+- [Morges Agenda] [Morges] [Theater] Zip Zap Circus - am Mi 04.11.
 - [Morges Agenda] [Morges] [Familie] Halloween im Schloss Morges - am Sa 31.10.
 - [Morges Agenda] [Morges] [Konzert] Asaf Avidan - am Sa 31.10.
 - [Morges Agenda] [Morges] [Konzert] Jam Session in der Easy Rider Bar - am Sa 31.10.
-- [Morges Agenda] [Morges] [Vortrag] Wie lassen sich lebenswerte Städte gestalten? - am Fr 30.10.
-- [Morges Agenda] [Morges] [Kino] Kino Odéon: Blick auf die Welt – Thailand - am Fr 30.10.
-- [Morges Agenda] [Morges] [Familie] Halloween-Fest - am Fr 30.10.
 - [Platform 10 Agenda] [Lausanne] [Kino] Filmvorführung von Houdini im Cinéma CityClub
 - [Platform 10 Agenda] [Lausanne] [Familie] Familientag – Die Tiere im Museum!
 - [Morges Agenda] [Morges] [Ausstellung] Espace 81: Ausstellung André Pirlot - bis 29.11.
@@ -507,6 +534,7 @@ Finale Liste (79 Eintraege):
 - [Platform 10 Agenda] [Lausanne] [Führung] Stop-Motion-Zauberfilm-Workshop – Magie und Design
 - [Platform 10 Agenda] [Lausanne] [Führung] Wunschkarten-Workshop – Magie und Design
 - [Platform 10 Agenda] [Lausanne] [Führung] Kuratorpfi-Führung: Magie und Design
+- [Platform 10 Agenda] [Lausanne] [Ausstellung] Modell Tier. 200 Jahre Fotografie - am Sa 31.10.
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Bleiben Sie lebendig
 - [Platform 10 Agenda] [Lausanne] [Lesung] Begegnung – Ella Maillart: Gezeichnete Geschichte
 - [Platform 10 Agenda] [Lausanne] [Theater] Zaubershow mit Marco Smacchia
@@ -547,7 +575,6 @@ Finale Liste (79 Eintraege):
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Ted Joans
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Magie und Design
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Tierisches Modell
-- [Morges Agenda] [Morges] [Ausstellung] Dahlienfest 30. Jubiläum - bis 30.10.
 - [Morges Agenda] [Morges] [Familie] Schatzsuche: Die Zeitreise - bis 15.11.
 - [museum.ch Ausstellungen] [Lausanne] [Ausstellung] Ella Maillart. Fotografische Erzählungen - bis 01.11.
 - [museum.ch Ausstellungen] [Cheseaux-Noréaz VD] [Ausstellung] Wer wohnt da? Die Buche als Lebensraum-Baum - bis 01.11.
