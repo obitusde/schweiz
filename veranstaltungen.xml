@@ -5,23 +5,15 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 05:59:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
-      <description><![CDATA[Susanne Keller. Hinterkammer des Auges. Kunstmuseum Thun, Thun]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
-    </item>
     <item>
       <title>[Bern] [Ausstellung] Franz Gertsch: Blow-Up (Part I) - bis 17.01.2027</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
       <description><![CDATA[Werkausstellung von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Thun] [Ausstellung] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.</title>
@@ -29,7 +21,15 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
       <description><![CDATA[Schnittstellen der Sicht. Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
+      <description><![CDATA[Susanne Keller. Hinterkammer des Auges. Kunstmuseum Thun, Thun]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Fokus: Florence Henri - bis 10.01.2027</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</guid>
       <description><![CDATA[Werkschau der Fotografin Florence Henri im Zentrum Paul Klee, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Führungen Mensch, Erde! - Das Klima im Wandel - bis 13.12.</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</guid>
       <description><![CDATA[Führungen zum Thema Klima im Wandel. Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/roberto-burle-marx-modernismo-tropical</guid>
       <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/tierzeichnen-am-abend</guid>
       <description><![CDATA[Tierzeichnen am Abend. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Reise in die Freiheit: Capri – Skagen – Monte Verità - bis 31.01.2027</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/reise-in-die-freiheit-capri-skagen-monte-verita</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Sehnsucht nach Freiheit und Künstlerkolonien. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Führungen hinter die Kulissen: Die schönsten Fossilien - 04.-05.11.</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-hinter-die-kulissen</guid>
       <description><![CDATA[Einblick in die Sammlung der schönsten Fossilien im Naturhistorisches Museum Bern, Bern]]></description>
       <category>Fuehrung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Vortrag] Wer entscheidet? Klimagerechtigkeit im Talk - am Do 12.11.</title>
@@ -85,7 +85,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/wer-entscheidet-klimagerechtigkeit-im-talk</guid>
       <description><![CDATA[Diskussion und Talk zum Thema Klimagerechtigkeit. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Vortrag</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Silizium: Von den Alpen ins Silicon Valley - bis 09.12.</title>
@@ -93,15 +93,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/silizium-von-den-alpen-ins-silicon-valley</guid>
       <description><![CDATA[Sonderausstellung zur Bedeutung von Silizium von den Alpen bis ins Silicon Valley. Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Ausstellung] Von der Schmiede ins Museum: Verzierte Kuhglocken von Paul Morier</title>
-      <link>https://www.vaud.ch/de/tourismus/veranstaltungen/von-der-schmiede-ins-museum-verzierte-kuhglocken-von-paul-morier</link>
-      <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/von-der-schmiede-ins-museum-verzierte-kuhglocken-von-paul-morier</guid>
-      <description><![CDATA[Verzierte Kuhglocken von Paul Morier, Morges.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Nyon] [Ausstellung] Reise ins Land des Scherenschnitts</title>
@@ -109,15 +101,39 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/les-puces-de-nyon-quartier-de-rive-nyon</guid>
       <description><![CDATA[Ausstellung «Reise ins Land des Scherenschnitts» von Stéphanie Miguet, Quartier de Rive, Nyon.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sat, 31 Oct 2026 05:59:44 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges] [Sport] Night Run Morges - am Sa 31.10.</title>
-      <link>https://www.morges.ch/agenda/night-run-morges-210937</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/night-run-morges-210937</guid>
-      <description><![CDATA[Nachtlauf in Morges.]]></description>
-      <category>Sport</category>
-      <pubDate>Sat, 31 Oct 2026 03:03:01 GMT</pubDate>
+      <title>[Morges] [Konzert] Recital im Musée Paderewski - am Fr 06.11.</title>
+      <link>https://www.morges.ch/agenda/recital-au-musee-paderewski-213790</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/recital-au-musee-paderewski-213790</guid>
+      <description><![CDATA[Musikalische Darbietung im Musée Paderewski, Morges.]]></description>
+      <category>Konzert</category>
+      <pubDate>Sun, 01 Nov 2026 03:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Familie] Generationenübergreifender Workshop - am Fr 06.11.</title>
+      <link>https://www.morges.ch/agenda/atelier-part-age-213665</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/atelier-part-age-213665</guid>
+      <description><![CDATA[Atelier part'âge in Morges.]]></description>
+      <category>Familie</category>
+      <pubDate>Sun, 01 Nov 2026 03:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Theater] Der Bürger als Edelmann - am Fr 06.11.</title>
+      <link>https://www.morges.ch/agenda/theatre-de-beausobre--le-bourgeois-gentilhomme-213428</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/theatre-de-beausobre--le-bourgeois-gentilhomme-213428</guid>
+      <description><![CDATA[Theateraufführung von Le Bourgeois gentilhomme im Théâtre de Beausobre, Morges.]]></description>
+      <category>Theater</category>
+      <pubDate>Sun, 01 Nov 2026 03:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Theater] Insula - Kabarett-Spektakel Zabla au Cube - 07.-08.11.</title>
+      <link>https://www.morges.ch/agenda/insula--cabaret-spectacle-zabla-au-cube-213875</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/insula--cabaret-spectacle-zabla-au-cube-213875</guid>
+      <description><![CDATA[Kabarett-Spektakel Insula im Cube, Morges.]]></description>
+      <category>Theater</category>
+      <pubDate>Sun, 01 Nov 2026 03:03:02 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Theater] Zip Zap Circus - am Mi 04.11.</title>
@@ -126,30 +142,6 @@
       <description><![CDATA[Zirkusvorstellung im Théâtre de Beausobre, Morges.]]></description>
       <category>Theater</category>
       <pubDate>Sat, 31 Oct 2026 03:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Familie] Halloween im Schloss Morges - am Sa 31.10.</title>
-      <link>https://www.morges.ch/agenda/halloween-au-chateau-de-morges-213821</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/halloween-au-chateau-de-morges-213821</guid>
-      <description><![CDATA[Gruselige Halloween-Veranstaltung im Schloss Morges, Château de Morges, Morges.]]></description>
-      <category>Familie</category>
-      <pubDate>Thu, 29 Oct 2026 03:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Konzert] Asaf Avidan - am Sa 31.10.</title>
-      <link>https://www.morges.ch/agenda/theatre-de-beausobre--asaf-avidan-213425</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/theatre-de-beausobre--asaf-avidan-213425</guid>
-      <description><![CDATA[Konzert von Asaf Avidan im Théâtre de Beausobre, Morges.]]></description>
-      <category>Konzert</category>
-      <pubDate>Thu, 29 Oct 2026 03:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Konzert] Jam Session in der Easy Rider Bar - am Sa 31.10.</title>
-      <link>https://www.morges.ch/agenda/jam-session-boeuf-au-easy-rider-bar-213882</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/jam-session-boeuf-au-easy-rider-bar-213882</guid>
-      <description><![CDATA[Musikalische Jam-Session in lockerer Atmosphäre. Easy Rider Bar, Morges.]]></description>
-      <category>Konzert</category>
-      <pubDate>Wed, 28 Oct 2026 03:03:02 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Kino] Filmvorführung von Houdini im Cinéma CityClub</title>
@@ -192,28 +184,12 @@
       <pubDate>Fri, 09 Oct 2026 00:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Führung] Monotypie-Druck-Workshop – Magie und Design</title>
+      <title>[Lausanne] [Familie] Monotypie-Druckwerkstatt – Magie und Design</title>
       <link>https://plateforme10.ch/events/atelier-impression-monotype-magie-et-design/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/atelier-impression-monotype-magie-et-design/</guid>
-      <description><![CDATA[Erstelle einen bunten Monotypie-Druck inspiriert von den Schmuckstücken und Amuletten der Ausstellung «Rencontrologie», Plateforme 10, Lausanne.]]></description>
-      <category>Fuehrung</category>
+      <description><![CDATA[Inspiriert von Schmuck und Amuletten der Ausstellung «Rencontrologie» kreieren Sie farbenfrohe Drucke mit der Gelatinetechnik. Plateforme 10, Lausanne]]></description>
+      <category>Familie</category>
       <pubDate>Thu, 01 Oct 2026 12:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Führung] Stop-Motion-Zauberfilm-Workshop – Magie und Design</title>
-      <link>https://plateforme10.ch/events/atelier-films-magiques-en-stop-motion-magie-et-design/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-films-magiques-en-stop-motion-magie-et-design/</guid>
-      <description><![CDATA[Erstelle einen magischen Stop-Motion-Film passend zur Ausstellung «Hocus Pocus», Plateforme 10, Lausanne.]]></description>
-      <category>Fuehrung</category>
-      <pubDate>Thu, 01 Oct 2026 12:22:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Führung] Wunschkarten-Workshop – Magie und Design</title>
-      <link>https://plateforme10.ch/events/atelier-cartes-de-voeux-magie-et-design/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-cartes-de-voeux-magie-et-design/</guid>
-      <description><![CDATA[Gestalte eine magische Wunschkarte mit optischer Illusion inspiriert von den Ausstellungen, Plateforme 10, Lausanne.]]></description>
-      <category>Fuehrung</category>
-      <pubDate>Thu, 01 Oct 2026 12:22:49 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Führung] Kuratorpfi-Führung: Magie und Design</title>
@@ -222,14 +198,6 @@
       <description><![CDATA[Entdecken Sie die Ausstellung „Hocus Pocus“ bei einer Führung mit Kuratorin Alexandra Midal in der Plateforme 10, Lausanne.]]></description>
       <category>Fuehrung</category>
       <pubDate>Thu, 01 Oct 2026 12:22:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Ausstellung] Modell Tier. 200 Jahre Fotografie - am Sa 31.10.</title>
-      <link>https://plateforme10.ch/events/vernissage-public-modele-animal-200-ans-de-photographie/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/vernissage-public-modele-animal-200-ans-de-photographie/</guid>
-      <description><![CDATA[Öffentliche Vernissage zur neuen Ausstellung mit Micro-Visiten, DJ-Set und Projektionen im Photo Elysée, Lausanne.]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Thu, 01 Oct 2026 00:00:47 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] Bleiben Sie lebendig</title>
@@ -421,14 +389,6 @@
       <guid isPermaLink="false">https://plateforme10.ch/events/atelier-0-100-ans-cadeau-frotte/</guid>
       <description><![CDATA[Herstellung eines Notizbuchs inspiriert von Frottagetechniken von Ted Joans. Plateforme 10, Lausanne.]]></description>
       <category>Familie</category>
-      <pubDate>Thu, 27 Aug 2026 00:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Führung] Kuratorenführung – Ted Joans. Black Flower - am Sa 31.10.</title>
-      <link>https://plateforme10.ch/events/visite-avec-le-commissaire-ted-joans-black-flower/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/visite-avec-le-commissaire-ted-joans-black-flower/</guid>
-      <description><![CDATA[Führung in Begleitung von Pierre-Henri Foulon, Kurator der Ausstellung. Plateforme 10, Lausanne.]]></description>
-      <category>Fuehrung</category>
       <pubDate>Thu, 27 Aug 2026 00:02:03 GMT</pubDate>
     </item>
     <item>
