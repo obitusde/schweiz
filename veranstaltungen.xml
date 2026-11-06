@@ -5,15 +5,39 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
+      <description><![CDATA[Susanne Keller. Hinterkammer des Auges. Kunstmuseum Thun, Thun]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Franz Gertsch: Blow-Up (Part I) - bis 17.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
+      <description><![CDATA[Werkausstellung von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Thun] [Ausstellung] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
+      <description><![CDATA[Schnittstellen der Sicht. Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
     <item>
       <title>[Bern] [Ausstellung] Fokus: Florence Henri - bis 10.01.2027</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</guid>
       <description><![CDATA[Werkschau der Fotografin Florence Henri im Zentrum Paul Klee, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Mensch, Erde! – Das Klima im Wandel - bis 13.12.</title>
@@ -21,7 +45,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</guid>
       <description><![CDATA[Führungen zur Ausstellung im Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027</title>
@@ -29,7 +53,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/roberto-burle-marx-modernismo-tropical</guid>
       <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.</title>
@@ -37,7 +61,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/tierzeichnen-am-abend</guid>
       <description><![CDATA[Tierzeichnen am Abend. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Reise in die Freiheit: Capri – Skagen – Monte Verità - bis 31.01.2027</title>
@@ -45,15 +69,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/reise-in-die-freiheit-capri-skagen-monte-verita</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Sehnsucht nach Freiheit und Künstlerkolonien. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Bern] [Führung] Führungen hinter die Kulissen: Die schönsten Fossilien - bis 05.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-hinter-die-kulissen</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-hinter-die-kulissen</guid>
-      <description><![CDATA[Einblick in die Sammlung der schönsten Fossilien im Naturhistorisches Museum Bern, Bern]]></description>
-      <category>Fuehrung</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Silizium: Von den Alpen ins Silicon Valley - bis 09.12.</title>
@@ -61,7 +77,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/silizium-von-den-alpen-ins-silicon-valley</guid>
       <description><![CDATA[Sonderausstellung zur Bedeutung von Silizium von den Alpen bis ins Silicon Valley. Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Konzert] Volksmusik ist jung: Jodelchor «jung&amp;zwäg» - am Fr 20.11.</title>
@@ -69,7 +85,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/volksmusik-ist-jung</guid>
       <description><![CDATA[Volksmusik ist jung mit dem Jodelchor «jung&zwäg». Naturhistorisches Museum Bern, Bern]]></description>
       <category>Konzert</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Nyon] [Ausstellung] Reise ins Land des Scherenschnitts</title>
@@ -77,7 +93,7 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/les-puces-de-nyon-quartier-de-rive-nyon</guid>
       <description><![CDATA[Ausstellung «Reise ins Land des Scherenschnitts» von Stéphanie Miguet, Quartier de Rive, Nyon.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 05 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Konzert] Mini-Festival mit der Camerata Résonnance - am Sa 07.11.</title>
@@ -299,25 +315,25 @@
       <title>[Lausanne] [Führung] Familienführung – Magie und Design</title>
       <link>https://plateforme10.ch/events/visite-en-famille-magie-et-design/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/visite-en-famille-magie-et-design/</guid>
-      <description><![CDATA[Familiengerechte Entdeckungstour durch die Sonderausstellungen Hocus Pocus und Rencontrologie. mudac, Lausanne.]]></description>
+      <description><![CDATA[Entdeckungstour für junges Publikum ab 6 Jahren durch die Sonderausstellungen «Hocus Pocus» und «Rencontrologie». mudac, Lausanne.]]></description>
       <category>Fuehrung</category>
       <pubDate>Fri, 04 Sep 2026 00:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Führung] Atelier – Zeichnen &amp; Trinken Spezial Ella Maillart</title>
-      <link>https://plateforme10.ch/events/atelier-draw-drink-x-photo-elysee/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-draw-drink-x-photo-elysee/</guid>
-      <description><![CDATA[Entdecken Sie die Ausstellung von Ella Maillart und zeichnen Sie im Café Lumen bei einem Glas. Mitbringen eigener Utensilien willkommen, Photo Élysée, Lausanne.]]></description>
+      <title>[Lausanne] [Führung] Öffentliche Führung – Magie und Design</title>
+      <link>https://plateforme10.ch/events/visite-commentee-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-magie-et-design/</guid>
+      <description><![CDATA[Geführter Rundgang durch die Ausstellungen «Hocus Pocus» und «Rencontrologie» mit Hintergrundwissen und Kontext. mudac, Lausanne.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Fri, 04 Sep 2026 00:00:42 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 00:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Lesung] Buchvernissage: In Jesus' Name (resurrected)</title>
-      <link>https://plateforme10.ch/events/rencontre-vernissage-du-livre-in-jesus-name-resurrected/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/rencontre-vernissage-du-livre-in-jesus-name-resurrected/</guid>
-      <description><![CDATA[Buchlaunch und Gespräch mit Christian Lutz und Verleger Patrick Frey zum Abschluss seiner Trilogie. Plateforme 10, Lausanne.]]></description>
-      <category>Lesung</category>
-      <pubDate>Fri, 04 Sep 2026 00:00:40 GMT</pubDate>
+      <title>[Lausanne] [Führung] Workshop – Draw &amp; Drink Speziell Ella Maillart</title>
+      <link>https://plateforme10.ch/events/atelier-draw-drink-x-photo-elysee/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/atelier-draw-drink-x-photo-elysee/</guid>
+      <description><![CDATA[Kombination aus Ausstellungsbesuch zu Ella Maillart und partizipativer Zeichensession im Café Lumen. Photo Elysée, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Fri, 04 Sep 2026 00:00:42 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Lesung] Gedichtlesung von Ted Joans durch Jake Lamar</title>
