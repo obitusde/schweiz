@@ -5,23 +5,31 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Thun] [Ausstellung] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
-      <description><![CDATA[Schnittstellen der Sicht. Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
-    </item>
     <item>
       <title>[Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Susanne Keller. Hinterkammer des Auges. Kunstmuseum Thun, Thun]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Thun] [Ausstellung] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
+      <description><![CDATA[Schnittstellen der Sicht. Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Franz Gertsch: Blow-Up (Part I) - bis 17.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
+      <description><![CDATA[Werkausstellung von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Fokus: Florence Henri - bis 10.01.2027</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</guid>
       <description><![CDATA[Werkschau der Fotografin Florence Henri im Zentrum Paul Klee, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Mensch, Erde! – Das Klima im Wandel - bis 13.12.</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</guid>
       <description><![CDATA[Führungen zur Ausstellung im Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027</title>
@@ -45,7 +53,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/roberto-burle-marx-modernismo-tropical</guid>
       <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.</title>
@@ -53,7 +61,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/tierzeichnen-am-abend</guid>
       <description><![CDATA[Tierzeichnen am Abend. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Reise in die Freiheit: Capri – Skagen – Monte Verità - bis 31.01.2027</title>
@@ -61,15 +69,15 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/reise-in-die-freiheit-capri-skagen-monte-verita</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Sehnsucht nach Freiheit und Künstlerkolonien. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Silizium: Von den Alpen ins Silicon Valley - bis 09.12.</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/silizium-von-den-alpen-ins-silicon-valley</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/silizium-von-den-alpen-ins-silicon-valley</guid>
-      <description><![CDATA[Sonderausstellung zur Bedeutung von Silizium von den Alpen bis ins Silicon Valley. Naturhistorisches Museum Bern, Bern.]]></description>
+      <description><![CDATA[Ausstellung zur Bedeutung von Silizium von den Alpen bis ins Silicon Valley. Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Konzert] Volksmusik ist jung: Jodelchor «jung&amp;zwäg» - am Fr 20.11.</title>
@@ -77,7 +85,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/volksmusik-ist-jung</guid>
       <description><![CDATA[Volksmusik ist jung mit dem Jodelchor «jung&zwäg». Naturhistorisches Museum Bern, Bern]]></description>
       <category>Konzert</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Nyon] [Ausstellung] Reise ins Land des Scherenschnitts</title>
@@ -85,7 +93,15 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/les-puces-de-nyon-quartier-de-rive-nyon</guid>
       <description><![CDATA[Ausstellung «Reise ins Land des Scherenschnitts» von Stéphanie Miguet, Quartier de Rive, Nyon.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Sun, 08 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Konzert] Konzert von Mystic Eyes - am Sa 14.11.</title>
+      <link>https://www.morges.ch/agenda/concert-de-blues-au-easy-rider-bar--mystic-eyes-214139</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/concert-de-blues-au-easy-rider-bar--mystic-eyes-214139</guid>
+      <description><![CDATA[Blues-Konzert mit Mystic Eyes in der Easy Rider Bar, Morges.]]></description>
+      <category>Konzert</category>
+      <pubDate>Mon, 09 Nov 2026 03:03:00 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Kino] Filmgespräch "Nicole Nicole" mit der Regisseurin Lauren Dällenbach - am Mi 11.11.</title>
@@ -142,14 +158,6 @@
       <description><![CDATA[Intergenerativer Workshop in freiem Zugang zur Ausstellung Modèle animal*. Plateforme 10, Lausanne.]]></description>
       <category>Familie</category>
       <pubDate>Thu, 05 Nov 2026 01:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Theater] Insula - Kabarett-Spektakel Zabla au Cube - bis 08.11.</title>
-      <link>https://www.morges.ch/agenda/insula--cabaret-spectacle-zabla-au-cube-213875</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/insula--cabaret-spectacle-zabla-au-cube-213875</guid>
-      <description><![CDATA[Kabarett-Spektakel Insula im Cube, Morges.]]></description>
-      <category>Theater</category>
-      <pubDate>Sun, 01 Nov 2026 03:03:02 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] Projections XXL Photo Elysée × ECAL - bis 31.12.</title>
