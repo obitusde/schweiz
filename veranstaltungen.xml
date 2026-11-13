@@ -5,23 +5,15 @@
     <link>https://obitusde.github.io/schweiz/veranstaltungen.xml</link>
     <description>KI-gefilterter Veranstaltungsfeed</description>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Nov 2026 05:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:59:45 GMT</lastBuildDate>
     <ttl>360</ttl>
-    <item>
-      <title>[Bern] [Ausstellung] Franz Gertsch: Blow-Up (Part I) - bis 17.01.2027</title>
-      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
-      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
-      <description><![CDATA[Werkausstellung von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
-      <category>Ausstellung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
-    </item>
     <item>
       <title>[Thun] [Ausstellung] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.</title>
       <link>https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</link>
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/schnittstellen-der-sicht-hans-gerber-und-sabine-hertig</guid>
       <description><![CDATA[Schnittstellen der Sicht. Hans Gerber und Sabine Hertig. Kunstmuseum Thun, Thun]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.</title>
@@ -29,7 +21,15 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/susanne-keller-hinterkammer-des-auges</guid>
       <description><![CDATA[Susanne Keller. Hinterkammer des Auges. Kunstmuseum Thun, Thun]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Franz Gertsch: Blow-Up (Part I) - bis 17.01.2027</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/franz-gertsch-blow-up-part-i</guid>
+      <description><![CDATA[Werkausstellung von Franz Gertsch. Kunstmuseum Bern, Bern]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Fokus: Florence Henri - bis 10.01.2027</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fokus-florence-henri-1893-1982</guid>
       <description><![CDATA[Werkschau der Fotografin Florence Henri im Zentrum Paul Klee, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Führung] Mensch, Erde! – Das Klima im Wandel - bis 13.12.</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/fuehrungen-mensch-erde-das-klima-im-wandel</guid>
       <description><![CDATA[Führungen zur Ausstellung im Naturhistorisches Museum Bern, Bern.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/roberto-burle-marx-modernismo-tropical</guid>
       <description><![CDATA[Ausstellung im Zentrum Paul Klee, Bern.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Tierzeichnen am Abend - bis 16.12.</title>
@@ -61,7 +61,15 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/tierzeichnen-am-abend</guid>
       <description><![CDATA[Tierzeichnen am Abend. Naturhistorisches Museum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Bern] [Ausstellung] Wissen-Saft – Auf ein Glas mit … Tiger Igor - bis 13.12.</title>
+      <link>https://www.museen-bern.ch/de/ausstellungen/event-details/wissen-saft-auf-ein-glas-mit-tiger-igor</link>
+      <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/wissen-saft-auf-ein-glas-mit-tiger-igor</guid>
+      <description><![CDATA[Wissen-Saft – Auf ein Glas mit … Tiger Igor. Naturhistorisches Museum Bern, Bern]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Bern] [Ausstellung] Reise in die Freiheit: Capri – Skagen – Monte Verità - bis 31.01.2027</title>
@@ -69,7 +77,7 @@
       <guid isPermaLink="false">https://www.museen-bern.ch/de/ausstellungen/event-details/reise-in-die-freiheit-capri-skagen-monte-verita</guid>
       <description><![CDATA[Grosse Sonderausstellung zur Sehnsucht nach Freiheit und Künstlerkolonien. Kunstmuseum Bern, Bern]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
     </item>
     <item>
       <title>[Nyon] [Ausstellung] Reise ins Land des Scherenschnitts</title>
@@ -77,7 +85,23 @@
       <guid isPermaLink="false">https://www.vaud.ch/de/tourismus/veranstaltungen/les-puces-de-nyon-quartier-de-rive-nyon</guid>
       <description><![CDATA[Ausstellung «Reise ins Land des Scherenschnitts» von Stéphanie Miguet, Quartier de Rive, Nyon.]]></description>
       <category>Ausstellung</category>
-      <pubDate>Thu, 12 Nov 2026 05:59:45 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Theater] Cie Circa - am Mi 18.11.</title>
+      <link>https://www.morges.ch/agenda/theatre-de-beausobre--cie-circa-213434</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/theatre-de-beausobre--cie-circa-213434</guid>
+      <description><![CDATA[Theateraufführung der Cie Circa im Théâtre de Beausobre, Morges]]></description>
+      <category>Theater</category>
+      <pubDate>Fri, 13 Nov 2026 03:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges] [Theater] Stolz und Vorurteil… oder fast! - am Do 19.11.</title>
+      <link>https://www.morges.ch/agenda/theatre-de-beausobre--orgueil-et-prejuges-ou-presque--213436</link>
+      <guid isPermaLink="false">https://www.morges.ch/agenda/theatre-de-beausobre--orgueil-et-prejuges-ou-presque--213436</guid>
+      <description><![CDATA[Theateraufführung im Théâtre de Beausobre, Morges]]></description>
+      <category>Theater</category>
+      <pubDate>Fri, 13 Nov 2026 03:03:02 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Theater] Cosimo - am So 15.11.</title>
@@ -102,22 +126,6 @@
       <description><![CDATA[Blues-Konzert mit Mystic Eyes in der Easy Rider Bar, Morges.]]></description>
       <category>Konzert</category>
       <pubDate>Mon, 09 Nov 2026 03:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] Kochkurs: Alles über Kakao - am Do 12.11.</title>
-      <link>https://www.morges.ch/agenda/atelier-de-cuisine-tout-sur-le-cacao-213856</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/atelier-de-cuisine-tout-sur-le-cacao-213856</guid>
-      <description><![CDATA[Atelier de cuisine rund um das Thema Kakao. Morges]]></description>
-      <category>Sonstiges</category>
-      <pubDate>Sun, 08 Nov 2026 03:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges] [Theater] Blaise Bersinger - am Do 12.11.</title>
-      <link>https://www.morges.ch/agenda/theatre-de-beausobre--blaise-bersinger-213429</link>
-      <guid isPermaLink="false">https://www.morges.ch/agenda/theatre-de-beausobre--blaise-bersinger-213429</guid>
-      <description><![CDATA[Auftritt von Blaise Bersinger. Théâtre de Beausobre, Morges]]></description>
-      <category>Theater</category>
-      <pubDate>Sun, 08 Nov 2026 03:03:03 GMT</pubDate>
     </item>
     <item>
       <title>[Morges] [Kino] Sturm auf den Himmel Kuba - Dokumentarfilm - am Fr 13.11.</title>
@@ -152,6 +160,14 @@
       <pubDate>Thu, 05 Nov 2026 01:00:19 GMT</pubDate>
     </item>
     <item>
+      <title>[Lausanne] [Führung] Kuratorenführung: Magie und Design</title>
+      <link>https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design-2/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design-2/</guid>
+      <description><![CDATA[Führung mit Kurator Scott Longfellow durch die Ausstellung, gefolgt von einer Performance. Plateforme 10, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Fri, 30 Oct 2026 01:00:13 GMT</pubDate>
+    </item>
+    <item>
       <title>[Lausanne] [Ausstellung] Projections XXL Photo Elysée × ECAL - bis 31.12.</title>
       <link>https://plateforme10.ch/events/projections-xxl-photo-elysee-x-ecal/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/projections-xxl-photo-elysee-x-ecal/</guid>
@@ -176,10 +192,10 @@
       <pubDate>Thu, 15 Oct 2026 00:00:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Morges] [Ausstellung] Espace 81: Ausstellung André Pirlot - bis 29.11.</title>
+      <title>[Morges] [Ausstellung] Ausstellung André Pirlot - bis 29.11.</title>
       <link>https://www.morges.ch/agenda/espace-81--exposition-andre-pirlot-213190</link>
       <guid isPermaLink="false">https://www.morges.ch/agenda/espace-81--exposition-andre-pirlot-213190</guid>
-      <description><![CDATA[Ausstellung von André Pirlot. Espace 81, Morges]]></description>
+      <description><![CDATA[Werke von André Pirlot in Espace 81, Morges.]]></description>
       <category>Ausstellung</category>
       <pubDate>Wed, 14 Oct 2026 02:03:01 GMT</pubDate>
     </item>
@@ -206,14 +222,6 @@
       <description><![CDATA[Inspiriert von Schmuck und Amuletten der Ausstellung «Rencontrologie» kreieren Sie farbenfrohe Drucke mit der Gelatinetechnik. Plateforme 10, Lausanne]]></description>
       <category>Familie</category>
       <pubDate>Thu, 01 Oct 2026 12:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Führung] Kuratorpfi-Führung: Magie und Design</title>
-      <link>https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-commissaire-magie-et-design/</guid>
-      <description><![CDATA[Entdecken Sie die Ausstellung „Hocus Pocus“ bei einer Führung mit Kuratorin Alexandra Midal in der Plateforme 10, Lausanne.]]></description>
-      <category>Fuehrung</category>
-      <pubDate>Thu, 01 Oct 2026 12:22:47 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Ausstellung] Bleiben Sie lebendig</title>
@@ -248,52 +256,44 @@
       <pubDate>Tue, 15 Sep 2026 00:00:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Führung] Amulett-Erstellungsworkshop</title>
+      <title>[Lausanne] [Führung] Oeffentliche Fuehrung: Alberto Giacometti</title>
+      <link>https://plateforme10.ch/events/visite-commentee-alberto-giacometti/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/visite-commentee-alberto-giacometti/</guid>
+      <description><![CDATA[Fuehrung zu den Werken von Alberto Giacometti im MCBA, Lausanne.]]></description>
+      <category>Fuehrung</category>
+      <pubDate>Sat, 12 Sep 2026 00:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Lausanne] [Führung] Amulett-Erstellungs-Workshop</title>
       <link>https://plateforme10.ch/events/atelier-de-creation-damulette/</link>
       <guid isPermaLink="false">https://plateforme10.ch/events/atelier-de-creation-damulette/</guid>
-      <description><![CDATA[Erstellen Sie Ihre eigene Amulett-Wachsperle mit Designerin Alix Arto zur Ausstellung Rencontrologie, mudac Lausanne.]]></description>
+      <description><![CDATA[Entdecken Sie die Verbindung zwischen Schmuck und Magie und kreieren Sie Ihr eigenes Amulett mit Alix Arto im mudac, Lausanne.]]></description>
       <category>Fuehrung</category>
       <pubDate>Thu, 10 Sep 2026 00:01:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Familie] Vom mudac nach Las Vegas: Einführung in die Zauberei für Jugendliche</title>
-      <link>https://plateforme10.ch/events/du-mudac-a-las-vegas-initiation-a-la-magie/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/du-mudac-a-las-vegas-initiation-a-la-magie/</guid>
-      <description><![CDATA[Zaubershow mit Manouk dem Magier und Einführung für Jugendliche von 13 bis 18 Jahren zur Ausstellung Hocus Pocus, mudac Lausanne.]]></description>
+      <title>[Lausanne] [Familie] Vom mudac nach Las Vegas: Einführung in die Zauberei</title>
+      <link>https://plateforme10.ch/events/du-mudac-a-las-vegas-initiation-a-la-magie-2/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/du-mudac-a-las-vegas-initiation-a-la-magie-2/</guid>
+      <description><![CDATA[Zaubershow und Workshop für Kinder von 7 bis 12 Jahren im mudac, Lausanne.]]></description>
       <category>Familie</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:55 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 00:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] Immersiver Parcours: Wenn die Magie schiefgeht</title>
-      <link>https://plateforme10.ch/events/parcours-immersif-quand-la-magie-tourne-mal/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/parcours-immersif-quand-la-magie-tourne-mal/</guid>
-      <description><![CDATA[Team-Erkundung in den geheimen Küchen des Signal L zur Magie- und Design-Saison, mudac Lausanne.]]></description>
-      <category>Sonstiges</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Familie] Die Kleinen im Museum – Magie und Design</title>
-      <link>https://plateforme10.ch/events/les-minus-au-musee-magie-et-design/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/les-minus-au-musee-magie-et-design/</guid>
-      <description><![CDATA[Erkundungsformat für Kinder von 3 bis 5 Jahren passend zu den Ausstellungen Hocus Pocus und Rencontrologie im mudac, Lausanne.]]></description>
-      <category>Familie</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Lausanne] [Führung] Entspannter Besuch – Magie und Design</title>
-      <link>https://plateforme10.ch/events/visite-relax-magie-et-design/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/visite-relax-magie-et-design/</guid>
-      <description><![CDATA[Ruhiger Ausstellungsbesuch speziell für junge Eltern mit Neugeborenen im mudac, Lausanne.]]></description>
+      <title>[Lausanne] [Führung] Mikro-Führung – Magie und Design</title>
+      <link>https://plateforme10.ch/events/parcours-immersif-quand-la-magie-tourne-mal-2/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/parcours-immersif-quand-la-magie-tourne-mal-2/</guid>
+      <description><![CDATA[30-minütige Kurzführung durch die Ausstellungen Hocus Pocus und Rencontrologie im mudac, Lausanne.]]></description>
       <category>Fuehrung</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:35 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 00:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Lausanne] [Vortrag] Vortrag – Amelia Tavella / Was bereits da ist</title>
-      <link>https://plateforme10.ch/events/conference-amelia-tavella-ce-qui-est-deja-la/</link>
-      <guid isPermaLink="false">https://plateforme10.ch/events/conference-amelia-tavella-ce-qui-est-deja-la/</guid>
-      <description><![CDATA[Die Architektin Amelia Tavella spricht über ihre Beziehung zum Bestand vor ihren architektonischen Eingriffen im mudac, Lausanne.]]></description>
-      <category>Vortrag</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:33 GMT</pubDate>
+      <title>[Lausanne] [Ausstellung] Vernissage: Magie und Design</title>
+      <link>https://plateforme10.ch/events/vernissage-magie-et-design/</link>
+      <guid isPermaLink="false">https://plateforme10.ch/events/vernissage-magie-et-design/</guid>
+      <description><![CDATA[Das mudac feiert die Saisoneröffnung mit den Ausstellungen Hocus Pocus und Rencontrologie an der Plateforme 10, Lausanne.]]></description>
+      <category>Ausstellung</category>
+      <pubDate>Wed, 09 Sep 2026 00:00:31 GMT</pubDate>
     </item>
     <item>
       <title>[Lausanne] [Festival] Interstices-Festival – Musik für Klavier und Tasteninstrumente</title>
