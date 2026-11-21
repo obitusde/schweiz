@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 20.11.2026, 06:59:45
+Start: 21.11.2026, 06:59:45
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 Bedeutung: bis 30 min -> Rang 3, bis 60 min -> Rang 2, darueber -> Rang 1
 
@@ -25,38 +25,8 @@ Statischer Filter (Keywords):
 - Geloescht [Keyword 'lanterne magique']: 'Cinéma Odéon : La Lanterne magique'
 - Geloescht [Keyword 'boutchous']: 'Cinéma Odéon : Ciné'Boutchous'
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
-- Geloescht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
-- Geloescht [Keyword 'dauerausstellung']: 'Franz Gertsch. Blow-Up (Part I)'
-- Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs Die Kernausstellung'
-- Geloescht [Keyword 'dauerausstellung']: 'Moneyverse Ausstellung'
-- Geloescht [Keyword 'dauerausstellung']: 'Franz Gertsch. Blow-Up (Part II)'
-- Geloescht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
-- Geloescht [Keyword 'dauerausstellung']: 'Stress. Eine Ausstellung, die Mut macht'
-- Geloescht [Keyword 'dauerausstellung']: 'Einstein Museum'
-- Geloescht [Keyword 'dauerausstellung']: 'Souvenir Selfies, Kitsch und Gipfelsteine'
-- Geloescht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung Neue Erlebnisstationen im Sensorium Rüttihubelbad'
 
-Aus Cache uebernommen (218):
-- Cache: 'Cécile Wick. In naher Ferne'
-- Cache: 'Aeschlimann Corti-Stipendium'
-- Cache: 'Franz Gertsch. Guadeloupe'
-- Cache: 'SAC-Kunstpreis – Massimiliano Rossetto'
-- Cache: 'Saodat Ismailova'
-- Cache: 'Ursula. Blühendes Gift'
-- Cache: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend'
-- Cache: 'Museumsnacht Bern 2027'
-- Cache: 'Susanne Keller. Hinterkammer des Auges'
-- Cache: 'Georges Wenger'
-- Cache: 'Cantonale Berne Jura'
-- Cache: 'Philip Guston: Seeking the New'
-- Cache: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne'
-- Cache: 'Out of the box'
-- Cache: 'Cantonale Berne Jura'
-- Cache: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig'
-- Cache: 'Die Anfänge der Blasmusik in der Schweiz'
-- Cache: 'Monica Ursina Jäger: States of Planetary Being'
-- Cache: 'Die Zeit ins Bild gerückt'
+Aus Cache uebernommen (212):
 - Cache: 'Die Post vor 60 Jahren'
 - Cache: 'Hefte, die die Schweizer Jugend prägt'
 - Cache: 'Streifzug durch die Schulgeschichte: 80’000 Dinge, die Schule mach(t)en'
@@ -76,6 +46,13 @@ Aus Cache uebernommen (218):
 - Cache: 'Silizium: Von den Alpen ins Silicon Valley'
 - Cache: 'Reise ins Land des Scherenschnitts'
 - Cache: 'Vorführungen von Klöppelspitzen'
+- Cache: 'Alberto Giacometti und der Sockel'
+- Cache: 'Caroline Bachmann: Wenn die Sonne...'
+- Cache: 'Trevor Yeung: Gut für dich'
+- Cache: 'Erika Billeter'
+- Cache: 'Paris - Die endlose Stadt'
+- Cache: 'Heidi Abel – TV-Star der ersten Stunde'
+- Cache: 'Konferenz – Manuel Herz / The Life of Buildings'
 - Cache: 'Gold - von Glanz- und Schattenseiten'
 - Cache: 'Klavierabend – David Irimescu'
 - Cache: 'Festival Les Urbaines – Chance Sayela – Finn Kennedy'
@@ -120,6 +97,7 @@ Aus Cache uebernommen (218):
 - Cache: 'Vernissage des partizipativen Wandbilds von Espace Couvaloup'
 - Cache: 'Die Theatererfahrung'
 - Cache: 'Halloween-Fest'
+- Cache: 'Gruppenausstellung «Fotografie und Skulptur im Dialog»'
 - Cache: 'Festival Salamandre'
 - Cache: 'Rêve de Dressing'
 - Cache: 'Filmvorführung von Houdini'
@@ -148,6 +126,11 @@ Aus Cache uebernommen (218):
 - Cache: 'Ländliche Architektur und Freilichtmuseen in der Zwischenkriegszeit'
 - Cache: 'Toxic Rock - Rock-Coverkonzert'
 - Cache: 'Grosser Herbstmarkt'
+- Cache: 'Stand von Morges Région Tourisme am Herbst-Grossmarkt'
+- Cache: 'Partizipativer Malworkshop im Espace Couvaloup'
+- Cache: 'Poetische Lesung: Dérives von Silvia Härri'
+- Cache: 'Humor im Kino: Artus "Le show XXL au cinéma"'
+- Cache: 'Zaubershow mit Marco Smacchia'
 - Cache: 'Studientag über Spionage und Widerstand'
 - Cache: 'Mini-Festival mit Elizabeth Sombart und Fabrice Eulry'
 - Cache: 'Bibliothek: Musikalische Frueherkennung'
@@ -257,23 +240,15 @@ Aus Cache uebernommen (218):
 - Cache: 'Runde Tischgespräche – Widerstehen!'
 - Cache: 'Und wir? Die Tiere aus Glas in der Sammlung Pierre Rosenberg'
 
-KI-Filter / Cache-Loeschungen (172):
-- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Macherinnen Frauengeschichte aus Burgdorf und dem Emmental'
-- Geloescht [Cache: Dauerausstellung]: 'Unterwegs Wandern in der Schweiz'
-- Geloescht [Cache: Ort unbekannt]: 'Mensch, Erde! – Das Klima im Wandel'
-- Geloescht [Cache: Dauerausstellung]: 'Die Wunderkammern Staunen und Entdecken'
-- Geloescht [Cache: Dauerausstellung]: 'Wunderkammer Die Schausammlung'
-- Geloescht [Cache: Dauerausstellung]: 'Zeitheldinnen auf der Spur'
-- Geloescht [Cache: Dauerausstellung]: 'Freiheit! Eine musikalische Annäherung'
-- Geloescht [Cache: Dauerausstellung]: '«Goldrichtig – Ist Goldrecycling die Zukunft?»'
-- Geloescht [Cache: Dauerausstellung]: 'Peter Fischli: Wir Ungestalten'
+KI-Filter / Cache-Loeschungen (162):
 - Geloescht [Cache: Dauerausstellung]: 'Murten, ausgeschlachtet. Ein Sieg wird in Szene gesetzt.'
 - Geloescht [Cache: Dauerausstellung]: 'Alpensounds'
 - Geloescht [Cache: Ort unbekannt]: 'Bowling à gogo'
 - Geloescht [Cache: Ort unbekannt]: 'Atelier de découpage aux ciseaux (3h)'
 - Geloescht [Cache: Ort unbekannt]: 'La Rando des Blés'
 - Geloescht [Cache: Ort unbekannt]: 'Einführung in die Klöppelspitze'
-- Geloescht [Cache: Ort unbekannt]: 'Einführung in das Schneiden mit der Schere'
+- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors'
+- Geloescht [Cache: Ort unbekannt]: 'Théâtre de Beausobre : Une heure à t’attendre'
 - Geloescht [Cache: Ort unbekannt]: 'Théâtre de Beausobre : Un bateau'
 - Geloescht [Cache: Keine Live-Veranstaltung]: 'Queen – Thank God It's Christmas... Again!'
 - Geloescht [Cache: Keine Veranstaltung in der Schweiz]: 'Depeche Mode – Survive (Arena Mix | KÁRYYN Rework)'
@@ -343,7 +318,7 @@ KI-Filter / Cache-Loeschungen (172):
 - Geloescht [Cache: Ort unbekannt]: 'Cranberries – Such A Waste (2027 Remastered)'
 - Geloescht [Cache: Keine Live-Veranstaltung in der Schweiz]: 'Elton John – I Feel Like A Bullet (In The Gun Of Robert Ford) [Piano / Vocal Version]'
 - Geloescht [Cache: Ort unbekannt]: 'Creed – Riders On The Storm (Remastered 2026)'
-- Geloescht [Cache: Ort unbekannt]: 'The Rolling Stones – Who You Callin' Crazy'
+- Geloescht [Cache: Ort unbekannt]: 'La lithographie au féminin - Rencontre au Musée Alexis Forel'
 - Geloescht [Cache: Ort unbekannt]: 'Like Alice - Concert Rock au Easy Rider Bar'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Danse et convivialité : le thé dansant seniors à ne pas manquer !'
 - Geloescht [Cache: Ort unbekannt]: 'Concert des jeunes virtuoses d'Arménie au temple de Morges'
@@ -371,6 +346,11 @@ KI-Filter / Cache-Loeschungen (172):
 - Geloescht [Cache: Datum in der Vergangenheit]: 'Cinéma Odéon : ciné-rencontre "Ah que le bonheur est proche !" en présence du réalisateur et de Jean-Luc Bideau'
 - Geloescht [Cache: Datum in der Vergangenheit]: 'Conférence grand public – Vos muscles, votre énergie'
 - Geloescht [Cache: Datum in der Vergangenheit]: 'TONIGHT - Un soir avec Elton - Les Dix P'tits Tours'
+- Geloescht [Cache: Ort unbekannt]: 'Cinéma Odéon : Nuit du court métrage 2026'
+- Geloescht [Cache: Duplikat]: 'Visite commentée – Magie et Design x Opéra de Lausanne'
+- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors'
+- Geloescht [Cache: Ort unbekannt]: 'Musée Alexis Forel : Exposition "Salon des fondateurs"'
+- Geloescht [Cache: Ort unbekannt]: 'Musée Alexis Forel : Exposition De pierre à image. La lithographie à l'ère postdigitale'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Conférence sur la Mobilité 60+'
 - Geloescht [Cache: Duplikat]: 'Du mudac à Las Vegas : initiation à la magie'
 - Geloescht [Cache: Ort unbekannt]: 'Parcours immersif : quand la magie tourne mal'
@@ -422,33 +402,9 @@ KI-Filter / Cache-Loeschungen (172):
 - Geloescht [Cache: Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Visite des tout petits – Miroir, ô miroir …'
 - Geloescht [Cache: Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Visite des tout petits – Il était un petit navire'
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?'
-- Geloescht [Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'Théâtre de Beausobre : Une heure à t’attendre' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'La lithographie au féminin - Rencontre au Musée Alexis Forel' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'Cinéma Odéon : Nuit du court métrage 2026' [Feed: Morges Agenda]
-- Geloescht [Duplikat]: 'Visite commentée – Magie et Design x Opéra de Lausanne' [Feed: Platform 10 Agenda]
-- Geloescht [Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'Musée Alexis Forel : Exposition "Salon des fondateurs"' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'Musée Alexis Forel : Exposition De pierre à image. La lithographie à l'ère postdigitale' [Feed: Morges Agenda]
+- Geloescht [Ort unbekannt]: 'Einführung in das Schneiden mit der Schere' [Feed: Vaud.de Morges]
 
-Regelfilter Datum/Entfernung/Dauerausstellung (153):
-- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cécile Wick. In naher Ferne' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Aeschlimann Corti-Stipendium' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 20.03.2027 an]: 'Franz Gertsch. Guadeloupe' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'SAC-Kunstpreis – Massimiliano Rossetto' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Saodat Ismailova' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 05.03.2027 an]: 'Ursula. Blühendes Gift' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 20.03.2027 an]: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 19.03.2027 an]: 'Museumsnacht Bern 2027' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 20.03.2027 an]: 'Georges Wenger' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 25.09.2027 an]: 'Philip Guston: Seeking the New' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Out of the box' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Anfänge der Blasmusik in der Schweiz' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 13.03.2027 an]: 'Monica Ursina Jäger: States of Planetary Being' [Feed: Museen Bern]
-- Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Zeit ins Bild gerückt' [Feed: Museen Bern]
+Regelfilter Datum/Entfernung/Dauerausstellung (137):
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Post vor 60 Jahren' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Hefte, die die Schweizer Jugend prägt' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Streifzug durch die Schulgeschichte: 80’000 Dinge, die Schule mach(t)en' [Feed: Museen Bern]
@@ -518,6 +474,7 @@ Regelfilter Datum/Entfernung/Dauerausstellung (153):
 - Geloescht [Vorbei seit 25.09.]: 'Partizipativer Malworkshop im Espace Couvaloup' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 25.09.]: 'Poetische Lesung: Dérives von Silvia Härri' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 24.09.]: 'Humor im Kino: Artus "Le show XXL au cinéma"' [Feed: Morges Agenda]
+- Geloescht [Vorbei seit 20.11.]: 'Zaubershow mit Marco Smacchia' [Feed: Platform 10 Agenda]
 - Geloescht [Vorbei seit 19.09.]: 'Studientag über Spionage und Widerstand' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 19.09.]: 'Mini-Festival mit Elizabeth Sombart und Fabrice Eulry' [Feed: Morges Agenda]
 - Geloescht [Vorbei seit 15.09.]: 'Bibliothek: Musikalische Frueherkennung' [Feed: Morges Agenda]
@@ -589,9 +546,7 @@ Regelfilter Datum/Entfernung/Dauerausstellung (153):
 Ohne KI-Daten uebernommen (0):
 - Keine.
 
-Finale Liste (78 Eintraege):
-- [Museen Bern] [Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.
-- [Museen Bern] [Thun] [Ausstellung] Schnittstellen der Sicht. Hans Gerber und Sabine Hertig - bis 29.11.
+Finale Liste (76 Eintraege):
 - [Museen Bern] [Bern] [Ausstellung] Fokus: Florence Henri - bis 10.01.2027
 - [Museen Bern] [Bern] [Führung] Mensch, Erde! – Das Klima im Wandel - bis 13.12.
 - [Museen Bern] [Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027
@@ -600,6 +555,7 @@ Finale Liste (78 Eintraege):
 - [Museen Bern] [Bern] [Ausstellung] Reise in die Freiheit: Capri – Skagen – Monte Verità - bis 31.01.2027
 - [Museen Bern] [Bern] [Ausstellung] Silizium: Von den Alpen ins Silicon Valley - bis 09.12.
 - [Vaud.de Morges] [Nyon] [Ausstellung] Reise ins Land des Scherenschnitts
+- [Platform 10 Agenda] [Lausanne] [Markt] Kleines Weihnachten der Buchhandlungen und Boutiquen von Plateforme 10 - am Sa 05.12.
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Alberto Giacometti und der Sockel
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Caroline Bachmann: Wenn die Sonne...
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Trevor Yeung: Gut für dich
@@ -626,7 +582,6 @@ Finale Liste (78 Eintraege):
 - [Platform 10 Agenda] [Lausanne] [Familie] Monotypie-Druckwerkstatt – Magie und Design
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Bleiben Sie lebendig
 - [Platform 10 Agenda] [Lausanne] [Lesung] Begegnung – Ella Maillart: Gezeichnete Geschichte
-- [Platform 10 Agenda] [Lausanne] [Theater] Zaubershow mit Marco Smacchia - am Fr 20.11.
 - [Platform 10 Agenda] [Lausanne] [Führung] Oeffentliche Fuehrung: Alberto Giacometti
 - [Platform 10 Agenda] [Lausanne] [Führung] Amulett-Erstellungs-Workshop
 - [Platform 10 Agenda] [Lausanne] [Familie] Vom mudac nach Las Vegas: Einführung in die Zauberei
