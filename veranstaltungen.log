@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 24.11.2026, 06:59:45
+Start: 25.11.2026, 06:59:45
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 Bedeutung: bis 30 min -> Rang 3, bis 60 min -> Rang 2, darueber -> Rang 1
 
@@ -25,35 +25,37 @@ Statischer Filter (Keywords):
 - Geloescht [Keyword 'lanterne magique']: 'Cinéma Odéon : La Lanterne magique'
 - Geloescht [Keyword 'boutchous']: 'Cinéma Odéon : Ciné'Boutchous'
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
 - Geloescht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
 - Geloescht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
-- Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs Die Kernausstellung'
+- Geloescht [Keyword 'dauerausstellung']: 'Ursula. Blühendes Gift'
+- Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs. Die Kernausstellung'
+- Geloescht [Keyword 'dauerausstellung']: 'Cantonale Berne Jura'
 - Geloescht [Keyword 'dauerausstellung']: 'Einstein Museum'
+- Geloescht [Keyword 'dauerausstellung']: 'Franz Gertsch. Guadeloupe'
+- Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
+- Geloescht [Keyword 'dauerausstellung']: 'Die Wunderkammern – Staunen und Entdecken'
+- Geloescht [Keyword 'dauerausstellung']: 'Moneyverse Ausstellung'
+- Geloescht [Keyword 'dauerausstellung']: 'Georges Wenger'
 - Geloescht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
 
-Aus Cache uebernommen (235):
-- Cache: 'Cécile Wick. In naher Ferne'
-- Cache: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne'
-- Cache: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend'
-- Cache: 'Georges Wenger'
-- Cache: 'Die Anfänge der Blasmusik in der Schweiz'
-- Cache: 'Stress. Eine Ausstellung, die Mut macht'
-- Cache: 'Philip Guston: Seeking the New'
-- Cache: 'Aeschlimann Corti-Stipendium'
-- Cache: 'Cantonale Berne Jura'
-- Cache: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig'
-- Cache: 'Franz Gertsch. Blow-Up (Part II)'
-- Cache: 'Out of the box'
-- Cache: 'Franz Gertsch: Blow-Up (Part I)'
-- Cache: 'Museumsnacht Bern 2027'
-- Cache: 'Susanne Keller. Hinterkammer des Auges'
-- Cache: 'Monica Ursina Jäger: States of Planetary Being'
+Aus Cache uebernommen (237):
 - Cache: 'SAC-Kunstpreis – Massimiliano Rossetto'
+- Cache: 'Philip Guston: Seeking the New'
+- Cache: 'Schnittstellen der Sicht. Hans Gerber und Sabine Hertig'
+- Cache: 'Franz Gertsch: Blow-Up (Part I)'
+- Cache: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend'
+- Cache: 'Out of the box'
+- Cache: 'Die Anfänge der Blasmusik in der Schweiz'
+- Cache: 'Aeschlimann Corti-Stipendium'
+- Cache: 'Monica Ursina Jäger: States of Planetary Being'
+- Cache: 'Museumsnacht Bern 2027'
 - Cache: 'Cantonale Berne Jura'
+- Cache: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne'
+- Cache: 'Susanne Keller. Hinterkammer des Auges'
+- Cache: 'Stress. Eine Ausstellung, die Mut macht'
+- Cache: 'Franz Gertsch. Blow-Up (Part II)'
 - Cache: 'Souvenir Selfies, Kitsch und Gipfelsteine'
-- Cache: 'Franz Gertsch. Guadeloupe'
-- Cache: 'Ursula. Blühendes Gift'
+- Cache: 'Cécile Wick. In naher Ferne'
 - Cache: 'Die Zeit ins Bild gerückt'
 - Cache: 'Die Post vor 60 Jahren'
 - Cache: 'Hefte, die die Schweizer Jugend prägt'
@@ -68,11 +70,12 @@ Aus Cache uebernommen (235):
 - Cache: 'Tierzeichnen am Abend'
 - Cache: 'Wissen-Saft – Auf ein Glas mit … Tiger Igor'
 - Cache: 'Dark Gossip'
+- Cache: 'Reise in die Freiheit. Capri – Skagen – Monte Verità'
 - Cache: 'Ciao Schultrauma'
+- Cache: 'Alpensounds'
 - Cache: 'CHIPS'
 - Cache: 'Silizium: Von den Alpen ins Silicon Valley'
 - Cache: 'Kunst über Mittag'
-- Cache: 'Reise ins Land des Scherenschnitts'
 - Cache: 'Vorführungen von Klöppelspitzen'
 - Cache: 'Konzert Hommage an Ariel Ramirez'
 - Cache: 'Rock-, Funk-, Soul- und Blues-Coverkonzert mit The DEE Band'
@@ -155,6 +158,11 @@ Aus Cache uebernommen (235):
 - Cache: 'Eisbahneröffnung'
 - Cache: 'Bleiben Sie lebendig'
 - Cache: 'Begegnung – Ella Maillart: Gezeichnete Geschichte'
+- Cache: 'Ein Abend mit Elton'
+- Cache: 'Rund um Haikus'
+- Cache: 'Die ländliche Welt übersetzen. Holzkirchen, Freilichtmuseen und moderne Architektur im Ostmitteleuropa der Zwischenkriegszeit'
+- Cache: 'Toxic Rock'
+- Cache: 'Grosser Herbstmarkt'
 - Cache: 'Stand von Morges Région Tourisme am Herbst-Grossmarkt'
 - Cache: 'Partizipativer Malworkshop im Espace Couvaloup'
 - Cache: 'Poetische Lesung: Dérives von Silvia Härri'
@@ -270,10 +278,9 @@ Aus Cache uebernommen (235):
 - Cache: 'Und wir? Die Tiere aus Glas in der Sammlung Pierre Rosenberg'
 
 KI-Filter / Cache-Loeschungen (176):
-- Geloescht [Cache: Dauerausstellung]: 'Die Wunderkammern Staunen und Entdecken'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Macherinnen Frauengeschichte aus Burgdorf und dem Emmental'
-- Geloescht [Cache: Dauerausstellung]: 'Unterwegs Wandern in der Schweiz'
 - Geloescht [Cache: Dauerausstellung]: 'Wunderkammer Die Schausammlung'
+- Geloescht [Cache: Dauerausstellung]: 'Unterwegs Wandern in der Schweiz'
 - Geloescht [Cache: Ort unbekannt]: 'Mensch, Erde! – Das Klima im Wandel'
 - Geloescht [Cache: Dauerausstellung]: 'Zeitheldinnen auf der Spur'
 - Geloescht [Cache: Dauerausstellung]: 'Freiheit! Eine musikalische Annäherung'
@@ -285,11 +292,14 @@ KI-Filter / Cache-Loeschungen (176):
 - Geloescht [Cache: Ort unbekannt]: 'La Rando des Blés'
 - Geloescht [Cache: Ort unbekannt]: 'Einführung in die Klöppelspitze'
 - Geloescht [Cache: Ort unbekannt]: 'Einführung in das Schneiden mit der Schere'
+- Geloescht [Cache: Ort unbekannt]: 'Bryan Adams – Merry Xmas Everybody'
 - Geloescht [Cache: Keine Veranstaltung]: 'Tears For Fears – Famous Last Words'
 - Geloescht [Cache: Ort unbekannt]: 'Elton John – Rock Of The Westies (50th Anniversary Edition)'
 - Geloescht [Cache: Ort unbekannt]: 'Billy Joel – Summer, Highland Falls (Alternate acoustic version)'
 - Geloescht [Cache: Ort unbekannt]: 'R.E.M. – Reveal (25th Anniversary Edition)'
 - Geloescht [Cache: Ort unbekannt]: 'Roxette – Pearls Of Passion (40th Anniversary Edition)'
+- Geloescht [Cache: Ort unbekannt]: 'Creed – Weathered (Deluxe Edition / Remastered 2026)'
+- Geloescht [Cache: Ort unbekannt]: 'Stereophonics – Tune! Ultimate Collection 96 - 26'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors'
 - Geloescht [Cache: Ort unbekannt]: 'Théâtre de Beausobre : Une heure à t’attendre'
 - Geloescht [Cache: Ort unbekannt]: 'Théâtre de Beausobre : Un bateau'
@@ -357,6 +367,7 @@ KI-Filter / Cache-Loeschungen (176):
 - Geloescht [Cache: Keine Veranstaltung]: 'Wir sind Helden – Verschwommen x Von hier an blind'
 - Geloescht [Cache: Ort unbekannt]: 'Bryan Adams – Lake Ontario'
 - Geloescht [Cache: Kein physischer Event]: 'Peter Gabriel – Who Are We Talking To? (Dark-Side Mix)'
+- Geloescht [Cache: Datum in der Vergangenheit]: 'Comment concevoir des villes habitables ?'
 - Geloescht [Cache: Ausschlusskriterium Senioren]: 'Thé dansant pour les seniors'
 - Geloescht [Cache: Ort unbekannt]: 'Vernissage de la fresque participative d'Espace Couvaloup'
 - Geloescht [Cache: Ort unbekannt]: 'La lithographie au féminin - Rencontre au Musée Alexis Forel'
@@ -442,30 +453,23 @@ KI-Filter / Cache-Loeschungen (176):
 - Geloescht [Cache: Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Visite des tout petits – Miroir, ô miroir …'
 - Geloescht [Cache: Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Visite des tout petits – Il était un petit navire'
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?'
-- Geloescht [Ort unbekannt]: 'Bryan Adams – Merry Xmas Everybody' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Creed – Weathered (Deluxe Edition / Remastered 2026)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Ort unbekannt]: 'Stereophonics – Tune! Ultimate Collection 96 - 26' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Datum in der Vergangenheit]: 'Comment concevoir des villes habitables ?' [Feed: Morges Agenda]
+- Geloescht [Ort unbekannt]: 'Temporäre Ausstellung „Top Secret“' [Feed: Vaud.de Morges]
 
-Regelfilter Datum/Entfernung/Dauerausstellung (162):
-- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cécile Wick. In naher Ferne' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 20.03.2027 an]: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 20.03.2027 an]: 'Georges Wenger' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Anfänge der Blasmusik in der Schweiz' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Stress. Eine Ausstellung, die Mut macht' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 25.09.2027 an]: 'Philip Guston: Seeking the New' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Aeschlimann Corti-Stipendium' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Franz Gertsch. Blow-Up (Part II)' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Out of the box' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 19.03.2027 an]: 'Museumsnacht Bern 2027' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 13.03.2027 an]: 'Monica Ursina Jäger: States of Planetary Being' [Feed: Museen Bern]
+Regelfilter Datum/Entfernung/Dauerausstellung (158):
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'SAC-Kunstpreis – Massimiliano Rossetto' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 25.09.2027 an]: 'Philip Guston: Seeking the New' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 20.03.2027 an]: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Out of the box' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Anfänge der Blasmusik in der Schweiz' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Aeschlimann Corti-Stipendium' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 13.03.2027 an]: 'Monica Ursina Jäger: States of Planetary Being' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 19.03.2027 an]: 'Museumsnacht Bern 2027' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Stress. Eine Ausstellung, die Mut macht' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Franz Gertsch. Blow-Up (Part II)' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Souvenir Selfies, Kitsch und Gipfelsteine' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 20.03.2027 an]: 'Franz Gertsch. Guadeloupe' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 05.03.2027 an]: 'Ursula. Blühendes Gift' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cécile Wick. In naher Ferne' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Zeit ins Bild gerückt' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Post vor 60 Jahren' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Hefte, die die Schweizer Jugend prägt' [Feed: Museen Bern]
@@ -476,7 +480,7 @@ Regelfilter Datum/Entfernung/Dauerausstellung (162):
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Destination: Usakos Heimreise nach Namibia – Zukunft eines kolonialen Erbes' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Dark Gossip' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Ciao Schultrauma' [Feed: Museen Bern]
-- Geloescht [Dauerausstellung: laeuft noch 616 Tage]: 'Alpensounds' [Feed: Museen Bern]
+- Geloescht [Dauerausstellung: laeuft noch 615 Tage]: 'Alpensounds' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'CHIPS' [Feed: Museen Bern]
 - Geloescht [Ort unbekannt (?/?)]: 'Vorführungen von Klöppelspitzen' [Feed: Vaud.de Morges]
 - Geloescht [Zu weit weg: Aarau ~130 min ab Morges]: 'Heidi Abel – TV-Star der ersten Stunde' [Feed: museum.ch Ausstellungen]
@@ -626,7 +630,7 @@ Finale Liste (80 Eintraege):
 - [Museen Bern] [Bern] [Ausstellung] Reise in die Freiheit. Capri – Skagen – Monte Verità - bis 31.01.2027
 - [Museen Bern] [Bern] [Ausstellung] Silizium: Von den Alpen ins Silicon Valley - bis 09.12.
 - [Museen Bern] [Bern] [Führung] Kunst über Mittag - am Mi 25.11.
-- [Vaud.de Morges] [Nyon] [Ausstellung] Reise ins Land des Scherenschnitts
+- [Morges Agenda] [Morges] [Theater] Improvisationstheater für Kinder - am Sa 28.11.
 - [Morges Agenda] [Morges] [Konzert] Konzert Hommage an Ariel Ramirez - am Fr 27.11.
 - [Morges Agenda] [Morges] [Konzert] Rock-, Funk-, Soul- und Blues-Coverkonzert mit The DEE Band - am Sa 28.11.
 - [Morges Agenda] [Morges] [Theater] Geheimnisse der Medizin - am Do 26.11.
