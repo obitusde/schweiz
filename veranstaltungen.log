@@ -1,5 +1,5 @@
 === VERANSTALTUNGEN-FEED PROTOKOLL ===
-Start: 26.11.2026, 06:59:45
+Start: 27.11.2026, 06:59:45
 Regeln: max. 120 min ab Morges (Ausnahmen: zürich, zurich, bern), max. 365 Tage Laufzeit
 Bedeutung: bis 30 min -> Rang 3, bis 60 min -> Rang 2, darueber -> Rang 1
 
@@ -25,28 +25,46 @@ Statischer Filter (Keywords):
 - Geloescht [Keyword 'lanterne magique']: 'Cinéma Odéon : La Lanterne magique'
 - Geloescht [Keyword 'boutchous']: 'Cinéma Odéon : Ciné'Boutchous'
 - Geloescht [Keyword 'dauerausstellung']: 'BEWEGUNGEN. NEUE DAUERAUSSTELLUNG'
-- Geloescht [Keyword 'dauerausstellung']: 'Franz Gertsch. Blow-Up (Part I)'
+- Geloescht [Keyword 'dauerausstellung']: 'Moneyverse'
+- Geloescht [Keyword 'dauerausstellung']: 'Einstein Museum'
+- Geloescht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
 - Geloescht [Keyword 'dauerausstellung']: 'Lika Nüssli: ›Für die Katz‹'
 - Geloescht [Keyword 'dauerausstellung']: 'Höhepunkte der Sammlung'
-- Geloescht [Keyword 'dauerausstellung']: 'Audiowalk durch die Nationalbibliothek: LEISES RUMOREN'
-- Geloescht [Keyword 'dauerausstellung']: 'Moneyverse'
 - Geloescht [Keyword 'dauerausstellung']: 'Von Höhenfeuern, Smartphones und Cyborgs Die Kernausstellung'
 - Geloescht [Keyword 'rüttihubelbad']: 'Faszination Resonanz: kleine Impulse – grosse Wirkung'
 
-Aus Cache uebernommen (169):
-- Cache: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne'
-- Cache: 'Philip Guston: Seeking the New'
-- Cache: 'Monica Ursina Jäger: States of Planetary Being'
-- Cache: 'Cantonale Berne Jura'
+Aus Cache uebernommen (253):
 - Cache: 'Museumsnacht Bern 2027'
-- Cache: 'SAC-Kunstpreis – Massimiliano Rossetto'
-- Cache: 'Aeschlimann Corti-Stipendium'
-- Cache: 'Franz Gertsch. Blow-Up (Part II)'
-- Cache: 'Franz Gertsch. Guadeloupe'
-- Cache: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend'
 - Cache: 'Georges Wenger'
+- Cache: 'Cantonale Berne Jura'
+- Cache: 'Schnittstellen der Sicht: Hans Gerber und Sabine Hertig'
+- Cache: 'Monica Ursina Jäger: States of Planetary Being'
+- Cache: 'Souvenir Selfies, Kitsch und Gipfelsteine'
+- Cache: 'Franz Gertsch. Blow-Up (Part II)'
+- Cache: 'SAC-Kunstpreis – Massimiliano Rossetto'
+- Cache: 'Franz Gertsch. Blow-Up (Part I)'
+- Cache: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne'
+- Cache: 'Hinterkammer des Auges'
+- Cache: 'Aeschlimann Corti-Stipendium'
+- Cache: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend'
+- Cache: 'Franz Gertsch. Guadeloupe'
 - Cache: 'Ursula. Blühendes Gift'
+- Cache: 'Philip Guston: Seeking the New'
+- Cache: 'Cantonale Berne Jura Die gute Form'
+- Cache: 'In naher Ferne'
+- Cache: 'Zeitheldinnen auf der Spur: Ein Rätselspiel durch den BOGA'
+- Cache: 'Goldrichtig – Ist Goldrecycling die Zukunft?'
 - Cache: 'Die Zeit ins Bild gerückt'
+- Cache: 'Peter Fischli: Wir Ungestalten'
+- Cache: 'Macht und Heimat: Föderalismus in der Schweiz und anderswo'
+- Cache: 'Murten, ausgeschlachtet: Ein Sieg wird in Szene gesetzt'
+- Cache: 'Die Post vor 60 Jahren'
+- Cache: 'ESSS-III-WEEE Hefte, die die Schweizer Jugend prägt'
+- Cache: 'Streifzug durch die Schulgeschichte: 80’000 Dinge, die Schule mach(t)en'
+- Cache: 'Historische Lektion'
+- Cache: 'Bisschen theoretisch'
+- Cache: 'Fokus. Florence Henri'
+- Cache: 'Beat Jost – Schöne neue Welt'
 - Cache: 'Mensch, Erde! – Das Klima im Wandel'
 - Cache: 'Destination: Usakos Heimreise nach Namibia – Zukunft eines kolonialen Erbes'
 - Cache: 'Roberto Burle Marx. Modernismo tropical'
@@ -59,6 +77,7 @@ Aus Cache uebernommen (169):
 - Cache: 'CHIPS'
 - Cache: 'Silizium: Von den Alpen ins Silicon Valley'
 - Cache: 'Vorführungen von Klöppelspitzen'
+- Cache: 'Repair Café'
 - Cache: 'Improvisationstheater für Kinder'
 - Cache: 'Konzert Hommage an Ariel Ramirez'
 - Cache: 'Rock-, Funk-, Soul- und Blues-Coverkonzert mit The DEE Band'
@@ -110,6 +129,8 @@ Aus Cache uebernommen (169):
 - Cache: 'Halloween im Schloss Morges'
 - Cache: 'Asaf Avidan'
 - Cache: 'Jam Session in der Easy Rider Bar'
+- Cache: 'Projections XXL – Photo Elysée × ECAL'
+- Cache: 'Krippen aus aller Welt in der Sammlung Würth'
 - Cache: 'Kino Odéon: Kurs auf die Welt - Thailand'
 - Cache: 'Dominik Zietlow. Nur die Berge begegnen sich nie. Manor Kunstpreis Zentralschweiz Luzern'
 - Cache: 'Theatererfahrung im Théâtre de Beausobre'
@@ -137,6 +158,14 @@ Aus Cache uebernommen (169):
 - Cache: 'M&M's'
 - Cache: 'Modell Tier. 200 Jahre Fotografie'
 - Cache: 'Eisbahneröffnung'
+- Cache: 'Brecht, wer war das noch mal?'
+- Cache: 'Kochworkshop: Energieriegel, Gebäck und gesunde Snacks'
+- Cache: 'Humo en mi Boca'
+- Cache: 'Forever Young'
+- Cache: 'Am Leben bleiben'
+- Cache: 'Reparatur-Café'
+- Cache: 'Kino Odéon: Filmgespräch "Ach wie nah ist das Glück!" mit dem Regisseur und Jean-Luc Bideau'
+- Cache: 'Öffentlicher Vortrag – Ihre Muskeln, Ihre Energie'
 - Cache: 'Begegnung – Ella Maillart: Gezeichnete Geschichte'
 - Cache: 'Ein Abend mit Elton'
 - Cache: 'Rund um Haikus'
@@ -202,10 +231,72 @@ Aus Cache uebernommen (169):
 - Cache: 'Atelier für alle – Geriebenes Geschenk'
 - Cache: 'Kuratorenführung – Ted Joans. Black Flower'
 - Cache: 'Führung: Ted Joans. Black Flower'
+- Cache: 'Pach’un Q’ijul (Verschlungene Zeiten – Deep Time)'
+- Cache: 'Die Zukunft, was ist das?'
+- Cache: 'Glas, jenseits der Materie'
+- Cache: 'Kälte!'
+- Cache: 'Marie Ducaté. Gleichzeitige'
+- Cache: 'Das Leben der Genfer Cafés'
+- Cache: 'Zarte Knöpfe'
+- Cache: 'Die Abenteuer von Gouttelette, auf der Suche nach der verlorenen Zeit'
+- Cache: 'Caf' Conc''
+- Cache: 'Wake Up & Run'
+- Cache: 'Black Colors - Konzert'
+- Cache: 'Festival Morges Églantine'
+- Cache: 'Alfredo Jaar: Inferno Paradiso'
+- Cache: 'Und wir?'
+- Cache: 'Otobong Nkanga'
+- Cache: 'Isao Takahata'
+- Cache: 'Hannah Darabi: Why Don't You Dance'
+- Cache: 'Ella Maillart: Fotografische Erzählungen'
+- Cache: 'Lucas Erin'
+- Cache: 'Edouard Chapallaz'
+- Cache: 'Blanc Gatti'
+- Cache: 'Ted Joans'
+- Cache: 'Magie und Design'
+- Cache: 'Tustiermodell'
+- Cache: 'Open Air Kino 2026'
+- Cache: 'Dahlienfest 2026 - 30. Jubiläum'
+- Cache: 'Mini'MOA - Open Air Kino für die Kleinsten'
+- Cache: 'Schatzsuche: Die Zeitreise'
+- Cache: 'Jubiläumswochenende Dahlienfest: 30. Jubiläum'
+- Cache: 'Kurzstück-Festival im Théâtre des Trois P'tits Tours'
+- Cache: 'The Black Monarchs & The Missing Girls'
+- Cache: 'Kultursommer: Krimi-Dinner'
+- Cache: 'Kultursommer: Einführung in den Sportschießen'
+- Cache: 'Caline Aoun: Schwellen der Vergänglichkeit'
+- Cache: 'Naturjuwel Haberfeld'
+- Cache: 'Basel auf dem Teller – Kulinarische Stadtgeschichte(n)'
+- Cache: 'Wer lebt hier? Die Buche, ein Lebensbaum'
+- Cache: 'Symphonie der Gewürze – Aus Vietnam in die Welt'
+- Cache: 'The Stars' Share - Fotografien von Gérard-Philippe Mabillard'
+- Cache: 'Thun-Panorama: Das Rundbild von Marquard Wocher'
+- Cache: 'Susanne Keller. Hinterkammer des Auges'
+- Cache: 'Auf den Spuren von Edouard Chapallaz an der EPFL'
+- Cache: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Anne Pitteloud'
+- Cache: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Lolvé Tillmanns'
+- Cache: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Thomas Binggeli'
+- Cache: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Matthieu Ruf'
+- Cache: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Alice Bottarelli'
 - Cache: 'Führung: Lucas Erin. Kulturpreis Manor Waadt 2026'
+- Cache: 'Öffentliche Vernissage – Ted Joans. Black Flower'
+- Cache: 'Vernissage | Edouard Chapallaz'
+- Cache: 'Lebhafte Himmel – Japanischer Malworkshop'
+- Cache: 'Nacht der Museen'
+- Cache: 'Führung – Matrimoine-Tage'
+- Cache: 'Runde Tischgespräche: (Wieder)lernen zu sehen'
+- Cache: 'Runde Tischgespräche: Widerstehen!'
+- Cache: 'Und wir?'
 
-KI-Filter / Cache-Loeschungen (168):
+KI-Filter / Cache-Loeschungen (169):
+- Geloescht [Cache: Dauerausstellung]: 'Anno 1811 - Die Anfänge der Blasmusik in der Schweiz'
+- Geloescht [Cache: Dauerausstellung]: 'Out of the box'
+- Geloescht [Cache: Dauerausstellung]: 'Wunderkammer Die Schausammlung'
+- Geloescht [Cache: Dauerausstellung]: 'Die Wunderkammern'
 - Geloescht [Cache: Dauerausstellung]: 'Unterwegs Wandern in der Schweiz'
+- Geloescht [Cache: Dauerausstellung]: 'Stress. Eine Ausstellung, die Mut macht'
+- Geloescht [Cache: Dauerausstellung]: 'Macherinnen Frauengeschichte aus Burgdorf und dem Emmental'
+- Geloescht [Cache: Dauerausstellung]: 'Mensch, Erde! – Das Klima im Wandel'
 - Geloescht [Cache: Dauerausstellung]: 'Freiheit! Eine musikalische Annäherung'
 - Geloescht [Cache: Ort unbekannt]: 'Bowling à gogo'
 - Geloescht [Cache: Ort unbekannt]: 'Atelier de découpage aux ciseaux (3h)'
@@ -221,6 +312,7 @@ KI-Filter / Cache-Loeschungen (168):
 - Geloescht [Cache: Ort unbekannt]: 'Roxette – Pearls Of Passion (40th Anniversary Edition)'
 - Geloescht [Cache: Ort unbekannt]: 'Creed – Weathered (Deluxe Edition / Remastered 2026)'
 - Geloescht [Cache: Ort unbekannt]: 'Stereophonics – Tune! Ultimate Collection 96 - 26'
+- Geloescht [Cache: Keine Veranstaltung in der Schweiz]: 'Kula Shaker – Shower Your Love / Drop In The Sea (Reinkarnate)'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors'
 - Geloescht [Cache: Ort unbekannt]: 'Théâtre de Beausobre : Une heure à t’attendre'
 - Geloescht [Cache: Ort unbekannt]: 'Théâtre de Beausobre : Un bateau'
@@ -309,6 +401,7 @@ KI-Filter / Cache-Loeschungen (168):
 - Geloescht [Cache: Duplikat]: 'Visite commentée commissaire – Magie et Design'
 - Geloescht [Cache: Ort unbekannt]: 'Samedi à la Pati !'
 - Geloescht [Cache: Vergangenes Datum]: 'Atelier part'âge'
+- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Cours de danse de Salon 60+'
 - Geloescht [Cache: Ort unbekannt]: 'Cinéma Odéon : Nuit du court métrage 2026'
 - Geloescht [Cache: Duplikat]: 'Visite commentée – Magie et Design x Opéra de Lausanne'
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Atelier d'informatique intergénérationnel pour les seniors'
@@ -337,58 +430,50 @@ KI-Filter / Cache-Loeschungen (168):
 - Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Séances de sport spéciales pour les femmes'
 - Geloescht [Cache: Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Les expositions à voir en ce moment à Genève'
 - Geloescht [Cache: Duplikat]: 'Guided Tour – Ted Joans. Black Flower'
+- Geloescht [Cache: Ort unbekannt]: 'Facebook'
+- Geloescht [Cache: Ort unbekannt]: 'LinkedIn'
+- Geloescht [Cache: Dauerausstellung bis 25.10.2026 (vor dem heutigen Datum 26.11.2026)]: 'Exposition "Observatoires" au MAH: carte blanche à John M Armleder'
+- Geloescht [Cache: Dauerausstellung]: 'Collection'
+- Geloescht [Cache: Datum vorbei]: 'Les Matins de la Santé'
+- Geloescht [Cache: Datum vorbei]: 'Espace 81 - exposition 100 ans des Scouts de Morges'
+- Geloescht [Cache: Datum in Vergangenheit]: 'Colibris Festival 2026'
+- Geloescht [Cache: Datum in Vergangenheit]: 'Hommage à Armel Guerne'
+- Geloescht [Cache: Datum in Vergangenheit]: 'Paillote Festival 2026'
+- Geloescht [Cache: Datum in Vergangenheit]: 'Château de Morges : Conférence - Le rôle de la Suisse dans le Vercors d'après-guerre'
+- Geloescht [Cache: Datum in Vergangenheit]: 'Kolonial. Globale Verflechtungen der Schweiz'
+- Geloescht [Cache: Datum in Vergangenheit]: 'Ella Maillart. Fotografische Erzählungen'
+- Geloescht [Cache: Dauerausstellung]: 'Die Sammlung'
+- Geloescht [Cache: Dauerausstellung]: 'Mit fliegendem Teppich durch die Geschichte'
+- Geloescht [Cache: Dauerausstellung]: '1 Raum, 1 Werk. Installationen aus der Sammlung'
+- Geloescht [Cache: Dauerausstellung]: 'Ideen Schweiz'
+- Geloescht [Cache: Dauerausstellung]: 'Einfach Zürich'
+- Geloescht [Cache: Dauerausstellung]: 'Geschichte Schweiz'
+- Geloescht [Cache: Dauerausstellung]: 'Seidenband. Kapital, Kunst & Krise'
+- Geloescht [Cache: Dauerausstellung]: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur'
+- Geloescht [Cache: Duplikat]: 'Caline Aoun Thresholds of Impermanence'
+- Geloescht [Cache: Events ausschließlich für Senioren oder Frauen]: 'Visite commentée – Artistes femmes dans l’art contemporain'
+- Geloescht [Cache: Ort unbekannt]: 'LIG x Plateforme 10 – Tournoi d’été'
 - Geloescht [Cache: Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Visite des tout petits – Miroir, ô miroir …'
 - Geloescht [Cache: Dauerausstellungen, ständige Sammlungspräsentationen und Werke, die unbefristet zu sehen sind]: 'Visite des tout petits – Il était un petit navire'
-- Geloescht [Dauerausstellung]: 'Die Wunderkammern' [Feed: Museen Bern]
-- Geloescht [Dauerausstellung]: 'Anno 1811 - Die Anfänge der Blasmusik in der Schweiz' [Feed: Museen Bern]
-- Geloescht [Dauerausstellung]: 'Out of the box' [Feed: Museen Bern]
-- Geloescht [Dauerausstellung]: 'Stress. Eine Ausstellung, die Mut macht' [Feed: Museen Bern]
-- Geloescht [Dauerausstellung]: 'Mensch, Erde! – Das Klima im Wandel' [Feed: Museen Bern]
-- Geloescht [Dauerausstellung]: 'Macherinnen Frauengeschichte aus Burgdorf und dem Emmental' [Feed: Museen Bern]
-- Geloescht [Dauerausstellung]: 'Wunderkammer Die Schausammlung' [Feed: Museen Bern]
-- Geloescht [Keine Veranstaltung in der Schweiz]: 'Kula Shaker – Shower Your Love / Drop In The Sea (Reinkarnate)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Keine Veranstaltung in der Schweiz]: 'Peter Gabriel – Who Are We Talking To? (Dark-Side Mix)' [Feed: Lieblingsbands Neuerscheinungen]
-- Geloescht [Events ausschließlich für Senioren oder Frauen]: 'Cours de danse de Salon 60+' [Feed: Morges Agenda]
-- Geloescht [Ort unbekannt]: 'Facebook' [Feed: Genf Ausstellungen]
-- Geloescht [Ort unbekannt]: 'LinkedIn' [Feed: Genf Ausstellungen]
-- Geloescht [Dauerausstellung bis 25.10.2026 (vor dem heutigen Datum 26.11.2026)]: 'Exposition "Observatoires" au MAH: carte blanche à John M Armleder' [Feed: Genf Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Collection' [Feed: Platform 10 Expositions]
-- Geloescht [Datum vorbei]: 'Les Matins de la Santé' [Feed: Morges Agenda]
-- Geloescht [Datum vorbei]: 'Espace 81 - exposition 100 ans des Scouts de Morges' [Feed: Morges Agenda]
-- Geloescht [Datum in Vergangenheit]: 'Colibris Festival 2026' [Feed: Morges Agenda]
-- Geloescht [Datum in Vergangenheit]: 'Hommage à Armel Guerne' [Feed: Morges Agenda]
-- Geloescht [Datum in Vergangenheit]: 'Paillote Festival 2026' [Feed: Morges Agenda]
-- Geloescht [Datum in Vergangenheit]: 'Château de Morges : Conférence - Le rôle de la Suisse dans le Vercors d'après-guerre' [Feed: Morges Agenda]
-- Geloescht [Datum in Vergangenheit]: 'Kolonial. Globale Verflechtungen der Schweiz' [Feed: museum.ch Ausstellungen]
-- Geloescht [Datum in Vergangenheit]: 'Ella Maillart. Fotografische Erzählungen' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Die Sammlung' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Mit fliegendem Teppich durch die Geschichte' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: '1 Raum, 1 Werk. Installationen aus der Sammlung' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Ideen Schweiz' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Einfach Zürich' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Geschichte Schweiz' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Seidenband. Kapital, Kunst & Krise' [Feed: museum.ch Ausstellungen]
-- Geloescht [Dauerausstellung]: 'Wildes Baselbiet. Tieren und Pflanzen auf der Spur' [Feed: museum.ch Ausstellungen]
-- Geloescht [Duplikat]: 'Caline Aoun Thresholds of Impermanence' [Feed: museum.ch Ausstellungen]
-- Geloescht [Events ausschließlich für Senioren oder Frauen]: 'Visite commentée – Artistes femmes dans l’art contemporain' [Feed: Platform 10 Agenda]
-- Geloescht [Ort unbekannt]: 'LIG x Plateforme 10 – Tournoi d’été' [Feed: Platform 10 Agenda]
-- Geloescht [Duplikat]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?' [Feed: Platform 10 Agenda]
+- Geloescht [Cache: Duplikat]: 'Visite commentée – Hannah Darabi. Why Don’t You Dance?'
+- Geloescht [Ort unbekannt]: 'UB40 – You're Still The One' [Feed: Lieblingsbands Neuerscheinungen]
+- Geloescht [Ort unbekannt]: 'Travis – Burn This Shit Down (from GTAVI: The Album)' [Feed: Lieblingsbands Neuerscheinungen]
 
-Regelfilter Datum/Entfernung/Dauerausstellung (171):
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 25.09.2027 an]: 'Philip Guston: Seeking the New' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 13.03.2027 an]: 'Monica Ursina Jäger: States of Planetary Being' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
+Regelfilter Datum/Entfernung/Dauerausstellung (172):
 - Geloescht [Faengt erst am 19.03.2027 an]: 'Museumsnacht Bern 2027' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura Die gute Form' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'SAC-Kunstpreis – Massimiliano Rossetto' [Feed: Museen Bern]
-- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Aeschlimann Corti-Stipendium' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 20.03.2027 an]: 'Georges Wenger' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 13.03.2027 an]: 'Monica Ursina Jäger: States of Planetary Being' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Souvenir Selfies, Kitsch und Gipfelsteine' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Franz Gertsch. Blow-Up (Part II)' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 20.03.2027 an]: 'Franz Gertsch. Guadeloupe' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'SAC-Kunstpreis – Massimiliano Rossetto' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Literarische Soirée: Aglaja Veteranyi auf der Bühne' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Aeschlimann Corti-Stipendium' [Feed: Museen Bern]
 - Geloescht [Faengt erst am 20.03.2027 an]: 'Chantal Joffe & Ishbel Myerscough. My Brilliant Friend' [Feed: Museen Bern]
-- Geloescht [Faengt erst am 20.03.2027 an]: 'Georges Wenger' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 20.03.2027 an]: 'Franz Gertsch. Guadeloupe' [Feed: Museen Bern]
 - Geloescht [Faengt erst am 05.03.2027 an]: 'Ursula. Blühendes Gift' [Feed: Museen Bern]
+- Geloescht [Faengt erst am 25.09.2027 an]: 'Philip Guston: Seeking the New' [Feed: Museen Bern]
+- Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Cantonale Berne Jura Die gute Form' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Zeitheldinnen auf der Spur: Ein Rätselspiel durch den BOGA' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 95 min Anreise zaehlt nur Rang 1]: 'Goldrichtig – Ist Goldrecycling die Zukunft?' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Die Zeit ins Bild gerückt' [Feed: Museen Bern]
@@ -404,9 +489,10 @@ Regelfilter Datum/Entfernung/Dauerausstellung (171):
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Destination: Usakos Heimreise nach Namibia – Zukunft eines kolonialen Erbes' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'Dark Gossip' [Feed: Museen Bern]
 - Geloescht [Rang 3, bei 80 min Anreise zaehlt nur Rang 1]: 'Ciao Schultrauma' [Feed: Museen Bern]
-- Geloescht [Dauerausstellung: laeuft noch 614 Tage]: 'Alpensounds' [Feed: Museen Bern]
+- Geloescht [Dauerausstellung: laeuft noch 613 Tage]: 'Alpensounds' [Feed: Museen Bern]
 - Geloescht [Rang 2, bei 80 min Anreise zaehlt nur Rang 1]: 'CHIPS' [Feed: Museen Bern]
 - Geloescht [Ort unbekannt (?/?)]: 'Vorführungen von Klöppelspitzen' [Feed: Vaud.de Morges]
+- Geloescht [Vorbei seit 26.11.]: 'Geheimnisse der Medizin' [Feed: Morges Agenda]
 - Geloescht [Zu weit weg: Aarau ~130 min ab Morges]: 'Heidi Abel – TV-Star der ersten Stunde' [Feed: museum.ch Ausstellungen]
 - Geloescht [Zu weit weg: Basel ~140 min ab Morges]: 'Gold - von Glanz- und Schattenseiten' [Feed: museum.ch Ausstellungen]
 - Geloescht [Vorbei seit 22.11.]: 'Klavierabend – David Irimescu' [Feed: Morges Agenda]
@@ -536,24 +622,24 @@ Regelfilter Datum/Entfernung/Dauerausstellung (171):
 - Geloescht [Vorbei seit 01.11.]: 'Wer lebt hier? Die Buche, ein Lebensbaum' [Feed: museum.ch Ausstellungen]
 - Geloescht [Vorbei seit 13.09.]: 'Symphonie der Gewürze – Aus Vietnam in die Welt' [Feed: museum.ch Ausstellungen]
 - Geloescht [Rang 2, bei 100 min Anreise zaehlt nur Rang 1]: 'The Stars' Share - Fotografien von Gérard-Philippe Mabillard' [Feed: museum.ch Ausstellungen]
+- Geloescht [Vorbei seit 26.11.]: 'Auf den Spuren von Edouard Chapallaz an der EPFL' [Feed: Platform 10 Agenda]
 - Geloescht [Vorbei seit 08.10.]: 'Öffentliche Vernissage – Ted Joans. Black Flower' [Feed: Platform 10 Agenda]
 - Geloescht [Vorbei seit 26.09.]: 'Nacht der Museen' [Feed: Platform 10 Agenda]
 - Geloescht [Dublette von 'Susanne Keller. Hinterkammer des Auges']: 'Hinterkammer des Auges' [Feed: Museen Bern]
-- Geloescht [Dublette von 'Auf den Spuren von Edouard Chapallaz an der EPFL']: 'Edouard Chapallaz' [Feed: Platform 10 Expositions]
 - Geloescht [Dublette von 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Lolvé Tillmanns']: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Anne Pitteloud' [Feed: Platform 10 Agenda]
 - Geloescht [Dublette von 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Lolvé Tillmanns']: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Thomas Binggeli' [Feed: Platform 10 Agenda]
 - Geloescht [Dublette von 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Lolvé Tillmanns']: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Matthieu Ruf' [Feed: Platform 10 Agenda]
 - Geloescht [Dublette von 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Alice Bottarelli']: 'Die Begegnungen zum Buchpreis der Stadt Lausanne: Lolvé Tillmanns' [Feed: Platform 10 Agenda]
-- Geloescht [Dublette von 'Auf den Spuren von Edouard Chapallaz an der EPFL']: 'Vernissage | Edouard Chapallaz' [Feed: Platform 10 Agenda]
+- Geloescht [Dublette von 'Vernissage | Edouard Chapallaz']: 'Edouard Chapallaz' [Feed: Platform 10 Expositions]
 - Geloescht [Dublette von 'Und wir?']: 'Und wir?' [Feed: Platform 10 Agenda]
 
 Ohne KI-Daten uebernommen (0):
 - Keine.
 
 Finale Liste (82 Eintraege):
+- [Museen Bern] [Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.
 - [Museen Bern] [Bern] [Ausstellung] Franz Gertsch. Blow-Up (Part I) - bis 17.01.2027
 - [Museen Bern] [Thun] [Ausstellung] In naher Ferne - bis 29.11.
-- [Museen Bern] [Thun] [Ausstellung] Schnittstellen der Sicht: Hans Gerber und Sabine Hertig - bis 29.11.
 - [Museen Bern] [Bern] [Ausstellung] Fokus. Florence Henri - bis 10.01.2027
 - [Museen Bern] [Bern] [Führung] Mensch, Erde! – Das Klima im Wandel - bis 13.12.
 - [Museen Bern] [Bern] [Ausstellung] Roberto Burle Marx. Modernismo tropical - bis 07.02.2027
@@ -561,14 +647,14 @@ Finale Liste (82 Eintraege):
 - [Museen Bern] [Bern] [Ausstellung] Wissen-Saft – Auf ein Glas mit … Tiger Igor - bis 13.12.
 - [Museen Bern] [Bern] [Ausstellung] Reise in die Freiheit. Capri – Skagen – Monte Verità - bis 31.01.2027
 - [Museen Bern] [Bern] [Ausstellung] Silizium: Von den Alpen ins Silicon Valley - bis 09.12.
+- [Morges Agenda] [Morges] [Vortrag] Verbindungsworkshop: Öko-Anxietät überwinden und gemeinsam voranschreiten - am So 29.11.
 - [Morges Agenda] [Morges] Repair Café - am Sa 28.11.
 - [Morges Agenda] [Morges] [Theater] Improvisationstheater für Kinder - am Sa 28.11.
 - [Morges Agenda] [Morges] [Konzert] Konzert Hommage an Ariel Ramirez - am Fr 27.11.
 - [Morges Agenda] [Morges] [Konzert] Rock-, Funk-, Soul- und Blues-Coverkonzert mit The DEE Band - am Sa 28.11.
-- [Morges Agenda] [Morges] [Theater] Geheimnisse der Medizin - am Do 26.11.
 - [Morges Agenda] [Morges] [Kino] Kurs auf die Welt: Peru - am Fr 27.11.
 - [Morges Agenda] [Morges] [Vortrag] Und wenn die Zeit nicht existieren würde? - am Fr 27.11.
-- [Morges Agenda] [Morges] [Theater] Die Witwe - 27.-29.11.
+- [Morges Agenda] [Morges] [Theater] Die Witwe - bis 29.11.
 - [Platform 10 Agenda] [Lausanne] [Markt] Kleines Weihnachten der Buchhandlungen und Boutiquen von Plateforme 10 - am Sa 05.12.
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Alberto Giacometti und der Sockel
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Caroline Bachmann: Wenn die Sonne...
@@ -626,9 +712,9 @@ Finale Liste (82 Eintraege):
 - [Platform 10 Expositions] [Lausanne] [Ausstellung] Tustiermodell
 - [museum.ch Ausstellungen] [Thun] [Ausstellung] Thun-Panorama: Das Rundbild von Marquard Wocher - bis 29.11.
 - [museum.ch Ausstellungen] [Thun] [Ausstellung] Susanne Keller. Hinterkammer des Auges - bis 29.11.
-- [Platform 10 Agenda] [Lausanne] [Führung] Auf den Spuren von Edouard Chapallaz an der EPFL - am Do 26.11.
 - [Platform 10 Agenda] [Lausanne] [Lesung] Die Begegnungen zum Buchpreis der Stadt Lausanne: Alice Bottarelli
 - [Platform 10 Agenda] [Lausanne] [Führung] Führung: Lucas Erin. Kulturpreis Manor Waadt 2026
+- [Platform 10 Agenda] [Lausanne] [Ausstellung] Vernissage | Edouard Chapallaz
 - [Platform 10 Agenda] [Lausanne] [Führung] Lebhafte Himmel – Japanischer Malworkshop
 - [Platform 10 Agenda] [Lausanne] [Führung] Führung – Matrimoine-Tage
 - [Platform 10 Agenda] [Lausanne] [Vortrag] Runde Tischgespräche: (Wieder)lernen zu sehen
